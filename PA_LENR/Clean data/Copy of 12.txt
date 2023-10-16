@@ -1,0 +1,229 @@
+1. Introduction
+
+One of the major objections to Low Energy Nuclear Reactions is the lack of a model able to explain the possibility that
+two nuclei might be at a short distance for a time sufficiently long to trigger nuclear reactions. The lack of a mechanism
+to overcome of the Coulomb barrier is an argument that dismisses any claim of nuclear reactions. For example, the
+Rossi–Focardi paper [1] is no exception to this objection. Discussing the nickel–hydrogen system, trying to evaluate
+the possibility of nuclear reactions, Rossi and Focardi calculate the tunneling probability P of the proton getting in
+close contact with Ni nucleus using the Gamow formula, which in Evans approximation is [2]:
+where z and Z are the charge values for Ni (Z = 28) and H and β =
+v/c is the ratio between the velocity of the incoming
+particle and the velocity of light. Considering that the kinetic energy can be evaluated as
+where the temperature is about 1000 K, we obtain a kinetic energy of Ec ≈ 0.13 eV. Putting these values in formula (1)
+we obtain an exceedingly small probability of tunneling, which is P ≈ e
+−2440 ≈ 4.7 × 10−1059, a value that does not
+account for the occurrence of nuclear events.
+
+
+2. Binuclear Atoms
+
+In 1991, Cerofolini [3] put forward a theory to explain some experimental results obtained with ion implantation
+experiments. In ion implantation experiments, ions are accelerated at various ranges of energies towards a solid target.
+This process gives rise to, among other things, atom–atom head-on collisions at a broad range of energies, down to the
+eV range when the projectile has lost most of its initial kinetic energy. We here refer in particular to papers [4,5]. In
+summary, various deuterated targets (as an example TiD) are bombarded with clusters of deuterated molecules (as an
+exampleD2O), and deuteron-deuteron fusion rate is measured as a function of the impinging projectiles. The analysis
+of experimental data takes Cerofolini to the hypothesis of a precursor, a metastable state at about 30 eV, which should
+be responsible for the high fusion rate measured: the Binuclear Atom.
+
+In an initial formulation, Binuclear atoms are defined in [6] in the following way: Consider the head-on collision of two atoms with atomic number Z1 and Z2. Particularly interesting is the
+situation of a kinetic energy sufficient to bring the nuclei to a distance smaller than the radius of the most
+bound electron. In this case the electrons can rearrange to assume, at least temporarily, a configuration that
+resembles that of the atom with atomic number Z1 + Z2, because this configuration has a binding energy
+much lower than the one of the two separate atoms. Considering only one electron, being the energy for the
+first orbit of the hydrogen-like atom E(Z) = Z
+2E0, it follows that E(Z1 + Z2) < E(Z1) + E(Z2). This
+excess binding energy can partially balance the internuclear Coulomb repulsion and temporarily stabilize the
+resulting binuclear atom.
+
+After some considerations, Cerofolini concludes that the existence of Binuclear atoms is limited to a few couples of
+light atoms [6].
+In [7], Cerofolini writes: Binuclear atoms are metastable configurations in which two nuclei are held together by the electronic energy
+of the orbiting electrons in an atomic-like configuration. The hydrogen– hydrogen helium-like Binuclear atom
+(H+H+)2e- is explicitly predicted to exist, although the activation energy required for its formation (∼ 30 eV)
+is extremely high for ordinary chemistry, so that it can only be formed under very special conditions such as
+the ones occurring inside a dense collisional cascade. The (H+H+)2e-Binuclear atom is predicted to be
+metastable with a remarkably high activation energy (of several electron volts) for its dissociation. In the
+(H+H+)2e-Binuclear atom, the electronic energy is not a constant of motion and is coupled with the nuclear
+kinetic energy, and the nuclei move with a kinetic energy on the order of 10 eV although they remain localized
+in a region of 0.4 to 0.5a0, where a0 is the Bohr radius (a0 = 0.53 × 10−8
+cm) [7].
+
+So Cerofolini’s idea of Binuclear hydrogen was a short-lived kind of hydrogen, where the two protons are trapped at a
+very short distance and consequently electrons, orbiting in space around a more concentrated positive charge, tended
+to assume helium-like character. This was 1992, long before spectroscopic results of a helium-like hydrogen spectrum
+were obtained and brought to the attention of the scientific community
+Figure 1. Figure is taken from [8]. The short wavelength EUV spectra (5–50 nm) of the microwave cell emission of the helium–hydrogen mixture
+(top curve) and control hydrogen (bottom curve).
+
+
+3. Extreme Ultraviolet Spectroscopy of Helium–Hydrogen Plasma
+
+Randell L. Mills, in his work Extreme ultraviolet spectroscopy of helium-hydrogen plasma [8], is able to show the
+formation of novel hydrogen emission lines (see Fig. 1) of a mixture of 98% helium and 2% hydrogen plasma at
+room temperatures and low pressure. The origin of the new lines cannot be easily determined: trivial explanations
+based on known chemical species of helium or hydrogen compounds are ruled out. The new lines appear only in
+helium-hydrogen mixtures, but not in helium or hydrogen alone, and not in mixtures of hydrogen with other noble
+gases. Experimental data have been replicated in other laboratories. Although helium seems not to be responsible for
+these lines, hydrogen instead shows an anomalous Doppler broadening in its atomic spectrum but at the same time it
+is not clear how a species of hydrogen could bound an electron at a higher energy than the first Bohr energy, which is
+13.6 eV, whereas novel emission lines are at energy higher than 27.1 eV. Mills explains new emission lines with a new
+theory [9], the Hydrino, which should be the new fundamental state of atomic hydrogen.
+
+Yet we can refute this interpretation if we assume a binuclear hydrogen metastable state was formed. Consider that,
+due to the catalytic action of helium, hydrogen Binuclear Atoms are formed in helium–hydrogen plasma. If the two
+hydrogen nuclei are close enough, electrons orbiting around them can rearrange taking helium characteristics, hence
+the origin of helium-like hydrogen spectrum.
+
+Looking more closely at the energy diagram of the new hydrogen peaks, taken from Fig. 1, we can appreciate that
+the diagram formed (see Fig. 2) is similar to a parabola. Recall that the eigenvalue structure E ≈ n2 is characteristic of
+a particle in an infinite square well. This could indicate that the two protons get trapped in a potential well when their
+distance r → 0. Since we are outside the realm of the Born–Oppenheimer approximation, what we see here should be at the same time the electronic and nuclear eigenvalue, because electronic and nuclear motion should be strongly
+coupled.
+
+Before leaving the Mills work, let us add a final important remark which we will recall later. These results have
+been replicated in different laboratories [10], where an anomalous broadening of hydrogen Balmer lines has been
+observed, and according to Mills [8] the average hydrogen atom temperature is 180–210 eV versus ≈ 3 eV for pure
+hydrogen (see Fig. 3 for details). An abnormal high protonic kinetic energy is a common feature that introduces us to
+the next experimental result: ultra dense hydrogen.
+
+
+4. Ultra Dense Hydrogen
+
+Working with Rydberg Matter, Prof. Holmlid is able to obtain in his laboratory a distinctive form of ultra dense
+hydrogen and deuterium with the following surprising characteristics: the two nuclei possess a kinetic energy up to
+1000 eV and supposedly lie at a distance of the order of 10−2 A [11]. The lower range of energies measured by
+Holmlid overlaps with the high range of energies found from Mills for helium-like hydrogen spectra
+
+Rydberg matter [12] is a state of matter formed by Rydberg atoms, which are atoms where the outermost electrons
+are found in excited planar circular orbits. Planar clusters of these atoms share these peripheral electrons that are
+loosely bound to the internal core of atoms. Rydberg electrons in the cluster are delocalized in a conduction band as
+in a metal.
+
+Being in this way, normal bound distances in Rydberg matter are of the order of 10 A and more. On the contrary,
+the structure of ultra dense hydrogen or deuterium appears different from ordinary Rydberg matter: the main problem
+is how to cope with the behavior of electrons in this structure. If nuclei are at a such short distance, how could electrons,
+orbiting in a very large orbit far away from nuclei, screen the nuclei Coulomb repulsion?
+
+Needless to say, Prof. Holmlid proposes for ultra dense hydrogen a different kind of Rydberg matter based on spin
+(see Fig. 4). Anyway, we propose that ultra dense hydrogen is a form of Binuclear Atom, that is able to form, thanks
+to the interaction with the surface of Fe catalyzer used. A very interesting paper explains how a metallic surface can
+bring two charges of the same polarity to small distance that can be orders of magnitude smaller than the equilibrium
+separation of the pair potential minimum [13]. Maybe the metallic surface can have a catalytic action in both Rossi and
+Holmlid environments bringing pair of protons to small distances, where the Binuclear atom state may be triggered.
+Figure 3. Figure is taken from [8]. The 656.3 nm Balmer α line width recorded with a high resolution (±0.006 nm) visible spectrometer on
+helium–hydrogen (90/10%) and hydrogen microwave discharge plasmas. Significant broadening was observed from the helium–hydrogen plasma
+corresponding to an average hydrogen atom temperature of 180–210 eV compared to ≈ 3 eV for hydrogen alone.
+Figure 4. Ultra dense hydrogen structure proposed from Prof. Holmlid – see [9].
+
+
+5. Discussion
+
+Due to the lack of a known analytical formula, the solution to the equation for the hydrogen molecule has to be
+found numerically. Since 1964, with the work of Kolos and Wolniewicz, the wavefunction is determined solving the
+Schrödinger equation for the following Hamiltonian without assuming the Born–Oppenheimer approximation, i.e.,
+treating protons and electrons on equal footing [14-19]: where indices i and j span over all four particles, ⃗rij is the vector from particle i to particle j. We use atomic units i.e.
+q = me = h = 1 and the fine structure constant α
+−1 = c ≈ 137. A solution of the Schrödinger equation H0ψ = Eψ is
+variationally determined that, at this level, does not yet take into account spin, relativistic or QED effects. Being small,
+these corrections can be handled as a standard procedure using perturbation theory: the corrections are evaluated as an
+expectation value of the Hamiltonian describing the perturbation with the unperturbed wavefunction obtained before.
+Using this schema, the corrections to the energy determined using the H0 Hamiltonian, may be ordered in terms of
+powers of the fine structure constant in the following way: [18,20]
+Each E(n) contains the correction of the order α
+n: E(0) is the eigenvalue of the non relativistic Schrödinger equation,
+H0, whereas E(2) is the expectation value of the Breit–Pauli Hamiltonian, E(3)
+, E(4) and following are the various
+orders of QED contributions. For the purpose of this work it is sufficient to stop at the Breit–Pauli Hamiltonian level
+which is composed of several terms: where the various components are: HMV is the mass–velocity term, HDW is the Darwin term, HOO the orbit–orbit
+interaction, HSO the spin–orbit interaction, finally HSS is the spin–spin interaction term.
+
+For our goal, it is sufficient to examine in detail the corrections relative to the two protons only in the case depicted
+in Fig. 5. We derive our formulas from a symmetric approach to the Breit–Pauli Hamiltonian as can be found in
+[21] considering that for a motion around the common center of mass we have ⃗p1 = −⃗p2 (see Fig. 5). Here ⃗r is the
+proton–proton distance, m the proton mass, µ = eg⃗s/(2m) its magnetic moment. The superscript pp means that this
+is the correction due to protons only. Obviously these corrections are exceedingly small if compared to the electronic ones due to the proton squared mass
+at the denominator, which lowers the nuclear contribution by six orders of magnitude
+Figure 5. Two protons rotating around the common center of mass with parallel spin.
+
+But what is interesting to observe, and is the core of this paper, is the functional form of these corrections and their
+behavior compared to the Coulomb repulsion 1/r when r → 0. As we can see, the three expressions H
+are asymptotic to 1/r , 1/r2 , 1/r3
+respectively. So, depending on how spins are mutually oriented, the
+SS changes consequently. Anyway, for r → 0 the leading term seems to be H, that, in case
+of opposite protonic spin goes to −∞ for r → 0 as 1/r3. As we have said, Breit–Pauli Hamiltonian is an expression
+that has to be used in perturbative way, and as such it represents the first order correction to expression H0 (2) for
+nuclear velocity and spin. Consequently, it is not correct to extrapolate system behavior for r → 0 which is a condition
+very far from the Born–Oppenheimer minimum we are describing through use of H0 Hamiltonian (2). But if we take
+the Breit Pauli Hamiltonian as an indication, we may speculate that the energy of the system may somehow lower for
+r → 0, thus creating a potential well for the two protons at a smaller distance than the usual hydrogen bond length.
+This fact should be investigated with a stronger theoretical method such as, for instance, a suitable version of the Dirac
+equation.
+
+If such a bound state exists, it should be called “Binuclear Atom” and it should present features similar to heliumlike hydrogen Spectra and ultra dense hydrogen together. The reason is simple: two protons orbiting very near in space
+would produce an electric field similar to the one produced by the helium nucleus. Moreover, because we are not in
+Born–Oppenheimer conditions, the nuclear excited state directly modifies electronic eigenvalues as well, originating
+high energy lines of the spectrum. As far as ultra dense hydrogen is concerned, we have to recall that a Binuclear atom
+should be characterized by the axis of rotation of protons. This anisotropy could be at the same time cause and effect
+of a magnetic field and, depending on the formation mechanism, it would be possible to find several Binuclear Atoms
+stacked in columns as proposed by Holmlid (Fig. 4).
+
+
+6. Closing Remarks
+
+We have tried to show that the Binuclear atom model is able to explain different distinctive experimental results. The
+existence of helium-like hydrogen spectra, which occur only in helium–hydrogen mixed plasma, points to a formation
+of a metastable form of hydrogen characterized by a high protonic kinetic energy and helium-like electronic spectrum.
+On the other hand, the evidence of ultra dense hydrogen may be interpreted as the formation, through the assistance
+of a metallic surface, of another metastable hydrogen characterized by a very short proton–proton distance and a very
+high kinetic energy.
+
+Last but not least, we can consider the consequences of ultra dense hydrogen in Rossi Ecat. If nickel lattice surface
+is able to form Binuclear atoms, we may recalculate through the Gamow formula the probability that hydrogen gets in
+contact with nickel nucleus. Using an energy value for protons of ≈ 1000 eV instead of ≈ 0,13 eV [1,9], the calculated
+probability value becomes P ≈ 10−12. This is a rather different value than the Rossi and Focardi one, and could
+account for the occurrence of nuclear reactions
+
+
+References
+
+S. Focardi and A. Rossi, A new energy source from nuclear fusion, http://www.journal-of-nuclear-physics.com/files/RossiFocardi_paper.pdf accessible from http://www.journal-of-nuclear-physics.com/, March 22, 2010.
+[2] R.D. Evans, The Atomic Nucleus, Mcgraw-Hill, New York, 1955, p. 876.
+[3] https://www.researchgate.net/publication/270633260_Editorial_In_Loving_Memory_of_GianFranco_Cerofolini.
+[4] G.F. Cerofolini, R. Dierckx, A. Foglio Para and G. Ottaviani, Deuterium–deuterium fusion by an activated precursor, Il
+Nuovo Cimento 13D (11) (1991) 1347–1359.
+[5] G.F. Cerofolini, F. Corni, G. Ottaviani and R. Tonini, Search for nuclear reactions produced by the impact of heavy molecular
+ions onto LiD, Il Nuovo Cimento 105 A (5) (1992) 741–750.
+[6] G.F. Cerofolini, Can binuclear atoms be formed in head-on atomic impacts at moderate energy? J. Phy. Chem. 96 (1992)
+3298. http://pubs.acs.org/doi/abs/10.1021/j100187a023.
+[7] Gian Franco Cerofolini and Armando Foglio Para, Can binuclear atoms solve the cold fusion puzzle? Fusion Sci. Technol.
+23 (1) (1993) 98–102. Abstract at http://www.ans.org/pubs/journals/fst/a_30124.
+[8] R. Mills and P. Ray, Extreme ultraviolet spectroscopy of helium-hydrogen plasma, J. Phys. D: Appl. Phys. 36 (2003) 1535–
+1542.
+[9] http://brilliantlightpower.com/book/.
+[10] Jonathan Phillips, Chun-Ku Chen and Toshi Shiina, Evidence of catalytic production of hot atomic hydrogen in rf generated
+hydrogen/helium plasmas. https://arxiv.org/pdf/physics/0509127.pdf.
+[11] Leif Holmlid, Excitation levels in ultra-dense hydrogen p(-1) and d(-1) clusters: Structure of spin-based Rydberg matter, Int.
+J. Mass Spectrometry 352 (2013) 1–8.
+[12] https://en.wikipedia.org/wiki/Rydberg_matter.
+[13] Nabil M. Lawandy, Interactions of charged particles on surfaces, Appl. Phys. Lett. 95 (2009) 234101.
+[14] S. Bubin and L. Adamowicz, Variational calculations of excited states with zero total angular momentum (vibrational spectrum) of H2 without use of the Born–Oppenheimer approximation, J. Chem. Phys. 118 (2003) 3079.
+http://sergiybubin.org/docs/publications/bubin_jcp_118_3079_2003.pdf, http://dx.doi.org/10.1063/1.1537719.
+[15] D. Kedziera, M. Stanke, S. Bubin, M. Barysz and L. Adamowicz, Darwin and mass–velocity relativistic corrections in the non-Born–Oppenheimer calculations of pure vibrational states of H2, J. Chem. Phys. 125 (2006) 014318.
+http://sergiybubin.org/docs/publications/kedziera_jcp_125_014318_2006.pdf, http://dx.doi.org/10.1063/1.2236113.
+[16] M. Stanke, D. Kedziera, S. Bubin, M. Molski and L. Adamowicz, Orbit–orbit relativistic corrections to the pure vibrational
+non-Born–Oppenheimer energies of H2, J. Chem. Phys. 128 (2008) 114313.
+http://sergiybubin.org/docs/publications/stanke_jcp_128_114313_2008.pdf,
+http://dx.doi.org/10.1103/PhysRevA.77.062509.
+[17] S. Bubin, F. Leonarski, M. Stanke and L. Adamowicz, Non-adiabatic corrections to the energies of the pure vibrational states of H2, Chem. Phys. Lett. 477 (2009) 12. http://sergiybubin.org/docs/publications/bubin_cpl_477_12_2009.pdf,
+http://dx.doi.org/10.1016/j.cplett.2009.06.060.
+[18] K. Pachucki, M. Puchalski, J. Komasa and P. Czachorowski, Complete α
+6m corrections to the ground state of H2, Phys.
+Rev. Lett. (2016), in print. http://www.fuw.edu.pl/ krp/papers/h2_ma6.pdf.
+[19] K. Pachucki and J. Komasa, Schrodinger equation solved for the hydrogen molecule with unprecedented accuracy, J. Chem.
+Phys. 144 (2016) 164306. http://www.fuw.edu.pl/ krp/papers/naH2.pdf.
+[20] T. Helgaker, S. Coriani, P. Jörgensen, K. Kristensen, J. Olsen and K. Ruud, Recent advances in wave functionbased methods of molecular-property calculations, Chem. Rev. 112 (2012) 543–631, DOI: 10.1021/cr2002239
+http://folk.uio.no/helgaker/reprints/ChemRev_112_543_2012.pdf.
+[21] K. Pachucki, Theory of forbidden transitions in light atoms, Phys. Rev. A 67 (2003) 012504.
+http://www.fuw.edu.pl/ krp/papers/beryl.ps.gz.
+

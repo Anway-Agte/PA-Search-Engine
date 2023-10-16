@@ -1,0 +1,155 @@
+
+A LARGE SOLID ANGLE MUL TIPARAMETER NEUTRON DETECTORPulse shape discriminator channels 
+
+G. Ricco, M. Anghinolfi, P. Corvisiero, P. Prati and M.Taiuti
+Dipartimento di Fisica and INFN,via Dodecaneso 33, 16146, Genova, Italy C. Boragno; R. Eggenhoffner, U. Valbusa
+Dipartimento di Fisica and INFM,via Dodecaneso 33, 16146, Genova, Italy
+
+
+Abstracts
+
+We present the results of recent measurements, performed in Genoa
+with a novel neutron detector, on some titanium-deuterium systems. In
+spite of the good detector sensitivity, better of the one claimed by
+Jones and co-workers, no neutron emission was foun
+
+
+Introduction
+
+
+After the first claims about the so called "cold fusion" phenomenum
+[1,2,3]a new, multiparameter, high efficiency neutron detector [4] was
+specifically designed in Genoa for cold fusion measurements and used
+in some typical experiments on titanium-deuterium gas systems. Our
+aim was to verify, with an improved neutron sensitivity, the results
+reported by Scaramuzzi and co-workers [3] and to investigate neutron
+emission during high deuterium adsorption in the titanium lattice. cylindrical sample can be inserted in the central hole. The NE213 light
+pulse has different decay times when produced by gamma rays or by
+neutrons: a pulse shape discriminator, oper ating on the inner
+scintillator pulses, efficiently separates gamma from neutron events.
+Due to the relatively large detector dimensions, a very high fraction of
+neutrons giving a signal in the liquid scintillator thermalizes and is
+captured by cadmium foils. Each neutron event in the liquid scintillator
+gives the START to a Time-to-Amplitude Converter that will wait 200
+μs for the STOP from gammas rays produced by neutron capture on one
+cadmium sheet and detected by at least one of the three coaxial
+scintillators. A neutron event is identified by two consecutive trigger
+signals: the first corresponding to a neutron type pulse in the liquid
+scintillator and the second to the detection of capture gamma rays
+within the 200 μs time window. For each event the linear amplitude of
+the summed three scintillators pulses, proportional to the neutron
+energy, is recorded. The acquisition system, based on a CAMAC
+interface connected to a MICROVAX computer, allows off-line
+multiparameter analysis: as an example in fig. 2 is shown the pulseshape
+and pulse-height correlation. The signals from the scintillators
+are stored on the computer each minute: in this way time trends can be
+monitored. The detection efficiency for 2.45 MeV monochromatic
+neutrons turned out (12.5 ± 0.5) %. For neutron energies below 2.45 MeV
+the background rate is 1 o- 2 n/s and the detection sensitivity turns out
+to be 2.4 ·T-112 n/s, where T is the measure time.
+
+The system used to load titanium with deuterium gas is sketched in fig.
+3. Before admit 0 2 gas in the cell, the system was evacuated up to 1 o- 6
+mbar by a turbomolecular pump. In a second step the gas was inserted
+in the dead volume (200 cc) flowing through a liquid nitrogen trap to
+promote impurities condensation. Finally, the gas was admitted in the
+cell through the valve V4. A manometer, with sensitivity 0.2 bar, was
+used to measure the pressure drop vs. time and then to estimate the adsorption rate of the titanium.
+
+
+Experimental Set-up
+
+As shown in fig. 1 the detector is composed of three cylindrical coaxial
+scintillators shells, each shell being 20 cm long and about 5 cm
+thick [4]. The inner shell is filled with NE213 liquid scintillator and the
+outer two are plastic NE102A. Cadmium sheets 1 mm thic k are
+interposed between the scintillators to capture neutrons thermalized
+inside the detector. An anticoincidence cosmic ray detector is placed
+over the neutron detector and the whole system is surrounded by a
+paraffin {20 cm) +c opper {2 cm)+lead {10 cm) wall. A 30 cm
+
+Measurements 
+
+We have performed measurements with two kinds of titanium samples: 
+shavings and powders [5]:
+
+a) Tjtanjum shayjngs: 24 g of titanium shaving were placed inside the
+cell without any kind of thermal treatment. The dead volume was then
+filled, at room temperature, with deuterium gas at a 16.5 bar pressure
+and the valve connecting the dead volume with the cell was opened:
+neither pressure nor cell temperature variations were observed. In
+these conditions a 5 h measurement was performed and the neutron
+rate turned out compatible with the background level. After this first
+step the liquid nitrogen was admitted in the cryostat: the cell
+temperature went down to 77 K in about 1 0 minutes, then the liquid
+nitrogen was closed and the temperature went back to room
+temperature in about 4 hours. This thermal cycle was repeated
+consecutively 4 times. During all the cycles neither pressure variation
+nor neutron emission were observed. We assumed a deuterium
+absorption corresponding to the minimum pressure variation detectable
+with our system (0.2 bar): the parameter "fus• defined as the fusion
+rate per deuteron pair, turned out lower than 1 o- 23 fus/D pair/s. 
+
+b) Tjtanjum powder: 32 g of titanium powder were inserted in the cell
+and degassed by pumping and heating 2 h at 200 °c. Temperature was
+eventually raised up to 560 °C and the cell was maintained at this
+constant temperature in high vacuum conditions for approximately 7 h.
+
+The sample was then inserted in the detector and the dead volume was
+filled with 16 bar of deuterium gas. When the deuterium was admitted
+in the cell the pressure went down to zero bar in a few minutes and
+the cell temperature increased up to 600 C0
+
+• During this fast transient
+
+a neutron measurement was performed but no emission was detected.
+
+Then, a longer measurement (15 hours) was performed holding the 
+s stem in the same conditions, once again no neutrons emission was 
+observed. After this first loading the dead volume was filled again with 
+10 bar of deuterium gas: when the deuterium was admitted in the cell 
+_the pressure in the dead volume went down to 8 bar and the cell 
+
+temperature increased by 4 C0
+
+• We concluded that the sample was now 
+loaded of deuterium at the maximum level and in these condition-s we 
+performed .the following measurements: 
+- a 10 hours run with the titanium-deuterium system in stationary
+
+conditions
+- two consecutively runs during thermal transients induced by filling
+the cryostat with liquid nitrogen.
+
+During all the measurements no neutron emission was observed: since
+we evaluated, from the dead volume pressure variation, a deuterium to
+titanium ratio in the sample of about 0.65, the Afu,s parameter in these
+runs was lower than 1 o- 25 fus/D pair/s. 
+
+
+Conclusions 
+
+Some measurements on deuterium-titanium systems were performed 
+without observing any neutron signal above the background level also 
+with a high deuterium absorption inside the titanium lattice. The 
+experimental conditions was very similar, but not completely 
+equivalent, to those of Scaramuzzi and co-workers [3]: in particular the 
+thermal transients induced in the cell was slower and the 
+multiparameter analysis performed on the detector signals had a dead 
+time of 200 µs. 
+
+
+References 
+
+[1] S. E. Jones, E. P. Palmer, J. B. Czirr, D. L. Decker, G. L. Jensen, J. M.
+Thorne and S. F. Taylor: Nature, 338,737 (1989)
+[2] M. Fleischmann, S. Pons and M. Hawkins: J. Electroanal. Chem., 261,
+187, 301 (1989)
+[3] A. De Ninno, A. Frattolillo, G. Lollobattista, L. Martinis, M. Martone, L.
+Mori, S. Podda and F. Scaramuzzi: Europhys. Lett., 9, 221 (1989)
+[4] G. Ricco, M. Anghinolfi, P. Corvisiero, E. Durante, S. Maggiolo, P.
+Prati, A. Rottura and M. Taiuti: "A large solid angle multiparameter
+neutron detector", Nucl. Instr. and Meth., in press.
+[5] P. Prati, G. Ricco, M. Taiuti, C. Boragno, R. Eggenhoffner and U.
+Valbusa: "Search for neutron emission from titanium-deuterium
+systems", to be published.

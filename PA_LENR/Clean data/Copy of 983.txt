@@ -1,0 +1,242 @@
+Introduction
+
+In many experimental papers [1,2] concerning the behaviour of certain systems consisting of
+metals, like palladium or nickel, highly loaded with hydrogen isotopes, it is stated that low
+levels of nuclear radiation have been detected, which suggests the existence of very low rate
+nuclear reactions in condensed mater. The possibility of nuclear reactions in condensed matter
+is commonly denied, because the Coulomb barrier between two approaching hydrogen
+isotope nuclei is impenetrable at very low energies. The energy fluctuations of the deuterons
+are analysed further on.
+
+
+The computed energy distribution
+
+The cteuteron trapped in the metallic lattice will interact with the ions in the elementary cell
+where it is located, as a general rule. Still, some metals like palladium present a very high
+value for the diffusion constant. The high values are explained by Bush in the frame of the
+TRM model [3, 4], involving a solid state effect produced by the periodical potential barriers,
+which makes the deuteron to "flow" resonantly through them, for certain values of the
+velocity.  
+
+With this considerations, a deuteron has been considered to interact with the ions of the 
+metallic lattice through elastic collision in one dimension, therefore the shape of the screened 
+coulomb barrier does not change the results. The number of the ions the deuteron collides has 
+been considered to be larger then the number of the low order neighbours, because the 
+deuteron travels through the metal, as explained in (3, 4]. 
+
+A number of 63981 target ions have been considered to form the statistical collection. First 
+the energy range between 0 and 9k6 T has been divided in 1000 intervals and the number of 
+ions having the energy in each interval has been computed, so that they obey a Maxwell 
+distribution for their velocities. Then the energy of each target ion has been registered in a 
+file. 
+
+The deuteron has been considered to have an initial energy of 3ks T/2, where ks is the 
+Boltzman's constant and T the temperature of the presumed sample, and it collides the target 
+ions in a succession chosen randomly by the computer, which makes this simulation to be of a 
+Monte - Carlo type. The target energy after the elastic collision in one dimension has been 
+considered as the initial target energy in the next collision of the deuteron with that particular 
+ion and has been recorded back in the file. The deuteron velocity and energy after each 
+collision have been recorded in another file and considered as the energy and velocity for the 
+next collision. The total number of collisions of the deuteron with the target ions was 
+1279620, so that, as an average, each target ion has been collided twenty times. 
+
+
+Energy fluctuations 
+
+During the computer experiment the values of the energy of the deuteron have been 
+recorded after every collision. Ifwe define an energy fluctuation to be the sequence when the 
+deuteron has a higher energy then Emm and is remains so over the time of at least Nmin
+collisions, it can be identified from the record of the values of the energy of the deuterons 
+after each collision. The number Nn of the energy fluctuations which occurred during the 
+computer experiment concerning collisions with ions having the mass number A=I00, for 
+several values of the above-mentioned parameters, are presented in the table I. 
+
+As expected, the number of fluctuations occurring in a system containing deuterium and 
+ions with a larger atomic number, is lower as the lower energy limit considered for the 
+fluctuation is higher and as the minimum time considered for the fluctuation to be counted is 
+larger. Still, accordingly to the first row of the table, over at least 353*200 collisions the 
+deuteron presented a kinetic energy higher than 1.55 eV, which means more 5.5% of the 
+whole time. 
+
+Table I 
+
+
+Discussions 
+
+The simple model presented in this article predicts the existence of the energy fluctuations for 
+a considerable time inteival. A more realistic model, considering realistic collisions between 
+the deuteron and the target ions have been published [8], and the prediction of energy 
+fluctuations is also stated. Still, it would be premature to use the energy distribution predicted 
+by the simple model presented here in assessing the low energy nuclear reaction rates in 
+condensed matter. 
+
+It is worth noticing that in condensed matter nuclear reactions are produced in a different 
+manner because the nuclei approach in a rich negative charge environment. If the metallic 
+lattice is loaded with deuterium at a loading ratio close to 1, as the sample is electrically 
+neutral, for each deuteron an electron is added to the sample, therefore the concentration of 
+the ''free" electrons in the conduction band should be considered to be double relative to the 
+normal one [9]. As it has been presented in many published works like [5 - 7], the electrons 
+are screening the Coulomb barrier of the two approaching nucle� which considerably 
+increases the barrier penetration probability. 
+
+The effect of the energy fluctuations, combined with a considerable increase of the 
+Coulomb barrier penetration probability might lead to a very low and unsteady rate of low 
+energy nuclear reactions produced by the hydrogen isotopes in condensed matter, in the 
+classical known manner. 
+
+It must be underlined that the nuclear reactions "catalysed" by the rich electron 
+environment, presenting a very low rate, enhanced by the energy fluctuations, are not 
+responsible for the low energy nuclear transmutations and for the excess energy reported in 
+many experimental papers [l] but they can be the source of the very low levels of nuclear 
+radiation which accompany the processes, still incompletely understood, connected with 
+hydrogen isotopes loaded in certain metals at very high ratios. 
+
+
+References 
+
+1. E. Storms, Journal of Scientific Exploration vol. 10, June 1996.
+2. G.H. Miley, Proc. 2nd International Conference on Low energy Nuclear Reactions, Texas
+A&M, September 13-14, 1996. 
+3. R. T. Bush, Fusion Technology 19,313, 1991.
+4. R.T. Bush, Fusion Technology 20,239, 1991.
+5. V.I. Goldanskii, F.I. Dalidchick, Phys. Lett. B 234, No. 4,465, 1990.
+6. C.J. Horrowitz, The Astrophysical Joumai 367, 288, 1991.
+7. D. Chicea, Proc. The Sixth International Conference on Cold Fusion, ICCF6, Hokkaido,
+Japan, October 13-18, 1996. 
+8. KR. Rao, S. L. Chaplot, Fusion Technology vol. 30, pg. 355, Dec. 1996.
+9. D. Chicea, article accepted to be published in the Supplement of the Balkan Physics
+Letters, 1998. 
+
+
+ABOUT DEUTERIUM NUCLEAR REACTION RATE IN CONDENSED MATTER 
+
+
+Introduction 
+
+The announcement of Drs. Fleischman and Pons, early in March 1989, that nuclear fusion 
+reaction between deuterium nuclei occurred at the room temperature [ 1] marked the 
+beginning of a long saga. Thousands of experiments, of an ove1whelming variety [2], 
+starting with the simple one to reproduce the electrolysis experiment and ending with 
+complex multilayer cathodes, have been performed all over the world, in the effort to 
+understand all the odd aspects of the phenomena, whose existence is no longer questioned 
+[3]. Many articles like [4], [5], [6], [7], point out that nuclear transmutations should be 
+associated with this peculiar behaviour. The possibility of two nuclei to undergo a nuclear 
+reaction in condensed matter is analysed further on. 
+
+
+The Nuclear Reaction Rate 
+
+For the beginning the volume nuclear reaction rate of the bare deuterium nuclei trapped in 
+a metallic lattice is assessed, in a simple manner, considering that half of them are incident 
+toward the others /8/: 
+
+where P(v) is Coulomb barrier penetration probability, PM(v) is the Maxwell distribution of
+the deuterons, v is the velocity, and c
+l the pre-exponential factor, as described in [8], where:
+
+a0 = 10·24 cm2 for reactions (a,b) and a0 = 10·
+30 cm2 for (a,y) 
+
+The reaction rate has been integrated using a computer programme written for this
+purpose. A value of the magnitude 10·211 reactions /m3·s has been found for the bare
+deuterium nuclei. This cvasi-null reaction rate is obviously not detectable by any of the
+available procedures; it is considered that the lower detectable limit for a nuclear reaction
+rate is 10·3 cm·3.s·1 [8].
+
+
+The Effect of th.e Electron Screening 
+
+The approaching deuterium nuclei trapped in a metallic lattice will move towards each
+other in a rich negative charge environment caused by the cvasi - free electrons in the
+conduction energy band. A simple model to describe the screening effect of the Coulomb
+barrier caused by the electrons in a metal is presented.
+
+The Debye length 10 in a plasma is the size of the possible displacement of a layer of
+electrons which moves aside from the layer of positive ions as the result of a fluctuation and
+can be assessed by equalling the electric potential energy to the average thermal kinetic
+energy. It can be found [9] that:
+
+where k is the Boltzman' s constant, e the electric charge of the electron, no the "free"
+electron concentration and Eo is the permittivity of the free space.
+
+The potential used for the screened Coulomb barrier, inspired from [10], is plasma - like
+screening potential, where the screening parameter is the Debye length. The screened
+Coulomb potential between two approaching deuterons will be:
+
+V(r)= e
+•exp(-�) 
+41l'e0r 
+Iv 
+
+where r is the distance between the nuclei and lo is the Debye length, given by [9]:
+
+where k is the Boltzman' s constant, e the electric charge of the electron, no1he "free" electron
+concentration and Eo is the permittivity of the free space. The effect of the increasing the
+''free" electron concentration is to reduce the Debye length and therefore enhance the 
+screening effect and increase the nuclear reaction rate. 
+
+The penetration probability is strongly enhanced from 1 o-soo at thermal kinetic energy for 
+the bare deuteron, to 10 
+for a normal concentration of no = 6,25· 10 
+m-3, which is the
+''free" electron concentration in palladium 
+
+It is worth noticing that that when a metal is loaded with hydrogen isotopes to a loading 
+ration of one deuterium atom to one metal atom, as it is reported in many papers on the 
+subject [l], because the sample is electrically neutral, the concentration of ''free" electrons is 
+approximately double, so a value ofn0 = 1,25·10 m-3 should normally be considered in the 
+calculations. Also it should be noted that higher ''free" electron concentration zones can exist 
+near the surface of a metal which is the subject of a negative electric potential, due to the 
+capacitor effect, as is presented in [11, 12]. 
+
+The nuclear reaction rate of the deuterons encountering a screened electric potential in a 
+metal's lattice, is assessed in the same manner as for the unscreened Coulomb potential, 
+using ( 1 ), and the results are presented in table 1. 
+
+Table 1 
+
+
+Discussions 
+
+The computed values of the nuclear reaction rate in condensed matter presented in the 
+table reveal that the rate increases very fast with the ''free" electron concentration, actually it 
+increases 106 times when the electron concentration doubles it's value from the normal one. 
+Above all, the nuclear reaction rate predicted by this model can reach high enough values to 
+be detectable, in certain regions where the electron concentration is high enough. 
+
+The model strongly overestimates the nuclear reaction rate, because the screening 
+parameter is very small and because it uses an approximation for the low energy reaction 
+cross section, as presented in (2), therefore the results presented here should be considered 
+only as a simple estimation of the reaction rates. With this in mind, it is worth noticing that 
+the nuclear reactions at very low energies, in condensed matter, should be considered in a 
+completely different manner than in free space between heavy ions, and that, in certain 
+circumstances, for porous or grainy samples which are subject to a negative electric potential 
+and are heavily loaded with deuterium, very low nuclear radiation level might be detected 
+[11, 12]. Such regions with high electron concentrations can represent a significant part of 
+the cathode volume in systems like the Miley - Patterson metal coated beads, either simple 
+coated, represented by the layer near the surface where the excess negative electric charge is 
+located in, or the multi-layer beads, where a region with high electron concentration exists at 
+the contact between different metals due to the different Fermi levels [4 - 7]. 
+
+The very low value of the nuclear reaction rate could stand for the very low tritium 
+and neutron levels detected in some experiments, but not for the excess energy which 
+accompanied the loading of deuterium in palladium or titanium, in many experiments [2]. 
+
+
+References 
+
+I. M. Fleischman, S. Pons, M. Hawkins, J. Electroanalyt. Chem 261,1989, 301.
+2. E. Storms, Journal of Scientific Exploration vol. 10, June 1996.
+3. VA Chechin, VA Tsarev & all, Int. J. of Th. Physics vol. 33, no.3, 617, 1994.
+4. G.H Miley, Proc. ILENR-2, Texas A & M, 13-14, September 1996.
+5. G.H Miley, J.A Patterson, J. New Energy 1, Vol. 1, 1996.
+6. G.H Miley, J.A Patterson, Progress in New Hydrogen Energy, Vol. 2,629, 1997.
+7. G.H Miley, E.G.Batyrbekov, H Hora & all, Cold Fusion Source Book, Minsk, Belarus,
+8. VJ. Goldanskii, F.I. Dalidchick, Phys. Lett. B 234, No. 4,465, 1990.
+9. J.G. Linhart, "PLASMA PHYSICS", EURATOM, 1969.
+10. C.J. Horrowitz, The Astrophysical Journal, 367, 288, 1991.
+11. D. Chicea, Cold Fusion, Issue No. 14, 2-3, 1995.
+12. D. Chicea, Proc. ICCF-6, Hokkaido, Japan, 13-18 October 1996.
+Acknowledgements 
+I am grateful to Dr. Gheorge Vasaru, Professors Onuc Cozar and Liviu Daraban, Dr. Peter 
+Gluck for their direct help, and fruitful discussions. 

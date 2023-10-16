@@ -1,0 +1,134 @@
+Introduction.
+
+The results of the investigation of cold nuclear fusion by M. Fleischmann and S.
+Pons published in 1989 [1] are not accepted by scientific community until now because of rather
+small amount of products of nucleus reactions and difficulties with reproduction of their
+experimental results in other laboratories. The aim of our work is to develop experimental
+equipment capable of synthesizing essential amount of such products. Our idea is based on the
+assumption that the composition and the structure of the material saturated by deuterium may
+have an essential influence on the processes occurring in the solid body at low energy reactions.
+On our opinion, the intrinsic properties of the metallic matrix determine not only the ability of
+the material to accumulate deuterium but also the possibility for deuterium nucleus to move and
+interact.
+
+In our work [2] we have reported on the results of deformation of titanium saturated
+with deuterium and on the process of saturation. It was concluded that the results
+depend on the initial structure of the sample. On the basis of the analysis of our results
+and the results available in the literature, we have proposed a mechanism of nuclear
+fusion via tritium channel [3].
+
+To confirm the proposed mechanism one should carry out an experiment on generation
+of a large number of products of low energy reactions. Our experimental setup is based
+on the following prerequisites:
+1. the synthesis of cold fusion products should be continuous,
+2. the experiments should be performed at high temperature in order to
+increase the rate of deuterium diffusion,
+3. it is necessary to provide a directed motion of deuterium through metal.
+
+The simplest possibility to satisfy all three conditions is to conduct the experiment in
+the gaseous atmosphere of deuterium. Since the process takes place at the metal surface
+[4], the reaction should be facilitated during deuterium diffusion through a membrane.
+The directed motion can be achieved by a glow discharge at one side of the membrane. 
+
+
+Experimental procedure.
+
+In Fig. 1, the experimental equipment is schematically
+shown.Fig. 1. Schematic of the experimental equipment: 1 reaction chamber, 2 ceramic tube, 3
+nichrome curl of the furnace, 4 stainless steel cylinder, 5 Pd membrane, 6 high voltage
+vacuum feedthrough, 7 anode, 8 low voltage vacuum feedthrough, 9 control
+thermocouple, 10 measuring thermocouple, 11 adjustable power supply of the furnace,
+12 adapter, 13 computer
+The structure of a palladium foil
+(Pd -99,8) having thickness of s =
+0.1 mm was processed in
+accordance with the principles
+developed in [2]. The disk type
+membrane was sealed in the tube
+made of stainless steel. The
+induction furnace provides heating
+of the tube up to T=7000 C. After
+vacuumization of the reactionary
+volume, it was filled with
+deuterium under P<0,07 MPa.
+Glowing discharge was applied
+(DC), (I=40 ma, U=350 v)
+
+Mass-spectrometric analysis of gas content before and after the process was made on
+the mass-spectrometer “Thermo Finnigan MAT 95 XP” (the resolution R=10000, the
+scanning range of mass numbers 1 – 18, the ionization energy 70 eV).
+The concentration of tritium was measured by a scintillation method according to the
+procedure described earlier [2].
+
+For the level of neutrons and gamma-quanta measurement a spectroscopic radiometer
+SRPS-2 was used. The threshold level of neutrons Nпн = 30±2 1/50 sec and gammaquanta Nпг = 700±15 1/5 sec was not exceeded during the experiment.
+
+
+Experimental results.
+
+Temperature in the vicinity of the membrane was recorded constantly
+and it is shown in Fig. 2. It can be seen that after two hours the temperature starts to fluctuate,
+while the discharge current remains constant.
+
+Fig. 3 shows
+temperature fluctuations in
+an increased scale. The
+fluctuations are not stable
+since the duration of
+intervals with relatively
+small and relatively large
+temperature change. The
+presence of temperature
+fluctuations can be
+explained in terms of the
+model of low temperature
+fusion due to resonant
+transfer of neutron from
+deuteron proposed in [3]. Deuterons are accumulated in the vicinity of the membrane surface.
+Afterwards they move to the structure defects and form pairs of quasi-ions D2
++
+. During this
+process the internal stresses grow in the membrane. When these stresses attain certain value, the quasi-ions leave the metal interior and move in the field of a crystal lattice. There occurs a
+resonant transfer of neutron from one deuteron to another, resulting in formation of proton and
+triton nuclei accompanied by heat emission. Since a large number of deuteron pairs participate
+in this reaction, the temperature fluctuations can be detected even by a thermocouple. When
+internal stresses are decreased the motion of deuterium pairs ceases, high thermal conductivity
+of hydrogen isotope gas results in sharp cooling and the temperature of the membrane
+decreases. Then the process repeats.
+
+The process was stopped after
+t = 42 hour. A part of gas
+(v=100 ml) was collected in
+metallic vessel and then
+analyzed by a massspectrometer. The remaining
+gas was absorbed by Ti
+powder (m=3 g) to analyze for
+tritium
+
+The quadrivalent helium was
+not detected. The amount of
+4He was on the background
+level.
+During the experiment, the neutron
+and gamma quanta did not
+exceeding the background level.
+Tritium was measured by
+scintillation method, and the total
+amount was N>109 atoms
+
+
+Conclusions
+
+A device producing heat and tritium was proposed.
+Temperature fluctuations with the amplitude of ΔT=4-50 C were recorded.
+The essential increase in the amount of tritium, N>109 atoms, was registered.
+It was shown that the low temperature reaction in deuterium medium occurs via the tritium
+channel.
+
+
+References
+
+[1] Fleischmann M, Pons S., J Electroanal 1989; 261-301.
+[2] Afonichev D.D., Murzinova M.A., Int J Hydrogen Energy 2003; 28(9): 1005–1010.
+[3] Afonichev D.D., Int. J. Hydrogen Energy 2006, 31, 551-553.
+[4]. Tsarev V.A., Sov Phys Usp 1992; 835:842.

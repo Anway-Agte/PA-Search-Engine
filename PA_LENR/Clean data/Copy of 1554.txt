@@ -1,0 +1,303 @@
+Introduction 
+
+Impurities on the cathode surface are expected to exert an influence on the ability of cathodes to 
+attain D(H)/Pd ratios near unity and to retain this high loading for the time required to obtain 
+excess heat. For example, Pd (and Pt) are the most efficient electrocatalysts for promoting 
+reduction of D2O and H2O to form D2 and H2. The presence of other impurities would reduce the 
+rate of this reaction (depending on the impurity, this could amount to many orders of magnitude). 
+In addition, the ability to promote the dissociation of D2 to form an adsorbed deuterium atom (D) 
+and, subsequently absorbed D, could be reduced by the presence of surface and bulk impurities. 
+The presence of Pt, a common contaminant found in Pd, could also be deleterious to obtaining 
+high loadings since Pt is also an excellent recombination catalyst for the reaction: Dads + Dads = 
+D2. Since absorbed D is known to occupy interstitial positions within the Pd lattice, impurities, 
+especially those of the lighter elements, can block these positions. For example, C atoms can 
+penetrate into the Pd lattice if exposed to C-containing gases at moderate temperatures1 (as might 
+occur during processing). Interstitial solid solutions up to PdC015 can form which can totally 
+block the formation of β-PdH which develops at H/Pd = 0.65 and is a precursor phase to the 
+attainment of high loading. B, which also enters the Pd lattice interstitially, is known to totally 
+block β-Pd-H formation at a concentration of 16 atomic%2. Blockage of Η atom ingress by the 
+presence of high concentrations of C and Β in the Pd lattice could also be caused by the 
+formation of carbides and borides of Pd. B, at concentrations less than 10 at.% where borides do 
+not form as indicated by the Pd-B binary phase diagram, will promote Η absorption due to the 
+expansion of the Pd lattice caused by the presence of B3. Thus, smaller amounts of interstitial 
+impurities could actually exert a positive influence on the attainment of high loadings. 
+
+
+Experimental 
+
+The XPS spectra were recorded with a Surface Science Laboratories Model SSX-301 system 
+utilizing a monochromatic Α1 Kα source. Survey scans from 0 to 1000 eV binding energy were 
+recorded at a 100 eV pass energy. Sputtering was accomplished with a Perkin Elmer 
+differentially pumped ion gun utilizing 3 kV argon ion beam at 20 mA emission current and a 
+3x3 raster. Base pressure of the main chamber and fast entry chamber was 1x10-9 torr and 1x10-7
+torr, respectively. In order to preserve the vacuum in the main chamber on occasion it was 
+necessary to pump on the sample in the fast entry chamber overnight to remove the remaining 
+absorbed D or H. A description of each sample examined can be found in the text and figure 
+captions. A complete description of sample processing and electrochemical history can be 
+obtained from the authors. 
+
+
+Results and Discussion 
+
+XPS of Unused Cathodes: 
+A survey spectrum of a Johnson-Matthey 99.9% purity wire as received is shown in Figure 1A. 
+Even though the Pd 3d doublet is clearly visible the surface is composed mostly of carbon and 
+oxygen due to the large difference in peak area sensitivity factors (Pd3d5/2=9.48, C1s=1.00, 
+O1s=2.93). Si, Cl and Mg are also present but to a much lesser extent than C and O. This is a 
+representative spectrum for all cathode materials examined which included NRL Pd and Pd-B 
+rod, Engelhardt #3 and Johnson-Matthey ‘special batch’ rods from SRI, Goodfellow 99.95% and 
+99.99+% wire, and Johnson-Matthey 99.9% and 99.997% wire. In all cases the principal 
+contaminants were always C and Ο and the Pd 3d doublet was always visible. The Cls peak was 
+in all cases anywhere from approximately ½ to double the height of the Pd 3d doublet. This puts 
+the contamination level of all surfaces easily in excess of 50 at.%. Other minor contaminants 
+found included S and Na. On the surface most of the elements as determined from their binding 
+energy were in the oxidized state except for C which appeared to be graphitic (B.E.=284.0eV). 
+Sample preparation such as vacuum annealing and acid etching in aqua regia did not appear to 
+significantly alter the surface composition. These data illustrate the ability of the Pd surface to 
+become significantly contaminated upon exposure to air and water. 
+
+Most of the contamination observed in Fig. 1A is found to reside in approximately the top 10Å 
+as illustrated in the survey shown in Fig. 1B obtained after a 10s argon ion sputter (sputter rate 
+lÅ/s for SiO2). Most of the original C and Ο have been removed and the Pd peaks now dominate 
+the spectrum. An additional 20s sputter produces a further reduction in contaminant levels (see 
+Figure 1C) although the effect is not as dramatic as that observed with the initial 10s sputter. 
+Figures 1B and C also indicate the presence of Pt in this sample. This agrees with the GDMS 
+results for this material which showed the presence of 1100 ppm Pt impurities. In the samples 
+sputtered for longer than 30s, all the impurities were removed except for C (and Pt for 99.9% 
+purity Pd). C would persist to the deepest levels indicating that it either was a bulk contaminant 
+or that it diffused from the surface to the bulk during processing.
+
+XPS of Used, Non-heat Producing Cathodes:
+The data for NRL-processed Pd cathodes is divided into two groups based on the XPS results. The 
+first group comprises the thickest overlayers containing large concentrations of both Cu and Pt 
+relative to Pd. The Cu and Pt can either be near the surface or buried under a silicate-containing 
+overlayer. All of these samples were electrolyzed for approximately 1000 hrs. The second set of 
+samples all contained thinner overlayers than the first with very little Cu. A high Pt concentration, 
+however, was found on all of these samples. These samples were all electrolyzed for 500 hrs. or less 
+and they received a large number (6) of cathodic-anodic current reversals. 
+
+Figure 2 is a series of survey spectra taken from the surface and various depths of an NRL Pd plate 
+electrode. The following elements are found at the surface: Si, O, C, Cu, Nb, Pt, Zn, Na, Mg and Ca. 
+The Zn, Mg, Ca and Na appear to be ubiquitous in small quantities to nearly all the samples 
+examined by XPS. Several examples of much higher Ca concentrations also have been found. ICP 
+analysis of the D2O and the LiOD electrolyte before and after electrolysis show the presence of Na 
+and Ca (before electrolysis: 0.00-0.07 ppm Ca, 0.01-0.30 ppm Na; after electrolysis: 0.00-0.18 ppm 
+Ca, 0.16-2.53 ppm Na). No Zn or Mg above 0.01 ppm, however, was observed in any solution 
+making their source uncertain. Nb is found on all samples in which a Pt-clad Nb mesh was used as 
+the anode. Nb is exposed to the electrolyte at all points where the material has been cut and at spot 
+welds where damage to the Pt film can occur. The Cu (its potential source will be discussed later) is 
+found to be in the +2 oxidation state as is indicated by the two sets of 3p doublets occurring between 
+930 and 970 eV. Due to their small area sensitivity factors, the major components of this surface are 
+O, Si and C. Besides Cu (which has a sensitivity factor similar to that of Pd and Pt), the oxygen is 
+also associated with both C, as evidenced by the small shoulder on the high binding energy side of 
+the Cls peak, and Si. The binding energy of the Si peaks is indicative of the presence of a silicate-
+type species. The bulk of the C detected on the surface is merely the so-called ‘adventitious’ carbon 
+contamination found on all air-exposed surfaces. No Pd is evident on the surface. In fact, Pd is not 
+detected until after approximately 150s of sputtering and even then the Pd 3p3/2 peak is only a small 
+shoulder on the Pt 3d3/2 peak. The Pd peak does not become easily discernible until somewhere 
+between 360 and 600 seconds of sputter time. As sputtering proceeds both Cu and Pt, which were 
+just observable on the surface, increase as the quantity of silicate species slowly decreases. The Cu 
+and Pt reach a maximum after about 600s of sputter time and then decrease as the amount of Pd 
+increases. After 1500s both Cu and Pt are still present which indicates that a relatively thick 
+overlayer has grown on this electrode. 
+
+Figure 1. XPS survey spectra obtained from a 1-mm diameter Johnson Matthey 99.9% purity 
+palladium wire (#010280, Lot K11C06). A: Surface, B: After 10-sec. sputter, see: After 30s sputter. 
+Scans from 0 eV (right) to 1000 eV (left) binding energy. 
+
+Figure 2. Series of XPS survey spectra obtained at various total sputter times from a large grain 
+(600μm), 99.99% purity Pd plate cathode, 3.5x0.7x0.07cm thick, etched in aqua regia after spot-
+welding of Pt resistance wires using Pd/Pd-Ag welding tips, Pt-clad Nb mesh anode, pyrex cell, 
+0.1 Μ LiOD (Li from Johnson Matthey, D2O from Ontario Hydro), 980 hrs. total electrolysis 
+time, highest current density=370 mA/cm2. Scans from 0 eV (right) to 1000 eV (left) binding 
+energy. 
+
+Figure 3. Series of XPS survey spectra obtained at various total sputter times from a large grain 
+(600μm), 99.99% purity Pd rod cathode, 3.5 cm long by 0.4 cm in diameter, etched in aqua regia 
+after Pt resistance wires attached by spot-welding with Pd/Pd-Ag electrodes, Pt mesh anode, 
+pyrex cell, isoperibol calorimeter, 0.1 Μ LiOD (Li from Johnson Matthey, D2O from Ontario 
+Hydro), 460 hrs. total electrolysis time, highest current density=455 mA/cm2. Scans from 0 eV 
+(right) to 1000 eV (left) binding energy. 
+
+An example of a surface containing a thin overlayer after electrolysis is shown in Fig. 3. The 
+surface contains silicate along with C and Pt. No Cu or Pd is observable in the first survey 
+spectrum. After removal of much of the surface C contamination with a 10s sputter etch Pd is 
+observed along with a significant increase in Si, Ο and Pt. Further sputtering removes the silicate 
+with a concomitant increase in Pd. After 180s the Si has all been removed but Pt is still present. 
+The Pt 4f signal decreases until after 600s where it is just barely discernible above the noise. 
+Compared to the final spectrum shown in Figure 2 obtained at 2.5 times the total sputter time for 
+this sample, it is easy to observe that the film on this electrode is much thinner. In addition, Cu 
+never becomes a significant component of these types of films. 
+
+Film thickness appears to correlate with total electrolysis time. In addition, composition with 
+respect to Cu is very different between the two different types of electrodes. Interestingly, there 
+also appears to be a correlation with the maximum D/Pd obtainable. The thinner, non-Cu-
+containing overlayers reached loadings of D/Pd = 0.7 while the thicker, Cu-containing overlayers 
+were found on samples with D/Pd = 0.94. This indicates that the development of these Cu-rich 
+layers at long electrolysis times may, in fact, have been beneficial to obtaining high loadings by 
+acting as a blocking agent to D egress from the Pd lattice. The quest for low levels of excess heat 
+with more sensitive calorimeters than used in our studies might have proven very interesting with 
+these samples. 
+
+Alluded to in the above discussion are the sources of some of the impurities. Si most certainly 
+comes from the etching of the PyrexR or quartz container by the concentrated LiOD or LiOH. 
+ICP analysis of the used solutions indicated that Si was present anywhere from approximately 30 
+to 80 ppm in the experiments where PyrexR containers were used while around 10-20 ppm were 
+found for experiments conducted in quartz holders. The source of Pt, found on every electrode 
+examined with XPS, was likely from oxidation of the Pt anode at high current density. ICP 
+analysis, however, showed less than 0.1 ppm Pt in all solutions. Another possible source was the 
+Pd itself since most Pd used contained above 30 ppm Pt. Only one very high purity Pd sample 
+containing a very small Pt level was examined: Johnson-Matthey 1mm diameter wire, 99.997% 
+purity, where Pt by GDMS=1.9 ppm5. XPS indicated that very little Pt was present on this 
+electrode. 
+
+A similar argument applies to the Cu except that, unlike Pt, there is no single solid source of Cu 
+exposed in the cell. Sources of Cu include: D2O, Li used to make LiOD from the D2O, spot 
+welds where Cu-containing tips are used, the Pt anode, the Pd cathode, PyrexR or quartz and the 
+TeflonR used for the cell top and to shield the electrical connections. The PyrexR, quartz and 
+TeflonR seem unlikely candidates to supply such large amounts of a metallic impurity. The spot 
+welds are unlikely as Cu was found on several cathodes where the welding tips were made of Pd 
+and Pd-Ag alloy rather than Cu. Also, the cathodes were always acid etched after spot welding 
+was completed. The Li was reported to have 20 ppm of Cu but so little is used to make up the 
+0.1M concentration that there is not enough present to supply such large amounts of Cu 
+assuming the surface of the cathodes are uniformally covered. The Li was also reported to 
+contain 90 ppm of Na and 78 ppm of Ca; these could have been the source of those impurities 
+often found in small quantities on the cathode surface. The D2O was not the source as believed in 
+an earlier study4. Extremely pure D2O was provided by Ontario Hydro in which the Cu 
+concentration was less than 0.005 ppm; our ICP analysis indicated that there was less than 0.01 
+ppm in both the D2O (Ontario Hydro and Cambridge Isotope) and the 0.1M LiOD. The Pt anode 
+could be the source but GDMS analysis of one anode indicated that only 0.25 ppm Cu was 
+present. A Pt anode was examined by XPS after an experiment and no Cu was observed on its 
+surface. The final source is the Pd cathode itself. The NRL Pd material was found to contain 24 
+to 27 ppm Cu which was likely obtained from arc melting of the sponge which was conducted on 
+a Cu hearth. Calculations indicate, assuming surface segregation of the bulk Cu, that this is 
+enough Cu assuming uniform distribution in the bulk (verified by depth measurement made with 
+GDMS) to provide concentrations found in the surface films observed on used cathodes. Two 
+cathodes which produced high Cu were reground and polished on a lathe. High Cu was found 
+again re-observed on both cathodes after electrolysis. In addition, a higher than usual Ca level 
+found on one of the cathodes was repeated after repolishing and electrolysis. One of the ‘high 
+Cu’ cathodes was examined by GDMS as a function of depth. Cu was found at a concentration of 
+nearly 80 ppm throughout the entire sample suggesting that initially this NRL sample had a 
+larger than average Cu content. Cu was also found on an NRL Pd rod electrode tested at SRI in a 
+degree of loading experiment. Cu was found on a 99.9% purity 1mm Johnson-Matthey wire 
+which contained 24 ppm Cu by GDMS. Little Cu was found on two NRL samples run at China 
+Lake. A number of different chemicals, however, were added to the electrolyte in an attempt to 
+increase D uptake. These may have had an influence on Cu mobility. One anomaly, however, 
+does exist and this is the large Cu concentration found on a 99.997% purity Johnson-Matthey 
+wire cathode. GDMS indicated that this material contained only 0.11 ppm Cu. Electrical 
+connections to this cathode were made, however, with Cu spot welding tips. Even though these 
+cathodes were acid etched after spot welding, perhaps some Cu remained behind. 
+
+Surface segregation of various elements during Η or D absorption has been observed previously. 
+Surface enrichment of ppm bulk contaminants Ag and Rh has been detected with Pd electrolysis 
+in both H- and D-based acid electrolytes7. The room temperature segregation of La has been 
+observed in the hydride battery material LaNi58. Running the electrode through charge-discharge 
+cycles causes the La to diffuse to the surface where it is oxidized by the KOH electrolyte. The 
+La(OH)3 blocks Η ingress and reduces the efficiency of the battery. Normally La mobility in the 
+LaNi5 lattice is practically zero at room temperature. The authors believe that the enhanced La 
+mobility is caused by the severe distortion at the boundaries of the hydrogen-rich and hydrogen-
+poor regions which arise during charging and discharging. The severe lattice defects occurring 
+over relatively large areas cause short circuit diffusion paths for the La atoms. The same type of 
+mechanism could account for the enriched Cu and Pt surface layers found on used Pd cathodes. 
+
+
+XPS of Heat-Producing Cathodes:
+Two sources of heat-producing cathodes, NAWC at China Lake and SRI International, provided 
+samples for XPS analysis. Only analysis of the SRI cathode will be described here. The SRI Pd 
+cathode examined was sample number P15, a Pd rod made from Engelhard #1 material which 
+was SRI’s most successful heat-producing material. This sample was annealed and electrolyzed 
+in 1991. Details of the P15 experiment have been published9. From ICPMS data provided by 
+SRI, the Engelhard #1 Pd is of 99.9% purity containing 140 ppm Pt and 13 ppm Cu plus 
+significant levels of many other impurities. Heat-producing electrodes from China Lake10
+examined by XPS include: Johnson-Matthey high purity wires electrolyzed in two different 
+calorimeters, NRL Pd rod and NRL Pd-B alloy rods. 
+
+Shown in Figure 4 are a series of survey spectra taken of the surface of the SRI P15 cathode and 
+after various sputter times. The surface is a mixture composed of carbon- and oxygen-containing 
+species of which silicate is the most prevalent. Small amounts of Pt, S, Zn, Na and Ν are also 
+seen. No Pd is present on the surface. After a 10s-sputter some silicate is removed which results 
+in a small increase in the C1s signal and a large increase in the Pt4f doublet. After 30s the Si is 
+nearly all removed, the C begins to decrease, and the Pt and Pd continue to increase. Cu is also 
+visible now. After 60s the metallic impurities, Cu and Pt, reach their maximum while C 
+continues to decrease slowly and Pd increases. Further sputtering continues to uncover the Pd 
+while the other impurities decrease. After 900s total sputter time, only Pt and C impurities are 
+still visible. These are contaminants which are likely part of the bulk. As evidenced by the peak 
+binding energies, the carbon always appeared to be mostly in the graphitic state while the Pt, 
+even on the surface, was in the metallic state. The profile does not look all that different from 
+that obtained for relatively thin overlayer samples tested at NRL and depicted in Figure 3. The 
+P15 electrode was loaded to a maximum D/Pd of 0.99 and it produced anywhere from 5 to 10% 
+excess power over the total input power. These amounts were just below the sensitivity of the 
+NRL isoperibol calorimeters. This fact makes trying to draw conclusions based on the XPS 
+results as to what impurities are necessary on the surface to obtain high loadings and excess 
+power very difficult. Also, at the end of SRI’s experiments, they normally switch the potential on 
+the cathode so that an anodic current is flowing in order to de-load the sample before removal 
+from the cell. This could oxidatively remove certain species from the overlayer that normally 
+would have been present. 
+
+Several observations can be made concerning excess heat-producing electrodes. All contain 
+layers on part or all of the electrode which are relatively thin in the sense that Pd is either 
+observed on the surface or very early in the sputter profile and the peaks due to Pd rise rapidly 
+with continued sputtering. Pt is always visible on the surface of these electrodes. The electrodes, 
+with the exception of the high purity Johnson-Matthey used at China Lake (2.2 ppm Pt by 
+GDMS), generally have a large Pt impurity concentration in the bulk. Pt and Pd are in the 
+metallic state when found on the surface. A silicate layer is observed on the surface but this can 
+be sputtered away fairly rapidly. There is usually a graphitic component to the carbon which 
+appears to extend, along with the Pt, into the bulk. Copper is a small impurity as are Zn, Na, Ca 
+and Mg. Many of these observations can also be made for the cathode materials run at NRL. 
+Since, however, the excess heat observed in the analyzed samples generally did not exceed 10% 
+of the input power and the sensitivity of the NRL calorimeters was in the range of 10% and 
+above, using the XPS data for NRL-run samples as representative of non-excess heat producing 
+electrodes may not be correct. As a final note, many of the impurities found in the surface layers 
+are also present in the bulk of the cathode at the ppm level. Certainly the source of all the 
+impurities found on the surface is not the bulk: however, as discussed above there is data to 
+suggest that loading and de-loading Η-storage materials can greatly increase the room 
+temperature diffusion rates of bulk elements. 
+
+
+Conclusions 
+
+1. Prolonged electrolysis at high current density in basic solution results in the formation of a 
+relatively thick layer on the cathode (>1000Å) composed of a varied elemental composition 
+with very little or no Pd identifiable on the surface. 20 different elements have been 
+identified from XPS analysis of over 30 different electrode surfaces. Cationic, anionic and 
+organic species in the electrolyte have been detected as part of these surface overlayers. The 
+anodes, however, remain relatively film-free. 
+2. The source of some of the elements found in the cathode overlayer may be bulk diffusion of 
+impurities such as Pt and Cu caused by the severe lattice distortion produced by absorption of 
+large quantities of D or H. 
+3. Longer electrolysis times (~1000 hrs.) produced thicker films on NRL Pd cathodes compared 
+to shorter times (<500 hrs.).   In addition, the thicker films contained larger quantities of both 
+Cu and Pt relative to Pd and in general higher loadings were obtained with these films 
+present. This suggests that thicker films may help block the egress of D from the Pd lattice. 
+4. Thinner films where Pd was present at or near the surface were found on excess heat 
+producing electrodes obtained from SRI and NAWC (exceptions are where large quantities 
+of certain species were added to the electrolyte to prolong or initiate excess heat formation). 
+Very little copper was found in these films but appreciable amounts of Pt were present.  Thin 
+films with low Cu content may be necessary for excess heat measurement. 
+
+Figure 4. Series of XPS survey spectra obtained at various total sputter times from an SRI excess 
+heat producing Pd rod cathode (#P15, Engelhardt #1 Pd). Scans from 0 eV (right) to 1000 eV 
+(left) binding energy. 
+
+
+References 
+
+1. S. B. Ziemecki, G. A. Jones and D. G. Swartzfager, “Coexistence of Hydrogen and Carbon 
+Solutes in the Palladium Lattice”, J. Less-Common Metals, 131 (1987) 157-162. 
+2. R. Burch and F. A. Lewis,” Absoption of Hydrogen by Palladium + Boron and Palladium + 
+Silver + Boron Alloys,” Trans. Faraday Soc., 66 (1970) 727. 
+3. T. B. Flanagan and Y. Sakamoto, “Hydrogen in Disordered and Ordered Palladium Alloys,” 
+Platinum Metals Rev., 37 (1993) 26-37. 
+4. Average loading ratios were obtained by in situ, four-point probe resistivity measurements. 
+5. GDMS analyses were performed by Shiva Technologies, Inc., Cicero, NY. 
+6. C. T. Dillon and B. J. Kennedy, “The Electrochemically Formed Palladium-Deuterium 
+System. I. Surface Composition and Morphology,” Aust. J. Chem., 46 (1993) 663-679. 
+7. D. R. Rolison, W. E. O’Grady, R. J. Doyle, Jr., and P. P. Trzaskoma, “Anomalies in the 
+Surface Analysis of Deuterated Palladium,” Proceedings of the First Annual Conference on 
+Cold Fusion, The National Cold Fusion Institute, Salt Lake City, UT, 272-280 (1990). 
+J. J. Willems and K. H. J. Buschow, “From Permanent Magnets to Rechargeable Hydride 
+Electrodes,” J. Less-Common Metals, 129 (1987) 13-30.
+9. M. C. H. McKubre, S. Crouch-Baker, R. C. Rocha-Filho, S. I. Smedley, F. L. Tanzella, T. O. 
+Passell and J. Santucci, “Isothermal Flow Calorimetric Investigations of the D/Pd and H/Pd 
+Systems,” J. Electroanal. Chem., 368 (1994) 55-66. 
+10. Cathodes provided by M. Miles and K. Johnson. 

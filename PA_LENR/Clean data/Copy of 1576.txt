@@ -1,0 +1,421 @@
+1. Introduction
+
+Perhaps the most fundamental theoretical problem associated with the various ex-
+perimental claims of anomalies in metal deuterides is how the deuterons manage
+to come together at a suﬃciently high rate to produce observable reaction rates.
+There was speculation in 1989 that screening eﬀects might be enhanced in metal
+deuterides, and that this might account for the low-level neutron emission claimed
+by Jones and colleagues at BYU.1 Over the years, papers have been published ar-
+guing for, and against, enhanced screening eﬀects. Koonin and Nauenberg2 argued
+that the screening should be similar to that of molecular D2. As screening eﬀects
+are weak in the D2 molecule, the associated tunneling rate for the ground state is
+more than 50 orders of magnitude too small to account for the low-level fusion rates
+claimed in the initial BYU experiments.
+
+The most popular line of argument in favor of enhanced screening eﬀects in 1989
+proposed that an increase in the eﬀective electron mass was present in some metal
+deuterides. An increase in the eﬀective mass reduces the screening length, according
+to the early proposals, and increases the tunneling rate dramatically. A weakness
+of the argument is that the eﬀective mass approximation describes electron and
+hole dynamics over many sites in a periodic lattices, and is not applicable to the
+screening problem.
+
+There have appeared other discussions of screening between deuterons in metal
+deuterides, but we will consider such works as largely being out of the scope of this
+paper.
+Our position is in general agreement with the arguments of Koonin and
+Nauenberg, that one would not expect large deviations from the molecular prob-
+lem. From our perspective, the highest tunneling probabilities are expected when
+two deuterons occupy a single octahedral site in PdD. Although double site occu-
+pancy may have a low associated probability, the tunneling rate is tens of orders
+of magnitude larger than when deuterons are at diﬀerent sites. The two-deuteron
+wavefunction associated with double occupancy is reasonably well approximated by
+the molecular D2 wavefunction, and the modiﬁcations of the two-deuteron wave-
+function by the surrounding lattice is not so great. Hence, we would expect the
+molecular D2 problem to be very relevant for developing estimates for tunneling
+rates for double occupancy, which we expect to dominate the tunneling rate over
+all other processes under normal conditions.
+
+We note that there has appeared very recently measurements of dd-fusion cross
+sections at low energy which appear to show signiﬁcant enhancements3 (see also
+[4] Earlier measurements in TiD produced reaction rates similar to that of D2,
+while the new measurements show very large enhancements. We await experimental
+conﬁrmation of the eﬀect. Our position is that if real, this eﬀect is most likely a recoil
+eﬀect in which fast incident deuterons push deuterons at rest into tightly bound
+electron orbitals, where very strong screening eﬀects would be expected. If this line
+of argument is correct, then one would not expect the enhancements to extend to
+the case of deuterons nearly at rest. The screening implied by these measurements
+is suﬃciently large that the metal deuterides would be highly unstable against dd-
+fusion if the same screening model applied naively to all deuterons (with thermal
+energy) in the lattice.
+
+In the absence of screening enhancements and exotic eﬀects that create fast
+deuterons in the lattice, the only way that a modiﬁcation of the tunneling rate
+can come about is if something changes on the nuclear scale. There have appeared
+proposals for modiﬁcations of the tunneling rate due to the presence of nuclear
+states that are nearly resonant with the molecular state (this idea has been pursued
+in previous years by X. Z. Li and colleagues at Tsinghua University, and also by
+Y. E. Kim and colleagues at Purdue). It is a relatively simple calculation to show
+that in fact a nuclear state with appropriate properties could in fact produce a
+signiﬁcant modiﬁcation in the tunneling problem, and lead to large enhancements
+in the tunneling rate.
+In spite of this attractive feature of this kind of model,
+we note that the four nucleon system has been the focus of many theoretical and
+experimental studies over many years, and it is known that there are no states
+present that are suﬃciently close in energy and suﬃciently long-lived to make any
+impact on the tunneling rate in the way proposed.
+
+In what follows, we will examine the modiﬁcation in the tunneling rate due
+to a resonant nuclear state using the simplest possible relevant model. Based on
+the discussion above, there might seem to to be little motivation for pursuing such
+a model, since we already know that there are no relevant four nucleon states to
+which the model might be applied. However, we ﬁnd several reasons to pursue this
+model: (1) It is useful to demonstrate cleanly that there is more to the problem of
+tunneling between deuterons than simple Golden Rule transition rate physics as is
+normally assumed; (2) it is possible to develop a two-level approximation for this
+kind of problem, which allows us to study coherent and incoherent eﬀects on an
+equal footing; and (3) this kind of model appears to have some relevance to the new
+phonon-coupled SU(N) models that we have proposed for the anomalies in metal
+deuterides. The results that we present lead one to conclude that resonant tunneling
+models for the four nucleon system are not relevant to the problem of anomalies in
+metal deuterides. However, the notion of tunneling as a coherent process that is
+part of something larger going on in the lattice is in our view extremely important.
+
+
+2. Piecewise Constant Potential Model
+
+We have over the years become convinced of the utility of simple models that
+embody the relevant physical principles as a way of developing understanding and
+intuition about complex phenomena. Consequently, to study resonant tunneling, we
+propose the simplest of piecewise constant potentials that has two wells separated
+by a potential barrier. We adopt the radial (l = 0) Hamiltonian
+where
+
+We see an attractive nuclear potential for relative separation less than a nuclear
+radius Rn, a zero potential between an atomic radius Ra and an outer radius R,
+and a barrier of height V0 that separates the two wells. An advantage of developing
+a simple model such as this one is that it is relatively easy to solve. We focus ﬁrst
+on developing eigenfunctions and eigenvalues of the time-independent Schr¨odinger
+equation
+Solutions are constructed using
+
+2.1. Limit of Perfect Isolation:
+If the wells are isolated from one another, then things simplify further. The energies
+of each well in isolation can be determined from matching the appropriate point and
+slope of the assumed solutions at Rn and at Ra. We obtain the constraints
+We note that kn, ka and α are functions of the energy eigenvalue E that satisfy
+We assume that the energy eigenvalues of the wells in isolation are En and Ea.
+
+2.2. Coupled Wells:
+Now we consider what happens when the wells are coupled. The energy eigenvalue
+in this case satisﬁes
+Although this constraint may appear to be composed of lots of factors that have to
+be sorted out, upon further inspection, one sees that it has a speciﬁc form that will
+be useful to us. We see terms that correspond to the individual energy eigenvalue
+equations in isolation that appear on both sides. We can collect these and write
+If the coupling between the wells is weak (as we assume), then the energies will be
+close to the unperturbed energies of the wells in isolation. Hence
+We are therefore able to develop a simpler approximate version of the eigenvalue
+equation which is of the form
+This is interesting because it is of the same form as the eigenvalue equation for a
+two-level system, as long as the terms on the right hand side are presumed to be
+energy independent in the vicinity of the resonance. The static two-level system
+eigenvalue equation can be written in the form
+We identify the Gamow tunneling factor with the exponential on the RHS of equa-
+tion (11)
+There is nothing particularly special in this regard about the piecewise constant
+potential that we have selected for this discussion in this regard. Other potentials
+which might be proposed for this kind of problem, including Coulomb and more
+realistic nuclear potential models, would produce a qualitatively similar relation for
+the energy eigenvalue under conditions that both wells in isolation have states that
+are nearly matched in energy.
+
+
+3. Equivalent Two-Level System for the Coupled-Well Problem
+
+The analysis of the previous section indicates that we can think of the coupling
+between nearly degenerate states in a potential well using a two level model.5 A
+Hamiltonian appropriate for the associated two-level model is
+where φn is a basis state for the well at the nuclear scale, and where φa is a basis
+state for the well at the atomic scale.
+
+3.1. Rabi Oscillations:
+The two-level model appears in a wide variety of applications, and its properties
+are well known. We focus brieﬂy on the dynamical problem
+To analyze this, one approach is to expand in terms of basis states
+ψ = cn(t)|φn⟩ + ca(t)|φa⟩
+This approach leads to the coupled equations
+These equations are of course well known, and are readily solved.
+Suppose we
+assume that the system is initialized at t = 0 such that ca(0) = 1 and cn(0) = 0,
+which corresponds to the two deuterons being initially in a molecular state. Then
+we may compute the probability that the two deuterons are in the nuclear states at
+some time later
+
+3.2. Resonance:
+On resonance (En = Ea), the probability oscillates between the two states sinu-
+soidally with a frequency
+The Rabi oscillation frequency associated with this coherent eﬀect is very fast as
+compared to the decay rate associated with incoherent transitions
+We see that Ω is proportional to e−G, while γ is proportional to e−2G. This is
+important when each Gamow tunneling factor e−G is on the general order of 10−40.
+
+3.3. Discussion:
+Incoherent dd-fusion from molecular D2 is governed by Golden Rule decay dynamics,
+and is very slow because the expression is proportional to e−2G. The Rabi oscillation
+frequency that would be associated with a resonant nuclear state is much faster since
+it is linear in the Gamow tunneling factor. This essential diﬀerence between coherent
+and incoherent reaction rates has been noted many times since 1989. Moreover, the
+low-level neutron emission rate reported by the BYU group in 1989 is roughly
+consistent with the Rabi oscillation frequency for this problem. Since 1989, the
+resonant tunneling model has been argued for by many authors as being relevant
+to metal deuterides, and have proposed that the experimental results support the
+existence of a resonant nuclear state.
+
+In what follows, we would like to argue that in spite of the nice features of the
+model, that the naive resonant tunneling model suﬀers from very severe problems
+associated with maintaining coherence long enough for a Rabi oscillation to occur.
+
+
+4. Relaxation Eﬀects
+
+In many areas of applied physics where the two-level model is used, the predictive
+capabilities of the model are often extended to include relaxation eﬀects in a simple
+way.5 As applied to the present discussion, two deuterons in a molecular state may
+begin tunneling as described by the formulas given above, but this tunneling may
+be interrupted if the two deuterons separate and hop to other sites. We wish to
+add such physics to our model, and understand what the resulting predictions of
+the extended model are.
+
+4.1. Bloch equations:
+To proceed, some authors deﬁne real variables from quadratic combinations of the
+expansion coeﬃcients. We deﬁne the Bloch variables
+By taking time derivatives of the Bloch variables, it is straightforward to show that
+the Bloch equations are obtained
+where ℏω0 = Ea − En. These equations are equivalent to the evolution equations
+for the amplitudes given in equations (17) and (18).
+
+4.2. Bloch Equations with Relaxation:
+Following the literature, we may extend the Bloch equations by adding relaxation
+terms
+where T1 and T2 are empirical relaxation times associated with populations and
+with polarizations, respectively.
+
+4.3. Solution:
+The Bloch equations are linear and hence relatively straightforward to solve. The
+solutions simplify considerably in the case where the relaxation times are equal, so
+we focus on a model problem in which T1 = T2 = T. We consider one such solution
+in the case where the two deuterons are initialized in |φa⟩ so that N(0) = 1, with
+no initial polarization Q(0) = P (0) = 0. The solution in this case is
+In writing these equations, we have used
+and
+
+4.4. Discussion:
+One sees in the solution terms that are oscillatory with frequency Ω, and damping
+terms that decay with the relaxation time T. If we consider the on-resonance case
+where the energy levels are matched (ω0 = 0), then Rabi oscillations occur with a
+frequency 2U
+ℏ
+while the damping occurs with a decay rate of 1
+T . The relaxation
+time T that one would associate with the dissociation of the molecular state in the
+metal is not so well known, but one would expect times well below a second. The
+Rabi oscillation frequency that would correspond to the fastest coherent tunneling
+transition that might be expected is on the order of 1025 seconds. Consequently,
+under these conditions one sees that all of the oscillations are completely damped
+before they execute even a small fraction of a cycle.
+
+The degree of resonance required for coherent processes to be seen in this model
+is enormous. One case see this from the appearance of Lorentzian factors in the
+expression, which could be rewritten as
+If relaxation processes were somehow suppressed, to observe nearly full Rabi oscil-
+lations would require
+which is not practical. In the presence of relaxation processes, we require instead
+to be resonant, which is a big improvement. The eﬀect under these conditions is
+very much reduced.
+To obtain a full cycle of oscillation requires that somehow
+V e−G is commensurate. This would require a coupling matrix element very much
+larger than what is plausible.
+
+We conclude from these arguments that the resonant tunneling approach does
+indeed exhibit an enormous increase in the tunneling rate as a coherent process
+theoretically, but that the approach suﬀers from many problems. Among these are
+the absence of resonant states in the four nucleon system, an extreme sensitivity to
+any process that causes destruction of the coherence, and very stringent resonance
+requirements.
+
+
+5. Excitation Transfer Model
+
+We are presently considering models for anomalies in metal deuterides in which
+nuclear reactions are assumed to take place exchanging phonons with the lattice. In
+this case, there is the possibility of second-order (as well as higher order) reactions in
+which a reaction at one site is coupled with reactions at one (or more) other sites.
+Progress on these models is discussed elsewhere in this conference proceedings.6
+Here, we are interested in examining one aspect of the models that is relevant to
+our general discussion of tunneling eﬀects in this paper.
+
+5.1. Simpliﬁed Model:
+We consider a simple model in which reactions at diﬀerent sites are coupled together.
+We assume in this model that we have N1 deuteron pairs (with double occupation
+of a site) which may fuse with phonon exchange to make 4He. The excitation energy
+from the reactions is used to drive excitations elsewhere within the coherence domain
+of a highly excited phonon.
+For simplicity, we will assume that these reactions
+involve transitions from N2 diﬀerent 4He nuclei to compact states.
+
+In the SU(N) models, the coupling between the compact states, helium nuclei
+and the highly excited phonon mode produce a very large number of states, some of
+which are resonant with the initial molecular deuterium states. In the simple model
+under discussion here, we will include only resonant states.
+Excitation transfer
+of the general kind under discussion here is present in the phonon-SU(N) models,
+but the details of the coupling are not quite the same. Nevertheless, the simple
+model under discussion here has associated dynamics that are similar to what the
+phonon-SU(N) are presently believed to possess.
+
+We consider then a model in which a population of molecular deuterons at one
+set of sites react to make helium at those sites, coupled to a set of helium nuclei at
+other sites which can be excited to make resonant states. Written using a notation
+similar to that used above, the associated Hamiltonian is
+In this expression the notation D2 refers to double site occupation within the metal
+and “com” refers to two-deuteron compact states that are nearly resonant with the
+D2 states.
+
+5.2. Pseudostate Operator Formulation:
+The model described above can be written more compactly in terms of pseudostate
+operators
+This Hamiltonian diﬀers from that of Equation (39) by an constant energy oﬀset,
+which does not change the dynamics of observable quantities. The ˆΣz pseudostate
+operators are deﬁned according to
+The ˆΣ± pseudostate operators are deﬁned according to
+The energy diﬀerence ∆E is
+∆E = E[D2] − E[4He]
+which is taken to be resonant with E[com] − E[4He].
+
+5.3. Solution:
+We can develop an approximate solution by forming a superposition of resonant
+states within the model
+where we used basis states formed of products of Dicke states |N, n⟩. Our notation
+assumes N nuclei with n in the excited state. These states are consistent with
+The expansion coeﬃcients cn(t) evolve according to
+
+Figure 1.
+Occupation probabilities as a function of time for the coherent transfer of excitation
+from deuterium at N sites with double occupancy, to a set of N diﬀerent helium nuclei that excite
+to resonant compact states. Time is normalized to units of [V e−G/ℏ]−1.
+
+We illustrate results from a representative solution to this set of coupled equations
+in Figure 1. In this calculation, we assume that N1 = N2 = 41, and that cN(0) = 1,
+which corresponds to the situation in which all of the sites of the ﬁrst system are
+occupied by deuteron pairs, and all the sites of the second system are initially helium
+nuclei. The solution is shown as Pn(t) = |cn(t)|2.
+
+We see that the population is initially localized in and around n = N, and ulti-
+mately is transferred through intermediate states to states in the vicinity of n = 0.
+
+The dynamics are nonlinear, since the coupling matrix elements are n-dependent
+and largest when half of the population has been transferred. The associated dy-
+namics could be considered to be a coherent version of Dicke superradiance.
+
+5.4. Discussion:
+The model under discussion here is intended to be particularly simple in order to
+demonstrate cleanly eﬀects that are thought to be present in the more realistic
+phonon-coupled SU(N) models presently under consideration. The dynamics of the
+transfer of excitation from deuteron states of double occupancy to excited compact
+states within the phonon-SU(N) model is thought to work similarly, and to have
+similar dynamics. We see from Figure 2 that the dynamics occur on a timescale on
+the order of
+
+Figure 2.
+Expectation value of reaction rate as a function of time for diﬀerent values of N. Time
+is normalized to units of [V e−G/ℏ]−1 as in Figure 1. Rates are normalized to units of V e−G/ℏ.
+
+and associated reaction rates on the order of
+These expressions contain terms linear in the Gamow factor and accelerated by
+a coherence factor. This kind of process is characterized by a “burst” eﬀect, in
+which the rate is initially slow, speeds up dramatically, and then slows down again.
+Such a burst eﬀect is pervasive in the experimental reports of anomalies in metal
+deuterides.
+
+5.5. Relaxation eﬀects:
+We pointed out earlier in this paper that resonant tunneling between two deuterons,
+as advocated by many authors, is not an attractive mechanism because it is com-
+pletely washed out be relaxation eﬀects.
+It might reasonably be asked whether
+the excitation transfer models, such as the phonon-coupled SU(N) models or the
+simple excitation transfer model discussed here, are similarly impacted. This is an
+interesting question, the answer to which is not as yet completely understood.
+
+However, there is an observation that may be helpful in this discussion. We
+might expect a many-site excitation transfer eﬀect to be somewhat more robust since
+if two deuterons at any one site drop out of the process, we expect that they will be
+replaced by others at another site – because the average rate of double occupancy is
+determined by statistical mechanics. Hence, under appropriate conditions, we would
+expect there always to be a source of deuterons in sites with double occupation to
+provide a source for excitation transfer.
+
+
+6. Summary and Conclusions
+
+From our previous investigations, we have come to the point of view that screening
+processes in metal deuterides for deuterons with thermal energies do not change the
+interaction between deuterons at close range signiﬁcantly from the molecular D2
+interaction. The largest tunneling matrix element is developed when two deuterons
+occupy a single site, in which case the relative wavefunction is reasonably close
+locally to that of D2. Given this point of view, the possibilities of accounting for
+the anomalies theoretically is greatly restricted.
+
+The focus of our discussion in this paper is on the problem of resonant tunneling.
+In our recent work on this problem, we have become interested in the application
+of the two-level model to the resonant tunneling problem. The development of a
+two-level model from a potential model that exhibits a resonant tunneling eﬀect
+is straightforward, as we have illustrated from a construction using a piecewise
+constant potential model. Although our particular construction is speciﬁc to the
+model we chose, the development of a relevant two-level model to describe resonant
+tunneling is completely general.
+
+The advantage of using a two-level model to describe resonant tunneling is that
+it is possible to include relaxation eﬀects in a simple way, using models that are
+standard in other ﬁelds. From a consideration of relaxation eﬀects in the case of tun-
+neling from molecular D2 states to conjectured resonant internal states, we conclude
+that there is no possibility that resonant tunneling could account for the claimed
+observations, since the coherence eﬀects that might be present due to coherence
+eﬀects associated with resonant tunneling are completely washed out by relaxation
+processes. This is a primary conclusion of this work.
+
+It seemed reasonable to include a brief discussion of a resonant excitation transfer
+model, since it is related to the resonant excitation transfer models under discussion
+in this work, and since it is also related to the phonon coupled SU(N) models
+that we are studying.
+The premise of the model is that the excitation from a
+collection of deuteron pairs is transferred by phonon coupling to a collection of
+helium nuclei elsewhere, which is qualitatively similar to the situation in the phonon-
+SU(N) models. The transfer of excitation from the deuteron pair to excitations
+elsewhere are modeled and show both coherent and collective enhancements, which
+is similar to what we expect from the more sophisticated models.
+
+We are motivated by the results from the simple excitation transfer model to
+work toward similar results in the case of the more sophisticated models, in the hope
+of developing a general predictive capability for the anomalies in metal deuterides.
+
+
+References
+
+1. S. E. Jones, E. P. Palmer, J. B. Czirr, D. L. Decker, G. L. Jensen, J. M. Thorne, S.
+F. Taylor, J. Rafelski, “Observation of Cold Nuclear Fusion in Condensed Matter,”
+Nature 338 737-740 (1989).
+2. S. E. Koonin and M. Nauenberg, “Cold Fusion in Isotopic Hydrogen Molecules,”
+Nature 339, p. 690 (1989).
+3. A. Kitamura, Y. Awa, T. Minari, N. Kubota, A. Taniike and Y. Furuyama, “D(d,p)t
+reaction rate enhancement in a mixed layer of Au and Pd,” Proceedings of the Tenth
+International Conference on Cold Fusion (this proceedings).
+4. A. G. Lipson, G. H. Miley, A. S. Roussetski, and A. B. Karabut, “Strong enhancement
+of dd-reaction accompanied by x-ray generation in a pulsed low voltage high-current
+deuterium glow discharge with a Ti-cathode,” Proceedings of the Tenth International
+Conference on Cold Fusion (this proceedings).
+5. P. L. Hagelstein, S. D. Senturia, and T. P. Orlando, Introductory Applied Quantum
+and Statistical Physics, John Wiley and Sons, NY, (2004).
+6. P. L. Hagelstein, “Uniﬁed phonon-coupled SU(N) models for anomalies in metal deu-
+terides,” Proceedings of the Tenth International Conference on Cold Fusion (this pro-
+ceedings).

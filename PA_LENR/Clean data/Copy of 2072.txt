@@ -1,0 +1,196 @@
+1. INTRODUCTION
+
+In 1934, Opiphant, Harteck, and Lord Rutherford12 reported the discovery of deuterium-deuterium
+fusion via nuclear reactions, D(D,p)T and D(D, n)3 He . They bombarded deuterated ammonium
+chloride (ND4Cl) , ammonium sulphate ((ND4 )2 SO4 ) and orthophosphoric acid (D3PO4 ) with 20 200 
+keVdeuterium(caled“diplogen”then)ion(D ) beam generated from a Cockcroft-Walton discharge tube.3 Later in the same year (1934), Dee4 studied the nuclear reaction D(D,p)T more carefully using a 160 keV D beam on a (ND4 )2 SO4 target, and photographed ionization tracks of p and T in a cloud
+chamber. Occasionally, proton-tritium (p-T) pairs were observed with the angle between the tracks very near to 180°.5 Dee5 attributed these tracks to D(D,p)T reactions involving deuterons which have lost energy by collisions in the target. The expansion chamber detection system used by Dee4,5 was developed earlier by Dee and Walton.6 The D+ beam generation system used by Dee was an improved Cockcroft-Walton3 discharge tube constructed by Oliphant and Rutherford7 which generated a higher D+ beam current (~ 100 μA). Recently, Fleischmann8 suggested that these results obtained by Dee5 are the first indication that there are low energy fusion channels in solid lattices as in the case of the cold fusion electrolysis experiments.9 Fleischman’ssugestionwascriticizedbyClose10 on two grounds. The first isthatDe’sphotographsdonotshowthatthetracksareexactlyback-to-back and hence one cannot eliminate the possibility that the incident deuteron had even one keV of energy, which is comparable to the solar core temperature. The second objection by Close (and also by Petrasso10) was that no energetic tritium or proton had been observed in the cold fusion electrolysis experiments with deuterated palladium. More recently, Huizenga11 objectedtoFleischman’sstatement8 that a significant number of back-to-back tracks were observed by Dee, since what Dee5 actually stated was that occasionally back- to-back p –T tracks were observed.
+
+In this paper,De’s results are analyzed using the conventional theory to establish whether the back- to-back p –T tracks observed by Dee5 suggest an anomalous effect, in order to resolve the controversy betwenFleischman’ssugestion8 and its objections by Close,10 Petrasso,10 and Huizenga.11
+
+
+2. FUSION KINEMATICS
+
+WhenD+ions(deuterons)areincidentonthe(ND4)2SO4 target,thedominantfusionreactionsare known to be
+D+D→3H+p (Q1=4.033MeV) (1) and
+D+D→3He+n (Q2 =3.269MeV) (2) for an incident deuteron laboratory (LAB) kinetic energy ED greater than ~ 10 keV,12 with the Q values
+of 4.033 MeV and 3.269 MeV, respectively. For D(D,p)T, eq. (1), the velocities vand vT of the 3p
+emitted proton (p) and tritium ( H or T) are co-planar with the velocity vD of the incident deuteron. The pT
+scattering angles,  and  , of the emitted p and T, in the LAB frame, are measured from the direction LL
+of the incident deuteron velocity vD (which is the same as the direction of D + D center-of-mass (CM)   
+PT
+velocity, v )i.e.,cos v v v v andcos v v v v . IntheCMframe,the
+with
+C LDpCp LDTCT 
+directions of p and T velocities, vp/ and vT/ , are opposite and the p and T scattering angles in the CM pT pT
+frame,  and  , as measured from v add up to 180°,   180. The proton scattering CCCCC
+pp 13
+and C , are related by pC
+angles, L
+with
+while the triton scattering angles,  and  , are related by LC
+where mp, mD, and mT are the rest masses of proton, deuteron, and tritium, respectively.
+
+For the special case of    90, eqs. (3) and (5) reduce to CC
+tan  1 5.979(Q /E )2.9861/2 (7)
+L1D p
+and
+The calculated values of  , , and  =   for the case of   90are listed in Table 1 for LLLLL CC
+several selected values of ED. From the description and pictures given in references 5 and 6, Dee’s
+T
+tan  1 0.6676(Q /E )0.33341/2 (8)
+L1D T
+pTpTPT pT
+Wilson expansion chamber has acceptance angles of 30°, i.e., 75 105and 75 105.
+L L Withintheaboveacceptanceangles,theresultsofΔθ=180°- listedinTable1decreaseonlyby
+5% for E ≤10 keV. Therefore, if the accuracy of Dee’s measurements of  is ~ ±1°, we expect that
+pT
+D
+E ≤2keVfortheback-to-back pT trackswithΔθ≤2°,while,foranacuracyof±2.0°for
+D
+expect E keV, corresponding to Δθ≤4°.
+
+
+3. CONVENTIONAL FUSION PROBABILIY AND RATE
+
+The probability P(Ei) for a deuteron with the initial LAB kinetic energy Ei to undergo the fusion reaction (1) while slowing down in a deuterated ammonium sulfate (ND4)2SO4 target can be written as
+stopping power for deuteron by the target atoms, and ED and EDD are the deuteron kinetic energies in the LAB and CM frames, respectively (EDD = ED/2).
+
+3.1. Stopping Power
+The stopping power for deuteron by the target atom j with the density nj, can be taken from Ref. 14. For a deuteron laboratory kinetic energy ED 20 keV, it is given by 15
+dED nA(E /2)1/2 x1018keVcm2 (10)
+dx
+With ED in units of keV. For 20 keV ED 1 MeV, we have
+dE dE dE
+E
+n(E )
+P(Ei)dxnD(EDD) idED D DD (9) 
+pT L
+pT
+L
+o dED /dx
+where nD is the target deuteron number density, (EDD ) is the cross-section for reaction (1), dE/dx is the
+where explicit expressions for dE / dx and dE / dx are given in reference 15. Since slow high
+dED / dx(eq.(11)) dED / dx and dED / dx agrees with dED/dx given by eq. (10) within a slow slow
+factor of 2 or less for 20 keV ED 160 keV, it is fairly accurate to assume that the stopping power is given by eq. (10) for ED 160 keV. The atom number densities nj for the mixtures of
+(NH4 )2 SO4  (ND4 )2 SO4 with + = 1 are nH = (6.45 x 1022/cm3), nD = (6.45 x 1022/cm3), nN 
+1.61 x 1022/cm3, nO = 3.22 x 1022/cm3, and nS = 0.806 x 1022/cm3, respectively for hydrogen deuterium, nitrogen, oxygen and sulfur, respectively. Using eq. (10), the stopping powers for deuteron by the target atoms, H, D, N, O, and S are given by
+respectively. Therefore, the stopping power for D is the target consisting of a (NH4)2SO4 and (ND4)2SO4(+ = 1) is given by the sum of the eqs. (12) through (16),
+where ED is in units of keV.
+
+3.2. Parameterized Cross-Section
+The cross-section (EDD) for the D(D,p)T reaction has not been measured for EDD 5 keV . For EDD 5 keV , (EDD ) is calculated by extrapolating the experimental values of (EDD ) at higher
+energies using the parameterization (E  EDD )
+GGGDDG
+massmDmD/(mDmD) 1mD.Thetransmissioncoeficient(“Gamow”factor)TG(E)results 2
+from the approximation E << B (Coulomb barrier height). Note that (E) described by eq. (18) is valid
+only from non resonance fusion reactions. The S-factor, S(E), is extracted from the experimentally
+measured values12 of the cross-section, (E), for E 4 keV and is nearly constant,12 
+S(E) S(0) 52.9 keV barn, for both reactions (1) and (2).
+
+3.3. Conventional Estimates of Fusion Probability
+Using the results of eqs. (17) and (18) with n  (6.45 x 1022 / cm3 ), P(E ) given by eq. (9) can Di
+be written as
+P(E) Ei dE nDS(EDD) e E / E
+i o DdE/dxE G DD D DD
+ 2nS(0) 1 e/ E D'
+1.712x104 (keV/cm) E' G i G
+where E'  2 E 44.39 keVand E is in units of keV. Using S(0) = 52.9 x 10-24 cm2 –keV GGi
+and n (6.45 x1022 /cm3), P(E) canbewrittenas Di
+P(Ei)(0.90x106)eE' / E (20) Gi
+The calculated values of P(Ei) using eq. (20) with = 1 are listed in Table 2 for several selected values of Ei.
+
+3.4. Conventional Estimates of Fusion Rates
+As described by Dee and Walton,6 Dee5 used a discharge tube similar to that of Oliphant and Rutherford7 which gave a proton beam current of 100 A using an accelerating voltage not greater than 250 kV. Assuming that the same system generated the deuteron beam current of I = 100 A with a deuteron LAB energy of Ei = 160 keV, we can obtain conventional estimates of the expected fusion rates R(Ei) from
+R(Ei) P(Ei) (21)
+where is the incident deuteron flux given by
+  (0.625 x 1019 D/ sec) I (22)
+with I in units of amperes. For I = 100 A, the conventional estimate of R(Ei) is
+R(E)0.562x10e/ E/sec (23)
+pT
+iGi
+with Ei in units of keV. The calculated values of R(Ei) from eq. (23) with = 1 are listed in Table 2 for several selected values of Ei. It is likely that Dee used a much lower current than 100 A by controlling it with a beam shutter in order to have a manageable counting rate for the pT tracks produced in his Wilson expansion chamber.
+
+
+4.Analysis of Dee’s Data
+
+pT track, which is impossible to be observedocasionalywithDe’s L
+experimentalsetup.IfweinterpretDe’s“ocasionalobservations”tomean1outof10(areasonable interpretation) which corresponds to a degraded deuteron kinetic energy of ED = 30 keV (see Table 2),
+we expect  172(see Table 1), which cannot be back-to-back pT track with the accuracy of 2°
+From the conventional estimates of PR(Ei) given in Table 2, we see that out of a total of 1012 pT pT
+tracks (162 180) produced, only one is expected to be a back-to-back L
+pT
+pT
+L
+
+for measuring.
+
+4.1. Scattered Deuteron Mechanism
+We now investigate a mechanism in which the incident deuteron could be scattered by a target atom into the Wilson expansion chamber acceptance angles, D = 90° 15°, prior to fusing with a target
+PT
+deuteron to produce a back-to-back pT track (which is possible if  or  is nearly parallel to ).
+For a screened Coulomb potential with a screening radius a, and atomic numbers ZD(=1) and Zj for the deuteron and target atom j,
+respectively, the scattering amplitude f (c) in the Born approximation is given by16 the incident deuteron being scattered by a target atom j into the CM angle c is then
+where
+22
+CM
+. The probability of
+CM
+2222c
+(4k a sin
+k / 2   E with reduced mass and the CM kinetic energy E
+where ED and a are in units of keV and A , respectively. The CM angle c is related to the deuteron LAB scattering angle L by
+Using a
+1/3 ejjS
+sin (27) (m /m ) cos
+tan  L
+2 2 1/3   / m e Z
+scattering for c = 30° or L = 28.3° is calculated and found to be PS(30°) = 2.32 x 10-8. Since PD(30°), PN(30°), and PO(30°) are smaller than PS(30°), we can conclude that only a few out of 108 incident 160 keV deuterons move out beyond L ≈28°oftheincidentdirectionafterthefirstencounterwiththe targetatom.Therefore,thescatereddeuteronmechanismcanotexplainDe’sback-to-back pT tracks.
+
+4.2. Suggested Experimental Tests
+Since the conventional estimates of fusion probability and rate for the events observed by Dee5 with
+the p –T opening angle 180° >  178corresponding to the deuteron LAB kinetic energy L
+ED 2 keV are smaller by many orders of magnitude than the inferred values fromDe’sexperiment,
+it suggests strongly that the conventional estimates are not reliable at a low energies, ED < 2 keV. It is thereforeimportanttorepeatDe’sexperimentwithimprovedWilsonexpansionchambers.Inadition to using the Wilson expansion chamber, one should also use other modern visual detecting systems17 such as a diffusion cloud chamber, with high current (continuous or pulsed) low-energy deuteron beams.
+
+
+5. CONCLUSION
+
+Contrary to objections raised by Close10, Petrasso10, and Huizenga11, the suggestion made by Fleischmanthat Dee’s back-to-back pT tracks are the first indication of cold fusion my have validity since it is shown that the conventional theoretical estimates cannot explain the back-to-back pT tracks observed by Dee.
+
+One plausible explanation18 of Dee's datafortheback-to-back pT tracks, based on a general and more realistic solution of the transmission coefficient TKZ(E) by Kim and Zubarev18, is that reaction barrier transparency exists for the transmission coefficient near the fusion threshold energy.19 The conventional Gamow transmission coefficient, TG(E), is restricted to non-resonant reactions, and hence cannot describe such resonant behavior of transmission coefficient. In other conventional theoretical models, Breit-Wigner (BW) resonances are included in the S-factor, S(E), in eq. (18), but any enhancement of (E) due to the BW resonance is limited to at most a few orders of magnitude increase and hence cannot explain Dee’s data.Therefore,it is important to repeat Dee’s data.Therefore,it is important to repeat Dee’s experiment with modern facilities and techniques.
+
+
+6. REFERENCES
+
+1. M.L.Oliphant,P.Harteck,andLordRutherford,“TransmutationEfectsObservedbyHeavy Hydrogen,”Nature133, 413 (1934).
+2. M.L.E.Oliphant,P.Harteck,andLordRutherford,“TransmutationEfectsObservedbyHeavy Hydrogen,”Proc.Roy.Soc.A144, 692 (1934).
+3. J.D.CockcroftandE.T.S.Walton,“ExperimentswithHighVelocityPositiveIons.-(I) Further DevelopmentsintheMethodofObtainingHighVelocityIons,”Proc.Roy.Soc.A136, 619 (1932).
+4. P.I.De,“DisintegrationoftheDiplon,”Nature,133, 564 (1934).
+5. P.I.De,“SomeExperimentsuponArtificialTransmutationusingtheCloud-trackMethod,”
+Proc. Roy. Soc. A 148, 623 (1935).
+6. P.I.DeandE.T.S.Walton,“APhotographicInvestigationoftheTransmutationofLithiumand
+Boron by Proton and of LithiumbyIonsoftheHeavyIsotopeofHydrogen,”Proc.Roy.Soc.A
+141, 733 (1933).
+7. M.L.E.OliphantandLordRutherford,“ExperimentsontheTransmutationofElementsby
+Protons,”Proc.Roy.Soc.A141, 259 (1933).
+8. M.Fleischman,“AnOverviewofColdFusionPhenomena,”intheProcedingsoftheFirst
+Annual Conference on Cold Fusion, Salt Lake City, March 28-31, 1990, pp. 344-349.
+9. M.Fleischman,S.Pons,andM.Hawkins,“ElectrochemicalyInducedNuclearFusionof
+Deuterium,”J.Electroanal.Chem.261, 301 (1989).
+10. F. Close, Too Hot to Handle, W.H. Allen Publishing (1990), pp. 318-323.
+11. J.R. Huizenga, Cold Fusion: the Scientific Fiasco of the Century, University of Rochester Press
+(1992), p. 100.
+12. A.Kraus,H.W.Becker,H.P.Trautveter,andC.Rolfs,“Low-EnergyFusionCrossSectionsof
+D + D and D+3HeReactions,”Nucl.Phys.A465, 150 (1987).
+13. A.P. Arya, Nuclear Physics, Allen & Bacon, Inc., Boston (1966), pp. 79-89.
+14. H.H. Anderson and J.F. Ziegler, Hydrogen Stopping Powers and Ranges in All Elements,
+Pergamon Press, New York (1977).
+15. Y.E.Kim,M.Rabinowitz,Y.K.Bae,G.S.Chulick,andR.A.Rice,“Cluster-Impact Nuclear
+Fusion: Shock-WaveAnalysis,”Mod.Phys.Let.B5, 941 (1991).
+16. L.I. Schiff, Quantum Mechanics, McGraw-Hill (1966), p. 325.
+17. W.E. Burcham, Nuclear Physics, McGraw-Hill (1966), Chapter 6.
+18.Y.E.KimandA.L.Zubarev,“CoulombBarierTransmisionResonanceforAstrophysical
+Problems,”Mod.Phys.Let.B7,1627(193);“GeneralizedCoulomb Barrier Transmission CoeficientforSolarNeutrinoandAstrophysicalProblems,”InternationalJ.ofTheor.Phys.33, 1889 (1994).
+19. Y.E. Kim, J.-H.Yon,A.L.Zubarev,andM.Rabinowitz,“ReactionBarierTransparencyfor ColdFusionandDeuteriumandHydrogen,”Procedingsofthe4th International Conference on Cold Fusion, Maui, Hawaii, December 6-9, 1993.
+

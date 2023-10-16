@@ -1,0 +1,204 @@
+1. Introduction
+
+There have been many reports of experimental evidences for low-energy nuclear reaction (LENR) processes in condensed matters as documented in a recent document submitted for a DOE review [1] and as reported in Proceedings of ICCF-10 [2]. However, most of experimental results cannot be reproduced on demand. This situation has prevented us from development of a coherent theoretical understanding or working theoretical model of the phenomenon which can be used to guide us in designing and carrying out new experimental tests to sort out essential parameters and controls needed to achieve reproducibility on demand (ROD). In this paper, it is shown that recently developed theoretical model based on Bose-Einstein Fusion (BEF) mechanism and Quantum Plasma Nuclear Fusion (QPNF) mechanism are applicable to the results of many different types of LENR and transmutation experiments.
+
+Both the BEF and the QPNF mechanisms are based on a same physical model which assumes that deuterium/hydrogen is in a plasma* state and is mobile in a deuterated/hydrogenated metal as deuteron/proton ion.†
+
+Theoretical studies of BEF mechanism have been carried out using an approximate solution to the many-body Schroedinger equation for a system of N identical charged, integer-spin nuclei ("Bose" nuclei) confined in micro- and nano- scale cavities [3-6]. The ground-state (superfluidity state) solution is used to obtain theoretical formulae for estimating the probabilities and rates of nuclear fusion for N identical Bose nuclei confined in a ion trap or an atomic cluster.
+
+Most recently, we have investigated the effect of a generalized particle momentum distribution derived by Galitskii and Yakimets (GY) [7] on nuclear reaction rates in plasma [8,9]. We have derived an approximate semi-analytical formula for nuclear fusion reaction rate between nuclei in a plasma. The formula is applied to calculate deuteron-deuteron fusion rate in a plasma, and the results are compared with the calculated results of the conventional Maxwell-Bolzmann (MB) velocity distribution. As an application, we investigate the deuteron-deuteron fusion rate for mobile deuterons in a deuterated metal/alloy. The calculated deuteron- deuteron fusion rates at low energies are enormously enhanced due to the modified tail of the GY’s generalized momentum distribution. Our preliminary estimates indicate also that the deuteron-lithium (D+Li) fusion rate, the proton-boron (p+B) fusion rate, and the proton-lithium (p + Li) fusion rate in a metal/alloy at ambient temperatures are also substantially enhanced due to this quantum plasma nuclear fusion (QPNF) mechanism. Implications of our results and other potential applications are discussed.
+
+
+2. Bose-Einstein Fusion (BEF)
+
+Theoretical studies of the BEF mechanism are described in publications [3-6]. One of the main predictions is that the Coulomb interaction between two charged bosons may be suppressed for the large N case and hence the conventional Gamow factor may be absent. The theory has been used to analyze LENR experiments involving both atomic clusters (Pd black powders [10]) and acoustic cavitations [11]. Recently, the one-specie LENR theory of the BEF mechanism [3-6] used for reactions such as (D +D) has been generalized to the two-species case and applied to (D + Li) reactions [12].
+
+The only unknown parameter of the theory is the probability of the BE ground- state occupation, Ω. Since Ω is expected to increase as the effective temperature of the BE state (superfluidity state) decreases, the nuclear reaction rates for the BEF mechanism are expected to increase at lower temperatures.
+
+
+3. Quantum Plasma Nuclear Fusion
+
+As shown by Galitskii and Yakimets (GY) [7] the quantum energy indeterminacy due to interactions between particles in a plasma leads to a generalized momentum distribution which has a high-energy momentum distribution tail diminishing as an inverse eighth power of the momentum, instead of the conventional Maxwell- Boltzmann distribution tail decaying exponentially. GY’s generalized momentum distribution has been used by Coraddu et al. [13] in an analysis of anomalous cross- sections for D(d,p)3H observed from the low-energy deuteron beam experiments.
+
+In this section, we describe a quantum plasma nuclear fusion (QPNF) mechanism which includes the effect of GY’s generalized momentum distribution on the nuclear fusion rates in a plasma [8,9]. The calculated results based on the QPNF mechanism for deuteron-deuteron fusion rates are compared with the results of the conventional calculation with Maxwell-Boltzmann distribution. As applications of the QPNF mechanism, we investigate other nuclear fusion rates for (D+Li), (p+Li), and (p+B) reactions in metals/alloys.
+
+3.1 Reaction Rates for Quantum Plasma Nuclear Fusion
+To formulate the QPNF mechanism we start with GY’s generalized distribution
+function given by
+r
+distribution, modified by the quantum broadening of the momentum-energy dispersion relation, δγ (E − ε p ), due to particle interactions. δγ (E - ε p ) is given by
+
+where ε = p2 / 2μ is the kinetic energy in the center of mass coordinate of an
+interacting pair of particles, μ is the reduced mass, ∆(E, p) is the energy shift due to r
+the interaction (screening energy, etc.), and γ(E,p)is the line width of the
+r
+momentum-energy dispersion due to collision. γ(E,p) ≈ hρcσ c 2E/μ where ρc is
+the number density of Coulomb scattering centers (nuclei), σ = π (Ze Ze e2 )2 / ε 2 is cijp
+the Coulomb scattering cross section, and Ziee is an effective charge which depends on εp. For small values of εp, Ze is expected to be much smaller than Zi, Ze << Z .
+However, for larger values of ε , it is expected that Ze approaches to Z , Ze ≈ Z .
+
+This Lorentzian distribution, Eq. (2), reduces to the δ-function in the limit of
+The nuclear fusion rate for two nuclei is given by
+and the normalization N is given by
+For a high energy region, εp>>kT, γ, and ∆, we obtain approximately
+as shown by GY [7]. This is to be compared with the other conventional cases,
+
+We now derive an approximate analytical formula for obtaining order-of- magnitude estimate for the nuclear fusion rate. The total nuclear fusion rate, Rij, per unit volume (cm-3) and per unit time (s-1) is obtained from an expansion of Eq. (2) in which the first term is δ(E-εp). Rij is approximately given by
+where RC is the conventional fusion rate calculated with the MB distribution and RQ ij ij
+is the contribution from the second term of the expansion of Eq. (2) and is given by
+where EG is the Gamow energy, EG = (2παZi Zj )2 μc2 / 2, ρi is the number density of
+nuclei, and Sij(0) is the S-factor at zero energy for a fusion reaction between i and j nuclei.
+
+3.2 (D+D) Reactions in a Plasma
+The importance of Eq. (9) is that it distinguishes high density/low temperature plasmas in condensed matter systems from low density/high temperature plasmas produced in magnetic confinement plasma fusion or inertial confinement laser fusion by breaking the contribution of fusion reactions into the Maxwell-
+Boltzmann and the quantum plasma nuclear fusion processes. To access the importance of each, it is useful to investigate the cross section times the velocity averaged over the velocity distribution or fusion reactivity < συ > , given by Eq. (9), as a function temperature.
+Fig. 1. Fusion reactivity, < συ > , of D(d,p)3H reaction in units of cm3/sec as a function of temperature kT in units of eV. The dashed line, the solid line, and the dotted line corresponds the results calculated using the MB distribution, the GY distribution with ρ = 1022cm-3, and the GY distribution with ρ = 1015cm-3, respectively.
+
+In Fig. 1 the calculated fusion reactivities, < συ > , are plotted as a function of temperature kT. There are two density regions of interest; the hydrides in metals shown as the solid line in the figure and the tokamak break-even density shown as the dotted line in the figure. The fusion reactivity of a Maxwell-Boltzmann distribution is independent of density and is shown in the figure as a dashed line. The intersections of the dashed cure and the solid or dotted curves provide values of critical temperature Tcr, when the fusion rate is equal for Maxwell-Boltzmann and the quantum plasma nuclear fusion processes. This comparison shows that quantum effects are important at low temperatures even for the Debye-Hückel plasma,
+ρ << (kT / e2 )3 while they are negligible for the conventional high-temperature (kT ≈
+5 keV ~ 10 keV) plasma fusion such as for the proposed international experimental fusion reactor (ITER). The goal of the ITER project is to achieve a plasma density of 1015 cm-3 while hydride densities in metals are in the range of 1022 cm-3.
+This comparison then explains why the quantum plasma nuclear fusion process is not important in high temperature fusion observations and calculations.
+
+3.3 Glow Discharge Plasma
+Plasmas created in glow discharge experiments are known to have temperatures ranging from 104 K to 5 x 105 K (kT~0.8 eV to kT~40 eV) with densities ranging from ρ≈107cm-3 to ρ≈1014cm-3. As can be seen from Fig. 1, if the density of glow discharge plasmas can be increased to ρ >1014cm-3, glow discharge experiments can become ideal testing and probing grounds for the quantum plasma nuclear fusion mechanism.
+
+
+4. Nuclear Reactions in Metals/Alloys
+
+One of the other potential applications of the QPNF is the nuclear fusion rates in metals. Hydrogen (or deuterium) molecules in Palladium are known to be dissociated into atoms and ionized to bare nuclei [14]. The mobility of protons and deuterons in Pd and other metals has been experimentally demonstrated [15, 16]. However, other heavier nuclei (Li, B, etc.) are most likely to have much less mobility and most of them are stationary in metal/alloy lattices.
+
+Because of the deuteron mobility in metals, (D+D) fusion rates in metals were investigated using the MB velocity distribution for deuterons with a hope that the high-energy tail of the MB distribution may increase the (D+D) fusion rates in metals [17-19]. However, the calculated results for the (D+D) fusion rates with the MB distribution were found to be extremely small at ambient temperatures [17-19].
+RQ given by Eq. (9) covers three different cases: ij
+(a) Nuclei i and j are the same specie and mobile in a plasma with a GY velocity distribution (for example i and j are both deuterons yielding the (D+D) fusion reaction rate).
+(b) Nuclei i and j are two different species and both mobile in a mixed two- species plasma with velocity distributions (for example i is for protons and j is for deuterons yielding the (p+D) fusion reaction).
+(c) Nucleus i is mobile and from a single-specie plasma with a velocity distribution, but nucleus j is stationary and imbedded in a metal/alloy matrix. Nuclei i and j are the same specie (for example i and j are both protons or both deuterons or nuclei i and j are two different species yielding (D+Li), (p+Li) and (p+B) fusion reactions).
+
+4.1 Deuteron Beam Experiments with Deuterated Metal Targets
+Recent results of cross-section measurements from deuteron beam experiments with metal targets by Kasagi et al., [20] and Rolf et al. [21] indicate that the QPNF mechanism may be occurring. Recently, Rolf et al. [21] have investigated the electron screening effect in the D(d,p)3H reaction with a low energy (center-of-mass energies between ~ 4 keV and ~ 15 keV) deuteron beam on deuterated targets (32 metals, 3 insulators, 3 semiconductors, 3 groups 3 and 4 elements, 13 lanthanides). They have found that all deuterated metals yield large extracted values of the screening energy Ue ranging
+from Ue=180 ± 40 eV (Be) to Ue=800 ±90 eV (Pd), while all deuterated non-metal targets yield smaller values of Ue ≤ 80 eV.
+If we interpret the anomalous values of Ue for metal targets in terms of the QPNF mechanism, wide variations of 32 different values of Ue ranging from Ue = 180 ± 40 eV (Be) to Ue = 800 ± 90 eV (Pd) may be correlated with the number density of mobile deuterons in metal targets which in turn may be related to deuteron loading ratios, deuteron diffusion coefficients in metals, external stimulations, etc., such as applied electromagnetic fields.
+
+4.2 (D+D) and (D+Li) Reactions at Ambient Temperatures in Metals/Alloys
+For the case of (D + D) fusion reaction, order-of-magnitude estimates for RQ are
+DD shown as a function of the mobile deuteron density ρ in Table 1 calculated from Eq.
+(9) with Sij(0) = 110 keV-barn for both D(d,p)3H and D(d,n)3He reactions combined. The mobile deuteron density of ρ = 6 x 1022cm-3 is probably an upper limit of the maximum density achievable in deuterated metals/alloys.
+To grasp the significance of the results for RQ in Table 1, they need to be compared DD
+to the DD fusion rate, RC , calculated utilizing the MB distribution [17-19]. The DD
+calculated values [17-19] for RC depend on both ρ and the electron screening energy. DD
+Taking ρ = 6 x 1022cm-3 the results yield RC ~10-73cm-3s-1 when a conventional DD
+electron screening energy of Es = e2/ao ≈27 eV (ao is the Bohr radius) is used. These
+results improve t is used, which is at the
+extreme limit of what an acceptable for Es might be. Both estimates should be compared with RDD ≈ 0.4 x 1015cm-3s-1 given in Table 1.
+
+Our results of surprisingly large fusion rates for the DD fusion reaction in a deuterated metal/alloy at ambient temperatures may offer a sound, conventional theoretical explanation for most of the nuclear emissions results reported from the previous LENR experiments [22].
+Given similar conditions as for the DD fusion, the fusion rate for the D6Li fusion reaction is estimated to be ~10 % of the DD fusion rate, RQ ≈ 0.1 RQ .
+DD
+
+
+5 Aneutronic and Non-Radioactive Nuclear Fusions
+
+The DD fusion reactions create neutrons and radioactive tritium. Candidate aneutronic and non-radioactive nuclear fusion reactions are 6Li(p,3He)4He with Q=4.02 MeV and 11B(p,α)24He with Q=8.69 MeV. Given the same conditions as for the DD fusion, the fusion rate for the p6Li fusion is estimated to be ~ 30% of the DD
+fusion rate, RQ ≈ 0.3 RQ , while the p11B fusion rate is estimated to be ~ 85% of the DD fusion rate, RQ ≈ 0.85 RQ . The other aneutronic and non-radioactive
+p11B
+reaction, 7Li(p,4He)4He, has a much lower fusion rate, RQ7 ≈ 0.5 x 10-2 RQ .
+
+For two cases, (p +Li) and (p +B), the fusion reaction rate has been estimated and is shown in Table 2 as a function of the fraction of hydrogen that is mobile within the lattice. In the calculation Sij(0) = 4.5 MeV-barn and 197 MeV-barn are used for 6Li(p,α)3He (Q=4.02 MeV) and 11B(p,α)24He (Q=8.69 MeV), respectively.
+Table 2. Order-of-magnitude estimates for fusion rate, RQ, in units of cm-3s-1 and power denisty, P, in untis of watts cm-3. The particle (mobile protons) number density, ρ, is in units of
+6x1022cm-3.Ze=Z,Ze=Z,ρ =ρ=ρ=ρ,andkT=0.02eVareassumed.
+
+Based on the calculated results of fusion rates with the QPNF mechanism shown in Table 2, we see that nuclear fusion rates for (p+6Li) and (p+11B) LENR processes in hydrogenated metals/alloys are sufficiently high for practical energy generation. If we could achieve sufficiently high fusion rates for 6Li(p, 3He)4He and 11B(p, α)24He fusion reactions with the LENR processes in hydrogenated metals/alloys, they could become attractive alternative methods for generating clean nuclear fusion energy.
+
+
+6. Other Potential Applications
+
+Finally it would be of interest to consider other potential applications:
+6.1 Glow Discharge Experiments
+As described in subsection 3.3, glow discharge experiments are ideal probing and testing grounds for the QPNF mechanism. Recently, there have been many glow discharge experiments reporting anomalous effects [23-30]. We plan to investigate the role of the QPNF mechanism in the glow discharge plasmas.
+
+6.2 Acoustic Nuclear Fusion Reactions
+Earlier, acoustic cavitation experiments (ACE) were carried out by Stringham [31]. In Stringham’s experiments [31], transient cavitation bubbles (TCB) were created in heavy water without the use of a neutron generator and were driven to impact on target metal foils as a jet plasma. It has been reported [31] that these TCB jet plasma impacts produce excess heat and nuclear products (4He and tritium) suggesting a plasma impact fusion. In 1990, Lipson et al., reported observation of a very low level of neutron production in TCB type experiment [32]. Recently, Taleyarkhan et al. [33] reported the observation of tritium and neutron production during their acoustic cavitation experiment using deuterated acetone and a pulsed neutron generator. Most recently, the temperature measurement of a single bubble acousitic cavitation has been made [34].
+We plan to investigate the role of the QPNF mechanism in the ACE in our future work
+
+6.3 Geophysics and Astrophysics
+The electron screening effect, in conjunction with a particle velocity distribution, has been shown to enhance the cross sections and reaction rates for proton-deuteron (pD) fusion at extremely low kinetic energies [35]. The pD fusion reaction is shown to dominate other fusion reactions involving hydrogen isotopes for kinetic energies E <%
+8 eV in the center-of-mass frame. This indicates that pD fusion may serve as an important source of internal energy for planetary bodies. It was suggested [36] that the well-established high 3He/4He ratio in volcanic emissions [37-39] may be attributable to the reaction D(p,γ)3He (Q = 4.50 MeV) occurring in the mantle of the earth, which has temperatures of 1200-3000°K (kT ≈ 0.1 ~ 0.25eV ). The
+conventional calculation yields values of the pD fusion rate which are astronomically small. The QPNF mechanism enhancement of the fusion rate for the reaction D (p,γ)3He may therefore explain the high 3He/4He ratio, and also provide a theoretical support for the view that a major source of mantle heating in the earth is due to reaction D(p, γ)3He
+
+The effect of the QPNF mechanism on pD fusion may also provide a balance to the excess heat radiation from the gas giant planets (Jupiter [40], Saturn [41], Uranus [42] and Neptune [42,43]). It will be interesting to see whether pD fusion based on the QPNF mechanism is a possible source for the excess heat emitted by Jupiter. We plan to explore these problems in terms of the QPNF mechanism in our future work.
+
+
+7. Summary and Conclusions
+
+Both the BEF and the QPNF mechanisms are based on the same physical model which assumes that deuterium/hydrogen is in a plasma state and is mobile in a deuterated/hydrogenated metal as deuteron/proton ion.
+
+Based on the QPNF mechanism, we have investigated the quantum corrections to the equilibrium rate of nuclear fusion rate in a plasma. Using a generalized particle momentum distribution given by Galitskii and Yakimets [7], we have constructed an approximate semi-analytical formula for the nuclear fusion reaction rate between nuclei in a plasma. The calculated results show that the QPNF mechanism leads to a dramatic increase of the fusion rate for mobile deuterons in deuterated metal/alloy at ambient temperatures. Our preliminary estimates indicate also that the deuteron- lithium (D+Li) fusion rate, the proton-lithium (p+Li) fusion rate, and the (p+B) fusion rate in a metal/alloy at ambient temperatures are also substantially enhanced due to the QPNF mechanism.
+
+Both the BEF mechanism and the QPNF mechanism are applicable to nearly all of the reported results of the LENR and transmutation experiments: (1) electrolysis experiments, (2) gas experiments, (3) nuclear emission experiments, (4) transient acoustic cavitation experiments, (5) acoustic cavitation experiments, (6) deuteron beam experiments, (7) glow discharge experiments, and (8) transmutation experiments.
+
+
+8. References
+
+1. P.L. Hagelstein et al., "New Physical Effects in Metal Deuterides", submitted to DOE for a review, July 2004, and references therein. This report was posted December 1, 2004 at the DOE website: http://www.sc.doe.gov. Published in the Proceedings of 11th International Conference on Cold Fusion (ICCF-11), Marseille, France, 2004; Condensed Matter Nuclear Science, pp. 23-59, World Scientific Publishing Co. (2006).
+2. See experimental papers in the Proceedings of the 10th International Conference on Cold Fusion (ICCF-10), Cambridge, MA, USA, 2003; Condensed Matter Nuclear Science, World Scientific Publishing Co. (2006).
+3. Y.E. Kim and A.L. Zubarev, Fusion Technology 37, 151 (2000).
+4. Y.E. Kim and A.L. Zubarev, Italian Physical Society Proceedings 70, 375 (2000).
+5. Y.E. Kim and A.L. Zubarev, Physical Review A64, 013603 (2001).
+6. Y.E. Kim, Progress of Theoretical Physics Supplement 154, 379 (2004).
+7. V.M. Galitskii and V.V. Yakimets, J. Exp. Theoret. Phys. (U.S.S.R.) 51, 957,
+(1966).
+8. Y.E. Kim and A.L. Zubarev, “Quantum Plasma Nuclear Fusion”, Purdue Nuclear
+and Many-Body Nuclear Theory Group (PNMBTG), Preprint PNMBTG-4-05 (November 2005).
+
+9. Y.E. Kim and A.L. Zubarev, “Effect of a Generalized Particle Momentum Distribution on Plasma Nuclear Fusion Rates”, PNMBTG-5-05 (December, 2005).
+10. Y.E. Kim, D.S. Koltick, R. Pringer, J. Myers, and R. Koltick, in Proceedings of ICCF-10 (Cambridge, MA USA, 2003), pp. 789-799.
+11.Y.E. Kim, D.S. Koltick, and A.L. Zubarev, in Proceedings of the ICCF-10 (Cambridge, MA, USA, 2003), pp. 779-787.
+12. YE. Kim and A.L. Zubarev, “Mixture of Charged Bosons Confined in Harmonic Traps and Bose-Einstein Condensation Mechanism for Low Energy Nuclear
+Reactions and Transmutation Processes in Condensed Matters”, in Proceedings
+of the ICCF-11 (Marseille, France, 2004), pp. 711-717.
+13. Coraddu et al., Physica A 340, 490 (2004); Coraddu, et al., Physica A 340, 496
+(2004) and references therein.
+14. F.A. Lewis, Platinum Metal Reviews 26 (1982), pp. 20, 70, 121.
+15. Q.M. Barer, “Diffusion in and through Solids,” Cambridge University Press, New
+York, NY (1941).
+16.Y. Fukai, “The Metal-Hydrogen System”, Second Edition, Springer Berlin
+Heidelberg New York (2005).
+17. R.A. Rice, G.S. Chulick, and Y.E. Kim, “The Effect of Velocity Distribution and
+Electron Screening on Cold Fusion”, Proceedings of the First International Conference on Cold Fusion, pp. 185-193, March 1990, Salt Lake City, Utah, edited by F. Will.
+18.R.A. Rice, G.S. Chulick, Y.E. Kim, and J.-H. Yoon, “The Role of Velocity Distribution in Cold Deuterium-Deuterium Fusion”, Fusion Technology 18, 147 (1990).
+
+19. Y.E. Kim, R. S. Rice, and G. S. Chulick, “The Effect of Coulomb Screening and Velocity Distribution on Fusion Cross-Sections and Rates in Physical Processes”, Modern Physics Letters A 6, 926 (1991).
+20.J. Kasagi, Progress of Theoretical Physics Supplement No. 154, 365 (2004); Kasagi et al., J. of Phys. Soc of Japan 73, 608 (2004).
+21. C. Rolfs et al., “Enhanced Electron Screening in d(d,p)t for Deuterated Metals”, Progress of Theoretical Physics Supplement, No. 154, 373 (2004); F. Raiola et al., Eur. Phys. J. A19, 283 (2004).
+22. References 32, 33, 86-111 quoted in Hagelstein, et al. [1].
+23.T. Mizuno, T. Ohmori, and T. Akimoto, in the Proceedings of the ICCF-7
+(Vancouver, Canada, 1998), p. 247 and p. 253.
+24. T. Mizuno, T. Ohmori, T. Akimoto, and A. Takahashi; “Production of Heat during
+Plasma Electrolysis in Liquid”, Jpn. J. Appl. Phys. 39, 6055 (2000).
+25. H. Conrads, R. Mills, and Th. Wrubel, “Emmision in the deep vacuum ultraviolet from a plasma formed by incandescently heating hydrogen gas with trace amounts
+of potassium carbonate”, Plasma Sources Science and Technology 12, 389 (2003).
+
+26.Mizuno, et al., “Hydrogen Evolution by Plasma Electrolysis in Aqueous Solution”; Jpn. J. Appl. Phys. 44, No. 1A, 396 (2005).
+27. T. Mizuno, T. Ohmori, and T. Akimoto, “Generation of Heat and Products during Plasma Electrolysis”, Condensed Matter Nuclear Science: Proceedings of ICCF- 10, 73 (2006), World Scientific Publishing Co.
+28.T. Mizuno, Y. Aoki, D.Y. Chung, and F. Sesftel, “Generation of Heat and Products during Plasma Electrolysis”, Condensed Matter Nuclear Science: Proceedings of ICCF-11, 161 (2006), World Scientific Publishing Co.
+29. T. Mizuno and Y. Toriyabe, “Anomalous Energy Generation during Conventional Electrolysis”, to be published in Condensed Matter Nuclear Science: Proceedings of ICCF-12, Yokohama, Japan, November 28 – December 2, 2005.
+30.J.-F. Fauvarque, P.P. Clauzon, G. J.-M. Lalleve, “Abnormal Excess Heat Observed During Mizuno-type Experiments ”, to be published in Condensed
+Matter Nuclear Science: Proceedings of ICCF-12, Yokohama, Japan, November
+28 – December 2, 2005.
+31. R.S. Stringham, Proceedings of the IEEE Ultrasonics International Symposium,
+Sendai, Japan, Vol. 2, 1107, (1998); Proceedings of The Seventh International Conference on Cold Fusion (ICCF-7), Vancouver BC Canada, (1998); Proceedings of IDDF-8, Villa Marigola, LaSpezia, Italy, May 21-26 (2000); Proceedings of IDDF-9, 323 (2002); Proceedings of ICCF-10 (2003).
+32.A.G. Lipson, V.A. Klyuev, B.V. Deryaguin et al., “Observation of Neutrons Accompanying Cavitation in Deuterium-Containing Media”, Sov. Tech. Phys.Lett. (Pisma v Zhurnal Teknicheskoi Fiziki), 61, (10), 763 (October 1990).
+
+33. R.P. Taleyarkhan et al., Science, 295, 1898 (2002); Physical Review E 69, 36109- 1 (March 2004).
+34. D. Flannigan and K. Suslick, Nature 424, 52 (2005).
+35. Y.E. Kim, R.A. Rice, and G.S. Chulick, “The Role of the Low-Energy Proton-
+Deuteron Fusion Cross-Section in Physical Processes”, Fusion Technology 19, 74
+(1991).
+36. S.E. Jones, et al., Nature 338, 737 (1989).
+37. H. Craig, et al., Geophys. Res. Lett. 5, 897 (1978).
+38. J.E. Lupton and H. Craig, et al., Science 214, 13 (1981).
+39.B.A. Mamyrin and L.N. Tolstikhin, Helium Isotopes in Nature (Elsevier,
+Amsterdam, 1984).
+40. R.A. Hanel, et al., J. of Geophys. Res. 86, 8705 (1981).
+41. R.A. Hanel, et al., Icarus 53, 262 (1983).
+42. J.B. Pollack, et al., Icarus 65, 442 (1986).
+43. B. Conrath, et al., Science 246, 1454 (1989).

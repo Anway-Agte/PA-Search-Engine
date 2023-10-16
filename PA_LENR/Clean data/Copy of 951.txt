@@ -1,0 +1,383 @@
+1. Introduction
+
+Although considerable effort has been expended in the study of the H(D)-Pd 
+system, 1,2 relatively little attention has been paid to the thermodynamic properties of 
+compositions within the� (a') phase, in particular for x > 0.8. In the context of excess 
+power production in the D-Pd system, this deficiency is particularly unfortunate since 
+the attainment of loadings higher than about 0.85 appears to be one of the criteria 
+necessary for its observation. 3-6 
+
+Experimentally, the reproducible attainment and maintenance of 
+electrochemical loadings larger than about 0.85 have proven to be more challenging 
+than might be expected from cursory inspection of earlier literature and, presently, 
+much of the effort in the "new hydrogen energy" field is devoted to this issue. Clearly, 
+in order to understand fully the calorimetric behaviour of the H(D)-Pd system at 
+elevated loadings (i.e. elevated values of the H(D) chemical potential, at modest 
+temperatures and pressures 3), a number of thermodynamic issues must be addressed. A 
+number of such issues are discussed briefly here; although both hydrogen and 
+deuterium alloys are described, the data cited are for H-Pd (at 298 K) unless otherwise 
+indicated. 
+
+
+2. Non-ideality in the H(D)-Pd system
+
+Any description of the thermodynamic properties of the B phase must take into 
+account the fact that it is a non-ideal solution of hydrogen in palladium. Thus the 
+thermodynamic state functions vary not only with temperature and pressure (or 
+volume), but also with composition. The chemical potential of hydrogen in palladium 
+may be written as:7 
+
+µ = µ 0 + R T In � + µ ex 
+1-x 
+
+where the term µex is introduced to account for deviations from ideal solution 
+behaviour. For didactic purposes at least, it is found convenient to regard the dissolved 
+hydrogen as electronically screened protons. This leads to the decomposition ofµ ex into 
+two (additive) terms: Firstly, an "elastic" term due to the dilation of the lattice on 
+occupation by hydrogen. This term is increasingly negative with increasing x (very 
+approximately linearly so) corresponding to a net attractive interaction between the 
+screened protons. Secondly, an "electronic" term which reflects the rise in the Fermi 
+level due to the electrons associated with the dissolved hydrogen. This term is 
+increasingly positive with increasing x, increasing relatively slowly for x < 0.6 as the 
+high density-of-states 4d band is occupied, but more rapidly, and approximately 
+linearly, at higher loadings as electrons are forced to enter the low density-of-states 5s 
+band (for a detailed account, see Ref. 2). For compositions in the � phase (x > 0.6) the 
+electronic term dominates, leading to a linear variation ofµ with x, as has been 
+observed experimentally for both H and D, at least up to x = 0.8.8,9 
+
+The non-ideal nature of hydrogen in palladium has several consequences of 
+interest in the context of loading. For example, the dependence of chemical potential on 
+loading contributes directly to the Fick's law diffusion coefficient, 
+
+aµ 
+DF = M x­ox 
+
+Recent measurements on the H-Pd system reveal that DF increases with x in the� 
+phase lO indicating that the rapid rise ofµ with loading offsets the anticipated drop in 
+mobility with increased octahedral site occupancy (however, contrary data have been 
+reported 11 ). 
+
+Another quantity of interest is the (relative) partial molar enthalpy of absorption 
+in the � phase, Af-/ r• This is the enthalpy change for the constant temperature process 
+
+½ H 2 (pO, T) � [H] (x, p, T) 
+
+By considering Af-lr to be a function of volume and composition, we may derive the 
+following compositional dependence2,
+ 1 2 
+X 
++ J(oAf-lr) dx
+ox 
+V 
+
+The second and third terms on the right-hand-side of Eqn. 4 behave analogously to the 
+elastic and electronic contributions, respectively, to the chemical potential. In Fig. 1, 
+the quantity "11Hr - Af-lr(x=O) - p VH" is plotted schematically versus loading, together 
+with its "elastic" and "electronic" components.13 (Qualitatively, the behaviour of this 
+
+
+Figure 1 .  Composi tional dependence of 
+elastic and electronic contributions to relative 
+partial molar enthalpy. Adapted from Ref. 1 3. 
+
+
+Figure 2. Relative partial molar en thai pies: 
+calori metrically determined, H (open circles), D (filled 
+circles); calculated, H (l ine). Data from Refs. 9 and 14. 
+
+quantity is the same as that of Aflr itself since the additional terms are either relatively 
+small or constant). At low loadings, the partial molar enthalpy of absorption is 
+exothermic, due to the dominance of the negative elastic contribution. However, similar 
+to the behaviour of the chemical potential, in the p phase region the electronic term 
+dominates, causing the relative partial molar enthalpy to become more positive with 
+increasing loading. The results of a detailed statistical thermodynamical calculation of 
+Aflr for hydrogen are shown in Fig. 2.14 It is apparent that, unless a phase change
+occurs in the region 0.8 < x < 1.0, 6Hr is expected to become endothermic somewhere 
+in this interval. In Figs. I and 2, it should be noted that the existence of the two-phase 
+region for x < 0.6 has not been explicitly recognized; this is often the case in modelling 
+studies based on equations such as (1) and (4). For increasing loading in the two-phase 
+region, the molar enthalpy change is independent of composition and approximately -19
+kJ mol-1 for H-Pd and -17 kJ mo1-1 for D-Pd.9 
+
+Calorimetrically measured values of 6Hr are shown for both hydrogen and 
+deuterium in Fig. 2. 9, 15 Although these data do not extend to particularly high loadings, 
+they are in broad, if not exact, agreement with theoretical predictions. It is of interest to 
+note that the exothermic/ endothermic transition is expected to occur at a lower loading 
+for deuterium than for hydrogen. It should be remarked that experimental values of Af-lr 
+are available in the literature for x > 0.9.1h However, other researchers have questioned 
+these data l 7 and they are not included here. 
+
+Since direct calorimetric measurement of Aflr at high x may be difficult, it is of 
+interest to see if other experimental data may be used to derive Aflr values. From 
+elementary thermodynamics we may derive 
+where the first term on the right-hand-side is the partial molar enthalpy change for the 
+process 
+
+1 h H 2 (p, T) ➔ [HJ (x, p, T)
+
+This is a negative quantity at accessible pressures. The second term corresponds to the 
+molar enthalpy change (a positive quantity) for the process 
+
+This latter process is well-characterised thermodynamically; thus calculation of 6Hr is 
+essentially a matter of determining the pressure-compositions isotherms over a range of 
+temperatures at high loadings. 
+
+For a finite change in loading at constant temperature (involving the production 
+or consumption of hydrogen gas at 1 atm.), the total enthalpy change is given by 
+
+x2 
+6H(x 1➔x2) = -1- ]Aflr dx
+x2-x I XI 
+
+Furthermore, the total energy change, LiU(x 1➔x2), and LiH(x1➔x2) differ by no more 
+than about 1 kJ moJ-1, for loadings up to approximately unity.
+
+
+3. Gas-phase vs. electrochemical loading
+
+Gas-phase and electrochemical loading differ thermodynamically in two 
+important respects: Firstly, with respect to the value ofµ for a given loading; secondly, 
+with respect to the ease of measurement of µ (and, hence, the loading) for each loading 
+method. In what follows, it is assumed that metallurgical considerations do not 
+intervene to lower the loading below that (maximum) value which corresponds to the 
+thermodynamic state of surface adsorbed hydrogen atoms, i.e. in the electrochemical 
+steady-state, the metal is internally in equilibrium. Furthermore, for ease of expression, 
+only acidic conditions are considered in the electrochemical case; the following 
+arguments are unchanged for loading in basic solutions. Finally, during electrochemical 
+loading, it is assumed that the ambient hydrogen pressure is 1 atm. 
+
+The essential differences between gas-phase and electrochemical loading are 
+illustrated in Fig. 3. In this figure, Ha represents a surface-adsorbed hydrogen atom, 
+while Hi represents dissolved hydrogen. In gas-phase loading, a state may be reached 
+where the environing hydrogen gas, surface adsorbed hydrogen atoms, dissolved 
+hydrogen atom<; and any hydrogen gas formed in voids within the metal are in 
+equilibrium. In this case, the loading at a given temperature is determined by the 
+fugacity of the environing hydrogen gas (or hydrogen partial pressure, at pressures less 
+than about 100 atm.). In the electrochemical case, on the other hand, the steady-state 
+does not necessarily correspond to equilibrium between the environing hydrogen gas 
+and the surface adsorbed hydrogen atoms. Hence, the sample experiences a hydrostatic 
+pressure of 1 atm. regardless of the chemical potential of surface ads9rbed hydrogen 
+atoms. (Note, however, that any gas formed in voids within the metal is in chemical 
+equilibrium with the dissolved hydrogen, leading to pressurized voids). Thus, at a given 
+loading, the chemical potential of dissolved hydrogen loaded electrochemically, 
+µ(pO x), is related to the chemical potential obtained in gas-phase loading, µ(p, x), by 
+
+p 
+µ(p 0,x) = µ(p,x)-
+fVHdP
+po 
+
+This difference, although conceptually important, is generally small numerically. In 
+other words, those physical properties of gas-hided and electrochemically loaded 
+palladium which are dependent of the chemical potential of hydrogen will differ only 
+negligibly; for example, the pressure generated within voids in the metal when loaded 
+electrochemically will be slightly less than that generated under gas-phase loading, for 
+the same loading. As an aside, we note that a situation similar to electrochemical 
+loading exists in so-called gas phase atomic loading, Fig. 3. Here, hydrogen atoms are 
+generated continually in the gas phase from molecular hydrogen using a hot wire. These 
+hydrogen atoms are not e4uilibrated with the molecular hydrogen, i.e. are formed with 
+an elevated chemical potential, and arc thus capable of causing high loadings, as has 
+been demonstrated experimentally.18 We speculate that the ultrasonic cavitation of 
+water in the presence of a palladium substrate (where hydrogen atom generation is 
+known to occur 19) will have similar consequences. 
+
+The following question naturally arises: can we, in an electrochemical 
+experiment, infer the loading of a palladium cathode from the measured cathode 
+
+a) Gas phase loading - chemical equilibrium
+Gas phase 
+Metal 
+
+b) Electrochemical loading - steady-state
+H++e
+1-Ieyrovsky 
+H2 -< > H+ + e
+Electrolyte 
+
+c) Gas phase atomic loading - steady state
+Gas phase 
+
+Figure 3. Loading mechanisms 
+
+overvoltage'? In gas-phase loading, knowledge of the hydrogen pressure and the 
+temperature are sufficient to determine the palladium loading at equilibrium. Thus gas­
+phase loading is generally not suitable for achieving very high loadings due to the 
+experimental difficulties caused by the enormous pressures involved. In 
+electrochemical loading, on the other hand, while it is possible to generate overvoltages 
+at a palladium cathode which are, in principle, sufficient to raise the chemical potential 
+of the dissolved hydrogen to values necessary for loadings approaching unity (greater 
+than 35 kJ mol-1 or 0.35 e V for H), it is not possible to convert a measured overvoltage 
+directly into a loading without detailed knowledge of the electrochemical reaction 
+mechanism. This subject has been discussed extensively in the literature20-23 and only 
+the key points are summarized here. 
+
+In general, two extreme cases may be recognized: 
+(i) For an electrochemical reaction in which the electron transfer (Volmer) step
+has a relatively small - in the limit, zero - affinity (i.e. is in a state of "quasi­
+equilibrium"): 
+- The dissolved hydrogen is not equilibrated with the environing hydrogen.
+- High loadings are possible (the chemical potential of dissolved hydrogen is
+directly proportional to the (negative) overvoltage measured with respect to a
+standard hydrogen reference electrode, ri).
+- Metal voids are pressurized, leading potentially to cracking and blistering.
+(ii) For an electrochemical reaction in which the hydrogen atom recombination
+(Tafel) step is 111 quasi-equilibrium: 
+- The dissolved hydrogen is equilibrated with the environing hydrogen.
+- High loadings are not possible (the chemical potential of dissolved hydrogen is
+given directly by the environing gas pressure and is not relatetl to the
+overvoltage ).
+- Metal voids are not pressurized.
+
+It is important to realise that the two cases described above represent the upper 
+and lower limits of a spectrum of possible behaviour (a third possibility, that of an 
+atom-ion recombination (Heyrovsky) step in quasi-equilibrium, is similar to case (ii) in 
+that it is not condusive to high loadings); in practice, the situation will be somewhere in 
+between such that only a ji-action of the measured overvoltage is used to determine the 
+chemical potential of dissolved hydrogen. This fraction is determined by the affinity 
+distribution between the various elementary steps, which is turn is decided by the 
+relative values of the forward and reverse reaction rates for each step. Thus, ultimately, 
+the loading/ overvoltage (or loading/ current) functionality is determined by kinetic 
+factors. Traditional electrochemical procedures may be used to induce a functionality 
+which corresponds more closely to (the desirable) case (i) than (the undesirable) case 
+(ii) above; for example, the addition of thiourea, which is known to increase the affinity
+of the Tafel step (i.e. the overvoltage at constant current under case (i) conditions),
+thereby preventing it reaching a state of quasi-equilibrium, and hence enhancing the
+loading. 24.2'.i
+
+In the event that the kinetic propertit:s of the system are such that, in the limit, 
+case (i) behaviour is observed (or, in the general case, that the affinity of the Volmer 
+step is independent of overvoltage), a simple relationship may be derived for the 
+dependence of loading on overvoltage (or current). Under case (i) conditions (referred 
+to in the electrochemical literature as "fast discharge/ slow recombination"), 
+
+- F Tl= µ - µ*
+
+whereµ* is the chemical potential of dissolved hydrogen with no applied overvoltage 
+(i.e. that value corresponding to the environing hydrogen pressure). Up to loadings of 
+about 0.8 (and perhaps beyond, although data are lacking), µ varies linearly with 
+loading, as discussed above, and, hence 
+
+T)=Ax+B 
+
+where A and B are constant at a given temperature. Further, if Tafel' s law is obeyed, 
+the loading is expected to vary logarithmically with the current. Experimental 
+verification of these relationships has been obtained,5 even at loadings well above those 
+at which the linear �l, x dependence has been observed empirically. 
+
+
+4. Effect of temperature on loading
+
+The results obtained above may be used to address the question: how does the 
+loading of a palladium sample vary with temperature? In the general case, we may 
+write: 
+
+In the case of gas-phase loading, where equilibrium exists between the sample and the 
+environing hydrogen, the first partial differential term on the right-hand-side of Eqn. 12 
+may be expressed in terms of the properties of the environing hydrogen, giving 
+where 11S6 and f1H6 are the partial molar entropy and enthalpy changes, respectively, of 
+the reaction in Eqn. 6. These are negative quantities, leading to the expected result that, 
+in gas-phase loading, raising the temperature at constant pressure will lower the 
+loading. Note that Eqn. 13 is a mathematical statement of Le Chatelier's principle. 
+
+In the case of electrochemical loading, where, if high loadings are to be 
+obtained, the sample is not in equilibrium with its environment, Eqn. 13 may not be 
+employed. Instead, we may utilize Eqn. 10 in order to cast the first partial differential 
+term on the right-hand-side of Eqn. 12 into a more convenient form, and write 
+where 11Sr is the partial molar entropy change of the reaction in Eqn. 3, a negative 
+quantity. Eqn. 14 is valid for case (i) conditions, ciescribed in Sect. 3. (Of course, case 
+(ii) conditions correspond to Eqn. 13). In the (likely) event that an intermediate case is
+encountered, an additional partial differential must be added to the bracketed term in
+Eqn. 14 in order to include the temperature dependence of the reaction affinity for the
+Volmer step. Thus, in the case of electrochemical loading, a number of (ultimately)
+kinetically-determined factors enter into the determination of (c)xJc)T)p0, the sign and 
+magnitude of which are difficult to predict. Under case (i) conditions, in order to ensure 
+that the loaciing increases as a result of a temperature step, the overvoltage must 
+increase (become more negative) at constant current. The magnitude of this increase is 
+given by Eqn. 14 if fiSr is known. Practically, an increasing overvoltage with increasing 
+temperature (at first sight, an unlikely situation) might correspond to an increasingly 
+"poisoned" recombination step (either atom-atom or atom-ion); for example, due to a 
+change in electrode surface composition with increasing temperature. Finally, it will be 
+noted that the value of fiHr is important in this context only to the extent that it 
+contributes (partially) to Mr, 
+
+
+5. Concluding remarks
+
+The present discussion has centered on the properties of highly loaded 
+compositions in the H(D)-Pd system. Unfortunately, a general absence of pertinent 
+empirical data hampers a definitive development of many of the areas of inquiry dealt 
+with here. In order to fully understand the properties of the highly loaded H(D)-Pd 
+system, considerable experimental work is required in order to determine basic 
+thermodynamic parameters for x > 0.8. This is particularly important if the possibility 
+of new phase formation at elevated loadings cannot be discounted. 
+
+
+List of Symbols/ Nomenclature 
+µ = chemical potential of dissolved hydrogen 
+x = loading ratio, H(D)/Pd 
+µ0 = a standard chemical potential
+R = gas constant 
+DF = Fick's law diffusion coefficient
+[H] = dissolved hydrogen
+M = mobility 
+T = absolute temperature
+tiHr = (relative) partial molar enthalpy of absorption 
+tiH r(x=0) = as above, at infinite dilution 
+!J..H = enthalpy change 
+!J..U = energy change 
+VH = partial molar volume of hydrogen 
+V Pd = molar volume of Pd 
+V H2 = molar volume of gaseous H2 
+
+
+References 
+
+p = total pressure 
+p0 = I atm. pressure 
+fH2 = hydrogen fugacity
+K = bulk modulus of PdHx 
+F = Faraday's constant 
+I. Lewis, The Palladium Hydrogen System, Academic Press, London, New York (1967).
+2. Wicke and Brodowsky, "Hydrogen in Palladium and Palladium Alloys", Hydrogen in
+Metals II, ed. Alefeld and Vol kl, Topics in Applied Physics, vol. 29, p. 73, Springer­
+Verlag, Berlin (1978).
+3. Fleischmann, Pons and Hawkins, J. Electroanal. Chem., 261, 301 (1989); 263, 187
+4. McKubre, Crouch-Baker, Riley, Smedley and Tanzella, "Excess Power Observations
+in Electrochemical Studies of the D/Pd System: the Influence of Loading", Frontiers
+of Cold Fusion, ed. Ikegami, Frontiers Science Series no. 4, p. 5, Universal Academy
+Press, Tokyo (1993).
+Kunimatsu, Hasegawa, Kubota, Imai, Ishikawa, Akita and Tsuchida, "Deuterium
+Loading Ratio and Excess heat Generation during Electrolysis of Heavy Water by a
+Palladium Cathode in a Closed Cell Using a Partially Immersed Fuel Cell Anode",
+ibid., p. 3 I.
+6. McKubre, Crouch-Baker, Rocha-Filho, Smedley, Tanzella, Passell and Santucci, J.
+Electroanal.Chem., 368, 55 (1994).
+7. Wagner, Z. Physik. Chem., Al93, 386, 407 (1944).
+8. Wicke and Nernst, Ber. Bunsenges. Phys. Chem. 68,224 (1964).
+9. Flanagan, Luo and Clewley, J. Less Common Metals, 172-174, 42 (1991).
+IO. Mengoli, Fabrizio, Manduchi and Zannoni, J. Electroanal. Chem., 350, 57 (1993). 
+1 I. Majorowski and Baranowski, J. Phys. Chem. Solids, 43, 1119 (1982). 
+I 2. Fukai, The Metal-Hydrogen System, Springer Series in Materials Science 21, 
+Springer-Verlag, Berlin (1993). 
+13. Hemmes, Salomons, Griessen, Sanger and Driessen, Phys. Rev. B, 39, 10606 (1989).
+14. Flanagan and Lynch, J. Phys. Chem., 79,444 (1975).
+15. Kuji, Oates, Bowerman and Flanagan, J. Phys. F: Met. Phys., 13, 1785 (1983).
+I 6. Baranowski, "Metal-Hydrogen Systems at High Hydrogen Pressures", Hydrogen in 
+Metals II, ed. Alefeld and Volk!, Topics in Applied Physics, vol. 29, p. 157, Springer­
+Verlag, Berlin (1978). 
+17. Feenstra, Griessen and de Groot, J. Phys. F: Met. Phys., 16, 1933,(1986).
+18. Oates and Flanagan, Nature, 231, 19 (1971 ).
+19. Suslick, "Homogeneous Sonochemistry", Ultrasound - Its Chemical, Physical and
+Biological Effects, ed. Suslick, p. 123, VCH Publishers, New York ( 1988).
+20. Andrews and Ubbelohde, Proc. Roy. Soc., A253, 6 (1959).
+21. Van Rysselberghe, "Some Aspects of the Thermodynamic Structure of
+Electrochemistry", Modern Aspects of Electrochemistry, ed. Bockris, p. 1, Plenum,
+New York (1966).
+22. Bockris and Subramanyan, Electrochimica Acta, 16, 2 I 69 (1971 ).
+23. Maoka and Enyo, Electrochimica Acta, 26,607, 615 (1981).
+24. Bockris and Conway, Trans. Faraday Soc., 45, 989 (I 949).
+25. Akita, Tsuchida, Kubota, Kubota, Kobayashi, Yamamoto, Hasegawa, Hayakawa,
+Kunimatsu, "Electrolytic Hydrogen/Deuterium Absorption into Pd, Pd-Rh and Pd-Ag
+Alloys in Fuel Cell Type Closed Cell", Proceedings: Fourth International
+Conference on Cold Fusion, EPRI TR-104188-V I, p. 21-1, Electric Power Research
+Institute, Palo Alto, (1994).

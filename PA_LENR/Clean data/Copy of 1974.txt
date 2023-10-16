@@ -1,0 +1,28 @@
+1. INTRODUCTION
+
+Excess heat was registered with various cathode materials and high current density glow discharge in D2, H2, Ar using a continuous flow calorimeter. These measurements confirmed our previous results [1]. A continuous flow calorimeter measured excess heat in the glow discharge using system of measurements with better precision.
+
+
+2. EXPERJMENTAL METHOD
+
+Experimental device "Calorimeter-2" consists of vacuum chamber having a volume of 1200 cm3, a gas pumping system, a water cooling system, a power supply and a measuring system [1]. The system of the measurements and methods was represented [ I]. The system for excess power heat measurement was improved. The termoresistors were pairs of five silicon KTS 395A transistors. The water flow was stabilized in each channel. In experiments of a system Pd-D2, Pd-H2, Ni-H2, Ni-O2, Nb-H2 ( cathode samples- a gas ) were used. The various kinds of the pulses current were applied.
+
+
+3. EXPERIMENTAL RESULTS
+
+Excess heat was not observed by use the pulses current up to 100 A and duration up to 3-5 μs. Excess heat in a kind of thermal bursts was observed in a range of a current 20-60 mA. The frequency of the recurrence of thermal bursts changes for these currents from 6 minutes till 5-8 seconds ( Fig.1-2 ). Large excess heat were registered for a system Ag-D2 at density of a current 20-50 mA / cm2
+( Fig.2 ). Excess heat was observed for systems Ni-H2, Nb-H2 (cathode sample-
+- plasma gaze ). Large excess heat for simple Pd samples are registered at the large loading D2 in Pd at small currents and at large currents ( Fig.3). Excess heat is increased monotony with a increase of density of a current for special Pd samples
+( Fig.3). We presented before possible nuclear reactions of the fission [2] at eneq1,y 3-20 MeV on one reaction. The manufacture stable isotope- impurity is observed in Pd cathode samples ( Fig.4).
+
+
+4. CONCLUSIONS
+
+The quantity of impurity corresponds to the complete value of excess heat. The comparison excess heat and of nuclear products ( stable isotope) shows, that two types of nuclear reactions are observed: 1- with formation radioactive nuclides, which are observed practically for any working gases including Ar and cathode samples from the majority of metals with intensity 102-103 s-1 , 2- reactions proceedingforsomemetalswithH2andwithD2byintensity1011-1012fI and forming stable nuclides with excess heat without decelerated y- radiation .
+
+
+5. REFERENCES
+
+1. AB. Karabut, Ya.R. Kucherov, LB. Savvatimova, "Excess heat measurements in glow discharge using flow "Calorimeter-2" Proc, ofthe 5th International Conj on Cold Fusion, April 9-13, 1995, Monte-Carlo, Monaco, p.223-226.
+2. AB. Karabut, Ya.R. Kucherov, LB. Savvatimova, "Possible nuclear reactions mechanisms at glow discharge in deuterium", Frontiers ofcold fusion, Proc, ofthe Third International Conj on Cold Fusion, October 21-25, 1992, Nagoya, Japan,
+p. 165.

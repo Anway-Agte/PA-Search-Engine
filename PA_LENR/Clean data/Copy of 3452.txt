@@ -1,0 +1,290 @@
+ABSTRACT
+
+Experimental research and evaluation of three electrode (triode) cold fusion
+electrolysis cells is reported herein. Apparatus development began, after patent
+application, 05 June 1995. The triode apparatus introduces controlled loading and
+operation of Fleischmann/Pons-type (F/P) cells. In August 1995 excess heat generation
+was observed in initial triode apparatus experiments conducted by Dr. Dennis Cravens
+in his New Mexico laboratory. In November 1995 the Boiler Works laboratory in
+Diamondhead began experimental evaluation of the triode apparatus. A series of
+experiments in December, January and February led to development of a functioning
+triode fusion reactor. The reactor was put into operation 20 March 1996 and operated
+continuously until 23 August 1996. Over the five months of operation of the reactor
+several experiments were preformed and over 65,000 data points were recorded. This
+data base is being applied in further triode apparatus developments.
+
+A second reactor test bed for "quick change" cathode specimen evaluation is in
+operation. Thin film cathode specimens prepared by the Materials Science and
+Engineering Laboratory of the University of Alabama in Birmingham are presently being
+evaluated. These include Pd film on Ag, Al, Cu, and quartz substrates and Pt films on Si
+bead specimens. Engineering design of a 2 KW reactor cell is underway.
+
+Details of triode apparatus operation, control, and experimental results are reported.
+The general design approach to the 2 KW reactor is described. It is concluded that
+suf-ficient experimental and theoretical understandings of cold fusion exist
+for engineering design and development of water heating appliances.
+
+
+1. 1 ntroduction
+
+The concept of the triode cell and the laboratory experiments reported herein are all
+guided by the Crowded Deuterium Model (COM) construct presented by the author at
+ICCF-3 in Nagoya, Japan in 1992. The reader should be informed that while COM
+theory enjoys significant peer review and critique that it is not a generally accepted
+concept nor is it rigorously proven in principle. Nevertheless, it has proved to be a useful
+tool for the visualization of F/P mechanics and for the design of devices and
+experiments. The COM concept teaches that F/P is a bulk effect occurring within
+structural domains encompassed by at least one or more palladium hydride envelop(s);
+that often such domains occur naturally in polycrystalline palladium (Pd) saturated with
+nuclei of the hydrogens; that if hydrogen nuclei are sufficiently rich in deuterons; if the geometry of the structure is appropriate; and the random distribution of polycrystalline
+boundaries internal to the domain are propitious; that then deuterons may be crowded
+to nuclear fusion within the structure. Satisfying this set of particular conditions makes
+F/P experiments difficult to preform and extremely difficult to repeat. Furthermore, even
+when all other conditions are positive the last condition, favorable boundaries within the
+domain, is of such low probability that most domains reach internal Coulomb equilibrium
+and block before enough deuterons are absorbed to crowd to ·fusion. Finally, even with
+favorable boundary distributions, deuteron loading and sustainment of fusion may be
+erratic; i.e., sometimes rapid, sometimes sluggish, and sometimes blocked until
+equilibrium is internally or externally disturbed.
+
+Fleischmann and Pons taught diode electrolysis of heavy water could be used to
+achieve low temperature nuclear fusion using a Pd cathode in a diode cell. Numerous
+experiments have since demonstrated generation of excess heat using various
+methods of electrolysis, gas discharge, and solid state with diode apparatuses. All
+methods encounter the conditional difficulties previously described. The diode
+characteristic of common anode/cathode current affords limited possibilities for control.
+The triode apparatus - two anodes; one cathode - improves methods to load, ignite,
+sustain, and control the F/P effect. Most important; triode control overcomes blocking.
+Diode and triode apparatus characteristics are schematically illustrated in Fig. 1.
+
+
+2. Methods
+
+Cell shadings in Figures 1 and 2 illuminate electrostatic gradients from positive, dark,
+to negative, light. Diodes are limited to cathode current control whereas the triode can be 
+modulated by varying the anode voltages A and B as well as by manipulation of the 
+cathode current. This is particularly meaningful when one contemplates the relatively 
+uniform current density characteristic of cathode surfaces in most electrolysis and gas 
+discharge, and many solid state devices. In Figure 2, four examples schematically 
+illustrate gradient control across a triode cathode cross section with independent 
+anodes A and B at different operating potentials. Figures 2(a) and 2(d) illustrate the 
+conventional method of cathode current modulation where anode voltages A and B are 
+at the same potential. Figures 2(b) and 2(c) show how voltage potentials to anodes A 
+and B may be alternated so as to cause the cross section gradient to sweep, or vary 
+sinusoidally, exponentially, in step function, or in other manner. 
+
+Switching and 
+frequency rates can also be varied. These modulation methods enhance loading, 
+ignition, sustenance, and control of F/P fusion cells by overcoming Coulomb equilibrium. 
+541 
+JCCF-6 October IJ-18, 1996 Japan I 
+Fundamental Session 
+Excess Energy and Nuclear Products 
+A +
+s++ 
+A++ 
+a+ 
+C 
+C 
+Figure 2. Current control [(a) and (d)]; Voltage control [(b) and (c)]. 
+
+A simplified electrode configuration for a F/P triode cell is depicted in Figure 3 (a) and 
+(b). the Boiler Works experimental cells are designed to mount cathode specimens 2.5 
+x 2.5 x 0.1 centimeters or smaller in a Teflon cathode frame. The cathode frame inserts 
+between Teflon anode frames with eleven 0.051 centimeter diameter platinum wires. 
+
+Other geometries are possible; the preferred embodiment is of different geometry. 
+
+CATHODE 
+ANODE 
+B 
+(b) 
+CATHODE 
+ANODE 
+A 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ANODE 
+B 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Figure 3. (a) Triode electrode configuration; (b) Triode cell cross section. 
+
+Two laboratory test beds are in operation. The block diagram of Figure 4 identifies the 
+functional elements and organization of the long term facility. These are two hp 361 XA 
+constant current power supplies, a function generator which programs the hp 361 XA 
+FUNCTION i-----(3 WIRE 
+CHAMBER 
+GENERATOR 
+Figure 4. hp current supplies, function generator and environmental chamber. 
+542 
+I JCCF-6 October n-18, 1996 Japan 
+Fundamental Session 
+Excess Energy and Nuclear Products 
+current levels and the three (A, B, and C) output currents to the triode cell, and an 
+environmental chamber. The "quick change" cathode test bed, is not described herein. 
+tr 
+PUMP 
+SUMP • 
+IN 
+NODE - A 
+ATHOOE 
+ANODE - 8 
+CHAMBER 
+Figure 5. Flow.through heat exchanger and environmental chamber organization. 
+
+Long term testing utilizes flow through calorimetry in which gravity fed clean water 
+flows into the chamber, through the cell heat exchanger, and discharges into a sump. A 
+pump returns water to the reservoir. The background diagram in Figure 5 shows this 
+circulation system. The foreground of Figure 5 illustrates details of the chamber, the cell, 
+and temperature sensor locations. Cooling water flow rate is regulated by a valve and 
+discharge is manually measured and recorded with each set (see Figure 5) of 
+temperature data. The cell is thermally isolated within the chamber in a "barrel" 
+enclosure. The chamber further isolates this enclosure from the laboratory environment. 
+
+Chamber temperature is regulated and is stabilized by a two liter tank of ballast water. In 
+the cell the triode structure is mounted inside the heat exchanger coil and both structures 
+are completely immersed in heavy water. Gasses are vented through ports in the cell, 
+the barrel, and the chamber enclosure. The electrolyte is 99.9% D20 diluted with 0.1 
+mol of LiOH. Volume is 80 ml., replenished periodically when reaching a 70 ml. level. 
+
+
+3. Results
+
+Patent application on the triode apparatus was filed 05 June 1995. A test cell was
+designed at the Boiler Works in June. Parts for two cells were fabricated in Houston, 
+Texas in July. In late July the first F/P effect cell was assembled and calibrated by Dr. 
+
+Dennis Cravens in his Cloudcroft , New Mexico laboratory. The first calibrated open cell 
+test began loading on Thursday, 27 July. At 10:52 AM, MDT, Tuesday 01 August cell 
+resistance began to drop and cell temperature began to rise. At 12:13 PM excess heat 
+was measured at 40%; at 12:29 PM at 84%, and at 01 :18 PM after cell temperature was 
+stabilized excess heat was calculated at 267%. On 02 August the cell was restarted. 
+
+Maximum excess heat measured was 40%. Subsequent tests on 03 August produced 
+null results. Bipolar triode and fibrous nickel cathode tests were also inconclusive. 
+543 
+ICCF-6 October JJ-18, 1996 Japan '
+Fundamental Session 
+Excess Energy and Nuclear Products 
+In November the Boiler Works laboratory in Diamondhead began calibrated open cell 
+experimental evaluation of triode apparatuses. These experiments were inconclusive. 
+
+At 08:03 PM, 13 December temperature began to rise rapidly in a cell test begun on 1 0 
+December. 
+
+By 12:02 AM, 14 December, with cell temperature at 200 degrees 
+Fahrenheit, input power was switched to a minimal level. Efforts to repeat the anomaly 
+went empty. The test was terminated on 15 December to clear the chamber for a test cell 
+with a 5 micron Pd on silver (Ag) substrate cathode. This test, the first flow through 
+calorimetry experiment, began on 23 December. The test was fraught with unexpected 
+complications, miscalculations, and learning; however all new instrumentation worked 
+precisely and excellent records were logged. The vexatious problem was absolute 
+absence of any evidence of excess heat. This experiment terminated on 13 January. A 
+second Pd on Ag cathode cell was calibrated on 07 February and put on test on 1 0 
+February. This experiment ended on 13 March, again without evidence of excess heat. 
+
+These experiments informed, albeit they evidenced no excess heat. In all tests 
+versatility of triode control accelerated loading. A ranging investigation of F/P cathode 
+characteristics through adjustments of triode voltages and switching rates provided 
+experimental results to compare with theory. This review suggested the design of solid 
+Pd cathodes be revisited. New Pd cathodes were designed. The first of these went on 
+test at 08:28 PM, 20 March. At 02:03 AM, 21 March excess heat generation was 
+observed. During the next week of operation cell output was 200% of input. Gain 
+gradually increased to 500% with operation and better informed control. The reactor 
+was in continuous operation until deliberately shut down 23 August 1996. 
+
+Evaluation of thin film cathodes is in progress in a reactor test bed dedicated to "quick 
+change" cathode specimen testing. Thin film cathode specimens prepared by the 
+Materials Science and Engineering Laboratory of the University of Alabama in 
+Birmingham include Pd film on Ag, Al, Cu, and quartz substrates and Pt films on Si bead 
+specimens. To date, these experiments have not exhibited generation of excess heat. 
+
+In June engineering design of a prototype modular cell for application in water heating 
+appliances was begun. The design goal is a 2 KW equivalent thermal output reactor cell 
+for battery application in water heating systems. Market study, equipment specifications, 
+cost analysis, and engineering layout were initiated in late July. Figure 6 illustrates the 
+design approach which elaborates on the basic cell design of the March to August tests. 
+{-i C cathodes ,✓
+/'HEAT 
+XCHG 
+Anode B
+.......,.....__...._.,_ .............. __ 
+Cathode 1 
+r ............... -----....c;...._;.;a,.__.....&...:,Anode A
+Cathode 2 
+Anode B 
+(a)
+Cell cross section
+(+) A 
+(+) B (anodes) 
+(b) 
+544 
+Figure 6. End (a) and exploded (b) views of 2 kilowatt cell design approach . 
+j 1cCF-6 October IJ-18, 1996 japan 
+
+
+4. Discussion 
+
+Conceptually triode apparatus mechanics avail means to overcome and control blocking 
+during F/P cell loading and operation. Experimental success in improved loading and control 
+tend to confirm the concept. Longevity, stability, and cell control demonstrated in the March 
+through August experiment were particularly encouraging. Data gathered during this 
+experiment create an extensive operational data base for advanced apparatus design. It is 
+further encouraging that other laboratories plan to conduct triode experiments. 
+
+A second reactor test bed for "quick change" cathode specimen evaluation is in 
+operation. Thin film cathode specimens prepared by the Materials Science and Engineering 
+Laboratory of the University of Alabama in Birmingham are presently being evaluated. These 
+include Pd film on Ag, Al, Cu, and quartz substrates and Pt films on Si bead specimens. 
+
+Engineering design of a 2 KW reactor cell is underway. 
+
+
+5. Conclusion 
+
+Triode control accelerates loading, overcomes F/P cell blocking, and relieves 
+experimental uncertainties heretofore attributed to cathode specimen incongruities. Triode 
+experiments should lead to faster, more certain, and consistent results. Elimination of the 
+"reproducibility" paradox should speed development and acceptance of F/P technology. 
+
+Much remains to be done in development of cathode materials and fabrication techniques. 
+
+Additionally, the state and behavior of condensed matter in the fusion locale is not well 
+understood and must be further investigated. Nevertheless, sufficient experimental and 
+theoretical understanding exists to begin engineering design and development of water 
+heating appliances for practical uses. 
+
+
+6. References 
+
+[1] Fleischmann, M., Pons, S., and Hawkins, M., Electrochemically Induced Nuclear Fusion 
+of Deuterium, J. of Electroanal.. Chemistry, 261, 301 (1989). 
+[2] Ragland, E., Theory of Crowding Fusion, Nuclear Physics Review, Mississippi State 
+University, May (1991). 
+[3] Bush, R., Cold Fusion Report, ICCF-2, Como, Italy, June (1991) 
+[4] Takahashi, A., Nuclear Products by D2O/Pd Electrolysis and Multibody Fusion, Proc. Int. 
+
+Symp. Nonlinear Phenom. In Electromagnetic Fields, ISEM, Nagoya, 1992 
+[5] Ragland, E., Cain, B., and Gu, A., Transport of the Hydrogens in Transition Metals, 
+National Science Foundation, Washington, D.C., April, (1992). 
+[6] Tamaki, M. and Tasaka, K., Field Formation of the Condensed Matter Fusion by Electro-
+Transport of Deuterium in Palladium, ICCF-3, Nagoya, Japan, October (1992). 
+[7] Ragland, E., A Physical Description of Cold Fusion, ICCF-3, Nagoya, Japan, October 
+(1992). 

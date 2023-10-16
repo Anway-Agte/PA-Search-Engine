@@ -1,0 +1,673 @@
+1. Introduction
+
+Open Source Science (OSSc) is a recent development in the methodologies of scientific
+investigation that departs significantly from scientific practice as it has evolved in recent
+decades. OSSc is enabled by technologies of the digital revolution, particularly the Internet, and
+embraces a collaborative investigative approach rather than conventional individual or small-
+group research methods. OSSc grew out of Internet-supported collaborative development of
+software under a paradigm known as Open Source Software (OSS) or Free/Libre OSS (FOSS or
+FLOSS). Particularly successful examples of the OSS paradigm are the Linux operating system
+software, Apache server software, and Open Office word processor, spreadsheet, and
+presentation software.
+
+Cold fusion (CF) is a potentially revolutionary scientific discovery in which nuclear fusion
+(basically of hydrogen to helium, as in the hydrogen bomb) is achieved at non-explosive rates
+and at ambient (near-earth-surface) temperatures. CF1 was announced by two research chemists2
+in 1989 as a scientific breakthrough with promise of meeting most of the energy needs of
+society. However, for a variety of reasons (both technical and sociological), CF was rejected by
+the mainstream scientific community within a year of its announcement.
+
+Despite this rejection, research into CF has continued under highly marginalized conditions by
+a relatively small group of capable and reputable scientists. This research appears to show clear
+evidence of the validity of CF phenomena. Given the potential benefit of CF for improving the
+human condition, and given the continued promising research results, it seems apparent that
+continued – and expanded – research is urgently needed. And with its current state of rejection
+and marginalization, CF appears to be an ideal candidate for research under the OSSc paradigm,
+not only because of the appeal of voluntary research contributions in the absence of funding from
+conventional resources, but also because of theoretical challenges whose resolution may benefit
+from the insights and perspectives of other fields besides nuclear physics.
+
+CF and OSSc have emerged and developed in about the same timeframe – in the last 20 years
+or so. Each in its own way challenges the norms of scientific culture – the sociology of science.
+And each one also has the potential of revolutionizing our understanding not only of scientific
+phenomena but also in how scientific research is fundamentally conducted. Successful CF/OSSc
+research has the potential result not only of an important new energy source but also of
+improving the way that science is performed more generally.
+
+
+2. The Open Source Science Paradigm
+
+Open Source Science is a paradigm for conducting research that differs substantially from
+conventional science as it has evolved in the last few decades, particularly since World War II.
+This difference is not just one of methodology and reporting, but of much more significant
+characteristics of values, perspective, underlying motivations, and associated reward systems. In
+the OSSc perspective, research (and the resulting knowledge) is viewed as a public good – as
+belonging to the commons – and as freely accessible rather than protected by property rights.
+This perspective was initially brought forth in the context of collaborative development of
+computer software (OSS) and has extended into other areas, including publication of technical
+literature (Open Access, OA) and scientific investigation (OSSc). Open Source in general, and
+OSSc specifically, are promoted by the Creative Commons3 organization and its subsidiary, The
+Science Commons4.
+
+Origins in the Open Source Software Movement:
+The OSS movement apparently began as a reaction to the high cost, and resulting
+unavailability to many, of proprietary software5. The basic idea behind OSS, initiated (or at least
+articulated ) by Richard Stallman is that software belongs to the public at large; i.e., to the
+commons (Stallman 2007). Many projects and software products have been initiated under the
+OSS paradigm6, but the Linux and Apache operating systems for individual computers and
+computer servers are examples that are most frequently referenced. The advantages of the open
+source approach over proprietary software development have been summarized by Raymond
+(1998). The history and impact of the OSS movement are described in several sources (see, for
+example, Bretthauer (2002), Fuggetta (2003), and von Krogh and von Hippel (2003)).
+
+Two of the greatest surprises and accomplishments of the OSS movement have been the high
+level of participation and number of contributions without direct monetary compensation and the
+high quality of the software products, which compete very successfully with proprietary
+products. The high quality is believed to be the result of the concept7 that “many heads are better
+than one” – a clear demonstration that collaboration can be highly successful in the area of
+software development.
+
+A primary precept of OSSc is that knowledge is owned by the public at large – it is part of the
+commons – in much the same way that software is viewed under the OSS movement. Although
+this viewpoint seems rather radical in the early 21st century, with the current emphasis on
+intellectual property protection through copyrights and patents, in actuality it represents a return
+to traditional perspectives of scientific research. Robert Merton, the “father” of the study of the
+sociology of science, advanced several precepts or norms regarding the conduct of science,
+which are summarized in the acronym CUDOS and are listed in Appendix A (Merton 1942,
+
+Communalism
+
+Universalism
+
+Disinterestedness
+
+Originality8
+
+Skepticism
+
+These norms, which considerably pre-date the OSS movement, neatly sum up the primary
+precepts of OSSc9. Within academia, for example, faculty are paid salaries (often by the public)
+for teaching and guiding students (especially graduate students) and for conducting research and
+publishing the results, which then become part of the commons. Emergence of the OSSc
+paradigm thus represents a return to (or reinforcement of) traditional cultural attitudes toward
+scientific investigation.
+
+OSSc not only reemphasizes a traditional viewpoint toward science and knowledge as part of
+the commons, but it also makes use of powerful tools, such as communication and electronic file
+management functions of the Internet, to further or enhance collaboration in scientific
+investigation. It also encourages, and provides the means for, the synergy of many people with
+different backgrounds and perspectives to attack a problem. Such collaborative effects provide
+the basis for cross-fertilization among different fields and disciplines, one of the most powerful
+methods of achieving new insights into a problem area10. The effectiveness of mass collaboration
+in many areas has been well summarized by several authors, including Tapscott and Williams
+(2006), von Hippel (2006), and Benkler (2007).
+
+Open Access Reporting of Research Results:
+Extension of the OSS paradigm to the publication of research results (OA) apparently took
+place in response to the skyrocketing cost of journal subscriptions (which were growing at a rate
+three times the rate of inflation) and a growing concern of “enclosure” of knowledge through
+aggressive application of copyright law and passage of new laws, such as the Digital Millennium
+Copyright Act (DMCA) in the U.S. A major concern has been the economic gain being realized
+by publishers who were charging high prices for literature (research papers) that was funded at
+public expense and for the public good. One of the earliest movements toward OA took place as
+an effort to help investigators in developing countries, where scientific literature was fast
+becoming unavailable because of inability to pay high subscription costs. The OA movement,
+like the OSSc paradigm, fosters the concept of knowledge as commons and represents a
+verification and strengthening of the Mertonian view toward science and the reporting of
+scientific investigation.
+
+Motivations for Open Source Creativity:
+Scientific discovery, it seems, occurs in two primary ways – through individual insight or
+inspiration and through collaborative sharing of ideas and perspectives in trying to solve a
+problem or meet an objective11. Creative people seem also to be motivated by two forces –
+private gain and community contribution (as well as the pleasure of artistic expression).
+Economists in general focus on the private interest motivations and appear to have been
+surprised by the success of the OSS movement without evidence of compensation by the
+contributors. A number of studies have been published on the seeming mystery of OSS
+motivating factors (see, for example, Lerner and Tirole (2005), von Hippel and von Krogh
+(2003), and Madey Free and Tynan (2005)). Other investigators appear to display a more
+balanced understanding of human motivation and emphasize the social structure and implicit
+rewards of uncompensated contributions (Crowston and Howison (2005), Edwards (2003),
+Osterloh and Rota (2007), Zeitlyn (2003)).
+
+The motivation for OSSc participation comes less from economic drivers and personal gain
+motives and more from the intellectual satisfaction provided, the perceived gain in reputation,
+and the promise of improving the human condition. The rewards are therefore less tangible and
+remunerative and more intellectual and community driven in nature.
+
+OSSc may therefore provide the opportunity to achieve a better balance not only between the
+private and public motivations of creative people but also between the two avenues of scientific
+progress by individuals and group collaboration.
+
+Intellectual Property Issues:
+Not surprisingly, IP issues are closely related to the motivating forces of inventive people.
+Those who are more socially motivated will be attracted to OSSc contribution, whereas those
+with a private interest motivation will seek IP protection for their work under copyright or patent
+law. One of the salient developments of the OSS movement was the concept of using copyright
+law to protect the open access status of OSS. In this development, contributors establish a
+copyright (called “Copyleft”), which allows others to freely copy and modify software but with
+certain restrictions such as attribution to the software developer and “viral” properties – the
+provisions of the Copyleft apply to all software derived from the Copylefted software. The
+Copyleft concept and its application in the Gnu General Public License (GPL) are well described
+by Mustonen (2003) and on the Free Software Foundation website12. A similar or parallel effort
+to protect OSS under patent law has been initiated, at least for Linux, by the Linux Foundation13
+and the Open Invention14 initiative. The copyright and patent issues for OSSc apparently have
+not yet been addressed to the extent that they have been for OSS.
+
+Challenges to Open Source Science Success:
+Although OSSc represents a constructive return to the traditional values and practices of
+science, and adds significantly to scientific practice through the power of the Internet, it is not a
+panacea. The issues around treating knowledge as a common good have been delineated by Hess
+and Ostrom (2007) in three categories – studying, protecting and building the knowledge
+commons. Specific issues addressed include the growth and preservation of the knowledge
+commons, intellectual property concerns and countering “enclosure” of information, and
+application of commons concepts to published papers (OA), science (OSSc), collective action,
+and economics. An urgent concern for OSSc and science in general is the recent trend to
+privatization of public knowledge (Bollier 2002). For OSSc specifically, Schweik (2007)
+identifies four areas needing urgent attention:
+How to license digital material besides software. Perhaps broaden the Copyleft concept to apply
+to other forms of intellectual property.
+
+How to achieve success in the context of current incentive structures. Modify incentives and
+develop a “next-generation” e-journal.
+
+How to govern collaboration under the OSSc paradigm and develop and implement an effective
+“commons governance structure”.
+
+How to finance projects under the OSSc paradigm. Rely on voluntarism and develop alternate
+financing schemes for paper publishing.
+
+This author also points out that the main difference between scientific and software OSSc
+projects is the larger variety of participants in science projects. The central question for
+successful application of the OSS paradigm to science (OSSc) is the provision of adequate
+incentives for the broad spectrum of potential participants.
+
+
+3. Cold Fusion Background
+
+If it proves to be real, CF will be good news for the welfare of humanity because it holds the
+promise of providing abundant supplies of energy from nuclear sources at temperatures close to
+the surface of the earth and with little or no associated harmful radiation.
+
+Cold fusion apparently achieves nuclear fusion at ambient temperatures by somehow
+overcoming the natural repulsion of protons (the Coulomb barrier) in the nuclei of hydrogen
+atoms so that they fuse, with the production of helium and release of energy.
+
+For a variety of reasons, CF was not fully enough substantiated to be accepted by mainstream
+science during the year after its announcement. Not only was it not accepted, but it was also held
+up as a premier example of how science should not be done. It became the subject of a number of
+books and papers as “bad science,” “voodoo science”, and even fraudulent science.
+
+Despite this negative outcome, a number of capable and reputable researchers continued their
+investigations – and continued to achieve positive results – in the years after 1990. For example,
+a recent CF publication (Storms 7007) tabulated some 184 confirmations of excess heat
+(indicating nuclear fusion) from 1989 to 2004.
+
+The situation with CF – continued affirmative results without general acceptance by the
+scientific community – has been characterized as “undead science” (Simon 2002). The cycle
+typically experienced by radical new discoveries has been well characterized by Kuhn (1986)
+and consists of initial rejection, followed by marginalization and derision, and then by eventual
+acceptance, with major advance in the body of scientific knowledge. If it proves to be “real” CF
+may be poised for vindication and resurgence as a legitimate field of science (see, for example,
+Beaudette (2002), Krivit and Winocur (2004), and Storms (2007)).
+
+Current Research Conditions:
+Cold fusion researchers, in spite of (or perhaps because of) the rejection and marginalization of
+the field, have formed a relatively close-knit (although often fractious) community that has its
+own methods of conduct, communication, critique and reporting of research results,. The
+Internet, which emerged to national prominence and widespread usage in about the same
+timeframe as marginalized CF research has continued, has played a key role in the success
+achieved in that research. Continued and expanded use of the Internet will be a major ingredient
+of support of CF research in the future.
+
+The ways that CF research is conducted are greatly influenced, naturally, by the initial fate of
+CF and its continued rejection and marginalization. Although a few CF investigators hold
+prestigious academic or research positions at well-established organizations, much research is
+conducted at home laboratories and similar small facilities that are dedicated solely to CF
+research. In the absence of reasonable levels of funding, many of the phenomena that are known
+to need systematic and thorough investigation with costly lab equipment go unattended.
+Development of adequate explanations (theories) for observed phenomena is hindered by
+insufficient experimental data. Without adequate data to “bound” theoretical explanation,
+theories proliferate, and it is difficult to determine which ones are possible or likely and which
+are extremely unlikely or impossible.
+
+Communication and Reporting: Existing Open Source Methods:
+The CF research community has developed its own methods and tools for maintaining
+professional relationships and sharing results. Many of these methods closely resemble or mimic
+the conventions of mainstream science. They entail extensive use of the Internet, so the
+community is well positioned to take increased advantage of digital technologies and tools. The
+salient communication and reporting methods currently used are described below.
+
+Professional Organization. The International Society for Condensed Matter Nuclear Science
+(ISCMNS) is the accepted CF-dedicated professional organization. According to its website15,
+the ISCMNS mission is “to promote the understanding, development and application of
+Condensed Matter Nuclear Science for the benefit of the public”. It achieves this mission “by
+organizing scientific meetings, facilitating communication and collaboration between scientists,
+[and] publishing and distributing results”. The organization was registered in England in 2006 as
+a not-for-profit company. It is governed by a constitution and executive committee, and it
+maintains a code of conduct for its members.
+Conferences. The CF research community presents papers on theory and experimental results
+in mainstream science conferences where such opportunities can be found – for example, a
+“Condensed Matter” session at the American Physical Society (APS) annual meeting in March.
+
+Because of its marginalization, CF has also been the topic of dedicated conferences
+(International Conferences on Cold Fusion, ICCF) since 1991, with meetings held in various
+countries where CF research is conducted about every 18 months. The 12th and 13th conferences
+were held in Yokohama, Japan16 in late 2005 and in Dagomys, Russia in the summer of 200717,
+respectively. ICCF-14 is scheduled for August 2008 in Washington, D.C.18. The ICCF
+conferences, as noted, are held under the auspices of the ISCMNS.
+
+Peer-Reviewed Journal. As in the case of conferences, CF researchers publish peer-reviewed
+papers in mainstream scientific journals – where their papers are not rejected outright because of
+the topic. In response to a strong need for additional publication outlet, ISCMNS has recently
+initiated a CF-dedicated peer-reviewed journal, the Journal of Condensed Matter Nuclear
+Science19 (JCMNS). This journal is copyrighted as an open-access publication that requires no
+special permission for downloading for non-commercial use or for teaching purposes. The first
+issue, which came out in April 2007, had 12 research articles.
+
+Publications Repository. A website entitled LENR-CANR20 provides an online library with a
+bibliography of more than 3500 journal papers, books and news articles related to CF. Included
+in the library are more than 500 scientific papers in PDF (Acrobat) format. The website also
+includes links to two important electronic books (described in the next section) that can be
+downloaded without charge. LENR-CANR is maintained by Jed Rothwell and is not currently
+sanctioned by ISCMNS or other professional society, although the ISCMNS website does
+provide a link to LENR-CANR.
+
+Electronic Books. Three e-books are available on LENR-CANR for free downloading, as
+noted above. Jed Rothwell’s “Cold Fusion and the Future” (2007) is intended to “show that with
+cold fusion we can accomplish marvelous things (p. 1). The fourth edition, published in April
+2007, has 188 pages. It has an introduction, a description of CF, an outline of how CF will
+change society, and a review of specific technologies that will be changed by CF. Edmund
+Storms’ “A Student’s Guide to Cold Fusion” (2003) is more technically oriented, including eight
+chapters that provide an overview, describe the production of anomalous energy and nuclear
+products, delineate the “nuclear active environment” and the behavior of palladium, and explain
+the Pons-Fleischmann effect and a possible theory for the nuclear reactions. Beaudette’s “Excess
+Heat – Why Cold Fusion Prevailed (2nd Ed.)21” is one of the most important reference works in
+the cold fusion and is also now available online on LENR-CANR.
+
+Newsletters. The best-known and most complete CF newsletter is “New Energy Times”
+(Krivit 2007), which is produced bimonthly by the New Energy Institute, with Steven Krivit as
+editor and publisher. It is not yet sanctioned by ISCMNS or other professional society, but is
+widely recognized in the CF research community as an authoritative and reliable information
+source. The website22 where the newsletter can be downloaded has a highly protagonistic slant
+and contains many other references and links in addition to the newsletter. The New Energy
+Times website and newsletter are particularly valuable for an introduction to the field for
+newcomers, both interested researchers and the general public.
+
+E-mail Thread in CMNS Google Group. An e-mail thread for CF researchers has been
+established in Google Groups by Haiko Leitz23. Participation is by invitation – new members
+must be recommended by a current member before being added to the list by Leitz. The CMNS
+list is quite active, typically with 12 to 20 postings daily. The subjects are quite varied and range
+from highly theoretical exchanges to detailed experimental results to the problems of
+marginalization and public perception. Many of the e-mails provide links to websites of interest
+or to support a point being made or a position being taken.
+
+Video Clips. Several video CF-related clips are available in services such as Google Video and
+YouTube. Topics addressed include promotional pieces to further the “CF cause” and excerpts
+from meetings and conferences. For example, a video of the March 23, 1989 press conference
+where CF was dramatically announced is available24. Another video25 covers a presentation by
+Glenn Seaborg – “Cold Fusion Presidential Briefing [1989]” – in which it is admitted that the
+negative CF findings of a U.S. DOE Energy Research Advisory Board in 1989 were fore-
+ordained.
+
+Researcher Personal Websites. A number of active CF researchers and other interested parties
+maintain personal websites that are designed to provide valuable information and promote the
+CF case. Examples are the websites of Edmund Storms26, Melvin Miles27, Ludwik Kowalski28,
+and Brian Josephson29.
+
+Periodic Special-Purpose Websites. CF researchers periodically create websites or webpages
+to support particular experiments or other initiatives. An example is an online laboratory
+notebook30 that is maintained by EarthTech International, Inc. for experiments performed in their
+highly sophisticated calorimeter (humorously termed MOAC – Mother of All Calorimeters).
+This webpage contains a daily chronology when experiments are underway and screenshot
+images from LabView, the software used to record data from the calorimeter.
+
+
+4. Cold Fusion Research under the Open Source Science Paradigm
+
+Cold fusion research as it is conducted, critiqued, and reported under its current marginalized
+state may benefit from the perspectives, methods and tools of the OSSc paradigm. OSSc offers
+potential advantages to the CF research effort in four main areas:
+Enhanced research through increased collaboration
+More options and better clarity on intellectual property topics
+Improved communications and reporting of research through expanded use of the Internet
+Increased accessibility of CF information for those new to the field and to improve prospects
+for acceptance into mainstream science
+Cold fusion research as it is conducted today already has many of the characteristics of
+research under the OSS paradigm, such as performance of low-budget research by many
+investigators and at many locations. To the extent that the OSSc paradigm may be applied to CF
+research, it must be from a standpoint of “incremental value” to the current practices of the CF
+investigator community. Since ISCMNS has been established as the primary CF-focused
+professional organization, it would be the natural sponsor of OSSc-based enhancements.
+
+Enhanced Collaboration:
+One of the primary contributions that OSSc can make to the CF research effort is to provide
+the means for increased collaboration, particularly by those having expertise in other fields.
+Because of the marginalized state of CF, there appears to be a highly-developed sense of
+community among the active researchers, and there seems to be a strong ethic of collaboration.
+Although the cooperation appears to be more pervasive than in “normal” scientific investigation,
+current methods do not specifically emphasize sharing of ideas and cross-fertilization from other
+scientific fields.
+
+Two aspects of CF research may somewhat limit the degree of cross-disciplinary
+collaboration– the highly advanced understanding of nuclear physics required for formulating
+reasonable theories, and the sophisticated laboratory skills required to achieve successful
+experiments. Nevertheless, a more collaborative approach may have excellent potential for new
+insights emerging from the perspectives of other fields. Under the OSSc approach, a mechanism
+and associated guidelines will be provided to state the CF research and theoretical issues clearly,
+make them widely available and easy to respond to, and receive, evaluate and incorporate the
+input received.
+
+Intellectual Property Considerations:
+A strong Mertonian ethic has prevailed to date within the CF research community. As CF
+emerges from its rejected state, the uneasy balance between openness and enclosure, between
+sharing knowledge as property of the commons and seeking personal gain through intellectual
+property measures, may be significantly disturbed. Given the potential importance of CF as a
+universal energy source, it may be in the public interest to keep as much knowledge of the
+phenomenon as possible readily available as open source. At the same time, the interests of
+investigators must be protected not only to maintain incentives for CF research, but also to
+maintain the integrity of information as it is developed and published.
+
+Under the CF/OSSc paradigm, both the public interest and the private interests of CF
+investigators need to be addressed. The options available for copyright of published papers,
+including the use of Copyleft and the GNU General Public License31, will be described, and links
+to websites that provide more information and tools will be included. Similarly for patent
+alternatives, CF-specific information will be provided so that investigators can make informed
+decisions.
+
+Research Communication and Reporting:
+Although the methods currently used by the CF research community have many open access
+features, additional measures are available under the OSSc paradigm to enhance development,
+communication and reporting of research results. The best approach to optimizing methods for
+communication using Internet tools and technologies is to examine what’s currently being done,
+infer the requirements that are being met, and recommend improved methods. Examples of
+Internet tools that are available to enhance communication and reporting are shown in Table 1.
+
+Public Access to Information:
+Owing to its rejected and marginalized status, CF has a unique challenge of communication to
+potentially interested researchers and the public as a whole. Much information on the history,
+current status and new developments is available from a variety of sources, especially websites.
+But considerable effort is required to locate these sources, evaluate them for particular strengths,
+and classify them for their utility to the CF field and in what topical area.
+
+Under the CF/OSSc paradigm, emphasis will be placed on developing a clear statement of the
+“CF case” in a mildly promotional tone and making it easily accessible. The various sources of
+information – books, websites, papers, repositories, etc. – will be identified and categorized to
+facilitate the task of newcomers to the field in “coming up the learning curve.” The needs of both
+the general public – for general information for making an informed decision about CF – and
+potentially interested sophisticated researchers, who need a more in-depth introduction to the
+field, will be addressed.
+
+Table 1. Internet Tools for Communication and Reporting
+
+Summary of Current and Proposed Solutions:
+Table 2 provides a summary of the inferred CF research and communication requirements
+along with a listing of current and proposed CF/OSSc methods of meeting the requirements. This
+summary provides the basis for a specific implementation plan, which is presented in preliminary
+form in Section 5.
+
+Table 2. Current Methods and Proposed OSSc Approaches for CF Research and Communication
+
+
+5. Enhanced Application of Open Source Science to Cold Fusion Research
+
+Implementation of OSSc enhancements to the current CF research paradigm will make full use
+of the functions of the Internet. The website of ISCMNS, the accepted CF professional
+organization, will be the assumed platform for supporting the CF/OSSc implementation.
+
+Website Organization and Structure:
+The ISCMNS website, as modified to support CF/OSSc research, will (like most websites)
+consist of a homepage and a number of topical webpages. The website will be set up to meet the
+CF/OSSc requirements as set forth in Table 4-2, using the best features of the ORS example.
+
+The homepage will be designed for the general public but will also fully support the
+sophisticated needs of the CF research community. It will provide high-level information about
+CF in general and about ISCMNS specifically. A clean, uncluttered appearance will help ensure
+public interest. Hyperlinks to the topical webpages and other CF websites will be used
+extensively to avoid “information overload” on the homepage.
+
+The individual webpages will be developed by CF topical area as described in Table 4-2 and
+will range from descriptive and promotional pages for the general public and researchers new to
+the field to highly technical forums and download facilities to help researchers to collaborate on
+such topics as theoretical underpinnings of CF and experimental designs and results. The
+following webpages are expected to be needed (at a minimum) for the revised ISCMNS website:
+
+Basic Non-Technical CF Descriptions. For the general public; mildly protagonistic in tone.
+Includes CF professional acknowledgements and links to the many existing CF websites.
+
+News and Scheduled Events. For both the public and CF researchers, especially ISCMNS
+members. Includes a calendar and links to other important newsletter websites as well as
+schedules and agendas of upcoming professional meetings.
+
+Professional Contacts and Group Members. For ISCMNS members and other CF researchers.
+Purpose is to enhance networking among CF interested parties and contributors.
+
+Professional Real-Time Exchanges. For the CF research community. Provides information on
+current GougleGroup e-mail exchanges, including conditions for participation.
+
+Collaborative Publication. Contains drafts of technical papers, white papers, and other
+manuscripts for collaborative development and authorship. Designed to be a close parallel to
+collaborative software development under OSS paradigm. Would facilitate contributions from
+researchers in other fields.
+
+Intellectual Property Information. Provides an overview of copyright and patent alternatives.
+Focuses on choices that support the OSSc paradigm, such as Copyleft and open patents.
+
+Shared Software and Other Tools. Set up for posting of researchers’ work products that may
+have utility for other members of the CF community. Designed to enhance collaboration in the
+research effort and increase efficiency (avoid “re-inventing the wheel”). May also include
+reference to webpage on intellectual property.
+
+Publication of Peer-Reviewed Papers. Currently the Journal of Condensed Matter Nuclear
+Science, which is posted on the ISCMNS website. Provides a means for more formal peer review
+of individual papers than the Collaborative Publication webpage described above (although
+works from that webpage could “graduate” to peer-reviewed status by the collaborative authors.)
+Publications Repository. Provides a link to (and possibly mirrors) the existing LENR-CANR
+website. Also contains relevant mainstream science publications to CF research that are not
+directly CF-related (the focus of the LENR-CANR website.) ISCMNS should be prepared to
+adopt the repository if or when necessary.
+
+Monitoring Changes and Quick Glance. Designed to keep CF researchers up to date on current
+developments in an automated fashion. Upon individual request or consent, may include RSS
+feed functionality for revisions to the ISCMNS website.
+
+Financial Support. Provides explanation of the CF/OSSc model and how it is funded, as well as
+instructions on how to make contributions.
+
+Financial Support:
+The issues around financial support of OSSc initiatives were well articulated by Schweik
+(2007), apparently based in part on experience with the ORS project described above. The main
+points of this review are summarized as follows:
+Financial support must be carefully addressed for OSSc projects to be successful.
+Support must be considered in two areas – the time and effort involved in contributing to the
+OSSc project, and the required administrative and collaborative infrastructure.
+Project financing in the past has come from seven types of revenue – government subsidies,
+philanthropy, corporate consortia, corporate investment, venture capital and investment banking,
+user or participant donations, and a hybrid or mix of the first six sources.
+The costs for the time and effort for contributions may be covered by sources that are implicit
+in the OSSc paradigm and Mertonian science in general – donations from contributors who gain
+their livelihood by other means.
+Administrative and infrastructure costs may be recovered in a similar manner to that used for
+OA publication costs, including compensation for ancillary support services, subscription
+models, and author-pays-to-publish models.
+For the CF/OSSc project, the ISCMNS organization could establish a subsidiary foundation to
+control risk to the organization and to receive and manage funds.
+
+Management and Approval Process:
+Decisions on the overall content and structure of the website will be subject to the approval of
+the ISCMNS Executive Committee. In addition, the Committee will be responsible for approving
+the methods of managing the website and the process for approval of specific content at a level
+lower than the Committee. More than likely a website manager will need to be designated on a
+voluntary (perhaps rotating) basis or, preferably, on a compensated basis, at least part time.
+
+
+6. Summary
+
+Cold fusion is a radical new development in physics that may benefit humankind substantially,
+if it proves to be true, as a new source of low-cost energy. Despite being rejected and
+marginalized early in its history, CF continues to be actively researched and still holds promise
+for eventual success. Open source software is a radical new developmental method that is
+already having a beneficial effect on the creation of new software through voluntary,
+collaborative effort. The OSS revolution is made possible by the powerful new tools and
+functions of the Internet that support dispersed collaborative software creation.
+
+Extension of the OSS paradigm to scientific research (OSSc) is in many ways a reinforcement
+of open traditions of science as expressed in Merton’s scientific norms (CUDOS). But OSSc also
+represents a major advance in collaborative scientific research through the power of the Internet,
+as is the case for OSS. The OSSc paradigm has already been applied successfully to “real-world”
+scientific projects and appears to be readily applicable to CF research efforts.
+
+CF research may benefit in many ways from the systematic collaborative approach of the
+OSSc paradigm. Successful application of the OSSc paradigm to CF research would result not
+only in a further demonstration of the flexibility and power of the paradigm, but would also
+enhance CF prospects – so that this potential energy-producing phenomenon could be validated
+and developed for practical uses. Humanity as a whole would be the primary beneficiary of both
+the success of the OSSc paradigm and of development of CF as a major new source of
+inexpensive energy.
+
+
+7. References
+
+Beaudette, Charles G. Excess Heat: Why Cold Fusion Research Prevailed. 2nd ed. South Bristol,
+Maine: Oak Grove Press, 2002.
+Benkler, Yochai. The Wealth of Networks – How Social Production Transforms Markets and
+Freedom. New Haven: Yale University Press, 2007. Online. Available:
+http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf. Accessed: November 2007.
+Bollier, David. Silent Theft – the Private Plunder of Our Common Wealth. New York: Routledge,
+Bretthauer, David. “Open Source Software: A History.” Information Technology and Libraries
+2101., 2002. Online. Available:
+http://news.ala.org/ala/lita/litapublications/ital/2101bretthauer.cfm. Accessed: November 2007.
+Crowston, Kevin, and James Howison. The Social Structure of Open Source Software
+Development.” First Monday, vol. 10, no. 2 (February 2005).
+Edwards, Kasper. “Epistemic Communities, Situated Learning and Open Source Software
+Development.” 2002. Online. Available: http://pascal.case.unibz.it/retrieve/3278/kasperedwards-
+ec.pdf. Accessed: November 2007.
+Fuggetta, Alfonso. “Open Source Software – An Evaluation.” The Journal of Systems and
+Software, vol. 66 (2003), pp 77-90. Online. Available:
+http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%235651%232
+003%23999339998%23432790%23FLA%23&_cdi=5651&_pubType=J&_auth=y&_acct=C000
+050221&_version=1&_urlVersion=0&_userid=10&md5=6ba55c7f8e7a7e7c444ae9a1581e1f96.
+Accessed: November 2007.
+Hess, Charlotte, and Elinor Ostrom, ed. Understanding Knowledge as a Commons – from Theory
+to Practice. Cambridge, Massachusetts, The MIT Press, 2007.
+Huizenga, John R. Cold Fusion: the Scientific Fiasco of the Century. Rochester, New York:
+University of Rochester Press, 1992.
+Krivit, Steven B. and Nadine Winocur. The Rebirth of Cold Fusion: Real Science, Real Hope,
+Real Energy: Los Angeles, California: Pacific Oaks Press, 2004.
+Krivit, Steven B., Editor and Publisher. New Energy Times – The Leader in News and
+Information on Low Energy Nuclear Reactions. San Rafael, CA: New Energy Institute, Inc.
+Online. Available: http://www.newenergytimes.com. Accessed: November 2007.
+Kuhn, Thomas. The Structure of Scientific Revolutions. Chicago: Univ. of Chicago Press, 1986.
+Lerner, Josh and Jean Tirole. “The Economics of Technology Sharing: Open Source and
+Beyond.” Journal of Economic Perspectives, vol. 19, no. 2 (Spring 2005), pp 99-120. Online.
+Available: http://www.atypon-link.com/AEAP/doi/abs/10.1257/0895330054048678. Accessed:
+November 2007.
+Madey, Gregory, Vincent Freeh, and Renee Tynan. “Modeling the Free/Open Source Software
+Community: a Quantitative Investigation.” In Free/Open Software Development, ed. Stefan
+Koch. Hershey, PA: IGI Publishing., 2005.
+Merton, Robert K. The Sociology of Science – Theoretical and Empirical Investigations: Chicago,
+IL: The University of Chicago Press, 1968.
+Merton, Robert. “The Normative Structure of Science” In The Sociology of Science – Theoretical
+and Empirical Investigations, ed. Robert K. Merton Chicago, IL: The University of Chicago
+Press, 1968. Originally published as Merton 1942.
+Merton, Robert. “Science and Technology in a Democratic Order”. Journal of Legal and
+Political Sociology, vol 1 (1942), pp 115-126.
+Mustonen, Mikko. “Copyleft – the Economics of Linux and Other Open Source Software.”
+Information Economics and Policy, v14 (2003), pp. 99-121. Online. Available:
+http://www.sciencedirect.com/science?_ob=PublicationURL&_tockey=%23TOC%235872%232
+003%23999849998%23408123%23FLA%23&_cdi=5872&_pubType=J&_auth=y&_acct=C000
+050221&_version=1&_urlVersion=0&_userid=10&md5=532e0c5abb6c2c4077067b93bfc7d5d9.
+Accessed: November 2007.
+Osterloh, Margit, and Sandra Rota. “Open Source Software Development – Just another Case of
+Collective Invention?” Research Policy, vol. 36 (2007), pp. 157-171. Online. Available:
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V77-4MV71D4-
+1&_user=10&_coverDate=03%2F31%2F2007&_rdoc=1&_fmt=&_orig=search&_sort=d&view
+=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=f7c1b65f38ae452e347
+d6d4b41881e65. Accessed: November 2007
+Paneth, Fritz, and Kurt Peters. “On the Transmutation of Hydrogen into Helium.’ Ber. d.
+DeutschenChem. Ges. vol. 59 (1926), p. 2039 (in German)
+Park, Robert L. Voodoo Science – the Road from Foolishness to Fraud. New York: Oxford
+University Press, 2000.
+Raymond, Eric. “The Cathedral and the Bazaar.” First Monday, vol. 3, no. 3 (March, 1998).
+Online. Available: http://www.firstmonday.org/issues/issue3-3/raymond/. Accessed: November
+Rothwell, Jed. Cold Fusion and the Future. LENR-CANR.org. 4th Edition, April 2007. Online.
+Available: http://lenr-canr.org/acrobat/RothwellJcoldfusiona.pdf. Accessed: November 2007.
+Schweik, Charles M. “Free/Open-Source Software as a Framework for Establishing Commons in
+Science.” In Understanding Knowledge as a Commons – from Theory to Practice, ed. Charlotte
+Hess and Elinor Ostrom. Cambridge, Massachusetts: The MIT Press, 2007.
+Schweik, Charles M., and J. Morgan Grove. “Fostering Open-Source Research Via a World
+Wide Web System.” Public Administration and Management: An Interactive Journal, 2000.
+Online. Available: http://www. *. Accessed: November 2007.
+Schweik, Charles, Alexander Stepanov, and J. Morgan Grove. “The Open Research System: A
+Web-based Metadata and Data Repository for Collaborative Research.” Computers and
+Electronics in Agriculture, vol. 47 (2005), pp. 221-241. Online. Available: http://www-
+unix.oit.umass.edu/~cschweik/pdfs/COMPAG2005.pdf. Accessed: November 2007
+Simon, Bart. Undead Science: Science Studies and the Afterlife of Cold Fusion. New Brunswick,
+New Jersey: Rutgers University Press, 2002.
+Stallman, Richard. What is GNU?. Online. Available: http://www.gnu.org. Accessed: November
+Storms, Edmund. A Student's Guide to Cold Fusion. LENR-CANR.org, 2003. Online. Available:
+http://www.lenr-canr.org/acrobat/StormsEastudentsg.pdf . Accessed: November 2007.
+Storms, Edmund. Science of Low Energy Nuclear Reaction: A Comprehensive Compilation of
+Evidence and Explanations about Cold Fusion. Singapore: World Scientific Publishing, 2007.
+Tapscott, Don. Wikinomics – How Mass Collaboration Changes Everything. New York:
+Portfolio (a Member of the Penguin Group), 2006.
+Taubes, Gary. Bad Science – the Short Life and Weird Times of Cold Fusion. New York,
+Random House, 1993.
+von Hippel, Eric, and Georg von Krogh. “Open Source Software and the ‘Private-Collective’
+Innovation Model: Issues for Organization Science.” Organization Science, vol. 14, no. 2
+(March-April 2003), p. 209-223. Online. Available:
+http://web.ebscohost.com.ezproxy.lib.utexas.edu/ehost/results?vid=2&hid=102&sid=0c4d7fc7-
+9d1e-4764-8f89-f55e6a2eb735%40sessionmgr102. Accessed: November 2007.
+von Hippel, Eric. Democratizing Innovation. Cambridge, MA: MIT Press, 2006. Online.
+Available: http://web.mit.edu/evhippel/www/books.htm. Accessed: November 2007.
+von Krogh, Georg, and Eric von Hippel. “Special Issue on Open Source Software Development.”
+Research Policy, vol. 32 (2003), pp. 1149-1157. Online. Available: http:// . Accessed: November
+Zeitlyn, David. “Gift Economies in the Development of Open Source Software: Anthropological
+Reflections.” Research Policy, vol. 32 (2003), pp. 1287-1291. Online. Available:
+http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V77-48BC22V-
+1&_user=10&_coverDate=07%2F31%2F2003&_rdoc=1&_fmt=&_orig=search&_sort=d&view
+=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=f86f24e944d97ce2f49
+3d476bf9d0d4f. Accessed: November 2007.
+
+
+Appendix A
+The following amplification of Merton’s CUDOS has been posted on the Internet by Mercer
+University.
+
+Communalism – The findings of academic science are public knowledge rather than private
+knowledge. Secrecy is prohibited in the sense that it cannot carry weight or be given credit in
+scientific discourse. Dishonesty is not tolerated and mutual, personal trust is the norm.
+Findings are accepted as primary literature in the public record only as a result of peer review.
+
+Universalism in science has two faces. Contributions to science can not be excluded because
+of race, nationality, religion, social status, gender, sexual preference, or other irrelevant
+criteria (i.e., science is multicultural); science strives to be a meritocracy; the scientific
+community attempts to be democratic and fair to its citizens. Empirical ‘facts’ have to be
+consensible and the scientific ‘theories’ that interpret them have to be consensual; the
+categories of “fact” (representation of experience), “taxonomy” (classification of facts), and
+“theory” (explanation of the classification) have to be shared among the scientists.
+
+Disinterestedness – Objectivity is an attempt to separate the political, religious, economic
+personal vested interests of scientists of from their findings. All reference to economic,
+political, religious or other social interests is routinely and systematically excluded. Scientists
+are motivated by the same things that motivate non-scientists, but their work must reflect
+their disinterestedness in any particular outcome. They must be open to conclusions that are
+most consistent with their results.
+
+Originality – Scientists are self-reliant, independent thinkers who are trained to be original;
+whether choosing a research question, deciding on an approach to address it, or finding a way
+to convince others of their findings, scientists must display novelty in order to gain maximum
+credit; when they publish, something about the research has to be new; thus, freedom or
+independence is a necessity in science (in the academy we call it “academic freedom”); also,
+the right to dissent (see below) is absolutely critical; this need for originality explains the
+emphasis on research rather than, say, scholarship and the drive towards specialization;
+research areas (requiring projects and proposals) have to be formulated and in some sense
+discovered.
+
+Skepticism is an attitude of questioning and doubt, that defers judgment until supporting
+evidence is available. It is sometimes confused with cynicism. Scrutiny of research claims is
+a hallmark of good science. The scientific culture is an institutionalized context for
+argumentation. Peer review allows the most important moment for skepticism to be exercised
+and is the key institution of the scientific culture; this allows scientists to be held accountable
+to a community, rather than a superior authority.
+(See website at: http://sci.mercer.edu/handouts/mertonian_norms.htm)

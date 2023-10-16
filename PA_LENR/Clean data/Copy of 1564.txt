@@ -1,0 +1,317 @@
+1. Introduction
+
+The past three and a half years has seen a considerable number of reports
+of observations of anomalies in metal deuteride systems; reports of the various and
+diverse effects can be found in the pages of this conference proceeding. We may
+summarize some of the effects currently being claimed:
+1. Reproducible excess power generation in palladium electrolysis experiments carried
+out in a basic (LiOD) heavy water electrolye. The excess power has been
+reported at levels as high as 10 times the electrical JV input power. The observed
+excess energy at many laboratories exceeds 50 MJ / mole ( 500 e V /atom)
+of Pd, and can therefore not be accounted for by chemistry; it is of nuclear
+origin.
+2. Anomalous neutron emission in electrolytic and gas-loaded metal deuterides.
+3. Anomalous excess tritium production, unaccompanied by commensurate neutron
+production.
+4. Fast anomalous fast ion emission from metal deuterides.
+5. Anomalous gamma emission from metals involved in electrolytic and gas-loading
+deuterium experiments.
+6. Claimed production of 4He.
+7. Excess power generation in light water experiments involving nickel cathodes and
+K2CO3 electrolyte.
+
+The experimental evidence in support of the various claims varies in quantity 
+and quality. I regard the evidence in support of the excess power production in heavy 
+water experiments to be sufficiently strong that it could be conservatively accepted 
+as experimental fact at this point. The evidence for 4He production, for example, is
+interesting; but it would be useful to obtain more confirmation to be certain that the 
+effect is indeed what has been claimed. 
+
+There has been very little in the way of significant technical input from skep­
+tics during the past several years. The principal criticisms which one hears repeated 
+involve either that (1) the experiments are not done by competent experimentalists; 
+or that (2) there is no effect, it is all noise; or finally that (3) if the heat is nuclear, 
+then there must be commensurate neutron emission - since there is not, then the 
+heat is of some other origin. 
+
+We recognize the first as an ad hominum attack which is in of itself devoid of 
+technical content; if true, it would make the more relevant job of technical criticism 
+easier. The second is an argument which was used effectively in 1989; but is not so 
+convincing in 1992. Some of the SRI excess power measurements exceed 50 a; Pons 
+and Fleischmann point out that a watch and a knowledge of the heat of vaporization 
+of water as it is vigorously boiled away is sufficient to verify that the excess power 
+production is ten times the input IV electrical power in their experiments. 
+
+The third argument is more insidious, since it presupposes the conclusion. If 
+one rejects the possibility of a new physical nuclear reaction mechanism, then one is 
+forced to the conclusion stated. Having rejected the experimental results, there is no 
+motivation to consider possible new reaction mechanisms. A tight and self-consistent 
+argument, it is one which has generally been adopted by the physics community; it 
+is also an argument which seems to require a fully-developed theory to refute. This 
+argument is one which is probably most responsible for the antagonism on the part of 
+the physics community in the US, and ultimately is responsible for nearly complete 
+absence of research support in the US in the field. 
+
+Our point of view in the work described in this manuscript is that we accept 
+the experimental claims to the degree merited by the evidence, and seek possible 
+theoretical explanations. It should be noted that actually doing so entails very signif­
+icant non-technical hardships, as we have found from experience; this course of action· 
+is not recommended for others. 
+
+
+2. Fusion Reactions
+
+Nuclear fusion requires that two nuclei approach each other to within range to 
+interact, typically fermis. Since nuclei are positively charged, the resulting Coulomb 
+repulsion makes it difficult in general to nuclei to get close enough together to fuse. 
+One approach to overcoming the Coulomb barrier is to arrange for the nuclei to be 
+very energetic ( as is done in magnetic fusion experiments or in stellar plasmas), or 
+else to arrange for significant tunneling (as in muon catalyzed fusion). Skeptics were 
+quick to point out that conditions in a metal hydride near room temperature does not 
+lead either to sufficient kinetic energies or screening to lead to observable anomalous 
+fusion rates. 
+
+Heat production in Pons-Fleischmann experiments is hard to explain theoret­
+ically through a fusion mechanism. Not only would a mechanism have to exist that 
+would allow nuclei to get sufficiently close to fuse, but a second mechanism would 
+also have to exist to modify the expected fusion reaction channels. For example, 
+dd-fusion yields n +3 He or p + t for primary reaction products; neither of these paths
+occur in Pons-Fleischmann experiments to a degree commensurate with the excess
+heat. Many workers in the field think that the 4He branch is somehow favored, and
+there seems to be some evidence supporting significant 4He production; it is hard to
+understand quite how this could occur from a theoretical point of view.
+
+The field got its name "cold fusion" originally from early speculations con­
+cerning the source of heat and neutrons from the first electrochemistry experiments 
+showing anomalous results. Although the anomalous neutron emission may have a 
+component due to dd-fusion, the heat production is very hard to reconcile with fusion 
+as described above. Reported observations of several of the other anomalies (fast 
+ion emission, gamma emission and light water experiments) would be even harder to 
+account for with a fusion mechanism. 
+
+For these and other reasons, we have concluded that whatever is going on, 
+the heat production is simply not due to fusion. It must be nuclear, which implies 
+that we must consider new basic reaction pathways. 
+
+
+3. Neutron Transfer Reactions
+
+The first fundamental problem with fusion reactions occuring in a lattice at 
+room temperature is the presence of a Coulomb barrier. A possible way around this 
+which we have proposed is to pursue reactions which involve the transfer of neutrons 
+from nuclei. A neutron is charge neutral, so that no Coulomb barrier occurs. Very 
+significant other problems occur, but at least we no longer have to face the Coulomb 
+barrier. A prototypical neutron transfer reaction (shown in Figure 1) would involve 
+the transfer of a neutron from a donor nucleus (such as deuterium) to an acceptor 
+nucleus (we have considered 2H, 6Li, 10B and Pd isotopes as possible acceptor nuclei).
+
+Figure 1: Two-step virtual neutron transfer reaction from a donor nucleus to an 
+acceptor nucleus. 
+
+The second fundamental problem with fusion reactions is the problem of 
+reconciling the reaction products with the experimentally observed products. In this 
+case, if a neutron is to somehow go from one nucleus to another, we would expect to 
+see primary or secondary capture gammas; these are observed at a low rate, down by 
+many orders of magnitude from the heat-producing reaction rates. 
+
+There is a more severe problem which occurs with neutron transfer reactions, 
+and that is how would a neutron be transferred off of a nucleus to start such a 
+reaction? The neutron is tightly bound (2.225 MeV binding energy for a deuteron), 
+and it cannot be expected to be transferred off of a nucleus without good reason. A 
+neutron can be removed from a deuteron through photodisintegration with a gamma 
+or fast particle (see Figure 2), but almost any other proposed means of doing so 
+will requre new physics. It can be shown that a lattice has no means of transferring 
+sufficient energy to a neutron to ionize it short of accelerating an electron or ion up 
+to MeV energy and kinetically knocking it out. 
+
+Figure 2: ( a) Resonance transitions involving a real intermediate state driven by a 
+laser. (b) Resonant neutron transfer reaction driven by a gamma. 
+
+Our approach to this basic problem is to work with virtual neutrons by 
+considering two-sep reactions which proceed through a virtual intermediate state. 
+There is no way to arrange for sufficient energy to ionize a neutron in a lattice in 
+room temperature, but there is a way (at least in principle) for continuum neutron 
+states to be intermediate states driven off of resonance as part of a two-step reaction 
+( as long as whatever happens at the other end is energetically allowed). This type of 
+reaction is illustrated schematically in Figure 3. 
+
+Virtual particles are known in various branches of physics, including nuclear 
+physics. It is a rather easy exercise to show that a virtual neutron which is off-resonant 
+by multiple MeV will not go further than a few fermis from its parent nucleus in free 
+space. If the nucleus to which the neutron were being transferred were within fermis, 
+then such a constraint would not hinder the overall reaction; the Coulomb barrier 
+unfortunately prevents this. 
+
+Figure 3: ( a) Raman transitions involving a virtual intermediate state driven by 
+a laser. (b) Off-resonant neutron transfer reaction driven by a low frequency 
+electric or magnetic field. 
+
+Consequently, we are faced with the problem of arranging to get a virtual 
+neutron from one nucleus to another over Angstrom distances, seemingly in the face 
+of known physics saying that it can't be done. The demonstration that a virtual 
+neutron doesn't stray appreciably from its point of origin is a free-space argument; 
+we wondered whether long range interactions were possible in a lattice. 
+
+
+4. Virtual Neutron Transfer
+
+The theory for two-step reactions which involve a virtual intermediate state 
+is well known, and the reaction rate for a transition from state O through a virtual 
+intermediate state 1 to a final state 2 can be determined from Fermi's Golden Rule 
+through 
+where state 1 is driven at the frequency of state 0. This would correspond, for exam­
+ple, to a reaction where a neutron is transferred from a deuteron to virtual continuum 
+states by a DC magnetic field, and subsequently gamma captured elsewhere onto an 
+acceptor nucleus. 
+
+The Green's function for the virtual neutron is included in the term written 
+symbolically as (E0 - H1)-1, and which actually means to compute '11 1 from
+and then plug into 
+
+The Hamiltonians which occur in the theory are second-quantized operators 
+which are appropriate for a many-particle description of the system. We may reduce 
+the problem down to its barest essentials if we focus on the wavefunction for the 
+virtual neutron in the idealized case that there is only one deuteron in the lattice 
+b.E is the energy deficit of the virtual neutron (on the order of -2.225 MeV), Hn is the 
+Hamiltonian of the neutron, and '<Pn is the virtual neutron wavefunction. The term 
+on the right hand side is the source for the neutron, which is due to the deuteron in 
+a magnetic field. 
+
+The virtual neutron wavefunction can be calculated in terms of the Green's 
+function through 
+where the Green's function satisfies 
+The behavior of the Green's function determines the character of the virtual 
+neutron wavefunction, and we can determine whether virtual neutrons will be able to 
+transfer more than a few fermis by studying the associated neutron Green's function. 
+In the case where the neutron is assumed not to interact with the lattice after being 
+formed, we would take the neutron Hamiltonian to be 
+and calculate the neutron Green's function to be 
+
+This result assumes that the proton recoil is taken up by the lattice. We see that the 
+range of the virtual neutron is severely limited to (ri2 /2Mn\l::!.E\)112, which evaluates 
+to about 3 fm for this example. This is the origin of the argument that a virtual 
+neutron simply does not go very far from its point of origin. 
+
+We may include the primary effects of the lattice in the problem by including 
+the nuclear potential responsible for Bragg scattering. In this case we take the neutron 
+Hamiltonian to be  
+where the potential V(r) is assumed to be periodic, and is expanded in terms of 
+reciprocal lattice vectors K to give 
+We are able to solve for the Green's function approximately in this case. We find 
+that the Green's function is dominated by a local piece which is very nearly equal to 
+the non-interacting Green's function described above, plus an additional very small 
+long range piece which is induced by the periodic potential 
+This long range piece is calculated to be equal to 
+where kr is the extinction vector for normal Bragg reflection 
+and where ft and h are auxiliary functions defined by 
+In these formulas, Ii is a modified Bessel function of first order, and L1 is a modified 
+Struve function of first order. 
+
+Figure 4: Auxiliary functions fi(x) and h(x). 
+
+We may use these results to compute rates for second order gamma emission 
+through 
+where Nj(O'jV)o is the gamma capture rate for isotope j for the virtual neutron. In 
+the presence of a magnetic field of 100 KGauss, the second order gamma emission 
+rate is estimated to be near 10-60 sec1 /deuteron in PdD. 
+
+
+5. Resonance Exchange Scattering
+
+We have succeeded in obtaining a long range contribution to the virtual 
+neutron Green's function which is capable of delocalizing a neutron over a micron 
+scale length. Unfortunately the associated rates for second order reactions through 
+such a mechanism are calculated to be neglible. 
+
+This result bodes unfavorably for neutron transfer reaction mechanisms unless 
+some new physics can be found which would improve the virtual neutron density. 
+While searching for possible resonant mechanisms, we noted that the capture of a 
+neutron onto a proton to form a deuteron would be resonant if the neutron originated 
+from a deuteron initially. Certainly protons exist in the Pd rods at a the few per cent 
+level in the excess heat experiments. 
+
+We have modeled the incoherent version of the process assuming that the 
+initial deuteron is perturbed by a small amount bE, but that all subsequent captures 
+and re-emissions occur in the Mossbauer limit of no phonon generation. In this case, 
+the neutron Hamiltonian is modified to become 
+where the operator W(r) satisfies 
+Since the operator is of the form of an exchange term, we have termed the effect 
+resonant exchange scattering. 
+
+The exchange operator leads to Bragg scattering on the same footing as the 
+direct neutron potential considered in the last section. We may expand 
+where the expansion coefficients Wk-K,k are computed to be 
+where the proton wavefunctions are parametrized by 'lf;p ~ e-a-plr-R.1
+212, and where
+the center of mass of the deuteron wavefunctions is parametrized by IJr D ~ e-a-vlr-R.1
+The summation over j includes proton sites in the unit cell, and 
+
+The exchange terms can be added to the direct terms in the development of
+the Green's function in the presence of resonance exchange scattering; our results of
+the last section can be applied here with the modification
+Unfortunately, the expansion coefficients Wk-K,k for the incoherent version of this
+new process are smaller by very roughly four orders of magnitude from the expansion
+coefficients VK for direct potential scattering.
+
+It appears that a coherent enhancement of the effect may be possible. The
+resonant exchange scattering matrix element computed in second quantization is given
+formally by
+The evaluation of this expression yields
+Using the parametrization of the proton and deuteron orbitals described above, this
+leads to a result which can be cast as
+This result is the coherent generalization of equation (20), and differs in the presence
+of possible coherence factors, which are expectation values over the many-particle op­
+erators f;_[apanaD] = Li b!,cx/ i)bD,cxn (i) and f+[ap,O'nO'D'] >= Lj bb,cxn, (j)bp,cxP,(j)
+These operators satisfy commuation relations identical to those of spin operators, and 
+permit the construction of eigenstates analogous to spin states. Such states were stud­
+ied by Dicke, and lead to coherent enhancements of matrix elements of the sort which
+appear in equation (25).
+
+It has not been demonstrated yet that any particular mechanism is capable of
+producing the requisite Dicke states which would lead to a coherent enhancement
+of the resonant exchange scattering. It is our belief that diffusion in the quantum
+limit would cause phase-preserving delocalization of hydrogen isotopes in a metal
+hydride, and that this would lead to the production of anomalous effects observed in 
+Pons-Fleischmann experiments. If this is true, then we would obtain 
+The coherence number could be on the order of the number of sites enclosed in a cube 
+with a volume which is on the order of Vcoh = L oh, where the scale length would be 
+determined through Lcoh ~ J'Dr, and where D is the quantum diffusion coefficient 
+and r is the phase destruction time (which we cojecture will be the NMR T2 time). If 
+so, the coherence numbers of Ncoh ~ 1010 may be attainable, which would cause the 
+coherent version of the resonant exchange scattering to dominate the virtual neutron 
+dynamics. This limit would require a more sophisticated calculation for the Green's 
+function than the perturbative result given above. 
+
+
+6. Summary and Conclusions
+
+We have proposed new coherent neutron transfer reactions to account for the 
+anomalies which are associated with Pons-Fleischmann experiments. In this paper 
+we have discussed the problems associated with the presence of a virtual neutron in a 
+second order reaction, and we have summarized recent progress which we have made 
+to date. Although lattice effects can cause a significant delocaliztion of the virtual 
+neutron wavefunction, they are insufficient to lead to observable reaction rates. The 
+coherent version of the new resonant exchange scattering mechanism which we have 
+found appears to have the potential to provide large theoretical rates. If our conjecture 
+is correct, the mechanism would be specific to deuterium in metal hydrides with high 
+diffusion coefficients at room temperature. 
+
+Heat production in the theory could come from at least two reaction pathways. 
+The neutron transfer could occur to the ground state of the acceptor (such as 6Li or 
+10B, and the energy transfer could occur to the lattice via the gap jumping mechanism 
+which we have found in an earlier work3• Alternatively, the neutron transfer could 
+occur to a relatively long-lived excited state of an acceptor nucleus (perhaps a Pd 
+isotope), which might subsequently alpha decay. 
+
+
+References 
+
+1. P. L. HAGELSTEIN, "Coherent and Semi-Coherent Neutron Transfer Reactions
+I: The Interaction Hamiltonian," Fusion Tech. 22, 172-180, (1992).
+2. P. L. HAGELSTEIN, "Coherent and Semi-Coherent Neutron Transfer Reactions
+II: Transition Operators," submitted to Fusion Tech., (1992)
+3. P. L. HAGELSTEIN, "Coherent and Semi-Coherent Neutron Transfer Reactions
+III: Phonon Generation," to appear in Fusion Tech. (1992)
+P. L. HAGELSTEIN, "Coherent and Semi-Coherent Neutron Transfer Reac­
+tions IV: Two-Step Reactions and Virtual Neutrons," submitted to Fusion Tech. 
+November (1992)

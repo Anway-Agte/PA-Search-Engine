@@ -1,0 +1,726 @@
+Abstract
+
+This talk consists of three parts: the first on the "pathological" nature of
+Cold Fusion ( CF) phenomena, the second on a wide theoretical effort based
+on the new ideas of QED coherence in matter, and the third replying to
+explicit criticisms to my work.
+
+
+The "pathological" Science of Cold Fusion
+
+Six years after the momentous announcement of 1farch 23, 1989 the world
+of Science is still divided: a large majority that regards Cold Fusion (CF) an
+eminent example of "pathological" science, a small battered minority that
+still carries on with very limited means, both financial and, alas, intellectual,
+struggling for the survival of the grandiose dream that Fleischmann and
+Pons (FP) brought to mankind that now distant spring day of 1989.
+
+Why did it go this way? Why a phenomenology1 that has found so
+many diverse confirmations by several different experimental groups, has
+failed to convince such a large number of scientists, that have turned their
+back on this fascinating field?
+
+I believe we must try to give an honest answer to these important questions,
+for if we fail to understand why so many of our colleagues perceive
+CF as a pathological form of science, we are doomed to remain marginal
+even if we will able, as in fact we are doing, to make substantial progress.
+
+It seems to me that the basic reason why CF is almost universally considered
+"pathological", is that it is so at odds with deeply rooted expectations
+based on the generally accepted picture of condensed matter and nuclear
+physics, that it requires the established scientist an almost heroic effort even to bring himself to look into such a bizarre set of physical phenomena ( the
+situation is of course different for the scientists that live somewhat at the
+margin of Academia, and this has been part of the problem of CF).
+
+Without a well defined frame that can accomodate the strange looking
+facts of CF, indeed its "miracles", the natural reaction of scientists is at
+best to ignore those facts, at worst to believe them the result of some
+kind of fraud. And, of course, we have seen all that. But, instead of
+moralistically condemning such attitudes (which in truth have caused us no
+minor suffering), as I have just stressed, we should try to put ourselves in
+the shoes of the many colleagues with whom, before that fateful day of the
+spring of 1989, ,ve had a perfectly reasonable kind of relationship.
+
+Confronted with the experimental landscape of CF, what do they see?
+The following "monstruosities":
+i) the deuterons, that are well known to crowd a Pd cathode in a heavy water
+electrolytic cell, and to accomodate in the octahedral sites of its lattice, are
+supposed to undergo nuclear fusion at rates hundreds of orders of magnitude
+higher than what one expects in the Drmolecule, where the deuterons are
+located even closer.
+ii) not only do the deuterons (supposedly) fuse, defying all known condensed
+matter physics, but they would do so following a nuclear physics path, that
+is completely at variance with the known path, for ,vhich the two reactions
+D + D-+ n (2.45 MeV) +
+3 He (0.82 MeV)
+D + D -+ p (3.02 MeV) +
+3 H (1.01 MeV)
+have each a branching ratio close to 50%.
+
+Countless papers, books, sermons etc. have been written and uttered to
+admonish us all about the senseleness of what the CF scientists pretended
+to have experimentally demonstrated, and how their refusal to repent and
+recant jeopardized, indeed discredited the whole scientific community. By
+the way, the tones and the practices of the keepers of scientific orthodoxy
+in the CF debate have been remarkably close to those of the critics and
+enemies (mostly churchmen) of the Renaissance science, who finally saw
+the better part of Bruno, Galilei and their followers. And indeed, in the
+present frame of understanding both condensed matter and nuclear physics,
+there is no way to reconcile the above two "monstruosities" with the huge
+body of knowledge that is based upon the dominating paradigm. Thus, let
+us make a little investment in philosophy (a most abhorred and derided
+intellectual enterprise by the normal scientist2 of today) and try to char
+·acterize the deep roots of the paradigm, for without it not only are wecondemned to a permanent and futile warfare and misunderstanding with 
+our colleagues, but we will also remain unaware of the remarkable revolution 
+that the "monstruosities" of CF are bringing about in modern science. 
+
+If one wishes to characterize with a single concept the paradigm, I believe 
+the best of all is : Asymptotic Freedom (AF). The concept of AF, as far as 
+I know, was first explicitly discussed in 1973 [2] within the then consolidat­
+ing Standard Model (SlVl) of particle physics: it denotes the property of a 
+non-abelian gauge theory (Quantum Chroma Dynamics (QCD)) to become 
+(almost) free from interactions when probed at space-time distances which 
+become asymptotically negligible with respect to the sizes (   10- 13 cm) of 
+the strongly interacting particles ( the hadrons). This peculiarity, which was 
+proven within perturbation theory, has become enormously influential, due 
+to the apparently natural solution it engenders of the unexpected simple 
+structure of the cross sections of highly inelastic scattering of leptons off pro­
+tons and neutrons (Deep Inelastic Scattering (DIS)). Besides its seemingly 
+high predictive power in DIS, I believe that AF owes its universal accep­
+tance to what appears to me as an unconscious psychological attitude, that 
+pervades our advanced societies, which has to do with the jealousy for our 
+privacy: the wish to become "asymptotically free", when we choose to go 
+far from the "madding crowd"; the final triumph of the individual over the 
+constraints of collective life. To see this now highly popular dislike of col­
+lectivism supported and corroborated by a rigorous result in (perturbative) 
+Quantum Field Theory ( QFT) must have certainly enh nced the belief that 
+perturbation theory is a very good tool to describe the interactions among 
+different levels of reality, involving far away space-time scales. The irony of 
+all this, as I thoroughly pointed out in the last several years [3], is that just 
+within the theory (QCD), that has led to a rigorous perturbative demon­
+stration af AF, there has arisen the most spectacularly paradoxical notion 
+of all modern physics, that of the confined quark. For those who are not 
+very familiar with all this, let me only point out that the quark is the only 
+known constituent of (hadronic) matter that is essentially inseparable 
+from the matter it constitutes, i.e. nobody has ever been able, by any phys­
+ical means, to take the quarks out of the particles (hadrons) of which they 
+are, allegedly, constituents. It so appears that, as far as the quarks are 
+concerned, they are not asymptotically free, in the sense that under no 
+circumstances can we realistically talk of the individual quark, for unless 
+a quark finds in the close environment partners to compensate its colour 
+charge, it is condemned to disappear in an all embracing, sticky (recall that 
+the quanta of the colour fields are called 
+
+1'gluons") vacuum. Thus the phys­
+
+ical reality (or better unreality) of the quark discredits the notion of AF, 
+just in the theoretical framework where this concept was first introduced 
+and perturbatively proved. 
+
+But as far as condensed matter physics is concerned, within the pre-
+vailing electrostatic picture of interactions, that we may call the "Electro­
+static Meccano", AF is a true property of the QFT describing it, and its 
+expectations coincide with those of the physics community. Thus according 
+to AF it does not make any sense that the nuclear physics of deuterons, with 
+its space-time scales six orders of magnitude smaller than the space-time 
+scales of the lattice, be any different in vacuum than in the Pd-lattice. Any 
+attempt to concoct, through some quantum-mechanical trick3 , an explana­
+tion of the CF phenomenology that stays within the tenets of the paradigm 
+must necessarily fail, for AF is deeply rooted in the paradigm - I daresay 
+it is the paradigm - and there can be no doubt that AF rules out CF 
+altogether. 
+
+I believe that it is the poor understanding of this general implication 
+of the paradigm that is responsible on one hand for the criticism of the 
+majority of the scientific community of the "pathological" nature of CF, 
+and on the other of the inanity, worse the outright falsehood, of most of the 
+many theories of CF that have been proposed in the last six years. 
+
+But before introducing a new paradigm that avoids the narrow confines 
+of AF (which I shall do in the next Section), I wish to conclude this Section 
+with a small observation on "pathological science". As well known CF has 
+been associated in its "pathology" with another subject that caused a scien­
+tific scandal in the seventies, the "polywater" affair. Unlike the discoverers 
+of CF, the discoverer of "polywater" - Deryagin - finally recanted, con­
+ceding that the water that is found in very thin quart  capillaries is not a 
+new strange phase of water but some kind of gel containing a sizable fraction 
+of solved silica. This admission was hailed with relief and the deep reward­
+ing feeling that scientific rationality had finally triumphed over unsound 
+scientific claims and deductions. But, should it have really been so hailed? 
+
+I doubt it, for, if not "poliwater", Deryagin had discovered the incredible 
+fact that pure water ( a collection of small, rather featureless molecules) is 
+able to attack and dissolve a material that can stand the strongest chemi­
+cal agents. Is this understood within the paradigm? A reply to this simple 
+question would be highly appreciated. 
+
+
+Curing the "pathologies": QED coherence in 1natter 
+
+In the introductory Section I have tried to explain that the "pathological" 
+nature of the science of CF, as perceived by the large majority of the scien­
+tific community, lies in fact not in the wide experimental body of knowledge 
+3 Another unhappy aspect of the dominating paradigm is the subjectivism of the Copenaghen 
+interpretation of Quantum Mechanics, imbibed of irrationalism. Irrationalism that very often 
+is played against whoever asks embarassing questions about the physical bases of universally 
+accepted but extremely obscure quantum mechanical developments (such as, for instance, the 
+BCS "theory" of cold superconductivity and the Mossbauer effect). 
+that reproducibly has been accumulated throughout the world in the last 
+six years, but rather in the intellectual framework - the paradigm - that 
+dominates not only in physics, but in chemistry and biology as well. 
+
+When dealing with condensed matter phenomena the normal4 scientist 
+is led by the paradigm to expect that the constituents of condensed matter 
+( atoms, molecules) are bound together by the same kind of forces that bind 
+the elementary building blocks of molecular physics, namely electrons and 
+ions/nuclei. As we know well, these forces are all of electrostatic nature, 
+and have the fundamental property of extinguishing themselves at distances 
+larger than a few A's. This property stems from the well known fact that 
+condensed matter at scales of just a few A's is neutral. Thus the long range 
+part (1/r) of the Coulomb interaction5 is ineffective (De bye screened) at 
+distances that exceed a few atomic radii. The mental picture of condensed 
+matter, that the paradigm suggests to the normal scientist, is that of a huge 
+electrostatic Meccano, where the electrostatic two body (local) interac­
+tions are the nuts and bolts that keep the pieces of the Meccano - atoms 
+and molecules - glued together to form the enormously complicated struc­
+tures of condensed matter: crystals, glasses, hydrogen-bonded liquids etc. 
+
+In this picture macroscopic order, that we contemplate often with marvel 
+in matter, both living and inanimate, is the outcome of the juxtaposition 
+of the pieces of the Meccano through the holding action of the electrostatic 
+nuts and bolts. But just as the l\foccano picture supports, with the aid 
+of properly designed blueprints, the possibility of building meaningful, or­
+dered structures, when all this is cast in the necessary quantum mechanical 
+framework, where all nuts and bolts must be somewhat loose, in abeyance of 
+the Heisenberg principle, it becomes highly implausible that such looseness, 
+compound over about 1024 (the Avogadro number) elementary systems may 
+result in macroscopic structures with the kind of stability and strength that 
+we observe in condensed matter. And as a matter of fact, I know of no solv­
+able theoretical model that achieves macroscopic order through short range 
+
+interactions6• But there are more specific reasons not to believe in the electrostatic 
+Meccano; just to mention a few: the i\Iossbauer effect, ferromagnetism, 
+
+superfluidity, superconductivity, catalysis, experimental realities for which 
+
+there exists only "kinematical" theoretical frameworks, based on "self-consistency" 
+, the deep "dynamical" reasons being always postponed to some demiurgical 4see footnote on page 4 
+
+5It is thus very surprising to find that the most popular theory of the quantized Hall effect is 
+based on a Hamiltonian for the electrons' system whose interaction term is the pairwise Coulomb 
+interaction. 
+6The usual objection that I hear to this contention is, of course, in terms of the Ising model. 
+
+However (i) the Ising model is formulated on a lattice, thus on an "a priori" ordered structure, 
+(ii) I know of no successful application of the Ising model to any realistic system.
+future computation/simulation.
+
+It is for the keen unsatisfaction with the present state of affairs that
+a few years ago (1987), having completed a long and difficult analysis of
+the Quantum Chromo Dynamics (QCD) ground state [4], in search for an
+explanation of the peculiar confinement property of quarks, I started on
+a research programme to investigate the possibility that also for QED in
+condensed matter systems the ground state (the vacuum) show the highly
+non-trivial structure that in QCD explains the paradoxical confinement be­
+haviour of quarks. This research quickly met with unhoped for success,
+and, as I explained in a series of lectures already in February 1989 [5],
+the ideai that the transverse electromagnetic field in the ground states of
+condensed matter is well described by an infinite set of quantum harmonic
+oscillators in their minimum energy states ( the perturbative vacuum) is
+just simply wrong, for it is based on an approximation ( the slowly vary­
+ing envelope approximation) that, though fully valid in Laser physics, is
+totally inapplicable in systems that are cold and dense enough. And if the
+ground state of the e.m. field in condensed matter is in general the pertur­
+bative QED ground state, this must mean the doom of the paradigm, for
+it systematically ignores an important, indeed a fundamental actor of the
+dynamical drama of matter. And if the ground state of a piece of matter,
+as the paradigm envisages, is not the loose structure where the elementary
+matter systems and the e.m. field each perform their zero-point quantum
+oscillations chaotically and independently, what is it, really?
+
+The answer, as widely and thoroughly discussed in a book that is due
+to appear soon [7], is disarmingly simple: it is a laser-like state where
+matter and field oscillate in phase on a frequency that is characteristic of
+the particular atomic/molecular species that make up a particular piece of
+matter. But there are two fundamental differences:
+i) the laser-like state, being the ground state, is accessed spontaneously with­
+out any pump nor optical cavity, when it is below a critical temperature and
+above a critical density;
+ii) no e.m. radiation can escape from such a state for, being it the ground state,
+this would violate energy conservation.
+
+It turns out that with the kind of "oscillator strengths" (matter - e.m.
+couplings), and the kind of densities ( (  )   1022 -;- 1023 cm-3) typical of
+the atomic/molecular systems of condensed matter the critical tempera­
+tures are usually very high ( 1000 K) and the critical densities are usually
+well below 1023 cm-3• Thus such states are predicted by QED to occur
+very frequently, as indeed they do! It should be abundantly clear, at this
+7 As forcefully argumented by P.\V. Anderson in an influential book on condensed matter 
+physics {6]. 
+moment, that the doom of the paradigm, implied by such new develop­
+ments, demands that it be replaced by the new approach, that is based 
+on a solid ( through well defined approximations) analysis of the ground 
+states of QED in condensed matter systems [5]. \Ve may call this new 
+approach the electrodynamic Network (EN), for it involves the multi­
+tudes of atoms/molecules of a macroscopic piece of matter in an intricate 
+dynamical interplay mediated by a large amplitude ( classical) e.m. field. 
+
+One of the basic aspects of the EN, that being very conterintuitive is 
+most difficult to visualize, is the peculiar behaviour of the matter systems, 
+which comprise well defined quantum wave fields, the matter wave fields. 
+
+When we concentrate our attention upon the elementary matter systems it 
+seems completely natural to think that when in the ground state they are 
+in the lowest state of excitation, for this appears to be a straightforward 
+consequence of energy minimization. This. in fact, turns out to be generally 
+wrong for, due to the phase coherence between the matter field and the e.m. 
+field, energy is minimized when both the electromagnetic and the matter 
+fields are in an excited state, the (negative) interaction energy being suffi­
+cient to bring the value of the total energy below that of the perturbative 
+ground state, where both e.m. field and matter are indeed in their ground 
+states. 
+
+As I have stressed [8,9] time and again to the CF community since the 
+first paper published in May 1989, the ground state of a piece of matter, 
+say a Pd rod, is so crowded with large coherent e.m. 'fields that the idea 
+that AF should hold there does not seem at all reasonable. Indeed one 
+should carefully evaluate (and this has been done in successive steps [9]) if 
+and in which way the expectations of AF are violated. However, one thing 
+can already be said with certainty: AF is not a general property of the 
+coherent ground states of QED in condensed matter. Thus, from a purely 
+conceptual standpoint, in the new approach the "pathologies" of CF are 
+completely cured, for they are all based on a general property, AF, that 
+does not hold in a large class of physical solutions of QED, the coherent 
+ground states (CGS). At this point one may conclude that the "pathology" 
+of CF is in fact in the eye of the beholder! 
+
+In an article written together with :M. Fleischmann and S. Pons [10] an 
+articulate discussion was presented of the strange behaviour of Hydrogen 
+in a metal matrix such as Pd, arguing that, even ignoring the phenomena 
+of CF, what is well known since long about the way Hydrogen enters and 
+diffuses in Pd is totally at odds with the paradigm, and its qualifying AF. 
+
+In particular, the high potential barrier(  30 eV) that a Di-molecule must 
+overcome before entering the Pd-lattice ( where, according to a series of fas­
+cinating experiments of A. Coehn (11), Hydrogen is found in the ionized 
+state) is something that within the paradigm has never found any sensible 
+explanation. This and the many other mysteries that still remain to be un-
+raveled in the Palladium/Hydrogen system, as we have argued in Ref. [10], 
+should be another warning signal that one does have to go beyond the 
+paradigm, even ignoring (but how?) the dry and reproducible facts of CF. 
+
+Let me now devote the rest of this Section to paint a possible scenario 
+of the Pd/D system at high loading (x =Pd/D), where the CF phenomena 
+are known to occur. I shall do this in the framework of the new approach, 
+whose conceptual bases have been described at length above, and whose 
+calculational details have been worked out in several previous talks and 
+
+
+reviews [12,13]8• 
+
+The Pd-lattice ( a face centered cubic lattice) is the locus of several 
+coherent dynamical processes, that give rise to coherent, collective plasma 
+oscillations of the different elementary systems. Those in which we shall be 
+mainly interested in are: 
+i) the coherent plasma of the Pd-ions;
+ii) the coherent plasma of the d-electrons;
+iii) the coherent plasma of the conduction electrons.
+
+These plasmas realize an energetic gain with respect to the (mono )atomic
+high temperature gas, and such gain constitutes the previously ill-recognised 
+"raison d'etre" of the crystalline structure of the metal. When the Pd-lattice 
+is entered by the Hydrogen (and its isotopes D,T) atoms one finds that the 
+electrons go to augment the conduction band, and the (partially screened) 
+nuclei arrange themselves in particular sites ( octahedral and tetrahedral) 
+(See Fig. 1), where they perform coherent, collective plasma oscillations. 
+
+Again, it is the energy gain that is associated with the latter plasma oscil­
+lations that justifies the incorporation of Hydrogen by the Pd-lattice, that 
+in fact turns out to be exothermal ('.::::'. 15 Kcal/mole). Thus in the Pd/H 
+system there is another all important plasma: 
+iv) the coherent plasma of the (partially screened) H (D,T) nuclei.
+
+As explained in Ref. [13) there are two types of H plasmas, according
+to the sites the H-ions occupy: the ,B-plasma in the octahedral sites, and 
+the ,-plasma in the tetrahedral sites. I have shown (and a more refined 
+calculation [14] confirms it) that for x   x0 (x0   0.7) it is the ,0-plasma 
+that realizes the ground state, while for x > x0 the ,-plasma possesses the 
+minimum (free) energy. Thus on a purely theoretical basis it was concluded 
+that a (second order) phase transition (from the ,B-phase in the octahedral 
+sites to a new phase, called ,-phase, in the tetrahedral sites should occur for 
+x   x0 • This prediction has now found many confirmations ranging from 
+8This reasonably exonerates me from repeating what can be found in easily accessible 
+literature. 
+
+Figure 1: The octahedral sites (left) and the disks of the tetrahedal sites (right) 
+in the (1,0,0) plane of the Pd lattice. 
+the measurement of the x-dependence of the diffusion coefficient [15], to 
+the peculiar resistivity curve of the Pd/H system, which shows a maximum 
+at x0   0.7. The explanation of this latter well known fact is in the new 
+approach quite simple and natural: the extra resistivity that, due to H 
+incorporation, rises up to x0 and falls to zero for x -+ l, .reflects the different 
+scattering cross-sections that the H-ions have for the conduction electrons; 
+in particular the decrease for x > x0 indicates that in the 1-phase the H-ions 
+are in a tightlier correlated state. 
+
+In the talk I have given at the ICCF4 [13] I posed two sets of questions, 
+relevant to the H-loading of Pd (a) and to the CF phenomena proper (/3). 
+
+Let me recall them. 
+
+First the questions about Hydrogen (D) loading: 
+( a1) Why and how does the process 
+
+
+D2 lgas -+ D + D !lattice 
+
+proceed? 
+
+
+(a2) why and how, in the lattice 
+
+n+ and e- enjoying a different, independent dynamics? 
+(a3) why is n+ so mobile at high x?
+( a4) what are the phases of Pd/D? 
+ii) 
+iii) 
+Figure 2: The steps of D2 absorption by the Pd-lattice. 
+( a5) what happens during electrochemical loading? 
+(a6) why one observes "Heat after death'' [16}? 
+
+As for the mechanisms of CF in the highly loaded Pd/D system, the
+relevant questions appear to be: 
+(/3i) how can one overcome the Coulomb barrier?; 
+(/32) which is the main DD-fusion dynamics?; 
+(/33) can we understand rarer processes: n,T,X-rays ... ? 
+
+Let me now briefly recall the answers. 
+(ai) The process consist of two steps (see Fig. 2): 
+(i) the Drmolecule is brought in contact with the Pd-surface; this step is
+governed by the gas chemical potential:
+T[ 
+
+
+T 
+
+µD2 = -2 19.3 + 4 Iog To - log pl 
+Po ,
+(ii) the D2-molecule interact with the evanescent e.m. field associated with
+the different Pd-plasmas. It is the dispersive interaction of these co­
+herent e.m. field that causes the tunneling of the Drmolecule through
+the high barrier(  30 eV) that separates it from the ''shattered" state
+(2D+ + 2e-) in which it starts penetrating the Pd-lattice. Incidentally, 
+the same kind of interaction must be at work when the coherent e.m. 
+field of water [17] induce the NaCl (ionic) molecules of a crystal of salt 
+to tunnel through their barrier (about 5 eV high) to become ions: Na+ 
+and c1-. 
+(a:2) The D+ 's and the e-'s of the "shattered" deuterium surface state penetrate 
+(almost) independently the Pd-lattice, for they belong to different plasmas, 
+and there is an energetic gain to be part of the plasmas instead of remaining 
+in the atomic configurations. 
+( a3, a4) It all depends on the different phases a- /3- and 1- the n+ 's are in with 
+increasing x. The a-phase is a disordered (gaslike) phase existing at x < 0.1; 
+in this phase the diffusion coefficient is expected, and found, very small (see 
+Fig. 3). The /3-phase is an ordered (coherent) phase with the D+'s oscillating 
+in the octahedral sites. The ( calculated [14)) x-dependence of the chemical 
+potentialµ for the /3- and the ,-phase (the D+'s in the tetrahedral sites) are 
+reported in Fig. 4, which shows a cross-over at about x0 , implying that for 
+x < Xo the stable phase is the /3-phase, while for x > x0 it is the ,-phase to 
+be stable. Recalling now that the diffusion coefficient is given by 
+where a is Einstein's mobility, from Fig. 3 we may understand two major 
+features of the D +'s mobility in Pd: 
+(i) its fast increase with x;
+(ii) its sharp discontinuity for x ;.._,, x0• 
+These deductions answer (a:3) and (a:4) completely. I should also remind you 
+that the existence of the ,-phase, whose evidence is becoming compelling, 
+was actually predicted on the grounds that CF cannot take place in the 
+/3-phase for: 
+(a) the D +'s are too far away;
+(b) only the tetrahedral sites can accomodate more that one n+;
+( c) only in the tetrahedral sites can the d-electrons of Pd effectively screen
+Coulomb repulsion.
+
+This is another good example of the fact that the remarkable oddities of CF 
+have just shed interesting light upon the dynamics of an ancient, well known 
+system such as Pd/H. 
+
+
+-t 
+
+X 
+
+Figure 3: The diffusion coefficient of D in Pd as given by [15] 
+n.5 -..------------------
+
+
+-0.l   t     
+
+.11.2 r
+
+-'l.J ................................ ""'--'--'-'-'-.W.... '-'-'-....................................................... ...._._ ......... _._.__.........., 
+
+
+II 
+
+II.I 
+
+O.J 
+
+II.II 
+
+l 
+
+Figure 4: The chemical potential µ13 of the ,B-phase, compared with µ..., of the 
+,-phase, as a function of x. 
+
+
+GAS 
+
+Figure 5: The different fates of D+'s arriving at the Pd-cathode. 
+( o5, 06) The description of electrochemical loading that our approach affords takes 
+off from the three possible fates ( depicted in Fig. 5) of the o+ -ions once they 
+arrive at the cathode. How many of them will be able'to enter the Pd-lattice, 
+and load it at high x (the fundamental prerequisite for CF phenomena to 
+occur), it depends on: 
+(i) how many D-atoms will combine on the Pd-surface and leave the premises
+as Di-molecules, forming the.well visible gas bubbles;
+(ii) the chemical potential of the D's left at the surface.
+
+In order to minimize the number of D-atoms that bubble out as Dr molecules 
+some kind of "muck", that forms during the electrolysis upon the surface, is 
+certainly useful, for it hinders the free traffic of D-atoms on the surface and 
+its consequent high recombination probability. As for the surface chemical 
+potential a fairly detailed analysis of the ponderomotive effects due to the 
+evanescent e.m. fields of the various plasmas of the Pd/D system has been 
+presented at ICCF4 [13], showing interesting autocatalytic aspects. In fact, 
+the surface, as well as the bulk chemical potentials acquire negative terms, 
+whose absolute values increase with x, thus leading to large equilibrium x­
+values, quite far away from thermodynamical equilibrium. 
+
+As for "heat after death", the subtle interplay of surface and bulk chemi­
+cal potentials at high x is capable to account for the strange observations 
+reported by S. Pons at ICCF4 [16] 
+
+► 200 ,----------------  
+
+l O 
+
+t, 
+Figure 6: The electrostatic potential as seen by the D+'s along the tetrahedral disks
+
+Getting now to the CF phenomena in the highly loaded Pd/D system,
+I will now sketchily9 answer the questions posed above,in order.
+(/31 ) The screening that the plasma of d-electrons provides in the tetrahedral sites
+has been determined by calculating the electrostatic potential generated by
+them, which is reported in Fig. 6.
+
+Introducing such screening potentJal in the Gamow barrier penetration am­
+plitude(µ= T is the reduced mass of the D-D system)
+T/G ~ exp {-(2µ)1l21: dr'[V(r') - E] 1l2}, 
+
+yields
+
+TJa(Pd) ~ 10-22±1, 
+some thirty orders bigger than the amplitude in the Drmolecule rya(DD) ~
+10-51• This very strong screening is enough to yield rates for the purely
+incoherent processes (the only one that takes place in vacuum)
+rlNc = l11a12rNUCL   lO(x - 1) fusions/sec cm3,
+where the (x - 1) factor takes into account the threshold at x = 1, a strict
+prediction of this approach.
+9 Again, extended answers are found in the ICCF4 talk (13] 
+(/32, /33) The main fusion path is not, of course, the incoherent one, that is the only
+fusion mechanism in the vacuum, and would be the only one in Pd as well,
+should AF hold, as dictated by the paradigm.
+
+The new approach, in fact, predicts that the strong e.m. fields that crowd the
+lattice, once the barrier is penetrated, couple the extra D-nuclei (i.e. those in
+excess of x = I) to the wave-field comprising all deuterons within a coherence
+domain10, of the size of a few microns. Due to the Nev factor, arising from
+coherence, and the strength of the e.m. fields, the nuclear dynamics becomes
+strong and fast, leading to the nuclear ground state 4He with high probability
+and in a very short time. This is why:
+
+
+(i) the main fusion channel is
+
+o+ + o+ ➔ 4 He+ energy in Pd;
+(ii) the energy released to the Pd-lattice brings the various coherent fields
+in excited states that relax with their particular times ( 2;, w is the
+oscillation frequency) in various forms:
+a) e.m. radiations of all frequencies,
+b) exotic nuclear photo-reactions, including neutrons from the photofis­
+sion of D,
+c) heat, i.e. phonons.
+(iii) in regions where the coherence is partial, we may have different, weaker
+and longer pathways (Fig. 7), which may explain the odd ( T) ratios
+that have been observed.
+(iv) a (semi)quantitative calculation of the main fusion channel on the case
+of "minimal" coherence (i.e. coherence over only one CD) yields for
+x ~ 1.1 rates of the order of kW /cm3 Pd. Much higher rates are
+expected for higher x-values and more extended coherence.
+
+To conclude this Section, I believe I may state with confidence that on
+the basis of the accumulated body of observations and of the theoretical
+work done so far:
+(a) a good, predictive, sound theory of the "pathologies" of CF can be based on
+the general laws of QED, liberated at last from the crippling constraints of
+Asymptotic Freedom;
+(/3) the science of CF is just in its infancy, other promising systems, besides
+the Pd/D are now coming to the fore and even in the Pd/D system there
+lO As I have explained, almost "ad nauseam" on several different occasion, the minimum space
+domain in which the matter and the e.m. fields are coherent is the Coherence Domain (CD}, 
+whose size is the wave-length of the e.m. field. 
+
+Figure 7: The level diagram for the states involved in the dynamical evolution 
+described in the text. Also reported is Schwinger's 4He*. 
+are large areas of experimentation where a new chemistry, a new condensed 
+matter and a new nuclear physics are very likely to emerge, fostered by the 
+power and the simplicity of the new, coherent approach. 
+
+
+What's wrong with this?: a reply to 1ny critics 
+
+I may concede that I never, since my long scientific militance in the camp 
+of CF, expressed so explicitly to this community the need for the drastic 
+paradigm shift that the CF phenomenology demands. The new approach 
+- QED coherence in matter11 - just realizes such paradigm shift by iden­
+tifying in the neglect of the transverse e.m. field in condensed matter a
+fatal drawback of the dominant paradigm and of its fundamental conse­
+quence: Asymptotic Freedom. In hindsight this was a mistake, for very
+few scientists (fortunately Fleischmann among them) have perceived the
+logical cogency of the various deductions that form the body of an in prin­
+ciple (to go frorri. principle to practice will require substantially more work)
+complete theory of CF, both with regard to the fascinating problems of
+Hydrogen loading in a metal matrix such as Pd, and to the CF phenomena
+in such metal/D systems.
+
+As a matter of fact what in my work most people have incorrectly under­
+stood, and criticized, is a collection of more or less "imaginative" models to 
+fix the various "miracles" of CF, that to a closer scrutiny within the frame 
+of prejudices and constraints of the paradigm end up (is it so surprising?) 
+to violate one or other of its tenets. 
+
+I shall illustrate this important point by analyzing and answering the 
+most explicit critiques12 that have been levied against my work, which ap­
+pear in the ICCF4 Proceedings [18),· and in a review article published in a 
+recent issue of the International Journal of Theoretical Physics [19]. 
+
+The hostile attitude of the authors toward my work is betrayed by their 
+complaint that Dicke, the inventor of Superradiance, is never mentioned 
+in the CF papers. As mentioned in a footnote above, though Dicke's Su­
+perradiance leads to ordered quantum states of matter and radiation that 
+have some common feature with those of QED coherence in matter, their 
+distinctive feature of producing coherent e.m. radiation (like in a laser) is 
+just orthogonal to the e.m. field trapping within matter, that gets realized 
+in the new approach when the density of the atomic/molecular systems is 
+11 In a first stage I gave this approach the name of Superradiance, as a due homage to the 
+pioneering work of R.H. Dicke. This was a mistake, for my generosity has been maliciously taken 
+as a plagiarism. But more of this in a moment. 
+12To be fair, I should credit these critics the basic honesty of speaking out their disagreement: 
+a practice that is less and less popular in the contemporary scientific world, for it exposes the 
+critic himself to critiques. The more frequent and safer practice makes use of gossips and of 
+anonymous referee reports. 
+large enough and their temperature low enough. It is just for these reasons 
+that Dicke has been fully mentioned in other papers and lectures, his work 
+being totally unrelated to the subtle phenomenology of CF. 
+
+Their hostility is further displayed in their accusing me of conceptual 
+errors, that they do not care to argue, and of "a number" of numeric and 
+analytic mistakes, of which they discuss only a minor one ( about a factor 
+of 5 in a Gamow amplitude ~ 10-21, whose evaluation can clearly not be 
+more accurate than one order of magnitude!). 
+
+But, enough with such pettiness; their really strong critique has to do 
+with the large screening potential (½crccn ~ 100 eV at the bottom of the 
+well) derived in Ref. [9], and further refined in subsequent calculations [14]. 
+
+Incidentally, without such screening there is no (known) way to understand 
+how CF phenomena could happen. 
+
+Having taken the original calculation to mean that the Z electrons of 
+the Pd atom surround the D+ -ion at distances of the order of the Fermi­
+Thomas radius for a Z electron atom, they conclude that all this violates 
+basic physics, for "a solid would collapse if such close equilibrium screening 
+were possible". 
+
+Their turn of arguments would not be blatantly incorrect if the screening 
+electrons ( only the d-electrons, as realistically done since march 1990 [9)) 
+were in static orbits around the Pd-nucleus. But, as stressed time and again, 
+such electrons comprise a plasma performing wide plaspi.a oscillations, that 
+realize an energy gain. In such state, due to the strong correlations among 
+them, the electrons do not behave incoherently and individually, as they 
+do in the atom, but follow their collective dynamics, which endows them 
+with much sharper localization properties, as if their effective mass ( their 
+inertia) were in fact larger than in the 'asymptotically free" limit. For the 
+sake of visualization only, one may think that the electrons tend to mimic 
+the physics of µ-catalysis. Clearly, the misunderstanding has its origin in 
+the critics' lack of perception that QED coherence in matter does change 
+the paradigm, whose conceptual schemes are totally inadequate to penetrate 
+collective behaviour, that, instead, is at the root of the new approach. 
+
+Finally the critique [18] that I violate the laws of physics "in trying to 
+insure a large enough time for the existence of a large charge density on 
+the sides of a crack". Again it is their poor understanding of the paradigm 
+shift that is realized by the new approach that blurs the critics' perception 
+of what I am trying to do in the different field of "fractofusion". The 
+coherent e.m. fields that in the form of evanescent waves fill the crack of 
+a mechanically stimulated solid may have rather large lifetimes, and it is 
+they, and not a large density of electrostatic charges that are responsible 
+for the acceleration (under appropriate conditions) of the charged particles 
+that move across the cracks. 
+
+These are the only critiques that I find in the literature to the body of 
+my work on CF, and so my reply should end here. 
+
+But, in the CF community, there are other more serious critiques, or 
+better (worse!) the widespread belief that we do not, after six years, possess 
+the correct intellectual means to understand CF. This refrain occurs over 
+and over in all published literature, which most of the time ignores all that 
+has been done in the new approach since March 1989. What kind of answer 
+can I give to such vast majority of believers of CF, but skeptics of CF 
+theory? I have thought a lot about ths problem, that I have always seen as 
+a major obstacle to quick progress in this fascinating field. Philosophy, or 
+better epistemology, clearly has not worked, for the conceptual superiority 
+of the new approach should have convinced my colleagues to invest some of 
+their time to try and understand it, and contribute better critiques to the 
+development of the associated research program. The discussion it affords 
+of general different and subtle mechanisms that give a completely coherent 
+picture of the CF phenomena in the Pd/D system also has had little impact 
+due, I presume,- to the philosophical barrier just described. Let me try a 
+new (though at this time subliminal) way. I can tell you with a reasonable 
+degree of confidence that proceeding on the road built by the new approach 
+through CF land one should be able to reproducibly achieve powers in the 
+order of 100 kW /cm3 Pd. 
+
+It is reasonable that all this will be common knowledge by the time of 
+ICCF6. 
+
+
+References 
+
+(l] T. Kuhn, The Structure of Scientific Revolutions (Chicago Univ. Press, 
+Chicago, 1962). 
+[2] D.J. Gross, F. Wilczek, Phys. Rev. D9 (1973) 1343.
+[3] G. Preparata, Nuovo Cim. 107 A (1994) 2657.
+[4] G. Preparata, Nuovo Cim. 96A (1986) 366.
+(5] G. Preparata, in "Problems of Fundamental Modern Physics", R. Cherubini, 
+P. Dalpiaz and B. Minetti eds. (World Scientific, Singapore, 1990).
+[6] P.W. Anderson, Basic Notions of Condensed Matter Physics (Benjamin­
+Curnmings, Menlo Park (Ca), 1984).
+[7] G. Preparata, QED Coherence in Condensed Matter (World Scientific, Singa­
+pore, 1995).
+[8] T. Bressani, E. Del Giudice, G. Preparata Nuovo Cim. 101A (1989) 845.
+[9] G. Preparata, Proc. First Annual conference on Cold Fusion, Salt Lake City,
+Utah, March 28-31 (1990) 130.
+(10] M. Fleischmann, S. Pons, G. Preparata, Nuovo Cim. 105A (1992) 763. 
+[11] A. Cohen, Z. Electrochem. 35 (1929) 676.
+[12] G. Preparata, Towards a theory of Cold Fusion Phenomena, Proc Rome Work-
+shop of Cold Fusion in Italy, B. Stella ed. (Roma: 1993).
+(13) G. Preparata, Transactions of fusion technology, 26 (1994) 397.
+[14) G. Preparata and F. Taddei, in preparation. 
+[15] G. Mengoli et al., J. Electroanal. Chem. 57 (1989) 350.
+[16] M. Fleischmann, S. Pons, Transactions of fusion technology, 26 (1994) 87.
+[17] R. Arani et al., QED coherence and the therodynamics of water, preprint
+MITH 93/3 (Milano 1993).
+[18] M. Rabinowitz et al., Transactions of fusion technology, 26 (1994) 3.
+[19] V.A. Chechin et al., Int. Journ. Theor. Phys. 3 (1994) 617.

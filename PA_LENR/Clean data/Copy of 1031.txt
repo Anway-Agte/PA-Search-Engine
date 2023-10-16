@@ -1,0 +1,411 @@
+1. Introduction
+
+Some metal oxide crystals with perovskite structure are excellent Proton Conductors (PC). The PC can be used as
+solid electrolytes with H2 above 400 K with porous electrodes. They are then penetrated by a very large hydrogen flux
+(proton conductivity up to 0.4 S/cm at 900 K) [1–3], and incorporate large concentrations of protons (several atomic
+percent) [4].
+
+The PC are among the simplest and the most effective systems to study Condensed Matter Nuclear Science
+(CMNS). Mizuno et al. carried out CMNS experiments with polycrystalline PC based on Y-doped SrCeO3 used
+as solid electrolytes at 650 K with deuterium passing through Pt porous electrodes, as shown in Fig. 1. Voltage and
+
+Figure 1.Mizuno’s experimental system to study CMNS using a polycrystalline proton conductor based on Y-doped SrCeO3 as solid electrolyte
+with D2. From [8].
+
+intensity were as low as 18 V and 40 µA. The unit cell of Y-doped SrCeO3 keeps a centrosymmetric structure and thus
+there is no additional electric polarization of the material which could give additional kinetic energy to the hydrogen
+ions. Mizuno et al. have reported the observation of chemical elements in the PC near their electrode interfaces which
+were not present before electrolysis [5,6], and anomalous heat production during electrolysis [7–9], as shown in Fig. 2.
+Similar results were reported by other researchers with other PC [10–12].
+
+Holmlid and coworkers’ experiments have shown that, near the surface of highly porous metal oxide crystals based
+on K-doped Fe2O3 exposed to hydrogen, a part of the hydrogen atoms are separated from each other by only 2 pm
+at least during a fraction of time, as shown in Fig. 3a [13–18]. Other experiments are consistent with the presence
+of a signiﬁcant population of compact pairs of hydrogen atoms in other hydrogenated materials [19]. This closely
+spaced hydrogen might be a new form of hydrogen, called H(0), shown in Fig. 3b. H(0) is a hypothetical ultradense
+form of Rydberg matter with a phenomenal density of 105 g/cm3. It might be a promising nuclear fuel, superﬂuid
+
+Figure 2.(a) Elemental analysis for impurities in the proton conductor Y-doped SrCeO3, showing the presence increase of several chemical
+elements after electrolysis. (b) Anomalous heat production during electrolysis. From [6,8].
+
+Figure 3.(a) Laser induced Coulomb explosions with time-of-ﬂight mass spectroscopy near the surface of a metal oxide based on K-doped Fe2O3.
+
+The two ﬁrst peaks correspond to closely spaced deuterons (2 pm). From [13]. (b) Hypothetical ultradense hydrogen Rydberg matter H(0). From
+and superconductive at room temperature. The presence of H(0) in a PC near its cathode interface could explain the
+observation of new chemical elements and excess heat.
+
+H(0) would form almost spontaneously from classical hydrogen Rydberg matter H(1). H(1) can be viewed as a
+generalized metal [20–24]. Moreover, H(0) could be formed directly from H2 at ultrahigh pressures. Thus, the route
+explored in this article points toward metallization of hydrogen and high pressures. The main question of this article is:
+How to form hydrogen Rydberg matter in a PC used as solid electrolyte with H2 at 650 K near its cathode interface?
+
+
+2. State of the Art in Condensed Matter Physics
+
+2.1. Nanometric cavities and H2 precipitates under pressure:
+There has not been much research into nanoscale structure of PC with large densities of incorporated protons. How-
+ever, crystalline silicon and metal oxides with perovskite structure implanted by large quantities of protons have been
+intensely studied, and this knowledge can be adapted to PC.
+
+Figure 4.Ionic implantation of H+ in silicon crystals.
+
+Figure 5.Nanometric cavities in H+ implanted silicon, after an annealing at 720 K, observed by TEM. (a) Plane view and (b) cross-section side
+view. From [26].
+
+2.1.1. In silicon implanted with H+
+Silicon does not conduct protons. With the ionic implantation technique, crystal surfaces are temporarily penetrated by
+a large ﬂux of hydrogen ions. This technique is used to obtain large hydrogen local concentrations in these materials,
+typically at a depth of several hundred nanometers under the surface, as shown in Fig. 4. During material implantation,
+many point defects are created among which vacancy-hydrogen complexes VnHm [25].
+
+During annealing, when hydrogen concentration locally overtakes the solubility limit, these mobile complexes
+VnHm agglomerate to form disk-shaped cavities of about ten nanometers in diameter [26–28]. This co-precipitation
+of vacancies and hydrogen, followed by the competitive growth (“Ostwald ripening”) of the Nanometric Cavities
+(NC) and their coalescence, allow the crystalline matrix-defects system to minimize its elastic energy. Such NC are
+observable by Transmission Electron Microscopy (TEM) after an annealing at 720 K [26]. Figure 5a shows some NC in
+their disc plane (plane view). Figure 5b, obtained from a TEM cross-section of the sample, shows a NC perpendicularly
+
+Figure 6.Nanometric cavities in H+ implanted silicon, after an annealing at 870 K for 30 min, observed by cross-sectional TEM. From [29].
+
+Figure 7.(a) Raman spectroscopy on Si surface implanted with hydrogen ions at 470 K showing the presence of H2 molecules in nanometric
+cavities. From [31]. (b) Diagram of H2 molecules trapped in Si nanometric cavities. From [29].
+
+to its disc plane (side view). Figure 6 shows microcracks formed from a large density of NC in the implantation zone
+after an annealing at 870 K [29].
+
+These NC contain precipitates of molecular hydrogen H2 [29–32]. They are traps for hydrogen and for impurities
+[33], and they contain most of the implanted hydrogen [32]. The presence of H2 in these NC was established by Raman
+spectroscopy. In Fig. 7a, the top Raman spectrum is composed of three peaks. The ﬁrst two correspond to Si–Si and
+Si–H vibrations. The third one corresponds to the H–H vibration of H2 (vibron) and has a characteristic position when
+the H2 is ﬂuid, as it is the case here [30,31]. Figure 7b shows hydrogen molecules H2 in a NC [29].
+
+The H2 ﬁlling a NC is typically pressured to a dozen of GPa at 300 K [34–37]. This value is above the tensilestrength of silicon, around 7 GPa. It is expected that this internal pressure of H2 is much larger during annealing above
+650 K [34]. This pressure decreases when the diameter of the NC increases. Reciprocally, this H2 under pressure
+generates stress on the crystalline matrix. The resulting strain ﬁeld contrast surrounding a NC can be observed by
+TEM, as shown in Fig. 8a [28]. A diagram showing the pressure of H2 in NC on the Si crystalline matrix is presented
+in Fig. 8b [29].
+
+Figure 8.(a) Cross-section TEM image showing a nanometric cavity pressurized by its internal H2, and the long-range surrounding strain ﬁeld,
+deep under the free surface of a hydrogenated Si wafer below 470 K. From [28]. (b) Diagram showing the pressure of H2 in nanometric cavities on
+the Si crystalline matrix. From [29].
+
+Figure 9.TEM images of high local densities of hydrogen related nanometric cavities (side view) in metal oxides with perovskite structure near
+their surfaces. These samples were implanted with hydrogen at 300 K for SrTiO3 (a) and 570 K for LaAlO3 (b). From [38].
+
+2.1.2. In metal oxides with perovskite structure implanted with H+:
+The same phenomena are observed in metal oxides with perovskite structure, such as SrTiO3, BaTiO3, LaAlO3 and
+LiTaO3 [38–40]. The two TEM images in Fig. 9 show large densities of NC under the surfaces of SrTiO3 and LaAlO3
+
+Figure 10.TEM images of nanometric cavities in polycrystalline proton conductors. Red arrows highlight some nanometric cavities. (a) Plane
+view in Gd-doped BaCeO3 used below 770 K. From [41]. (b) Cross-section side view in Y-doped BaZrO3 used at 590 K. From [42].
+
+Figure 11.(a) Phase diagram P − T of pure hydrogen, established by Raman spectroscopy. From [44, 46–51]. (b) Metallic-molecular phase IV
+of hydrogen. From [51].
+
+In hydrogen-implanted BaTiO3, the internal pressure of H2 in microcracks was evaluated between 0.004 and
+0.5 GPa [39]. This pressure should be considerably higher in NC. The tensile strength of polycrystalline BaTiO3 is:
+0.06 GPa.
+
+2.1.3. In proton conductors used as solid electrolytes with hydrogen:
+High densities of NC related to hydrogen incorporation have been observed by TEM in three polycrystalline PC used
+as solid electrolytes with hydrogen [41–43]. Figure 10 shows TEM images of Gd-doped BaCeO3 used below 770 K
+(Fig. 10a) and Y-doped BaZrO3 used at 590 K (Fig. 10b). For Y-doped BaZrO3, these NC were found within a depth
+
+Figure 12.Fully metallic phase of SiH4 at only 113 GPa at 300 K. From [53].
+
+Figure 13.(a) Hydrogen Rydberg atom. (b) Hydrogen Rydberg matter H(1).
+of 100 nm from its cathode interface, whereas for Ba3Ca1.18Nb1.82O9−δ used at 1020 K, these NC were found in its
+grain boundaries.
+
+The phenomena observed in PC near their cathode interface when they are used as solid electrolyte with hydrogen
+at around 650 K can be similar to those observed in silicon and in metal oxides with perovskite structure implanted
+with H+.
+
+2.2. Partial metallization of hydrogen:
+2.2.1. Hydrogen with impurities under high pressures:
+Pure hydrogen can be compressed to high pressures in disk-shaped diamond anvil cells, whose dimensions are typically
+100 µm in diameter and 5 µm in thickness [44–49]. The pressure–temperature phase diagram of hydrogen, obtained
+by Raman spectroscopy, is presented in Fig. 11a [44,46–51]. Hydrogen is a molecular solid in phase I above 5 GPa at
+300 K, and above 23 GPa at 650 K. Above 250 GPa at 650 K, the phase of hydrogen has not been studied yet.
+
+Above 250 GPa and at 300 K, hydrogen is a metallic-molecular solid in phase IV and/or V. As shown in Fig. 11b,
+the structures of these phases are constituted of alternating layers of :
+
+(1) H2 molecules forming sheets of graphene type by intermolecular coupling, and whose state is intermediate
+between metallic state and molecular state,
+
+(2) normal hydrogen molecules H2.
+
+In metallic-molecular H2, the intramolecular length of H2, initially equal to 74 pm, increases with pressure [51].
+
+Although whether it is possible to produce metallic hydrogen in the laboratory is still debated, above 450 GPa and
+at room temperature (not shown), hydrogen is supposed to be fully metallic and superconducting.
+
+The presence of some impurities (Li, Si, S, .. .) signiﬁcantly decreases the pressure required to approach a metallic
+state when hydrogen is compressed in a diamond anvil cell [52–55]. Figure 12 shows the structure of metallic SiH4
+under 113 GPa at 300 K, but SiH4 is fully metallic above only 50 GPa [53]. In this conﬁguration, hydrogen atoms are
+separated from each other by 154 pm.
+
+2.2.2. Rydberg states:
+Different Rydberg states are shown in Fig. 13. A hydrogen Rydberg atom (Fig. 13a) is a hydrogen atom with its
+electron orbiting very far from the proton (> 5 nm), quasi-circularly [56]. It results from recombination of a proton
+and an electron, and it easily forms on metal oxide surfaces.
+
+Hydrogen Rydberg matter H(1) is a hexagonal plane cluster of circular Rydberg atoms (Fig. 13b), whose electrons
+are strongly excited and delocalized [20–24]. In this phase, hydrogen is a generalized metal which has properties
+similar to covalent bonding. Protons are separated from each other by 150 pm at the fundamental energy level.
+
+
+3. Research Approach
+
+3.1. Rapid and temporary increase of H2 pressure in nanometric cavities of proton conductors:
+This research approach starts with the facts that PC, submitted to electrolysis with H2 at 650 K, can contain a high
+local density of NC near their cathode interfaces and are crossed by a large ﬂux of hydrogen.
+
+Hypothesis 1: The NC contain H2 and hydrogen combined with impurities under a pressure on the order of 0.1 GPa.
+
+Hypothesis 2: The NC are penetrated by a large ﬂux of hydrogen.
+
+Hypothesis 3: The entering hydrogen is trapped in the NC in the form of H2, and the outgoing hydrogen ﬂux is
+negligible compared to the entering ﬂux.
+
+Hypothesis 4: The internal pressure of the hydrogen in the NC increases rapidly and temporary well above the PC
+tensile strength. The questions arising from this hypothesis are discussed in Section 4.1.
+
+Ultradense Rydberg matter formation in nanometric cavities of proton conductors with decrease of H2 pressure:
+From now on, H(0) is supposed to exist and to possibly form in PC. The proposed H(0) formation mechanism is
+illustrated in Fig. 14.
+
+Hypothesis 5: In NC with a diameter greater than 40 nm, hydrogen penetrates in the form of circular Rydberg atoms
+(n ≥ 20, l = m = n − 1).
+
+Figure 14.Proposed mechanism for H(1) formation in nanometric cavities consisting of circular hydrogen Rydberg atoms bombarding metallic-
+molecular hydrogen sheets, followed by the formation of the hypothetical H(0) and decrease of pressure.
+
+Hypothesis 6: The H2 with impurities in the NC turns temporarily into a metallic-molecular phase. The required
+temporary internal pressure could be only on the order of tens GPa.
+
+Hypothesis 7: Circular Rydberg atoms penetrating into the NC transfer their excitation energy to the metallic-
+molecular sheets of H2 in the immediate proximity of the NC wall, and together, they turn into Rydberg matter
+H(1).
+
+Hypothesis 8: H(1) spontaneously turns into H(0) under the conditions prevailing in the NC. This transition is accom-
+panied by a pressure decrease in the NC.
+
+
+4. Discussion
+
+4.1. Rapid and temporary increase of H2 pressure in nanometric cavities well above the tensile strength of the:
+proton conductor:
+It should take less than 1 min to increase the pressure of pure hydrogen from 0.1 to 20 GPa at 650 K, in a disk-shaped
+NC with a thickness of 1.5 nm penetrated by a ﬂux of ﬁve hydrogen atoms per nm2 per second at normal incidence,
+regardless of its diameter [57]. Nowadays, better PC (for instance, Y-doped BaZrO3 single crystals) can achieve much
+larger ﬂuxes than the one considered here, estimated from [8]. Otherwise, since NC trap impurities, they might acquire
+a global electrical charge, and the incoming proton ﬂux in NC might be different from what was envisaged.
+
+In NC, what mechanisms limit this pressure increase? From what is known for H+ implanted silicon during
+annealing, H2 pressure increase in NC should accelerate the NC growth by Ostwald ripening. Yet, the mechanical
+properties of the crystalline matrix change locally within the vicinity of a single pressurized NC [39]. Pressurized NC
+could implement compressive stress on the nearby PC matrix, thus having an inhibiting effect on the growth on each
+other [29].
+
+Morevover, H2 pressure increase in NC should accelerate the coalescence of a tiny part of the NC into microcracks,
+in which the internal pressure is lower. At a given annealing temperature, depending on the local concentration of
+hydrogen, the characteristic time needed to form microcracks can be on the order of 1 h. Consequently, the proposed
+rapid internal pressure increase may be little limited by the slower NC coalescence into microcracks. Finally, an open
+question is: Why have only Samgin et al. [11] reported the observation of cracks in their PC samples after CMNS
+experiments?
+
+4.2. Rydberg matter formation:
+Other open questions follow. Is it possible to decrease the pressure required for partial metallization of hydrogen in
+NC down to several tens of GPa, thanks to the presence of impurities and the entry of hydrogen atoms in NC in the
+form of Rydberg atoms?
+
+What is the NC optimum size to form H(1)? If the NC are too small, circular Rydberg atoms cannot enter them. If
+they are too large, the H2 internal pressure may be too low to turn H2 into metallic-molecular phase. I propose 40 nm
+in diameter and 1.5 nm in thickness is the optimum size. The best NC orientation should be parallel to the interfaces.
+Furthermore, could the formation of H2 Rydberg molecules [58] play a role in H(1) formation?
+
+
+5. Experimental Tests to Validate this Approach
+
+5.1. Transmission electron microscopy:
+The TEM is the best tool to observe NC in a crystalline matrix, and study their locations, their sizes, their shapes, their
+orientations and their density. Strain ﬁeld contrast is also observable around NC containing hydrogen under pressure.
+Together with simulations, it is possible to deduce the H2 pressure within the NC [34]. The TEM with electron energy-
+loss spectroscopy enables accurate mapping of hydrogen in the samples, and provides information on its bounding
+
+5.2. Raman micro-spectroscopy:
+Raman micro-spectroscopy reveals hydrogen vibrations and is the most adapted tool to detect the presence of H2 with
+impurities trapped in the NC near the cathode interface. Moreover, this technique enables us to identify and study
+the hydrogen phase: molecular ﬂuid, molecular solid, metallic-molecular solid, or Rydberg matter H(1). For H(1),
+it is possible to study electronic excitation and vibrational shifts of its partially covalent bonding [20]. However, the
+presence of impurities in the NC should complicate the deciphering of the Raman spectra. It may then be difﬁcult to
+identify the hydrogen phase and evaluate its internal pressure.
+
+Otherwise, stresses undergone by the crystalline matrix, generated by H2 in the NC, are also roughly assessable by
+Raman spectroscopy.
+
+Sample structural characterizations under the surface up to a depth of about 1 µm can be carried out, after removing
+the cathode by chemical etching in an acid bath. By using a laser excitation wavelength below the optical absorption
+threshold, the probed depth can be decreased to about several hundreds of nm or less [61], which is the ideal depth to
+probe the NC. Furthermore, the use of confocal microscopy also limits the probed depth to ∼500 nm.
+
+5.3. X-ray diffraction:
+X-ray diffraction enables us to measure strain perpendicular to the surface plane in a layer of a crystalline matrix,
+generated by a large density of in-plane NC containing H2 under pressure. These measurements can be carried out
+in-situ [42]. Probed depth is around 2 µm.
+
+5.4. Neutron scattering:
+Neutron diffraction can detect long range ordered structure of deuterium. It does not work so well on protium, due to
+its lower mass. If there is enough ordered deuterium in NC, a deuterium lattice may be detectable inside. Moreover,
+information could be obtained about the molecular dynamics and the collective dynamics of hydrogen (phonons) in
+NC. Yet, the probed depth is very large and the bulk of the sample is probed.
+
+5.5. Nuclear magnetic resonance spectroscopy:
+An NMR spectrum with anomalously large shift in a proton NMR experiment would provide unambiguous independent
+conﬁrmation of the presence of closely spaced hydrogen.
+
+5.6. Laser-induced Coulomb explosions with time-of-ﬂight mass spectroscopy:
+This technique allows to detect closely spaced hydrogen near a material surface, and evaluate the initial distance
+between them.
+
+
+6. Conclusion
+
+In proton conductors, used as solid electrolytes with hydrogen around 650 K, large densities of nanometric cavities can
+form near their cathode interfaces. Assuming these nanometric cavities contain H2 precipitates with impurities under
+a pressure on the order of 0.1 GPa, a simple mechanism is proposed to increase rapidly and temporarily the H2 internal
+pressure well above the tensile strength of proton conductors. Then, assuming hydrogen can exist as ultradense H(0), a
+second mechanism is proposed to make the H2 with impurities in the nanometric cavities turn into a metallic-molecular
+phase, form Rydberg matter H(1) and then form H(0) with a pressure decrease. In nanometric cavities, the presence
+of impurities and the entry of the hydrogen atoms in the form of Rydberg atoms are proposed to decrease the pressure
+required to form metallic-molecular hydrogen. Different experiments are proposed to study the hydrogen trapped in
+these nanometric cavities, particularly by transmission electron microscopy and Raman micro-spectroscopy.
+
+
+References
+
+A. Braun, A. Ovalle, V. Pomjakushin, A. Cervellino and S. Erat, Yttrium and hydrogen superstructure and correlation of
+lattice expansion and proton conductivity in the BaZr0.9Y0.1O2.95 proton conductor, Appl. Phys. Lett. 95 (2009) 224103.
+D. Pergolesi, E. Fabbri, A. D′Epifanio, E. Di Bartolomeo, A. Tebano, S. Sanna, S. Licoccia, G. Balestrino and E. Traversa,
+High proton conduction in grain-boundary-free yttrium-doped barium zirconate ﬁlms grown by pulsed laser deposition, Nat.
+Mater. 9 (2010) 846.
+Y.B. Kim, T.M. Gür, H.J. Jung, S. Kang, R. Sinclair and F.B. Prinz, Effect of crystallinity on proton conductivity in yttrium-
+doped barium zirconate thin ﬁlms, Solid State Ionics 198 (2011) 39.
+M. Glerup, F.W. Poulsen and R.W. Berg, Vibrational spectroscopy on protons and deuterons in proton conducting per-
+ovskites, Solid State Ionics 148 (2002) 83.
+T. Mizuno, K. Inoda, T. Akimoto, K. Azumi, M. Kitaichi, K. Kurokawa, T. Ohmori and M. Enyo, Anomalous gamma peak
+evolution from SrCe solid state electrolyte charged in D2 gas, Int. J. Hydrogen Energy 22 (1997) 23.
+T. Mizuno, T. Akimoto, K. Azumi, M. Kitaichi, K. Kurokawa and M. Enyo, Excess heat evolution and analysis of elements
+for solid state electrolyte in deuterium atmosphere during applied electric ﬁeld, J. New Energy 1(1) (1996) 79.
+T. Mizuno, T. Akimoto, K. Azumi, M. Kitaichi, K. Kurokawa and M. Enyo, Anomalous heat evolution from a solid-state
+electrolyte under alternating current in high-temperature D2 gas, Fusion Sci. Technol. 29 (1996) 385.
+T. Mizuno, M. Enyo, T. Akimoto and K. Azumi, Anomalous heat evolution from SrCeO3-type proton conductors during
+absorption/desorption of deuterium in alternate electric ﬁeld, Proc. ICCF4 2 (1993) 14-1.
+R.A. Oriani, An investigation of anomalous thermal power generation from a proton-conducting oxide, Fusion Sci. Technol.
+30 (1996) 281.
+K.A. Kaliev, A.N. Baraboshkin, A.L. Samgin, E.G. Golikov, A.L. Shalyapin, V.S. Andreev and P.I. Golubnichiy, Repro-
+ducible nuclear reactions during interaction of deuterium with oxide tungsten bronze, Phys. Lett. A 172 (1993) 199.
+A.L. Samgin, O. Finodeyev, S.A. Tsvetkov, V.S. Andreev, V.A. Khokhlov, E.S. Filatov, I.V. Murygin, V.P. Gorelov and
+S.V. Vakarin, Cold fusion and anomalous effects in deuteron conductors during non-stationary high-temperature electrolysis,
+Proc. ICCF5 2 (1995) 201.
+J.-P. Biberian, G. Lonchampt, L. Bonnetain and J. Delepine, Electrolysis of LaAlO3 single crystals and ceramics in a deu-
+teriated atmosphere, Proc. ICCF7 (1998) 27.
+S. Badiei, P.U. Andersson and L. Holmlid, Production of ultradense deuterium: a compact future fusion fuel, Appl. Phys.
+Lett. 96 (2010) 124103.
+F. Olofson and L. Holmlid, Detection of MeV particles from ultra-dense protium p(–1): laser-initiated self-compression from
+p(1), Nucl. Instr. Meth. Phys. Res. B 278 (2012) 34.
+L. Holmlid, Excitation levels in ultra-dense hydrogen p(−1) and d(−1) clusters: structure of spin-based Rydberg matter, Int.
+J. Mass Spectrom. 352 (2013) 1.
+L. Holmlid and S. Fuelling, Meissner effect in ultra-dense protium p(l = 0, s = 2) at room temperature: superconductivity
+in large clusters of spin-based matter, J. Cluster Sci. 26 (2015) 1153.
+L. Holmlid and S. Olafsson, Spontaneous ejection of high-energy particles from ultra-dense deuterium D(0), Int J. Hydrogen
+Energy 40 (2015) 10559.
+L. Holmlid and B. Kotzias, Phase transition temperatures of 405–725 K in superﬂuid ultra-dense hydrogen clusters on metal
+surface, AIP Advances 6 (2016) 045111.
+J. Kasagi, T. Ohtsuki, K. Ishii and M. Hiraga, Energetic protons and α particles emitted in 150-keV deuteron bombardment
+on deuterated Ti, J. Phys. Soc. Jpn. 64(3) (1995) 777.
+L. Holmlid, Observation of the unidentiﬁed infrared bands in the laboratory: anti-stockes stimulated Raman spectroscopy of
+a Rydberg matter surface boundary layer, Astrophys. J. 548 (2001) L249.
+L. Holmlid, Conditions for forming Rydberg matter: condensation of Rydberg states in the gas phase versus at surfaces, J.
+Phys.: Condens. Matter 14 (2002) 13469.
+J. Wang and L. Holmlid, Rydberg matter clusters of hydrogen (H2)∗
+N with well deﬁned kinetic energy release observed by
+neutral time-of-ﬂight, Chem. Phys. 277 (2002) 201.
+S. Badiei and L. Holmlid, Lowest state n = 1 of H atom Rydberg matter: many eV energy release in Coulomb explosions,
+Phys. Lett. A 327 (2004) 186.
+S. Badiei and L. Holmlid, Experimental observation of an atomic hydrogen material with H–H bond distance of 150 pm
+suggesting metallic hydrogen, J. Phys.: Condens. Matter 16 (2004) 7017.
+N. Cherkashin, F.-X. Darras, P. Pochet, S. Reboh, N. Ratel-Ramond and A. Claverie, Modelling of point defect complex
+formation and its application to H+ ion implanted silicon, Acta Mater. 99 (2015) 187.
+J. Grisolia, G. Ben Assayag, A. Claverie, B. Aspar, C. Lagahe and L. Laanab, A transmission electron microscopy quantita-
+tive study of the growth kinetics of H platelets in Si, Appl. Phys. Lett. 76 (2000) 852.
+X. Hebras, P. Nguyen, K.K. Bourdelle, F. Letertre, N. Cherkashin and A. Claverie, Comparison of platelet formation in
+hydrogen and helium-implanted silicon, Nucl. Instr. Meth. Phys. Res. B 262 (2007) 24.
+C. Ghika, L.C. Nistor, B. Mironov and S. Vizireanu, Hydrogen-plasma induced platelets and voids in silicon wafers, Rom.
+Rep. Phys. 62 (2010) 329.
+T. Höchbauer, A. Misra, M. Nastasi and J.W. Mayer, Physical mechanism behind the ion-cut in hydrogen implanted silicon,
+J. Appl. Phys. 92 (2002) 2335.
+K. Murakami, N. Fukata, S. Sasaki, K. Ishioka, M. Kitajima, S. Fujimura, J. Kikuchi and H. Haneda, Hydrogen molecules
+in crystalline silicon treated with atomic hydrogen, Phys. Rev. Lett. 77(15) (1996) 3161.
+A.W.R. Leitch, J. Weber and V. Alex, Formation of hydrogen molecules in crystalline silicon, Materials Sci. Eng. B 58
+(1999) 6.
+N. Cherkashin, N. Daghbouj, F.-X. Darras, M. Fnaiech and A. Claverie, Cracks and blisters formed close to a silicon wafer
+surface by He–H co-implantation at low energy, J. Appl. Phys. 118 (2015) 245301.
+B. Mohadjeri, J.S. Williams and J. Wong-Leung, Gettering of nickel to cavities in silicon introduced by hydrogen implanta-
+tion, Appl. Phys. Lett. 66 (1995) 1889.
+J. Grisolia, G. Ben Assayag, B. de Mauduit and A. Claverie, TEM measurement of hydrogen pressure within a platelet,
+Materials Res. Soc. Proc. 681 (2001) I3.2.
+X.-Q. Feng and Y. Huang, Mechanics of Smart-Cut(R) technology, Int. J. Solids Structures 41 (2004) 4299.
+B. Aspar, C. Lagahe, H. Moriceau, A. Soubie, E. Jalaguier, B. Biasse, A. Papon, A. Chabli, A. Claverie, J. Grisolia, G.
+Ben Assayag, T. Barge, F. Letertre and B. Ghyselen, Smart-Cut(R) process: an original way to obtain thin ﬁlms by ion
+implantation, Int. Conf. Ion Implantation Technol. Proc. (2000) 255.
+S. Muto, S. Takeda and M. Hirata, Hydrogen-induced platelets in silicon studied by transmission electron microscopy,
+Philosophical Magazine A 72 (1995) 1057.
+I. Radu, I. Szafraniak, R. Scholz, M. Alexe and U. Gösele, Ferroelectric oxide single-crystalline layers by wafer bonding
+and hydrogen/helium implantation, Mat. Res. Soc. Symp. Proc. 748 (2003) U11-8-1.
+Y.-B. Park, P. Nardi, X. Li and H.A. Atwater, Nanomechanical characterization of cavity growth and rupture in hydrogen-
+implanted single-crystal BaTiO3, J. Appl. Phys. 97 (2005) 074311.
+T. Luo, T. Oda, Y. Oya and S. Tanaka, IR observation on O-D vibration in LiNbO3 and LiTaO3 single crystal irradiated by
+3 keV D+
+2 , J. Nucl. Mater. 382 (2008) 46.
+S.M. Haile, D.L. West and J. Campbell, The role of microstructure and processing on the proton conducting properties of
+gadolinium-doped barium cerate, J. Materials Res. 13 (1998) 1576.
+Y. Fukada, T. Hioki, T. Motohiro and S. Ohshima, In situ X-ray diffraction study of crystal structure of Pd during hydrogen
+isotope loading by solid-state electrolysis at moderate temperature, J. Alloys Compounds 647 (2015) 221.
+T. Schober, H.G. Bohn, T. Mono and W. Schilling, The high temperature proton conductor Ba3Ca1.18Nb1.82O9−δ Part II:
+electrochemical cell measurements and TEM, Solid State Ionics 118 (1999) 173.
+H.-K. Mao and R.J. Hemley, Ultra-high pressure transitions in solid hydrogen, Rev. Modern Phys. 66 (1994) 671.
+M.I. Eremets and I.A. Troyan, Conductive dense hydrogen, Nat. Mater. 10 (2011) 927.
+C.-S. Zha, R.E. Cohen, H.-K. Mao and R.J. Hemley, Raman measurements of phase transitions in dense solid hydrogen and
+deuterium to 325 GPa, Proc. Natl. Acad. Sci. U.S.A. 111 (2014) 4792.
+R.T. Howie, P. Dalladay-Simpson and E. Gregoryanz, Raman spectroscopy of hot hydrogen above 200 GPa, Nat. Mater. 14
+(2015) 495.
+P. Dalladay-Simpson, R.T. Howie and E. Gregoryanz, Evidence for a new phase of dense hydrogen above 325 gigapascals,
+Nature 529 (2016) 63.
+M.D. Knudson, M.P. Desjarlais, A. Becker, R.W. Lemke, K.R. Cochrane, M.E. Savage, D.E. Bliss, T.R. Mattsson and R.
+Redmer, Direct observation of an abrupt insulator-to-metal transition in dense liquid deuterium, Science 348 (2015) 1455.
+I.I. Naumov, R.E. Cohen and R.J. Hemley, Graphene physics and insulator–metal transition in compressed hydrogen, Arxiv
+(2013) 1305.4649v1.
+C.J. Pickard, M. Martinez-Canales and R.J. Needs, Density functional theory study of phase IV of solid hydrogen, Arxiv
+(2014) 1204.3304v2.
+A.E. Carlsson and N.W. Ashcroft, Approaches for reducing the insulator–metal transition pressure in hydrogen, Phy. Rev.
+Lett. 50 (1983) 1305.
+M.I. Eremets, I.A. Trojan, S.A. Medvedev, J.S. Tse and Y. Yao, Superconductivity in hydrogen dominant materials: silane,
+Science 319 (2008) 1506.
+Y. Xie, Q. Li, A.R. Oganov and H. Wang, Superconductivity of lithium-doped hydrogen under high pressure, Acta Crystal-
+logr. C70 (2014) 104.
+A.P. Drozdov, M.I. Eremets, I.A. Troyan, V. Ksenofontov and S.I. Shylin, Conventional superconductivity at 203 K at high
+pressures, Arxiv (2015) 1506.08190.
+T.F. Gallagher, Rydberg Atoms, Cambridge University Press, Cambridge, 1994.
+H. Shimizu, E.M. Brody, H.-K. Mao and P.M. Bell, Brillouin measurements of solid n-H2 and n-D2 to 200 kbar at room
+temperature, Phys. Rev. Lett. 47 (1981) 128.
+J. Wang and L. Holmlid, Formation of long-lived Rydberg states of H2 at K impregnated surfaces, Chem. Phys. 261 (2000)
+S. Muto, T. Tanabe and T. Maruyama, Cross sectional TEM observation of gas-ion-irradiation induced surface blisters and
+their precursors in SiC, Mater. Trans. 41 (2003) 2599.
+H. Cohen, P. Rez, T. Aoki, P.A. Crozier, N. Dellby, Z. Dellby, D. Gur, T.C. Lovejoy, K. March, M.C. Sarahan, S.G. Wolf and
+O.L. Krivanek, Hydrogen analysis by ultra-high energy resolution EELS, Microsc. Microanal. 21 (2015) 661.
+D.A. Tenne, A.K. Farrar, C.M. Brooks, T. Heeg, J. Schubert, H.W. Jang, C.W. Bark, C.M. Folkman, C.B. Eom and D.G.
+Schlom, Ferroelectricity in nonstoichiometric SrTiO3 ﬁlms studied by ultraviolet Raman spectroscopy, Appl. Phys. Lett. 97
+(2010) 142901.

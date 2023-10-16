@@ -1,0 +1,309 @@
+1. Introduction
+
+Two decades ago, Fleischmann and Pons reported excess heat generation in electrolysis experiment using the negatively polarized Pd/D–D2O system [1]. Since then, many others have reported experimental observations of excess heat generation and anomalous nuclear reactions occurring in metal at ultra low energies from electrolysis experiments [2] and gas-loading experiments [2–4]. These anomalous reaction rates cannot be explained using the conventional theory of nuclear reactions in free space, which predicts extremely low nuclear reaction rates at ultra low energies (≤ 10 eV) due to the Gamow factor arising from the Coulomb repulsion between two charged nuclei undergoing nuclear-reaction process.
+
+Recently, a consistent conventional theoretical explanation [5] is provided for the anomalous results observed for deuteron induced nuclear reactions in metal at ultra low energies. The theory is capable of explaining most of the experimental observations, and provides theoretical predictions that can be tested experimentally for the confirmation of the theory. A detailed description of the theoretical explanation, based on the theory of Bose–Einstein condensation nuclear fusion is presented along with suggested experimental tests of predictions of the theory and a discussion of the
+scalability of the fusion rates based on the theory.
+
+
+2. Anomalous Experimental Results
+
+The conventional deuterium fusion in free space proceeds via the following nuclear reactions:
+{1} {2} {3}
+D + D → p (3.02 MeV) + T (1.01 MeV),
+D + D → n (2.45 MeV) + 3He (0.82 MeV), D+D→4He+γ (23.8MeV).
+The cross-sections (or reaction rates) for reactions {1} and {2} have been measured by beam experiments at intermediate energies (≥10 keV). The cross-sections for reactions {1}–{3} are expected to be extremely small at low energies (≤ 10 eV) due to the Gamow factor arising from Coulomb barrier between two deuterons. The measured cross-sections have branching ratios: (σ {1}, σ {2}, σ {3}) ≈ (0.5, 0.5, 10−6 ).
+
+From many experimental measurements by Fleischmann and Pons [1], and many others [2–4] over 20 years since then, the following experimental results have emerged. At ambient temperatures or low energies (≤ 10 eV), deuterium fusion in metal proceeds via the following reactions:
+{4} D(m) + D(m) → p(m) + T(m) + 4.03 MeV (m),
+{5} D(m) + D(m) → n(m) + 3He(m) + 3.27 MeV (m),
+{6} D(m) + D(m) → 4He(m) + 23.8 MeV (m),
+where m represents a host metal lattice or metal particle. Reaction rate R for {6} is dominant over reaction rates for {4} and {5}, i.e., R{6} >> R{4} and R{6} >> R{5}.
+
+Experimental observations reported from electrolysis and gas-loading experiments are summarized below (not complete):
+[a] The Coulomb barrier between two deuterons are suppressed.
+[b] Excess heat production (the amount of excess heat indicates its nuclear origin).
+[c] 4Heproductioncommensuratewithexcessheatproduction,no23.8MeVγ-ray.
+[d] More tritium is produced than neutron R{4} >> R{5}.
+[e] Production of nuclear ashes with anomalous rates: R{4} << R {6} and R {5} << R{6}.
+[f] Production of hot spots and micro-scale craters on metal surface. [g] Detection of radiations.
+[h] “Heat-after-death”.
+[i] Requirement of deuteron mobility (D/Pd > ∼0.9, electric current, pressure gradient, etc.). [j] Requirement of deuterium purity (H/D << 1).
+
+All of the above experimental observations are explained either quantitatively or qualitatively in terms of theory of Bose–Einstein condensation nuclear fusion (BECNF) in the previous publication [5] and this paper. In this paper, additional theoretical explanations are provided for the observations [a]–[d] in later sections. Theoretical explanations of other observations such as “Heat-after-death” [h] have been described in [5].
+
+
+3. Deuteron Mobility and Bose–Einstein Condensation of Deuterons in Metals
+
+Development of Bose–Einstein condensate theory of deuteron fusion in metal is based upon a single hypothesis that deuterons in metal are mobile and hence are capable of forming Bose–Einstein condensates.
+
+3.1. Deuteron mobility in metal
+Experimental proof of proton (deuteron) mobility in metals was first demonstrated by Coehn in his hydrogen electro- migration experiment [7,8]. The significance of Coehn’s experimental results [7] is emphasized by Bartolomeo et al. [9]. A theoretical explanation of Coehn’s results [7] is given by Isenberg [10]. The Coehn’s experimental fact is not well known in review articles and textbooks.
+There are other experimental evidences [11–15] that heating and/or applying an electric field in a metal causes hydrogens and deuterons in a metal to become mobile, thus leading to a higher density for quasi-free mobile deuterons in a metal. It is expected that the number of mobile deuterons will increase, as the loading ratio D/metal of deuterium atoms increases and becomes larger than one, D/metal ≥ 1.
+
+Mobility of deuterons in a metal is a complex phenomenon and may involve a number of different processes [15]: coherent tunneling, incoherent hopping, phonon-assisted processes, thermally activated tunneling, and over-barrier jump/fluid like motion at higher temperatures. Furthermore, applied electric fields as in electrolysis experiments can enhance the mobility of absorbed deuterons.
+
+3.2. BEC fraction of deuterons in metal
+Fraction of deuterons in a metal satisfying BEC condition can be estimated as a function of the temperature. The BEC
+condensate fraction F (T ) = NBE /N can be calculated from integrals,
+NBE = n(E)N(E)dE and N = n(E)N(E)dE 00
+where n(E) is either Bose–Einstein or Maxwell–Boltzmann distribution function, N(E) is the density of (quantum) states, and EC is the critical kinetic energy of deuteron satisfying the BEC condition λc = d, where λc is the de Broglie wavelength of deuteron corresponding to EC and d is the average distance between two deuterons. For d = 2.5 Å, we obtain F (T =300◦ K) ≈ 0.084 (8.4 %), F(T = 77.3 K) ≈ 0.44 (44%), and F(T = 20.3 K) ≈ 0.94 (94%). At T = 300 K, F = 0.084 (8.4%) is not large enough to form BEC since motions of deuterons are limited to several lattice sites and the probability of their encounters are very small. On the other hand, at liquid nitrogen (77.3 K) and liquid hydrogen (20.3 K) temperatures, probability of forming BEC of deuterons is expected to be  ≈ 1. This suggests that experiments at these low temperatures can provide tests for enhancement of the reaction rate Rt , Eq. (4) (described in Section 4) as predicted by BECNF theory.
+
+
+4. Bose–Einstein Condensate Theory of Deuteron Fusion in Metal
+
+For the BEC theory of deuteron fusion in metal, we make one basic assumption that mobile deuterons in a micro/nano- scale metal particle form a BEC state. The validity of this assumption is to be verified by independent experimental tests suggested in this paper. Because of the above assumption, the theory cannot be applied to deuterons in bulk metals, which do not provide well-defined localized trapping potentials for deuterons.
+
+For applying the concept of the BEC mechanism to deuteron fusion in a nano-scale metal particle, we consider N identical charged Bose nuclei (deuterons) confined in an ion trap (or a metal grain or particle). Some fraction of trapped deuterons are assumed to be mobile as discussed above. The trapping potential is 3-dimensional (nearly sphere) for nano-scale metal particle, or quasi 2-dimensional (nearly hemi-sphere) for micro-scale metal grains, both having surrounding boundary barriers. The barrier heights or potential depths are expected to be an order of energy (≤1 eV) required for removing a deuteron from a metal grain or particle. For simplicity, we assume an isotropic harmonic potential for the ion trap to obtain order of magnitude estimates of fusion reaction rates.
+
+N-body Schroedinger equation for the system is given by
+with the Hamiltonian H for the system given by
+where m is the rest mass of the nucleus. Only two-body interactions (Coulomb and nuclear forces) are considered since we expect that three-body interactions are expected to be much weaker than the two-body interactions.
+
+Electron degrees of freedom are not explicitly included, assuming that electrons and host metal atoms provide a host trapping potential. In the presence of electrons, the Coulomb interaction between two deuterons can be replaced by a screened coulomb potential in Eq. (2). Hence, Eq. (2) without the electron screening effect represents the strongest case of the reaction rate suppression due to the Coulomb repulsion.
+
+The approximate ground-state solution of Eq. (1) with H given by Eq. (2) is obtained using the equivalent linear two-body method [16,17]. The use of an alternative method based on the mean-field theory for bosons yields the same result (see Appendix in [18]). Based on the optical theorem formulation of low energy nuclear reactions [19], the ground-state solution is used to derive the approximate theoretical formula for the deuteron–deuteron fusion rate in an ion trap (micro/nano-scale metal grain or particle). The detailed derivations are given elsewhere including a short-range nuclear strong interaction used [18,20].
+
+Our final theoretical formula for the nuclear fusion rate Rtrap for a single trap containing N deuterons is given by [5]
+where N is the average number of Bose nuclei in a trap/cluster, Dtrap is the average diameter of the trap, B = 2rB/(πh ̄), rB = h ̄2/(2μe2), and S is the S-factor of the nuclear fusion reaction between two deuterons. For D(d, p)T and D(d, n)3He reactions, we have S ≈ 55 keV-barn. We expect also S ≈ 55 keV-barn or larger for reaction{6}.B=1.4×10−18 cm3/swithSinunitsofkeV-barninEq.(3).SB=0.77×10−16cm3/sforS=55keV- barn. Only one unknown parameter is the probability of the BEC ground state occupation, and the S-factor. We note that  ≤ 1.
+
+The total fusion rate Rt is given by where ND is the total number of deuterons and Ntrap = ND/N is the total number of traps. Eq. (4) shows that the total fusion rates, Rt, are very large if  ≈ 1.
+
+Equations (3) and (4) provide an important result that nuclear fusion rates Rtrap and Rt do not depend on the Gamow factor in contrast to the conventional theory for nuclear fusion in free space. This could provide explanations for overcoming the Coulomb barrier and for the claimed anomalous effects for low-energy nuclear reactions in metals. This is consistent with the conjecture noted by Dirac [21] and used by Bogolubov [22] that boson creation and annihilation operators can be treated simply as numbers when the ground state occupation number is large. This implies that for large N each charged boson behaves as an independent particle in a common average background potential and the Coulomb interaction between two charged bosons is suppressed. This provides an explanation for the observation [a]. There is a simple classical analogy of the Coulomb field suppression. For a uniform charge distribution in a sphere, the electric field is a maximum at the surface of the sphere and decreases to zero at the center of the sphere.
+
+
+5. Theoretical Explanation of Anomalous 4He Production (the observations [b] and [c])
+
+Above the ground-state of 4 He, there are five excited continuum states, 4 He∗ (J π , T ), below the (D + D) threshold energy [23]: (0+, 0, 20.21 MeV), (0−, 0, 21.01 MeV), (2−, 0, 21.84 MeV), (2−, 1, 23.33 MeV), and (1−, 1, 23.64 MeV). In this paper, we consider reaction rates for two exit channels to 4He (0+, 0, 0.0 MeV) and 4He∗ (0+, 0, 20.21 MeV) states.
+For a single trap (or metal particle) containing N deuterons, the deuteron-deuteron fusion can proceed with the following two reaction channels:
+where ψBEC is the Bose–Einstein condensate ground state (a coherent quantum state) with N deuterons and ψ∗ are final excited continuum states. 4He in Eq. (5) represents the ground state with spin-parity, 0+, while 4He∗ in Eq. (6) represents the 0+ excited state at 20.21 MeV with the resonance width of (T + p) = 0.5 MeV above the 4He ground state [23]. It is assumed that excess energy (Q-value) is absorbed by the BEC state and shared by (N − 2) deuterons and reaction products in the final state. It is important to note that reaction {6}, described by Eq. (5), cannot occur in free space due to the momentum conservation, while reaction {7} described by Eq. (6) can occur with Q = 0 in free space without violating the momentum conservation, due to the resonance width of (T + p) = 0.5 MeV [23] for the 20.21 MeV state of 4He∗.
+
+For micro/nano-scale metal particles, the above consideration shows that excess energies (Q) lead to a micro/nano- scale firework type explosion, creating a crater/cavity and a hot spot with fire-work like star tracks. The size of a crater/cavity will depend on number of neighboring Pd nanoparticles participating in BEC fusion almost simultaneously. Hot spots and craters have been observed in experiments reported by Srinivasan et al. [24] and others. This provides a theoretical explanation of observation [f].
+
+We now consider the total momentum conservation for reaction {6} described by Eq. (5). The initial total momentum of the initial BEC state with N deuterons (denoted as DN ) is given by P⃗DN ≈ 0. Because of the total momentum conservation, the final total momenta for reaction {6} is given by where ⟨T ⟩ represents the average kinetic energy.
+
+For the reaction {6} with Eq. (5), the average kinetic energy for each deuteron is ⟨T ⟩ = Q(6)/N = 23.85 MeV/N.
+For the case of 5 nm Pd trap, the number of deuterons in the trap is N =∼ 4450, and ⟨T ⟩ ≈ 5.36 keV. With this deuteron kinetic energy of ∼ 5.36 keV, a question arises whether the hot-fusion reactions {1} and {2} can occur as the secondary reactions to the primary reaction {6}. Since the secondary reactions {1} and {2} have not been observed, there have been speculations such as a hypothesis that the fusion energy of 23.85 MeV is transferred to metal lattice vibrations thus producing heat. In the following a more convincing alternative explanation is described that transfer of the fusion energy of 23.85 MeV to the metal is accomplished as the energy loss of energetic (5.36 keV) deuteron due to the stopping power of the metal.
+
+Experimental values of the conventional hot-fusion cross section σ(E) for reaction {1} or {2} have been conven- tionally parameterized as [25]
+where EG is the “Gamow energy” given by EG = (2παZDZD)2Mc2/2 or E1/2 ≈ 31.39 keV1/2 for the reduced mass
+G
+M ≈ MD/2 for reactions {1} or {2}. The value E is measured in keV in the center-of-mass (CM) reference frame. The
+S factor, S(E), is extracted from experimentally measured values [26] of the cross section σ(E) for E ≥ 4 keV and is nearly constant [27]; S(E) ≈ 52.9 keV-barn, for reactions {1} or {2} in the energy range of interest here, E ≤ 100 keV.
+
+The probability P(Ei) for a deuteron to undergo the conventional hot-fusion reaction {1} or {2} while slowing down in the deuterated palladium metal can be written as [28]
+
+Values ED and EDD are the deuteron kinetic energies in the LAB and CM frames respectively, (EDD = ED/2). The
+for deuterium in palladium and
+(10),
+dED = 3.1 × 105ED keV/cm, (11) dx
+for nPd = 6.767 × 1022cm−3 and nD = nPd. If we use Eq. (11) and the conventional extrapolation formula for σ(E) given by Eq. (7), the integration in Eq. (8) can be performed analytically to yield the following expression for Eq. (8)
+stopping power [29] for deuterium in PdD for ED ≤ 20 keV is given by [28]
+for deuterium in deuterium. Therefore, the stopping power for deuterium in PdD is given by the sum of Eqs. (9) and
+[28]:
+where Ei is in keV (LAB), for reactions {1} or {2} assuming equal branching ratios (50% each).
+
+For the case of 5 nm diameter Pd particle containing ∼ 4450 deuterons, Eq. (12) with Ei = 5.36 keV yields P (5.36 keV) ≈ 0.49 × 10−14 per deuteron. Therefore, the total fusion probability for 4450 deuterons is Ptotal ≈ 2.2 × 10−11, yielding a branching ratio of R{1}/R{6} ≈ R{2}/R{6} ≈ 10−11. Tritium production from {1} and neutron production from {2} are both negligible. Even for the case of Ei ≈ 20 keV with a 3.2 nm Pd particle containing ∼ 1200 deuterons, P (20 keV) 0.5 ×10−10, and the total fusion probability is Ptotal(20 keV) ≈ 0.6 × 10−7. Therefore, the fusion energy of 23.85 MeV in {6} is transferred to the metal by the stopping power of the metal without
+appreciable production of T and n from {1} and {2}.
+
+
+6. Theoretical Explanation of Anomalous Tritium Production (the observation [d])
+
+There have been many reports of anomalous tritium and neutron production in deuterated metal from electrolysis experiments [30–34] and gas/plasma loading experiments [24, 35–40]. The reported branching ratio of R(T )/R(n) ranges from 107 to 109 in contrast to the conventional free-space reactions branching ratio of R{1}/R{2} ≈ 1. In this 
+section, we present a theoretical explanation of this anomalous tritium production based on the BECNF theory, utilizing a sub-threshold resonance 4He∗ (0+) state at 20.21 MeV with a resonance width of (T + p) = 0.5 MeV as shown in Fig. 1.
+
+In Fig 1, reaction channels {4}–{7} are shown. Decay channels {7a} and {7b} (described below) are also shown. Due to a selection rule derived in [5], both {4} and {5} are suppressed, and we have R{4} ≪ R{6} and R{5} ≪ R{6}. In free space, {6} would be forbidden due to the momentum conservation. For this section (Eqs. (13)–(15)), we use a new energy level scale, which sets E = 0 for (D + D) state, and E = –23.85 MeV for the 4He ground state. Q-value remains the same since Q = Ei–Ef.
+Reaction {7}, described by Eq. (6), can proceed via a sub-threshold resonance reaction [41,42]. The cross section for the sub-threshold resonance reaction is given by Breit–Wigner expression [42] where λ = λ/2π, λ = h/mv (de Broglie wavelength), w is a statistical factor, ER is the sub-threshold resonance energy. 2 is a partial decay width and is the total decay width to the final states. If E is measured from the threshold energy E = 0 of (D + D) state, ER = (20.21 MeV–23.85 MeV) = –3.64 MeV.
+
+After combining Eq. (7) with Eq. (13), the S(E) factor can be written as
+From Eq. (14), we obtain the S(E) factor near zero energy as [41]
+where μ is the reduced mass in units of atomic mass unit (931.494 MeV), Rn is the nuclear radius, and K1(x) is the modified Bessel function of order unity with argument x = (8Z1Z2e2Rnμ/h ̄2)1/2. We note that FBW(ER) is a maximum at E = ER = −3.64 MeV. At E = 0, FBW(0) is reduced to FBW(0) = 0.47 × 10−2FBW(ER). Equation (15) shows that the S(E) factor has a finite value at E = 0 and drops off rapidly with increasing energy E. θi2 is the reduced width of a nuclear state, representing the probability of finding the excited state in the configuration i, and the sum of θi2 over i is normalized to 1. The dimensionless number θi2 is generally determined experimentally and contains the nuclear structure information.
+
+For the entrance channel, D + D → 4He∗(0+, 0, 23.85 MeV, Q = 0), there are two possible decay channels as shown in Fig. 1:
+{7a} 4He∗(0+, 0) → T (1.01 MeV) + p(3.02 MeV), {7b} 4He∗(0+, 0) →4 He(0+, 0, 0.0) (ground state),
+S(E) factors are calculated from Eq. (15) using E = 0 at a tail of the 4He∗(0+, 0) resonance at 20.21 MeV. E = 0 corresponds to 23.85 MeV above 4He(0+,0) ground state. The calculated S(E) can be used in Eqs. (3) and (4) to obtain the total fusion reaction rate. We will estimate S(E) factors for the decay channels, (7a) and (7b), using Eq. (15) in the following.
+
+For the decay channel {7a}, 2 = {7a} = 0.5 MeV [23]. When this value of 2 is combined with other appropriate inputs in Eq. (15), the extracted S-factor for the decay channel {7a} is S{7a} ≈ 1.4 × 102 θ02 keV-barn for E ≈ 0. In [5], it was shown that the neutron production rate R{5} is suppressed, i.e. R{5} ≪ R{6} due to a selection rule. Since (3He + n) state has a resonance width of 2(3He + n) = 0 [23], this value of S{7a} may provide an explanation of the reported branching ratio of R(T )/R(n) ≈ 107 – 109 [24, 30–40] or R(n)/R(T ) ≈ 10−7 –10−9.
+
+If we assume S{6} ≈ 55 keV-barn (this could be much larger), we expect the branching ratio R{7a}/R{6} = R(T )/R(4He) ≈ 2.6 θ02 ≈ 2.6 × 10−6 if θ02 ≈ 10−6. Experimental measurements of R(T )/R(4He) are needed to determine θ02. If S{6}(= S(4He)) is determined to be larger from future experiments, R(T)/R(4He) is reduced accordingly. From a previous section, we have theoretical prediction that R(n)/R(4He) < 10−11. Combining this with the above theoretical prediction of R(T )/R(4He) ≈ 2.6θ02, we have R(n)/R(T ) < 0.38 × 10−11/θ02. If we assume θ02 ≈ 10−6, we have R(n)/R(T ) < 0.38 × 10−5, which is consistent with reported values of 10−7 ≈ 10−9.
+
+For the decay channel {7b} (0+ → 0+ transition), γ -ray transition is forbidden. However, the transition can proceed via the internal e+ e− pair conversion. The transition rate for the internal electron pair conversion is given by where γ is the transition energy, Rn is the nuclear rating, and φ0 = ⟨ψexc|ψg.s.⟩. Eq. (16) was derived by Oppenheimer and Schwinger [43] in 1939 for their theoretical investigation of 0+ → 0+ transition in 16O. The rate for the internal electron conversion is much smaller by many order of magnitude.
+
+For our case of 0+ → 0+ transition {7b}, we obtain ω ≈ 1.75 × 1013φ02/s, and {7b} = h ̄ω ≈ 1.15 × 10−2φ02 eV using appropriate inputs in Eq. (16). Using 2 = {7b} = 1.15 × 10−2φ02 eV in Eq. (15), the extracted S-factor for decay channel {7b} is S{7b} ≈ 3.3 × 10−6θ02φ02 keV-barn for E ≈ 0, yielding a branching ratio, R{7b}/R{7a} ≈ S{7b}/S{7a} ≈ 2.4 × 10−8φ02. Experiments are needed for testing this predicted branching ratio.
+
+
+7. Theoretical Explanations of Anomalous Neutron Production
+
+Experimental observation of R(n)/R(T ) ≈ 10−7–10−9 [24,36–40] is anomalous since we expect R(n)/R(T ) ≈ 1 from “hot” fusion reactions, {1} and {2}. In this section, we explore nuclear reactions producing neutrons at anomalously low rates.
+There are three possible processes that can produce neutrons. The first process is the secondary “hot” fusion reaction {2} producing 2.45 MeV neutrons as discussed with Eqs. (7)–(12). The rate for this secondary reaction is extremely small, R{2}/R{6} = R(n)/R(4He) < 10−11, as shown previously.
+The second process is a 3D BECNF reaction. In [5], it is shown that both reactions {4} and {5} are suppressed due to a selection rule [5]. It was also suggested that the following 3D BECNF is possible:
+
+This reaction is a secondary effect since the probability for {8} is expected to be much smaller than the 2D BECNF reaction {6}; it is suppressed further due to the selection rule described in [5].
+The third process is a “hot” fusion reaction T(d, n)4He, induced by 1.01 MeV T produced from reaction {7a}. Since the cross-section for reaction {9} is large and a maximum (several barns) at ED ≈ 100 keV [44], neutrons from this process may contribute substantially to the branching ratio R(n)/R(T ) = 10−7–10−9.
+
+Energetic neutrons from the reaction {9} described above could induce the following reactions: as reported recently by Mosier-Boss et. al. [45].
+To test the above theoretical interpretation, based on the process {9}, we need to measure/detect (i) tritium produc-
+tion, (ii) Bremsstrahlung radiations from energetic electrons going through metal, (iii) 0.51 MeV γ-rays from e+e− annihilation, (iv) energetic electrons from e+e− pair production, (v) γ -rays from the following reaction:
+and (vi) γ -rays from reaction {12} induced by 0.3 MeV protons from (7a):
+The cross-section for {11} with thermal neutrons is ∼0.5 mb.
+
+
+8. Proposed Experimental Tests of Theoretical Predictions
+
+8.1. Experimental test for metal particle size
+The first experimental test of the BEC mechanism for deuterium fusion with nano-scale Pd particles was carried out in 2002 with Pd blacks loaded by high-pressure deuterium gas [46] in our laboratory in the Physics Building at Purdue University. The result of this experiment shows no excess heat production. This may be because Pd nano-particles (Pd Blacks) used had too large sizes (80–180 nm) and were clumped together (not isolated). The recent report of deuteron gas-loading experiment by Arata and Zhang [3] show positive results of observing excess heat and 4He production using ∼5 nm Pd particles imbedded in ZrO2 and purified deuterium. The recent experimental results by Kitamura et al. [4] using ∼10 nm Pd particles have confirmed the results of Arata and Zhang [3], and also is consistent with one of theoretical predictions of the BECNF theory [5]. The theoretical prediction is that the reaction rate for smaller palladium particles is expected to be greater than the reaction rate for larger palladium particles, R (smaller Pd) > R (larger Pd). Their experimental data shown in Fig. 3(a) (∼104 nm Pd particles) and Fig. 3(c) (∼10 nm Pd particles) in their paper [4] is consistent with the above prediction. Their data in Fig. 3(c) are also consistent with the requirement of deuteron mobility in metal (the observation [i] described in [5] (in this case the reaction occurs only when the pressure gradient exists).
+
+8.2. Experimental test for anomalous tritium production
+For experimental tests of the sub-threshold resonance reaction described in Section 6, it is desirable to carry out high- sensitivity detections of weak signals (i) of Bremsstrahlung radiations from energetic electrons going through metal and (ii) of 0.51 MeV γ -rays from e+e− annihilation, as well as (iii) 4He production, during tritium production experiments to test the predicted branching ratio R{7b}/R{7a} ≈ S{7b}/S{7a} ≈ 10−8φ02, and also to determine the branching ratio R{7a}/R{6} which in turn can provide information on θ02 for S{7a} and also S(E) for reaction {6}.
+
+8.3. Experimental test for fusion-rate enhancement at low temperatures
+As discussed in a previous section, the BEC fraction and the probability  of the BEC ground-state occupation will increase at lower temperatures. This increase of  will enhance the total fusion rate Rt, Eq. (4). This prediction can be tested by carrying out experiments at low temperatures. For an example, thermal cycling experiment [24] and other experiments [35–40] should be repeated with micro/nano-scale Titanium particles.
+
+8.4. Experimental test for fusion-rate enhancement at high pressures
+High pressures will shorten the average distance between two deuterons in metal, thus enhancing the BEC fraction and hence . This enhances the total fusion rates Rt, Eq. (4). This prediction can be tested by carrying out experiments at high pressures.
+The null results reported by Baranowski et al. [47] and Silvera and Moshary [48] from their high-pressure deuterium gas-loading experiments may be due to their use of bulk metals. It is desirable to carry out similar experiments with micro/nano-scale metal particles.
+
+8.5. Experimental tests for fusion-rate enhancement with ultra-high density deuteron clusters
+Recently, Lipson et al. [49,50], Holmlid et al. [51], and Miley et al. [52] have been developing ultra-high density deuteron clusters on palladium thin film with densities approaching 1024/cm3 corresponding to an average distance d = 1 Å between two deuterons satisfying the BEC requirement at ambient temperature. This ultra-high density deuteron clusters could be used as test beds for BECNF theory as described above and also as test beds for BEC of deuterons in metal described below.
+
+8.6. Experimental tests of Bose–Einstein condensation of deuterons in metal
+BECNF theory is based on one single physical hypothesis that mobile deuterons in a metal/grain/particle form a Bose–Einstein condensate. Therefore, it is important to explore experimental tests of this basic hypothesis.
+
+For the atomic Bose–Einstein condensate, many properties of the BE condensate have been investigated both exper- imentally and theoretically [53]. Gross-Pitaevskii theory [53], based on Gorss-Pitaevskii equation and its extensions, provides a consistent theoretical description of the experimental observations (i)–(iv) listed below.
+(i) Determination of critical velocity for superfluidity of BEC [54].
+(ii) Determination of dynamic structure factor by Bragg scattering experiment [55,56].
+(iii) Observation of rotation/quantized vortices [57]. (iv) BEC on optical lattices [58].
+(v) Josephson effect [59] as a signature of superfluidity (experimental tests yet to be done) [53,60].
+
+It is desirable to carry out similar experiments (i)–(v) for investigating properties of the Bose–Einstein condensate of deuterons in micro/nano-scale metal grains or particles. However, BEC of deuterons in metal are imbedded with electrons in metal lattice, which acts as a trap, while the atomic BEC is created in a magnetic trap. Therefore, we do not know theoretically to what extent Gross-Pitaevskii theory for the atomic BEC is applicable to the BEC of deuterons in metal. We need to develop an appropriate theory (or theories) as well as carrying out experimental tests.
+
+However, there is a simple basic fundamental experimental test of the BEC and superfluidity of deuterons in metal: measurement of the diffusion rates of deuterons and protons in metal at low temperatures. Theoretical prediction is that the diffusion rate of deuterons is expected to be larger than that of protons at lower temperatures in metal.
+One of the advantages of carrying out experiments for observing the BEC of deuterons in micro/nano-scale metal particles is that the modern nano-fabrication techniques allow us to fabricate them in multitude with great precision in one-dimension, two-dimension, and three-dimension. This capability will allow us to produce the BEC of deuterons in metal (A) in a double-well potential trapping two Bose–Einstein condensates for studying the Josephson effect ((v) above), and also (B) in lower-dimensional traps to study the BEC in one-dimension and two-dimension.
+
+
+9. Potential Applications to Other Phenomena
+
+There are other potential applications of the BEC of deuterons to other related phenomena listed in the following: (i) transient acoustic cavitation fusion [61,62], (ii) transmutation [63–66], and (iii) high-temperature superconductivity in deuterated metals and alloys [67]. These applications will be described in future publications. For proton–metal transmutations [63], we may have to reformulate the BECNF theory based on BEC of molecular Bosons (H2’s) or Bosons formed by pairing of two protons in metals.
+
+In 2005, Szpak et. al. [66] reported presence or “new” elements (Al, Mg, Ca, Si, Zn, ...) from an operating Pd // D2O, Li+, Cl−//Pt cell placed in an external electrostatic field. Their observation implies nuclear transmutation of a new kind.
+Fusion of N deuterons (ND’s) in BEC state is possible, but its probability would be much less than that of fusion of two deuterons (2D). Possible multi-deuteron BEC fusion reactions for formation of Ca, Si, Al, and Mg are: 20 D’s→40 Ca+297.6MeV,14D’s→28 Si+205.4MeV,13D’s→ 26Al+177.9MeV,and12D’s→24Mg + 171.6 MeV. Independent experiments are needed to test the results reported by Szpak et. al. [66] and the above theoretical interpretation.
+
+
+10. Summary and Conclusions
+
+Based on a single physical concept of Bose–Einstein condensation of deuterons in metal, theory of Bose–Einstein condensation nuclear fusion (BECNF) is developed to explain deuteron-induced nuclear reactions observed in metal. It is shown that the BECNF theory is capable of explaining qualitatively or quantitatively all of ten experimental observations (listed in Section 2) reported from electrolysis and gas-loading experiments.
+
+It is shown that the fusion energy transfer to metal can be accomplished by the stopping power of metal without invoking a hypothesis of fusion energy transfer to metal lattice vibrations. It is also shown that observed anomalous tritium production can be explained by incorporating a sub-threshold resonance reaction mechanism into the BECNF theory.
+
+The BECNF theory has also predictive powers as expected for a quantitatively predictive physical theory. Experimental tests of theoretical predictions are proposed and discussed, including tests of the basic hypothesis of Bose–Einstein condensation of deuterons in metal. Experimental tests are needed not only to test theoretical predictions, but also to improve and/or refine the theory, which are needed for designing reproducible experiments and for scaling up BECNF processes for potential practical applications.
+
+
+11. References
+
+[1] M. Fleischman, S. Pons, Electrochemically induced nuclear fusion of deuterium, J. Electroanal. Chem. 261 (1989) 301; Errata, J. Electroanal. Chem. 263 (1989) 187.
+[2] P.L. Hagelstein et al., New physical effects in metal deuterides, Proceedings of ICCF-11, Marseille, France, Condensed Matter Nuclear Science, World Scientific, Singapore, 2006, pp. 23–59, and references therein.
+[3] Y. Arata, Y.C. Zhang, J. High Temp. Soc. 34(2) (2008) 85.
+[4] A. Kitamura et al., Phys. Lett. A 373 (2009) 3109, and references therein.
+[5] Y.E. Kim, Theory of Bose–Einstein condensation mechanism for deuteron-induced nuclear reactions in micro/nano-scale metal
+grains and particles, Naturwissenschaften 96 (2009) 803 and references therein.
+[6] S. Pons, M. Fleischmann, Heat after death, Trans. Fusion Technol. 26 (Dec. 1994) 87.
+[7] A. Coehn, Proof of the existence of protons in metals (with discussion), Z. Electrochem. 35 (1929) 676–680.
+[8] A. Coehn, W. Specht, Ueber die Beteiligung von Protonen an der Elektrizitaetsleitung in Metallen (Role of protons in electric
+conductivity of metals), Z. Phys. 83 (1930) 1–31.
+[9] C. Bartolomeo, M. Fleischmann, G. Larramona, S. Pons, J. Roulette, H. Sugiura, G. Preparata, Alfred Coehn and After: The
+α, β, γ of the Palladium–Hydrogen System, Trans. Fusion Technol. 26 (Dec. 1994) 23.
+[10] I. Isenberg, The ionization of hydrogen in metals, Phys. Rev. 79 (1950) 736.
+[11] B. Duhm, Diffusion of hydrogen in palladium, Z. Phys. 94 (1935) 435–456.
+
+[12] Q.M. Barer, Diffusion in and through Solids, Cambridge University Press, New York, NY, 1941.
+[13] J.F. Macheche, J.-C. Rat, A. Herold, Study of hydrogen–metal systems: Potential induced by the diffusion of hydrogen in
+palladium, J. Chim. Phys. Phys. Chim. Biol. 73 (1976) 983–987.
+[14] F.A. Lewis, Palladium–hydrogen system 2, Platinum Met. Rev. 26 (1982) 20–27, 70–78, 121–128.
+[15] Y.Fukai,TheMetal–HydrogenSystem,SecondEdition,Springer,Berlin,Heidelberg,NewYork,2005.
+[16] Y.E.Kim,A.L.Zubarev,Groundstateofchargedbosonsconfinedinaharmonictrap,Phys.Rev.A64(2001)013603-1.
+[17] Y.E.Kim,A.L.Zubarev,Equivalentlineartwo-bodymethodforBose–Einsteincondensatesintime-dependentharmonictraps,
+Phys. Rev. A 66 (2002) 053602-1.
+[18] Y.E. Kim, A.L. Zubarev, Ultra low-energy nuclear fusion of Bose nuclei in nano-scale ion traps, Italian Phys. Soc. Proc. 70
+(2000) 375.
+[19] Y.E. Kim. Y.J. Kim, A.L. Zubarev, J.H. Yoon, Optical theorem formulation of low-energy nuclear reactions, Phys. Rev. C 55
+(1997) 801.
+[20] Y.E.Kim,A.L.Zubarev,NuclearfusionforBosenucleiconfinediniontraps,FusionTechnol.37(2000)151.
+[21] P.A.M. Dirac, The Principles of Quantum Mechanics, Second Edition, Chapter XI, Section 63, p. 235, Clarendon Press, Oxford,
+1935.
+[22] N. Bogolubov, On the theory of superfluidity, J. Phys. 11 (1966) 23–29.
+[23] D.R. Tilley, H.R. Weller, G.M. Hale, Energy level of light nuclei A = 4, Nucl. Phys. A 541 (1992) 1.
+[24] M. Srinivasan et al., Observation of tritium in gas/plasma loaded titanium samples, AIP Conf. Proc. 228 (1990) 514.
+[25] W.A. Fowler, G.R. Caughlan, B.A. Zimmermann, Thermonuclear reactions rates, Annu. Rev. Astron. Astrophys. 5 (1967) 525;
+see also Thermonuclear reaction rates II, Annu. Rev. Astron. Astrophys. 13 (1975) 69.
+
+[26] A. von Engel, C.C. Goodyear, Fusion cross-section measurements with deuterons of low energies, Proc. R. Soc. A 264 (1961) 445.
+[27] A. Krauss, H.W. Becker, H.P. Trautvetter, C. Rolfs, Low energy fusion cross-sections of D + D and D + 3He reactions, Nucl. Phys. 465 (1987) 150.
+[28] Y.E.Kim,Surfacereactionmechanismfordeuterium–deuteriumfusionwithagas/solid-statefusiondevice,FusionTechnol.. 19 (1990) 558–566; AIP Conf. Proc. 228 (1990) 807.
+[29] H.H. Anderson, J.F. Ziegler, Hydrogen Stopping Powers and Ranges in All Elements, Pergamon Press, New York, 1977.
+[30] E. S.C. Talcott, Electrolytic tritium production, Fusion Technol. 17 (1990) 680.
+[31] K. Cedzynska, S.C. Barrowes, H.E. Bergeson, L.C. Knight, F.W. Will, Tritium analysis in palladium with an open system
+analytical procedure, Fusion Technol. 20 (1991) 108.
+[32] F.G. Will, K. Cedzynska, D.C. Linton, Reproducible tritium generation in electrochemical-cells employing palladium cathodes
+with high deuterium loading, J. Electroanal. Chem. 360 (1993) 161: Tritium generation in palladium cathodes with high
+deuterium loading, Trans. Fusion Technol. 26 (Dec. 1994) 209.
+[33] J.O’M. Bockris, C.-C. Chien, D. Hodko, Z. Minevski, Tritium and helium production in palladium electrodes and the fugacity
+of deuterium therein, Frontiers Science Series No. 4, Proceedings of the Third International Conference on Cold Fusion, H.
+Ikegami (ed.), October 21–25, Nagoya, Japan, Universal Academy Press, Tokyo, Japan, 1993, p. 23.
+[34] R. Szpak, P. A. Mosier–Boss, R. D. Boss, J. J. Smith, On the behavior of the Pd/D system: evidence for tritium production,
+Fusion Technol. 33 (1998) 38–51.
+[35] A. DeNinno, A. Frattolillo, G. Lollobattista, L. Martinis, M. Martone, L. Mori, S. Podda, F. Scaramuzzi, Emission of neutrons
+as a consequence of titanium–deuterium interaction, II Nuovo Cimento 101A (1989) 841.
+[36] T.N. Claytor, D.G. Tuggle, H.O. Menlove, P.A. Seeger, W.R. Doty, R.K. Rohwer, Tritium and neutron measurements from a
+solid-state cell, LA–UR-89-3946, October 1989, Presented at the NSF-EPRI workshop.
+
+[37] T.N. Claytor, D.G. Tuggle, H.O. Menlove, P.A. Seeger, W.R. Doty, R.K. Rohwer, Tritium and neutron measurements from
+deuterated Pd–Si, AIP Conference Proceedings 228, Anomalous Nuclear Effects in Deuterium/Solid Systesm, S. Jones, F.
+Scaramuzzi, D. Worledge, Provo Utah (eds.), 1990, p. 467.
+[38] T.N. Claytor, D.G. Tuggle, S.F. Taylor, Evolution of tritium from deuterided palladium subject to high electrical currents,
+Frontiers Science Series No. 4, Proceedings of the Third International Conference on Cold Fusion, H. Ikegami (ed.), October
+21–25, Nagoya, Japan., Universal Academy Press Tokyo, Japan, 1993, p. 217.
+[39] T.N. Claytor, D.G. Tuggle, S.F. Taylor, Tritium Evolution from various morphologies of deuterided palladium, Proceedings
+of the Fourth International Conferences on Cold Fusion, T.O. Passel (ed.), December 6–9, 1993, Maui, Hawaii, EPRI-TR-
+104188-V1 Project 3170, Vol. 1, 1994, p. 7–2.
+[40] T.N. Claytor et al., Tritium production from palladium alloys, Proceedings of ICCF-7, 1998, p. 88.
+[41] C.E. Rolfs, W.S. Rodney, Cauldrons in the Cosmos: Nuclear Astrophysics, Chapter 4, University of Chicago Press, Chicago,
+1988.
+[42] J.M. Blatt, V.F. Weisskopf, Theoretical Nuclear Physics, John Wiley and Sons, 1952, 8th Printing, 1962.
+[43] J.R. Oppenheimer, J.S. Schwinger, Phys. Rev. 56 (1939) 1066.
+[44] G.S. Chulick, Y.E. Kim, R.A. Rice, M. Rabinowitz, Extended parameterization of nuclear-reaction cross sections for few-
+nucleon nuclei, Nucl. Phys. A 551 (1993) 255–268.
+[45] P.A. Mosier–Boss, S. Szpak, F.E. Gordon, L.P.G. Forsley, Triple tracks in Cr-39 as the result of Pd–D Co-deposition: evidence
+of energetic neutrons, Naturwissenschaften 96 (2009) 135; Characterization of Tracks in CR-39 Detectors as a Result of Pd/D
+Co-deposition, Eur. Phys. J. Appl. Phys. 46 (2009) 30901.
+[46] Y.E. Kim, D.S. Koltick, R. Pringer, J. Myers, R. Koltick, Proceedings of ICCF-10, Massachusetts, USA, 2003, Condensed
+Matter Nuclear Science, World Scientific, Singapore, 2006, pp. 789–799.
+[47] B. Baranowski et al., Search for ‘cold fusion’ in some Me–D systems at high pressures of gaseous deuterium, J. Less-Common
+Met. 158 (1990) 347.
+[48] I. F. Silvera, E. Moshary, Deuterated palladium at temperatures from 4.3 to 400 K and pressures to 105 kbar: search for cold
+fusion, Phys. Rev. B. 42 (1990) 9143.
+[49] A. G. Lipson, A.G. Lipson, B. J. Heuser, C. Castano, G.H. Miley, B. Lyakhov, A. Mitin, Transport and magnetic anamolies
+below 70 K in a hydrogen-cycled Pd foil with athermally grown oxide, Phys. Rev. B 72 (2005) 212507.
+
+[50] A.G. Lipson, B.J. Heuser, C.H. Castano, A. Celik-Aktas, Observation of low-field diamagnetic contribution to the magnetic susceptibility of deformed single crystal PdHx, Phys. Lett. A 339 (2005) 414–423.
+[51] L. Holmlid, H. Hora, G.H. Miley, X. Yang, Laser and Particle Beams 27 (2009) 529.
+[52] G.H. Miley, H. Hora, X. Yang, Condensed matter ‘cluster’ reactions in LENRs, Proceedings of the 14th International Conference
+on Condensed Matter Nuclear Science, Washington, DC, 2008.
+[53] L. Pitaevskii, S. Stringari, Bose–Einstein Condensation, Clarendon Press, Oxford, 2003.
+[54] R. Onofrio et al., Observation of Superfluid flow in a Bose–Einstein Gas, Phys. Rev. Lett. 85 (2000) 228 and references therein.
+[55] J. Steinger et al., Bragg spectroscopy of a Bose–Einstein condensate, Phys. Rev. Lett. 82 (1999) 4569.
+[56] J. Steinhauser et al., Excitation spectrum of a Bose–Einstein condensate, Phys. Rev. Lett. 88 (2002) 120407-4.
+[57] F. Chevy et al., Inferometric detection of a single vortex in a dilute Bose–Einstein condensate, Phys. Rev. A 64 (2001) 031601
+and references therein.
+[58] P. Pedri, et al., Expansion of a coherent array of Bose–Einstein condensates, Phys. Rev. Lett. 87 (2001) 220401.
+[59] B.D. Josephson, Possible new effects in superconductive tunneling, Phys.Lett. 1 (1962) 251.
+[60] L. Pitaevskii, S. Stringari, Thermal vs. quantum decoherence in double well trapped Bose–Einstein condensates, Phys. Rev.
+Lett. 87 (2001) 180402-1 and references therein.
+[61] R.S. Stringham, in the Proceedings of ICCF-7 (1990), ICCF-10 (2003), ICCF-14 (2008).
+[62] A.G. Lipson, V.A. Klyuev, B.V. Deryaguin et al., Sov. Tech. Phys. Lett. 61(10) (1990) 763.
+[63] G.H. Miley, P. Shrestha, Review of transmutation reactions in solids, Proceedings of ICCF-10, Boston, Massachusetts, Con-
+densed Matter Nuclear Science, World Scientific, Singapore, 2006, pp. 361–378.
+[64] Y. Iwamura et al., Jpn. J. App. Phys. 41 (2002) 4642–4648.
+[65] Y.Iwamuraetal.,ProceedingsofICCF-11,Marseille,France,CondensedMatterNuclearScience,WorldScientific,Singapore,
+2006, pp. 339–350.
+[66] S. Szpak et al., Evidence of nuclear reactions in the Pd lattice, Naturwissenschaften 92 (2005) 394.
+[67] P. Tripodi et al., Temperature coefficient of resistivity at compositions approaching PdH, Phys. Lett. A 276 (2000) 122–126.

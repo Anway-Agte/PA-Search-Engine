@@ -1,0 +1,50 @@
+1. Introduction
+
+The occurrence of nuclear reactions in condensed matter at room temperature or so- called “cold fusion” requires an anomalously large enhancement of the reaction rate. However, it is a matter of common knowledge that a huge Coulomb barrier between two nuclei prevents them from approaching to make a nuclear reaction at ultra-low energies. Thus, the enhancement, if it exists, should be related to the reduction of the Coulomb barrier.
+As reported at the ICCF6 [1], we have started a series of measurements of the D(d,p)T reaction in metal with the bombarding energies down to 2 keV, in order to investigate whether the reaction rate in metal is really enhanced or not. Previous results on Ti and Yb [1-3] clearly show that the reaction rate is enhanced in metal and depends on the kind of host metal. It has also been pointed out that the observed excitation function of the thick target yield can well be interpreted by introducing a screening potential Ue; Ue = 19 ± 12 eV and 81 ± 10 eV were deduced for Ti and Yb, respectively. However, no one can expect to observe the nuclear reactions at room temperature from an extrapolation of the reaction rate with the screening potential parameterization, although 80 eV of the screening potential is much larger than expected in metal [4].
+
+We have continued the measurements for various metals, and, recently, studied the D(d,p)T reaction in Pd and PdO, which is one of the most important material for “cold fusion”. Our attention will be focused on showing the result of measurements, since it seems to be very significant, although more experimental works are still in need to reach a definite conclusion.
+
+
+2. Experimental procedure
+
+The experimental procedure is almost the same as described in our previous work [l-3], and will be briefly described here. Deuteron beams extracted from the low-energy high-current ion beam generator were used to bombard the target. In order to fix the beam position and size for each energy level, a beam collimator was used; the beam spot on the target was about 4 mm in diameter. The target was metallic Pd foil of 200 μm in thickness, and PdO/Pd/Au foil of 50 μm in thickness which was prepared as described in ref. [5]. In the PdO/Pd/Au foil, deuterium was charged before the bombardment by carrying out the electrolysis as reported in ref. [5]. In the Pd foil, however, deuteron beams were implanted for a long time until the proton yield became almost constant. The target was cooled during the bombardment to a temperature of about -160 °C. The PdO surface side of the PdO/Pd/Au foil was bombarded with the deuteron beam, and incident deuterons reacted on the deuterons before they stopped in the PdO layer of 50 nm in thickness.
+
+In order to detect protons emitted in the D(d,p)T reactions, a ∆Ε-Ε counter telescope consisting of 50-μm and 200-μm thick Si surface barrier detectors was employed. A requirement of a coincidence between two Si detectors completely eliminated electrical noise and enabled unambiguous identification of charged particles. The total dose of the deuteron beam for each run was deduced from the electric current from the target.
+
+Fig. 1. Yields of protons per integrated beam current for 6.5 (triangles) and 5.0 (squares) keV measurements. Yields at 10 keV used for the normalization are also shown with solid circles.
+Deuterons impinging upon the target diffuse in the metal during the measurement, hence, the number of the target deuterons may change in every moment. On average, however, it is considered to be equilibrated after a large quantity of deuterons are bombarded. Nevertheless, yields at Ed = 10 keV were measured, frequently, before and after the run to determine the number of deuterons in the target during the run, and the yield of each run was normalized to the yield at 10 keV. Such examples for the measurements at 6.5 and 5.0 are shown in Fig. 1, where yields of protons emitted in the D+D reactions per beam charge are plotted with triangles and squares, respectively, for the 6.5- and 5.0-keV measurements. Data plotted with circles correspond to the measurements at 10 keV. It is clear that the change of the yield for different runs at lower energies is due to the change of the number of the target deuterons, because it follows the change of the yield at 10 keV. Thus, the thick target yields at lower energies were always divided by the average yield at 10 keV measured just before and after the run.
+
+
+3. Experimental result and discussion
+
+In Fig. 2, we show thick target yields of the D(d,p)T reaction in Pd and PdO with squares and solid circles, respectively, against bombarding energy. The data are normalized at 10 keV as mentioned above. Errors associated with the data include only statistical ones. Although the yields for both metals decrease very rapidly as the bombarding energy decreases, they are surprisingly larger than those obtained in previous measurements for Ti and Yb[l-3].
+
+Fig. 2. Thick target yields of the D(d,p)T reactions in Pd (squares) and PdO (circles) against bombarding energy. The solid curve is a calculated one without any enhancement. The dotted and dashed curves are those with the screening potential Ue = 250 and 600 eV, respectively.
+(1)
+The thick target yield Yt at the bombarding energy Ed is given as Xd Ed −1
+Y(E )=A∫ N (x)σ (E)dx=A∫ N (x)σ (E)(dE/dx) dE td Dlab Dlab
+00
+where Xd, ND(x), σlab(E) and dE/dx are the path length of incident deuteron, the number of the target deuterons per unit area, the reaction cross section and the stopping power for the deuteron, respectively. The solid curve in Fig. 2 is a thick target yield calculated with the bare reaction cross section as described in detail in ref. [2,3], which represents a standard thick target yield without any enhancement of the reaction rate. As seen, the standard calculation completely fails to explain the data for both Pd and PdO, which are about 50 times larger than the standard at Ed = 2.5 keV. This large discrepancy is a surprise, because the measured yields in Ti and Yb [2,3] almost fall on the standard yield, although a slight enhancement was deduced from the data. We, again, show thick target yields obtained in Ti and Yb in Fig. 3 for comparison.
+
+Fig. 3. Thick target yields of the D(d,p)T reactions in Ti (triangles) and Yb (diamonds) against bombarding energy. The solid curve is a calculated one without any enhancement.
+In Fig. 4, the ratio of the experimental yield to the standard one is plotted as a function of the bombarding energy; we call it enhancement. As seen in Fig. 4, the observed enhancement increases rapidly as the bombarding energy decreases. Since this trend is very similar to the reaction with the screened Coulomb potential, we have naively attempted to parameterize the enhanced yield by a screening potential (Ue) which reduces the Coulomb barrier between two deuterons. We calculated thick target yields for various values of Ue as described in [2,3], and compared them with the data. In Fig. 2 and 4, a dashed curve which reproduces the PdO data very well is a calculation with Ue = 600 eV, and a dotted curve corresponds to Ue = 250 eV for Pd.
+
+Since the screening potential caused by electrons in metal is expected to be several tens of eV [4], the presently deduced values for Pd and PdO may not be only due to the electron screening. However, this is very significant, since a simple extrapolation of the reaction cross- section by the screening parameterization gives σ = 10-40 cm for Ue = 600 eV and 10-49 cm2 for 250 eV at room temperature. If a formula of the reaction rate of thermal nuclear reactions can be applied, one can expect 108 reactions/cm3/sec for the case of Ue = 600eV.
+Fig. 4. Observed enhancement of the thick target yields of the D(d,p)T reactions in Pd (squares) and PdO (circles) against bombarding energy. The solid curve is a calculated one without any enhancement. The dotted and dashed curves are those with the screening potential Ue = 250 and 600 eV, respectively.
+
+At present stage, however, the above argument is not definite. Major questions which should be experimentally solved are (1) the stopping power (dE/dx in eq. 1) of metals for deuterons with Ed < 10 keV and (2) the deuteron density distribution (ND(x) in eq. 1) in the target metal. We are planning to measure these quantities: the experiment for (2) has been started, already. Even if the enhancement of the reaction rate is established in this energy region, one may naturally ask the following question: Can we extrapolate the reaction cross sections down to 0.02 eV with the screening parameterization? To answer this, any data below 2.5 keV are very helpful as well as theoretical understanding of the enhancement.
+
+
+4. Summary
+
+We have presented the measurements of the reaction rate of the D+D reactions in Pd and PdO at very low bombarding energies together with the results for Ti and Yb. Surprisingly large enhancements are observed in thick target yields of the D(d,p)T reactions in Pd and PdO. We have attempted to parameterize the enhanced yield by a screening potential (Ue) which reduces the Coulomb barrier between two deuterons. The screening potentials of Ue = 250 and 600 eV were deduced for Pd and PdO, respectively. This is very significant, since a simple extrapolation of the reaction rate allows us to observe the nuclear reaction at room temperature. Thus, it is highly desirable to investigate the origin of the anomalously enhanced reaction rate observed in this work.
+
+
+5. References
+
+[1] H. Yuki, T. Sato, T. Ohtsuki, T.Yorita, Y. Aoki, H. Yamazaki and J. Kasagi, Proc. ICCF6 (1996), Vol. 1, p. 259
+[2] H. Yuki, T. Sato, T. Ohtsuki, T. Yorita, Y. Aoki, H. Yamazaki, J. Kasagi and K. Ishii, J. Phys. Soc. Jpn. 66 (1997) 73
+[3] H. Yuki, T. Sato, T. Ohtsuki, T.Yorita, Y. Aoki, H. Yamazaki and J. Kasagi, J. Phys. G: Nucl. Part. Phys. 23 (1997) 1459
+[4] S. Ichimaru, Rev. Mod. Phys. 65 (1993) 255, and references therein
+[5] A. G. Lipson, B. F. Lyakhov, D.M. Sakov, V. A. Kuznetsov and T. S. Ivanova, Proc. of ICCF6 (1996), Vol. 2, p. 433

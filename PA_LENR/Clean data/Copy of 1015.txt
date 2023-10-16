@@ -1,0 +1,195 @@
+1. Introduction
+
+It is well known that the microstructure of metals can be altered by deformation which produces point defects (vacancies
+and interstitials) and line defects (dislocations). Crystal size can vary from single crystals to nanocrystals. The presence
+of defects and grain boundaries results in slight expansion of the crystal lattice which may enhance diffusion of elements
+such as hydrogen and deuterium into titanium and palladium, thus increasing the rate and degree of loading. This may
+increase the excess thermal power produced during electrolysis of heavy water–sulfuric acid electrolyte with Ti or Pd
+cathodes. The purpose of this research was to determine if heating at elevated temperatures after cold rolling affects
+the thermal output and surface composition produced during electrolysis with Ti or Pd cathodes.
+
+In a collaborative research effort between scientists at ENEA and SRI International, it has been shown that annealing
+palladium foil at temperatures between 800 and 1100oC increases the maximum D/Pd loading ratio by reducing the
+internal stress generated during deuteron sorption by the Pd lattice [1]. Annealing cold rolled metal foils such as Pd
+and Ti over a Bunsen burner flame should produce a similar reduction in the stress field via recrystallization. The effect
+of this process on excess enthalpy production, surface morphology, and elemental composition of Pd and Ti cathodes
+was studied herein.
+
+Figure 1. Temperature and input power evolution of an experimental (E) cell containing a thermally treated titanium cathode and a control (C) cell
+containing a Pt cathode.
+
+
+2. Experimental
+
+Ti foil (Alfa Aesar stock #43676, 99.99%, metals basis) and Pd foil (Alfa Aesar stock #11514, 99.9%, metals basis)
+were cold rolled from 0.5 mm thickness to about 0.3 mm thickness. Strips (10 × 30 mm2) were # 3 cut from the cold
+rolled foils to be used as cathodes during electrolysis. The electrolyte consisted of 1.5 M H2SO4 (Fisher Scientiﬁc, lot
+#050994) in D2O (Aldrich stock #14764, 99.8% isotopic).
+
+Two cells were constructed in order to determine if cathodes with recrystallized microstructure are effective in
+producing excess thermal power. A cell with a cathode made from cold rolled Ti was crimped to a Pt wire (Alpha Aesar
+stock #10285, 99.95%). A control cell was identical except that its cathode was a Pt foil (Alfa Aesar stock #11509
+99.99%). Each cell used a Pt foil anode and the same electrolyte.
+
+Recrystallization was achieved by heating the cold rolled foils for 40 min at an average temperature of ∼700oC with
+a Bunsen burner, after which a recrystallized Ti foil was crimped to the Pt cathode wire. Electrolysis was performed with
+constant cathode current density of about 0.3 A/cm2. Cell voltage and temperature were monitored with an automated
+data acquisition system.
+
+
+3. Results
+
+The data for the thermocouples which were attached to the outsides of the cells, close to the cathodes, is shown in
+Fig. 1, along with the power input to each cell. The input power to the control cell (C cell) is slightly higher throughout
+the experiment than the input power to the experimental cell with the recrystallized Ti cathode (E cell). Even though
+the E cell received less power, its temperature was higher than that of the C cell throughout the experiment. The peak
+E Cell temperature was about 92oC, and the peak C cell temperature was about 82oC. These peaks were reached after
+about 200 min of electrolysis.
+
+The input power ﬂuctuations to the E cell were caused by a loose connection to the cathode wire. Note that there
+
+Figure 2. Surface topography of a cold rolled Ti substrate after 40 minutes of heating at 700oC over a Bunsen burner.
+
+is less input power to the E cell than to the C cell throughout the entire run. Even so, the E cell produced about 1W of
+thermal power more than the C cell.
+
+A second round of electrolysis was conducted using the same electrodes in order to test if the results obtained with
+this system were repeatable. The recombination catalyst was no longer effective after the ﬁrst round of electrolysis, so
+it was replaced in both cells, and additional electrolyte was added to bring the cells to their initial electrolyte levels.
+
+The data obtained from this second experiment gave nearly identical results as the ﬁrst.
+
+A third experiment was conducted using the same electrodes. The recombination catalyst was replaced and the
+electrolyte was replenished before this run was made. This experiment did not replicate the ﬁrst two. The maximum
+temperature was about 100oC for the E cell and 85oC for the C cell. The reason why the third run did not replicate the
+ﬁrst two may be because the Ti cathode in the E cell slowly dissolved, thus reducing the surface area. Higher power
+input was required to maintain the constant current.
+
+Figure 3. Surface topography of a titanium cathode after cold rolling, heating, and electrolysis in H2SO4/D2O.
+
+Figure 4.SEM image of a feature commonly found on the surface of a cold-rolled, heated titanium cathode following electrolysis in acidiﬁed
+heavy water.
+
+The result was higher E cell temperature, which vaporized about 30 ml of the electrolyte. This loss made it
+impossible to calculate excess power accurately.
+
+
+4. SEM and EDS Characterization
+
+Using a scanning electron microscope (SEM) equipped with an energy dispersive spectrometer (EDS), we studied the
+surface topography and microcomposition of the thermally treated cathodes both before and after electrolysis. Figure 2
+shows the typical surface topography of a titanium cathode after heating but before electrolysis.
+
+EDS data was collected from the reduced areas outlined in Fig. 2. The EDS scan obtained from the center of the
+image (RA#1) contains about 2 at.% Fe, along with O, C, and Ti, whereas the reduced area to the left (RA#2) contains
+only O, C, and Ti (Table 1).
+
+Figure 3 shows the surface topography of a Ti cathode that had undergone cold-rolling, followed by 40 min of
+heating at ∼700oC, and electrolysis. There are three similar pits (black) about 50 µm diameter, with white rims which
+protrude above the surface. The surface eruptions have similar size and shape.
+
+EDS spectra were taken from an eruption on a Ti cathode after cold rolling, heating, and electrolysis (Fig. 4). Spectra
+were obtained from the whole area, the reduced area (RA), the black spot S1, the white spot S2, and the triangular
+area in the small square near the center labeled S3 (Table 2). The detected elements consisted mainly of C, O, and Ti.
+Anomalous V was found in four of the ﬁve spectra at the 0.1 at.% level. Anomalous V, Cr, Fe, and Ni were found in
+the triangular particle within the small square near the center of the ﬁgure. Fe was at the 0.3 at.% level, and the other
+elements were at the 0.1 at.% level.
+
+Table 1.Atomic composition of RA#1 and RA#2 in Fig. 2
+
+We performed similar experiments using Pd foils instead of Ti and obtained similar results. At steady state, the
+temperature of the cell with a heated Pd cathode was about 7oC higher than that of the control. With the same input
+power, this means that the heated Pd cathode was producing about 1 W more power than the control.
+
+The topography of a Pd cathode after heating but before electrolysis is shown in Fig. 5a. It appears that surface
+melting has occurred, leaving a network of pores. Since the melting point of Pd is 1549oC and the Bunsen burner ﬂame
+does not reach such temperatures, we speculate that a diffusion based process is responsible for the formation of the
+porous microstructure in Pd, namely spinodal decomposition [2, 3].
+
+It is apparent that the heating of Pd over a Bunsen burner ﬂame produces a high surface area, porous topography.
+More over, this morphology is stable since it has clearly maintained its structure even after 22.5 h of electrolysis at a
+current density of 340 mA/cm2 (Fig. 5b). The white dots on the palladium surface seen in Fig. 5b are electroplated
+platinum deposits, which come from the dissolution of the anode.
+
+Figure 6 shows another example of porous surface microstructure on a Pd cathode which had been heated in a
+Bunsen burner ﬂame, then electrolyzed for 14.5 h. The pores seem to be concentrated in strands which meander over
+the surface. The square area in the center of the micrograph is shown enlarged in Fig. 6b, which has features suggesting
+
+Figure 5.Surface topography of a Pd cathode after heating for 40 min under a Bunsen burner ﬂame (a) before and (b) after electrolysis in
+H2SO4/D2O.
+
+Figure 6.(a) Low magniﬁcation and (b) high magniﬁcation SEM image of a heated Pd sample following electrolysis in H2SO4/D2O.
+surface melting.
+
+Figure 7 shows another view of a porous Pd cathode after electrolysis. Two of the pores were analyzed with the
+results given in Tables 3 and 4. Both contain signiﬁcant amounts of Ag, which is consistent with our previous results
+
+Table 2.Atomic composition of the labeled regions in Fig. 4
+
+Figure 7.SEM image of a cold-rolled, heated Pd substrate following electrolysis in H2SO4/D2O.
+
+Table 3.Atomic composition of pore S1 in Fig. 7
+
+As a ﬁnal example, Fig. 8 shows the locations on the surface of a thermally treated, electrolyzed Pd cathode from
+which EDS spectra were obtained.
+
+Quantitative results suggest that three of the ﬁve regions contain signiﬁcant quantities of silver, with the highest
+concentrations located within pores (Table 5). Anomalous Ag is found in the black and gray features, but not in the
+
+Figure 8.SEM image of the concave side of a heated palladium cathode after 14.5 h of electrolysis.
+
+Table 4.Atomic composition of pore S2 in Fig. 7
+
+white features.
+
+A primary objective of this research was to determine if there is an optimum time of heating at 700oC that produces
+a microstructure which maximizes excess heat during electrolysis. The results obtained for Pd cathodes are given in
+
+Table 6. Heating Pd for 40 min at 700oC gave 7oC higher steady-state temperature than no heating.
+
+
+5. Discussion
+
+The microstructure of the cathode in low energy nuclear reaction (LENR) studies is an important factor in loading
+hydrogen isotopes into the host lattice. In the case of nanocrystals, the goal is to prevent sintering of the microscopic
+particles so that a large surface area to volume ratio is maintained.
+
+Cold rolled Ti foils, melting point 1668oC, and cold rolled Pd foils, melting point 1549oC, were used in this research.
+
+The goal of heating was to recrystallize the foils to form a new set of microscopic crystals with a large surface area to
+volume ratio.
+
+Although the data are few, it seems that heating the foils for 40 min at 700oC produces microcrystals and unexpected
+microporosity which serve to increase excess heat and reproducibility for both Ti and Pd. In addition we continue to
+observe anomalous Ag in our EDS spectra, such as we reported previously [4].
+
+It was suggested that the observed surface morphology is due to a compound of Pd, O, and C which has a low
+melting point [5]. Such a compound could form at elevated temperature if the free energy change is favorable. Rapid
+cooling to ambient would preserve the surface morphology in the form which was produced at elevated temperature.
+
+
+6. Conclusion
+
+This study shows that it is possible to enhance excess heat from metals such as Ti and Pd by thermal treatment to
+produce microstructure such as porosity which is favorable to diffusion of gases into the metals. Reproducibility of
+results may also be increased.
+
+Table 5.Atomic composition of various spots on the sample shown in Fig. 8
+
+Table 6. Effect of recrystallization heat treatment of palladium
+cathodes on cell temperature during electrolysis
+
+
+References
+
+M. Apicella, E. Castagna, L. D’Aulerio, G. Mazzitelli, F. Sarto, A. Rosada, E. Santoro, V. Violante, M. McKubre, F. Tanzella
+and C. Sibillia, Some Recent Results at ENEA, Proc. of the 12th Int. Conf. Cold Fusion, A. Takahashi, K. Ota andY. Iwamura
+(Eds.), Yokohama, Japan, November 2005.
+S.M. Allen, Spinodal decomposition, Encyclopedia of Materials: Science and Technology, K.H. Jurgen Buschow et al. (Eds.),
+Elsevier, New York, 2001, pp. 8761–8764.
+J. Dash, Electron transmission and diffraction observations of the microstructure of alnico alloys, Ph.D. Thesis, Pennsylvania
+State University, September 1966.
+J. Dash, Q. Wang and D.S. Silver, Excess heat and anomalous isotopes and isotopic ratios from interaction of palladium with
+hydrogen isotopes, Low Energy Nuclear Reactions and New Energy Technologies Sourcebook, Vol. 2, J. Marwan and S. Krivit
+(Eds.), American Chemical Soc., Washington DC, 2009, pp. 61–80.
+Private Communication.

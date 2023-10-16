@@ -1,0 +1,397 @@
+1) INTRODUCTION
+In March 1989 M. Fleischmann and S. Pons [1] reported that a sizeable excess of enthalpy,
+accompanied by a very tiny amount of radioactivity, had been detected in electrolytic cells
+with Palladium (Pd) cathodes during the electrolysis of D2O, provided that the stoichiometric
+ratio x=[D]/[Pd] of Deuterium in Pd had reached a critical threshold. This announcement
+sparked a good deal of controversy which convinced many established journals to neglect the
+topic altogether [2].
+
+The main point at issue was that the claimed excesses of enthalpy were consistent only with a
+nuclear process (fusion of Deuterons) and that such a process at ambient temperature and
+without the emission of a commensurate number of neutrons was considered to be
+inconsistent with modern nuclear science. A possible theoretical understanding of the reported
+phenomenon was proposed by Bressani, Del Giudice and Preparata [3], just in the aftermath
+of Fleischmann-Pons announcement. We refer to Appendix A for a more detailed discussion
+of such a model.  According to this model, 4He should be expected to be the final product of
+this newly discovered form of nuclear fusion.
+
+In the following years many reports of excess heat and Helium have been published, but so
+far no convincing experiment has been published, where the loading x, the excess heat and the
+Helium production are simultaneously measured as a function of short time intervals (less
+than 1 hour). An experimental programme aimed at probing the phenomenological
+consequences of the above theoretical proposal has been launched at ENEA. The programme
+aims at the experimental demonstration that:
+
+i) an electric potential  applied along a one-dimensional cathode (a wire or a deposited stripe)
+is able to depress the chemical potential of D in Pd (for x > 0.7) and enhance the rate of
+loading (Preparata effect) [4];
+
+ii) when x becomes larger than 1, excess heat is generated;
+
+iii) 4He is simultaneously generated, commensurate with the level of the excess enthalpy.
+
+The implementation of this programme has lasted a number of years and it has required
+solving many technological problems. In the present paper we report a first set of
+experimental results.
+
+
+2) THE EXPERIMENTAL SETUP
+
+A simplified block diagram of our experimental lay-out is shown in Fig. 1. It basically consist
+of a small (8.5 cm3) electrolytic cell (Fig. 2a) whose electrodes, kept 5 mm apart, are an
+anode made of a Platinum sheet and a cathode made of a Pd stripe sputtered on an inert
+surface, wound in the so-called “bustrophedic”1 geometry (Fig. 2b). The stripe is typically
+100 cm long, 50 µm wide and 2 µm thick and, when empty, has an electrical resistance R0 of
+about 3KΩ at room temperature. The cell is filled with 5.5 ml of 10-4 M LiOD solution,
+having a conductivity of 104 ± 1 µS/cm. The electrical scheme of the experimental lay-out is
+given in Fig. 3.
+
+The production of stable stripes has required considerable efforts.  During the absorption of
+D, the lattice parameter increases by up to 10% of its length [5], inducing large stresses in the
+sample [6]. Suitable choices of the substrate, of the sputtering parameters and of the etching
+technique (used to pattern the film) have been necessary in order to achieve very robust
+cathodes, capable to survive several load/unload cycles at room temperature.
+
+The amount of D loading is estimated by measuring the ratio of the electrical resistances R/R0
+(where R0 is the resistance of the empty palladium matrix) which is related to the loading
+Bustrophedic means the geometry of the furrows cut in the ground from the plough driven by an ox (from
+west to east and from nort to south)
+
+Fig.1 - Principle diagram of the cell and of the helium sampling circuit. The cell is enclosed in a ultra high
+vacuum (UHV) containment vessel and kept in thermal contact with a Peltier element. The cell is located inside
+a box, thermo-regulated within ± 0.01 °C.  Gases from the cell are collected inside a storage volume. A fraction
+of the gas mixture (sample volume) is periodically sent to the NEG pump and then to the quadrupole mass
+analizer (QMA). The non evaporable getter (NEG) pump, removes to a high degree all non inert components of
+the gas mixture (especially hydrogen isotopes).
+
+Fig. 2 - a) View of the electrolytic cell; b) sketch of the one dimensional (bustrophedic) cathode.
+
+through a well known relationship, verified for a homogeneously loaded sample [7].
+Differences between the measured maximum value of R/R0 and the value given in the
+literature are probably due to a non homogeneous deuterium concentration along the sample.
+
+Fig. 3 - Electrical layout of the experiment. In order to perform the resistance measurement, electric switches
+exclude the electrolytic current during the DC resistance measurement.
+
+The thin film cathode substrate is kept in good thermal contact with a commercial Peltier
+element. During a calibration we have obtained a linear relationship between the power
+dissipated in the cell and the voltage displayed across the contacts of the Peltier element.
+Heat dissipated in the cell produces an increase of the temperature of both the electrolyte and
+the electrodes: the proportionality factor between the power dissipated and the temperature
+(voltage) increase is 17.3±0.3 mW/mV.
+
+The gas mixture flowing from the cell contains mainly O2 and D2 with a very small amount
+of 4He. In such conditions, the Helium peak separation by mass spectrometry is not easy,
+since the e/m values of D2 and 4He are very near to each other. In order to reduce such a large
+background signal we have introduced at the exit of the cell a non evaporable getter (NEG)
+pump, in order to remove to a high degree all non inert components of the gas mixture
+(especially hydrogen isotopes). Obviously, all inert gases are preserved. We have found
+necessary to avoid the use of cryosorption pumps, since they have been found to trap Helium
+erratically in the condensate.
+
+During the measurement, the gas is periodically sampled, without influence on the electrolytic
+process.
+
+According to recommended practice, the high resolution Quadrupole Mass Analyzer (QMA)
+has been carefully calibrated with pure N2, Ar, 4He and D2. Specific 4He and Ar calibrations
+have been carried out statically (“pseudo-static” method), introducing known amounts of gas
+in the analyzer. The pressure inside the analysis chamber has been monitored by the same ion
+gauge used for dynamic calibrations, in order to compare the results. The two methods exhibit
+an excellent agreement.
+
+As already pointed out, getter pumps ensure that virtually all the Deuterium initially present
+in the gaseous mixture is removed.  The absence of a dominant Deuterium peak, which is
+however well resolved by the mass spectrometer, improves considerably the ultimate
+sensitivity to 4He. Checks with 4He -D2 mixtures (about 67% - 33% and 50%) have been
+performed. The partial pressures of the two components have been calculated by dividing the
+intensities of the two peaks (after the subtraction of cross contributions) by the corresponding
+sensitivity for the pure gases, and accounting for the relative sensitivity of the hot cathode ion
+gauge (a conversion factor 6 for 4He and 2.6 for D2). Measured concentrations are in good
+agreement with nominal compositions.
+
+The experimental setup has been extensively calibrated throughout the last two years. The
+facility provides reliable and precise measurements of the content of inert components in any
+gas mixture. Figure 4 is a typical residual spectrum of an air sample. All non inert
+components have been removed effectively in just a few tens of seconds. A mixture with a
+known composition (82% 4He - 13.5% N2 - 4.5% CO2) has been used for quantitative tests.
+Samples of the mixture were introduced at different pressures in the analyzer, according to the
+pseudo-static method. The 4He concentration in the mixture samples was measured to be 86.5
+± 0.6%, in reasonable agreement with the nominal value, taking into account that the
+procedure used to fill the sample volume, through a metering valve and a capillary tube,
+unavoidably gives rise to some helium enrichment of the mixture downstream. The linear fit
+of the experimental data (Fig. 5) shows the very high precision of the measurement.
+
+A “memory effect” has also been detected. When pure helium or the above mentioned
+mixture sample are admitted to the analyzer, the ion current at mass 4 suddenly rises as
+expected to a rigorously constant value. A different behavior is instead observed with air
+samples.  After the initial step, the ion current at mass 4 begins to slowly increase with time.
+Similar effect is not exhibited by the Argon signal.
+
+This effect is reduced significantly soon after baking of the QMA ultra high vacuum (UHV)
+chamber; it then appears again and becomes more and more evident (Fig. 6) as the
+experiments proceed. This fact obviously suggests that 4He is to some extent adsorbed on the
+walls of the analysis chamber and successively released.
+
+Fig 4 - Typical residual spectrum of an air sample. Getter pumps effectively remove non inert components.
+Noble gases are preserved as shown by dominant peaks of Ar+ (mass 40)  and Ar+ + (mass 20). The high
+resolution insert shows that also 4He is preserved, while D2 has been completely removed.
+
+Fig. 5 - In order to test the performance of the system we measured the helium content of a gas mixture having a
+known composition. The high quality of the linear fit accounts for the very high precision of the measurement.
+The quantitative agreement between the measured and the nominal contents accounts for the accuracy of the
+measurement (see details in text).
+
+Fig. 6 - Helium atoms are stripped from the  vacuum chamber walls due to the ion bombardment by other
+species. We have measured the 4He outgassing rate versus the total pressure in the analysis chamber. The
+outgassing, which is very small soon after the baking of the vacuum system, becomes significant after some
+measurement. This effect must be accounted for during the elaboration of the experimental data.
+
+We have suspected that the co-presence of a much larger amount of Argon, during air tests, is
+responsible for this effect, due to the bombardment of the walls by the Argon atoms.  We
+have checked this hypothesis, by injecting increasing amounts of Argon into the chamber,
+under pseudo static vacuum condition. The results are plotted again in Fig. 6. It is quite
+evident that the outgassing rate increases linearly with the Ar pressure.  The occurrence of this
+phenomenon may somewhat affect the results of the analysis, and must be accounted for, in
+order to not overestimate the Helium content. It can be reduced considerably by regularly
+baking the UHV chamber.
+
+The electrochemical cell is connected to the analyzer through a storage circuit (Fig. 1),
+purposely designed to allow for on line analysis of the evolving gases.  The whole circuit has
+been built up using UHV components. Care is taken in order to prevent any possible helium
+contamination.  Before starting an experimental run, both the cell and the circuit are first
+evacuated and tested against leaks, then purged and finally buffered with high purity N70
+Nitrogen (99.99999%). The cell is then filled with the electrolyte taking all precautions in
+order to avoid air contamination. Furthermore, the cell is enclosed inside an UHV
+containment vessel, which is subjected to the same initial testing and purging procedure and is
+finally filled with N70 nitrogen at about 1050 mbar to prevent helium permeation from the
+surroundings. Buffering of the cell and of the sampling circuit has been found to be necessary
+to prevent boil off of the liquid electrolyte during the experiment. Due to the ≈10 ppbV
+content of 4He in the high purity nitrogen, the background in the analyzer is set to about 1012
+atoms. A sample of the N70 nitrogen buffer, however, is analyzed at the end of the
+preliminary purging procedure (just before starting the electrolysis) to set the zero of each
+experimental run. All operations, from initial purging to sample drawing and analysis, are
+carried out with an automatic sequence, in order to ensure a perfect reproducibility of the
+whole process. Relevant parameters are logged on a PC.
+
+The gases evolving during the experiment are collected in the storage volume, which is held
+at a constant pressure (1050 ± 2 mbar). A 6.29% aliquot of this gas (sample volume of Fig. 1)
+is periodically sent to the NEG pump and then to the QMA to be analysed. This procedure
+provides a precise measurement of the number of 4He atoms contained in the gas mixture.
+Since equal quantities of gas are extracted at each sampling, it is very easy to compare, time
+by time, the results of the analysis. The increment of the number of 4He atoms divided by the
+time elapsed between two successive analysis give us an estimate of the Helium yield, and
+hence of the excess power. The particular procedure adopted in the present configuration
+eliminates the need to refill the system with pure N2 after a sample has been extracted, thereby
+also eliminating any perturbation of the electrolytic experiment as well as any alteration of the
+gas mixture composition.
+
+
+3) RESULTS
+
+Out of many measurements, we report here the preliminary results obtained in the last
+experimental campaign. Results of the previous campaign have been analysed and are in good
+qualitative agreement with the results reported here.
+
+The sequence of the different steps in a typical experiment is given in Figs. 7,8 and 9.
+
+1) Preloading phase. A feeble electrolytic current, about 5 mA, is made flow though the cell.
+In a time of about one hour, R/R0 reaches smoothly the peak value of 2 corresponding,
+according to Figure 4a, to the value x=0.7 (beta phase). This state is an equilibrium phase and
+it may be continued indefinitely. During this phase the output power Pout coincides with the
+power Pin supplied by the electrolytic current and the number of 4He atoms is compatible with
+the background value of the detector. At this moment the cold fusion phenomenon is absent
+and these measurements exclude the existence of systematic errors or artefacts.
+
+2) Loading phase. At this point we apply a voltage Vc along the cathode. This voltage is
+applied by increasing proportionally the cell current to a value ranging from 10 to 40 mA
+(corresponding to a current density ranging from 20 to 80 mA/cm2). When the cathode is a
+
+Fig. 7 - R/R0 versus the stoichiometric ratio x (data from reference 6). This graph allows us to derive the value
+of x from the electric resistance of the cathode.
+
+Fig. 8 - Influence of Vcathode on the Pd loading (Preparata effect). In the pre-loading phase small values of
+electrolytic current, and hence of Vcathode, are used to drive the system to the β-phase equilibrium (x = 0.7). The
+resistance R/R0 increases from 1 to 2, where the loading stops. At this point Vcathode is augmented and R/R0 falls
+off abruptly, signalling a further increase of x (loading phase). When x crosses 1 the system enters the super-
+critical phase.
+
+Fig 9 - a) 4He content of the gas mixture inside the storage volume, (b) excess power PHe derived from helium
+yield and (c) average excess calorimetric power PC in the experiment described in the text as case 1. The data
+are shown as a function of time allowing to check the coincidence. During the pre-loading and loading of the
+cathode, we do not observe any anomaly. When the system is driven over the threshold x = 1, entering the super-
+critical phase (see text), an increase of both Pc and PHe is observed. About 12 hours after the switch-off of the
+electrolytic current both Pc and PHe are zero.
+
+plate, such current densities are unable to increase significantly the value of x, at least in a
+time of some hours. When, on the contrary, the cathode is a narrow and thin stripe, as in our
+case, 
+R R0
+drops in a very short time (some minutes) from 2 to about 1.4, as exhibited in
+Fig. 8. In order to verify that indeed we are past the maximum of Fig. 7, we switch off for a
+short time the current, producing a small, temporary Deuterium unloading of the cathode,
+with an observed increase of 
+R R0
+(rather than a decrease). The value 
+R R0
+=1.4 corresponds
+to x ≈1 (see Fig. 7).
+
+3) Supercritical phase. Upon crossing this threshold, “anomalies” appear in the system,
+namely (Fig. 9):
+
+i. A significant deviation of 4He from the baseline is observed from the first time interval of
+40 minutes onwards. The 4He content continuously grows, as long as the system is in the
+supercritical phase.
+
+ii. The temperature of the cathode, as measured by the Peltier element, increases above the
+previous equilibrium value, signalling a source of enthalpy in the cell.
+
+The two above anomalies, within the respective typical response times (40 min. for 4He and
+about 300 sec. for the Peltier system) occur simultaneously. From the amount of Helium,
+under the assumption of the conversion 2D→4He+23.8 MeV, one can estimate the produced
+power. We find that such power PHe  generally exceeds the power Pc trivially estimated by the
+Peltier system. This point will be better elucidated further on.
+
+4) Control phase. After some hours of cell operation, the cathode potential Vc is switched off:
+both anomalies i) and ii) disappear, i.e. PHe and Pc settle back to the initial zero value. Soon
+after the swith-off, the loading x drops below the threshold and PC falls to zero within the time
+constant of the Peltier transducer. After 12 hours, a check of the 4He content inside the storage
+volume shows that no further changes have occurred, excluding leakage or permeations.
+
+We now describe separately three experimental cases:
+Case 1 – Fig. 9. In this run Pc ≈ 19 mW and PHe ≈ 240 mW. This huge mismatch (PHe ≈12.3 Pc)
+suggests that most of the heat has been missed by the Peltier element.
+
+Case 2 – In these experiments we were not able to reach a loading higher than x=1, thus we
+obtained only low values of the excess power (ranging from 5  to 10 mW). In this case PHe≈Pc,
+with little or no mismatch.
+
+Case 3 – Fig. 10. While in the supercritical phase, with a Peltier reading of Pc≈20 mW, the
+cathode suddenly melted. The electric parameters (current and voltage) measured during this
+run did not account for an electrical cause of the melting; furthermore, as seen in Fig. 10, the
+extended damage in many separated subsections makes unlikely the hypothesis of a melting
+due to Joule effect. The melting occurred where the potential Vc was most negative and then,
+according to the Preparata effect (see the Appendix A), the cathode most highly loaded. The
+molten section accounted for the 5% of the total volume. The accident of the “molten”
+cathode provides evidence that at high temperature the bulk of the excess energy escapes the
+thermal calorimeter as has been suggested above.
+
+Fig. 10 - Picture of a cathode molten during an experimental run. The electric parameters (current and voltage)
+measured during this run did not account for an electrical cause of the melting; furthermore the extended
+damage in many separated subsections makes unlikely the hypothesis of a melting due to Joule effect.
+
+The measurement of PHe is by far a more reliable measurement of the power produced in the
+supercritical phase, while the Peltier element is providing only a qualitative indication of the
+excess enthalpy, as discussed in the Appendix A. Case 3 proves that huge temperatures have
+been produced somewhere in the stripe, the melting point of Pd being as much as 1828 K. At
+such temperatures, the dominant channel of heat dissipation is Stefan-Boltzmann radiation,
+which is obviously only poorly recorded by the simple Peltier device. The melting interests
+about 5% of the stripe, for which the radiated power will be as much as 3.15 W! This
+description is further confirmed by the other measurements. In Case 2 — at very low power
+(10 mW) as measured by the Helium yield and therefore at small peak temperatures — there
+is good agreement PHe ≈ Pc while, in Case 1, at a higher power (240 mW) and hence at much
+higher peak temperatures, the discrepancy is apparent.
+
+Therefore this mismatch is increasing with the produced power level and it is well understood
+by the non equilibrium thermal conditions in the immediate vicinity of the stripe and the
+consequent leakage of a major fraction of the produced heat by radiation.
+
+The huge difference in cold fusion yields in these three cases, suggests that it is a rapidly
+varying function of x above the threshold.
+
+A definitive check of this phenomenology will be performed in the near future by observing
+directly the radiation emitted by the supercritical stripe, for instance with help of an Infrared
+(IR) camera.
+
+
+4) CONCLUSIONS
+
+The experiments performed so far suggest the following conclusions:
+
+i) The Preparata effect has been experimentally validated beyond any doubt: in every
+experiment we have been able to produce the results illustrated in Fig. 8. These results
+provide simultaneously a) evidence that deuterons are in a coherent state (see Appendix A), b)
+a very effective method of loading one-dimensional cathodes.
+
+ii) The reported production of excess heat and Helium occur above a critical threshold of D
+concentration in Pd. The observed threshold is compatible with the value x = 1 predicted by
+the theory (see Appendix A) [3,8].
+
+iii)The presence of 4He provides evidence that a nuclear process occurred in the cell; a
+nuclear reaction has been obtained with purely chemical procedures.
+
+PHe observed in Case 1 is compatible with the values of excess heat reported by Fleischmann
+[9] and by Preparata [10], with a highly reliable "isoperibolic" calorimetry.
+
+In the next stage of the experiments we will try to improve the thermal calorimetry with the
+help of an IR camera, capable to detect the local temperature of the hot spots of the cathode.
+
+Furthermore we will search for possible new nuclear species produced by the very high
+frequency EM field associated to coherent nuclear processes subsequent to the 2D → 4He
+transmutation. There is preliminary indication [11] that Ni nuclei may be present in cathodes,
+subsequently to cold fusion.
+
+
+REFERENCES
+
+M. Fleischmann, S.J. Pons, J. of Electroanal. Chem. 261, 301 (1989).
+“Farewell (not fond) to cold fusion”, Editorial of Nature 344, 365 (1990).
+
+T. Bressani, E. Del Giudice, G. Preparata, Nuovo Cimento 101A, 845 (1989).
+
+G. Preparata, unpublished, see also Ref. 19.
+
+R. Felici et al. Rev. Sci. Inst. 66(5), 3344 (1995).
+
+A. De Ninno, A. La Barbera, V. Violante, Phys. Rev. B56, 2417 (1997).
+
+G. Bambakidis et al., Phys. Rev. 177,1044 (1969).
+
+G. Preparata, QED Coherence in Matter, (World Scientific Singapore, 1995), see in
+particular ch. 8
+M. Fleischmann et al., J. of Electroanal. Chem. 287, 293 (1990).
+
+
+10. G. Preparata M. Scorletti, M. Verpelli, J. of Electroanal. Chem. 411, 9 (1996).
+
+11. X.Z. Li et al.  Proceedings of 8th International Conference on Cold Fusion, ICCF-8,
+
+Lerici 2000, edited by F. Scaramuzzi (SIF Bologna 2000), Vol. 70, p. 123.
+
+
+12. G. Alefeld and J. Volkl, Hydrogen In Metals, Vol. I, II (Springer-Verlag 1978).
+
+13. A. Cöhn, Z. Elektrochem. 35, 676 (1929).
+
+14. M. Fleischmann, S. Pons, G. Preparata, Nuovo Cimento 105A, 763 (1992).
+
+15. B. Dandapani, M. Fleischmann, J. of Electroanal. Chem. 39, 323 (1972).
+
+16. R. Wisniewski, J. Rostocki, Phys. Rev. B3(2), 251 (1971).
+
+17. A. Sievert, W. Danz: Z. Physik. Chem. B38, 61 (1937).
+
+18. J.B. Huizenga, Cold Fusion: The Scientific Fiasco Of The Century, (Oxford University
+
+Press 1993).
+
+
+19. M. Cola, E. Del Giudice, A. De Ninno, G. Preparata, Proceedings of 8th
+
+International Conference on Cold Fusion (ICCF-8), Lerici 2000, edited by F.
+
+Scaramuzzi (SIF Bologna 2000), Vol. 70, p. 349.
+
+
+20. Y. Aharonov, D. Böhm, Phys. Rev. 11, 485 (1959).
+
+21. G. Preparata Proceedings of 5th International Conference on Cold Fusion (ICCF-5),
+
+Montecarlo - Monaco 1995, p. 265.
+
+Edito dall'
+Unità Comunicazione e Informazione
+Lungotevere Grande Ammiraglio Thaon di Revel, 76 - 00196 Roma
+Stampa: Centro Stampa Tecnografico - C. R. Frascati 
+www.enea.it
+Finito di stampare nel mese di Novembre 2002

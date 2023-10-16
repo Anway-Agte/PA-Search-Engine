@@ -1,0 +1,156 @@
+1. Introduction
+
+Takahashi and coworkers presented a useful assessment of the theoretical situation at ICCF5 [1], which remains relevant
+at the present time. Four scenarios were described, which we will outline here. In the first scenario, an aneutronic
+conventional fusion reaction is responsible for the excess heat, with the energetic fusion products hidden. In the second
+scenario, the reaction energy is communicated directly to the lattice, with no production of energetic particles. The third
+scenario is an exotic chemical or mechanical source for the energy, with weak associated nuclear emission. Finally, the
+fourth scenario is one in which the excess heat can be attributed to error.
+
+Time and many experiments have provided ample evidence against the last of these scenarios, as there have been
+a great many replications of the excess heat effect. There have not appeared to the author’s knowledge any credible
+proposal for exotic chemical or mechanical sources for the energy. To the contrary, the amount of energy produced in
+some experiments has been sufficiently large that there simply cannot be exotic chemical or mechanical sources. We
+have been interested in the second scenario since March, 1989; subsequently we reported on our progress at the ICCF
+conference series over the years.
+
+However, in recent months we have developed an interest in the first scenario. Our interest has come about from a
+series ofworkshops that were held at the Naval Postgraduate School that were in part focused on the issue of mechanism.
+Some notable physicists were present, and after being exposed to some of the experimental results, their response was
+to put forth a number of proposals centered squarely within what Takahashi et al. described within their ﬁrst scenario.
+
+In these proposals, deuterons would in one fashion or another come together to produce 4He, which would then
+carry away part of the reaction energy. The idea in these proposals was to try to have the overall mechanism remain
+consistent with one of the foundations of nuclear physics; that the reaction energy must be expressed as kinetic energy
+of the products as a consequence of energy and momentum conservation. At issue was the question of whether the
+reaction proceeds in a way consistent with the ﬁrst scenario, or instead whether the reaction energy is communicated
+directly to low energy condensed matter degrees of freedom.
+
+In the end, we were not able to come to an agreement. On the one hand, a spirited defense of the ﬁrst scenario,
+energetic particles, and the established aforementioned foundation, was put forth; any radically new approach that
+would involve the direct communication of reaction energy to condensed matter modes was judged to be too farfetched
+to be worthy of serious consideration. On the other hand, an equally spirited argument was put forth that the proposals
+involving “hidden” energetic products was simply inconsistent with experiment.
+
+So, in the months following these meetings, some effort on our part has gone into an attempt to quantify the situation
+with respect to the hidden particles. In the workshop discussions, the focus was on an energetic alpha as the hidden
+particle. However, in order to understand quantitatively the yield of observable products due to energetic alpha particles,
+one ﬁrst has to understand the yield of energetic deuterons. The reason for this is that one important way that energetic
+alphas give rise to neutron emission is through energetic deuterons produced from head on collisions with the alpha
+particles. So, to begin the analysis, we ﬁrst need to determine the yield of an energetic deuteron.
+
+At ICCF15, Storms put forth ideas about an energy release mechanism in which MeV reaction energy would be
+shared among a large number of deuterons in a cluster [2]. In some ways these ideas are like proposals due to Kim [3],
+in which the reaction energy would be shared with a large number of deuterons which he has proposed to condense in
+a Bose–Einstein condensate. Our focus here is not on the issues, merits, or challenges associated with these proposals.
+
+Instead, the results that we have obtained are useful in helping to quantify how many deuterons the reaction energy
+would have to be shared with in order to be consistent with experiment.
+
+Figure 1.
+Stopping power for deuterons in PdD from SRIM2008.
+
+Figure 2.
+Stopping power for energetic deuterons in D2O from SRIM2008.
+
+
+2. Stopping power of deuterons in PdD and in D2O
+
+We have used the SRIM-2008 code of J. F. Ziegler, J. P. Biersack and U. Littmark to compute the stopping power of
+energetic deuterons in PdD and in D2O. The stopping power for energetic deuterons in PdD is shown in Fig. 1, and the
+stopping power in D2O is shown in Fig. 2. To construct these plots, we used a density of 10.921 g/cm3 for PdD, and a
+density of 1.10 g/cm3 for D2O.
+
+From a knowledge of the stopping power, one can compute the associated range using
+
+Results for the range in the two cases are shown in Fig. 3.
+
+
+3. Yield of neutrons from 2H(2H,n)3He reactions
+
+To compute the neutron yield from deuteron–deuteron fusion reactions, we need to integrate the product of the cross
+section and deuteron density over the deuteron trajectory as it slows down
+Results of computations of the yield are shown in Fig. 4. For these calculations, we took the screening energy Ue to be
+800 eV for PdD, and 25 eV for D2O.
+
+Figure 3.
+Range of energetic deuterons in PdD (lower curve) and in D2O (upper curve).
+
+
+4. Upper limits from experiment
+
+The experimental data set associated with the Fleischmann–Pons experiment is often perplexing and not always con-
+sistent. With respect to the presence of low-level neutron emissions correlated with excess heat, one ﬁnd mostly the
+absence of a correlation. In our view, there are different regimes where different effects are observed. For example in
+the case of a Fleischmann–Pons type rod cathode, excess heat is observed at higher current densities (several hundred
+mA/cm2), while neutron emission is associated with lower current densities (tens of mA/cm2).
+
+If so, then of interest in the present discussion is the question of how many neutrons are seen when a system is
+running well, producing excess heat, and very little in the way of energetic emissions. This case presents the strictest
+constraints in regard to theoretical models.
+
+Takahashi and coworkers reported on measurements of excess heat and neutron emission using Takahashi’s high–
+low current protocol [4]. From our perspective, we would associate neutron emission with the low current part of the
+protocol, and excess heat with the high current part of the protocol. The data presented in this paper probably can be
+considered to support this notion weakly. In any event, there are numbers given both for excess power and for neutron
+emission above background from which we can extract a ratio. The source neutron emission rate is on the order of
+1 n/s, largely uncorrelated with the presence of excess heat. The excess power is seen to reach about 100 W. Using
+these numbers leads to an estimate of 0.01 n/J.
+
+Gozzi et al. reported positive measurements of excess heat run with neutron detection at ICCF4 [5]. In this
+case, excess power at levels on the order of 15 W, with no neutron emission above background.
+In the confer-
+ence proceedings paper, the detector efﬁciency is not given.
+However, the detector was discussed in an earlier
+paper [6], and also in [7], and an efﬁciency of 22% is given.
+Using this efﬁciency, the background is about
+35 neutrons counted in 10 min per segment, which corresponds to 12(0.265) = 3.2 source neutrons/s equiva-
+lent. We will assume that signals on the order of 10% of this number are detectable. The peak excess power in
+some of the bursts are in the range of 10-15 W. This leads to a limit on neutron production as low as 0.021 n/J.
+
+Figure 4.
+Yield of neutrons due to deuteron–deuteron fusion reactions in PdD (lower curve) and in D2O (upper curve).
+
+Scott et al. reported observations of excess heat at the same time that neutrons were detected [8]. In this case,
+excess heat was observed at the level of 4 W. Neutrons were monitored with an NE-213 detector with an efﬁciency of
+0.00146, with a background of about 40 counts per day (about 0.32 n/s). If we assume that signals could be detected
+at the level of 10% of background, the associated upper limit is 0.008 n/J.
+
+To compare with the calculations above, we have plotted the neutron yield divided by energy in comparable units
+(see Fig. 5). We see that in order to be consistent with the 0.008 n/J, that the upper limit on the deuteron energy is
+about 890 eV in the case of PdD. For low-energy deuterons in D2O, the yield is less due to the weaker screening in this
+model.
+
+
+5. Discussion
+
+It has been suggested that the energy produced in the Fleischmann–Pons experiment is released as kinetic energy
+in a large number of low energy nuclei.
+Since most of the light nuclei in a Fleischmann–Pons experiment are
+deuterons, then one possibility is that the reaction energy is somehow distributed over a large number of deuterons,
+as has been discussed by Kim, and also by Storms.
+If so, then in order to be consistent with the experimental
+results discussed above, the average deuteron energy would have to be less than 900 eV if the deuterons remain
+in PdD. If the reaction energy is assumed to be 24 MeV, then this energy would need to be shared with at least
+26,000 deuterons if all deuterons had the same energy. If the sharing process resulted in a thermal distribution, then
+probably more deuterons would be needed in order to reduce the contribution from the high energy tail of the ther-
+mal distribution. In Kim’s paper [3], it is assumed that the energy is shared by on the order of 1010 deuterons.
+
+Figure 5.
+Yield of neutrons per unit energy due to deuteron–deuteron fusion reactions in PdD (black) and in D2O (blue); also shown are results for
+PdD using 400 and 0 eV for the screening energy (gray).
+
+
+References
+
+[1] A. Takahashi, T. Inokuchi, Y. Chimi, T. Ikegawa, N. Kaji, Y. Nitta, K. Kobayashi, and M. Taniguchi, Proc. ICCF5, p. 69, 1995.
+[2] X. Z. Li, B. Liu, S. Chen, Q. M. Wei, and H. Hora, Laser and Particle Beams 22 (2004) 469.
+[3] Y. Kim, Naturwissenschaften 96 (2009) 803.
+[4] A. Takahashi, A. Mega, T. Takeuchi, Proc. ICCF3, p.79, 1993.
+[5] D. Gozzi, R. Caputo, P. L. Cignini, M. Tomellini, G. Gigli, G. Balducci, E. Cisbani, S. Frullani, F. Garibaldi, M. Jodice, G. M.
+Urciuoli, Proc. ICCF4, Vol. 1, p. 2-1, 1994.
+[6] D. Gozzi, P. L. Cignini, R. Caputo, M. Tomellini, G. Balducci, G. Gigli, E. Cisbani, S. Frullani, F. Garibaldi, M. Jodice, G. M.
+Urciuoli, Proc. ICCF3, p. 155, 1993.
+[7] E. Cisbani, G. M. Urciuoli, S. Frullani, F. Garibaldi, F. Giuliani, D. Gozzi, M. Gricia, M. Iodice, M. Lucentini, F. Santavenere,
+Nucl. Instr. Meth. A 459 (2001) 247.
+[8] C. D. Scott, J. E. Mrochek, T. C. Scott, G. E. Michaels, E. Newman, M. Petek M, Fusion Technol. 18 (1990) 103.

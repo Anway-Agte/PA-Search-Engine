@@ -1,0 +1,182 @@
+1. Introduction
+
+In presence of a force F the Hydrogen flux in the lattice (as a continuum) is well described by the
+law:
+
+J = -nDgradc + ncMF (1)
+
+where c is the H atomic concentration, D is the diffusion coefficient , M is the H mobility and n
+is the number of lattice atoms per unit volume.
+
+Stress gradients within a sample cause an additional force on the Hydrogen interstitials:
+(2)
+
+where P is the trace of the dipole-moment tensor and Sijkl and O'kl are tensor components of the
+elastic coefficient and of the stresses respectively.
+
+The stress induced by Hydrogen diffusive flux will cause an inhomogeneous distribution of the
+solute. The eq. (1) will be in this case: 
+
+V l=-D(Vc--Va)
+RT (3)
+
+where V is the molar volume of Hydrogen into the metal. Kandasamy [1] showed that a suitable
+strain can stop the diffusion of Hydrogen driven by the concentration gradient.
+If internal stresses can be removed either by plastic deformation or by dislocation slipping, such
+stress-free strained crystal can be defined "incoherent". In the opposite case a deformation field
+will be associated to the strain and the crystal can be defined "coherent". The "real" crystal will
+be a mixture of the two cases depending on the initial metallurgical state.
+
+From (3) it follows that the diffusive flux can be blocked if
+
+RT Va=-Vc
+cV
+(4)
+
+assuming V c = c - 0, a = 140 MP a (V = 1.68 cm3 /mol, c= 0. 7) that is a typical value of yield
+strees for Palladium [2]. This means that the stress produced by loading Hydrogen (and its
+isotopes) in Palladium can induce plastic deformations into the lattice.
+Thus the loading dynamic it is very important in order to avoid the dislocation growth related to a
+strong concentration gradient. 
+
+
+2. Dynamic influence on loading process
+
+Starting a diffusive process can produce very high strain field just under the surface thus making 
+the further Hydrogen uptake very difficult. 
+
+We can overcome the problem essentially in two ways. Firstly avoiding the growth of strong 
+concentration gradient either with a very slow loading or with a suitable loading procedure. The 
+second approach is to relieve the stresses generated in the metal through dislocation slipping. 
+
+The adsorption isotherms for Hydrogen in Palladium show that, at room temperature and for a 
+concentration above c=0.008 H/Pd atoms, an a phase with low Hydrogen content and an expanded, 
+Hydrogen-rich, /3 phase coexist in the solid solution up to a concentration of c=0.607. It is well 
+known that during the loading expanded /3 areas grow near the a areas, so that, during the 
+coexistence phase, very strong deformation fields are generated at the border of the two phases, 
+due to the different lattice parameters. 
+
+Coexistence of a+ {3 phases can be avoided during the loading process by selecting an appropriate 
+path on the p-c(D)-T diagram (see fig. I). Increasing the isothermal temperature over the critical 
+point (T=310°C, p=34 atm) it is possible to reduce the percentage of non-relaxed stresses by 
+skipping the coexistance phase. 
+
+Figure I - Hydrogen-Palladium phase diagram. The gas loading experimental 
+path is the line ABC. A thermodinamic quasi-reversible process must be 
+obtained with a slow loading. At the end of the loading sequence the loading 
+ratio is evaluated by weighting the sample. 
+
+
+3. Experimental details
+
+Palladium 14 by 10 mm sheets 150 µm thick were submitted to cathodic discharge in Li OH
+solution. The Hydrogen concentration was monitored, measuring the variation of electrical
+resistance with a lock-in amplifier based system. The ratio R(c)/R(c=0), defined in the following
+as R!Ro, is related to the concentration c so that it is possible to follow the concentration in real
+time during the electrolysis. Samples were temperature treated in vacuum for 0.5 hour at 900 °C.
+
+We compare the maximum loading reached with two different procedures: 
+
+•
+a) sheet was charged in electrolysis ;
+
+•
+b) sheet was pre-charged in H2 gas.
+
+The loading procedure for the pre-charged samples is the following:
+the Palladium sheets were heated to 400 °C under vacuum and then Hydrogen pressure of 40 atm
+was set up. A very slow cooling to room temperature keeping the pressure constant was performed
+and, after a suitable time, the vessel was evacuated. This path allows to skip the coexistence phase
+avoiding the growth of high stress field at the border of a-� phases (see fig. 2): the curve (a)
+refers to sample loaded only in electrolysis without any particular care, the current density being
+1=2.5 mA/cm2 ; the curve (b) refers to a sample pre-loaded in gas and then electrolyzed as the
+previous one.
+
+It is very clear the effect of the different loading procedure.
+
+A further concentration increase is obtained allowing both the stress relieve through the anodic
+stripping ( a short anodization of Pd) of the surface and the reduction of the concentration gradient
+changing the current density periodically (see fig.3).
+
+Figure 2 - Comparison of loading curves.
+a) sample loaded only by electrolysis. I = 10 mA (2.5 mA/cm2)
+b) sample pre-loaded in gas phase and then electrolyzed.
+
+0.01 u:
+Time (days)
+Figure 3 - Anodic stripping effect. Here the anodic stripping (current
+sign change) accelerated the loading process. A further current
+increase stabilized the concentration. In this experiment the maximum
+value of concentration is close to 1.
+
+
+4. The influence of the microstructure
+
+The metallurgical character of Pd could strongly affect the final loading ratio. 
+Assuming that the main problem is to avoid high stress field inside the lattice we must choose the 
+best metallurgical structure for such a goal. 
+
+• the grain influence both the diffusion times and the elastic energy storage
+
+• the defects density affects the possibility to relieve stresses through the dislocation slipping
+
+• the recristallization determines the grain boundary size
+
+We investigated on the above mentioned parameters on samples cold worked and heat conditioned 
+and found a clear effect of the heat treatment temperature on the final loading ratio (see. Fig.4). 
+
+Fig.5 shows three different samples: 
+
+Figure 4 - Influence of thermal treatment on the maximum loading achievable. 
+
+Figure 5 a) the lattice is strongly deformed because of the cold working with a very high dislocation
+density
+b) same as above and thermal
+treated at 800 °C for 4 hours 
+c) thermal treated at 1100 °C for 0.5
+hours.
+
+•Fig. Sa) the lattice is strongly deformed because of the cold working with a very high dislocation
+density
+•Fig. 5b) thermal treatment induces the slipping of the dislocation that arranges in percolative
+paths.
+•Fig. 5c) a too high temperature causes a too big grain growth and destroys the network formed
+before.
+
+
+5. Conclusions
+
+On the basis of both the ideas examined in the introduction and the experimental activity we found
+that:
+
+•
+the self-stress due to Hydrogen loading into the lattice is mostly responsible for the difficulty in
+obtaining high loading ratios.
+
+•
+the maximum loading ratio achievable for each sample is strongly conditioned by the loading
+dynamic
+
+•
+the initial metallurgical state of the sample can be chosen in order to minimize the growth of an
+high strain field growth.
+
+Studying both the experimental procedures and the initial metallurgical state of the sample we 
+improved the reproducibility in obtaining high concentration of Hydrogen in Palladium, 
+increasing the maximum loading ratio achievable in electrolysis ( c::::l H/Pd) at room temperature 
+and using very low current density ( of about 10 mA/cm2). 
+
+We obtained same results for Deuterium-Palladium system too [3]. 
+
+These results look very promising to improve the reproducibility of the cold fusion experiment and 
+to prove that the concentration threshold to overcame is a necessary and sufficient condition to 
+obtain the heat excess. 
+
+
+Bibliography 
+
+K.Kandasamy, J. Hydrogen Energy 20, (1995), 455-463
+R.A. Oriani, Trans. Fusion Technol. 26 (1994), 235
+A. De Ninno, A. La Barbera, V. Violante, submitted to 'MH96' Internat. Symp. on Metal­
+Hydrogen Systems, Les Diablerets, Aug. 1996
+ICCF-6 October 13-18, 1996 Japan I 

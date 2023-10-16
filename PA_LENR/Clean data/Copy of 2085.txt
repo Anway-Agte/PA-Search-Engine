@@ -1,0 +1,150 @@
+1. Introduction
+
+There have been many reports of experimental evidences for LENR processes in condensed matters as documented in a recent review document submitted for a DOE review [1] and as reported in the Proceedings of ICCF-10 [2]. However, most of experimental results cannot be reproduced on demand. This difficulty appears to be mainly due to (1) the complexities of the experimental set-ups involving many materials (including impurities), (2) numerous variation of experimental input parameters, and (3) the reported results are small effects. This situation has prevented us from development of a coherent theoretical understanding or working theortical model of the phenomenon which can be used to guide us in carrying out new experimental tests to sort out essential parameters and controls needed to achieve reproducibility on demand (ROD). In this paper, we propose such experimental tests based on a theoretical model of the BEC mechanism.
+
+
+2. Experimental Status: Surface versus Bulk
+
+There have been persistent discussions of whether LENR processes in condensed matters are surface phenomena (SP) occuring in the surface regions or bulk phenomenon (BP) in the bulk of the deuterated metals [3-7]. There are now many experimental results supporting the surface phenomena senario as documented by Storms [6]. The enhancement of excess power using laser stimulations that have been observed in electrolysis experiments [7] suggests that the process is due to surface phenomena.
+
+The most recent experimental evidence supporting the SP senario comes from experiments performed by Szpak et al. [8,9] in which a Ni wire mesh cathode is immersed in an electrolyte consisting of the heavy water, LiO, and PdCl2. Excess heat was observed without bulk metals in three experiments.
+If the LENR and transmutation processes in condensed matters turn out to be a surface phenomena, the BEC mechanism may provide a suitable theoretical frame work to explain the phenomena. Furthermore, the use of micro/nano scale porous materials is expected to enhance the phenomena by many order of magnitude, thus providing better ROD and theoretical understanding of the phenomena.
+
+
+3. Predictions of the BEC Mechanism
+
+Theoretical studies of the BEC mechanism have been carried out using an approximate solution to the many-body Schroedinger equation for a system of N identical charged, integral- spinnuclei(“Bose"nuclei)confinediniontraps[10-13]. The ground-state solution is used to obtain theoretical formulae for estimating the probabilities and rates of nuclear fusion for N identical Bose nuclei confined in an ion trap or an atomic cluster. One of the main predictions is that the Coulomb interaction between two charged bosons may be suppressed for the large N case and hence the conventional Gamow factor may be absent. The theory has been used to analyze LENR experiments involving both atomic clusters (Pd black powders [14]) and acoustic cavitations [15]. Recently, the one-specie LENR theory of the BEC mechanism [10-13] used for reactions such as (D+D) has been generalized to the two-species case and applied to (D+Li) reactions [16]. In this section, we summarize the results and predictions of two-species BEC mechanism for LENR and the transmutation processes[16].
+
+3.1 Effective Temperature Dependence
+The only unknown parameter of the theory is the probability of the BEC ground-state occupation, . Since  is expected to increase as the effective temperature of the BEC decreases, the nuclear reaction rates for the BEC mechanism are expected to increase at lower temperatures.
+
+3.2 Selection Rules
+There are two selection rules found from the theory for the BEC mechanism when applied to LENR and the transmutation process. (1) nuclear spin selection rule and (2) nuclear mass-charge selection rule. Selection rule (1) is exact while selection rule (2) is approximate.
+(1) The Nuclear Spin Selection Rule:
+The nuclear spins of both species must be integer. This rule is obvious for the BEC mechanism.
+(2) The Nuclear Mass-Charge Selection Rule:
+This approximate selection rule is given by the following relation
+where Ñi is the number of neutrons in the Bose nucleus for the specie i. We note that the above relation is satisfied, for example, for two species with Zi=Ñi.
+
+3.3 Fusion Rates
+For the two species case, the short-range nuclear interaction is approximated by a Fermi pseudo-potential [10] and takes the generalized form;
+where the nuclear reaction rate constants Aij are given by (no sum over i and j implied)
+withr(ij)h2/(2ZZe2)andmm/(mm). S istheS-factorfornuclearfusion B ijij ijijijij
+between two nuclei of specie i and j.
+The nucleus-nucleus fusion rate is determined from the trapped ground state wave function 
+as and in the mean-field approximation, we have R11=A11N1n1B/2, R12=A12N1n2B, and
+R =A N n B/2,where nB N /((4/3)R3). N isthetotalnumberofspeciei,and R isthe 222222 i i i i i
+radius of the trap for specie i.
+If the probabilities of the mean-field ground state occupation [10], i, are taken into account,
+the trap fusion rates are given by R t R , R t R , and Rt =ΩR . We expect that
+
+3.4 Application to (D+Li) Reactions
+For the reaction 6 Li(d,)4 He (Q=22.37 Mev) and the reaction, 7 Li(d,n)24 He (Q=15.12 Mev), the S-factors are 18.8 Mev-barn[17,18] and 30 Mev-barn [19], respectively (see Tables 1 and 2). Using these values the corresponding nuclear reaction rate constants are found to be Ad6Li 5.81015cm3 /sec and Ad7Li 8.971015cm3 /sec which are about 50 times larger than
+the d-d nuclear reaction rate constant Add 1.51016 cm3 / sec .
+
+We expect that the nuclear reaction rate constants for 6Li(6Li,5Li)7Li (Q=1.86 Mev) and
+6 Li(6 Li,)24 He (Q=20.897 Mev) are much smaller than Ad6Li.
+If the (D+7Li) reaction rate is controlled by the BEC mechanism then it is expected to be suppressed relative to the (D+6Li) reaction rate due to selection rule (1). This is consistent with the Arata-Zhang experiments [22-25] which report a depletion of 6Li [20,21], inferred from the increased 7Li/6Li abundance ratio found from observations of particulate Pd exposed to deuterium gas [22-25].
+The excess heat and 4He observed in electrolysis experiments [22-25] may be due to the reaction 6 Li(d,)4 He in addition to other reactions leading to final states without 4He (see
+Tables 1 and 2). This would be an alternative scenario to the (D+D) reaction scenario which has been proposed by many other authors [1].
+
+
+4. Proposed Experiments
+
+Recent advances in nanotechnology have produced a variety of novel materials that exhibit well-defined features with nanometer-scale dimensions. We propose a number of experiments well suited to utilize for the micro-scale or nano-scale cavities in porous vycor glass [26], aerogel [27], nanogel (aerogel bead of a few mm diameter) [28], and ordered nanoporous thin films [29]. Porous vycor glass, aerogel, and nanogel have interconnecting cavities or pores with average pore diameter of ~10nm. After saturating these materials with deuterium gas, heavy water, or other deuterated materials, and stimulating them with lasers, electromagnetic fields, or acoustic waves or other energy sources, these special materials may readily illustrate LENR phenomena. The experimental signatures (nuclear emissions, fast neutrons, etc.) in these porous materials [26- 29]aswelasinelectricalyconductingcarbonaerogels[30]and“pocofoam”[31]mayenhance LENR and allow them to be studied as a function of pressure and temperature.
+
+For ordered nanoporous thin films [29], substantial effort is currently directed at developing better control of their composition and structure. Unlike many materials that have broad pore size distributions and poorly defined pores, the ordered nanoporous films now being investigated currently have pores of well-defined size, geometry, connectivity, and orientation. Pore diameter is precisely controlled and tuned to range from 2 nm to over 30 nm using a variety of synthesis chemistries that employ solution phase self-assembly[32]. Because of this precise control of the pore diameter, ordered nanoporous thin films are ideal materials to study the pore size dependence for our new proposed experiments to illustrate LENR. Additional flexibility is possible because nanoporous thin films can be synthesized by dip coating and spin coating to yield nanoporous insulating silica [33], wide band gap semiconducting titania, tin oxide [34], and carbon [35] structures.
+
+We propose to use microporous or nanopourous materials in the following types of experiments:
+(1) electrolysis experiements of Fleischman-Pons[1,2,6,8,25,37-40], (2) gas experiments[14,22,23,24,41],
+(3) nuclear emission experiments[42,43],
+(4) transient acoustic cavitation experiments[44], and
+(5) deutreon beam experiments[45,46].
+The microporous or nanoporous materials that will be studied include: vycor glasses[26], aerogels[27], nanogels[28], ordered nanoporous thin films[29], carbon arerogels[30], and pocofoams[31].
+In all of the proposed experiments the possibility of (D+Li) reactions in addition to (D+D) reactions should be investigated by using 6Li and 7Li separately in experiments, as tests of the predictions for the BEC mechanism described in section 3.
+
+
+5. Summary and Conclusions
+
+In most of the experiments reporting LENR and transmution processes in condensed
+matters, low counting rates and lack of reproductability on demand are obstacles preventing the extraction of essential parameters and controls required for unequivical proof of LENR phenomena. These difficulties in turn prevent a complete theoretical understanding of these processes.
+
+There are now many experimental indications that these processes are surface phenomena [6-9]. The recently proposed BEC mechanism[10-14] may provide a suitable theoretical description of the surface phenomena. In order to test the predictions of the BEC mechanism described in secion 3, we propose to use microporous or nanoporous materials[26-31] in electrolysis experiments[1,2,6,8,25,37-40], gas experiments[14,22-24,41], and nuclear emission experiments [42,43], transient acoustic cavitation experiments [44], and deuteron beam experiments[45,46].
+
+The use of microporous or nanoporous materials in these experiments is expected to enhance the observed effect by many order of magnitude if the observed processes are surface phenomena. Because these materials have active surfaces substatically larger than other materials when comparing their surface area of a bulk volume. This enhancement will help us to overcome lack of reproducibility on demand and to develop a better theoretical understanding of the process.
+
+
+6. References
+
+1.P.L.Hagelstein,M.C.McKubre,D.J.Nagel,T.A.Chub b,and R.J.Hekman,“New
+PhysicalEfectsinMetalDeuterides”,submitedtoDOEforareview,July204,and references therin. This report was posted December 1, 2004 at the DOE website: http://www.sc.doe.gov
+2. See experimental papers in the Proceedings of the 10th International conference on Cold Fusion (ICCF-10), 2003, Cambridge, Massachusets.
+3.Y.E.Kim,“NuclearPhysicsInterpretation ofCold Fusion and OptimalDesignsfor Gas/Solid-StateDevice”,the8th Worlld Hydrogen Energy Conference, 1990, Honolulu, Hawaii.
+4. Y.E.Kim,“SurfaceReactionMechanism andLeptonScreningforColdFusinwith Electrolysis”,theFirstAnualConferenceonColdFusion,190,SaltLakeCity,Utah.
+5.Y.E.Kim,“SurfaceReactionTheoryofColdandWarm Fusion”,AnomalousNuclear Effects in Deuterium/Solid Systems, AIP Conference Proceedings 228, American Institute of Physics, New York, 1990, Provo, Utah.
+6.E.Storms,“WhatConditionsAreRequiredtoInitiatetheLENREfect?”,Procedingsof ICCF-10, 2003, Cambridge, Massachusetts; E.Storms,“WhyColdFusionHasBenSo HardtoExplainandDuplicate”,TheAPSConference,March3-7, 2003, Austin, Texas.
+7.D.LetsandD.Cravens,“LaserStimulationofDeuteratedPaladium:PastandPresent,” Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+8. S. Szpak, P.A. Mosier-Bos,J.Dea,andF.Gordon,“PolarizedD+/Pd-D2O System: Hot Spots and ‘Mini-Explosions’”, the Procedings of ICCF-10, 2003, Cambridge, Massachusetts.
+9. S. Szpak, P.A. Mosier-Boss, M.H. Miles, and M. Fleischmann,“ThermalBehaviorof Polarized Pd/D electrodes prepared by co-deposition”,ThermochimicaActa410, 101 (2004).
+
+10. Y.E. Kim and A.L. Zubarev, Fusion Technology 37, 151 (2000). 1.Y.E.KimandA.L.Zubarev,“UltraLow-Energy Nuclear Fusion of Bose Nuclei in Nano-
+Scale Ion Traps", Italian Physical Society Proceedings 70, 375 (2000) for ICCF-8, 2000.
+12. Y.E. Kim and A.L. Zubarev, Physical Review A64, 013603 (2001).
+13. Y.E. Kim, Progress of Theoretical Physics Supplement, No. 154, 379 (2004).
+14. Y.E. Kim, D.S. Koltick, R. Pringer, J. Myers, and R. Koltick, Proceedings of ICCF-10,
+2003, Cambridge, Massachusetts.
+15. Y.E. Kim, D.S. Koltick, and A.L. Zubarev, Proceedings of ICCF-10, 2003, Cambridge,
+Massachusetts.
+16. Y.E. Kim and A.L.Zubarev,“MixtureofChargedBosonsConfinedinHarmonicTraps and Bose-Einstein Condensation Mechanism for Low Energy Nuclear Reactions and TransmutaionProcesesinCondensedMaters”,ProcedingsofICCF-11, 2004, Marseille, France.
+17. S. Engstler et al., Z. Phys. A342, 471 (1992).
+18. A. Musumara et al., Phys. Rev. C64, 068801 (2001).
+19. J. Yan et al., Nucl. Phys. A621, 127c (1997).
+20. T.O. Passell, Proceedings of the Ninth International Conference on Cold Fusion, pp. 299-
+304, May 19-24, 2002, Beijing.
+21. T.O. Passell, Proceedings of the Tenth International Conference on Cold Fusion, 2003,
+Cambridge, Massachusetts.
+22. Y. Arata and Y.C. Zhang, Italian Physical Society Proceedings 70, 11 (2000) for ICCF-8,
+2000, Lerici (La Spezia), Italy
+23. Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys. 37, L1274 (1998).
+24. Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys. 38, L774 (1999).
+25. M. McKubre et al., Italian Physical Society Proceedings 70, 3 (2000) for ICCF-8, 2000,
+Lerici (La Spezia), Italy.
+26. P. Levitz, G. Ehret, S.K. Sinha, and J.M. Drake, J. Chem. Phys. 95, 6151(1991).
+27. J. Fricke and A. Emmerling, J. of Sol-Gel Science and Technolgy 13, 299(1998).
+28. http:// www.cabot-corp.com
+29. LaikaMenon,“NanoaraysSynthesizedfromPorousAlumina,”DekerEncyclopediaof
+Nanoscience and Nanotechnology, pp. 2221-2238 (2004), Marcel Dekker, Inc., New York,
+NY.
+30. R.W.Pekala,etal.,in“SolGelScienceandApplications”,editedbyY.A.Atia(Plenum
+Press, New York, 1994), p. 369.
+31. MRS Bulletin, December 2000, p. 10; http://www.pocofoam.com
+32. C.T.Kresge,M.E.Leonowicz,W.J.Roth,J.C.Vartuliand J.S.Beck,“Ordered
+Mesoporous Molecular-Sieves Synthesized by a Liquid-CrystalTemplateMechanism”,
+Nature 359(6397), 710-712(1996).
+33. D.Y. Zhao, P.D. Yang, D.I. Margolese, B.F. Chmelka and G.D.Stucky,“Synthesisof
+continuous mesoporous silica thin films with three-dimensional accessible pore
+structures”,Chemical Communications(22): 2499-2500 (1998).
+34. V.N.UradeandH.W.Hilhouse,“SynthesisoftheFirstThermalyStableCubicPhase
+NanoporousTinOxideThinFilms”,Submitted (2004).
+35. B.Egiman,D.Owens,V.N.Urade,M.P.TateandH.W.Hilhouse,“Synthesisof
+Mesoporous Carbon Thin Films with Long-rangeOrder”.Submitted(2004).
+36. G.H.Miley,etal.“Quanitativeobservationsoftransmutationproducts occuring in thin-
+film coatedmicrospheresduringelectrolysis”,inSixthInternationalConferenceonCold Fusion, Progress in New Hydrogen Energy. 1996. Lake Toya, Hokkaido, Japan: new Energy and Industrial Technology Development Organization, Tokyo Institute of Technology, Tokyo, Japan; Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+37. D. Letts and D. Cravens, Proceedings of ICCF-10, 2003, Cambridge, MA.
+38. R.T.BushandR.D.Eagleton.“ACalorimetricstudyoftheExcesHeatEfectinThin
+FilmsofPaladium”,intheSecondAnualConferenceonColdFusion,“TheScienceof
+ColdFusion”,191,Como,Italy:SocietaItalianadiFisica,Bologna,Italy.
+39. D.S.Silver,J.Dash,andP.S.Kefe,“Surfacetopologyofapaladium cathodeafter
+electroylsisinheavywater”,FusionTechnol.24, 423 (1993).
+40. L.C. Case, Fusion Technology 20, 478 (1991); Proceedings of ICCF-6, 1998, Vancouver,“MixtureofChargedBosonsConfinedinHarmonicTraps
+
+41. Y. Iwamura et al., Japan Journal of Applied Physics, 41, 4642 (2002); Proceedings of
+ICCF-10, 2003, Cambridge, Massachusetts.
+42. S.E.Jones,etal.,“Charged-particleEmisionsfrom MetalDeuterides”,Procedingsof
+ICCF-10, 2003, Cambridge, Massachusetts.
+43. S.E.Jones,etal.,“NeutronEmisionsfromMetalDeuterides”,ProcedingsofICCF-10,
+2003, Cambridge, Massachusetts.
+44. R.S. Stringham, Proceedings of the IEEE Ultrasonics International Symposioum, Sendai,
+Japan, Vol 2, 1107, (1998); Proceedings of The Seventh International Conference on Cold Fusion (ICCF-7), Vancouver BC Canada, (1990); Proceedings of IDDF-8, Villa Marigola, LaSpezia, Italy, May 21-26 (2000); Proceedings of IDDF-9, 323 (2002); Proceedings of ICCF-10 (2003).
+45. J. Kasagi, Progress of Theoretical Physics Supplement No. 154, 365 (2004).
+46. C. Rolfs, Progress of Theoretical Physics Supplement No. 154, 373 (2004).

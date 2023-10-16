@@ -1,0 +1,382 @@
+I. Introduction
+
+There appears to be a general expectation that the
+occurrence of "cold fusion" phenomena, if any, is connected to
+some unusual and hitherto unknown behaviors of hydrogen in
+metals, especially in Pd. The purpose of this paper is to
+describe some basic properties of the hydrogen-metal system,
+the ABC's, the knowledge of which must be shared by everyone
+in this community. (For more details including most recent
+results, see Fukai 1993).
+
+Roughly speaking, there are two ways for nuclear fusion
+to take place. The first, the ordinary way, is that the fusion
+occurs in the course of collision of two nuclei having energies
+high enough to overcome the mutual Coulomb repulsion. The
+second is that two nuclei are held at sufficiently short distances
+so that the nuclear fusion can be induced by the tunneling
+through the Coulomb barrier. As by definition the real "cold"
+fusion refers to the second (static) mechanism, most of the
+discussions given below are on the equilibrium properties of
+the hydrogen-metal system, more specifically, the state of D-D
+pairs in metals. Only a brief description will be given of some
+properties that are relevant to dynamical processes.
+
+A measure of the internuclear distance that produces
+observable fusion rates is given by the calculation of Koonin
+and Nauenberg (1989). They calculated fusion rates in
+diatomic hydrogen molecules of various isotopic composition,
+and their dependence on the internuclear distance by varying
+the hypothetical electron mass. Their results showed that the
+fusion rate depends nearly exponentially on the distance, and
+that for the d-d fusion rate to be 10-20 s-1, the distance should
+be -0.015nm. The question is whether there is any way to
+hold D-D pairs in metals at such a short distance. For
+comparison, at the distance of a D2 molecule (0.074nm), the
+fusion rate amounts to only I0-64 s-1, which is completely
+negligible.
+
+
+2. Distance between hydrogen atoms in metals
+Hydrogen atoms enter interstitial sites in metal lattices to
+form metallic alloys. The heat of solution h8 is different for
+different metal species, and for a given metal, varies with the
+hydrogen concentration as shown in Fig. l (Fukai 1993). In all
+the cases, the concentration dependence of h8 is similar. The 
+
+Fig. 1 The heat of
+solution of hydrogen
+in some metals as a
+function of hydrogen
+concentration. For
+data sources, see
+Fukai 1993. 
+
+overall lattice expansion caused by hydrogen atoms facilitates
+the dissolution of hydrogen at the beginning, but the shortrange repulsion between hydrogen atoms gradually comes into
+play at higher concentrations.
+
+In Pd, the heat of solution is hs = -0.106 eV at the infinite
+dilution, but it crosses zero at x = [H]/[Pd] "' 0.84, and becomes
+positive thereafter (Flanagan and Lynch 1975). This implies
+that near the composition x "' 0.84, there can be large
+concentration fluctuations in the hydriding process (e.g. by
+electrolysis), and at higher concentrations, PdHx decomposes
+exothermically (by giving off heat). For D in Pd, the heat-ofsolution curve is shifted by 0.026 eV upward (Wicke 1985),
+but the overall behavior is nearly the same.
+
+There is an empirical rule that interstitial hydrogen
+atoms do not come closer than 0.21 nm, another manifestation
+of the short-range mutual repulsion. In cases where the
+distance between neighboring interstitial sites is shorter than
+0.21 nm interstitial sites are only partially filled with
+hydrogens, either orderly or disorderly.
+
+Maps showing the average D-density distribution can be
+Fourier-reconstructed from neutron diffraction data. Care must
+be taken in interpreting the density maps in disordered phases:
+whereas the maps indicate that hydrogens are distributed
+evenly over all the closely-spaced interstitial sites, the actual
+situation should be that they occupy only a small fraction of
+sites by trying to keep away from each other. In ordered
+phases, on the other hand, D-density maps provide useful
+information on the potential field for hydrogen atoms. Figure 2
+shows D-density maps of B-VDo.51, an ordered phase of the V-D
+system (Okada 1980). The distribution of D atoms is very
+strongly anisotropic, indicating that the potential is steeply
+increasing in the c-direction and is slowly-varying in the a-b
+direction. The amplitude of potential undulations can be
+estimated from the excitation energies to highly excited
+vibrational states (observed by inelastic neutron scattering)
+and the activation energies of diffusion at high temperatures
+where the migration proceeds essentially via jumps over
+saddle points (Fukai and Sugimoto 1992, Fukai 1993 ). Thus, a
+measure of potential undulations can be given as 0.5-leV. 
+
+Fig. 2 D-density map in
+!3-VDo.s 1 (Okada 1980). 
+
+A possibility of hydrogen atoms coming a little closer
+arises when they are trapped by lattice defects, more
+specifically, by vacancies. Numerous experiments performed
+on the defect-trapping of hydrogen atoms have shown that in
+many metals a vacancy can trap as many as six hydrogen
+atoms with binding energies of the order of -0.5 eV (Myers et
+al. 1989). This does not imply that six hydrogen atoms are
+jammed in a very narrow space by replacing one metal atom.
+Rather, it is more appropriate to regard them as occupying six
+interstitial sites nearest to the vacancy. The actual
+configuration of D trapped by vacancies in Pd determined by
+the channeling method is depicted in Fig. 3 (Besenbacher et al.
+1990). Hydrogen atoms are displaced slightly towards the 
+
+Fig. 3 Configuration of six D
+atoms trapped at a vacancy
+in Pd (Besenbacher et al.
+1989). 
+
+center of a vacancy, and the mutual distance between them
+("' 0.185mn) is certainly smaller than the normal distance in a
+stoichiometric PdD ("' 0.28nm). Recently, a number of
+calculations have been performed on the electronic structure
+and energies of hydrogen pairs in Pd (Wang et al. 1989, Sun
+and Tomanek 1989, Lam and Yu J 989), and all the calculations
+agree in that the equilibrium pair distance becomes longer than
+the internuclear separation in a molecule.
+
+
+3. Possibility of close D-D pairs in metals
+
+It may be appropriate here to specify more clearly the
+requirement to be placed on the 0-D distance. The ordinary
+procedure to calculate the fusion rate /\ is to evaluate the wave
+function of the relative motion of two D nuclei at the separation
+of p~I0-14 m, where nuclear interactions occur; viz. /\=Al'I'(p)l2.
+This procedure is not applicable to a D-D pair in a metal
+because the potential field arising from interactions with metal
+atoms is fixed in position relative to the metal lattice, and
+therefore the separation of space variables into the center-ofmass and the relative coordinate cannot be made. However,
+the following considerations show that potential undulations in
+metals do not affect the problem seriously.
+
+At small pair separations, the interaction potential can be
+written in any case as
+
+V(r) --. e2/r + V0• (1)
+
+In a free space, the electronic energy is that of the He atom,
+V0 = -51.8 eV. The calculation of Koonin and Nauenberg
+( 1989) which correctly incorporated this screening energy gave
+the D-D fusion rate ten orders of magnitude larger than the
+previous calculation which neglected this term (V0 = 0) (Van
+Siclen and Jones 1986). Judging from these results, the effect
+of potential undulations in metals, being only 0.5~1 eV, should
+not change the order of magnitude of the Koonin-Nauenberg's
+calculation. Thus, the requirement on the pair separation of
+-0.015nm applies equally well to D-D pairs in metals.
+
+The following discussions show that there is no way to
+sustain such close D-D pairs in any solids. 
+
+Let us consider the balance of forces exerted by the
+repulsion between two D atoms in a pair and the counteracting
+force arising from the distorted interatomic bonds of the
+surrounding lattice.
+
+The repulsive force is estimated as /p""e2/r2""lxl0-6N at
+r"" 0. 015nm, whereas the lattice force per bond can be
+estimated as fb "' (c u/N0) • (till!), where N0 is the number of
+bonds per unit area. Substituting the values appropriate for Pd
+(CJ J = 2.3 x 101 I N/m2, N0 = 6.6 x 1Q18 m-2) and for large strains
+of lllll ~ 1/3, the counteracting force is estimated to be
+.fb "' 1 x l 0-8 N at the largest. Thus, interatomic bonds in Pd
+are not strong enough to counteract the forces exerted by the
+close D-D pair. In fact, there is no solid on earth which is
+strong enough to sustain D-D pairs at such short distances.
+What actually happens is that the D:-D pair relaxes to a distance
+where the force balance can be realized.
+
+The same conclusion can be reached from energy
+considerations. The energy of a D-D pair in a metal can be
+approximated by the value in a free space; V(r) "'44.2 eV at
+r "' 0.015nm. The electronic energy corrections in a metal
+should be ~ l eV at the largest. On the other hand, formation
+energies of lattice defects are much smaller; ~ 1.5 eV for a
+vacancy and ~ 5 eV for an interstitial atom in a metal of a
+melting point of Tm "' 2000K (these values roughly scale with
+Tm). This implies that a close D-D pair, if once created, should
+immediately transfer its energy to the surrounding lattice to
+attain some lower-energy configuration; even the creation of a
+number of lattice defects is energetically more favorable.
+
+It may be added that the use of a screened Coulomb
+potential (e2/r) e-a.r for the first term of eq.(1) is erroneous. A
+literal application of a Thomas-Fermi formula which describes
+the screening by a dense electron gas gives a screening length
+of a-I = [4ne2N(Ep)J-112, which becomes as small as ~0.02nm in
+Pd. This is a consequence of a peculiar situation in Pd that the
+Fermi energy EF happens to fall on a very pronounced peak of
+the density of states N(E). Calculations showed, however, that
+this peak arises from 4d electrons of Pd which are strongly
+localized on Pd atoms and therefore do not participate in the
+screening of nuclear charges in interstitial sites
+(Papaconstantopou\os et al. 1978). No such electrons are 
+available in metals that are effective in screening a singlycharged particle in such vicinities.
+
+The screening would be more effective if there were
+negatively charged particles heavier than electrons. Indeed,
+when an electron in a D2 molecule is replaced with a negative
+muon (µ-) which is about 200 times heavier than an electron,
+the screening radius is reduced by this factor and the fusion
+prob ab iii ty is increased to 109 s- I. However, the use of the
+"effective mass" of conduction electrons in this context is a
+mistake. Conduction electrons behave as if they had a large
+mass when they travel over many atomic distances as waves.
+The concept of effective mass is simply inapplicable to the
+problem of static charge screening.
+
+The upper bound for a d-d fusion rate in metals was
+calculated by Leggett and Baym ( 1989) by including possible
+many body effects, and was found to be very small ( -10-47 s-1 ),
+in agreement with the present discussions.
+
+Thus, we cannot expect any measurable d-d fusion to
+occur in metals as long as we stay within the static regime.
+Needless to say, the probability of realizing a close D-D
+pair configuration by thermal excitation is negligibly small,
+being e-44.2eV/kT "" 10-770 at room temperature.
+
+
+4. Effects of high pressure
+
+Here I describe the pressure dependence of the distance
+between hydrogen atoms in elemental hydrogen and in
+hydrogen-metal systems.
+
+Elemental hydrogen under normal pressure is an
+aggregate of stable covalent molecules weakly bound with each
+other by van der Waals interactions. Thus, the interatomic
+distance within a molecule ("' 0.074 nm) is much shorter than
+intermolecular distances, and a large compressibility of the
+elemental hydrogen results from the compression of the latter.
+In contrast, the pressure dependence of the former is very
+peculiar. The frequency of the stretching vibration, which
+reflects the bond strength in a molecule, increases with
+pressure up to - 40 GPa but turns into a decrease thereafter.
+The decrease goes through a discontinuity at - 150 GPa and
+continues on to - 250 GPa where the sample becomes gradually
+more· opaque (a phenomenon indicative of an electronic band 
+closure which leads eventually to a semi-conductive or semimetallic state) (Hemley and Mao 1988, Mao and Hemley 1989).
+These observations imply that as more electrons tend to
+participate in the bonding between molecules at higher
+pressures, the bonding within the molecules becomes weaker
+and the interatomic distance correspondingly longer.
+Theoretical calculations predict that the metallization of
+hydrogen proceeds in two steps; a molecular crystal - an
+intermediate metallic structure with a remnant molecular
+bonding - monatomic metal (Brovman et al. 1972, Barbee et al.
+1989). It is only after the monatomic metallic structure is
+realized that the minimum distance between hydrogen atoms
+decreases with pressure.
+
+Fukai (1991) pointed out that the hydrogen volume in
+metallic enviornments, including interstitial hydrogen and
+elemental metallic hydrogen, follows a universal compression
+curve, which can be expressed to a. good approximation by the
+Vinet-type formula,
+
+p=3Ko( 1-y)y-2e,, (l-y) , y=(V/Vo) 1/3
+
+with the bulk modulus Ko=99.2 GPa, the initial volume Vo=2.96
+x 10·3 nm3 and r; =4.47. Using this equation of state, we can
+estimate the pressure required to reduce the interatomic
+distance to ~ 0.015 nm. The value comes out to be 1.3 x 106 GPa
+(6.2 x 105 GPa for 0.02 nm), which is of the order of
+magunitude of the center pressure of the Jovian planets,
+Jupiter and Saturn. The occurrence of a piezonuclear fusion is
+only possible at these extremely high pressures hardly
+attainable in laboratory experiments.
+
+
+5. Dynamical processes of D+'s in metals
+
+Let us consider a nuclear fusion to be caused by the
+collision of incident energetic D+s with D+s in a metal lattice.
+
+As the reaction cross section cr(E) increases steeply with
+the energy of an incoming D nucleus, the total probability of
+occurrence of such events depends solely on the availability of
+high-energy D nuclei. Cosmic rays and the acceleration of
+fracture-induced D+'s by transient electric fields built up across 
+the cracks (fracto-fusion) have been proposed as possib]e
+sources of such energetic particles.
+
+In this section, I consider the fate of incident D+s with
+energies of 1-500 keV after entering a metal lattice, whatever
+their source may be. At these energies, the incoming D+'s
+graduaJly lose their energies by interactions with conduction
+electrons, and finally come to rest by creating lattice defects
+when their energies decrease to -10 e V. As the relation
+between the incident energy £0 and the total path length Ao is
+approximately given by Ao oc � in this energy range, the
+energy of an incident D+ decreases to £ = £0 (Ao - l)2/A0
+2 after straggling over a distance / from the surface. For D+ in Pd, Ao =
+O.lµm for £0 = 3 keV. The rapid dissipation of incident energies
+restricts the possibility of nuclear fusion to within a thin
+surface layer.
+
+In special cases when the direction of an incident beam
+lies within - l O of some principal crysta] axes or planes, the
+penetration depth is increased by an order of magnitude (the
+ion channeling), and the nuclear fusion rate will be enhanced
+accordingly. The enhancement can be rather important
+because the beam of incident D+'s is concentrated near the
+center of channels where most of the interstitial D+'s (targets)
+are located.
+
+Another effect of high-energy incident particles is to
+create a number of knocked-on D+'s which may induce
+additional fusion events. This effect is most important when
+incident particles are neutrons; the energy of neutrons can be
+transferred efficiently to hydrogens to create energetic D+'s.
+
+In any case, it must be emphasized that the high-energy
+particles must be prepared outside solid samples. Particle
+energies are always dissipated in solids, especially the energies
+of charged particles in metals. The acceleration of any particles
+in metals up to the order of kev is simply impossible.
+
+Finally, I wish to rectify the misconception that strong
+electric fields built up across the thin double layer near the
+electrode may induce some nuclear events. It is not the
+magnitude of field strengths but the energy acquired from the
+electric field that matters. The energy of D+'s acquired by
+acceleration across the double layer is - 0.1 eV at the largest,
+which is completely negligible for nuclear events. 
+
+
+6. Conclusion
+
+The properties described here are the very ABC's of the
+hydrogen-metal systems. In seeking for a mechanism of cold
+fusion phenomena, one should not ignore these ABC's but find
+some way to circumvent difficulties posed by them. The
+difficulties are great for the occurrence of nuclear fusion
+events, not to speak of the excess heat release. Even greater
+difficulties are expected for other fusion reactions involving
+pairs with higher-valence nuclei or three-body interactions.
+The hydrogen-metal systems, with all these ABC's are by no
+means friendly to cold nuclear fusion.
+
+
+7. References
+
+Barhee.T.W .. Ill. A.Garcia . and M.L.Cohen. 1989.
+Phys. T?ev. l,ett .. 62. I 150
+Bcsenbacher,F .. B.B.Nielsen. J.K.N<j)rskov. S.M.Myers. and
+P.Nonllander. 1990. J. Fusion Energy, 9. 257.
+Brovman. E.G .. Yu.Kagan. and A.Kholas. 1972,
+Zh. Eksp. Teor. Fiz .. 62. 1492 (Sov.Phys. JETP. 35, 783).
+Flanagan,T.B. and J.F.Lynch. 1975. J. Phys. Chem., 79, 444.
+Fukai.Y .. 1991 . .I. Less-Co111111011 Met., 172, 8
+Fukai. Y .. I 99J. 71ze Metal-llydrogen System - Basic Bulk
+Properties (Springer Series in Material s Science, vol. 21,
+Heidelberg. to be published January 1993.)
+Fukai,Y. and H.Sugirnoto. I 992, Diffusion in Solids, Unsolved
+Problems. Ed. by G.E.Murch (Trans Tech Pub!.), p.87.
+Hemley. R.J. and H.K.Mao. 1988. Phys. Rev. Lett .. 61, 857
+Koonin,S.E. and S.M.Nauenberg. 1989, Nature, 339, 690.
+Lam.P.K. and R. Yu. 1989. Phys. Rev. Lett., 63, 1895.
+Leggett.A.J. and G.Baym, 1989, Phys. Rev. Lett. 63, 191.
+Mao. H.K. and R.J.Hemley. 1989. Science. 244, 1462
+Myers,S.M .. P.M.Richards, W .R.Wampler, and F.Besenbacher,
+1989, .T. Nucl. Mater., 165, 9.
+Okada,I., 1980, Master's Thesis, Tohoku University
+(Unpublished).
+Papaconstantopoulos,D.A., B.M.Klein. E.N.Economu, and
+LL.Boyer, 1978, Phys. Rev., B 17, 141.
+Sun.Z. and D.Tom11nek. 1989, Phys. Rev. Lett., 63. 59.
+Van Siclen.C.D. and S.E.Jones, 1986, J. Phys. G 12, 213.
+Wang.X.W., S.G.Louie, and M.L.Cohen, 1989, Phys. Rev. B 40,
+5822.
+Wicke,E., 1985, Z. Phys. Chem. N.F. 143, l. 

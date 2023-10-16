@@ -1,0 +1,108 @@
+1. Introduction
+
+Measurements of the excess heat, isotopic impurities, particle emission, and x-ray emission in glow discharge experiments at high current density have been studied for years. Research with a low discharge current was carried out for the purpose of finding a possible mechanism for the initiation of non-equilibrium nuclear transmu- tation reactions in a solid medium, for application to heat production reactors for sustained use.
+
+
+2. Measurement of excess heat with a flow calorimeter
+
+Measurements were carried out using a glow discharge device consisting of a water- cooled vacuum chamber, and cathode and anode assemblies. The cathode design allowed the placement of cathode samples made of various materials on a water- cooled surface. Three components of the device (the cathode, the anode, and the chamber) had independent water-cooling channels. Each cooling channel included two thermistors (at the input and output) and a volumetric counter of the cooling water consumption. The device was placed into thermal insulation package (Fig. 1), comprising the flow calorimeter.
+
+In contrast to the experiments carried out before, the mode of “plasma anode” was used. The anode was near the chamber wall (Fig. 1) and above the cathode. A pulse-periodic electrical power supply was used. The electrical parameters (dis- charge current and voltage) were recorded using a two-channel computer digital oscilloscope. The electrical power was determined according to the expression:
+Pel = T U(t)I(t)dt.
+When present, the power associated with the excess heat source inside the cham- ber PEH, could be determined by
+PEH = (PHC + PHA + PHCh) − Pel ± ∆Perror,
+where Pel is the input electrical power of the glow discharge; PHC, PHA, and PHch are the output heat power by the cooling water of the cathode, anode and chamber, respectively; ∆Perror is the complete absolute error of the power measurement for the given measuring system; and T is the period (time) following the pulses of the glow discharge current. The measurement system recorded the electrical power input into the discharge, and the heat removed by the cooling water, with an accuracy of 0.6W [for an absolute value of the electrical power up to 120W (relative error ±0.5%)], as illustrated in Fig. 2.
+The experiments were carried out with Pd cathode samples in a D2 discharge, and with (previously) deuterated Pd cathode samples in Xe and Kr discharges. Non-deuterated Pd cathode samples in Xe and Kr discharges were used as controls in these tests.
+
+Figure 2. Dependence of relative error for the full heat power removing from the discharge camera with cooling water on electrical power put into the discharge. This is a calibrating experiment.
+
+In this set of experiments, the current density did not exceed 100mA/cm2. With such values of the discharge current in D2, and with continuous loading, the concentration of D2 in Pd reached saturation. The amount of the loaded D2 was determined by reducing the pressure in the chamber. D2 was periodically supplied into the chamber for maintaining the required pressure. The amount of deuterium loaded into palladium was determined by the volume of the gas absorbed from the discharge chamber. When saturation was achieved, the value of the D/Pd ratio was close to 1.
+Heat measurements were carried out for Pd cathode samples in the discharge while changing the following parameters: discharge current density, voltage, dura- tion of current pulses, and the time between current pulses (from the power supply). The absolute value of the excess heat power, and the thermal efficiency, grew with increasing the power input into the discharge (Figs. 3 and 4). The maximum values of the excess heat power and thermal efficiency were recorded under the following conditions: (a) when loading D into Pd; (b) when D left Pd; and (c) when the time between the current pulses was much greater than the duration of the discharge current pulses. Measurements showed that the excess heat power continued to be released from the cathode sample after turning off the current (during the time be- tween current pulses). The maximum values of the excess heat power were recorded at a discharge voltage in the range 1000–1400V.
+
+Figure 3. Excess heat power in relation (to the input electric power. Cathode sample: Pd with d=9mm; gas: D2.
+Figure 4. Efficiency (of the excess heat) as a function of the input electric power. Cathode sample: Pd with d = 9 mm; gas: D2.
+Figure 5. Excess heat power as a function of the input electric power. Deuterated Pd cathode samples (d = 9 mm) in Xe and Kr discharges.
+Figure 6. Efficiency as a function of the input electric power. Deuterated Pd cathode samples (d = 9 mm) in Xe and Kr discharges.
+
+Relatively large values of the excess heat power, and the efficiency, were recorded for (previously) deuterated cathode samples in Xe and Kr discharges (Figs. 5 and 6). The excess heat power was not produced when using the cathode samples made of pure Pd (not deuterated) in Xe and Kr discharges (Fig. 7). Thus, it was experimentally shown that the excess heat power production was determined by two processes: (1) deuterium should be loaded into the medium of the crystal solid lattice; and (2) the crystal lattice should be excited initially, so that high-energy long-lived excited levels are created in the solid. These excited conditions could be created by an additional source (e.g. by bombardment of inert gas ions).
+The three-channel system of separate measurements of the output heat power (for the anode, cathode, and chamber) allowed a determination of the structure of the excess heat power in the glow discharge. The graph (Fig. 8) shows that the large efficiency values were recorded in experiments with large relative heat release on the cathode. These results show that the excess heat power was released mainly on the cathode.
+
+
+3. Measurement of impurity nuclides
+
+The analysis of the impurity content in the cathode samples before, and after, the experiments (using the high-current glow discharge device) was made in previous experiments1, where it was assumed that the recorded excess heat was related to ongoing nuclear reactions.2 The following methods were used: (a) spark mass spec- trometry; (b) secondary ionic mass spectrometry; and (c) secondary neutral mass spectrometry. These techniques were used for analyzing the impurity nuclides in the cathode samples material before, and after, the experiment. The difference in the content of the impurity elements before, and after, the experiment was defined as storage of the elements during the experiment. Elemental impurities with the masses approximately half the Pd mass, up to nearly the Pd mass, were recorded in the near-surface layer having the thickness of 100 nm, in an amount up to some tens of percent.
+
+The main impurity elements (isotopes) with the contents more 1% included: 7Li, 12C, 15N, 20Ne, 29Si, 44Ca, 48Ca, 56Fe, 57Fe, 59Co, 64Zn, 66Zn, 75As, 107Ag, 109Ag, 110Cg, 111Cg, 112Cg, 114Cg and 115In. The impurity content in the cathode at dif- ferent depths was determined. The procedure for determining the impurities by the method of secondary ion mass spectrometry included the following operations: (a) removal of the upper defect layer (with the thickness of 1.5 nm) by plasma etching; (b) scanning the first and second layers in 5 nm increments, while determining the content of the impurity nuclides; (c) removal of a layer with the thickness of 100 nm, and repeated scanning of the third and fourth layers in 5 nm increments while again determining the content of the impurity nuclides. The impurity content at a depth of 100 nm decreased by 1.5–2 times in comparison with the near-surface layers.
+The results of these measurements show, that production of the impurity nu- clides occurred in the volume of the cathode sample material at depths up to 1 μm (up to 4000 atom layers) from the cathode surface.
+
+
+4. X-ray measurements
+
+Intense x-ray emission from the cathode samples was recorded during the exper- iments. The recording of the x-rays was carried out using thermoluminescence detectors, x-ray film, and scintillator detectors with photomultipliers. Thermoluminescent detectors using crystalline Al2O3 allowed the measurement of penetrating radiation; starting from the environmental background values, they were used to measure the intensity and evaluate the average energy of the soft x-ray emission from the cathode. The detectors are in the form of disks (with a diameter of 5 mm and thickness of 1 mm), covered with beryllium foil of the various thickness (15, 30, 60, 105, 165, 225 and 300μm). These were arranged above the cathode in a special cassette (seven-channel spectrometer). The evaluation of the x-ray energy was made from the different radiation doses absorbed by thermoluminescent detectors covered with Be foils of varying thickness. 
+
+The intensity of x-rays passing
+through Be plate with thickness d is described by the expression:
+I(d) = I0 2−(d/d1/2), (1)
+where I0 and I(d) are the x-ray intensities at the input and output, respectively; where d the plate thickness; and where d1/2 is half length for radiation absorption.2 The radiation intensity (dose power) was determined as the radiation dose ab- sorbed by the detector and divided by the experiment time. This expression, and the dependence seen on a chart of log(thickness) (of the half absorption length) on log(energy) of x-rays for beryllium, were used for evaluating the x-ray energy.
+
+The values of log(thickness) of the half absorption from log(energy) of x-rays for beryllium were taken from Ref. [2] Appendix G.
+The radiation dose absorbed by the thermoluminescence detectors reduced by the exponent while increasing the thickness of absorbing Be shield is given in Fig. 10. The main component of x-ray energy was in the range 1.0–1.5keV. The value of the x-ray energy determined experimentally increased from 1.2 to 1.5 keV when the thickness of the Be shield increased from 15 to 300 μm (Fig. 11). It could be assumed that x-rays were emitted from the volume of the solid-state cathode medium. The part of the radiation from the deeper layers of the solid-state cathode medium lost energy initially upon passing through the cathode material. In this case, the energy radiation spectrum was displaced to the side of reduced energy. The initial x-ray energy was estimated to be 1.5–1.8keV.
+X-ray emission as a function of time was studied with scintillator detectors and phtotmultipliers. These measurements showed that x-ray emission was observed as many bursts (up to 109 photons in a burst). The single bursts were recorded after turning off the discharge current within 85 ms (Fig. 12).
+
+
+5. Discussion
+
+Experiments on anomalies using a high-current glow discharge have been carried out for several years, with progress in the identification of basic processes and the conditions of their operation.
+
+(1) Excess heat production. Excess heat was produced in the volume of the solid-state medium of the cathode sample under the following conditions:
+• Deuterium should be loaded into the solid-state cathode medium.
+• Initiating excitation of the energy levels of the crystal lattice of the cathode
+material was necessary.
+• This initiation could be carried out by a foreign source (e.g. by bombardment
+of inert gas ions).
+• The production of the excess heat power occurred mainly in the near-surface
+layer of the cathode sample with the thickness up to 1μm (where the impurity nuclides were found). The volume density of the excess heat power had a value up to 105 W/cm3.
+
+(2) Production of elements (isotopes) as an induced impurity of the basic cathode material.
+• The production of impurity nuclides occurred in the volume of the solid-state cathode medium, presumably as a result of nuclear transmutation reactions.
+• The emission of high-energy heavy ions was not recorded in the experiment. From this fact it is possible to assume that the nuclear reactions energy was not released as a kinetic energy of the formed impurity nuclides. The impurity nuclides were presumably formed as nuclear isomers (nucleus being in the excited state). From the results of the experiment it followed that the relaxation of these excited nuclear levels through the gamma radiation
+channel was strongly suppressed.
+
+(3) Excitation of the energy levels of the solid-state cathode medium.
+• Formation of the excited energy levels of the crystal lattice was determined by recording the x-rays from solid-state cathode.
+• X-rays were observed as bursts of short duration (presumably up to 10−13 s). Each burst contained up to 109 x-ray quanta with the energy of 1.5–1.8 keV. The bursts were recorded in amount of up to 105 bursts per second during the discharge and within 100 ms after turning off the current.
+• Hypothetically, the mechanism of forming this radiation was the following. When bombarding the cathode surface by the discharge plasma ions in the solid medium, excited energy levels with the energy of 1.5–1.8 keV and life- time up to 100 ms were formed. Looking into the concrete physical mecha- nism of forming these levels requires some additional research. It is possible to assume the existence of one of two possible physical phenomena: (1) excita- tion of internal L, M electronic shells without ionizing the external electrons; (2) oscillatory deformation of the electron-nuclear system of the solid ions. The core of electronic shells was displaced from a nucleus with forming a dipole (optical polar phonon).
+• The relaxation of the excited energy levels of the solid medium occurred through the emission of x-rays and, perhaps, fast electrons.
+• Hypothetically, the relaxation of the excited levels occurred simultaneously from micro monocrystals that make up the solid medium. In other words, the totality of the excited ions of the micro monocrystal relaxed simultaneously and gave the x-rays burst.
+
+(4) Nuclear transmutation reactions. The excited energy states with a population den- sity of nexcited(cm−3) and a characteristic temperature of Texcited ≈ 1.5–1.8 keV, and more (up to 20,000,000 K, and more), were formed in the solid with every pulse of the glow discharge current. These energy states existed for the characteristic time τexcited (up to 100 ms and more). Such a medium, in which the temperature of the crystalline lattice did not exceed some hundreds K, we call a non-equilibrium medium.
+• Carrying out the non-equilibrium nuclear transmutation reactions was possi- ble in such a medium. Probability of running these reactions (and accordingly the value of the excess heat power) was determined by criterion:
+nexcitedτexcited > (nexcitedτexcited)min.
+This criterion was a modified Lawson’s criterion used for estimating the pos-
+itive heat output at inertial thermonuclear synthesis.
+
+(5) The population density was defined by the parameters of the discharge duration and the cathode sample geometry. The characteristic lifetime of the excited states was defined by the balance between the processes that produce excitation of the energy levels (when passing a pulse of the pumping discharge current), and re- laxation processes of these levels (by emitting x-rays). Thus, for obtaining large quantities of the excess heat power it was necessary to create a high population density of vibration-dipole energy states nexcite and to suppress the x-ray emission (for increasing a lifetime of the excited states τexcite).
+
+(6) The following types of the nuclear transmutation reactions resulting in formation of the stable nuclides are possible:
+A + mB → [AB]∗, (2) [AB]∗ →F∗→F+Heat, (3)
+[AB]∗ →C∗ +D∗ →C+D+Heat, (4)
+where A is Pd, or the nucleus of another element; B is deuterium or hydrogen; [AB]* is the short-lived intermediate compound nucleus; m=1, 2, 3, ...; C*, D* are the nuclear isomers of nuclides with masses less than that of Pd; C, D are stable nuclides; and F is a nuclide with mass more than that of Pd. First a composite compound-nucleus in the excited state is formed. Then one of the two possible modes is realized:
+(a) The compound-nucleus could lose its excitation and formed a stable nucleus heavier than Pd; (b) the compound nucleus could fission into two nuclear fragments with masses less than that of Pd. In so doing, the two nuclei should be in excited isomeric states (experiments showed that the nuclear reactions energy was not produced as a kinetic energy).
+
+(7) To determine specific physical mechanisms for these reactions requires some addi- tional research. One possible type of reaction for forming impurity nuclides can be long-ranged (resonant) nuclear reactions. The mechanism of such long-ranged reactions can be understood through the example of a specific transmutation reac- tion. The formation of significant 13C was recorded in the experiments. A possible reaction can be the following:
+104Pd + 2D → 106 [Pd;D]∗ → 13C + 93 Nb + 7.8198MeV. (5)
+
+According to the laws of momentum and energy conservation, the formed nuclide 13C should receive an energy of 6.8608MeV. The nuclide 93Nb should receive an energy of 0.959 MeV. A nuclear excited state (a nuclear isomer) with an energy of 6.864 MeV and excited level width of 6 keV exists for 13C. An excited level with an energy of 0.9498 MeV exists for 93Nb. The difference between the energy received by nuclide 13C and the energy of one of the excited nucleus state was equal 3.2keV. At the excitation energy of the crystalline lattice of 1.5 keV, and width of the excited energy level of 6.0 keV, these conditions gave a high probability of carrying out a long-ranged (resonant) nuclear reaction.
+The totality of the experimental results allows assuming, that the energy of the excited nuclear levels of the formed nuclides converts into heat. The specific physical mechanism of such conversion requires additional research.
+
+
+6. Conclusion
+
+The results obtained (the glow discharge device giving the excess heat power up to 5W/cm2 at an efficiency up to 150%) allow the development of a demonstra- tion source of heat power. The technology of multi-element cathode fuel elements with plasma anodes has been developed. A demonstration reactor with an input electrical power of 10 kW, and output heat power of 15kW, will have dimensions of 20cm×20cm×20cm.
+The development of new nuclear engineering is possible based on non-equilibrium nuclear transmutation reactions in the solid-state medium. This type of engineering can be called “Third way” in nuclear engineering, in comparison with the nuclear engineering on the basis of uranium nuclear fission, and thermonuclear synthesis.
+
+
+7. References
+
+1. A.B. Karabut, Excess heat power, nuclear products and x-ray emission in relation to the high current glow discharge experimental parameters, in Proceedings of the Ninth International Conference on Cold Fusion, May 19–24, 2002, China, p. 151.
+2. R.B. Firestone, Table of Isotopes, 8th Edition, Vol. 1, 2, Appendix G-1, John Wiley & Sons Inc., New York (1996).

@@ -1,0 +1,309 @@
+Compatibility of Hydrino States and Quantum Mechanics
+Burke Ritchie !
+
+
+Abstract
+
+Rathke’s assertion [New J. Phys. 7 (2005) 127] that states with binding energy and size below those of known literature values are
+incompatible with quantum mechanics is corrected by reviewing the analytically known Coulomb solution of the Klein–Gordon
+equation with binding energy of order mc2 and size of order of the Compton wavelength. This is an example of a quantum state,
+which is mathematically acceptable in the sense of being square integrable and having a finite binding energy but yet is rejected as
+unphysical due in part to the point-nucleus nature of the model. Then the Dirac equation is studied for the existence of states which
+are similarly mathematically acceptable but whose physical acceptability requires physical judgment. States of Landau symmetry
+are found which meet these criteria. The existence of states of ambiguous physical interpretation for both the Klein–Gordon and
+Dirac equations depends on using a point-nucleus versus a finite-nucleus potential model. On using a realistic model for the charge
+distribution of the proton, a Klein–Gordon state is found in the binding range of 5 keV, but no state is found for the Dirac equation.
+© 2013 ISCMNS. All rights reserved. ISSN 2227-3123
+
+
+1. Introduction
+
+Rathke [1] has presented a critical analysis of the hydrinomodel [2,3], which has been invoked to interpret experimental
+results which have appeared in respectable physics journals [4–7]. He also reviews the incompatibility of hydrino states
+with quantum mechanics. It is this last area which is the focus of the present paper. What I mean by a hydrino state, in
+a generic sense, is any quantum state with binding in a Coulomb potential characterized by a binding energy and size
+belowthose of the known states of the Schrödinger, Klein–Gordon, or Dirac equations. This point has arisen historically
+whenever experimental results appear to be uninterpretable using standard theory. The earliest example following the
+discovery of the neutron was likely the proposal that the neutron might be a small hydrogen atom. Margenau examined
+this question and concluded in his 1934 paper [8] that the Schrödinger or Dirac equations could not support such states
+unless the potential is modified at small distances from the origin. As a more recent example Evans [9] has studied an
+unconventional form of Dirac theory, called 4-space Dirac theory, in which the three spatial variables and the scaled
+time, ct, are treated on an equal footing to avoid any suggestion of a preferred reference frame. Evans’ motivation was
+to find possible theoretical support for low-energy nuclear reactions (LENR), a field which is known pejoratively as “cold fusion.” Hence, this subject is regarded as closed by many theorists, and Rathke’s blanket assertion that hydrino
+states are incompatible with quantum mechanics, by which he seems to mean nonrelativistic quantum mechanics
+(although “quantum mechanics” certainly includes relativistic quantum mechanics), follows in this tradition. In any
+event the Rathke-hydrino controversy provides a sound opportunity to clarify much of the confusion which exists in
+the literature on this subject.
+
+edition of Schiff’s text on quantum mechanics [10], seems to be little known in the physics community. The Klein–
+Gordon equation has an analytically known state with binding energy of order mc2 and Compton wavelength size. It is
+this state which is irregular at the origin in Schroedinger theory (or more precisely in the Schroedinger limit of Klein–
+Gordon theory obtained by neglecting terms scaling as !2, where ! = e2!
+¯hc is fine structure constant) and which
+is therefore unambiguously rejected as unphysical. In Klein–Gordon theory, however, the state is mathematically
+acceptable in the sense of being square integrable and having a finite binding energy. The state is rejected as unphysical
+by Schiff for two reasons. First he points out that the particle described by the Klein–Gordon equation has no spin and
+therefore cannot be an electron. The particle described by Schrödinger’s equation also has no spin and yet its electronic
+properties in the nonrelativistic regime are described with stunning success. To be fair the Klein–Gordon equation fails
+to account for the observed magnetic fine structure of the atom, which depends on the electron’s spin. Second Schiff
+rejects the Klein–Gordon state as unphysical because it is calculated using a point-nucleus model and therefore fails
+to account for the finite size of the proton. Nevertheless the Klein–Gordon point-nucleus result illustrates a principle
+of binding which is unknown in standard quantum theory, namely that an electromagnetic potential, even one of unit
+strength, can support binding with binding energy of order mc2 without any modification of the potential at small
+distances from the center of attraction, as suggested by Margenau [8]. This principle appears to be unrecognized in the
+physics community, probably owing to arguments that the state is not physically realizable and that the Klein–Gordon
+equation is inapplicable to the electron. The principle depends on the nature of the relativistic motion and not on the
+strength of the potential, the latter of which derives purely from Schrödinger theory and is the basis for the wisdom,
+in beta decay for example, that an electron cannot reside initially inside the small volume of a nucleus because the
+uncertainty principle for momentum and position, "p"r " ¯h, would be violated for a "r of nuclear size unless a
+potential of sufficient strength exists to produce a very large"p.
+
+This proof-of-principle binding by the Klein–Gordon equation is reviewed in Section 2. Then in Section 3 the
+Dirac equation is examined from a new perspective. The general acceptability of Dirac’s equation as the equation of
+motion for the electron rests fundamentally on its success in accounting for the observed magnetic fine structure of the
+atom and for the anomalous Zeeman effect, which was first successfully described by Pauli’s equation, which is an ad
+hoc modification of Schrödinger’s equation to account for the observed splitting of a zero orbital angular momentum
+state in the presence of a magnetic field. Pauli’s spin vector, ##, in Pauli’s or in Dirac’s equations occurs diagonally
+along the z-axis and is therefore compatible with the orbital angular momentum operator, #$, which is also is an Eigen
+operator along the z-axis. This magnetic-axis preference in Dirac’s equation suggests that it may be possible for states
+having Landau symmetry to exist even in absence of a magnetic field. (Landau states [11,12] are states which are bound
+transversely to a uniform magnetic field along the quantization- or z-axis.) A suggestion that Landau states may exist
+is found in the non-diagonal nature of all four components of Dirac’s wave function simultaneously when each of the
+large and small components (more in Section 3) is written in the standard way as a product of a radial function, the
+large or small component, and a two-component spinor, %&μ(', (), where & and μ are the “good”quantum numbers in
+the #j = #$ + 1
+2 ## or total angular-momentum representation. The spinors belonging to the large and small components
+have equal and opposite values of the & quantum number. The series expansion in which all four components of Dirac’s
+vector wave function can be brought into diagonal form comprises basis members having the Laudau symmetry, as we
+discuss in Section 3.
+
+In view of the emergence of experiments by Mills and others whose interpretation suggests the existence of states, which are unknown in the literature, it is imperative to investigate quantum states whose elimination as unphysical
+on the application of boundary conditions may be ambiguous and may rest on physical judgment alone. In this paper I
+study the Dirac equation from this viewpoint. It is critical, as pointed out by Rathke, to use a Lorentz-invariant theory.
+Schrödinger theory is not Lorentz invariant and will yield nothing further on this subject. The Klein–Gordon equation
+is Lorentz invariant, but it is inapplicable to the electron. The Dirac equation is Lorentz invariant, and it is applicable
+to the electron.
+quantum 
+
+Finally, I wish to emphasize that the approach in this paper is not based on the concepts or methodology of quantum
+
+
+2. Klein–Gordon Equation. Regularization of Schrödinger Irregular States
+
+Readers should recall that a criterion for an acceptable relativistic quantum EOM is that it is invariant to a Lorentz
+transformation. The scalar product of 4-vectors is always Lorentz invariant [13], and the Klein–Gordon equation follows
+from the scalar product of the covariant and contra variant 4-momentum,operating on a scalar wave function equal to the Lorentz-constant mc times the wave function, 
+where have been used where ) is the Lorentz factor and P# is the generalized or canonical momentum. Let us look at the
+small-r equation for V = −Ze2!
+r and A# = 0, restricting ourselves to zero-angular-momentum states and keeping
+only dominant terms, for , = Ze2!
+¯hc. Using g = rs in Eq. (2) the indicial equation for s is found by setting the coefficient of rs−2 equal
+to zero, s(s − 1) + 2s + ,2 = 0, whose solutions are given by for the upper and lower signs, respectively. The upper sign is retained in the standard set of solutions in the literature.
+Notice that , = 0 for the Schrödinger equation such that the lower-sign solution can be unambiguously rejected as
+irregular at the origin and therefore as unphysical. (Although the irregular Schrödinger solution is square integrable
+and therefore normalizable, its expectation value of V diverges logarithmically such that the second criterion of an
+acceptable solution, a finite binding energy, is not satisfied.) Proceeding heuristically I propose a variational trial solution over all r having the form, + = Nr,2−1e−wr, where the normalization constant is given by  and where w is a parameter chosen to minimize the energy, which is found from Eq. (1), The approximately equals sign is used whenever r2,2 ' 1, which it cannot be in the first term on the right-hand
+side of Eq. (5) after the second equality sign, since the limit of r = 0 is taken for finite ,, but which it can be in the
+second term and in Eq. (3) since the contribution of r2,2 to the integral is negligible. Notice the cancellation of terms
+in the curly bracket in Eq. (4), including the cancellation of ,2. This is responsible for the binding since otherwise the
+kinetic energy would exceed the potential energy making binding impossible.
+The energy is given by the quadratic-root formula  where the upper sign is taken to be the physical root. Minimizing E with respect to w, w ' mc
+which is identical to the leading term of the exact analytic energy given by Schiff’s formula 51.16 [10], using his formula 51.17 for - = s + 1 ' ,2. Equation (6) is plotted in Fig. 1 versus w.
+
+The binding energy is given byEb = mc2 − E. Notice that Schiff asserts that s is the nonnegative solution of the
+indicial equation, his formula 51.18, in anticipation of his argument, which follows immediately, that when the finite
+size of the proton is considered then negative values of s are ruled out in the limit of a point-Coulomb source for a finite
+wave function at r = 0. But a finite wave function calculated for a finite-source model will of course have the limit
+of the positive-s point-source solution when the radius of the finite-source model is taken to zero. Schiff’s exercise
+does not really lift the ambiguity of the positive-s, negative-s, point-source solutions in the sense that both solutions
+are normalizable with finite binding energies. Point Coulomb sources really do exist in nature, an electron–positron
+pair for example.
+
+As pointed out earlier, we are concerned in this study with point center-of-force solutions which satisfy two criteria –
+normalizable with finite binding energy – in order to understand binding of order mc2 which is due not to the strength
+of the potential, as in Schrödinger theory, but to the relativistic nature of the motion. Although the probability density
+is infinite as r2,2−2 at r = 0, the radial distribution is nevertheless finite. Notice that the size of the negative-s solution
+is comparable to the Compton wavelength and thus is still much larger than the size of the proton.
+
+Finally, we comment on the double energy-root nature of the Klein–Gordon equation. This also occurs of course
+in Dirac’s equation, and Dirac lifted the ambiguity by filling up the negative-energy levels with electrons such that positive-energy electrons are forbidden from occupying negative-energy states, which averts the instability of the atom
+against spontaneous radiative transitions from positive-energy to negative-energy states. The Klein–Gordon equation is
+criticized on the basis that Dirac’s interpretation of the negative-energy states for his own equation would not apply to
+the Klein–Gordon equation due to the absence of spin such that Pauli’s exclusion principle is not obeyed. But the same
+criticism can be applied to Schrödinger’s equation with respect to the positive-energy states. The shell structure of the
+atom depends entirely on an ad hoc antisymmetrization of a product of Schrödinger orbitals augmented by up or down
+spin states in order to satisfy the Pauli principle. This procedure is totally phenomenological and does not identify spin
+as a relativistic property of the electron, even though it derives in an ab initio sense from Dirac’s equation, or explain
+how the spin of an individual electron is responsible in a causal sense for Fermi–Dirac statistics for an aggregate of
+many electrons. 
+
+Finally, having just mentioned the role of the negative-energy states and Dirac’s interpretation of them as antimatter
+states, I will henceforth limit the investigations of this paper to positive-energy states, as in the Klein–Gordon example
+above.
+
+
+3. Dirac Equation
+
+Pauli modified Schrödinger’s equation to account for the observed anomalous Zeeman effect, which is the splitting of
+states of zero orbital angular momentum ($ = 0) in a magnetic field. He introduced the spin vector ## in an ad hoc
+sense, whose properties were such that
+
+has been used. In a spatially uniform magnetic field, H#,A# = (1
+!
+2)H# ×r# such that the last three terms on the right-hand
+side of Eq. (7) are for a field in the z-direction, where . =
+&
+x2 + y2. Notice that even in absence of V, the Coulomb potential, an electron
+can be bound harmonically in the transverse direction to z, in which direction the electron is free but whose states are
+split into magnetic sublevels. These are Landau states [11,12]. This point will be revisited when we analyze Dirac’s
+equation for the possibility of the existence of states of Landau symmetry in the presence of V but absence of Hz owing
+to the diagonal nature of ## along the z-axis, as given by Eq. (8).
+
+Dirac’s equation is usually written as the Lorentz invariant found from the scalar product of the Dirac 4-) matrix,
+()0, #)), and the electron’s 4-momentum operating on a 4-component wave function to give the Lorentz constant mc
+times the wave function, thus,  where the time-dependent operator form of E, E % i ¯h(/
+!
+/t), has been used and where )0 = , and #) = , #! on using
+Dirac’s own #! and , matrices from his original derivation [14],  where I is the identity matrix. The ) matrices form a Clifford algebra [15], which has been in the mathematics literature
+for some time. A separate step is then required to prove the Lorentz invariance of the wave equation itself [14].
+
+Recalling that the scalar product of 4-vectors is always Lorentz invariant, Dirac’s equation can be derived by further
+elucidating the close relationship between Dirac’s equation and the spinorial form of Maxwell’s equation, which has
+been studied continuously since 1928 [16–19]. Dirac’s equation can be inferred from the scalar product of the electron’s
+4-momentum and an electromagnetic 4-potential, (0, #X), posited for the electron as follows,
+
+Using a carrier-wave expansions for (0, #X) in order to isolate a dominant frequency component of the 4-potential
+we obtain, On substituting Eqs. (14) and (15) into Eq. (13) and separately setting the coefficients of the exponential factors equal
+to zero, we obtain,  Dirac’s equation , 
+
+follows immediately on setting ¯h1 = mc2, #X+ = ## # 0−, #X− = ## # 0+, 0+ = +, 0− = 2. The reader may verify
+that Eqs. (18), (19) and (11) are identical on carrying out the matrix operations in Eq. (11) using
+where 2 and + are known in the literature as the large and small components of the Dirac solution. Notice that the
+electron’s spin can be interpreted as the polarization of the vector component of its posited 4-potential. The derivation
+suggests that the distinction between the material and electromagnetic properties of the electron, which I examined in a
+previous paper [20], may be an artificial one due to conceptual and practical limitations of theory but manifestly present
+in observations such as the Lamb shift or the electron’s anomalous magnetic moment. Notice that no further proof of
+the Lorentz invariance of the wave equation itself is required since Eqs. (18) and (19) have been inferred directly from
+a scalar product of 4-vectors.
+
+The standard 4-component solutions are separated into products of radial and angular solutions, thus, where the relative phases are chosen so that the radial functions are real. The two-component spinors, %&μ(', (), have
+equal and opposite quantum numbers for& and−& due to the properties of the operator, where ## · #$%&μ(', () = −(& + 1)%&μ(', () and ## · ˆr%&μ(', () = −%−&μ(', (). The spinors are eigen functions
+of the operators j 2, jz, $2, and s2, where #j is the total angular momentum operator, #j = #$ + #s, and therefore of
+## · #$ = 2#$ · #s = j 2 −$2 −s2 where the eigen values of j 2, $2, and s2 are j (j +1), $($+1), and 1
+2 ( 1
+2 +1) , respectively,
+such that the & quantum number has values &=-1, -2… for j = $ + 1
+2 and & =1, 2… for j = |$ − 1 
+
+The key point here is that the spinors are eigen functions of the angular-momentum operators listed above but not
+of ## · #& due to the diagonal nature of this operator in the z-coordinate , the axis along which the permanent magnetic
+moment due to the electron’s spin is measured. Let us look at this operator in z, ., ( coordinates, The diagonal nature of ## · #& along z suggests that it may be possible for bound states having the Landau form to exist.
+Of course the standard set of states in r, ', ( coordinates known in the literature must also be recoverable in z, ., (
+coordinates using the same set of physical boundary conditions as used in the standard set of states. One would expect
+however for Landau-type states to have a different set of boundary conditions from the standard solutions in analogy to
+the different boundary conditions used in Section 2 for the small-size, low-energy states of the Klein–Gordon equation. 
+
+
+4. Dirac-equation States with Landau Symmetry
+
+Dirac’s equation should be cast in exact second-order form [21] for ease of analysis by elimination of Eq. (19) in favor
+of Eq. (18),  where we return once again to the time-independent equation. First, let us analyze the equation in r, ', ( coordinates
+where, using Eq. (9), where the V - denotes the radial derivative of V . Specializing to $ = 0 (& = −1) states the last term on the right-hand
+side of Eq. (23) gives zero contribution. Neglecting E+mc2compared to -V in Eq. (22) the small-r equation is which may be compared with Eq. (2) and whose indicial equation is s(s − 1) + 3s + ,2 = 0 with solutions for upper and lower signs, respectively. Notice that the lower-sign solution, in contrast to that of the Klein–Gordon
+equation, is unambiguously irregular at the origin and must be rejected as unphysical. The V -(d/dr) term in Eq. (23)
+increases the kinetic energy near r = 0 beyond the physical bounds encompassed by a normalizable wave function. In
+contrast the Klein–Gordon wave function is infinite at r = 0, but it is still normalizable and therefore has a chance of
+being physically realizable in a realistic point-source situation. Compared to the Schrödinger and Klein–Gordon equations it may seem fishy to the reader to have a V - or radialforce
+contribution to the kinetic energy, but that is the nature of the spin–orbit interaction. It may be possible, however,
+for a wave function to exist whose probability distribution is not radially concentrated at a single point in space but is
+cylindrically distributed along z in a cigar shape, which is the shape of the electronic distribution for an atom in a strong
+magnetic field [12]. Returning to Eq. (22) the numerator of the spin–orbit term in z, ., ( coordinates is where the subscripts on V denote first-order derivatives with respect to z or .. This operator can be represented by
+expanding the wave function in a basis set, {+3(z, ., ()}, whose members comprise products of magnetic sub-states, where !, , are spin-up, spin-down spin states and 3 = 1/2 for mz = 0, 3 = 3/2 for mz = 1 and so on. We will examine
+only the azimuthally symmetric component, +!,0, here.
+
+Again proceeding heuristically I propose a variational trial solution having the form +!,0 = N(.s ± az)−1e−w.2
+in the positive, negative domain of z for the upper, lower sign, wherea >0 to insure that the wave function is bounded
+in the z direction and s < 1 to insure that integrals with integrands which are singular as .−2s+1, which occur in the
+expectation value of the potential, do not diverge logarithmically. Notice that these Landau-type states are bound in an
+elongated sense along the z direction and are bound radially in the standard exponentially decaying manner. Hence,
+these are bound states which are stabilized by spreading out the kinetic energy in an elongated, cigar shape rather than
+concentrating it at a single point, as for the Dirac solution in r, ', ( coordinates.
+
+The a parameter is determined from a generalized indicial equation to be given shortly. The s parameter is written
+s = 1−b where b . 1 and, along with w, is determined by minimizing the energy. The trial wave function is obviously
+square integrable, where the z integral, along with all of the z integrals except one, are evaluated analytically. In Eq. (27) the z integral
+is equal to.−sa−1. The Gaussian form, e−w.2 , is used rather than the Slater form, e−w. , because the latter boosts the
+kinetic energy to an extent that binding is impossible
+
+The small z, small. equation for +!0 from Eq. (22) is where again E + mc2 is neglected compared to –V . Substituting g = (.s ± az)−1 into Eq. (28), carrying out the
+operations, multiplying the result by g, and finally integrating over z, an indicial equation is given by where without loss of accuracy b has been set equal to zero, which choice makes the factorization of .−3possible, as
+shown in Eq. (29). Two values of a are found to satisfy Eq. (29), a ' 0.19 and a ' 0.565, for which values the energy
+is plotted versus w in Fig. 2. 
+
+The energy is found from Eq. (22), with roots, where the potential-energy expectation value isThe integral over z in Eq. (36) is evaluated numerically. All integrals over . are evaluated numerically. Notice
+that *+|o3|++ ' −*+|o4|++, such that these contributions to the kinetic energy nearly cancel. As in the case of the
+Klein–Gordon equation the binding energy is of order mc2. Our solution of the Dirac equation requires two variational
+parameters, w and b, and Figs. 2 and 3 show that E has a minimum versus w for different values of b, while the
+energy approaches zero – binding energy of mc2 – as b approaches zero. This behavior merely reflects the logarithmic
+divergence of the potential-energy expectation value for b = 0. But the rule for evaluating the integral in Eq. (32) is the
+take the limit as. % 0 for finite b. For example using L’Hopital’s rule for the opposite limit, b % 0 for finite ., 
+
+This means that any physical problem for which the present theory is suitable must truly involve a point-Coulomb
+source such as an electron or positron. In the case of experiments whose interpretation appears to require the existence
+of quantum states whose energies are lower than those of the known states in the literature, to which I have given the
+generic name “hydrino states,” this work is intended to establish that no general rule exists by which such states can
+be said to be incompatible with quantum mechanics. In the original hydrino-state work [1–7] no distinction was made
+between a point-nucleus and a finite-nucleus model of the hydrogen atom, although, as we now understand from the
+present analysis, this distinction is of critical importance.
+
+
+5. Finite-nucleus Potential Model
+
+The interpretation of experimental data requires the use of finite-nucleus potential models in which the nuclear chargedistribution
+from the origin to the surface of the nucleus is represented. A well-studied model [22] is used, in which
+
+where r0 is the nuclear radius; for a proton r0 = 1.044×10−13cm or 1.974×10−5Å. No bound states were found for
+Dirac’s equation using this model. The trial function +!,0 = N(.s ± az)−pe−w.2 was used, where 1
+2 < p / 1. For p
+= 1, which was used in the point-nucleus model in Section 4, the indicial equation appropriate for a finite proton did
+not have a solution for any value of a. A solution of the indicial equation for p = 0.8 was found for a = 0.65, but this
+solution had no bound states. With reference to Eq. (31) the reason appeared to be the lack of cancellation of*+|o3|++ and *+|o4|++ for p = 0.8, giving a kinetic energy which exceeds the potential energy.
+
+The Klein–Gordon equation was revisited using the finite-proton model, and the trial function + = Nr−1e−wr (first
+trial function) was used, for which the kinetic energy was negative and therefore unphysical. Then the trial function
++ = Nr−1e−wr2 (second trial function) was used, for which a bound state was found whose energy is plotted versus
+w in Fig. 4. The binding energy at the minimum is in the 5 keV range. Notice that the Schrödinger irregular form
+r−1 may be used since the potential is now finite at r = 0. With reference to Eq. (4), the kinetic energy is negative for
+the first trial function due to the exact cancellation of the 2 d
+dr
+r−1 d
+dr
+e−wr and 2
+r2
+d
+dr
+e−wr contributions to the kinetic
+energy. This cancellation also occurs using the second trial function, but the term r−1 d2
+dr2 e−wr2 sufficiently boosts the
+kinetic energy to avert total cancellation of the m2c4 term. The latter situation leads to the dominance of the matrix
+element of V 2, which is negative. Recall that V 2 is removed in the indicial equation in the point-nucleus model. The
+magnitude of the energy in Fig. 4 is large owing to the smallness of matrix elements of V in the finite-proton model
+
+
+6. Conclusions
+
+In summary, the hydrino states exist for both the Klein–Gordon and the Dirac equations, but they are sensitive to using a
+point-nucleus versus a finite-nucleus model, critically so in Dirac’s equation and less so in the Klein–Gordon equation.
+Since the Klein–Gordon equation cannot sensibly be proposed as an EOM for the electron, the negative result for
+Dirac’s equation suggests that evidence of excess energy production in experiments likely cannot be explained as due
+to the existence of an unusual quantum state.
+
+What might be considered for further investigation using Dirac-equation anomalous quantum states is the nature of
+the positron-electron state as a real two-fermion state rather than as a two-fermion-state concept in order to interpret
+Dirac’s equation. The latter concept encompasses the standard interpretation of Dirac’s equation, not as an equation for
+a single particle, but as an equation for an infinite number of particles, providing a practical calculational tool possibly
+at the cost of providing an idealization of physical reality. The Bethe–Salpeter equation [23] for two fermions was a
+move in the direction of an actual many-fermion theory, but its mathematical complexity appears to put it beyond the
+reach of realistic practical calculations. A recent quantum-dynamical approach [24] proposed by the present author
+might be worth pursuing since the two-fermion Coulomb interaction can be represented, as discussed there, without
+loss of Lorentz invariance.

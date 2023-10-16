@@ -1,0 +1,234 @@
+Introduction
+
+The Fleischmann-Pons effect consists of excess heat production in experiments where
+palladium cathodes are electrolyzed in heavy water; the amount of energy measured in such
+experiments is much too large to be of chemical origin; and energetic particles commensurate
+with the energy produced are absent. When first described in 1989, the response of the scientific
+community was one of skepticism and disbelief. Early efforts to confirm the effect were largely
+unsuccessful, due to a lack of understanding as to what are the critical issues. Subsequent
+experimental work in the following years has provided enough confirmations that the effect is at
+present held to be real among researchers who work in the area.
+
+There is at present no accepted theoretical explanation for the effect. Since the inception of
+nuclear physics in the early 20th century, nuclear reactions have been understood in part through
+the concept of local energy and momentum conservation. In an exothermic nuclear reaction, the
+net energy produced is expressed in terms of energetic particles. No nuclear reactions are known
+in which most of the energy produced goes into other channels.
+
+However, this foundation of nuclear physics is precisely what is challenged in the
+Fleischmann-Pons experiment. Hence, the primary theoretical focus, if one accepts that the
+energy is of nuclear origin and that commensurate energetic particles are not present, must be on
+physical mechanisms that lead to a violation of local energy and momentum conservation (while
+conserving overall momentum and energy).
+
+
+Energy exchange
+
+There is some experimental support for a reaction Q-value of 24 MeV per 4He atom observed
+in the gas phase, in experiments where an effort was made to scrub the helium out of the cathode
+[1,2]. This directs our attention to mechanisms in which two deuterons (as fuel) combine to make
+4He (as ash), where the mass difference (24 MeV) is to be converted to a very large number of
+lower energy quanta. Experiments have been reported recently in which cathodes have been
+observed to respond to laser beat frequencies at 8 THz and 15 THz (and also 20 THz), which
+correspond to the optical phonon band edges of PdD (and also PdH) [3]; these are modes with
+zero group velocity. This motivates us to consider optical phonon modes as oscillator modes
+involved in the energy exchange process.
+
+The theoretical problem to be addressed, then, is how a large energy (24 MeV) quantum can be
+split up efficiently into a very large number of small energy (33 or 62 meV) quanta. We have
+studied models in which two-level systems with a large transition energy (representing local
+molecular D2 and 4He states at vacancy sites in the PdD lattice) couple to a low energy harmonic
+oscillator (representing optical phonon modes with low group velocity). Such models at first
+glance appear to be closely related to spin-boson models that appear in the literature in
+connection with NMR, cavity QED, and other applications. When a two-level system is coupled
+to an oscillator with much lower characteristic energy, then the models predict that energy can be
+exchanged between the two systems. For this to occur, the resonance must be very precise, and
+the resulting energy exchange rate is very slow. In the end, one would not expect to see more
+than about 100 oscillator quanta exchanged for a two-level system quanta, due to the weakness
+of the energy exchange effect in the multi-quanta limit.
+
+
+Figure 1: Two-level systems coupled
+to a harmonic oscillator, in a many-
+spin spin-boson model.
+
+However, if we examine the many-spin version of the spin-boson problem, we find that energy
+exchange is hindered by destructive interference effects between the different individual
+pathways involved. If this destructive interference is spoiled, then the rate of energy exchange is
+greatly enhanced, and the number of oscillator quanta that can be exchanged with a two-level
+system is increased dramatically. Spin-boson models augmented with loss exhibit greatly
+increased energy exchange rates. An example of this is discussed in the Appendix. Such models
+allow energy exchange between low energy oscillators and energetic two-level systems that is
+sufficiently rapid to account for the kind of energy exchange required in Fleischmann-Pons
+experiments, at least in principle.
+
+
+Excitation transfer
+
+The use of spin-boson models requires an estimate for the coupling matrix elements between
+the two-level system and the oscillator. To apply this kind of model to describe nuclear
+transitions involving phonon exchange, we require an estimate for the associated matrix element.
+There is no difficulty in principle with a direct computation of the matrix element between
+molecular D2 and nuclear 4He states in the lattice, including phonon exchange [4]. However, we
+know that this matrix element is small due to the presence of a Gamow factor associated with
+tunneling through the Coulomb barrier. Many-spin spin-boson models augmented with loss
+require the coupling to be strong in order for the energy exchange process described above to
+function. As a result, the simplest possible models for energy exchange cannot work in the case
+of direct transitions between D2 and 4He.
+
+Consequently, we seek a modification of this basic model. In recent years we have focused on
+models involving two different sets of two-level systems, both coupled to a common oscillator.
+One of these sets of two-level systems is strongly coupled to the oscillator, and the other is
+assumed to be weakly coupled to the oscillator. The basic idea in this kind of model is that the
+excitation associated with the weakly-coupled two-level systems is transferred over to the
+strongly-coupled two-level systems, where many-quantum energy exchange can occur [5]. This
+is indicated schematically in Figure 2.
+
+
+Figure 2:
+The
+D2/4He
+system (modeled as a set
+of
+equivalent
+two-level
+systems) is weakly coupled
+to a low energy oscillator.
+A second set of two-level
+systems (indicated as the
+receiver
+system)
+is
+strongly
+coupled
+to
+the
+oscillator.
+
+Computations done to date indicates that the basic scheme seems up to the task of modeling
+the Fleischmann-Pons excess heat effect, as long as the associated many-spin model is
+augmented with loss (which greatly accelerates the excitation transfer process as well as the
+energy exchange process). The enhanced excitation transfer rate is sufficiently fast in the case of
+the weak coupling matrix element associated with the D2-4He transition to be consistent with
+experiment (as long as substantial screening effects comparable to those estimated by Cserki and
+coworkers [6] for PdD are included).
+
+However, input from experiment does not tell us what the relevant physical states are that
+correspond to the strongly-coupled two-level system on the receiver side. There are at least two
+plausible candidates which seem to have theoretical support and are not inconsistent with
+experiment:
+One possibility is that nuclear states of the host lattice participate. In this case, the ground state
+of the two-level system would correspond to the ground state of neutron rich isotopes of the host
+(such as 110Pd). The upper state would correspond to an exotic nuclear state in which a neutral
+cluster (such as 4n) separated from the daughter nucleus (106Pd) by about 10 fm, perhaps with
+some angular momentum. Such a state would be favored by the selection rules associated with
+coupling to the lattice (phonon exchange in association with nuclear excitation in general seems
+to be a weak effect, that becomes much stronger in the event that the lattice “sees” a mass change
+of the nucleus). Whether this kind of state can be sufficiently stable to do what is required within
+the context of the model has not been demonstrated.
+
+Another possibility is that nuclear states similar to those of the D2-4He two-level systems
+participate. In this case, the 4He ground state would match the ground state of the receiver-side
+two-level systems. The excited state in this scenario would be a compact molecular D2 state,
+formed by a competition between production (where the source involves creation at fermi-level
+separation) and destruction (where transitions back down to the ground state occur sufficiently
+rapidly to prevent D2 separation out to 0.74 Angstroms). As long as the reduced D2 separation
+was sufficiently large so that the difference in the electronic wavefunctions is significant
+(ultimately leading to phonon exchange), and conventional fusion pathways occurred sufficiently
+slowly so as not to drain off the excitation, then such a state would be able to fulfill the
+functional requirements of the model.
+
+
+Simulation model
+
+The development of an idealized microscopic model for excitation transfer and energy
+exchange allows us to consider using it in the context of a simulation model. A picture has been
+in the process of emerging over a great many years which seems to be consistent with many
+experiments, and which seems to be consistent with the requirements of the microscopic model.
+
+In this picture, deuterium is loaded into Pd so that the associated chemical potential becomes
+high enough to support vacancy stabilization (which occurs near a D/Pd ratio of 0.94). At this
+loading, Pd that is codeposited will have a large number of single-atom vacancies. There is the
+possibility that vacancies can diffuse from the outer surface, but the associated kinetics are
+expected to be slow unless there exists an enhancement under conditions where a deuterium flux
+is present. In the basic Fleischmann-Pons experiment, the formation of the vacancies is thought
+to require about a month (and a much shorter time in the Szpak experiment). The loading and
+vacancy stabilization can be simulated from information available in the literature; to model the
+surface vacancy distribution requires knowledge of the rate of codeposition, or enhanced
+vacancy diffusion rates.
+
+We conjecture that -bonded dideuterium [7] (essentially molecular D2) forms in the vacancies
+at more modest loadings. These are the active sites, which occur in the outer (micron-scale)
+region of the cathode. Dideuterium formation can be modeled using simple statistical mechanics
+given an estimate of the binding energy. Excitation transfer is then stimulated by phonon
+exchange with compressional phonon modes (the matrix element between D2 and 4He couples
+predominantly to compressional phonon modes) that are highly excited. Phonon excitation in this
+picture is produced by the deuterium flux through the near-surface of the cathode. Energy
+exchange occurs in the presence of high compressional optical phonon excitation in the case of
+assumed 4He-compact D2 states (which at present seems to match experiment best). The
+simplified model described above consisting of two-sets of two-level systems to account for the
+nuclear states, and a harmonic oscillator (augmented with loss) to model optical phonon modes,
+can be used to develop equations describing the associated coherent dynamics for the simulation
+model.
+
+As energy is produced, 4He accumulates in the active sites. At first, this would be helpful as
+there would be more capacity for anomalous energy exchange, since in general there is little
+helium present initially. However, as more energy is produced, we expect helium to block active
+sites, since the diffusion of helium away from the active sites is very slow near room
+temperature. In the event that helium diffusion limits excess heat production, we would expect to
+see a strong temperature dependence associated with excess heat production (as has been
+reported in a number of experiments [8]). With an appropriate simulation model, we can model
+this effect, and compute the fraction of helium released into the gas.
+
+We have begun the development of the simulation model outlined above. The results obtained
+so far seem to be interesting, and we hope to compare our results with experiment in the coming
+months.
+
+
+Appendix
+
+Consider the enhancement of multi-quantum coherent energy exchange in a many-spin spin-
+boson model augmented with loss. We take the Hamiltonian to be of the form
+Where the first term in the Hamiltonian describes the energy of the two-level systems, the second
+term describes the oscillator, the third term implements linear coupling, and the final term
+accounts for the loss added to the model. The model is discussed further in [9].
+
+Figure 3: Energy levels that
+contribute to indirect coupling
+between |M,n and |M+1,n-5
+in the case of multi-quantum
+exchange involving 5 quanta.
+
+The impact of loss on energy exchange can be illustrated through a concrete example. We
+consider a finite basis solution constructed from a combination of 12 basis states composed
+individually of products of Dicke states and oscillator states
+
+We consider indirect coupling from an initial state |M,n to a final state |M+1,n-5, in which a
+single two-level system excitation is matched to a loss of 5 oscillator quanta. The states are
+illustrated in Figure 3.
+
+If no loss is present, the indirect matrix element between the initial state and the final state can
+be found to lowest-order in perturbation theory to be
+
+If loss is present and large for all intermediate states with a basis energy less than E, such that the
+associated paths do not contribute, then the indirect coupling matrix element is
+
+For modest S the enhancement in indirect coupling is orders of magnitude. Loss breaks the
+destructive interference between the contributions from different pathways, and results in a
+dramatic increase in the indirect coupling responsible for coherent multi-quantum energy
+exchange.
+
+
+References
+
+1. M. C. H. McKubre et al, as discussed in the report prepared for the 2004 DoE review; Proc.
+ICCF11, page 23 (2004).
+2. M. Apicella et al, Proc. ICCF12 page 117 (2005).
+3. D. Letts and P. L. Hagelstein, Proc. ICCF14 (2008).
+4. P. L. Hagelstein, I. U. Chaudhary et al, Proc. ICCF14 (2008).
+5. P. L. Hagelstein and I. U. Chaudhary, J. Phys. B, 41 135501 (2008).
+6. K. Czerski, A. Huke, P. Heide, and G. Ruprecht, Europhys. Lett. 68 363 (2004).
+7. G. Kubas, Metal dihydrogen and -bond complexes, Kluwer Academic/Plenum Publishers,
+New York (2001).
+8. E. Storms, Proc. ICCF4, vol 2, page 4-1 (1993).
+9. P. L. Hagelstein and I. U. Chaudhary, submitted (2008).

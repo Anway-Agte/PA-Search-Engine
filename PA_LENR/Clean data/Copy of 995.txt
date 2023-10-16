@@ -1,0 +1,353 @@
+1. Introduction
+
+The primary near-term objectives of the Energetics Technologies experimental program in the
+quest for developing commercial cold fusion energy sources are: (1) Improvement of the
+reproducibility of high power gain and high energy gain excess heat generation, and (2)
+Extension of the duration of excess heat generation. The program focuses on experiments with
+electrolytic cells that are driven by SuperWaves. [1-3]. The idea of using SuperWaves to enhance
+LENR (Low Energy Nuclear Reactions) was proposed by I. Dardik based on his vision of nature
+described in [4].
+
+Several experimental approaches are being pursued in an attempt of achieving the near-term
+objectives, including the following:
+
+
+Optimization of the SuperWave pattern
+
+
+Modification of the cathode surface by special annealing-etching procedures jointly under
+development with ENEA Frascati and the University of Rome [5]
+
+
+Modification of the cathode surface by SuperWave glow discharge etching [3]
+
+
+Development of new types of cathodes [3]
+
+
+Use of ultrasound cavitation in the electrolyte in the vicinity of the cathode for in-situ
+cleaning and activation of the cathode surface, generation of dislocations, assistance in
+loading and inducing excitation in the Pd-D system.
+
+This paper is an overview of the latter approach. The other approaches listed above were
+reported upon in preceding conferences [1-3]. Successful replication of earlier Energetics
+Technologies excess heat generating electrolysis experiments were achieved at both the SRI and
+the ENEA laboratories as reported in reference [6].
+
+A description of the SuperWave principle can be found in previous publications [1-4] and will
+not be repeated here. Section 2 describes the electrolysis cells with ultrasonic transmitters
+developed and used by Energetics Technologies. Examples of excess heat generated in ultrasonic
+excited electrolysis cells are presented in Section 3. That is followed by a discussion, in Section
+4, of the functions of the ultrasound cavitation. A summary of high excess heat generation results
+obtained so far in our experiments is given in Section 5.
+
+
+2. Electrolysis Cells with Ultrasonic Excitation
+
+Since its early days, Energetics Technologies planned to conduct experiments that combine
+ultrasonic excitation with electrolysis [1]. The designs of our electrolysis cells with ultrasonic
+excitation have undergone a number of conceptual variations.
+
+Presently we have three cylindrical electrolysis cells designed to allow ultrasonic cavitation
+excitation. These cells are immersed in a water bath that incorporates a flow calorimeter. The
+ultrasonic transmitter or transmitters are located outside of the water bath. The entire system is
+housed in an incubator that maintains the experimental setup in a tightly regulated ambient
+temperature. The uncertainty in the determination of the excess heat, Pex, using the calibrated
+mass-flow calorimeter is approximately 20 mW.
+
+Experimental cells #1 and #2 use an annular piezo ceramic ultrasonic transmitter surrounding
+the water bath as shown in Fig. 1. The cathode-anode assembly used in these cells is shown in
+Fig. 2. The cathode is a palladium foil, 60 × 3.0 × 0.03 mm. It is made at Energetics
+Technologies by rolling a 0.5 or 1.0 mm thick Pd wire. The anode is a helical platinum wire
+wound around the cathode over a perforated cylinder of Teflon (See Fig. 2).
+
+Cell #3 uses four tubular ultrasonic transmitters located 90 degrees from each other as shown
+in Figs. 3 and 4. The design of the anodes was modified for this geometrical arrangement, as
+shown in Fig. 6 (compare with Fig. 2).
+
+Figure. 1. Schematic of the Energetics Technologies electrolytic cell system with an annular ultrasonic-
+transmitter; Cells #1 and 2. Flow calorimetry is performed by comparing temperatures T Inlet and T Outlet
+
+Figure 2. The cathode-anode assembly used in the Energetics Technologies electrolytic cells #1 and #2 that
+have annular ultrasonic-transmitters
+
+Figure 3. The hardware of the flow calorimeter of Energetics Technologies electrolytic cell #3 that
+incorporates four tubular ultrasonic transmitters
+
+Figure 4. Energetics Technologies electrolytic cell #3 assembly installed inside a constant temperature
+incubator.
+
+Figure 5. The cathode-anode assembly of Energetics Technologies electrolytic cell #3
+
+The maximum power level and frequencies that the ultrasonic transmitters can operate at in the
+three electrolytic cells are summarized in Table 1.
+
+Table 1. Characteristics of Energetics Technologies Electrolysis Cells with Ultrasonic
+Transmitters
+
+
+3. Results
+
+Table 2 gives a statistical summary of the electrolysis experiments performed during 2007 and
+2008 using the three ultrasonic excitation electrolysis cells. Seventeen additional experiments
+failed because of mechanical problems: mainly palladium foil rupture caused by cavitation. The
+reproducibility of excess heat generation is quite high; it is higher than the reproducibility
+obtained in our previous electrolysis experiments that did not incorporate ultrasonic cavitation.
+
+Table 2. Summary of Energetics Technologies Electrolysis Experiments Using Ultrasonic
+Excitation
+
+Figures 6 through 11 show examples of excess heat generation measured in electrolysis
+experiments with ultrasonic excitation. In these experiments, ultrasonic excitation was applied
+for several periods, each lasting as long as 24 hours, while electrolysis power was continuously
+applied. The figures show: net input power, Pinet – the power delivered to the cell from the
+external power supply driving the electrolysis (Pin) minus the power consumed for
+decomposition of heavy water molecules; and Pout – the power transferred out from the cell as
+measured by the calorimeter. The Coefficient Of Performance (COP) is defined as (Pout-Pinet)/Pin.
+
+Figure 6 shows that excess heat started in experiment ETUS3-5 about 5 days after the
+beginning of the experiment. The vertical pink spikes in the figure are heating effects due to the
+application of the ultrasonic transmitter and are ignored in the excess-heat analysis. Sometime
+between day 20 and day 30 of the experiment, the excess heat level was ~0.2 W, while the net
+input energy was ~1 W. Around the 31th day, electrolysis was turned off, but excess heat
+generation continued and even increased up to ~0.5 W. This “heat-after-death” lasted for about 4
+days, at which time (around the 35th day) the electrolysis current was turned on again. At day 56,
+after ramping Pin up and down in a stepwise manner, Pin was turned off again but Pout continued
+for several days at a level of ~0.6 watts, before it started dropping. On the 60th day the Pd
+cathode was replaced with a Pt cathode, following which Pout became zero. This proves that our
+calorimeter was well calibrated. It also proves that the excess heat measured after electrolysis
+was turned off was, indeed, heat-after-death.
+
+Figure 6. Net input power (Pinet – in blue) and output power (Pout – in violet) in ultrasonically excited
+electrolysis experiment #ETUS3-5 in cell #3
+
+Figure 7 shows the evolution of Pinet and Pout in experiment #ETUS3-6. The ultrasonic
+transmitters were turned on 4 times, for 24 hours each time, while the electrolysis power was set
+at a low Pin level of less than 0.2 W. After the first session of ultrasonic excitation the output
+power gradually dropped to zero. After the second session of ultrasonic excitation Pout dropped to
+zero and then started increasing. The third session was soon started1. After the 3rd session of
+ultrasonic excitation Pout dropped to zero at which time the 4th session of ultrasonic excitation
+was applied. Pin dropped to zero, then increased up to ~1 W, and then gradually declined. The
+duration of excess heat generation was 17 days and the maximum COP exceeded 500%. At about
+2,400,000 seconds (approximately 28 days) Pin was turned off. Following this Pout dropped to
+zero. Applying Pin again did not succeed in reviving the excess heat generation. These last two
+steps again provide strong evidence that the excess heat recorded earlier in this experiment is
+real, and not a result of improper calibration.
+
+Figure 7. Net input power (Pinet – in black) and output power (Pout – in red) in ultrasonically excited
+electrolysis experiment #ETUS3-6 in cell #3. Ultrasound (US) was applied in 4 sessions, each lasting about
+24 h
+
+Similar features are observed in the three additional experimental results shown in Figs. 8
+through 10.
+
+Figure 8. Net input power (Pinet – in black) and output power (Pout – in red) in ultrasonically excited
+electrolysis experiment #ETUS1-17 in cell #1
+
+Figure 9. Net input power (Pinet – in black) and output power (Pout – in red) in ultrasonically excited
+electrolysis experiment #ETUS2-11 using cell #2
+
+Figure 10. Net input power (Pinet – in black) and output power (Pout – in red) in ultrasonically excited
+electrolysis experiment #ETUS3-20 using cell #3
+
+Figure 11. Net input power (Pinet – in black) and output power (Pout – in red) in ultrasonically excited
+electrolysis experiment #ETUS3-21 using cell #3
+
+
+4. Unique Characteristics of Ultrasonic Excited Electrolysis
+
+Unique characteristics of ultrasonic excited electrolysis experiments include the following:
+
+
+Very high deuterium loadings (D/Pd > 0.95) is achieved, while applying low current
+density
+
+
+The deuterium stays in the palladium a long time after shutdown (the β phase is stable)
+
+
+Sub-micron sized pits are found on the surface of palladium cathode, in high density
+
+
+Craters with signs of melting (and some craters without melting) are found on the surface
+of the palladium cathodes
+
+A comparison between Figs. 12 - 14 and Figs. 15 and 16 illustrate the fact that the application
+of ultrasonic cavitation, together with the application of SuperWaves electrolysis, enables very
+high deuterium loading using exceptionally low current densities. This remarkable increase in
+the deuterium loading may be attributed to the following phenomena induced by cavitation:
+
+
+Cleaning various deposits from the cathode surface
+
+
+Activating the cathode surface
+
+
+Increasing the cathode effective surface area
+
+Figure 12. Very high D loading in Pd is obtained in ultrasonically excited electrolysis when driven with low
+current density – example 1
+
+Figure 13. Very high D loading in Pd is obtained in ultrasonically excited electrolysis when driven with low
+current density – example 2
+
+Figure 14. Very high D loading in Pd is obtained in ultrasonically excited electrolysis when driven with low
+current density – example 3
+
+Figure 15. D loading in Pd without ultrasonically excited electrolysis experiment is lower even at significantly
+higher current density – example 1
+
+Figure 16. D loading in Pd without ultrasonically excited electrolysis experiment is lower even at significantly
+higher current density – example 2
+
+Figure 17 compares the rate of deuterium desorption from two Pd cathodes after turning
+electrolysis off. The sample in the top plot was subjected to ultrasonic excitation, while the
+sample in the bottom plot was not. The difference is remarkable. Note that from the time the Pd
+foil was removed from the cell to the beginning of the X-Ray diffraction analysis used to
+measure the D/Pd atom ratio, the D/Pd ratio in the palladium foil in the bottom plot dropped
+from more than 0.9 to ~0.4, while the D/Pd ratio in top plot (palladium foil exposed to ultrasonic
+cavitation) remained close to 1.0. During the D/Pd analysis period, the rate of desorption from
+the palladium foil that was exposed to cavitation is far slower: the β phase appears to be stable
+for over 100 days. This unique phenomenon may be due to the formation, by cavitation, of a high
+concentration of defects in the palladium. These defects can act as potential deuterium traps
+causing slow deuterium desorption.
+
+Figure 17. Rate of deuterium desorption from a Pd cathode that was subjected to ultrasonic cavitation (“US
+activation”) (top), versus a Pd cathode that was subjected regular electrolysis (bottom)
+
+Figure 18 compares the surface of the Pd cathode after ultrasonic assisted electrolysis
+experiment #ETUS3-6 (left) with the surface of the cathode of electrolysis experiment #64
+(right) that was not exposed to ultrasonic cavitation. The morphology of the two cathodes is very
+different. The cavitation introduces considerable changes in the structure of the Pd surface.
+Regular electrolysis (right) produces a structure consisting of slip bands formed in the course of
+plastic deformation of the palladium, due to deuterium absorption and resulting lattice expansion.
+Cavitation plus electrolysis (left) leads to the formation of a cellular structure. This effect results
+in activation of a surface and creates a high concentration of defects – potential deuterium traps.
+
+Figure 18. Comparison of Pd cathode surface after experiment ETUS3-6 (left) and ETE-64 (right; no
+ultrasonic) – both gave excess heat. Secondary electron microscope image magnification of x8000
+
+Craters of various shapes and dimensions were formed on the surfaces of several of the
+palladium cathodes subjected to ultrasonic excited electrolysis. Figure 19 shows samples. Some
+of the craters show clear signs of palladium melting on and near the surface. The craters are
+typically several microns in diameter and several microns deep.
+
+Figure 19. Example of craters found on the surface of palladium cathodes that were subjected to electrolysis
+with intermittent application of ultrasound cavitation.
+
+Consider, for example, the crater at the top center of Fig. 19. It is ~4 microns in diameter and
+~6 microns deep. The amount of energy required to melt the mass of palladium from this crater
+(ignoring heat losses via conduction to the surrounding palladium and to the electrolyte) is on the
+order of 0.1 milli-Joules. This is many orders of magnitude smaller than the measured excess
+heat, which was on the order of tens to thousands of kilojoules. Remember, though, that the
+palladium is in direct contact with the electrolyte, and the heat transfer rate from the palladium to
+the electrolyte should be very high. So it is surprising that some spots in the cathode even reach
+the melting point of Pd (1554°C).
+
+The craters identified so far have been found in a very small fraction of the total cathode
+surface that can be scanned using a SEM. Better diagnostics will be needed to obtain statistically
+significant information on the number and types of craters, and their spatial distribution.
+
+
+5. Summary of Best Excess Heat Generating Experiments at Energetics Technologies
+
+Table 3 summarizes selected performance characteristics of the eight electrolysis experiments
+that so far generated the largest amount of excess power, Px (previously referred to as excess
+heat), or excess energy, Ex. The average “specific excess power,” given in watts per gram of
+palladium that was exposed to the electrolyte, is a measure of the utilization effectiveness of the
+palladium. The largest average specific excess power obtained so far – nearly 70 W/g of Pd, is
+even higher than the typical specific power in commercial fission reactors – 20 to 50 Watts per
+gram of uranium. The “specific excess energy,” expressed in kilo-electron-volt generated per
+palladium atom or per deuterium atom in the cathode (the ratio of D to Pd atoms in the cathode is
+nearly 1), is an indicator of whether or not the excess heat could be chemical or mechanical
+(stored energy) in origin.
+
+The maximum specific excess energy obtained in our electrolysis experiment is over 20 KeV
+per Pd or D atom. This is to be compared with heat of desorption of D from the Pd lattice of ~0.3
+eV per D atom; heat of D oxidation of ~1.3 eV per D atom; heat of molarization of ~2.2 eV per
+D atom; heat of melting (an upper bound on the possible mechanical energy storage in the Pd
+lattice) of ~0.2 eV per Pd atom and heat of evaporation of Pd of ~4 eV per Pd atom. All of these
+are three to four orders of magnitude smaller than the specific excess energy measured. This
+provides a strong yet indirect indication that the excess energy generated in the experiments
+reported above is, indeed, of nuclear origin.
+
+Table 3. Selected Characteristics of the Eight Energetics Technologies (ET) Electrolysis
+Experiments that Generated Largest Amount of Excess Power or Excess Energy. The highest
+value in each row is highlighted in yellow.
+
+
+6. Conclusions
+
+In-cell exposure of palladium cathodes to ultrasound cavitation, combined with SuperWave
+electric current driven electrolysis, was found to enable remarkably high deuterium loading with
+surprisingly low current density. The rate of deuterium desorption from palladium cathodes
+removed from ultrasonic-assisted electrolysis cells was found to be remarkably slow: the
+palladium remained in beta phase loading for many days. The outer layer of palladium foils
+exposed to ultrasonic cavitation experiences a large plastic deformation that is characterized by a
+highly pitted rough surface. Craters showing clear signs of palladium melting were found on
+palladium cathodes that underwent ultrasonic excitation during electrolysis. Better diagnostics
+will be required to analyze these craters.
+
+The most reproducible excess heat generation of all experiments performed so far at Energetics
+Technologies has been obtained with ultrasonic excitation. Several episodes of “heat-after-death”
+were observed during some of the ultrasonically excited experiments. It is necessary to optimize
+the application of the ultrasound to minimize the energy needed to generate the cavitation versus
+the amount of excess energy generated. The mechanism by which ultrasonic excitation
+intensifies the excess heat also needs to be thoroughly investigated.
+
+Significant amounts of excess power and excess energy were generated and very large
+Coefficient Of Performance (COP) were obtained in several of Energetics Technologies
+experiments. The best performance parameters obtained so far are:
+
+
+Excess energy
+
+3.5 MJ:
+
+Excess power
+34 W
+
+
+COP
+3000%
+
+
+Duration
+40 days
+
+
+Specific energy
+27 KeV per Pd or D atom
+
+
+Specific power
+70 W/g Pd
+
+The latter can be appreciated when compared against the 20 to 50 W/g of uranium that is
+achieved in large commercial fission power reactors.
+
+
+References
+
+1. I. Dardik, H. Branover, A. El-Boher, D. Gazit, E. Golbreich, E. Greenspan, A. Kapusta, B.
+Khachaturov, V. Krakov, S. Lesin, B. Michailovitch, G. Shani And T. Zilov, “Intensification
+of Low Energy Nuclear Reactions Using SuperWaves Excitation,” Proc. of the Tenth
+International Conference on Cold Fusion ICCF-10, Cambridge, MA, August 2003.
+2. I. Dardik, T. Zilov, H. Branover, A. El-Boher, E. Greenspan, B. Khachaturov, V. Krakov, S.
+Lesin and M. Tsirlin, “Excess Heat in Electrolysis Experiments at Energetics Technologies,”
+Presented at the 11th International Conference on Cold Fusion, ICCF-11, Marseilles, France,
+November 1 - 6, 2004.
+3. I. Dardik, “SuperWaves Reality,” Proc. of the Tenth International Conference on Cold
+Fusion ICCF-10, Cambridge, MA, August 2003.
+4. I. Dardik, T. Zilov, H. Branover, A. El-Boher, E. Greenspan, B. Khachaturov, V. Krakov, S.
+Lesin, A.Shapiro and M. Tsirlin, “Report on Electrolysis Experiments at Energetics
+Technologies,” Proc. of the 13th International Conference on Cold Fusion ICCF-13, Sochi,
+Russia, June 25-July 1, 2007.
+5. V. Violante, F. Sarto, E.Castagna,C. Sibilia, M.Bertolotti, R. Li Voti, G.Leahu, M. McKubre,
+F. Tanzella, K.Grabowski, G.Hubler, D. Knies,T. Zilov and I. Dardik, “ Calorimetric Results
+of ENEA Cooperative Experiments,” Proc. of the 13th International Conference on Cold
+Fusion ICCF-13, Sochi, Russia, June 25-July 1, 2007.
+6. M. C. H. McKubre, F. L. Tanzella, I. Dardik, A. El Boher, T. Zilov, E. Greenspan, C. Sibilia
+and V. Violante. “Replication of Condensed Matter Heat Production,” in American Chemical
+Society Low Energy Nuclear Reactions Sourcebook, Oxford University Press, August 2008.

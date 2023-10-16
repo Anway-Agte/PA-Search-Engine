@@ -1,0 +1,600 @@
+1. Introduction
+
+The experimental existence of low energy nuclear reactions (LENR) is well established
+and obtained results have been published in over 3000 scientific papers. Nevertheless
+there is no widely accepted theoretical mechanism for LENR.
+
+We [1, 2] have discussed the cooperative resonance synchronization enhancement
+mechanisms of LENR. Some of the low energy external fields can be used as triggers for
+starting and enhancing of exothermic LENR. It is natural to expect that in the case of
+beta-decay (capture) the external electron flux with high density, or the laser of high
+intensity, or any suitable external fields should play this role. Any external field
+shortening distances between protons in nuclei and electrons in atoms should enhance
+beta-decay (capture) or double-beta decay (capture). We proposed a new mechanism of
+LENR: cooperative processes in whole system —nuclei+atoms+condensed
+matter+gaseuos+plasma medium — can occur at smaller threshold then corresponding
+ones on free constituents. The cooperative processes can be induced and enhanced by low
+energy external fields. The excess heat is the emission of internal energy, and
+transmutations are the result of redistribution inner energy of whole system.
+
+The investigation of LENR requires knowledge of different branches of science:
+nuclear and atomic physics, chemistry, and electrochemistry, condensed matter and solid
+state physics. This means that the problem of LENR is an interdisciplinary one. Yet the
+differentiation of science in the beginning of the 20th century may have brought about a
+situation in which the necessary interdisciplinary unification of different science branches
+has been lost.
+
+We established a detailed mutually-simple correspondence between the properties of
+hydrogen atom states and other physical systems. We successfully applied the Bohr
+method to analyze different systems using the established isomorphism of hydrogen atom
+properties and system being investigated.
+
+The definition of isomorphism from Wikipedia, the free encyclopedia
+(http://en.wikipedia.org/wiki/Isomorphism) is:
+
+Informally, an isomorphism is a kind of mapping between objects, which shows a
+relationship between two properties or operations. If there exists an isomorphism
+between two structures, we call the two structures ISOMORPHIC. In a certain sense,
+isomorphic structures are STRUCTURALLY IDENTICAL, if you choose to ignore finergrained differences that may arise from how they are defined.
+
+According to Douglas Hofstadter:
+
+"The word 'isomorphism' applies when two complex structures can be mapped onto
+each other, in a such way that to each part of one structure there is a corresponding part
+in the other structure, where 'corresponding' means that the two parts play similar roles
+in their respective structures" (Godel, Escher, Bach, p. 49).
+
+PURPOSE: Isomorphism is studied in mathematics in order to extend insights from
+one phenomenon to others: if two objects are isomorphic, then any property which is
+preserved by an isomorphism and which true of one of objects are also true of the other.
+If isomorphism can be found a relatively unknown part of mathematics into some well
+studied division of mathematics, where many theorems are already proved, and any
+methods are already available to find answers, then the function can be used to map
+whole problems out of unfamiliar territory over to "solid grounds" where the problem is
+easier to understand and work with.
+
+We will discuss isomorphism phenomena as between microscopic systems as between
+micro and macro systems.
+
+
+2. The Quantum Hall effect
+
+The Hall effect was discovered in 1879 by Edwin Hall. The resistance RH
+(called now
+as the Hall resistance) depends linearly on the strength B of the magnetic field.
+
+2.1. The Integer Quantum Hall Effect:
+Klaus von Klitzing [3] in 1980 observed that in a low-temperature liquid He (  4K )
+in a very high magnetic field (  10T ) a step-wise dependence of the Hall resistance RH
+on magnetic field, rather than Edwin Hall's linear relationship. The value of RH
+at the
+position of the plateaus of the steps is quantized:
+
+2
+, 1,2,3, H
+h
+R
+e
+
+
+   (1)
+
+and the magneto resistance have a deep minima (is equal practically to zero in the
+plateau). This is the integer quantum Hall effect, where  takes on integer values
+(  1,2,3,).
+
+
+ Interpretation [3]: the integer Hall quantization is the magnetic flux
+quantization h e/ and the quantization of the charge into elementary charge e .
+
+0
+2
+1
+H
+h h R
+e e e e
+
+  
+   , (2)
+
+where 0
+h
+e
+  is the magnetic flux quanta. This interpretation is accepted now as standard
+one.
+
+2.2. The Fractional Quantum Hall Effect:
+The fractional quantum Hall effect was experimentally discovered by Daniel Tsui,
+Horst Stormer and Arthur Gossard, in which  can occur as a fractions
+
+0 0 0 0 0
+2 1 2 3 5
+, , , , ,
+3 3 5 5 2
+        (3)
+
+ Interpretation [3]: By analogy, the fractional quantum Hall effect is interpreted
+on the basis of elementary excitations of quasiparticle with a fractional charge
+
+*
+, , ,
+3 5 7
+e e e
+e  . (4)
+
+This interpretation is a very strange one. Horst Stormer wrote [4]:
+
+The fractional quantum Hall effect is a very counterintuitive physical phenomenon. It
+implies, that many electrons, acting in correct, can create new particles having a charge
+SMALLER than the charge of any individual electron. This is not the way things are
+supposed to be. A collection of objects may assemble to form a BIGGER object, or the
+parts may remain their size, but they don't create anything SMALLER. Not only are they
+smaller than the charge of any constituent electron, but they are exactly 1/3 or 1/5 o1/7,
+etc. of an electronic charge, depending on the conditions under which they have been
+prepared. And yet we known with certainty, that none of these electrons has split up into
+pieces.
+
+Fractional charge is the most puzzling of the observation, but there are others.
+Quantum numbers – usually integers or half-integers – turn out to be also fractional,
+such as 2/5, 4/9, and 11/7, or even 5/25.
+
+The quantization of Hall resistance (1) and (2) is incredibly precise. The Hall
+conductance has been found to be integer or fractional numbers of 2
+e h/ to one part in a
+billion which are now called "exact quantization". The high precision measurements of
+the quantized Hall resistance are used as a resistance standard or for a determination of
+2
+h e/ (a determination of the inverse fine structure constant 1 
+
+) which are important for
+all areas in physics connected with the fine structure constant.
+
+Therefore, the Hall conductance (the inverse Hall resistance (1)) obeys the "exact
+quantization" conditions
+
+2
+1
+e
+2
+v , 1,2,3, or , 1,2,3, H i
+e n
+V n
+n
+          
+
+(5)
+
+where ve
+is the electron velocity in the hydrogen ground state
+
+2
+ve
+e
+
+
+. (6)
+
+, H e e H p p      . (7)
+
+ We come to the conclusion [5] that the integer and fractional Hall effects
+demonstrate only the commensurability ratios between velocities, impulses and
+the de Broglie wave lengths of electrons in ground state hydrogen atom and
+corresponding ones for two-dimensional electron gas. So there is no room for
+interpretation of the fractional Hall effect in terms of the fractional charge.
+Nobody has observed a fractional charge in nature. Our interpretation of the
+integer and fractional Hall effects is simple and unique, physically grounded, and
+does not require a violation of the fundamental laws of Nature.
+
+We know that the interaction between the elementary particles guided by some strong
+conservation laws. One of the conservation laws requires that the total electrical charge
+be preserved at any interactions. So, if this law is true then the total electrical charge in
+the aggregate electrons should always be an integer.
+
+The mystery of fractional quantum numbers in discussing the effect get a very simple
+explanation: they demonstrated the commensurability relations for velocities, impulses
+and the de Broglie wave lengths of electrons in hydrogen atom and in two-dimensional
+experimental device. The hydrogen atom in ground state represents a superconducting
+dipole. Therefore the two-dimensional experimental device becomes a superconductor at
+the quantum Hall effect.
+
+
+3. Superfluidity
+
+P. L. Kapitza in 1937 discovered that the viscosity of the liquid helium at temperature
+below 2.19 K becomes zero. It was established that the motion of liquid helium obeys to
+the conditions
+
+v , 1,2,3,
+He
+r N N
+m
+ 
+ 
+
+This means that sectorial velocities of liquid helium are quantized, therefore the
+phenomenon of superfluidity is a consequence of quantum mechanics on a macroscopic
+scale. Superfluids can flow through narrow channels without viscosity. The motion of the
+superfluids through narrow channels submits to the same quantum conditions as electron
+motion in hydrogen atom do.
+
+Remember the Bohr quantization conditions for hydrogen atom:
+
+v , 1,2,3, r N N
+m
+ 
+ 
+
+The condition of full transparency for waves (see below) coincides with the Bohr
+quantization condition.
+
+What quantity is vr ? It is a double sectorial velocity of the body having periodical
+motion. So, we see that the quantization of sectorial velocities of liquid helium (macro
+system) is isomorphic to the quantization of the Bohr orbit in hydrogen atoms (micro
+system).
+
+Let us briefly consider the quantization of planet and satellite sectorial velocities. There
+are some arguments that this phenomenon plays a fundamental role in the formation of
+stable dynamic systems similar to Solar system.
+
+It was established [6] that quantization of sectorial velocities of Solar system elements
+is isomorphic to the quantization of the Bohr orbits in hydrogen atom. The same
+quantization for solar system [6]
+
+, 1,2,3, G
+G
+VR N N
+m
+ 
+ 
+
+Here is a quotation from a Nobel Lecture, December 8, 1998, by Robert B. Laughlin
+[8]:
+
+Superfluidity, like the fractional quantum effect, is an emergent phenomenon – a low
+energy collective effect of huge numbers of particles that cannot be deduced from the
+microscopic equations of motion in a rigorous way and that disappears completely when
+the system is taken apart.... There are prototypes for superfluids,...., but these are all
+approximate and in the end not deductive at all, but fits to experiment...
+
+...there is a regrettable tendency in solid-state physics to equate an understanding of
+nature with the ability to model, an attitude that sometimes leads to overlooking or
+misinterpreting the higher organizing principle actually responsible for an effect. In the
+case of the integral or fractional quantum Hall effects the essential thing is the
+ACCURACY of quantization. No amount of modeling done on any computer existing or
+contemplated will ever explain this accuracy by itself. Only thermodynamic principle
+does this.
+
+
+4. The isomorphism of atom, molecule, crystal, ... structures
+
+We have proved [5] the isomorphism and homology of atom, molecule (in living
+molecules too including DNA) and crystal structures. So interatomic distances in
+molecules, crystals and solid-state matter can be written in the following way:
+
+1
+2
+e
+n
+d
+n
+  , (8)
+
+where e  0.3324918nm is the de Broglie electron wavelength in a hydrogen atom in
+the ground state (  e p  in a hydrogen atom in the ground state) and 1 2 n n( ) 1,2,3,  .
+So the de Broglie electron (proton) wavelength in a hydrogen atom in the ground state
+can be considered as a standard of dimensions for atoms and interatomic distances in
+molecules, crystals and living cells [5]. There are huge examples of commensurable
+ratios between the interatomic distances and e
+in superconductors, nanomaterials, DNA,
+protein, and living molecules [5]. The parameter–free formula for interatomic distances
+in biomoleculas, superconducters and size of nanostructures has been obtained. This
+establishes some bridge between the structures of different phenomena (conductivity,
+superconductivity, insulator–metal transmission, quantum Hall effect, superfluidity,
+quantization of nanostructure cluster size, size of biomolecules). This connection can be
+considered as indication of existence of some physical phenomena in the structures of the
+superconducting and living systems.
+
+We have shown below only a small part of our calculations by formula (8) and the
+corresponding comparison with experimental data [7] for interatomic distances in some
+molecules. One can see surprising by high accuracy description of existing experimental
+data.
+
+Table 1.
+Interatomic semi-wave / 2 0.1662 e
+  nm distances d in molecules, exp / 2 
+e
+   d  .
+
+Table 2.
+Interatomic quarter-wave 3 / 4 0.2494 e
+  nm distances d in molecules, exp 3 / 4 
+e
+   d  .
+
+Note that the quantization conditions for the fractional Hall effect [5] are the
+same as (8). It means that the fractional Hall effect demonstrates only the
+commensurable velocities of electrons in hydrogen atoms and GaAs -type
+heterostructures (two-dimensional electron gas). So there is no room for
+interpretation of the fractional Hall effect in terms of the fractional charge.
+Nobody has observed a fractional charge in nature.
+
+
+5. Electrical conductivity
+
+Formula (8) gives the real method for increasing of the electrical conductivity.
+
+Table 3. Geometrical parameters of metals, d is a parameter of cell or distances between nearest atoms,
+exp cal
+   d d .
+
+
+6. Superconductivity
+
+It is well known in optics (and in quantum mechanics too) that the transition coefficient
+of light through the layer is equal to one if the following relations between the thickness
+R of the layer and wave length e
+exist
+
+1
+1 2
+2
+, 1,2,3, , 2,4 e
+n
+R n n
+n
+     . (9)
+
+It is interesting to note that: 1) the Bohr quantization conditions   N e  N for a
+hydrogen atom; 2) the quantization conditions N 4He
+   N for superfluid 4He coincide
+with (9); and 3) the Tomasch quantization conditions for tunneling are the same as (9).
+
+We have carried out a systematic analysis of interatomic distances for a huge number
+of systems, using (9), in which    e
+is the electron wave length in the ground state of a
+hydrogen atom.
+
+Table 4. Geometrical parameters of high temperature superconductor
+2 3 y x
+YBa Cu O  
+at temperature below
+Tc
+,
+exp cal
+   a a .
+
+Table 5. Critical temperature c
+T as function a (in nm) for superconductor
+3
+Nb Al ,
+exp cal
+   a a .
+
+We come to the conclusion that superconductivity can be explained by the following
+assumption: channel motions in systems like that of electron motion in the ground state of
+a hydrogen atom are exactly synchronous. Therefore, superconductivity systems
+represent a coherent synchronized state — a complex of coupled resonators with the
+commensurable frequencies.
+
+ This means that we have in principle found out the possibility to achieve
+superconductivity at room temperature (Gareev 2000).
+
+The parameter-free formula for interatomic distances in biomolecules, superconducters,
+and size of nanostructures has been obtained [5]. This establishes some bridge between
+the structures of different phenomena (conductivity, superconductivity, insulator-metal
+transmission, quantum Hall effect, superfluidity, quantization of nanostructure cluster
+size, size of biomolecules). This connection can be considered as an indication of the
+existence of some physical phenomena in the structures of the superconducting and living
+systems.
+
+We have shown [25] only a small part of our calculations by formula (9) and the
+corresponding comparison with experimental data for interatomic distances in some
+molecules. One can be surprised by a high accuracy description of the existing
+experimental data.
+
+Understanding of the origin and evolution of the genetic code must be the basis for a
+detailed knowledge of the relationship between the basic building blocks of DNA and
+environment. As is widely accepted today, essentially all the DNA in an eukaryotic
+nucleus are formed of histones and different chromatin structures folded hierarchically.
+At least five orders of DNA and chromatin organization and folding (nucleotide, helix,
+nucleosome, solenoid and chromatin fibre loop) have been described in the literature. A
+DNA chain is a long unbranched polimer composed of only four types of subunits. These
+are nucleotides containing the basis adenin (A), cytozine (C), guanin (G), and thymine
+(T). These nucleotides form complementary flat pairs and the distances between these
+plains are equal to e
+.
+
+ This means that the structures, formed in DNA molecules by nucleotides,
+produce the two- and three-dimensional superconductors (wave guides).
+All proteins look like dimers in which the two copies of the recognition helix are
+separated by exactly one turn of the DNA helix:
+
+3.4nm 10 3.325nm   e
+.
+
+DNA is packaged with histones into regularly repeating nucleosomes that are packed
+into 30 nm (diameter) fibers:
+
+30 90 29.92nm   e
+,
+
+it is also elaborated, folded and organized by other proteins into a series of subdomains of
+distinct character. This higher-order packing is the most fascinating and also most poorly
+understood aspect of chromatin.
+
+Molecules of DNA, amino acids, proteins,  contain tetrahedral blocks H C C 3  with
+the angles     HCH HCH 109.47
+, with the bond length
+
+3d H C      e 0.3325nm and 3d H C d C C          3/ 2 0.4987nm e
+
+Note that these molecules of amino acids and DNA have planar blocks H N C 2  ,
+whose bond length is equal to
+
+2d H N d N C          e 0.332nm .
+
+Pentagonal rings in adenin and guanin have the bond length equal to 0.668 and 0.666
+nm, respectively, which is close to 2 0.665 e  nm.
+
+ Many distances in living molecules are commensurable with the de Broglie wave
+length e
+of an electron (proton) in the ground state of a hydrogen atom. This
+means that e
+play the role of the standard distance in molecules, especially in
+living molecules. Hence, the electron and proton motions in a hydrogen atom and
+in living molecules are synchronized and self-consistent. A hydrogen atom
+represents radiating and accepting antennas swapping the information with the
+surrounding substance. Atoms, molecules represent wave antennas.
+
+
+7. Cold Fusion
+
+It is well known in optics (and in quantum mechanics too) that the transition coefficient
+of light through a layer is equal to one if the following relations between the thickness R
+of the layer and wave length  exist
+
+1
+1 2
+2
+, 1,2,3, , 2,4 n
+R n n
+n
+     .
+(10)
+
+ In this case the light does not feel the layer: the layer does not exist for the light
+in such conditions. The layer is invisible and transparent.
+
+ The same mechanism can be for cold fusion or LENR when cell sizes and
+corresponding wave lengths obey the conditions (10) — maximal effectiveness
+for nuclear processes.
+
+
+8. Crystallographic Picture of Universe
+
+ M. Gryzinski [9, 10, 11] has proved that atoms are the quasi-crystal structure with
+definite angles: 90°, 109° and 120°, which are the well-known angles in
+crystallography. It was assumed [12] that electrons on atomic orbital have the
+form of correct systems on the sphere (the Platon and Arximed bodies, ...). The
+system of the same particles is STABLE only in the cases when the particles are
+situated on the very top of isogon – polyhedron.
+
+ From the point of view of academic science, the crystallographic structure in
+nuclei is not accepted due to the large kinetic energies of nucleons in nuclei.
+Nevertheless the crystallographic models of nuclei have been constructed with
+success [14, 15]. A. Dudek et al. [16] confirmed the existence of tetrahedral and
+octahedral forms of rare earth nuclei.
+
+ D.D. Ivanenko and R.V. Galiulin [13] come to conclusion that the structures all
+states of matter (FROM THE ELEMENTARY PARTICLES to THE LARGE
+SCALE of THE UNIVERSE) can be describe by Delone sets in the spaces of
+constant curvature.
+
+For example, V.F. Weisskopf [17] comes to conclusion that the maximum height H of
+mountains in terms of the Bohr radius a is equal to
+
+14 2.6 10 H
+a
+  ,
+
+and water waves lengths  on the surface of a lake in terms of the Bohr radius is equal to
+
+7
+2 10
+a
+
+   .
+
+ The greatness of mountains, the finger sized drop, the shiver of a lake, and the
+smallness of an atom are all related by simple laws of nature – Victor F.
+Weisskopf [17]. He considers the three spectroscopies (atomic, nuclear and
+subnuclear) to be on common ground [18].
+
+ We have proved the ISOMORPHISM of hydrogen atom, molecule, and crystal
+structures (Gareev 2000).
+
+ We have proved the ISOMORPHISM of hydrogen atom and solar system
+structures (Gareev 1996).
+
+ V. Krivitski [19] confirmed that the form of Earth is a triacontahedron with 5-fold
+symmetry.
+
+ N. Yabuuchi and A. Takahashi [20] came to the conclusion that nuclei exist in
+similar structures as structures of Pythagoras-Platonic polyhedrons in universe,
+molecules and atomic clusters. Furthermore, there exist in the universe the form
+of self-organization to arrange these materials (from large one to small one) into
+regular polyhedrons in realizing stars, molecules, atoms and elementary particles.
+
+ J. Kepler (1596) found that each of five Platonic solids could be uniquely
+inscribed and circumscribed by spherical orbs; nesting these solids, each
+encased in a sphere, within one another would produce six layers, corresponding
+to the six known planets – Mercury, Venus, Earth, Mars, Jupiter, and Saturn. By
+ordering the solids correctly – octahedron, icosahedron, dodecahedron,
+tetrahedron, cube. (Wikipedia)
+
+So the resonance synchronization principle is substantiated at the micro and macro
+level as the consequence of the energy conservation law and resonance character of any
+interaction between wave systems. The commensurability and self-similarity result in the
+very unity of the world.
+
+This means that our method can be used in different fields of fundamental research and
+also in applications: construction of new materials, say, high–temperature
+superconductors, new drugs in medicine, new methods in diagnostics of diseases, and
+new devices by analogy with biomolecules.
+
+ It is interesting to note that there is SYMMETRY between the order of the
+spectra of the hydrogen atom and the electronic levels of different atoms [23].
+This means that the homology and isomorphism of the hydrogen atom and manyelectron atom structures exists.
+127
+
+In 1953 Schwartz [24] proposed considering the nuclear and the corresponding atomic
+transitions as a unified process. This process contains the  -decay which represents the
+transition of nucleon from state to state with emission of electron and antineutrino, and
+simultaneously the transition of atomic shell from the initial state to the final one. A
+complete and rigorous solution to this problem is still needed.
+
+
+9. Conclusions
+
+The structures of elementary particles, nuclei, atoms, molecules  and the Universe
+are topologically the same.
+
+
+References
+
+[1] F.A. Gareev, I.E. Zhidkova, Yu.L. Ratis, in proceedings of the 11th international
+conference on cold fusion, Marseilles, France, 31 October –5 November 2004, p.
+459.
+[2] F.A. Gareev, I.E. Zhidkova, in proceedings of the 12th international conference on
+cold fusion, Yokohama, Japan, 27 November -2 December 2005, p. 504.
+[3] K. von Klitzing, Rev. Mod. Phys., 1986, V58, p. 519.
+[4] H. Stormer, Rev. Mod. Phys., 1999, V71, p. 875.
+[5] F.A. Gareev, G.F. Gareeva, In: FPB-2000, Novosibirsk, July 2000, p. 161.
+[6] F.A. Gareev, Preprint JINR P296-456, Dubna, 1996.
+[7] Tables of Interatomic Distances and Configuration in Molecules and Ions, Special
+Publication No. 11, London: The Chemical Society Burlington House, W.1, 1958.
+[8] R.B. Laughlin, Rev. Mod. Phys., 1999, V71, p. 863.
+[9] M. Gryzinski, In: FPB-2000, Novosibirsk, July 2000, p. 89, 2001; Sprawa Atomu,
+Hamo-Sapiens, Warszawa, 2002.
+[10]M. Gryzinski, Preciesly about Atom (in Russian), Novosibirsk, 2004.
+[11]M. Gryzinski, Jour. Chem. Phys., 1975, V.62, 2629.
+[12]R.V. Galiulin, K.V. Imangazieva, Kristallografia, 2005, V50, p. 967.
+[13]D.D. Ivanenko,. R.V. Galiulin, http://www.h-cosmos.ru/iv08.htm, 2007.
+[14]N.D. Cook, T. Hayashi, J. Phys. G: Part. Phys., 1997, V.239, p. 1109.
+[15]G.S. Anagnostatos, T.S. Kosmas, E.F. Hefter, C.N. Panos, Can. J. Phys., 1991, v. 69,
+p. 114.
+[16]A. Dudek, et al., Phys. Rev. Lett., 2007, V97, p. 072501.
+[17]V.F. Weisskopf, Am. J. Phys., 1986, V54(2), p. 110.
+[18]V.F. Weisskopf, Sci. Amer., 1968, V218, No.5, p. 15.
+[19]V. Krivitski, Transmutatcia ximicheskix elementov v evolyucii Semli (in Russian),
+Moskwa, 2003.
+[20]N. Yabuuchi, A. Takahashi, draft of paper for ICCF-13, Dagomys, city of Sochi,
+June 25 - July 1, 2007.
+[21]F.A. Gareev, In: FPB-98, Novosibirsk, June 1998, p. 92;
+[22]P. Moller et all., http://t2,lanl.gov/data/astro/molnix96/massd.html
+[23]Y. Magarshak, Scientific Isreal-Technological Advantages, 2006, vol.7, No. 1,2, p.
+134; F. Bogomolov, Y. Magarshak, Scientific Isreal-Technological Advantages,
+2006, vol.7, No.3, p. 1.
+[24]H.M.Schwartz, J. Chem. Phys. 21, p. 45, 1953.
+[25]F.A. Gareev, I.E. Zhidkova and Yu.L. Ratis, Preprint JINR P4-2004-68, Dubna,
+2004 (in Russian).

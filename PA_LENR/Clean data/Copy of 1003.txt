@@ -1,0 +1,111 @@
+INTRODUCTION. 
+
+We have previously reported results of electrolysis of palladium
+cathodes with a H2SO4-D2O electrolyte (1-3). Further results have now been obtained
+with improved calorimetry. In addition, mass spectrometry is now being used to compare
+the chemical makeup of the Pd before and after electrolysis.
+
+
+EXPERIMENT AL METHODS AND RESULTS.
+
+Cold rolled Pd foil was used as the
+cathode in an electrolyte containing 0.06 mol fraction H2SO4 and 0.94 D2O. A Pt foil
+anode was used, and electrolysis was performed for 12 minutes on 4-24-89. A piece of the
+same Pd foil which had not been electrolyzed and the electrolyzed Pd cathode were then
+analyzed by microscopy to determine the surface topography (1). The same samples were
+analyzed in Oct. 1996 with a secondary ion mass spectrometer (SIMS), using a 3 KV Ce
+ion beam and a quadrapole mass analyzer. Pd was sputtered at a rate of about 1 angstrom
+per second for 50 minutes.
+
+Fig. 1 shows preliminary SIMS results. It should be noted that the mass numbers given in
+the figure result from combination of Cs ions and the Pd isotopes indicated. The spectra in
+Fig. la from the Pd foil control (unelectrolyzed) shows that the relative intensities of the
+Pd isotopes are approximately in proportion to their natural abundances.However, Fig. 1 b
+shows that the Pd isotope of mass 108 is more abundant than Pd 106 in the electrolyzed
+foil., whereas the natural abundance of Pd 108 is 26.46% and that of Pd 106 is27.33%
+(4).The difference in these two abundances decreases with increased depth into the
+sample. After sputtering for 50 minutes to a depth of about 0.3 µm, these two isotopes
+have the same abundance.
+
+Two closed cells of 25 ml capacity were constructed. Both had Pt anodes, an electrolyte
+with 0.06 mol fraction H2SO4 in D2O, and recombination catalyst suspended above the
+electrolyte. One cell had a Pd foil ( 0.055 g) cathode, and the other had a Pt foil
+cathode of similar mass. Each cell was placed in an identical insulated 
+
+Fig. I. SIMS spectra for six palladium isotopes. (a) Spectra from the Pd foil control (not 
+electrolyzed). The Pd isotope responsible for each line on the graph is given in the upper 
+center. (b) Spectra from the Pd foil cathode which was electrolyzed for 12 minutes on 4-
+
+container. The cells were connected in series, and electrolysis was performed 
+at constant current density of about 0.25 A/sq. cm. The cell voltages were 
+almost the same. The temperature of the air surrounding the cells inside the 
+insulated containers and the ambient temperature were monitored. 
+
+During the first 20 hours of electrolysis, there was no difference in heat 
+output of the two cells. For most of the next 50 hours of electrolysis, the cell 
+with the Pd cathode produced more heat ( as much as 0.3 watt more) than the 
+Pt cathode cell. A typical result is given in Fig. 2. 
+
+Fig. 2. Temperature-time and power-time graphs for electrolysis with a platinum cathode 
+(C) cell in series with a palladium cathode (D) cell. At the steady-state temperature the D
+cell produced about 0.3 watt more energy than the C cell.The precision of measurement
+was ±0.1 C and ±0.01 V.
+
+the Pd deteriorated and a solid black substance accumulated at the bottom of 
+the cell. The Pt cathode did not appear to change. 
+
+After lying dormant for 75 days, electrolysis was again performed. In five 
+consecutive experiments totaling 20 hours over a period of two weeks, the 
+cell with the Pt cathode produced more heat (as much as 0.3 watt more) than 
+the Pd cathode cell. 
+
+These results suggest that a Pt cathode, under suitable conditions, can serve 
+to catalyze excess heat, consistent with the work of Ohmori and Enyo(6 ). 
+
+After electrolysis for about 90 hours, both a Pd and a Pt cathrode were cleaned 
+ultrasonically in deionized water and studied with a scanning electron microscope (SEM) 
+and an energy dispersive spectrometer (EDS). Fig. 3 shows the electrolyzed parts of both 
+cathodes. The width of each cathode is less than the original width due to sputtering which 
+occurred during electrolysis. It was shown previously that Pd is inert in the sulfuric acid­
+heavy water electrolyte ( 1 ), and it is likely that this is also true for Pt. The extent of this 
+sputtering is greater on the Pd than on the Pt cathode. For example, the original square 
+corners of the Pd cathode are now rounded, whereas the corners of the Pt cathode remain 
+almost square. 
+
+The arrow on each electrode indicates a place where the same, unexpected elements were 
+found by EDS. The spectra are shown in Fig. 4. Both show unexpected concentrations of 
+sulfur and chlorine. A large concentration of chlorine was detected previously on a Pd 
+cathode after electrolysis (5). 
+
+
+DISCUSSION OF RESULTS. 
+
+The data in Fig. 1 present clear evidence that a nuclear 
+process occurs at the surface of a palladium cathode during electrolysis in heavy water. 
+Otherwise, how could the observed isotopic shifts occur over a thickness of about O. 3 µm 
+? Chemical explanations for the excess heat observed for both the Pd and the Pt cathodes 
+are also unlikely. The chlorine observed on these electrodes may be the result of 
+transmutation of sulfur which is present in the electrolyte. 
+
+
+REFERENCES. 
+
+1. D. S. Silver, J. Dash, and P.S. Keefe, "Surface Topography of a Palladium Cathode
+After Electrolysis in Heavy Water", Fusion Tech. 24,423 (1993).
+2. J. Dash, G. Noble, and D. Diman, "Surface Morphology and Microcomposition of
+Palladium Cathodes After Electrolysis in Acidified Light and Heavy Water: Correlation
+with Excess Heat", Trans. Fusion Tech. 26, part 2, 399 (1994).
+3. S. Miguet and J. Dash, "Microanalysis of Palladium after Electrolysis in Heavy Water",
+J. New Energy l, 23 (1996).
+4. CRC Handbook of Chemistry and Physics, D.R. Lide, Editor-in-chief, 74th Ed. (1993),
+p. 11-64.
+5. J. Dash, G. Noble, and D. Diman, "Changes in Surface Topography and
+Microcomposition of a Palladium Cathode Caused by Electrolysis in Acidified Light
+Water", Cold Fusion Source Book, Hal Fox, Editor (Fusion Information Center, Salt
+Lake City, UT 84158, 1994).
+6.T. Ohmori and M. Envo. J. New Energy, l, 15 (1996).
+
+Fig. 3. Pd cathode (left) and Pt cathode (right) after electrolysis for about 90 hours. 
+
+Fig 4 EDS spectra (Idt) from the �.pot indicated by tbe arruw on the Pd cathode 111 Fig 
+3, and (right), from the spoi indicateJ by the arrow on the Pt cathode. 

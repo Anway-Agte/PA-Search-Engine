@@ -1,0 +1,540 @@
+The cold fusion phenomenon is real
+
+An interview with Dr. Mahadeva Srinivasan conducted by Russ George
+
+Dr. Mahadeva Srinivasan was the head of the Neutron Physics Division and an Associate
+Director of the Physics Group of BARC (Bhabha Atomic Research Center) in Mumbai
+(Bombay), India when this interview was held on March 1, 1994 at SRI International in Menlo
+Park, California. At that time he was a visiting scientist there, participating in the Cold Fusion
+experiments underway at the laboratories of the Energy Research Center.
+
+Since his retirement from BARC in 1997, at the end of a four-decade long research career,
+Dr.Srinivasan has been living in Chennai, India. He continues to take keen interest in
+developments in cold fusion which has now been re-christened as “Condensed Matter Nuclear
+Science” (CMNS).
+
+His current interests encompass other futuristic energy generation schemes such “Zero Point
+Energy” or “Free Energy” as it is popularly called, as also a whole gamut of unexplained
+phenomena often characterized as “Anomalous Phenomena” which seem to be challenging many
+existing paradigms of “mainstream science”. The scientific investigation of paranormal
+phenomena is also an area of interest to Dr. Srinivasan.
+
+He wishes to place on record his gratitude to the late Dr. Eugene Mallove for the many
+interesting discussions he has had with Gene on a variety of anomalies. In fact Gene was
+instrumental in kindling Dr. Srinivasan’s interest in many new topics that fall in the domain of
+“Anomalistics”.
+
+Dr. Mahadeva Srinivasan of BARC
+
+RG: Let me start by asking you a little about your background.
+
+MS: I joined BARC in August 1957. BARC has a training school which recruits about 150-200
+scientists every year. They call for applications from all over India. Usually 2000, 3000, or
+sometimes 5000 people apply, all first-class graduates. I belonged to the first batch, recruited
+way back in 1957. Following one year of training I was appointed as a scientific officer in 1958.
+My specialization has been in the area of nuclear engineering and reactor physics, criticality
+experiments, nuclear instrumentation, and so on. So I am quite familiar with, and quite at home
+with, neutron measurements. I spent about two years at the Argonne National Lab (USA) in
+1961-1962, and later a couple of years at the Chalk River Nuclear Laboratories in Canada (1968-
+1970). Since then, I’ve been in charge of fission criticality experiments and fusion-related
+research at BARC.
+
+RG: How did BARC get involved in fusion science?
+
+MS: Somewhere down the line, I think it was in the mid-’70s, we realized that we had to get
+into the fusion business in India. So we at BARC were looking for the right niche to enter. In the
+area of fusion we have two approaches, as you know: magnetic confinement fusion and inertial
+confinement fusion. We had in our center a group, a very good group, on lasers. They took up
+this question of laser fusion for study, knowing very well that they could never build these
+gigantic lasers, but they could certainly study the physics of laser plasma interaction. There was
+a policy decision that our center would not enter magnetic confinement fusion, which was
+allocated to a different institute in India. So we selected what is known as a plasma focus, which
+is a variety of Z-pinch device, for investigation, trying to understand the phenomenon — and
+through it the basic physics of fusioning plasmas.
+
+RG: And you were involved in that research?
+
+MS: Yes, we have a plasma group in the Neutron Physics Division, which I head.
+
+RG: How many people are there in the Neutron Physics Division?
+
+MS: The division has about 30 people at present. The plasma group consists of about 8-10
+people, and we have funding to build a 300 kilojoule capacitor bank facility to dump the stored
+energy into a plasma focus. We started with a very small plasma focus experiment in 1976. I
+think our center was the first to generate and detect fusion neutrons from a small plasma focus
+experiment driven by just 100 joules of stored energy. Nobody else to my knowledge has
+detected neutrons in such a low-energy experiment.
+RG: How many people are at the BARC institute?
+MS: BARC is a gigantic institute. We have about 14,000 people now. About 3,500 are
+scientists and engineers, and the rest of the people make up the technical and administrative
+support. It is the main center for developing nuclear technology in the country, and is primarily a
+research center. The power reactors are constructed by the nuclear power corporation, but BARC
+gives the support for it with research in heavy water production, research in nuclear fuel — the
+whole fuel cycle. Our division initially was looking after criticality experiments, and then started
+taking interest in fusion.
+
+RG: It sounds like BARC is roughly equivalent in size to the Los Alamos National Laboratory
+here in the U.S., where I think there are about 10,000 people working.
+
+MS: BARC is a bit bigger. That is because in India we don’t have the kind of industrial backup support that you have in this country. So we have to do a lot of things in-house. Right from
+the start, Dr. Homi Bhabha, who started the center, placed a lot of emphasis on self-reliance. For
+instance, we have our own division for vacuum technology. We have our own fuel fabrication
+facility. So although the size is large, much of it is production and other technical level work.
+
+RG: So BARC is a National Laboratory in India. Does it have a “black” budget with secret
+research like Los Alamos, or is it purely non-defense-related research?
+
+MS: There is no weapons program in India. There was, of course, one experiment conducted
+way back in 1974, but that was just one of a kind, just to demonstrate to the world that India has
+advanced technology.
+
+RG: So BARC is not a defense-oriented laboratory, and is purely a science facility?
+
+MS: It is definitely not a defense facility. I should say the main goal is to provide the R&D
+backup for developing the nuclear fuel cycle. However, BARC also serves as the premier
+institution for basic nuclear research in India. In this center we have research reactors, we have
+condensed matter physics, laser physics, chemical sciences, as well as life sciences. It is a nice
+mixture of basic and applied research.
+
+RG: Do scientists like yourself have a sort of tenure?
+
+MS: The interesting thing about our center — and in fact any government job in India — is
+that nobody can be thrown out easily. Once you become a permanent government employee, it is
+next to impossible to throw you out. In that sense, everyone has a tenured position. This has its
+advantages and disadvantages. If people work, it is out of interest. If a man decides not to work,
+nothing can be done about it, you just don’t throw him out. This gives one a lot of flexibility and
+freedom. He can pick a problem and work on it. If his boss doesn’t like it, he can ignore him or
+not give him much funding.
+
+I enjoy working at BARC because we have people there with expertise in almost any field. If I
+want to talk to a person with expertise in an area that I need advice on, I look him up in the
+phone directory, and call him up, or walk across the building to talk to him. It is a very nice
+atmosphere. There are always seminars going on, or lectures, or symposia. There is an active
+science atmosphere, and we are exposed to a wide variety of scientific topics. Sometimes it is a
+little too much, maybe.
+
+RG: Did this level of academic freedom that you enjoy help with your interest in cold fusion?
+
+MS: That is certainly one of the main advantages we have. Because of this freedom, we could
+easily enter this exciting new area. Interestingly enough, at the time when the phenomenon of
+cold fusion arrived, one of the problems we were looking into in our division was the possibility
+of developing fusion into a neutron source in order to convert thorium into uranium-233 [U233].
+Incidentally, one of the key projects in BARC is developing the technology for using uranium233 in power reactors. Right now, we are constructing a U233-fueled swimming pool type
+reactor. It is expected to become critical just within a few months. And when it becomes
+operational it will be the world’s only U233-fueled reactor.
+
+RG: What is the advantage of the U233 reactor?
+
+MS: U233 is a man-made isotope, like plutonium-239. It is produced from thorium. India has
+plenty of thorium, probably the largest thorium resources in the world. So right from day one,
+when our center was started, it was generally assumed and understood that eventually our
+nuclear technology would switch over to U233. So this is what we are interested in doing. The
+only problem with the U233 fuel cycle is that U233 is a man-made isotope, and to produce it you
+need a neutron source. So we examined the energy cost of the production of neutrons by almost
+every imaginable technique — all kinds of devices, including fusion reactors. That was the
+reason we entered fusion. If only we could develop fusion, not for getting energy, but as a
+neutron source. I personally have concluded that [hot] fusion reactors will never become feasible
+for getting energy. Today, I am even willing to say that [hot] fusion energy will never become
+commercial. But as a neutron source, if we can use those neutrons to convert thorium to U233,
+that might be useful, in the Indian context.
+
+RG: Do you need a high-energy neutron?
+
+MS: No, any neutron will do. The important thing is that eventually, when this neutron is
+captured in thorium to give U233, one atom of U233 is going to give 200 MeV of energy. So the
+point to note is that if I spend more than 200 MeV of energy to produce a neutron, then the
+whole concept fails. We examined many schemes, and we were actively trying to develop the
+plasma focus as a viable source of neutrons. It very nicely fitted into our overall scheme of
+things. If only we could get a good neutron source!
+
+RG: So this led you to cold fusion?
+
+MS: Exactly. On March 25, 1989, we saw this little four-line news item in the Times of India,
+saying that neutrons were seen to be produced by a small battery and bottle experiment. I
+immediately got interested in it from the point of view of a neutron source.
+
+RG: How quickly after you saw that news item did you begin work?
+
+MS: That is a very interesting story. In 1988, we had imported from Ireland what is known as a
+Milton Roy Electrolytic Cell. This is a commercial cell for producing hydrogen gas. The
+important thing about the Milton Roy Cell is that it uses palladium tubes as cathodes and NaOH
+as electrolyte. During electrolysis, hydrogen goes through the walls of the tubes and comes out
+as pure hydrogen gas from the inside of the Pd [palladium] tubes. We were in the process of
+converting it to produce deuterium gas for our plasma experiments. On March 25th, purely
+accidentally, we had right there a palladium and heavy water electrolytic cell lying on our
+table — not because of cold fusion, but because we wanted deuterium gas. When we learned that
+this palladium and deuterium cell produces neutrons, all that we had to do was to switch it on
+and bring in the neutron detectors around it. So within 24 hours we had a “cold fusion” cell
+operating!
+
+Dr. P.K. Iyengar, the open-minded Director of
+BARC at the time of the Utah announcement on
+March 23, 1989.
+
+The cover of the BARC 1500 report, BARC
+Studies in Cold Fusion.
+
+RG: So what did you see?
+
+MS: Within three weeks, on April 21, 1989, we saw the first burst of neutrons. Not only did we
+see neutrons, we saw that there was plenty of tritium! That was the thing which really gave us
+confidence that cold fusion was for real.
+
+The director of BARC at that time was Dr. Iyengar, who was a person who was always
+interested in exciting new things. So when this came up, he quickly convened a meeting of all
+the people who were likely to be interested. Different people got involved: the neutron
+physicists, chemists, chemical engineers, etc. So within a period of six weeks we had 12 groups
+in BARC, independently setting up cells and doing what they thought best to do. The result of
+that is the BARC 1500 report. 1 As you know, 10 of these groups got positive results. For some
+strange reason, however, we the neutron physics people were told that calorimetry is a very
+difficult thing to do. Somehow we were dissuaded from entering calorimetry. “You neutron
+physicists shouldn’t touch it.” A very strange attitude. So for two years we didn’t touch
+calorimetry.
+
+When the announcement from Scaramuzzi in Italy came in May 1989 (neutrons from titanium
+in a gas loading experiment), we had a head start on that technique also! At that time, as part of
+our plasma physics activities, we had made titanium targets and electrodes for gas discharge
+experiments, to study neutrons in the context of plasma fusion devices. So it was as a result of
+this that I had in my drawer a piece of titanium that had been loaded with deuterium gas in May
+1988 — well before the announcement of cold fusion. When I saw the Scaramuzzi announcement, I took out of the drawer a conical titanium electrode and I thought, “If something
+nuclear is going on, then if we keep this on an X-ray film something interesting should be seen.”
+
+So I gave this to my young colleague who does the X-ray film exposure for his plasma studies.
+He placed it overnight on X-ray film, and the next morning when he developed it, on the film
+where the tip of the electrode was there was a little spot. So the next day we repeated with a fresh
+film and again the spot appeared. Five nights consecutively, on five separate films, we saw that
+spot. We didn’t know whether it was tritium or anything else, but we were sure something
+interesting was going on.
+
+The question was: Was it X-rays coming from the titanium deuteride? This titanium electrode
+was earlier produced in a chamber using RF heating — all well-known technology. So we made
+fresh targets, and we looked at them on X-ray film — and we saw beautiful spots. And the same
+thing, placed in front of our germanium detector, gave us K-alpha 4.5 keV and K-beta 4.9 keV
+peaks, a clear signal of tritium in the material. This was in June 1989. The paper was presented at
+the Fifth International Conference on Emerging Nuclear Energy Systems in Karlsruhe in July
+1989. We put one of those targets into our neutron detector, kept it there overnight and we got a
+beautiful big burst. We published this in the August 1990 Fusion Technology, a paper with 50
+authors. At the time when the paper was published, we had probably the largest group of cold fusion researchers in the world. It was a very exciting time in those days. As I’ve said, we’ve seen
+tritium, we’ve seen neutrons, we’ve seen it in both palladium and titanium systems.
+
+RG: Did you ever see sufficient neutrons to be of interest for your U233 program?
+
+MS: No. We soon realized that the neutron-to-tritium ratio was very small. It was tritium that
+was the main product. Meanwhile we received confirmation of our results from Bockris of Texas
+A&M University, and Tom Claytor of Los Alamos, and others. We knew that even the tritium
+yield was very small compared to excess heat. So it was very clear to us that neutrons and tritium
+are only secondary phenomena. The main thing is clearly the excess heat.
+
+RG: So you started out doing the classical Pons and Fleischmann heavy water experiment?
+
+MS: Well, the Milton Roy Cell was readily available in our group and we didn’t have to build
+a cell. It was fantastic, because we could drive that cell at a current of 100 amperes. And at that
+time in April 1989 I don’t think there was any group in the world, not even Fleischmann’s, who
+had a cell that could be driven at 100 amps! Since we saw neutrons and tritium with a Milton
+Roy Cell, we immediately ordered two more. Unfortunately, the second and third Milton Roy
+generators did not give us anything. So that was our first experience with non-reproducibility.
+
+RG: Did you ever determine why that was?
+
+MS: No, we didn’t. We were just puzzled. Let me put it this way: We were probably drunk
+with success. Many of the BARC cells had given neutrons and tritium, so we thought cold fusion
+was simple! But when we started finding we could not reproduce it, the U.S. DOE report came
+out, the skeptics came out, and in our own center some of the senior physicists would not believe
+it. They challenged us to demonstrate the results again. But we could not again succeed with the
+Milton Roy Cells.
+
+RG: But you were able to reproduce some of the time?
+
+MS: Not with a Milton Roy Cell. But with other approaches, yes. For example, a very exciting
+experiment was the titanium chips experiment. I think the idea of treating them with liquid
+nitrogen was contributed by the Los Alamos group, by Howard Menlove’s experiment. He took
+his deuterium-loaded titanium chips and dipped the whole cylinder into liquid nitrogen. It was
+supposed to have given neutrons. I am told that subsequently he has found that the apparent neu-
+tron bursts, at least in some cases, were possibly due to water condensation in the high-voltage
+insulators, and hence he has cooled down on that kind of experiment.
+
+What we did was rather than look for neutrons, we took the deuterated titanium chips and
+dropped them directly into a can containing liquid nitrogen. Then we took out those pieces and
+monitored them individually for tritium. It was a tough problem because we had a thousand
+small chips with a total of about five grams. We divided them into lots of 20 and put them into a
+window-less beta detector. Some of the lots gave significant counts. Finally, we were able to
+show that four out of 1000 chips had very high activity at the microcuries level.
+
+Those chips are still preserved by us — and they still give this signal. For instance, when
+Douglas Morrison visited us at the time around August 1990, I showed him that. The moment we
+loaded one of those chips into the detector, the count rate indicated a very high level of activity,
+giving a beautiful beta [electron energy] spectrum. I showed him this beta spectrum, and asked
+him to speculate as to where it could come from. I even gave him copies of the spectrum. He has
+never talked about it anywhere, or mentioned it in any of his writings.
+
+Now the more exciting thing about that particular titanium chips experiment is that not only do
+only four out of the 1000 chips have that high activity, but even in those four chips there are very
+small hot spots — showing that what is happening is happening very selectively. There is
+clearly something very special about those sites. This is telling us something very important,
+because theoreticians immediately imagine a lattice which is fully loaded with deuterium, and
+that what is happening is happening everywhere in the whole lattice. I suspect that it is not
+occurring in the whole lattice.
+
+RG: Do you mean that it isn’t a uniform effect in the lattice?
+
+MS: Definitely not. There is something unique in certain spots, and we haven’t understood
+what it is. In the titanium chip experiments we came to the startling conclusion that each of those
+hot spots is the result of a micro-nuclear explosion. We gave that explanation in the paper we
+presented at the Provo meeting in October 1990. This, of course, is based on Menlove’s observation of neutron bursts. If that is questioned, then the micro-explosion theory is not admissible.
+
+There is, however, another interesting experiment we did by measuring the probability
+distribution of neutron counts. We did this to answer the question: In all these cold fusion experiments wherein we see neutrons, are these neutrons being emitted by the sample one at a time or
+in bursts of two, three, four or more at a time? In other words, was the neutron emission
+following Poisson statistics or was it non-Poisson? This is basic to the mechanism behind it, and
+so we devised an experiment to look for neutrons in 20 millisecond intervals because that is as
+far as we could go down to with our setup. All we did was feed the data out to a personal computer and chop it up into 20 millisecond blocks. We then did a statistical analysis and showed
+that definitely about 15-20 percent of the counts were coming in bursts of several tens of
+neutrons at a time.
+
+RG: When was that experiment completed?
+
+MS: Those were done in 1989. I am very happy about it because we presented the results at the
+first Salt Lake City meeting. Martin Fleischmann was so excited that he came up and said, “You
+fellows have done what I always wanted to do.” He was very pleased.
+
+An interesting thing we found was that the probability distribution of neutrons coming off a
+titanium deuteride disc, and from a palladium-D2O electrolysis cell is similar. So there is
+something in common. The mechanism producing the neutrons is probably similar. I don’t fully
+buy the theory that the d+d reactions are occurring continuously all the time. You cannot explain
+the multiplicity of neutrons this way. I know that there are some who now claim the multiple
+neutron measurements are erroneous.
+
+But in our experiments we had two banks of neutron detectors looking at the source, and a
+background detector bank away from the experiment. Now, we believe our measurements, unless
+both these banks near the sample simultaneously decide to behave in a crazy manner or respond
+to cosmic ray-caused spallation neutrons, and not the background bank. In our experiments the
+background counter was absolutely stable. I am also aware of the argument that cosmic rays can
+cause spallation neutrons only in the Pd cathode and so do not give a signal in the background
+bank. But the size and duration of the detected neutron episode does not support the argument of
+the critics.
+
+RG: So, what were the next experiments?
+
+MS: Around October 1990, there were two considerations. First, we were having difficulty
+with reproducibility of the neutron and tritium measurements, and at the same time there was a
+feeling that we were missing out in terms of calorimetry. And that is when we decided to get into
+calorimetry. Just as we were building the initial calorimeter, this light water business came up.
+So instead of going into the calorimetry of palladium-and-heavy water systems, we started on the
+calorimetry of nickel H2O systems, as we got the impression from Mills’ paper and the BushEagleton work that the success rate was higher in the Ni-H2O system.
+
+Autoradiograph of BARC deuterated titanium disc
+
+RG: Is anyone at BARC doing palladium heavy water electrolysis experiments now?
+
+MS: No, unfortunately it was also around that time, namely the middle of 1990, that there was
+a change in leadership at our center. Dr. Iyengar, who was the moving spirit behind the initial
+cold fusion program at BARC, moved on to become the chairman of the Indian Atomic Energy
+Commission. That has had an impact on the other groups involved in cold fusion experiments,
+though it didn’t bother me. Many of the other groups did not want to risk their careers, and so
+they wound up their work. Many of the groups wound down their work. So in terms of numbers
+of people, we have come down from a level of 50 scientists actively engaged in cold fusion to
+about 15.
+
+RG: So this is how you came to reproduce the light water experiments of Randell Mills.
+
+MS: Yes, we simply tried to reproduce the experiments as reported by Randell Mills in his
+1991 paper. We saw excess heat all right. Fifty percent of our cells showed it, although I now
+realize that we have perhaps not paid enough attention to ensuring that no recombination effects
+are occurring in our open cell experiments. My stay at SRI International during the last five or
+six months has opened up many issues which we are currently addressing.
+
+Neutron counts variation during run No. 1 of Milton-Roy Cell (21 April 1989)
+
+RG: Now that there are some new techniques emerging, are you going to look into any of
+them?
+
+MS: Oh, yes. As I had mentioned earlier, we have conducted Z-pinch-type plasma focus experiments for the past 15 years. When we first heard of the Scaramuzzi neutron burst experiments
+from Italy, we ran a plasma focus experiment with a titanium electrode in place of the normal
+copper or brass central electrode. To our surprise, one of those electrodes gave us fantastic
+quantities of tritium. That was again presented in the first Salt Lake City conference. One
+particular electrode gave us 400 microcuries of tritium, but we could never reproduce it again.
+We still have that electrode. It gave us beautiful autoradiographs for a year and a half. Every
+month we’d take it out of the shelf and keep it on an X-ray film. The same pattern would reproduce itself, very beautifully.
+
+RG: How many times did you try to reproduce the experiments?
+
+MS: Many times. But without any success. Two other titanium electrodes did give tritium, but
+not high amounts. Only one electrode gave us such impressive results. You could see the tritium
+by sticking it in front of a germanium detector and the K-alpha peak built up rapidly. Stick it
+inside an ion chamber, and it gave measurable currents.
+
+So we do have a historical interest in the plasma discharge approach. We still have a group
+pursuing this approach. When I go back I hope to strengthen the effort in the glow discharge type
+of experiments.
+
+RG: What do you think about the Kucherov-type glow discharge work?
+
+[Work reported in Physics Letters A. November 1992. Ed.]
+
+MS: I think it is very interesting. As I said, we have the experience of the plasma focus
+experiments which gave us tritium. I hope to visit Los Alamos, before I return to India as this
+kind of experiment is being conducted by Tom Claytor and his colleagues. They seem to be
+having good success with this kind of experiment. We have some people trained in this area, and
+also have all the equipment. It is just a question of getting them interested in such experiments.
+RG: So you can do the Kucherov version of this method with the palladium electrodes?
+
+MS: Certainly, we will try that. I am also very interested in the ultrasound cavitation
+experiment of Roger Stringham and yourself. I also hope to try and set it up at BARC.
+
+RG: Have you followed the Dufour experiment of Shell Oil in France?
+
+MS: Yes, I first heard about it several months before the Maui meeting. The calorimetry in that
+appears tricky, but Dufour seems to have paid attention to most of the obvious questions. I am
+now convinced from the variety of phenomena we are seeing that we are on to something very
+exciting. Intuitively we feel there is a commonality to all of this.
+
+RG: So the result of all our understanding about cold fusion is that the nucleus of the atom is
+not nearly so inviolate as we had thought. Nuclear reactions are much more accessible, and we
+can produce them with techniques more like chemistry than we would have thought possible a
+few years ago.
+
+MS: Yes, certainly. I fully agree with you.
+
+RG: What do you think is the future of cold fusion? Do you think that with Pons and
+Fleischmann having these boiling cells — and working on commercial versions of them — that
+commercial products will really emerge?
+
+MS: Absolutely. I am optimistic that the first commercial product will be a home heater.
+Whether it will be hydrogen-based or deuterium-based is not clear at this point. I know that
+proponents of both are working towards that. I won’t be surprised if the devices that eventually
+emerge have nothing to do with electrolysis and are completely different. In fact, I understand
+that Randell Mills has already shifted to gas-based systems which don’t use electrolysis. The
+phenomenon is real. There is no doubt that Fleischmann and Pons have unraveled something
+very fundamental in physics. Unfortunately, the reproducibility of most of the systems is very
+poor. The cold fusion community very badly needs something that is reproducible which we can
+switch on, and show to the skeptics that here is proof of “new physics.” The day you are able to
+do that there will be a quantum change — a big leap in terms of funding and changed attitudes.
+Even if it means diverting our attention from something else to this task, it must be done.
+
+RG: How would you rank cold fusion today in terms of other forms of alternative energy?
+
+MS: Well, I have gone through solar energy. I have personally built a solar collector. Of
+course, solar energy is going to play an increasing role, but it cannot provide all the energy needs
+of a developing country. What else is there? Everyone is running out of coal, oil, and all the rest.
+As for nuclear energy, especially fast [fission] reactors and hot fusion, I think they will die a
+natural death. They are uneconomic and impractical for various reasons. That leaves only thermal reactors which have a mixed reception in many countries. LWR (light water reactors) and
+some version of advanced thermal reactors will be around for another 20-30 years. But because
+of nuclear waste problems it will have to phase out too. There is the famous “NIMBY”
+philosophy: “Not In My Back Yard.” Nobody wants nuclear waste to be stored for 300 years or
+20,000 years in their territory. It is the fear of nuclear waste, even if that fear may be unscientific,
+which is going to kill nuclear fission energy sooner or later. So I definitely think cold fusion has
+potentially a very important role to play. But it implies new physics. The important thing is that
+the younger generation has to realize there is new physics involved. Unfortunately, there is a
+gigantic international conspiracy to prevent young people from even looking at new things.
+
+RG: What do you think would happen if cold fusion were suddenly accepted as a real, viable
+energy source in the world?
+
+MS: I always draw a comparison between cold fusion and the personal computer and the
+electronics industry. It is nice and small and ideally suited for mass manufacture. What I like
+about cold fusion is that for the first time here is an energy source that need not be promoted by
+the government. It is ideally suited for exploitation by private industry. Because of its small size
+there is a possibility for rapid technological innovation and improvement. You cannot do this
+with other forms of nuclear energy, because it takes 15 years and billions of dollars to do
+anything with a nuclear reactor. Then you operate it for 15 years to gain experience, and then
+build a new model. That is one of the reasons why neither fast breeder reactors nor hot fusion are
+likely to succeed in the marketplace.
+
+The beautiful thing about cold fusion is that it is small. Small is beautiful.
+
+The day we understand the physics, everything is going to rapidly change. There will be
+competition. You will have cavitation systems, gas-based systems, electrolytic systems, all kinds
+of things going on eventually. Technology will settle on two or three concepts. They will all be
+tried out in the marketplace. Fierce competition will drive innovation.
+
+RG: Do you know of other Third World countries working in this field?
+
+MS: No, I am not aware of any, except perhaps Taiwan. One of the most amazing things to me
+is that we have not seen anyone from Israel working on it. They have very capable people, and I
+am very surprised that they are not involved. I’ve not seen a single cold fusion paper come out of
+Israel.
+
+Most third-world countries look up to the U.S. and the West. If the leading scientific bodies,
+bigwigs in the U.S., like the American Physical Society, say cold fusion is nonsense,
+immediately the message is passed on to top people in developing countries. This is happening in
+my own country. Some of the top people in the Indian national scene think that cold fusion is an
+illusion.
+
+RG: So the negative opinion of cold fusion that is promoted by the American Physical Society
+or the British Physical Society is very influential?
+
+MS: There is no doubt about it. Scientists all over the world tend to look upon these societies
+as the people who are spearheading the advancement of science and high technology. So their
+opinion is very important. If these bodies say cold fusion is bunkum, then they feel that most
+probably believe it is bunkum. That is the attitude that most top scientists in most developing
+countries seem to have taken. In this context, the open-minded approach of Japan, Russia, and
+Italy is to be lauded. I hope it will help to form a favorable climate for cold fusion in other
+countries too.
+
+RG: So what’s next for you? You’re going back to India, to BARC?
+
+MS: Yes. I hope to continue to push cold fusion. We need someone to give enthusiasm and
+encouragement to the various internal groups, and particularly to young people who don’t want
+to risk their professional careers. To me it is a very sad thing. I always thought that you are
+adventurous when young. You are supposed to be willing to take risks. But oftentimes, career
+advancement comes ahead. People are willing to work in the area of high temperature (high Tc
+)
+superconductivity or fullerenes or whatever, which is a “hot” but “safe” topic.
+
+RG: So that’s part of your role. That’s why you’ve been here at SRI as visiting scientist for the
+past six months, and you’ve been able to visit with other scientists in the United States.
+
+MS: Yes, this way I get a global perspective of what is going on.
+
+RG: A couple of years ago you made a tour of labs around the world, visiting the Japanese labs
+and labs here in the United States, and you wrote a report to the Indian government on the field.
+What was the effect of that report?
+
+MS: First of all let me clarify, there was no formal report addressed to anybody in the Indian
+government. Yes, I keep writing informal notes and letters to convey to my colleagues what I
+have learned. I believe these efforts to bring to their notice recent progress in the field have
+helped create an improved climate. I hope that “Cold Fusion” magazine will play a useful role in
+this context.
+
+RG: What do you think about the new Japanese program set up by their Ministry of
+International Trade and Industry?
+
+MS: The way the Japanese are approaching the subject is very laudable. We have seen to it that
+this news has reached the decision-making people in India.
+
+RG: What do you think about the American physics community and chemistry community
+who have taken such a hard line against cold fusion in this country?
+
+MS: It is really very disappointing to see how these groups have networked and suppressed
+this field. But I am very encouraged that there is a large non-established scientific community
+that will discuss anything in science here, in spite of the stranglehold by the established scientific
+bodies. Only after coming to this country have I realized that there is a vibrant, off-the-beatentrack movement in science — and pseudoscience. They are in good contact through newsletters,
+e-mail, etc. Particularly in California, people are working in all kinds of scientific areas. I am
+happy there is this large underground community with a very open mind, where people conduct
+experiments in their own home laboratories. I am very happy to see this. I think that this is going
+to save the scientific community.
+
+RG: Well, I think we’ve pretty much covered the field. Do you have anything more that you’d
+like to add?
+
+MS: Yes, one thing. I would like to congratulate Wayne Green and Gene Mallove, and others,
+for starting this magazine. 2
+
+I wish Gene good luck. The magazine is going to play a very
+important role. I have only one request for him. If this magazine is to reach every nook and
+corner of the world, he must come up with a dual price policy for the magazine so that the people
+in the developing world can afford to buy it. I believe an issue will cost $10. That is 300 rupees
+in India, and that is 10 percent of the monthly salary of a young scientist. Our center can afford
+to subscribe to it, but many universities cannot afford this.
+
+In the interest of spreading the message, there must be a cheaper way to get the magazine to
+these people. It must reach the interior parts of Russia, China, India, and others in the developing
+world. It must reach the universities where the young people must get interested in this new field.
+RG: It seems to me that the critical factor in this field is the shortage of people working in it.
+How would one encourage more bright young minds to get into this field?
+
+MS: The best people are not entering this field as they are being diverted away. Once there is a
+general acceptance that cold fusion is real, automatically more people will enter the field. The
+day the American Physical Society accepts cold fusion, or the Department of Energy accepts
+cold fusion as a real scientific field, hundreds of people all over the world will jump into it
+within a fortnight. I can guarantee it!

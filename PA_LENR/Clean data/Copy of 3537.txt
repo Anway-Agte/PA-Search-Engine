@@ -1,0 +1,427 @@
+METHOD AND APPARATUS FOR CARRYING
+OUT NICKEL AND HYDROGEN
+EXOTHERMAL REACTION
+
+
+BACKGROUND OF THE INVENTION
+
+The present invention relates to a method and apparatus
+for carrying out nickel and hydrogen exothermal reactions,
+and has been stimulated by the well known requirement
+of finding energy sources alternative to fossil sources, to
+prevent atmospheric carbon dioxide contents from being
+unnecessarily increased.
+
+For meeting the above need non polluting energy
+sources should be found which do not involve health risks, are
+economically competitive with respect to oil sources susceptible
+to be easily discovered and exploited and naturally abundant.
+
+Many of the above alternative energy sources have
+already been explored and operatively tested even on an
+industrial scale, and comprise biomasses, solar energy used
+both for heating and photovoltaic electric generation purposes,
+aeolian energy. fuel materials of vegetable or agricultural
+nature, geothermal and sea wave energy and so on.
+
+A possible alternative to natural oil, is the uraniumfission
+nuclear energy. However, yet unresolved problems
+affect nuclear energy such as great safety and waste material
+processing problems, since, as is well known, radioactive
+waste materials remain dangerously active for thousands or
+millions of years, with consequent great risks for persons
+living near radioactive waste disposal-off places.
+
+To the above the fact should also be added that, at
+present, a nuclear fusion based on a laser actuated inertial
+confining method does not allow to make efficient power
+systems.
+
+The above drawbacks are also true for deuteriumtritium
+fusion processes, as shown by the operating times
+estimated for the ITER project, which should within the year
+2025 should allow to construct power systems according to
+the so-called DEMO project to make, within the year 2035,
+the first fusion power station.
+
+In fact, up to now, the so-called "cold" fusion, after
+an early announcement by Fleischmann and Pons in 1989 (M.
+Fleischmann, M. Hawkins, S. Pons: Journal Electroanal.
+Chem., 261,301-1989), notwithstanding several exploiting
+attempts on a world-wise scale, has not provided useful and
+reliable systems capable of generating energy for normal,
+industrial or domestic applications.
+
+The most intelligent work performed in the fusion
+field, which work has been accurately studied by the present
+inventor for practicing his invention, is a study of Prof. Sergio
+Focardi, (Dipartimento di Fisica dell'Univerita di Bologna),
+and Prof. Francesco Piantelli, (Dipartimento di Fisica
+dell'Universita di Siena) as disclosed in the following bibliographic
+documents:
+
+S. Focardi, F. Piantelli: Produzione di energia e
+reazioni nucleari in sistemi Ni—H a 400° C., Atti della
+Conferenza Nazionale sulla politica energetica in Italia,
+University di Bologna, 18-19 aprile 2005
+
+S. Focardi, R. Habel, F. Piantelli: Anomalous heat
+production in Ni-H systems, Nuovo Cimento Vol. 107,
+pp 163-167, 1994
+
+S. Focardi, V. Gabbiani, V. Montalbano, F. Piantelli,
+S. Veronesi: Large excess in heat production in
+Ni-H systems, Nuovo Cimento Vol. 111 A pp. 1233-
+1241, 1998
+
+A. Battaglia, L. Daddi, S. Focardi, V. Gabbiani, V.
+Montalbano. F. Piantelli, P. G. Sona. S. Veronesi: Neutron
+emission in Ni —H systems, Nuovo Cimento Vol.
+112 App 921-931. 1999
+
+S. Focardi. V. Gabbiani. V. Montalbano. F. Piantelli,
+S. Veronesi: On the Ni-H systems, Asti Workshop
+in Hydrogeldeuterium loaded metals, pp 35-47, 1997
+
+E. G. Campari, S. Focardi, V. Gabbiani, V. Montalbano.
+F. Piantelli, E. Porcu, E. Tosti, S. Veronesi:
+Ni —H systems, Proceedings of the 8th Conference on
+Cold Fusion, pp 69-74, 2000.
+
+The present inventor, moreover, has also accurately
+studies the following related patents: U.S. Pat. No. 6,236,225,
+U.S. Pat. No. 5,122,054, US-H466, U.S. Pat. No. 4,014,168,
+U.S. Pat. No. 5,552,155, U.S. Pat. No. 5,195,157, U.S. Pat.
+No. 4,782,303, U.S. Pat. No. 4,341,730, US-A-
+20010024789.
+
+An analysis of the above mentioned references
+shows that:1—all experiments performed based on cold fusion
+have not permitted to generate power in such an amount to be
+reliably and constantly exploited in industrial applications 
+
+2—all the uranium based methods and systems have
+not up to now solved the problem of safely disposing of
+nuclear waste materials;
+
+3—all the nuclear fusion based methods and systems
+have not been shown as capable of generating significative
+amounts of energy while allowing the fusion process to
+be safely monitored;
+
+4—all the magnetic and inertial confining based
+methods and systems, such as the plasma fusion method,
+cannot be properly economically managed; and
+
+5—the catalyzed fusion of negative muons based
+methods and systems cannot be used because of the muon
+short life.
+
+
+SUMMARY OF THE INVENTION
+
+Accordingly, the aim of the present invention is to
+provide a method allowing to produce energy in an economic,
+convenient, reliable and repetitive manner. without generating
+radiations and radioactive waste materials.
+
+Within the scope of the above mentioned aim, a
+main object of the invention is to provide such a method
+which can be carried out in small size systems, adapted to be
+easily controlled and allowing to heat individual places at an
+operating cost less than that of commercially available heating
+systems.
+
+According to one aspect of the present invention, the
+above mentioned aim and objects, as well as yet other objects,
+which will become more apparent hereinafter, are achieved
+by a method and apparatus for carrying out a highly efficient
+exothermal reaction between nickel atoms and hydrogen
+atoms, in a tube, preferably, though not exclusively made of a
+metal, filled by a nickel powder and heated to a high temperature
+preferably, though not necessarily, from 150 to 500° C.,
+by injecting hydrogen into said metal tube said nickel powder
+being pressurized, preferably, though not necessarily, to a
+pressure from 2 to 20 bars.
+
+In applicant exothermal reaction the hydrogen
+nuclei, due to a high absorbing capability of nickel therefor,
+are compressed about the metal atom nuclei, while said high
+temperature generates internuclear percussions which are
+made stronger by the catalytic action of optional elements,
+thereby triggering a capture of a proton by the nickel powder, with a consequent transformation of nickel to copper and a
+beta+ decay of the latter to a nickel nucleus having a mass
+which is by an unit larger than that of the starting nickel.
+
+The present inventor believes that in this reaction is
+possibly involved a capture of a proton by a nickel nucleus
+which is transformed into a copper nucleus with a consequent
+beta decay of the formed unstable copper (Cu 59-64) since the
+produced thermal energy is larger, as it will be thereinafter
+demonstrated, than the energy introduced by the electric
+resistance.
+
+It is believed that the nickel nuclei are transformed
+to copper since the mass (energy) of the final status (copper
+isotope) is less than the overall mass (energy) of the starting
+status (nickel isotope+proton)
+
+The exothermal reaction thereon Applicant's invention
+is based differs from those adopted by prior searchers
+since the inventor has not tried to demonstrate an emission of
+elementary particles supporting a validity of a theory, but he
+has exclusively tried to provide an amount of energy larger
+than the consumed energy amount, to just achieve a practical
+method and apparatus for generating an energy amount larger
+than the consumed energy, and this by exploiting nuclear
+energy generating processes starting from electrochemical
+energy
+
+Thus, the inventive apparatus has been specifically
+designed for producing the above mentioned energy in a
+reliable, easily controllable, safe, repeatable manner, for any
+desired applications.
+
+In particular, the inventive apparatus is coated by
+boron layers and lead plates both for restraining noxious
+radiations and transforming them into energy, without generating
+residue radiations and radioactive materials.
+
+In this connection it is pointed out that all prior
+attempts to generate like types of energy, have brought to
+small energy amounts generating prototypes not suitable for
+a safe industrial use, because of the theoretical nature of the
+performed searches
+
+
+SUMMARY OF THE INVENTION
+
+Thus, the aim of the present invention is to provide
+an energy generating apparatus adapted to operate in a reliable
+and repeatable manner and including a plurality of series
+and parallel connectable apparatus modules, thereby generating
+an impressively high energy amount by so bombarding
+a nickel atom by a hydrogen atom, to provide a large atomic
+mass loss copper atom to be transformed into energy, based
+on the Einstein's equation, plus a beta decay energy of the
+radioactive copper atoms
+
+The following discussion may be considered as
+valid for some (radioactive) Cu isotopes, but not for the two
+stable copper isotopes (63Cu and ^65Cu) which do not
+decay.
+
+As the copper atom decays, an energy emitting positive
+beta decay occurs, according to the following equations P=N+e++v,
+where
+P=proton
+N=neutron
+E'=positron
+v=neutrino
+
+The positron forms the electron antiparticle, and
+hence, as positrons impact against the nickel electrons, the
+electron-positron pairs are annihilated, thereby generating a
+huge amount of energy.
+
+In fact, few grams of Ni and H would produce an
+energy amount equivalent to that of thousands oil tons, as it
+will become more apparent hereinafter, without pollutions,
+greenhouse effects, or carbon dioxide increases, nuclear and
+other waste materials, since the radioactive copper isotopes
+produced in the process will decay to stable nickel isotopes by
+beta+processes, in a very short time.
+
+For clearly understanding the following detailed
+discussion of the apparatus, it is necessary to at first consider
+that for allowing nickel to be transformed into stable copper,
+it is necessary to respect the quantic laws. Accordingly, it is
+indispensable to use, for the above mentioned exothermal
+reactions, a nickel isotope having a mass number of 62, to
+allow it to transform into a stable copper isotope 62. All the
+other Ni isotopes, on the other hand, will generate unstable
+Cu, and, accordingly, a beta decay.
+
+Considering that about 106 t ons nickel for year are
+produced through the world and since, as it will be disclosed
+hereinafter in Table 1, 1 g nickel would generate an energy
+amount equivalent to that produced by 517 tons oil, thus the
+yearly produced nickel amount, assuming that only 1/40,00o
+generates nuclear processes, will provide 1,000,000,000,
+000*517110000-51,700,000,000 (oil equivalent) ton per year.
+
+And this without considering the fact that the yearly
+nickel production could be easily increased, depending on
+demand, and that, like mineral oil, nickel can be recovered
+and remelted from nickel scraps of steelwork and electronic
+applications.
+
+Actually, nickel is one of the most abundant metals
+of the Earth crust.
+
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+Further characteristics and advantages of the
+present invention will become more apparent hereinafter
+from the following detailed disclosure of a preferred, though
+not exclusive, embodiment of the invention, which is illustrated,
+by way of an indicative, but not limitative, example, in
+the accompanying drawings, where:
+
+FIG. 1 is a constructional diagram of the apparatus
+according to the present invention
+
+FIG. 2 is a picture, taken by a 1.400x electronic
+microscope, showing the nickel powder (on a 1.400x scale),
+withdrawn by the apparatus;
+
+FIGS. 3 and 4 are electronic microscope diagrams
+related to the powder atomic composition, at the two points
+shown by the arrows in FIG. 2.
+
+
+DESCRIPTION OF THE PREFERRED
+EMBODIMENT
+
+With reference to the number references of the
+above mentioned figures, the apparatus according to the
+present invention comprises an electric resistance 1, enclosed
+in a metal tube 2, further including therein a nickel powder 3.
+
+A solenoid valve 4 adjusts the pressure under which
+hydrogen 5 is introduced into the metal tube.
+
+Both the temperature generated by the electric resistance
+or resistor and the hydrogen injection pressure can be
+easily adjusted either to constant or pulsating values.
+
+More specifically, the electric resistance, or other
+heat source, is switched off as the exothermal reaction generating energizing status is triggered. A thermostat will hold
+said heat source operating, depending on the temperature in
+the circuit.
+
+The assembly comprising said electric resistance
+and nickel holding copper tube is shielded from the outer
+environment by using. respectively from the inside to the
+outside:
+
+a) a jacket 7 including water and boron, or only
+boron
+
+b) a further lead jacket 8, which, optionally, though
+not necessarily, may be coated by a steel layer 9.
+
+The above mentioned coatings are so designed as to
+restrain all radiations emitted by the exothermal reaction and
+transform said radiation into thermal energy
+
+The heat generated by the particle decay and nuclear
+transformations will heat the primary fluid, comprising
+borated water, thereby said primary fluid, in turn, will
+exchange heat with the secondary circuit, in turn heated by
+said primary fluid and conveying the produced thermal
+energy to desired applications, such as electric power, heating,
+mechanical energy, and so on.
+
+In the absence of a primary fluid, the fluid to be
+heated will exchange heat directly with the lead and steel
+jacket.
+
+According to a further embodiment of the invention,
+the apparatus further comprises the following features
+
+Nickel is coated in a copper tube 100, including a
+heating electric resistance 101, adjusted and controlled by a
+controlling thermostat (not shown) adapted to switch off said
+resistance 101 as nickel is activated by hydrogen contained in
+a bottle 107.
+
+A first steel-boron armored construction 102, coated
+by a second lead armored construction 103, protect both the
+copper tube, the hydrogen bottle connection assembly 106,
+and the hydrogen bottle or cylinder 107, thereby restraining
+radiations through the overall radiation life, allowing said
+radiations to be transformed into thermal energy
+
+On the outside of the lead armored construction. the
+copper reactor cooling water, circulates through a steel outer
+pipe assembly 105, and this conveyed to thermal energy using
+devices.
+
+The above disclosed prototype can also be used as a
+heating module which, in a series and/or parallel coupling
+relationship with other like modules, will provide a basic core
+desired size and power heating systems
+
+A practical embodiment of the inventive apparatus,
+installed on Oct. 16, 2007, is at present perfectly operating 24
+hours per day, and provides an amount of heat sufficient to
+heat the factory of the Company EON of via Carlo Ragazzi
+18, at Bondeno (Province of Ferrara).
+
+For better understanding the invention, the main
+components of the above mentioned apparatus have been
+schematically shown in Table 2
+
+The above mentioned apparatus. which has not been
+yet publicly disclosed, has demonstrated that, for a proper
+operation, the hydrogen injection must be carried out under a
+variable pressure.
+
+The electric resistance temperature controlling thermostat
+has been designed to switch off said electric resistance
+after 3-4 hours of operation, thereby providing self-supplied
+system. continuously emitting thermal energy in an amount
+larger than that initially generated by said electric resistance,
+which mode of operation is actually achieved by an exothermal
+reaction.
+
+As it will be shown in a detailed manner in the
+following Table 1, it is possible to calculate that, supposing a
+full transformation, a mole, that is 58 g nickel, generate the
+same amount of energy obtained by burning about 30,000
+tons of oil.
+
+FIGS. 2-5 show data measured on Jan. 30, 2008
+which basically demonstrate that the invention actually provides
+a true nuclear cold fusion
+
+The photo of FIG. 2, (obtained by a 1.400x electronic
+microscope) shows the nickel powder on a 1.400x
+scale, as withdrawn from the apparatus: in particular said
+photo clearly shows the flake granules, greatly promoting an
+absorption of the hydrogen atoms by the nickel nuclei.
+
+The two arrows in the figure show the two positions
+of the powder sample thereon the electronic microscope tests
+for detecting the powder atomic composition have been carried
+out.
+
+The two graphs of FIGS. 3 and 4 have been made by
+the electronic microscope of Dipartimento di Fisica
+delFUniversita di Bologna, under the supervision of Prof.
+Sergio Focardi, on Jan. 30, 2008, and are related to the powder
+atomic composition at the two above points of FIG. 2.
+
+In particular, said graphs clearly show that zinc is
+formed, whereas zinc was not present in the nickel powder
+originally loaded into the apparatus said zinc being actually
+generated by a fusion of a nickel atom and two hydrogen
+atoms.
+
+This demonstrates that, in addition to fusion, the
+inventive reaction also provides a nickel nucleus fission phenomenon
+generating lighter stable atoms
+
+Moreover, it has been found that, after having generated
+energy the used powders contained both copper and
+lighter than nickel atoms (such as sulphur, chlorine, potassium,
+calcium).
+
+This demonstrate that, in addition to fusion, also a
+nickel nucleus fission phenomenon generating lighter stable
+atoms occurs
+
+It has been found that the invention fully achieves
+the intended aim and objects.

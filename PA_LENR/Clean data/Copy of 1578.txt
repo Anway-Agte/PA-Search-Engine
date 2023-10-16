@@ -1,0 +1,525 @@
+1. The conference
+
+The Tenth International Conference on Cold Fusion was held at the Royal Sonesta
+Hotel in Cambridge, about a mile from the Massachusetts Institute of Technology,
+August 24-29, 2003. More than 150 people registered for the conference. There
+were 113 abstracts submitted prior to the conference, and several talks were added
+during the conference. About 60 oral presentations were scheduled with 25 minutes
+allowed for most talks. All oral presentations were given in the main hall, and
+there were no parallel sessions. Abstracts were submitted for talks on excess heat
+and related topics, tritium, transmutation, nuclear emissions, theory, and a small
+number of other topics.
+
+Recommendations from the local organizing committee
+suggested that sessions on the diﬀerent topics be mixed. This was done (as can be
+seen in Table 2 on the next page), and it seemed to work quite well.
+
+
+2. Short course
+
+George Miley proposed that a 1-day short course be developed in order to bring
+people up to speed on topics of interest to the community. On Sunday, a 1-day short
+course was presented, with talks by experimentalists and theorists as can be seen
+in Table I. This was well-attended, and provided a forum for much give-and-take
+between members of the community.
+
+Table 1.ICCF10 Short course given on Sunday, August 24, 2003.
+
+Table 2.
+ICCF10 Program.
+
+
+3. Topics
+
+One can see from Table 2 the range of topics discussed at ICCF10. In response
+to the often-asked question, “What is cold fusion?”, we might respond that cold
+fusion is made up of the topics studied by people in the ﬁeld, which includes those
+listed in Table 2. We will take the opportunity to discuss some of the topics and
+interesting results presented at ICCF10 in what follows here.
+
+3.1. Excess heat:
+From the inception of the ﬁeld in 1989, the phenomenon of excess heat production
+has been central to the ﬁeld. At previous conferences, we have seen heated discus-
+sions of calorimetric approaches and issues, which played a central role at a time
+when there was some uncertainty within the ﬁeld about the existence of an excess
+heat eﬀect. We have also seen a variety of advances in the area, including:
+(1) codeposited Pd
+(2) excess heat in molten salt systems
+(3) correlation of heat and helium
+(4) positive feedback
+(5) heat after death
+(6) excess heat production with metals other than Pd
+(7) correlation between excess heat and deuterium ﬂux
+(8) Coehn eﬀect stimulation
+(9) improvements in the area of technique and reproducibility
+At ICCF10, there were several papers on the response of the excess heat eﬀect
+to laser stimulation, which is new for the ICCF series. It was nice to see a new
+US/Israeli enterprise contribute, and their excess heat results in glow discharge
+experiments were very nice. The question of reproducibility was raised at the con-
+ference on a number of occasions, with good reproducibility being claimed by several
+experimentalists (Storms, Swartz, Case, and others). There was little discussion of
+excess heat in light water systems at ICCF10, although there has been at previous
+conference.
+
+3.2. Tritium:
+Tritium production was claimed to have been observed very early on in the ﬁeld, and
+seemed to be related to helium production associated with excess heat. For example,
+the helium appears to be born with little kinetic energy – certainly very much less
+than 24 MeV. Early observations of an absence of neutron emission associated with
+tritium production indicated that the kinetic energy of the triton was limited to
+less than 10 keV (otherwise d+t reactions would have led to readily observable 14
+MeV neutrons). In this sense, helium production and tritium production seem to be
+similar. Tritium production was studied in years past by groups including Bockris,
+Srinivasan, Storms and Talcott, Cedzynska, Gozzi, Claytor, Celani, Romodanov,
+Clarke/SRI and others. In this proceedings, the paper by Romodanov on tritium
+production is an important contribution in the area of experiment, and that of
+Afonichev is intriguing. Tritium production was also discussed by Violante and
+colleagues, but this was included in the Transmutation section since the focus of
+the work seemed to be on this topic.
+
+3.3. Transmutation:
+Early claims of observations of transmutation eﬀects were greeted within the com-
+munity with great skepticism.
+It was one thing to think that low-level nuclear
+emissions could occur, and quite another to contemplate the existence of an excess
+heat eﬀect. But to imagine that new elements and isotopes could appear was more
+than most could swallow. Several years and many more experiments later, the case
+for transmutation is much stronger, and the results quite interesting. The collection
+of strong papers in this volume on transmutation that appear in this proceedings
+are indicative of the growing importance of the eﬀect within the ﬁeld.
+In one view of transmutation, the diﬀerent eﬀects are divided into the following:
+(1) modiﬁcation of isotopic distributions near the surface in Fleischmann-Pons cells
+(Passell, others)
+(2) elemental and isotopic anomalies that appear to be connected to local hot spots
+(Dash, others)
+(3) massive transmutations to both lower and higher mass nuclei commensurate with
+energy production (Mizuno, Miley, others)
+(4) mass 8 and charge 4 transmutation of impurities in a multilayer sample with
+deuterium ﬂow (Iwamura, others)
+(5) massive production of radioactive isotopes (Wolf)
+(6) modiﬁcation of amounts of radioactive isotopes in a sample
+At ICCF10, papers on several of these topics were presented. The Iwamura eﬀect
+was introduced at ICCF9, and is an area of much excitement at the moment, due to
+the hope that a clear example of a selective transmutation eﬀect will emerge. The
+appearance of isotopic anomalies generally is attracting much interest in the ﬁeld
+at present.
+
+3.4. Nuclear emission:
+The ﬁrst report of nuclear emissions from metal deuterides was due to Jones and
+his colleagues at BYU, where evidence for low-level dd-fusion was presented. Since
+that time, the range of eﬀects claimed has increased to include:
+(1) low-level deuteron-deuteron fusion products (Jones, Scaramuzzi, Menlove, others)
+(2) low-level energetic alpha ejection (Cecil, Lipson)
+(3) low-level ion emission, not due to dd-fusion (Cecil)
+(4) penetrating radiation that results in charged particles (Oriani)
+We were fortunate to have strong papers at ICCF10 on all of these topics. Obser-
+vations presented at ICCF10 by Ademenko and Vysostskii appear to suggest that
+some kind of radiation is produced in the sample undergoing irradiation, and causes
+massive transmutation on a remote foil. It would be nice to determine precisely ex-
+perimentally what kind of radiation is involved.
+
+3.5. Beam experiments:
+There appear to be two interesting areas of interest in beam experiments. Numer-
+ous experiments have been reported over the years that show an enhancement in
+the deuteron-deuteron fusion rate at low energy in metal deuterides and in other
+deuterated materials. As yet, there has been no agreed upon explanation for this,
+other than it seems to be due to some kind of anomalous screening eﬀect. This eﬀect
+is illustrated in the paper by Kitamura and colleagues. Lipson and coworkers have
+argued that the glow discharge can be thought of as a high-ﬂux beam experiment,
+and present some very interesting results suggesting that the experiments demon-
+strating the enhancement in cross section can be extended to much lower energy in
+this way.
+
+The other interesting area that relate to beam experiments has to do with an
+eﬀect discovered some years ago by Kasagi, in which very broad signals of fast
+protons and fast alphas are observed in beam experiments where deuterons at 70-
+100 keV are incident on TiD and PdD. It was proposed that these sign
+due to a three-deuteron reaction, as such a reaction is the only candidate that
+can match end-point energies with a very broad distribution. This was discussed
+brieﬂy by Kasagi at ICCF10 in his oral presentation. A replication eﬀort carried
+out at NRL was discussed by Hubler, but unfortunately no proceedings paper was
+submitted. The paper by Takahashi and coworkers discusses work done at Osaka
+on this problem.
+
+3.6. Theory:
+There have been a wide variety of theoretical approaches discussed over the years,
+including anomalous screening eﬀects, weakly-interacting massive particles, black
+holes, and many other speculative mechanisms. In recent years, theory contributions
+have been tending to focus on a reduced set of models, reﬂecting the interests of
+those still active in the ﬁeld. Motivated by the low-energy enhancement seen in the
+deuteron-deuteron fusion yield, and by the observation of low-level fusion products,
+many theorists are interested in models for screening in metal deuterides (Luo,
+Frisone, and others). Such studies tend to be more conventional, in the sense that
+no additional mechanisms are required to account for other anomalies.
+
+Theorists that focus on the more general problem posed by the experimental
+observations face much more diﬃcult problems. The contributions at ICCF10 can
+largely be divided into a small number of catagories, including:
+(1) resonant tunneling (Li)
+(2) ion band states (S. Chubb, T. Chubb)
+(3) Bose-Einstein condensates (Kim)
+(4) multi-body fusion (Takahashi)
+(5) neutron cluster (Fisher, Kozima)
+(6) Preparata theory (Preparata, Del Giudice)
+(7) phonon-exchange theory (Hagelstein)
+Resonant tunneling models postulate the presence of a long-lived state roughly res-
+onant with the that of two deuterons, and proceeds with otherwise conventional
+physics (which predicts enhanced reaction rates). In ion band state models and
+Bose-Einstein condensate models, the proponents argue that the eﬀects of Coulomb
+repulsion are reduced or eliminated, leading to enhancements in reaction rates.
+Scott Chubb has extended his approach to begin addressing phonon coupling and
+energy exchange. In Takahashi’s model, several deuterons are assumed to tunnel
+together at the same time. Fisher, and Kozima, have been interested in models
+involving neutron clusters (neutral particles made up of several neutrons), which
+have the feature that the Coulomb barrier is not present in interactions with other
+nuclei. Preparata proposed Dicke-enhanced transitions from two-deuteron states to
+4He states, mediated by electromagnetic coupling to plasmons. In the phonon ex-
+change model, a highly-excited phonon mode is assumed, which couples to reactions
+at diﬀerent sites, leading to new site-other-site reactions.
+
+
+4. Demonstrations
+
+Two demonstrations of excess heat production were given at MIT on Tuesday night.
+
+One was presented by John Dash and his students Abhay Ambadkar (graduate
+student); and Corrissa Lee, Shelsea Pedersen, and Ben Zimmerman (high school
+summer interns). The cells are illustrated in Figure 1. Another was presented by
+Mitchell Swartz, shown in Figure 2. Transportation from the conference to MIT
+was provided, and most of the attendees were treated to a viewing and discussions
+of the experiments. There had been concern about whether the demonstrations
+would be working during the time allotted for viewing, and we were fortunate in
+that both cells appeared to show excess heat during this time.
+
+There was in addition a demonstration of excess heat and laser stimulation done
+remotely over the Internet by Dennis Cravens and Dennis Letts. A photograph of
+their experiment is shown in Figure 3.
+
+
+5. The public comes to ICCF10
+
+We invited the public to come to the conference on Monday night to see the poster
+presentations, and to meet with researchers in the ﬁeld.
+Dave Nagel gave an
+overview of cold fusion research, and delighted the audience during the question
+and answer period following his talk.
+
+Figure 1.
+Dash group demonstration at ICCF10, with Corissa Lee. Photographprovided courtesy
+of Steve Krivit.
+
+
+6. A typeset conference proceedings
+
+New for this conference are the nice looking typeset manuscripts in the pages that
+follow. We have been interested in moving toward developing an electronic journal
+for the ﬁeld, which would require the development of a typesetting capability. So, it
+seemed perhaps to be reasonable to attempt a typesetting of the ICCF10 conference
+proceedings papers.
+
+There are many reasons why this seemed to be a good idea. The International
+Conference series has provided the primary outlet for publication for papers in the
+cold fusion ﬁeld. These papers are being read by an increasing audience. As it is
+common for scientists to judge the quality of the science reported in a paper by how
+the paper looks or reads, it seems perhaps to be important to make the papers look
+more professional. After all, much work typically goes into the research, as well as
+into the writing. These proceedings papers are in many cases the only publication
+of work that is done in the area. So we probably should treat these papers more
+or less on par with journal publications until such time as journal publications in
+general are allowed.
+
+It was found that in the process of typesetting the papers, and in working with
+the authors, that the quality of the papers in many cases tended to improve. In some
+cases, simply typesetting the papers seemed to make them much more accessible
+and understandable. In other cases, authors took the time to improve their papers
+when they saw the eﬀort that was going into the typesetting.
+
+Figure 2.
+Mitchell Swartz demonstrating his cell for ICCF10 attendees. Photograph provided
+courtesy of Dave Nagel.
+
+The typesetting was done initially by Dr.
+Kumar’s team at Elim Pre-press
+Services of Velachery, Chennai, India. In most cases, relatively minor revisions of
+the papers were required, such as corrections of the ﬁgure sizing and placement,
+and these were done by the author.
+
+
+7. Language revisions
+
+Some of the papers submitted by authors for which English is a foreign language
+were not easy to understand because of language issues.
+In this proceedings, a
+signiﬁcant revision of the wording was done in order to improve readability. The
+most signiﬁcant revisions of this type were done (by P. L. Hagelstein) on papers by
+Romodanov et al., Lipson et al., Karabut et al., and Vysostkii et al. The English
+associated with the paper by Mizuno et al. was greatly improved by Jed Rothwell
+from the as-submitted version, to the LENR-CANR version that we typeset.
+
+
+8. Videotaping
+
+The oral presentations at ICCF10 were videotaped by Gene Mallove, and can be
+purchased as a collection of DVDs through Inﬁnite Energy magazine. The video
+resolution is not great, so in presentations where the lettering size is large the
+viewgraphs can be read, but in other presentations it is diﬃcult to see what is
+being presented.
+
+Figure 3.
+The laser excess heat experiment used for the remote demonstration given by Letts
+and Cravens during ICCF10. Photograph provided courtesy of Dennis Letts.
+
+
+9. Absence of skeptics
+
+Researchers in cold fusion have not had very good luck interacting with skeptics
+over the years. This has been true of the ICCF conference series. Douglas Morrison
+attended many of the ICCF conferences before he passed away. While he did provide
+some input as a skeptic, many found his questions and comments to be uninteresting
+(the answers usually had been discussed previously, or else concerned points that
+seemed more political than scientiﬁc). It is not clear how many in the ﬁeld saw the
+reviews of the conferences that he distributed widely. For example, at ICCF3 the
+SRI team discussed observations of excess heat from electrochemical cells in a ﬂow
+calorimeter, where the associated experimental errors were quite small and well-
+studied. The results were very impressive, and answered basic questions about the
+magnitude of the eﬀect, signal to noise, dynamics, reproducibility, and dependence
+on loading and current density. Morrison’s discussion in his review left out nearly all
+technical details of the presentation, but did broadcast his nearly universal view that
+the results were not convincing. What the physics community learned of research
+in the cold fusion ﬁeld in general came through Morrison’s ﬁlter.
+
+Skeptics have often said that negative papers are not allowed at the conference.
+At ICCF10, some eﬀort was made to encourage skeptics to attend. Gene Mallove
+posted more than 100 conference posters around MIT several months prior to the
+conference (some of which remain posted two years later), in the hope that people
+from MIT would come to the conference and see what was happening. No MIT
+students or faculty attended, outside of those presenting at the conference. The
+cold fusion demonstrations presented at MIT were likewise ignored by the MIT
+community.
+
+Figure 4.
+US oil production and petroleum consumption.
+
+To encourage skeptics to attend, invitations were issued to Robert Park, Peter
+Zimmermann, Frank Close, Steve Koonin, John Holzrichter, and others. All de-
+clined, or else did not respond. In the case of Peter Zimmermann, ﬁnancial issues
+initially prevented his acceptance, following which full support (travel, lodging, and
+registration) was oﬀered. Unfortunately his schedule then did not permit his par-
+ticipation. Henceforth, let it be known that it was the policy at ICCF10 to actively
+encourage the participation of skeptics, and that many such skeptics chose not to
+participate.
+
+
+10. Energy Issues
+
+There has been concern about the world-wide energy supply for some time, speciﬁ-
+cally in the area of oil production. It was suggested in the 1950s by M. King Hubbert
+that oil production in the US would peak once the available oil was depleted by half,
+which Hubbert calculated should occur around 1970. This suggestion was not ini-
+tially well-received. One can see in Figure 4 the history of U.S. oil production, which
+in fact peaked in 1970 and has subsequently fallen. In the simplest interpretation
+of this, it becomes increasingly expensive to remove oil from deposits the more they
+become depleted. Also shown in Figure 4 is the total U.S. petroleum consumption,
+which shows that there is plenty of demand but not enough oil production to meet
+this demand. At present the U.S. imports signiﬁcant amounts of oil to meet the
+demand.
+
+Figure 5.
+World oil production.
+
+It is expected that oil production world-wide will peak once the available oil
+is depleted by half, and there is considerable discussion at present as to precisely
+when this will occur. From the data shown in Figure 5, it appears that this had not
+happened as of 2004. There exist projections as to when this will occur which range
+between 2005 and 2020. When world-wide oil production falls short of world-wide
+demand, then the laws of economics dictate that the price will begin to rise. As the
+demand for oil internationally continues to increase at the rate of a few per cent
+per year, it is only a matter of time before the price begins to rise. The recent
+price history is shown in Figure 6. For many before 1970, the price in constant
+value dollars was relatively constant. In the 1970s and 1980s, prices rose due to
+artiﬁcial constraints put on the supply by oil producers. There is concern that the
+most recent price increases may be due to an inability of production to keep up
+with demand.
+
+Figure 6.
+Oil price per barrel.
+Price in US dollars (bottom); price in constant value dollars
+referenced to 2005 (top). Prices are given yearly up to 2003, and monthly starting in 2004.
+
+From this discussion it is apparent that the world faces tough problems in the
+area of energy supply, speciﬁcally in the area of oil. Some of those working on
+excess heat production have wondered why there is not more interest in cold fusion
+research, especially since laboratory results appear to indicate that energy is being
+produced, that it has a nuclear origin, and that it is clean.
+
+
+11. DoE review
+
+One of the reasons that research in the cold fusion ﬁeld does not attract more
+interest is because of the events of 1989. Following the initial announcements in
+March 1989, there was great interest for a while. However, initial eﬀorts to replicate
+the experiments were generally not successful, and no one had a good explanation
+why there should be any eﬀects at all.
+
+The Department of Energy conducted a review of cold fusion in 1989. There were
+ﬁve conclusions of this review: that the claims of excess heat were not convincing;
+that the excess heat was not shown to be associated with a nuclear process; that
+the neutron emission reported was not persuasive; that there was no reason based
+on what was known about nuclear and solid-state physics to expect such eﬀects;
+and that the eﬀects claimed would require the invention of a new physical process
+diﬀerent from what had been studied in nuclear physics. Many in the scientiﬁc
+community came away with the opinion that the DoE review had shown conclusively
+that there was nothing to any of the claims, hence nothing to have any interest in.
+Huizenga, a co-chair of the review panel, discussed the review and his perspective
+on it in Cold fusion, the scientiﬁc ﬁasco of the century.
+
+Now, it is one thing for the 1989 work to appear to a hard-nosed review panel
+to be less than convincing, and quite another for there to be no new eﬀects. For
+example, a perusal of the pages that follow stand witness to some of what people
+in the ﬁeld have done and seen recently.
+
+ICCF10 was considered to be very strong scientiﬁcally by many who attended.
+Following this, there was much discussion about re-engaging the scientiﬁc commu-
+nity, since it was felt that the results were strong enough so that the ﬁeld should
+rejoin with mainstream science. One of the suggestions that was made concerned
+requesting a new review of cold fusion from the Department of Energy, in the hope
+that some of the damage done in 1989 might be rectiﬁed. In the Fall, 2003, following
+ICCF10, we requested a new review of cold fusion. Discussions were held at DoE,
+during which it was proposed that members of the cold fusion community might
+work with DoE to assist in a review of the ﬁeld, with the focus on excess energy
+production. Some months later, it was announced that DoE would conduct a new
+review of cold fusion.
+
+We proposed a review that would focus on energy production, as this had been
+most studied within the ﬁeld, and as discussed above is potentially important given
+the tough energy problems that the U.S. and the rest of the world faces. We also
+proposed to cover material that was most solid within the ﬁeld in the sense that
+more than one group had been involved, that we were familiar with, and that there
+had been time to think about the results.
+
+The DoE charge to the reviewers included three tasks:
+(1) Examine and evaluate the experimental evidences for the occurences of nuclear
+reactions in condensed matter at low energies (less than a few electron volts).
+(2) Determine whether the evidence is suﬃciently conclusive to demonstrate that such
+nuclear reactions occur.
+(3) Determine whether there is a scientiﬁc case for continued eﬀorts in these studies
+and, if so, identify the most promising areas to be pursued.
+
+In essence, we had proposed to make the case that the experimental evidence sup-
+ported the existence of an excess heat eﬀect that merited further study. DoE seemed
+more interested in a demonstration of new nuclear reactions. The existence of an
+excess heat eﬀect at levels far exceeding any available chemical energy is thought
+by many to imply the existence of new nuclear reactions, and this is supported by
+observations of 4He that correlated with energy production. However, the charge
+to the reviewers implies a focus on speciﬁc new nuclear reactions, for which there is
+not consensus among the diﬀerent groups in the ﬁeld at present, and hence was not
+part of the primary review. Particle emission was discussed as a secondary topic in
+the review. Although the evidence seemed strong, there was much criticism of the
+measurements, interpretation, and the results in general.
+
+DoE requested a 15 page summary, and proposed that a few oral presentations
+be given during a one day session (which was held in August, 2004). The review
+document that we submitted will appear in the ICCF11 proceedings. The conclu-
+sions of the DoE review were posted by DoE, and the speciﬁc comments of the
+reviewers were made available.
+
+Given the very skeptical attitude that prevails among the scientiﬁc community,
+and that also was reﬂected initially among the majority of the reviewers, it would
+have been an easy matter for them to conclude simply that: “the evidence does not
+demonstrate that a new eﬀect is occuring,” and that they “do not see a scientiﬁc
+case for continuing these studies under federal sponsorship,” as was written by one
+of the referees. However, this was not what happened. Instead, the DoE summary
+tells us:
+“The nearly unanimous opinion of the reviewers was that funding agencies
+should entertain individual, well-designed proposals for experiments that ad-
+dress speciﬁc scientiﬁc issues relevant to the question of whether or not there is
+anomalous energy production in Pd/D systems, or whether or not D-D fusion
+reactions occur at energies on the order of a few eV.”
+The reviewers also indicated two areas that could be helpful in resolving some of
+the controversies in the ﬁeld:
+(1) materials science aspects of deuterated materials using modern characterization
+techniques;
+(2) the study of particles reportedly emitted from deuterated foils using state-of-the-art
+apparatus and methods.
+Many more issues were discussed by the reviewers, and in the review summary,
+which are posted on the LENR-CANR website, and readers are encouraged to look
+them over.
+
+In regard to the question of whether there is an excess heat eﬀect, which was a
+major point under discussion, the summary document provided by DoE said:
+“The excess power observed in some experiments is reported to be beyond
+that attributable to ordinary chemical or solid state source; this excess power
+is attributed by proponents to nuclear fusion reactions. Evaluations by the
+reviewers ranged from: 1) the evidence for excess power is compelling, to 2)
+there is no convincing evidence that excess power is produced when integrated
+over the life of an experiment. The reviwers were split approximately evenly
+on this topic.
+The reviewers who accepted the production of excess power
+typically suggest that this eﬀect is seen often, and under some understood
+conditions, is compelling. The reviewers who did not ﬁnd the production of
+excess power convincing cite a number of issues including: excess power in the
+short term is not the same as net energy production over the entire time of
+the experiment; all possible chemical and solid state causes of excess heat have
+not been investigated and eliminated as an explanation; and the production of
+power over a period of time is a few per cent of the external power external
+power applied and hence calibration and systematic eﬀects could account for
+the purported net eﬀect. Most reviewers, including those who accepted the
+evidence and those who did not, stated that the eﬀects are not repeatable, the
+magnitude of the eﬀect has not increased in over a decade, and that many of
+the experiments are not well documented.
+
+Many of these issues were stated clearly in the review document, and discussed
+at length in the oral presentations, and it is hard to understand why they are
+even issues any longer.
+The amount of energy under consideration is so great
+that even if it were somehow stored, the resulting energy storage density greatly
+exceeds any chemical or solid state capability. Power excesses well in excess of a
+few per cent were presented and discussed. With respect to the last point about
+reproducibility and magnitude, these conclusions are not consistent with what was
+presented. Reproducibility has improved, and the ratio of output power to input
+power has been increasing over the years, as we presented.
+We continue to be
+haunted by the ghosts of 1989.
+
+The 2004 DoE review did not produce the deﬁnitive vindication that some had
+hoped for. But there have been a number of tangible results:
+(1) In the review process, we met a harsh panel of reviewers, who expected to make
+short work of poor science.
+Instead, when they were presented with research
+results, attitudes began to change in several cases.
+(2) It is now possible to get cold fusion research funded in the U.S. – some very
+skeptical reviewers have recommended that strong proposals in the ﬁeld be funded,
+and we should take advantage of this.
+(3) There are cold fusion papers that are being considered for publication in more
+mainstream journals, and some have now appeared in print.
+(4) There is increased interest in the area on the part of the scientiﬁc community, as
+measured by the large number of papers being downloaded from the LENR-CANR
+website, and by the larger audiences that attend presentations in the ﬁeld.
+(5) Commercial opportunities have increased, as measured by the number of new
+commercial ventures that are working in the area.
+
+After many years, the situation is beginning to improve. With our continued eﬀorts,
+we can and we will accomplish more.
+
+
+12. Gene Mallove
+
+We note with great regret the passing of our friend Gene Mallove on May 14, 2004.
+Gene (shown in Figure 7) was an early enthusiast and advocate of all things cold
+fusion from the beginning of the ﬁeld, and subsequently became an advocate for
+many people and causes who had been cast out of the mainstream of the scientiﬁc
+community. He wrote Fire from Ice, which provided a clear account of the events
+surrounding and following the 1989 announcements of Jones, and of Fleischmann
+and Pons. He started Inﬁnite Energy magazine, which provided a forum in which
+those with nontraditional ideas and opinions could have their say. Although we have
+often not agreed with Gene’s views and opinions, to honor Gene we have provided
+a place for his contribution so that he may have his say.
+
+
+Figure 7.
+Gene Mallove. Photograph provided courtesy of Mitchell Swartz.
+
+Peter L. Hagelstein
+Massachusetts Institute of Technology
+Cambridge, MA
+September, 2005

@@ -1,0 +1,195 @@
+ABSTRACT
+
+In a gas-loading D/Pd or H/Pd system, the nuclear products have been identified using
+mass spectroscopy, scanning electron microscope, electron probe microanalysis, and solid
+state nuclear track detector. In contrast with the electrolytic cell in most of the "cold fusion"
+experiments, gas-loading system has the advantage of less contamination, and provides one
+more compelling evidence.
+
+
+1. Introduction
+
+9 years after the first announcement of Fleischmann and Pons experiment, cold fusion
+community has confirmed a single fact: that is "excess heat" with no strong neutron and
+Gamma radiation. Two different conclusions were extracted from this single fact: (1) "excess
+heat" is a mistake because most of physicists believe that "excess heat" has to have strong
+neutron and Gamma radiation; (2) "excess heat" is a real phenomenon , because the
+experimentalists persist that their instruments and observation are reliable, although they do
+not understand the mechanism of this phenomenon.
+
+The key issue to reconcile these two different conclusions is to find any nuclear products
+other than neutron or Gamma radiation. The low energy nuclear transmutation is an important
+object for this purpose
+
+The nuclear transmutations in the "cold fusion" experiments have been reported in gasdischarge
+and electrolytic systems, but it was not paid enough attention until a series of
+quantified measurements were presented in the Second International Low Energy Nuclear
+Reactions Conference and ICCF-6 in 1996. In order to confirm these low energy nuclear
+transmutations , the exclusion of any possible
+contamination was essential. Our gas loading
+experiment has the advantage of less
+contamination; therefore, various technologies
+were applied to our gas loading D/Pd and
+H/Pd systems to identify any possible nuclear
+products.
+
+
+2. Helium in the Gas-loading D/Pd System.
+
+Among the possible nuclear products,
+helium is the first object based on the D+D
+reaction. Miles and Arata showed that there
+were helium generated in the heavy water
+electrolytic system when the "excess heat"
+was generated . Hence, the gas in our gasloading
+D/Pd system was analysed using mass
+spectroscopy (NG-1000).
+
+In order to distinguish the helium from
+the D2 gas(m(4He)=4.00260, m(D2)=4.02820)
+, high resolution mass spectroscopy was applied. The resolution, (m/Lim), has to be greater than 156; however, the resolution of the
+mass spectroscopy in our experiment(NG-1000) is greater than 700. 
+
+The gas-loading system has been described in details in the proceedings ofICCF-6 [l]. To
+avoid the contamination from the air, we detect the ratio of 4He to 2°Ne of the sample gas in
+the dewar in parallel with the air sample. Fig.2 shows the signal diagram in this experiment.
+We took the sample gas from the gas-loading D/Pd dewar, where the "excess heat"
+experiment were done for more than one year. The ratio of 4He/2°Ne in this sample gas was
+0.55. This ratio for the air sample was measured just before and after the sample test. This :
+ratio of 4He/2°Ne for the standard air should 
+be 0.318, and this ratio for our air samples 
+are 0.296, 0.299, respectively. Thus, the 
+accuracy is good enough to show there is a 
+"helium" source in the deuterium gas-loading 
+dewar . We analyse the helium components 
+in the original deuterium gas also. The 
+absolute value of helium component is very 
+low; however , the ratio of 4He/2°Ne=0.318 
+is very close to that of standard air. This 
+confirms the conclusion that the "helium" 
+source is associated with deuterium plus 
+palladium system. 
+
+
+3. Nuclear Products in the Hydrogen­
+
+loaded Palladium
+In our gas-loading system, the H/Pd 
+system was used as a control for "excess 
+heat" measurement. Now it turns out to be a 
+Ne-20 
+r,_ 
+I· 
+He-4 
+J: 
+ T 
+ Jb 
+D 
+Ne-20 
+l. 
+l J, 
+Air 
+Ne-20 
+Ne-20 
+.  .,·; 
+He-4 r 
+D+Pd 
+Air 
+good 
+system 
+to 
+detect 
+the 
+nuclear Fig.2 Mass-spectroscopy measurement of the 
+transmutation as well. After one year of 
+ratio of Helium-4 to Neon-20 for pure 
+loading experiment, Zinc was found on the 
+deuterium gas, air sample before test, gas 
+surface of hydrogen-loaded palladium wire 
+sample from D/Pd dewar, and air sample 
+after test . 
+(Fig.3) [2]. In order to exclude the 
+possibility of contamination , we searched the rare-earth elements among the other nuclear 
+products. Terbium(65Tb) on the surface of the hydrogen-loaded palladium was found (Fig.4 
+and Fig.5) [3] . Now we report the nuclear signal emitted by hydrogen-loaded palladium thin 
+film. 
+
+The solid state nuclear track detector (CR-39) was used to detect any energetic charged 
+particle from the surface of palladium thin film. Fig.6 shows that a piece of hydrogen-loaded 
+palladium thin film was sandwiched in between two pieces of CR-39 detector. 5½ months 
+later, CR-39 was etched in 6.8N NaOH solution at 70 °C for 5 hours , under the microscopy 
+the etch pits were clearly shown. There is a big difference between the area covered by 
+hydrogen loaded palladium film and the area not covered by hydrogen loaded palladium film. 
+
+The number density of the pits is 30 times greater than that of background. 
+
+An interesting signal was found in a pair of CR-39 numbered lAl 78 and 1Al48. The 
+signals appeared in the same position with the similar pattern. It reveals that there might be an 
+active region on the palladium thin film, which emitted energetic charged particles in both 
+directions. Since the thickness of the thin film is about 1 micron, it gives an estimation of the 
+energy of the charged particle also, which must be in the order ofMeV. 
+
+ICCF-7 
+
+
+4. Discussion
+
+Zn components appeared in the Pd electrode in the early literature on cold fusion research
+also. It was considered as a contamination. Indeed this was one of the important evidences for 
+nuclear signal. However, it means that "cold fusion" is just a part of this new category of 
+anomalous phenomena in D/Pd, H/Pd or Hydrogen/Metal system. "Cold fission" might be 
+another part of this anomalous phenomena. The three body (3D) nuclear reaction[4] is also a 
+part of this anomalous phenomena. However, they might be all predicted by the selective 
+resonant tunneling model. [ 5]. 
+
+
+References
+ 
+[l] X.Z.Li, et al., " 'Excess Heat' Measurement in Gas-loading D/Pd System," Journal of New
+Energy, vol. I, no.4, Fall 1996, p.34; see also in " Progress in New Hydrogen Energy,"
+Proceedings of International Conference on Cold Fusion, Vol.2, edited by M.Okamoto,
+October 13-18,1996, Japan, (Published by New Energy and Technology Development
+Organization, and Institute of Applied Energy) p.455.
+[2] G.S.Qiao, 
+X.Z.Li, et al., "Nuclear Transmutation in a Gas-Loading H/Pd System,"
+Journal of New Energy, vol.2, no.2, Summer, 1997, p.48.
+(3] X.Z.Li, G.S.Qiao, et al., "Selective Resonant Tunneling and Nuclear Transmutation in a 
+Gas-Loading H/Pd System," The Proceedings of the 5-th Russian Conference on Cold 
+Fusion and Nuclear Transmutation," Sochi, Sept. 28-Oct.4, 1997. 
+[4] A.Takahashi, et al., "Detection of Three-body Deuteron Fusion in Titanium-Deuteride
+under the Stimulation by Deuteron Beam," preprint (1998, March 6)
+[5] X.Z.Li, "The 3-Dimensional Resonance Tunneling in Chemically Assisted Nuclear Fission
+and Fusion Reactions," The Proceedings ofICCF-5, Dec. 6-9, 1993, Lahaina, USA, Vol.4,
+2-1 (1994), EPRI TR-104188-V4.
+i 
+1000·-1 
+Ii i:lt 
+'I 
+; i 
+(a) 
+eoo--j
+. ---·- --1 
+(b) ! 
+Fig.3 (a) EDS analysis of the original palladium wire, 
+(b) EDS analysis of the hydrogen-loaded palladium wire.
+·----··-----
+Energy (keV) 
+Fig.4 EDS analysis of hydrogen-loaded Pd wire showing Tb peak 
+20 un 
+Tb 
+15 lV 40 nA 
+ICCF-7 
+Y A N C O V Y a R 
+"1k e-,,r 
+Fig. 5 Electron probe micro-analysis (EPMA) in WDX (Wave-length Disperse X-ray) mode 
+showing Terbium distribution on the surface of palladium wire loaded with hydrogen in 
+a gas-loading system 
+ICCF-7 
+1A178 
+1A148 
+:  -... · :._ 
+·: _:·· ..
+' ·, 
+.-: .. • 
+·· .... / 
+Fig.6 The nuclear signal in the solid state nuclear track detector(CR-39) 

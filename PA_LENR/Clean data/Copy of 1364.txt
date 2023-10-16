@@ -1,0 +1,131 @@
+1. Introduction
+
+We focused our attention on the result of De Ninno
+et al.[l] who observed neutron emission changing temperature of titanium in pressurized deuterium gas. Neutrons emerged from the titanium in a particular temperature of 240 K. This temperature seems to be corresponding to the phase-transition of titanium hydrides.
+The change could make a cracks with a high electric
+field between the gaps which accelerated deuterons.
+
+
+So, we carried out the first experiment for searching neutrons from an electrolysis changing the temperature between 200 K and 300 K in order to create the
+dynamic condition in palladium cathode. Additionally,
+the advantage of the electrolysis at the low temperature
+range is not only the capability of changing the temperature, but also increase of an absorbed amount of hydro
+gen into palladium ( 2-4]. Furthermore, our detection
+system was constructed in attention with a time interval
+as wide range as possible, since we do not know how the
+neutron emission occurs in the time structure.
+
+
+2. Methods
+
+2.1 Neutron detection system:
+Neutron detection system was consisted of ten 3He
+proportional gas counters (Reuter-Stokes, USA), which
+were inserted in a paraffin moderator shaped as a cylinder with a height of 30 cm, outer and inner diameter of
+38 cm and 10 cm, respectively. Each couple of the 3tte
+counters was linked to a preamplifier. The pulse
+height data were recorded using a CAMAC PHADC. The
+event time was also stored to analyze the time structure
+of the neutron emissions. The pulse height data can be
+read out every 28.6 ms, which is limited by the CAMAC
+readout time.
+
+Detection efficiency of neutrons was defined as
+number of detection per n�er of emitted in the cell
+which was measured by the Cf neutron source placed at
+the palladium electrode position. The detection efficiency was 3.3 % selecting within -3o-to +2o-. The
+detection system was placed in Nkogiriyama underground
+laboratory, Institute for Cosmic Ray Research, University of Tokyo, which was covered with sandstone of 100 m
+water equivalent. The average of neutron background
+rate was about 4/h.
+
+
+2.2 Electrolysis:
+The cell used in this work was made of quartz glass
+of 22 mm in inner diameter and 150 mm in length. The
+anode was a coiled shape made of a platinum wire of 0.5
+mm in diameter and 500 mm in length. The palladium
+cathode electrode of 5 mm in diameter and 20 mm length
+was placed in the center of the platinum wire. We used
+an electrolyte as 2N DC1(37 wt% with 99% D; Aldrich
+Chemical Company, Inc.) of deuterated methanol (99.8
+atom% D; ISOTEC Inc.) solution, whose freezing point was
+lower than 200 K.
+
+The electrolysis was continued unexchanging the
+electrode but exchanging the electrolyte for about 2
+weeks, because methanol was resolved into formaldehyde
+and formic acid which froze under the low temperature
+condition. The electrolysis was carried out with
+constant current mode which was repeated between -113.2
+mA/cm2 for 170 min. and -0.14 mA/cm2 for 10 min. The
+total electrolysis duration was 1878 h, and the temperature of the electrolysis bath were kept at about 210 K.
+The amount of absorbed deuterium was estimated by 
+the measurements of thermogravimetory (TG) and temperature programed desorption (TPD) spectra of mass number
+2. In our electrolysis condition, the average ratio of
+deuterium was Pd:D=l:0.7.
+
+
+3. Analysis and results
+
+We studied the frequency distributions of the neutron count during the electrolysis of each time interval. The expected frequency distribution was deduced
+from the Poisson distribution substituting the average
+and the total counts of the time interval.
+
+Searching from the time interval from 28.6 ms to 240
+min, almost all the time interval frequency distributions were fit to the Poisson, but some anomalous events
+were observed in 120 and 180 time intervals (Fig. 1).
+They were one event of 22 counts/2h, which occurred at
+31.01 days after the beginning of the electrolysis and
+two events of 27 counts/3h at 62.14 and 82.17 days,
+respectively. The pulse height distributions of the
+three events were similar to that of the 252Cf source
+data (e.g. fig. 2 shows the distribution of 22/2h
+train). Thus the counts of these events can be decided
+as the neutron signals. The neutron signals of these 
+
+Fig. 1 Frequency distributin of 120 and 180 min 
+
+Fig. 2 Energy spectram 
+
+Fig. 3 Time distribution 
+
+events were distributed over the time duration (e.g.
+fig. 3 shows the time distribution of 22/2h train).
+This time distribution indicates that these emission
+phenomena is not both a continuous process during the
+electrolysis, and burst process.
+
+Table 1. Summarize of the excess neutron emission. 
+
+tp:passage time, td:duration time, C:counts of neutron;
+P:probability, m:sampling number, n:frequency of appearance, E:emission rate.
+
+A statistical analysis of these three events were
+summarized in table 1. The�e production rate of the 22
+and 27 counts were 6.3xlo-24 and 4.5x10-2 /d-d/s during
+2 and 3h, respectively. The confidence levels of
+neutron emission for 22/2h and 27/3h were 88% and 59%,
+iespectively. For the total of the three trains, the
+canfidence level became 98%.
+
+Since the anomalous neutron emission intermittently
+occurs and continued a few hours, we will consider that
+the possible process of the neutron emission phenomena
+maybe related to the accumulation of stress and the
+creep mechanism of cathode material.
+
+We would like to express our appreciation to Prof.
+K.Yamakoshi of The University of Tokyo to a facilities
+for a usage of the Nokogiriyama underground laboratory.
+The present study was partially supported by a Fund for
+Special Research Project at Tokyo Metropolitan University and a Grant-in-Aid for Scientific Research from the
+Ministry of Education, Science and Culture of Japan.
+
+
+4. References
+
+[1] De Ninno, A. et al., 1989, Europhys.Lett., 9, 221.
+[2] Harper, J.M.E. et al., 1974, Phys.Lett., 47A, 69.
+[3] Burger, J.P.et al.1975, Solid State Commun. 17, 277.
+[4] Liu, D.R. et al., 1988, Acta. Metall., 36, 2597.

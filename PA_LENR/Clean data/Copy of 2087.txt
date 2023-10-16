@@ -1,0 +1,114 @@
+1. Introduction
+
+In order to understand and explain the anomalous nuclear low-energy reaction phenomena [1], Bose-Einstein condensation (BEC) of integer-spin nuclei was suggested as a possible mechanism for ultra low-energy nuclear reaction in 1998 [2]. Recently, theoretical studies of BEC mechanism have been carried out by approximately solving a many-body Schrödinger equation for a system of N identical charged integer-spinnuclei(“Bose"nuclei)confinedinion traps [3-7]. The solution is used to obtain theoretical formulae for estimating the probabilities and rates of nuclear fusion for N identical Bose nuclei confined in an ion trap or an atomic cluster. In this paper, we generalize our previous one specie BEC mechanism to the two-species case in order to apply our formulation to the LENR and transmutation processes in condensed matters [8,9].
+
+
+2. One Specie Case
+
+For the BEC mechanism, the total nuclear d-d fusion rate R(1) per unit volume per unit time is
+given by [3-7] where B is given by B=3Am/ (8hc) , nb is a trap/cluster number density (number of traps/clusters per unit volume) as defined as nb=Nb/N, Nb is the total number of Bose nuclei in traps/clusters per unit volume, and N is the average number of Bose nuclei in a trap/cluster. nB is an average number of Bose nuclei per trap/cluster, n
+of traps/atomic clusters. A is given by A 2SrB /(h ) , where rB h /(2e2 ) , =m/2, S is the S-
+factor for the nuclear fusion reaction between two deutrons (for D(d,p)T and D(d , n)3 He reactions, S55Kev-barn), and is the probability of the BEC ground-state occupation.
+
+In terms of S-factor, Eq.(1) can be rewritten as where We note a very important fact that R(1) does not depend on the Gamov factor in contrast to the conventional theory for nuclei fusion in free space. This is consistent with conjecture noted by Dirac [10] that each interacting neutral boson behaves as an independent particle in a common average background for the large N case. Furthermore, the reaction rate R(1) is proportional to  which is expected to increase as the operating temperature decreases. The only unknown parameter in Eqs.(1) and (2) is the probability of the BEC ground state occupation, .
+Our predictions imply that nuclear fusion may be achievable at lower temperatures.
+
+
+3. Two Species Case
+
+We consider a mixture of two different species of positive charged bosons, labeled 1 and 2 with N1 and N2 particles, respectively. We denote charges and masses as Z1 0 , Z2 0 and m1,
+m2 respectively. We assume that trapping potentials Vi are isotropic and harmonic
+The mean-field energy functional for the two-component system is given by generalization of the one-component case [5] where and ni denotes density of species i
+
+Ni
+The minimization of the functional, Eq.(3), with subsidiary conditions, Eq.(4), leads to the following time-independent mean-field equations
+and i are chemical potentials, which are related to the ground-state energy, Eq.(3), by the
+general thermodynamics identity
+
+We note that the mean-field theory, Eqs. (5), cannot describe the Wigner-crystallization regime [11].
+In the Thomas-Fermi (TF) approximation, in which one neglects the kinetic energy terms in Eqs.(5), Eqs.(5) reduce to
+Eqs. (7) hold in the region where ni are positive and ni=0 outside this region. We can obtain from these equations that
+and hence we have proved that Eqs. (7) have non-trivial solution if and only if
+In this case, we have Eqs. (7) can be solved analytically to obtain where denotes the unit positive step function,
+
+This is done by seeing that potentials Wi, Eqs. (6) are solutions of the Poisson equations
+Straightforward calculations with ni from Eqs. (9) yield and.
+
+
+found that depending of the ratio , Eqs.(8), the two components coexist in the same region of space, in spite of the Coulomb repulsion between the two species. This result is obtained in the
+(i)
+TF approximation, Eqs.(7). If =1, and Ni>>1, c Nj>>1 , the TF approximation provides an
+accurate description of the exact mean-field solution (except a narrow region near a surface).
+For a general value of , the mixture becomes unstable against deviations from uniformity. Although the TF approximation is not applicable for this case, we expect that if 1 and Ni>>1,
+(i)
+c Nj>>1 , the two components may coexist in the same regions of space.
+
+
+4. Fusion Rates
+
+For the two species case, we generalize the one-specie Fermi pseudo-potential [3] as where the nuclear reaction rate constants Aij are given by
+with . S are the S-factors for nuclear fusion B ijij ijijijij
+between two nuclei from species i and j.
+The nucleus-nucleus fusion rates are determined from the trapped ground state wave function
+as
+
+
+5. Selection Rules
+
+For the BEC mechanism for LENR and transmutation processes, there are two selection rules: (A) nuclear spin selection rule and (B) nuclear mass-charge selection rule. Selection rule (A) is exact while selection rule (B) is approximate.
+(A) Nuclear Spin Selection Rule
+Nuclear spins of both species must be integer. This rule is obvious for the BEC mechanism.
+(B) Nuclear Mass-Charge Selection Rule
+If we assume =, we have from Eq.(8), m Z /(m Z ) 1 or
+where Ñi is the number of neutrons in the Bose nucleus for the specie i. We note that Eq.(11) is
+satisfied, for example, for two species with 
+
+
+6. Application to (D+Li) Reactions
+
+For (d + 6 Li) reaction, 6 Li(d,)4 He (Q=22.37 Mev) and for (d + 7 Li ) reaction,
+7 Li(d,n)24 He (Q=15.12 Mev), the S-factors are 18.8 Mev-barn[12,13] and 30 Mev-barn [14], respectively. Using these values we find that the corresponding nuclear reaction rate constants are Ad6Li 5.81015cm3 /sec and Ad7Li 8.971015cm3 /sec which are about 50 times larger
+than the d-d nuclear reaction rate constant Add 1.51016 cm3 / sec .
+We expect that nuclear reaction rate constants for reactions 6 Li(6 Li,5 Li)7 Li (Q=1.86 Mev)
+and 6 Li(6 Li,)24 He (Q=20.897 Mev) are much smaller than Ad6Li.
+
+For the BEC mechanism, the (d  Li) reaction rate is expected to be suppressed compared
+66
+with the (d  Li) reaction rate. This is consistent with the observation of depletion of Li [15,16]
+as inferred from increased 7Li/6Li abundance ratio in Arata-Zhang’sparticulatePdexposedto deuterium gas [17-20].
+The excess heat and 4He observed in electrolysis experiments [17-20] may be due to 6 Li(d,)4 He in addition to other reactions leading to the final states without 4He. This would be
+an alternative scenario to the (d+d) reaction scenario which has been proposed by many.
+
+
+7. Summary and Conclusions
+
+A generalization of the BEC mechanism for one specie LENR processes in condensed matters has been made to the case of a mixture of two different species of positively charged Bose nuclei in harmonic traps. Depending on the ratio of the parameters involved, it is shown that the two components may coexist in same regions of space, in spite of the Coulomb repulsion between two species. We have obtained an approximate selection rule involving nuclear masses and charges of two species.
+
+For a mixture d and Li species, we expect that the (d+ 6 Li) reaction rate may be larger than the (d+d) reaction rate, implying that the (d+6Li) reactions may dominate over the (d+d)
+reactions in LENR experiments in condensed matters. This is consistent with the recent
+observation of the 6Li depletion [15,16] in particulate Pd exposed to deuterium gas [17-20].
+Further LENR experiments involving 6Li or 7Li separately are needed for more conclusive tests of the BEC mechanism with two species.
+
+
+8. References
+
+1. See the Proceedings of the 10th International Conference on Cold Fusion (ICCF-10), 2003, Cambridge, Massachusetts.
+2. Y.E. Kim and A.L. Zubarev, Proceedings of ICCF-7, 1998, pp. 186-191.
+3. Y.E. Kim and A.L. Zubarev, Fusion Technology 37, 151 (2000).
+4. Y.E. Kim and A.L. Zubarev, Italian Physical Society Proceedings 70, 375 (2000) for ICCF-8, 2000, Lerici (La Spezia), Italy.
+5. Y.E. Kim and A.L. Zubarev, Phys. Rev. A64, 013603 (2001).
+6. Y.E. Kim, D.S. Koltick, R. Pringer, J. Myers, and R. Koltick, Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+7. Y.E. Kim, Progr. Theor. Phys. Suppl. 154, 379 (2004).
+8. G.H. Miley and P.J. Shrestha, Proceedings of ICCF-10,2003, Cambridge, Massachusetts.
+9. Y. Iwamura et al., Proceedings of ICCF-10,2003, Cambridge, Massachusetts. 10.P.A.M.Dirac,“ThePrinciplesofQuantum Mechanics" (second edition), Clarendon Press, Oxford 1935, Chapter XI, Section 62.
+11. E.P. Wigner, Phys. Rev. 46, 1002 (1934).
+12. S. Engstler et al., Z. Phys. A342, 471 (1992).
+13. A. Musumara at al., Phys. Rev. C64, 068801 (2001).
+
+14. J. Yan et al., Nucl. Phys. A621, 127c (1997).
+15. T.O. Passel, Proceedings of the Ninth International Conference on Cold Fusion, pp. 299-304, May 19-24, 2002, Beijing.
+16. T.O. Passel, Proceedings of the Tenth International Conference on Cold Fusion, 2003, Cambridge, Massachusetts.
+17. Y. Arata and Y.C. Zhang, Italian Physical Society Proceedings 70, 11 (2000) for ICCF-8, 2000, Lerici (La Spezia), Italy.
+18. Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys., 37, L1274 (1998).
+19. Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys., 38, L774 (1999).
+20. M. McKubre et al., Italian Physical Society Proceedings 70, 3 (2000) for ICCF-8, 2000, Lerici (La Spezia), Italy

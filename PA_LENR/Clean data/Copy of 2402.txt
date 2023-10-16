@@ -1,0 +1,161 @@
+1. Introduction
+
+9 years after the first announcement of "excess heat" in D/Pd system, it is still a
+controversial subject: if there is really "excess heat" in D/Pd system. One of the uncertainties
+is essentially related to the electrolytic system as a deuterium-loading system. There must be a
+power input in order to electrolyze the heavy water; hence, we have to have a good calibration
+of the calorimetric system in order to deduct this input power. This calibration restricts the
+range of scrutiny in parameter searching, and inhibits the detection of"excess heat".
+
+Is there any way to have the qualitatively conclusion about "excess heat" without any
+restriction due to calibration? i.e. Can we extract a conclusion about "excess heat" without the
+exact value of heat transfer coefficient? Yes, it is possible in a gas-loading system. There is
+essentially no power input in a gas-loading system because there is no need of electrolysis.
+Then, any heat generated in the system may be attributed to "excess heat". We made two
+identical calorimetric systems, and compared their temperatures when they were filled with
+deuterium gas or hydrogen gas, respectively. We found that the temperature of deuteriumloaded palladium wire was always higher than that of hydrogen-loaded wire[l]. It was the
+evidence of the "excess heat" in palladium deuteride, because we have shown that the
+calorimetric features are same for these two identical calorimetric systems. The observed
+values for the heat transfer coefficient are essentially same (ko=(4.18±0.03)xl04 sec·1
+,k8 =(4.24±0 .04)xl0·4 sec·1)[1]. In this case, the exact value of heat transfer coefficient is less
+important than the equality of these two coefficients.
+
+To avoid any suspicion of the calibration between two calorimetric systems, we completed
+two additional sets of experiments:(!) In the same deuterium-loaded palladium wire system,
+we compared its calorimetric feature in the normal and anomalous cases; (2) In the same
+calorimetric system, we compared its calorimetric feature when it was filled with hydrogen or
+deuterium gas, respectively. Both sets of experiments showed that there was "excess heat" in
+the palladium deuteride
+
+
+2. "Excess Heat" in Deuterium-loaded Palladium Wire System
+
+The temperature inside a dewar, T(D), is monitored in parallel with the temperature outside
+the dewar, T(W). A long and thin (250cm x ¢0.34mm) palladium wire was mounted on a
+quartz frame in this dewar. After the long run of deuterium gas-loading in palladium wire, two
+different calorimetric behaviors were observed. Fig. 1 shows the normal case. The temperature
+inside this dewar(T(D)) follows the temperature outside the dewar (T(W)) as expected. When
+T(W)>T(D), T(D) increase; when T(W)<T(D), T(D) decreases. Of course, when T(W)=T(D),
+T(D) does not change with time (t), i.e. the derivative of T(D) with respect to time, dT(D)
+,dt equals 0. In other word, two curves of temperature, T(D) and T(W), intercept at the 
+maximum and minimum points of T(D). This is exactly the behavior shown in Fig. I. This
+behavior meant that there was no heat source inside that dewar. It also gives us the confidence
+about the calibration of these two thermometers.
+
+However, there was another behavior in the same calorimetric system. Fig.2 shows this
+anomalous behavior. These two curves of temperature, T(D) and T(W), do not intercept at
+the maximum and minimum points of T(D). It was clearly shown that the temperature inside
+the dewar, T(D), kept going up while T(D) was higher than T(W) in the period of 1-2, 3-4,
+5-6 in Fig.2. This behavior violates the second law of thermodynamics unless there is a heat
+source inside the dewar. This experiment has been reproduced in the new calorimetric system
+as follows.
+
+
+3. "Excess Heat" in New Calorimetric System
+
+A new calorimetric system was built with two features:(!) Instead of the water-bath
+thermostat in section 2, a big air-convection bath was built. Two electrical fans were installed 
+in the vertical and horizontal directions, respectively, in order to make the temperature of air 
+more uniform; (2) The temperature of air around the dewar might be controlled by computer 
+to vary as a pre-set function of time, Tw(t). In Fig.3 the dewar, which was used in section 2, 
+was put in the big air-bath thermostat. The electrical power in the heater was controlled by 
+computer, and might enhance the temperature, Tw(t), to 70 Deg.C. The Tw(t) might be 
+maintained as a constant with the accuracy better 
+than 0.02 Deg.C, or Tw(t) might drop as a linear 
+fu 
+f . 
+Th d . 
+dTW (t) 
+. h 
+nctlon o time, t. 
+e envatlve, � , m1g t 
+be set as a constant. Usually we set the computer 
+program to make the temperature, T(D), up and 
+down along a straight line with the cycle period of 6 
+hours or 2 days. The hydrogen gas was filled into 
+the dewar first. The resistance and temperature of 
+the palladium wire inside the dewar were monitored 
+to measure the loading ratio, H/Pd (atomic ratio). In 
+the following experiments, the loading ratio(H/Pd) 
+was about 0. 11 during the temperature cycle. In 
+Fig.4 , two curves of temperature, T(H) and T(W), 
+intercept at the points where T(H) reaches its 
+maximum or minimum. It confirms the calibration 
+of the thermometers in this calorimetric system. 
+c:. 
+Fig.3 Schematics for New Calorimetric System 
+Time (Second) 
+
+Fig.5 T(D)(-) and T(W)(-) don't intercept at the minimum and the maximum points of T(D) 
+Then, the hydrogen gas was pumped out by mechanical pump and diffusive pump while 
+palladium wire was heated up to 350 Deg.C for several hours. Deuterium gas was then filled 
+into the dewar, and we run the same temperature cycle as that for hydrogen/palladium system. 
+
+In Fig.5 two curves of temperature, T(D) and T(W), do not intercept at the points where T(D) 
+reaches its maximum and minimum. Particularly, T(D) goes up even if T(D) is greater than 
+T(W). This confirms the existence of a heat source inside the D/Pd system. (D/Pd::,;,0.3 in 
+Fig.5) 
+In order to check the accuracy of the thermometers, Fig.6 gives the vacuum calibration 
+shortly before the hydrogen gas filling. T(W) and T(Pd) intercept just at the maximum point of 
+T(Pd) with the accuracy of better than 0.02. We may also notice a spike in T(Pd) at 63000sec. 
+
+ICCF-7 
+this is due to a little filling of hydrogen gas which causes an exothermal effect of hydrogen 
+absorption. 
+Time (Second) 
+Fig.6 T(Pd)(--) and T(W)(-) relation in vacuum shortly before loading hydrogen palladium 
+wire. The height of this spike is about 0.05 Deg.C. 
+
+Qualitatively, the abovementioned observation confirms the "excess heat" effect in the 
+D/Pd system. However, quantitatively, the amount of "excess heat" is very small (<l W/c.c) 
+because of the low loading ratio. But we observed also the burst of "excess heat" at higher 
+temperature. Fig.7 shows a sudden jump of the temperature of palladium wire(T(D)) in the 
+deuterium gas. In less than IO seconds, T(D) jumps from 1 72.1 to l 76.8°C. Since we have 
+
+Fig.7 A sudden jump of the temperature of palladium wire (T(D)) in deuterium gas, accompanied 
+by a pressure drop in dewar and a resistance jump of palladium wire. 
+measured the heat capacity of this system, it is known to be about 55 JfC. There must be a 
+47° c 
+heat source of the order of 55 JfCx-1 0·  
+=25.9W. The volume of the palladium wire is
+sec 
+ICCF-7 
+about 0.23c.c.; therefore, the power density of "excess heat" is higher than lO0W/c.c. at that 
+moment. The resistance of the palladium wire had a jump at the same time ( from 3. 90 to 
+4.10). This jump is partly due to the change of the temperature T(D). The temperature 
+coefficient of palladium is about 4x10"3K1, which may cause a jump of 2% in resistance. The 
+absorption of deuterium into palladium wire causes the jump in resistance also (3%). We 
+recorded a pressure drop at the same time also (from 44800 Pa to 43400 Pa). This pressure 
+drop in dewar just explains the remaining resistance jump. Roughly speaking, the loading ratio 
+change of 0 .1 would cause a pressure drop of 5000Pa; hence, 1400 Pa drop in pressure just 
+corresponds to a change in loading ratio of 0.03, which introduces a change in resistance by 
+3%. Since the current in palladium wire was maintained as a constant (I.SSA), this jump in 
+resistance would introduce a power jump of 0.48W which was much less than the power 
+necessary for this temperature jump, i.e. 4.7 Deg.C in 10 seconds. All these analysis have 
+shown that this temperature jump is a real physical phenomenon, not an accident error in 
+detector. However, it is not easy to reproduce this high level "excess heat". 
+
+
+4. Strategy.
+
+In 2 years we have reproduced the "excess heat" three times in 2 different calorimetric
+systems. It provides compelling evidences that there is excess heat in a D/Pd system. In order 
+to make it compelling, we stopped the heating power inside the dewar, this results low level of 
+loading; consequently, the low level of "excess heat". Roughly speaking, the "excess heat" is 
+about 0.15 °Cx 3�v;/C =0.00SW or 20 mW/c.c .. Ifwe accept that 3.7 kW/c.c. for 11 minutes
+in palladium rod is an "excess heat" of non-chemical origin ; then, 20 mW/c.c. should last 
+2xl05 minutes to show its non-chemical origin. This means that we should run this experiment 
+at least 4.5 months. 
+
+On the other hand, we may try to identify any nuclear products to show its non-chemical 
+origin as well. This idea was motivated by Miley's presentation in ICCF-6, and has bee 
+reported else where[2]. 
+
+
+References 
+[1] X.Z.Li, et al., " 'Excess Heat' Measurement in Gas-loading D/Pd System," Journal of
+New Energy, vol.I, no.4, Fall 1996, p.34; see also in " Progress in New Hydrogen
+Energy," Proceedings of International Conference on Cold Fusion, Vol.2, edited by
+M.Okamoto, October 13-18,1996, Japan, (Published by New Energy and Technology
+Development Organization, and Institute of Applied Energy) p.455.
+[2] G.S.Qiao, X.Z. Li, et al. The Proceedings ofICCF-7, Vancouver, Canada, April 19-24,

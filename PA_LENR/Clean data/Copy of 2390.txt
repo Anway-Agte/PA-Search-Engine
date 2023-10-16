@@ -1,0 +1,72 @@
+1. Introduction
+
+While more evidences are confirming the anomalous nuclear
+phenomena in deuterium/ solid system, there are still two puzzels remaining:
+i.e. the penetration of Coulomb barrier at low energy, and why the process in
+nuclear scale is affected by the parametric variation in atomic scale.
+
+
+2. Combined Resonance Tunneling in a New Matrix Formalism
+
+It is well known in quantum mechanics that the potential barriers in
+Fig.1 may be penetrated without any reflection when the energy of the incident nucleus is in resonance with the virtual energy level of the potential well
+between the barriers. The penetration may be expressed in a matrix formalism
+with the new base functions at each interface between the barrier and the
+well. Under the WKB approximation rn , the solutions of Schrodinger equation in regions I ,ILIILN and V may be written as
+Fig.1 The Combined Resonance Tunneling of Two Barrier-Well-Barriers. 
+
+Here k = (2µ I h ) ( E - U (x)) , p = (2µ I h ) ( U (x)-E) . µ and E are the 
+mass and the total energy of the particle, respectively. h is the Planck con­
+stant divided by 21t. U (x) is the potential energy. Using the WKB connection 
+form be expressed in matrix form as 
+
+Here 0 2 = exp cf• Pdx], 0 4 = exp cf Pdx], and 0 2 = 0 4 = 0 is assumed 
+here in after due to the symmetry. Usually, 0 is a very large number. 
+We may define a matrix. T da. to transform the cofficients in region I to the cofficients [ :: ] in region V
+
+An outgoing wave in region I . � exp [ i (r kdx - � )]. corresponds to
+
+It may be connected to an incident wave in region V . 
+Jr exp [ - { kdx-i )], which correspondsto [ :: ]-[ � J When the
+energy of incident particle. E. is in resonance with the meta-stable energy 
+level in potential well III . then y cb = (n + ½ )1t, 
+and this connection is possible, which means a perfect penetration of barrier-well-barrier combina­
+tion. However. experiments do not show any evidence for this resonance en­
+ergy level. Instead we propose another possible connection. i.e. the 
+ba_rrier-well-barrier (abed) is combined to another barrier-well-barrier 
+(efgh) by an atomic well region V Now, if the connection matrix for this combination is 
+T ha =The Wed T da = ( - 1) 
+
+This is again the right connection matrix for a perfect penetration through 
+(hgfe) and (dcba) in Fig. 1. We may call this the combined resonance tun­
+neling, because two semi-resonances in nuclear wells (y cb = y 111 = n1t) are 
+combined by an atomic resonance well (y ec:1 = (m + ½ )1t). 
+
+
+3. Semi-Resonance Energy Level in 0-0 System
+
+We must first answer the question whether there is any semi-reso­
+nance level near E=0 in Fig.1. 
+Fig.2 shows the experimental data C2) 
+for states of the mass number 4 with charge number 2. It is interesting to notice 
+that there are two energy levels just equally above and below 23.8 MeV. ( In 
+Fig.2 E = 0 has been set for 
+4He ground state; therefore, E = 23.8MeV in 
+Fig.2 corresponds to E=0 in Fig.1 ). The energy of these two levels are 
+25.5MeV and 22.1 MeV. respectively. These two resonance levels may corre­
+spond to condition 
+The linear interpolation of these two levels would give 
+
+This is just the condition for semi-reso­
+nance energy level in a nuclear potential 
+well.In order to obtain the combined reso­
+nance tunneling, a resonance energy level 
+for atomic potential well (region V 
+in 
+
+
+references
+
+(1.) D.Bohm. Quantum Theory, Prentice-hall Inc. New York (1954). 
+(2.) C.M.Lederer, and V.S.Shirley, Table of Isotopes (7-th edition), John 
+Wiley & Sons Inc., New York (1978). 

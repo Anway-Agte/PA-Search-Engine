@@ -1,0 +1,409 @@
+CONCEPT OF TARGET MATERIAL CHOICE FOR NUCLEAR REACTIONS
+IN CONDENSED MEDIA
+
+V.A.Romodanov, V.I.Savin, S.G.Korneev
+142100 Podolsk, Moscow Region, Zheleznodorozhnaya 24,
+SRI of SPA LUTCH
+
+
+ABSTRACT
+
+On the basis good and reproducibility tritium generation results
+which gett in condition of the high densities glow discharge to
+begin studying the influence of different parameters of the
+deuteron and the base atom interaction process on the nuclear
+reactions in condensed media (NRCM) efficiency.
+
+The possibility of choosing the most efficient materials is
+discussed on the basis of the model proposed before.
+
+The heaviest elements of Mendeleev's periodic system are shown
+to be the most promising materials for NRCM.
+
+The practical results obtained when using a powerful glow discharge
+have been considered. They verify the above-mentioned
+hypothesis and the features of realizing the promising properties
+of the materials for NRCM.
+
+
+1. INTRODUCTION
+
+Most of the experiments on nuclear reactions in condensed media (NRCM) are made when using pallasium, titanium or nickel
+as base materials and their reproducibility isn't high. When
+usinf other materials, the results are more contradictory and
+the required number of the models, where the NRCM rate dependence
+on the base material type is discussed, isn't available.
+
+The "swimming" electron model by H.Hora supposes that the maximum
+shielding effect of Coulomb potential for the interacting
+deuterons is achieved as a result of the electron accumulation
+either on the solid surface or at the joint of the material
+surfaces having different Fermi energy levels /1/. The compositions
+of nickel-cerium, iron-cerium and titanium-cerium layers
+10-30 nm thick are considered the most efficient. However, to
+verify this concept at rather low energies the layers should
+be very thin, perhaps, due to this fact the first experiments
+were performed when using the plasma focus where the energy
+level of the bombarding ions could be rather high.
+
+The material efficiency in Bazhutov-Vereshkov model is under
+discussion. The existence of heavy "erzion" particles which
+can be used as nuclear reaction catalysts is supposed in this
+model /2/. This model verifies the prospects of such materials
+as palladium and nickel and proposes the compositions of the
+materials in which one of them deliver the catalyst particles
+and the others consume them. Copper and iron aren't considered
+promising materials for the NRCMs within this model. One hasn't
+enough experimental data for verifying this model yet.
+
+A.S.Davydov in his work proposed the method where Coulomb
+potential of two deuterons is shielded by the bound bipolar
+electrons having the total zero spin and twice the charge /3/.
+The PdD-crystal goes to the superconducting state at the temperature
+of 11 K. That is indicative of the possibility of a
+considerable reorganization of the electron shell structure
+in the process of hydrogenation. The shielding like that should be especially considerable for superconductors and within the
+lower temperature range.
+
+M.Rabinovich in his work notes the connection between superconductivity
+and "cold fusion" too /4/. He affirms that the
+low - temperature superconductivity can be the proper condition
+for resonant overcoming of Coulomb barrier.
+
+In the article by J.Waber he proposed to use superconducting
+materials too but their property caused by the third type of
+boson state, i.e. the deuteron superfluidity caused by their
+position in Boson-Bloch-Condensate, was considered to be the
+main cause responsible for overcoming of Coulomb barrier in
+the NRCMs. The deuteron superfluidity is supposed to exist at
+300 K too /5/. 
+
+At present the available experimental results on the supercon-
+ducting materials and law temperatures haven't detected any 
+particular advantages of these materials as for the nuclear 
+reaction efficiency /6, 7/. 
+
+E.Ragland in his work affirms that as a result of the a parti-
+cular deuteron structure and its high mobility in the lattices 
+of some metals it is possible to overcome Coulomb harrier at 
+their high concentrations and low energies /8/. The periodic 
+elements from titanium to nickel, from zirconium to palladium 
+and from hafnium to platinum can be these metals. On the whole, 
+many experimental results verify this hypothesis. 
+
+G.V.Fedorovich showed that the deuterons energy could be con-
+centrated in so-called E-elements of the crystal lattice and 
+it could achieve the level enough for the nuclear reaction 
+proceeding. That is verified for piezo- and ferroelectric mate-
+rials when their temperature changes in the proximity of Curie 
+point /9/. 
+
+In spite of the great scepticism concerning the high results 
+on tritium generation, which were obtained by some groups, 
+this problem is becoming the leading one for under-standing 
+the NRCM mechanism because the most reliable results on neut- 
+ron, (- and X-radiation, charged particle, 3He and 4He, measu-
+rement element transmutation and heat excess don't exceed the 
+background noise level very much. For some methods of tritium 
+generation on gas discharge base one has obtained the reliable 
+results exceeding the background noise level by 2-5 orders of 
+magnitude /10, 11/, that allows to start studying the effect 
+of different parameters of the deuteron and target atom inter-
+action process on the NRCM efficiency. We've already proposed 
+the model of two nuclei interaction in close proximity to the 
+excited atom of the condensed medium matrix /11/. 
+
+This work seeks to consider the conclusions of the proposed 
+model, which show up the matrix material importance for the 
+NRCMs at low energies. 
+
+
+2. MODEL CONCEPT 
+
+In the above-mentioned model we supposed that the nuclei col-
+lisions correlated with those of the atoms and at low energies 
+the nuclear reactions most probably took place when most of the 
+bombarding particle energy was spent on the elastic atom col-
+lision,but it wasn't dissipated by the electron system /11/. 
+
+In view of the matrix material effect the range of the optimal 
+energies E l  for the deuteron ions is from 30 eV up to 5 keV. 
+
+In view of the energies from E 0  up to E 2 this range is 
+within 20-3.10 4 eV. The further discussion of the NRCM pos-
+sibility concerns this energy range. 
+
+We think that the shielding of Coulomb potential of two nuclei 
+will be more efficient of their collision takes place in close 
+proximity to the excited (at least one) matrix atom. In this 
+case it is possible to shield-Coulomb potential not only by 
+valence electrons, but also. by those ones which are cloSer 
+to the matrix atom nucleus. That can take place at the moment 
+when the atom shifts from its equilibrium position and a num-
+ber of electrons leave the stationary orbits. The electrons 
+and ions move in condensed media rather fast and the energy 
+relaxation time for the electrons is ...■ 10-13 s and that one 
+for the ions ~10-14 s. At the same time the nuclear reaction 
+rate is much higher (  10-16 
+ - 10-19 s), i.e. while the deu- 
+teron and matrix atom collisions caused, for example, by the 
+ion bombardment take place, the collisions resulting in such 
+a Coulomb potential shielding, that some nuclear reactions can 
+proceed, are possible to take place in this mixture. The simi-
+lar collisions take place when the accelerated ions having the 
+energy exceeding the target matrix atom shift threshold bombard 
+the target which consists of the atoms of the matrix having 
+some atoms dissolved in it before or introduced in it during 
+the ion bombardment by the atoms which can undergo the nuclear 
+reactions with each other or with the matrix atoms. The simplest 
+variants of such collisions take place according to the follow-
+ing type: D  --a—matrix atom or matrix atom.--D—•—D 
+(fig. 1). The probability of such collisions increases when 
+increasing the reacting nuclei concentration in the matrix 
+volume and when increasing the bombarding ion flux. 
+
+The conclusions concerning the choice of the target matrix 
+materials and the elements undergoing the nuclear reactions 
+are a matter of interest. Firstly, one should choose the ligh-
+test elements, such as hydrogen, lithium, beryllium, having 
+the minimum Coulomb barrier when closing in, as the elements 
+which can undergo the nuclear reactions most readily. Secondly, 
+the heaviest atoms from oeriods 71 and VII in Mendeleev's 
+periodic table are the best matrix elements which can release 
+the greatest number of electrons into the area of shielding 
+Coulomb potential of the reacting nuclei when they are excited. 
+
+In this case one should highlight the elements from the lant-
+hanide and actinoid groups, having not only the maximum number 
+of electron shells, but also the maximum hydrogen solubility. 
+
+One should note that the heavy elements practically don't 
+undergo the nuclear reactions at the above-mentioned'energies 
+and they are unconsumed catalysts for the lighter elements 
+undergoing the nuclear reactions. 
+
+The supposed comparative efficiency of the elements from Men-
+deleev's periodic table, taken as a matrix material playing 
+the part of catalyst for the reactions proceeding on the deu-
+terium nuclei in view of the solubility is shown in fig. 2. 
+
+Fig. I. The diagram of possible triple collisions of the 
+light and heavy atoms when bombarding the targets 
+by accelerated particles 
+The arrows (see fig. 2) show the directions of the nuclear 
+reaction efficiency growth when using different elements as 
+a matrix material. One can see that the most efficient cata-
+lysts of the nuclear reactions can be the elements from the 
+actinoid group, which have both the maximum hydrogen solubi-
+lity and the maximum number of electrons which can take part 
+in Coulomb potential shielding. 
+
+Fig. 2. The proposed methods of the efficiency increase when 
+using the elements from Mendeleev's periodic table 
+as the target components for catalyzing the NRCMa on 
+the deuterium nuclei 
+One should note that within the proposed model the target has 
+the optimal catalyst atom-to-reacting nuclei atom ratio which 
+can be both calculated and experimentally measured. This ratio 
+unit obligatory to agree with the maximum possible concentra-
+tions of the reacting nuclei in the target matrix, but it can 
+be one of the criteria of the proposed model realibility. 
+
+Fig. 3. The dependence of the electron number which can 
+leave their orbits on the atomic number of the 
+target elements for different ionization energies 
+I - total number of electrons. 
+
+No doubt, hydrogen is the best light element for the nuclear 
+reactions because of the lowest Coulomb potential arising bet-
+ween its nuclei when they collide, but when considering the 
+possibility of the nuclear reaction proceeding at low energies, 
+one should take into account some additional limitations as 
+compared with the high-energy range. If one supposes that the 
+neutron-to-tritium generation rate ratio experimentally obtained 
+for the
+. NRCMs at a level of 10-7-10-9 is attributed to the 
+behaviour of the model of Oppengheimer-Phillips type /12/, it 
+becomes clear that deuterium is practically the only isotope 
+applicable to the nuclear reactions at low energies. It is 
+caused by the fact that the reactions with a proton addition 
+are forbidden (ths probability concerning the channel with a 
+neutron addition is 
+10-7- 10-9 ). Therefore, the direct new 
+element generation providing any proton addition to the nucleus 
+in these reactions at the above-mentioned energies is impos-
+sible. 
+
+By way of exception, the NRCM can go when protium takes part 
+in it, however, unlike Bush model /13/, it is possible only 
+if one finds any materials, besides deuterium, which can 
+release neutrons for the NRCMs. It is possible by using the 
+low binding energy of the last neutron in beryllium: 
+P + 9Be  D + 8Be + 0.6 MeV 
+Ns‘, 
+
+The other merit of this reaction is the fact that the toxic 
+beryllium converts into the typical helium. 
+
+It is interesting to note that if the electron throw-off from 
+the matrix atoms into the light nuclei interacting area is 
+considered to be the main cause of Coulomb potential shiel-
+ding, the maximum energy which. the bombarding ion requires for 
+throuing off all the electrons (up to L-shell, except for 
+K-shell) is about e
+
+It is seen in Table 1 that the difference between the total 
+ionization energies and El  is getting more considerable for 
+the heavy elements (lanthanides and heavier ones) with their 
+atomic number growth. This fact can be taken into account to 
+revise by experiment the shielding effect on the possibility 
+of Coulomb barrier overcoming. 
+
+L-shell ioniza-
+tion energy, 
+eV 
+Table 1 
+Comparison of ionization energies and maximum nuclear losses 
+for different target materials during deuterium ion bombard- 
+ment 
+Target material 
+Energy 
+eV 
+Magnesium 
+Titanium 
+Vanadium 
+Yttrium 
+Zirconium 
+Niobium 
+Lanthanum 
+Erbium 
+Thorium 
+Due to the periodic law in the structure of the electron shells 
+of an atom, at the same energy the number of electrons which 
+are thrown off when these interact with the other atoms and, 
+therefore, the shielding efficiency, aren't a simple function 
+of the atomic number (fig. 3). Verification of the nonmonoto-
+nicity of the NRCM efficiency function for different target 
+materials at the same energy also given an opportunity to 
+revise the shielding significance in the nuclear reaction 
+mechanism at low energies. 
+
+
+3. DISCUSSION 
+
+According to the tritium generation efficiency results which 
+we obtained before the series in increasing order can be writ-
+ten as follows: molybdenum, tantalum, hafnium, tangsten, nio- 
+bium. The highest position of niobium in this series is natural 
+because of its rather high hydrogen solubility and the consider- 
+able tungsten efficiency is caused by its high atomic number. 
+
+To our mind, the lower values of the NRCM efficiency for 
+tantalum and hafnium are caused by the fact that it is neces-
+sary to revise the discharge parameters for these materials, 
+in the first place, the temperature and energy level. 
+
+In work /14/ one gives the series of materials arranged ac-
+cording to the neutron generation efficiency increase, which 
+partly agrees with our results, i.e. iron, molybdenum, copper, 
+silver, palladium, tungsten, niobium, platinum. These results 
+were obtained at energies about 20 keV in the glow discharge 
+and are reliable. On the whole, this series agrees with our 
+model, except molybdenum which should be placed before copper 
+and palladium which should be placed before niobium. 
+
+The estimation of the yttrium transmutation rate /11/ which 
+proved to be lower by six orders of magnitude than the rate 
+of D-D reaction with tritium generation, which was going at 
+the same time, verifies the fact that if the nuclear reactions 
+between the hydrogen and matrix atoms go, the NRCM rate for 
+the elements having a high atomic number product will be lower 
+than that one for the elements having a lower product. 
+
+
+4. CONCLUSIONS 
+
+4.1. On the basis of the proposed model it has been shown that :
+the most efficient materials for the NRCMs are the targets 
+consisting of the heaviest atoms mainly playing the part of 
+catalysts and the lightest elements mainly undergoing the 
+nuclear reactions when the targets are bombarded by accelerated 
+particles. 
+
+4.2. The metals from the lanthanide and actinoid groups have :
+been proposed as heavy target elements which are the most ef-
+ficient NRCM catalysts. 
+
+4.3. The particular significance of deuterium and beryllium :
+for the NRCM proceeding at low energies has been noted. 
+
+
+REFERENCES 
+
+1. H.Hora, J.C.Kelly, J.U.Patel et al. Screening in Cold Fusion 
+Derived from D-D Reactions. - Physics Letters A, 1993, 
+v. 175, n. 2, p. 138-143. 
+2. Yu.N.Bazhutov, G.M.Vereshkov. The Model of Cold Nuclear 
+Fusion by Ersions Catalysis. Cold Nuclear Fusion. The As-- 
+ sembly of Science Proceedings. Kaliningrad. M.r.: TsNIImash, 
+1992, p. 22-28. 
+
+3. A.S.Davydov. The Possible Explanation of Cold Nuclear Fusion. 
+
+- Ukrainslly Fizicheskiy Zhurnal, 1989, v. 34, No 9, p. 1295-
+
+1297 (in Russian). 
+
+4. M.Rabinovitz. Modern Physics Letters, 1990, v. 4, No. 4, 
+
+p. 233-247. 
+
+5. J.T.Waber. Solid State Boson Condensation Model of Cold 
+
+Fusion. - Frontiers of Cold Fusion. Proceedings of the Third 
+International Conference on Cold Fusion. October 21-25, 1992, 
+Nagoya, Japan. Ed. by H.Ikegami. Universal Academy Press 
+Inc., Tokyo, Japan, p. 627-632. 
+
+6. K.Watanabe, Y.Fukai, N.Niimura et al. A Search for Fracture-
+
+Induced Nuclear Fusion in Some Deuterium-Loaded Materials. -
+Ibidem // p. 473-476. 
+
+7. M.Fujii, M.Chiba, K.Fukushima et al. Measurement of Neutrons 
+
+in Electrolysis at Low Temperature Range. - Ibidem //.. 
+p. 481-484. 
+
+8. E.Ragland. A Physical Description of Cold Fusion. - Ibidem // 
+
+p. 49-658. 
+
+9. G.V.Fedorovich. Physics Letters A, 1992, v. 164, No. 2, p. 12 
+10. T.N.Claytor, D.G.Tuggle and S.F.Taylor. Evolution on Tritiui 
+from Deuterided Palladium Subject to High Electrical Cur-
+rents. - Frontiers of Cold Fusion. Proceedings of the Third 
+International Conference on Cold Fusion. October 21-25, 
+1992, Nagoya, Japan. Ed. by H.Ikegami. Universal Academy 
+Press Inc., Tokyo, Japan, p. 217-229. 
+
+11. V.Romodanov, V.Savin, Ya. Skuratnik and Yu.Timofeev. Nuclear 
+
+Fusion in Condensed Matter. - Ibidem //. p. 307-319. 
+
+12. I.R.Oppengheimer, M.Phillips. Note on the Transmutation 
+
+Function for Deuterons. - Phys. Rev., 1935, v. 48, p. 500. 
+
+13. R.T.Bush. A Light Water Excess Heat Reaction Suggests that 
+
+"Cold Fusion" may be "Alcaly-Hydrogen Fusion". - Fusion 
+Technology, 1992, v. 22, p. 301-306. 
+
+14. S.Sihai, L.Heqing, L.Hongquan et al. Anomalous Effects in 
+
+Deuterium/Metal Systems. - Frontiers of Cold Fusion. Proce-
+edings of the Third International Conference on Cold Fusion
+October 21-25, 1992, Nagoya, Japan. Ed. by H.Ikegami. 
+
+Universal Academy Press Inc., Tokyo, Japan, p. 447-454. 

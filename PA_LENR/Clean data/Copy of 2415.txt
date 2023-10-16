@@ -1,0 +1,214 @@
+1. INTRODUCTION
+
+Super radiation was proposed in 1950s by Dick. [1] Super radiation means that the resultant intensity of N
+coherent optical sources will be proportional to N2 instead of N. One might ask that if light is absorbed by
+N points of an absorber where the light is coherent in phase; then, what would happen? Would the
+absorption be enhanced or reduced? The answer is, “the absorption would be enhanced when certain
+resonant conditions are satisfied”. The resonance conditions include not only the frequency of incident
+waves, which should be in resonance with the absorbing medium, but also the absorption coefficient in the
+medium, which should match with the attenuation of the wave in propagation. We will discuss this
+matching in the single cell first; then, we will discuss the matching in a crystal lattice. This enhanced
+absorption might be called as “Super-Absorption” [2,3]. An experiment has been proposed to detect the
+effect of this “Super-Absorption”.
+
+Experiments have showed the wave nature of the deuteron inside the palladium deuteride (hydride)
+already. [4-7] Hence, the Multiple Scattering Theory (MST) is supposed to show the correlation between
+the anomalous deuterium flux and heat flow. As a first step, a simplified 1-Dimension model is described to
+show qualitatively the feature of the Multiple Scattering Theory. Non-coherent diffusion process is quite
+different from the coherent wave propagating process.
+
+
+2. SELECTIVE RESONANT ABSORPTION IN A SINGLE CELL
+
+Figure 1 shows the single cell of a lattice. The wave function of the incident particle might be reflected by a
+potential barrier (U2), or trapped by a potential well (U1 or U3=U3r+iU3i), or tunneling through the double
+barriers. In the plane-wave-representation, a 22 matrix M may be introduced to describe the relation
+between the amplitudes of these wave functions. Having assumed that the potential energy in the well and
+barrier varies so smoothly that the WKB method is valid, we may write the M matrix as [2,3,8]:
+
+Here, u is the reduced mass; U1, U2, U3 are the potential in the region 12, 23, and 34 respectively. E is the energy
+of the incident particle. r is the distance in 1-dimensional space,  is the Planck constant divided by 2.
+
+In the plane-wave-representation, the tunneling wave is represented by a column vector as:
+On the left side of the single cell, the wave function is represented by
+Hence, for this single cell, the tunneling rate, T1, is defined as:
+The reflection rate, R1, is defined as:
+When the imaginary part of the potential vanishes, i.e. U3i=0; then, the conservation of the probability
+requires:
+
+Fig. 1 M matrix is used to describe the incident plane wave (M11), and the reflecting
+plane wave (M21) . The amplitude of the tunneling wave is fixed as 1
+
+However, U3i is introduced here to describe the absorption in the region 34. Thus the absorption rate, A1, is
+defined as :
+
+When the wavelength of the incidental particle changes, the phases of the reflecting wave from the first
+barrier and the second barrier also change. The superposition of these reflecting waves will determine the
+amplitude of the wave reflected by this single cell (i.e. M21). It will show a resonant feature. The resonance
+happens when
+
+In the case of resonance, the perfect tunneling happens and the reflection is zero, i.e. T1=1, and R1=0.
+However, if there is any absorption in the well region 34; then,
+cos(
+In other words, the absorption will introduce the reflection (M210) even if in the case of resonance.
+
+Now one may ask a question: when the module of
+the imaginary part of the potential, |U3i|, is getting
+greater and greater, will the absorption rate, R1, get
+larger or smaller? The answer is: “the absorption rate 
+will be get larger first; then it will get smaller”.  The 
+physical reason is the interference of two reflecting
+waves. When |U3i| is getting greater, the reflecting
+wave from the second barrier would be much
+weaker; then, there is no way to make M21=0. Thus,
+there will be a competition between the absorption
+and reflection. When the U3i =0, there is no reflection
+because M21 =0 in the case of resonance; however,
+there is no absorption also in this case also, because
+Consequently, we may find an intermediate value for U3i which
+makes A1 maximized. This is a feature of selective
+resonant absorption [9-14]. Not only the energy, E,
+has to make the real part of J2 but also the absorption capacity, U3i, has to
+match a specific value. Figure 2 just shows that the absorption rate A1 reaches a peak at the value of U3i
+between 0 and - .( was assumed to be 10 in Fig.2)
+
+Figure 2 Absorption rate for single cell reaches
+a peak at selective damping, U3i.
+
+We may notice that J1 does not effect the value of tunneling rate or the reflection rate for the single cell.
+The situation will be quite different when we calculate these rates in the case of multiple cells.
+
+
+3. SELECTIVE RESONANT ABSORPTION IN A CRYSTAL LATTICE
+
+Figure 3. A chain of single cells to represent the potential energy inside a crystal lattice for a charged
+particle
+
+Figure 3 shows a series of cells, which represent the potential inside a crystal lattice. The reflecting waves
+from each single cell will affect the total reflection rate, RN. The matrix of N cells, MN, may be expressed by the matrix of the single cell, M, in terms of N and :
+
+The wave propagation in the lattice cell region will affect the phase of the reflecting wave. This effect is
+represented by J1 in the expression of . The resonance condition for a single cell without absorption is:
+
+We may plot the absorption coefficient of
+N cells, AN, as a function of  in Fig.4. The
+curves share the same feature that AN
+always equals to zero when =0; and there
+is always a peak of AN at certain p.
+However, when the number of cells, N,
+increases, this peak value of AN increases,
+and the location of this peak, p approaches
+0. The physical reason for this behavior is
+just the selectivity of the resonance
+tunneling [9-14]. When =0, it means
+U3i=0 (i.e. there is no absorption at all);
+hence, AN=0. However, if the absorption is
+too strong ( ); then, the reflection
+from the first cell is inevitable and there is
+no way to cancel it by any reflection from
+other cells. As a result, at certain immediate
+value of , the total absorption coefficient
+will reach its maximum value. The higher
+the number of cell is, the higher the
+chances that reflection wave will be
+cancelled. It means that more waves will
+enter the array of the cells and undergo the
+absorption there. As a result the peak value of absorption, AN , increases with N. The peak value appears at
+the lower absorption, p, for greater N, because the cancellation of the reflecting wave requires less
+absorption for more cells.
+
+
+4. COMPARISON BETWEEN COHERENT AND NON-COHERENT ARRAY OF N CELLS
+
+It is interesting to compare the behavior of coherent cells and the non-coherent cells in order to see the
+“Super-Absorption”. In Fig. 5 the non-coherent beams are plotted for the consequent reflections and
+penetrations. The phase of the wave disappears in this figure, because only the module of the wave is
+concerned. We still use the same reflection rate, R1, and the transmission rate, T1, for a single cell, but the
+phase J1 would not appear any where in the expression of RN(non) , or TN(non). The non-coherent
+
+Figure 4 The peak of absorption rate shifts towards
+smaller , and the peak is getting higher for greater N
+reflection rate RN(non), and transmission rate TN(non) for N cells may be expressed by recursion formula
+in terms of R1 and T1 as follows:
+
+From (33) and (34), it is clear that RN+1> RN, and TN+1<TN. There is no way to make RN=0,if R10.
+However, in the case of coherent case, RN may equal to zero even if R10. This is the first distinction
+between the non-coherent and coherent case. There is another distinction between two cases as follows.
+
+Fig. 6a Minimum of (R1+T1)
+
+Fig.6b Minimum of (R2+T2)
+
+Fig.5 Flux Flow for the Case of Non-Coherent Beam
+
+For the non-coherent cases, R1 and T1 may be assumed to be same as that for coherent case (Eq. (15)-(19)
+and Fig. 6a); however, R2 and T2 will be calculated according to formula (33) and (34). In Fig. 6b, we see
+that (R2 +T2)=1-A2 forms a minimum also. Nevertheless, this minimum is different from that of the
+coherent case. We may define an escaping rate as (1-AN); then, this escaping rate would reach its minimum
+value when the absorption rate, AN , reaches its peak value. In Fig. 7 this minimum escaping rate is plotted
+as a function the number of the cells. The open circles are for the non-coherent cells (equations (33) and
+(34)); and the solid circles are for the coherent cells (equations (20), (21), and (22)). Those circles may be
+fitted by two fitting curves. For non-coherent cells,
+
+The dependence on N for coherent cells is stronger than that of non-coherent cells. This is the effect of
+“Super-Absorption”. It is not the dependence of N, because in this 1-dimensional case, N cells in an
+array are not equal. In the slab model, N cells in each slab are equal; then, the result would be different. It
+would be discussed later in another paper.
+
+
+5. CONCLUDING REMARKS
+
+Although a special WKB model is used in this illustration, the feature is quite general:
+
+(1) The definition of resonance here is no longer an energy level only. It should include a matching
+damping, i.e. the absorption capacity U3i. This resonance condition varies with the number of the
+cells. However, it always corresponds to the condition of least reflection; i.e. minimizing the
+matrix element (MN)21. This concept turns out to be very important when we discuss the
+correlation between anomalous deuterium flux and the heat flow in a D/Pd system.
+
+(2) The wave of deuterons inside the palladium deuteride is quite different from a non-coherent
+deuteron beam. Their behavior is very different in propagation (reflection, transmission, and
+Fitting Curve: 0.5179/N
+1.3 for Super Absorption: 0.5356/N
+0.8 for Non Coherent Case: 
+The Minimum of Escaping Rate (RN+TN)
+Number of Cells (N)
+Fig.7 The Minimum of (1-AN) as a Function of Number of Cells
+absorption). Hence, the coherence of the deuterons inside the crystal lattice is essential in
+explaining the macroscopic behavior of deuterium flux permeating the Pd thin film.
+
+(3) There is no way to have any resonant behavior in a non-coherent deuteron beam, because the
+reflection rate, RN(non), would never be zero.
+
+
+REFERENCES
+
+[1] R.H. Dicke, “Coherence in Spontaneous Radiation Processes,” Phys. Rev. 93, 99 (1954).
+[2] Xing Z. Li, et al., “Super-Absorption—The Effect of Crystal Lattice on Enhancement of Nuclear
+Reaction—”, Proceedings of 2001 Chinese Physical Society Fall Meeting, Sept. 20-23, 2001, Shanghai,
+China. p.98.(in Chinese)
+[3] Xing Z. Li, Bin Liu, et al., “Super-AbsorptionCorrelation Between Deuterium Flux And Excess
+Heat” The Proceedings of ICCF-9, Beijing, China, May 19-24, 2002. edited by X.Z. Li, (Tsinghua
+University Press 2003), p.202.
+[4] Xing Z. Li, et al., “Pumping EffectReproducible Excess Heat In A Gas-Loading D/Pd System”,
+The Proceedings of ICCF-9, Beijing, China, May 19-24, 2002. edited by X.Z. Li, (Tsinghua University
+Press 2003), p.197.
+[5] Xing Z. Li, Jian Tian, et al., “ Correlation between Abnormal Deuterium Flux and Heat Flow in a D/Pd
+System,” Journal of Physics D: Applied Physics, 36 ,3095-3097(2003).
+[6] Xing Z. Li, et al., “ Progress in gas-loading D/Pd systems: The feasibility of a self-sustaining heat
+generator,” Proceedings of ICCF-10, Sept. 19-24, 2003, Cambridge, USA.
+[7] Xing Z. Li, Bin Liu, Qing M. Wei and Glen L. Schmidt and Jian Tian, “Anomalies correlated with
+abnormal deuterium flux and heat flow in D(H)/Pd systems”, The Proceedings of The 5th Asti
+Workshop on Anomalies in Hydrogen/Deuterium Loaded Metals,19-21 March 2004, Asti, Italy. Edited
+by William E. Collis.
+[8] D.Bohm, Quantum Theory, Prentice-hall Inc. New York (1954).
+[9]Xing Z. Li, “Overcoming of the Gamow Tunneling Insufficiencies by Maximizing a Damp-Matching
+Resonant Tunneling,”, Czech. J. Phys., 49, 985 (1999).
+[10]Xing Z. Li, Jian Tian, and Ming Y. Mei "Fusion Energy without Strong Nuclear Radiation," Journal of
+Fusion Energy, 18, 51 (1999) .
+[11]Xing Z. Li, et al, “Maximum Value of the Resonant Tunneling Current through the Coulomb Barrier,” 
+Fusion Technology, 36, 324 (1999).
+[12]Xing Z. Li, Jian Tian , Ming Y. Mei and Chong X. Li, “Sub-barrier Fusion and Selective Resonant
+Tunneling,” Phys. Rev. ,C 61, 024610 (2000).
+[13] Xing.Z.Li, "Nuclear Physics for Nuclear Fusion." Fusion Science and Technology, 41, 63 (2002).
+[14] Xing Z. Li, et al., "Study of Nuclear Physics for Nuclear Fusion," Journal of Fusion Energy, 19, 163

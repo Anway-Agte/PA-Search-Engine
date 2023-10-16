@@ -1,0 +1,579 @@
+Observations of excess heat in the absence of commensurate 
+energetic charged particles challenges local energy and 
+momentum conservation, a foundation of nuclear physics.  We 
+have explored models based on excitation transfer, in which 
+global energy is conserved but local energy conservation is 
+violated.  We present recent results on both excitation transfer 
+and anomalous energy exchange within the context of lossless 
+spin-boson models.  We introduce a rotation that allows us to 
+isolate terms in the rotated Hamiltonian responsible for both 
+processes.  Spin-boson type models augmented with loss 
+appear to be sufficiently strong to account for the excess heat 
+effect.   
+
+Claims of excess heat production in the Fleischmann-Pons experiment [1-3] 
+were met with disbelief following the initial announcement of the effect in 1989 
+[4].  In the controversy that followed, discussions centered on experimental 
+questions of reproducibility, calorimetry, absence of energetic products 
+correlated with the energy, and the initial lack of identification of an ash 
+quantitatively correlated with the energy production.  Discussions centered also 
+on theoretical issues, such as the low associated reaction rates expected for 
+conventional deuteron-deuteron fusion reactions due to the Coulomb barrier, 
+competition with the primary n+3He and p+t reaction channels, and on the 
+seeming impossibility of coupling the MeV-scale nuclear reaction energy to low-
+energy atomic degrees of freedom associated with the solid state environment.  
+
+Research over the subsequent 18 years has clarified some of these issues.  
+Several groups have reported good reproducibility in experiments with excess 
+heat; similar positive results have been reported with very different calorimeters; 
+and 4He has been detected in amounts commensurate with the excess energy 
+produced (see Ref. [5] and references therein).  In the latter case, the reaction 
+energy determined experimentally appears to be 24 MeV, suggesting an overall 
+reaction mechanism consistent with  
+D+D  4He + 23.85 MeV (heat)  
+We recognize the existence of the conventional version of this reaction channel 
+with 4He and an energetic gamma in the exit channel; however, there is no 
+evidence for energetic gammas being produced in amounts commensurate with 
+the energy production in any Fleischmann-Pons experiment.  In essence, excess 
+heat in the Fleischmann-Pons experiment requires the existence of a new 
+physical process, since no known nuclear reaction works this way.   
+
+The reaction energy from a conventional nuclear reaction, and in particular 
+from a fusion reaction, is expressed through energetic particles as a consequence 
+of local energy and momentum conservation.  Local energy and momentum 
+conservation has been a foundation of nuclear physics since the time of 
+Rutherford [6], and one can find relevant expositions in modern nuclear physics 
+texts [7].  Excess heat production in the Fleischmann-Pons experiment 
+challenges this foundation.  Nuclear physicists since 1989 have been enthusiastic 
+neither about either the Fleischmann-Pons experiment, nor about any discussion 
+that includes a consideration of nuclear energy production in the absence of 
+observations of energetic particles.  No nuclear physics experiment within the 
+entire nuclear physics literature dating back to before 1900 is thought to work 
+this way; which leads to the tentative conclusion that this is because no nuclear 
+reaction can produce energy without energetic particles.   
+
+Such a position was adopted in the 1989 ERAB report [8], and by Huizenga 
+in his book [4].  Until proven otherwise independent of the Fleischmann-Pons 
+experiment, it is unlikely that the situation will change. 
+
+All of which provides motivation for the models discussed below.  We have 
+focused for several years on a class of models, which seek to address violations 
+of local energy and momentum conservation, and also to address the problem of 
+the conversion of a large energy quantum into a large number of smaller energy 
+quanta [9-11].  We view these two issues as separate problems, as will become 
+clearer in the models themselves. 
+
+We take advantage of a quantum excitation transfer effect in order to violate 
+local energy conservation, while preserving overall energy conservation.  For 
+example, if two deuterons react to form 4He in such a model, the reaction energy 
+is transferred elsewhere, so that there is no need for energetic particles from the 
+initial four-nucleon system.  Once this excitation transfer has occurred, we still 
+need to convert the large MeV energy quantum into a very large number of 
+atomic scale quanta.  The basic mechanism under consideration for this is one in 
+which the excitation is transferred one small energy quantum at a time in a very 
+large number of interactions, including fast excitation transfer reactions to other 
+nuclei, and self interactions. 
+
+These notions already imply a set of models that can be studied, and we 
+present below some results from our analysis of these systems.  The results are 
+interesting in the sense that we can establish an excitation transfer effect, as well 
+as an energy exchange effect (in which a large quantum is split into a large 
+number of small quanta), using very simple models composed of equivalent two-
+level systems and an oscillator.  We would expect such models to fall short of 
+describing the real system because they do not include loss effects.  When we 
+augment such models to include loss, we find that the excitation transfer and 
+energy exchange effects become much stronger.  Hence, models composed of 
+two-level systems and an oscillator that are augmented with loss, appear to be 
+candidates to describe the excess heat effect in Fleischmann-Pons experiments. 
+
+
+Anomalous Energy Exchange 
+
+We consider first the anomalous energy exchange effect.  We consider a 
+two-level system with a large transition energy ∆E coupled to a simple harmonic 
+oscillator with a small characteristic energy 
+, with linear coupling.  Our 
+focus is on the rate at which energy is exchanged between the two systems.  For 
+this model, we adopt a spin-boson Hamiltonian given by 
+
+In writing this Hamiltonian, we use pseudospin operators ˆzs and ˆxs  to describe 
+the two-level system, and creation and annihilation operators for the simple 
+harmonic oscillator.  The coupling between the two systems has an interaction 
+strength V.  Models of this kind have been considered in the literature since the 
+early work of Bloch and Siegert [12].  Models for the energy shifts and 
+resonance conditions for this problem have been discussed in the literature over 
+the years (see [13-17]). 
+
+A direct computation of energy levels from this Hamiltonian leads to an 
+empirical parameterization of the energy levels according to 
+where the dressed two-level system energy
+depends on the interaction 
+strength and on the number of oscillator quanta through the dimensionless 
+coupling strength g, which we define according to 
+The relation between 
+∆E g
+and g is roughly 
+as illustrated in Figure 1.  One sees that this empirical parameterization is in 
+reasonable agreement with the results from numerical calculations. 
+
+Figure 1 – Plot of 
+∆E g
+ as a function of g for 
+E
+ω
+∆
+.  Result from 
+numerical solutions – black line; empirical result 
+1 8g2
+– grey line. 
+
+
+Level Anticrossing 
+
+We can study energy exchange between the two systems by focusing on the 
+level splittings in the vicinity of an anticrossing.  Consider a resonance between 
+two states that differ by one unit of excitation in the two-level system quantum 
+number m, and by an odd number of oscillator quanta n 
+
+These two states anticross when their energies are equal, which occurs when 
+
+Figure 2 – Level splitting at the level anticrossing as a function of the 
+dimensionless coupling constant g.  Calculations are presented for 
+
+In Figure 2 we illustrate the energy splitting that occurs at the level 
+anticrossings as a function of the dimensionless coupling strength for 
+calculations with 
+=11, 21, and 31.  In the case of 
+(the top 
+curve in Figure 2) that resonances occur for 
+n
+∆  values of 13, 15, which are 
+indicated by the solid circles on the curve starting from the left.  For example, a 
+resonance for the conversion of one unit of two-level system excitation for 13 
+oscillator quanta occurs near g=0.22, with an associated level splitting of about 
+10-5 E
+∆
+
+
+Dynamics 
+
+In the vicinity of the anticrossing, the eigenfunctions are composed 
+primarily of a mixture of the two states which anticross.  On resonance, the 
+mixing involves a 50-50 admixture of the two states, in which case the 
+probability oscillates sinusoidally between the two states at a frequency related 
+to the level splitting at the anticrossing.  For example, if we initialize the system 
+in state φn,1/2, then the subsequent occupation probabilities evolve according to 
+In these oscillations, the system is exchanging energy between the two-level 
+system, which has a large transition energy, and the oscillator, which has a small 
+characteristic energy.  In the results shown in Figure 2, the rightmost point on the 
+curve is associated with an exchange of 85 oscillator quanta for a 
+single dressed two-level system quantum. 
+
+
+Discussion   
+
+This simple model illustrates that the simplest possible model of a single 
+two-level system coupled to an oscillator exhibits an anomalous energy exchange 
+effect, and that this can be demonstrated simply through a direct calculation.  In 
+order to see this effect in the spin-boson model, the dimensionless coupling 
+constant g needs to be at least of intermediate strength.  The models and 
+solutions discussed here involved only a single two-level system coupled to an 
+oscillator.  Very similar results are obtained for a set of matched two-level 
+systems, as long as n is large. 
+
+
+Rotation 
+
+It is possible to perform a rotation of the initial Hamiltonian that produces a 
+dressed version of the problem in which the anomalous energy exchange effect 
+can be studied more cleanly.  We can rotate to eliminate the interaction term to 
+first order to obtain [10] 
+
+Here, 
+'ˆH is the rotated Hamiltonian, ˆU is a unitary operator, and the three 
+operators on the right are terms that we interpret as an unperturbed part of the 
+Hamiltonian (
+0ˆH ), and two perturbations.  The unitary operator that 
+accomplishes this rotation is 
+The unperturbed part of the rotated Hamiltonian can be written as 
+In writing this, we have used  
+The perturbation ˆV is given by 
+We may write for ˆW  
+
+
+Energy levels 
+
+The rotation is useful for a number of reasons.  For example, we can solve 
+the rotated 
+0ˆH  problem numerically with the result that the energy levels are 
+given approximately by the parameterization of equation (2).  In the event that 
+the number of oscillator quanta is very large, then one can adopt a simple 
+approximation for the eigenfunctions using SHO wavefunctions of the form 
+
+This is an approximation since the exact eigenfunctions of 
+0ˆH  have a spread in 
+n.  A variational estimate for the energy eigenvalues can be obtained using 
+This is consistent with 
+which represents an improvement over our empirical dressed energy formula 
+above.  This result is sufficiently accurate that one could not distinguish it from 
+the numerically exact result of Figure 1 if it were added to the plot.  This result is 
+consistent with the series expansion in the large n limit reported in [15], and with 
+the expansion reported in [17].  We have recently discussed this in [18]. 
+
+
+Anomalous energy exchange in the rotated problem 
+
+The energy levels of the rotated 
+0ˆH  problem do not anticross, which is 
+interesting because whatever is causing the level splitting at the anticrossing 
+must be contained in the perturbations.  We can develop a two state 
+approximation in the rotated frame to describe the level splitting (and hence the 
+associated dynamics).  The associated eigenvalue problem can be written as 
+The level splitting on resonance is given by 
+Results from this approximation are illustrated in Figure 3.  One sees that the 
+ˆV perturbation combined with a simple two state model leads to good agreement 
+with numerical solutions of the initial Hamiltonian.  We can understand 
+anomalous energy exchange in this problem simply as arising from first-order 
+transitions in the rotated frame (as discussed in [19]). 
+
+Figure 3 – Level splittings computed from a direct numerical solution of some of 
+the resonances from the original ˆH problem – solid circles, and from a WKB 
+approximation in the rotated 
+0ˆH  problem to the matrix element – open circles.  
+The parameters used in this calculation were 
+
+
+Discussion 
+
+We have found the rotated frame to be quite useful in understanding the 
+systematics of the energy levels of the full problem, as presented here, and also 
+in more extensive results that we do not have room to discuss.  In addition, the 
+level splittings can be understood simply in terms of matrix elements of one of 
+the perturbations in the rotated version of the problem.  The other perturbation 
+gives a small energy shift that is not of interest in our discussion here.  
+
+
+Excitation Transfer 
+
+We can use a similar model to explore excitation transfer.  In this case, we 
+couple a pair of two-level systems to an oscillator, which is accomplished using 
+the Hamiltonian 
+The energy levels in this case can be approximated by 
+Where 
+and 
+are dressed excitation energies increased just as 
+before.  Here, there are two dimensionless coupling constants g1 and g2 
+Excitation transfer can occur in this model when the dressed excitation 
+energy of one two-level system matches the dressed excitation energy of the 
+other, to within an even number of oscillator quanta 
+In Figure 4 we show level splittings associated with excitation transfer in the 
+case where 
+ and 
+, with 
+∆ = − .  In this 
+calculation, we scan g1, and search to find a g2 which gives a resonance.  At the 
+level anticrossing the two states mix, and can be described approximately using a 
+two-state approximate as we did above.  If the system is initialized at t=0 in a 
+state φn,-1/2,1/2, then the system evolves according to These solutions illustrate the associated coherent dynamics, and oscillation 
+frequency is determined by the level splittings. 
+
+Figure 4 – Level splittings at the anticrossings for excitation transfer for 
+and 
+with 
+.  Results are 
+presented for direct calculations with ˆH  as given by Equation (19) – open 
+circles; and using perturbation theory from rotated frame solutions – solid line. 
+
+
+Rotation 
+
+We can rotate to eliminate the coupling terms to first order as before, leading to 
+a rotated Hamiltonian of the form [10] 
+Here, the unperturbed rotated Hamiltonian 
+0ˆH  is given by 
+The perturbations 
+ˆV and 
+ˆW  are simple generalizations of the ones we 
+encountered previously.  More interesting is the perturbation 
+12ˆV  that mediates 
+excitation transfer processes, for which we may write 
+The level splittings in this case can be approximated using the eigenfunctions of 
+the unperturbed rotated Hamiltonian 
+0ˆH  according to 
+One can see good agreement between this expression and level splittings 
+computed from the original problem in the results presented in Figure 4.  We 
+have found similar agreement as long as the anticrossings are not disrupted by 
+energy exchange resonances, which is where a two-state approximation would no 
+longer be valid. 
+
+
+Excitation Transfer and Energy Exchange 
+
+Models relevant to excess heat production in the Fleischmann-Pons experiment 
+must implement both excitation transfer and anomalous energy exchange.  We 
+can develop very simple models that accomplish this to some degree by taking 
+advantage of the simple Hamiltonian for a pair of two-level systems given above.  
+In this case, we first isolate an energy exchange resonance for the second two-
+level system (through appropriate choices of 
+∆E2
+ and 
+g ), and then select 
+parameters for the first two-level system for which an excitation transfer 
+resonance exists, but for which anomalous energy exchange is weak.  In general, 
+the coupling strength for one process will not match the coupling strength for the 
+other.  In most cases, they can be matched by varying the oscillator excitation n, 
+since the anomalous energy exchange coupling remains approximately constant 
+in n while the excitation transfer coupling varies approximately as inverse n.  We 
+are motivated to match the coupling strength so that we will be able to solve for 
+the dynamics, and so that we will be able to see both effects present clearly in the 
+solution. 
+
+Let us consider a specific example.  Suppose that we first (arbitrarily) select 
+E
+ω
+∆
+, with 
+g = 0.430287
+at which an energy exchange resonance 
+occurs (in the rotated problem) in which 
+with a level splitting 
+of 
+1.78 10
+. We then (also arbitrarily) select 
+and 
+g = 0.308606
+, which causes the first two-level system to match the second 
+with the exchange of four oscillator quanta:  
+.  It is possible to 
+match the excitation transfer level splitting to the energy exchange level splitting 
+(in a rotated frame calculation) using 
+n = 7.72 106
+×
+; which will allow us to 
+construct an easily solvable dynamics problem as mentioned above.   Energy 
+exchange does not occur significantly with the first two-level system in this case, 
+since with these parameters the energy splitting associated with energy exchange 
+is lower by a factor of 6700 than the energy splitting associated with excitation 
+transfer. 
+
+Under such conditions that the excitation transfer coupling is matched to the 
+energy exchange coupling, with resonances occurring for both processes 
+independently, then we can develop analytic dynamical solutions 
+
+These dynamics are illustrated in Figure 5.  In this example, we start with only 
+the first two-level system excited (all states in this discussion are in the rotated 
+frame).  The system then transfers excitation (and four oscillator quanta) so that 
+only the second two-level system is excited.  Finally, the excitation of the second 
+two-level system is transferred to the oscillator, so that neither two-level system 
+is excited.  The dynamics is coherent in this example, so that the system then 
+proceeds to cycle back, and then repeat. 
+ 
+
+Discussion 
+
+The importance of this model is that it illustrates clearly within the context 
+of a slightly generalized spin-boson model (now with a pair of two-level 
+systems) that the basic dynamics needed for describing a new physical process is 
+present.  We have excitation transfer; we have anomalous energy exchange; and 
+the resulting dynamics is coherent.   
+
+Figure 5 – Probabilities for excitation transfer followed by energy exchange 
+under conditions where all states are degenerate in the absence of coupling, and 
+when the coupling strengths are matched.  In the first state (with probability p1), 
+only the first two-level system is excited; in the second, only the second two-level 
+system is excited; and in the third, neither two-level system is excited.  The 
+frequency ω0 in this case is 
+∆Emin / 2
+
+
+Models Augmented with Loss 
+
+The nice feature of the spin-boson type models presented above is that the 
+system is sufficiently simple that we can isolate the excitation transfer 
+mechanism, the energy exchange mechanism, and develop idealized models 
+illustrating the dynamics alone or in combination.  It is also possible to extend 
+these models to include collections of two-level systems in order to understand 
+how the added coherence impacts the system.   
+
+However, these models seem to fall short of what is needed to account for 
+excess heat production in the Fleischmann-Pons experiment, primarily since the 
+associated rates are very small under conditions where 
+ is greater than 
+106.  In essence, even though these models exhibit excitation transfer and energy 
+exchange mechanisms, the effects are too weak in these models to do what is 
+needed to be relevant to the excess heat problem.  Something is missing.   
+
+
+Excitation transfer using perturbation theory 
+
+Consider first the situation in the case of excitation transfer.  We can 
+develop an approximate analytic expression for the energy splitting using 
+perturbation theory.  We consider a finite basis approximation with six basis 
+states corresponding to  
+
+We assume that φ1 and φ6 are resonant in the absence of coupling 
+].  The finite basis equations for the expansion coefficients 
+c1…c6 can be written as 
+
+We can eliminate the interior states φ2 through φ5 to obtain a reduced set of 
+equations of the form 
+The level splitting under resonant conditions in this model is 
+An explicit calculation produces the result in this case that 
+This approximation gives good results for the level splitting associated with 
+excitation transfer in the limit of small g1 and g2. 
+
+
+Inclusion of loss effects into the model 
+
+In the intermediate states φ2 and φ3 above, both of the two-level systems are 
+unexcited; hence, the coupled quantum system has available an energy E which 
+is much greater than either of the basis state energies H2 and H3.  In this case, if 
+there exist loss channels for the oscillator at decay energies near the dressed two-
+level system energies, one would expect the system to undergo incoherent decay 
+to these states.  The existence of such decay modes has a dramatic impact on the 
+model, which we need to include.   
+
+To do so, we augment the Hamiltonian to include loss 
+Here, the spin-boson model that we have been considering has been augmented 
+with a loss term that implements the effect under discussion.  For a more 
+complete discussion of loss mechanisms and the development of relevant loss 
+models, see Hagelstein and Chaudhary [10].    
+
+
+Enhancement of excitation transfer  
+
+With the inclusion of loss terms in the model, the model undergoes qualitative 
+changes.  We can see this in the modification of the perturbation theory for 
+excitation transfer discussed above.   Let us now include loss for states φ2 and φ3, 
+which we can do in a simple way by using a constant loss model.  We write for 
+these basis states 
+When these states are eliminated, we still recover a reduced two-state model; 
+however, the indirect coupling coefficients are now changed.  We may write 
+In the event that the loss term becomes very large (Γ → ∞ ), then 
+This is orders of magnitude larger than what we found above in the lossless 
+version of the model.  We see that the inclusion of loss breaks the destructive 
+interference that was initially present, and that is the reason.  
+
+
+Discussion and Conclusions 
+
+Our discussion has focused primarily on simple spin-boson type models that 
+illustrate excitation transfer and anomalous energy exchange effects.  These 
+effects are of interest to us in general since they are required in the development 
+of models for excess heat in the Fleischmann-Pons experiment.   
+
+We require the excitation transfer mechanism in order to violate local 
+energy conservation (but retain global energy conservation) in the initial step of 
+the reaction.  Two deuterons interact to make 4He, exchanging one or more 
+phonons in the process, with the reaction energy transferred elsewhere.  The 
+coupling in this case is weak, since the transition is hindered by the presence of a 
+Gamow factor due to coupling through the Coulomb barrier.   
+
+We require the anomalous energy exchange mechanism since there are no 
+energetic particles observed commensurate with the energy produced.  This 
+energy exchange mechanism works through the exchange of a single oscillator 
+quantum in association with every interaction (excitation transfer steps, or self-
+interaction steps, within the second set of equivalent two-level systems).  It 
+accomplishes the exchange of a large energy quantum associated with the two-
+level systems into a large number of low energy quanta associated with the 
+oscillator.  Both the excitation transfer effect and the anomalous energy 
+exchange effect involve coherent dynamics within the models presented here, 
+and within a larger set of models that we have investigated so far. 
+
+The lossless models are of interest as we have mentioned previously since 
+we are able to set up simple models that exhibit each effect individually or both 
+together.  We are able to isolate the specific perturbation in the rotated 
+Hamiltonian that mediates excitation transfer, and also the specific perturbation 
+that mediates anomalous energy exchange.  The effects can be studied in terms 
+of direct solutions of the initial spin-boson type of Hamiltonian ˆH ; from 
+numerical and approximate solutions of the rotated unperturbed Hamiltonian 
+0ˆH ; using the WKB approximation on the rotated problem; and through other 
+methods as well.  For example, in the text we discussed briefly an example in 
+which we are able to develop an analytic solution for a problem in which 
+excitation transfer is followed coherently by anomalous energy exchange where 
+a total of 67 oscillator quanta make up the dressed transition energy of the first 
+two-level system. 
+
+The lossless version of the problem results in simple toy models that we can 
+analyze as we please, although it is probably clear from the specific examples 
+that we considered that these models fall short of what is needed for modeling 
+excess heat production.  These toy problems also require very precise resonances 
+to be present for any of the effects to occur, which seems not to be consistent 
+qualitatively with excess heat observations.   
+
+Augmenting the models with loss changes things dramatically, as we have 
+discussed briefly in the case of excitation transfer.  The rate at which excitation 
+transfer occurs in the lossy models is greatly enhanced, and also the rate at which 
+anomalous energy exchange occurs is similarly enhanced.  Lossy models can 
+show both effects readily, even without resonant conditions being satisfied.   
+
+To connect these models to excess heat production experiments (in PdD), 
+we identify a molecular D2 state in the vicinity of a host atom vacancy as the 
+upper state of the first two-level system(s), and 4He with the lower state.  The 
+lower state of the second two-level system(s) we identify with ground state 
+nuclei present in the host.  Experiment so far does not make clear what excited 
+nuclear states should be identified with the upper state of the second two-level 
+system(s).  Theoretical arguments point to excited states composed of a neutral 
+particle and daughter; for example, a neutron plus 3He in the case of a 4He 
+ground state; or 106Pd plus a tetraneutron in the case of a 110Pd ground state.  
+Such excited states are favored due to the ability of the lattice to exchange 
+phonons in transitions from the ground state.  However, it remains to establish 
+that such states can be stabilized sufficiently for the schemes under discussion to 
+work properly. 
+
+
+References
+ 
+1.  M. Fleischmann, S. Pons and M. Hawkins, “Electrochemically induced 
+nuclear fusion of deuterium,” J. Electroanal Chem., 201, p.301 (1989); 
+Errata, 263, p. 187 (1990).   
+2.  M. Fleischmann, and S. Pons, “Calorimetry of the palladium-D-D2O system,” 
+Proceedings of the EPRI-NSF Workshop on Anomalous Effects in 
+Deuterided Metals, 1989; published by EPRI in 1993. 
+3.  M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li and M. Hawkins, 
+``Calorimetry of the palladium-deuterium-heavy water system,'' J. 
+Electroanal. Chem., 287, p. 293 (1990). 
+4.    J. Huizenga, Cold Fusion, The Scientific Fiasco of the Century, University 
+of Rochester Press, 1992. 
+5.  P.L. Hagelstein, M.C.H. McKubre, D.J. Nagel, T.A. Chubb, and R.J. 
+Hekman, “New physical effects in metal deuterides,”  Condensed Matter 
+Nuclear Science, Proceedings of the 11th  International Conference on Cold 
+Fusion, Marseilles, France, Nov. 2004, ed. J.P. Biberian, World Scientific, 
+p. 23 (2006). 
+6.    C. G. Darwin, “Collision of α particles with light atoms,” Phil. Mag. 27, 99 
+ACS9 
+Printed 6/20/2011 
+7.  P. Marmier and E. Sheldon, Physics of Nuclei and Particles, Academic Press, 
+New York (1969). 
+8.   J. Huizenga, et al, Cold Fusion Research, A report of the Energy Research 
+Advisory Board to the Department of Energy, Department of Energy 
+document DOE/S-0073, November 1989. 
+9.   I.U. Chaudhary and P.L. Hagelstein, “Inclusion of phonon exchange in a 
+nuclear matrix element.”  ArXiV:cond-mat/0606585. 
+10.  P.L. Hagelstein and I.U. Chaudhary, “Two-level systems coupled to an 
+oscillator: Excitation transfer and energy exchange.” LANL ArXiV:cond-
+mat/0612306. 
+11.   P. L. Hagelstein and I. U. Chaudhary, ``Progress toward a theory for excess 
+heat in metal deuterides,’’ Current Trends in International Fusion Research 
+– Proceedings of the Seventh Symposium.  Edited by Emilio Panarella and 
+Roger Raman.  NRC Research Press, National Research Council of Canada, 
+Ottowa, (2007). 
+12.   F. Bloch and A. Siegert, “Magnetic resonance for nonrotating fields,” Phys. 
+Rev. 57, 522 (1940). 
+13.   J. H. Shirley, “Solution to the Schrodinger equation with a Hamiltonian 
+periodic in time,” Phys. Rev. 138, B979 (1965). 
+14. C. Cohen-Tannoudji, J. Dupont-Roc, and C. Fabre, “A quantum calculation 
+of the higher order terms in the Bloch-Siegert shift,” J. Phys. B 6, L214 
+15.  F. Ahmad and R. K. Bullough, “Theory of the Bloch-Siegert shift,” J. Phys. 
+B 7, L275 (1974). 
+16.  D. Fregenal, E. Horsdal-Pedersen, L. B. Madsen, M. Forre, J. P. Hansen, V. 
+N. Ostrovsky, “Multiphoton intrashell resonances in Rydberg atoms: Bloch-
+Siegert shifts and widths,” Phys. Rev. A 69, 031401-1 (2004). 
+17. V. N. Ostrovsky and E. Horsdal-Pedersen, “Bloch-Siegert shifts for 
+multiphoton resonances: In plane configuration,” Phys. Rev. A 70, 033413-1 
+ACS9 
+Printed 6/20/2011 
+18. P. L. Hagelstein and I. U. Chaudhary, “Bloch-Siegert shift for multiphoton 
+resonances,” ArXiV:quant-ph/0709.1958v1. 
+19. P. L. Hagelstein and I. U. Chaudhary, “Level splitting in association with the 
+multiphoton Bloch Siegert shift,” ArXiV:quant-ph/0701.1961v1. 

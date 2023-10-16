@@ -1,0 +1,59 @@
+1. INTRODUCTION
+
+Experimental measurement of excess heat power production, yield of the element isotopes impurities in the cathode material, registration of heavy particles emission and a soft x-rayemisionwerecariedoutоnthe high-current glow discharge plant for a long time [1]. A great number of experiments allowed obtaining statistically reliable and 100% reproduced results.
+
+
+2. EXCESS HEAT MEASUREMENT
+
+Themeasurementswerecar riedoutоntheglow dischargeplant[]consistingofavacuum chamber,cathode and anode units. The cathodedesignalowsarangingthecathodesamplesmadeofdiferentmaterialsоnthe cooling surface. Three units of the plant: the cathode, the anode and the chamber had independent sections of water cooling. Every cooling section included two temperature sensitiveresistorsdiferentialyturnedоnat the input and output and a volumetric measuring device of cooling water consumption. The plant was placed into a thermal insulating packet (Fig.1) and was a flow calorimeter. The measurement system allowed registering an electrical capacity put into the discharge and heat power removed by the cooling water with the accuracy of 0.3w at the absolute electrical capacity value up to 120W. The impulsive-periodical power source was used. The heat measurements were carried out for Pd cathode samples in D2 discharge when changing the following parameters: current discharge density, voltage, current impulses duration time and time interval between the current impulses of the power source. The absolute value of the excess heat power increases with increasing power put into the discharge (fig.2) but in this case a thermal efficiency reduces. The thermal efficiency increases with increasing the time interval between the serial current impulses of the power source (Fig.3). This result shows that the excess heat power continues liberating in the cathode sample after the current turning off (during the time interval between the current impulses). The maximal values of the excess heat power are registered at the discharge burning voltage of 1000-1400 V. The further voltage increase leads to an abrupt reducing the excess heat power value. The negative excess heat power is registered at the certain values of pressure, discharge voltage and current density. Hypothetically these results correspond to modes of super powerful x-ray laser generation. In this case a major power is removed from the chamber with the x-ray laser beam.
+
+
+3. YIELD OF IMPURITY NUCLIDES.
+
+Proceeding from the assumption that the registered Excess Heat [1] results from going on nuclear reactions [2] the impurity yield content in the cathode samples material was analysed before and after the experiments with the high-current Glow Discharge device [1]. The following procedures were used: spark mass spectrometry, secondary ion mass spectrometry, secondary neutral mass spectrometry. Those were used for analysis of impurity nuclides in the cathode samples material before and after the experiment. The difference in impurity elements content before and after the experiment was defined as the yield of impurity elements in the course of the experiment. Impurity elements with masses by approximately two times less than that of Pd and the ones with their masses close to that of Pd have been registered in 100 nm thick surface layer in quantities up to several tens %. The main recovered impurity nuclides (with more than 1% content) are 7Li, 12C, 15N, 20Ne, 29Si, 44Ca, 48Ca, 56Fe, 57Fe, 59Co, 64Zn, 66Zn, 75As, 107Ag, 109Ag, 110Cd, 111Cd, 112Cd, 114Cd The production rate of the impurity elements was determined by fission of the absolute quantity of the produced impurities atoms 1017 atoms to the time experiment 2104sec Nuclear transmutation reaction with the forming impurity nuclides 12C, 44Ca, 48Ti, 56Fe, 57Fe, 59Co, 64Zn, 66Zn, 75As, 107Ag, 109Ag, 110Cd, 111Cd, 112Cd, 114Cd, 115Sn give the main part of the excess heat power.
+
+
+4. HEAVY CHARGET PARTICLES REGISTRATION
+
+The registration of the heavy particles of high energy was carried out оntheplantwithatransparentanode using plastic detectors CR39.
+The plastic detectors CR39 8 covered with protective absorbing screen 9 made of Al foil with the thickness of 11-13μmwereinstaledinthechamberabovethecathode.Somedetectorswerearangedоntheupper flanges for registering the background emission of the charged particles. Plastic track detectors (Purified CR- 39, Fukuvi Chemical Industry, Japan) were used for the charged particles registration. The measurement methods were described in []. The tracks of 3MeV protons (up to 250 tracks per 2cm2 of CR 39 square) and tracksof14MeV α-particles were registered in all the experiments. Hypothetically, 3MeV protons corespondtoDDreactions.14MeVα-particles passing requires a separate consideration. The rate of protons emisionandα-particles increases by the exponent with increasing the discharge voltage (Fig.5, 6) but the absolute particles number is not enough for explaining the excess heat power production.
+
+
+5. SOFT X-RAY EMISSION REGISTRATION
+
+X-ray emission registration in the dependence on the discharge voltage was carried out using a scintillator and PEM []. X-ray emission intensity increases abruptly with growing the voltage and it has approximately the same character for different cathode materials. It allows assuming that the phenomenon of x-ray emission is connected with interacting the discharge plasma ions with the cathode surface and it has a fundamental character.
+
+
+6. DISCUSSION
+
+The following results and products were registered in the high-current glow discharge experiments:Excess heat power production, Elements isotopes yield in the form of an impurity to the main cathode material, Penetrating radiation emission, Heavy charged particles emission.
+These results are the consequence of a fundamental phenomenon unknown before –“Formationofacrystal lattice of a solid body when bombarding its surface by plasma ions of an electrical discharge of metastable excited long-living (up to tens msec) states with the excitation energy of 1-2keV and more in a solid body. Formation of excited energetic levels with such energy values are supposed to occur in processes of non-elastic interaction of the plasma ions of the electric discharge with L, M electronic shells of the solid body ions.”
+The set of the obtained experimental results allows presenting the complete description of all the processes at the glow discharge method of initiating the nuclear reactions.
+Plasma discharge area –a surface of a solid body (cathode). The area of mainly ionic conduction is realized near the cathode at the optimally chosen discharge parameters (anode –cathode distance, plasma-forming gas pressure). More than 90% of discharge voltage drop falls at this area. Under such conditions the plasma ions bombarding the cathode acquire the energy of 1-2keV. More than 90% of electrical capacity put into the discharge falls at this process.
+Solid body surface area - near-surface layer (some atomic layers) of the solid body. When bombarding the solid body by the ions with the energy of 1-2keV, the interaction process of the plasma ions with the solid body ions differs from such processes at high energies up to 10keV and more.
+D+* +Pd4+→Pd4+*+D+
+Where Pd+*- ion with the excited L, M electron shells Pd4+ in the crystal cathode lattice.
+
+The experimental calorimetric measurements and the evaluation of the maximal power of x-ray laser emission (obtained in the experiments with GD device) show that 20% and more of the power put into the discharge spend on these processes initiation.
+L, M excitation of the solid body ions is generated in the near surface layer and spreads into the depth with the speed of an electromagnetic wave. In this case the relaxation and conversion processes of the initial energetic state of the excited levels occur.
+
+The relaxation processes of excited L, M levels.
+It can be assumed that at the energy of 1-2keV the relaxation of excited L,M states can be in two variants: direct transition to the unexcited state with emitting x-ray quantum
+Pd4+*→Pd4++(hν)X-ray
+The energy transmission to one of the electrons of the inner shell (K, L, M) and ejection of this electron. An electron from the outer shell with emitting a specific x-ray emission quantum passes to the vacant place in
+the inner shell
+Pd4+*→Pd4++e-(hν)X-ray
+Fast relaxation of the metastable long-living L, M excited ions states with the generation of x-ray laser
+emission.
+A high population density of the excited L, M energetic levels is realized at the large current density and large value of electric charge voltage. That is to say, an inverse laser-active medium with the energy of 1- 2keV is formed. The generation of x-ray laser emission for one x-ray quantum pass (a mode of spontaneous emission amplification) is possible at the large amplification coefficient of x-ray emission.
+Therefore, L, M excited energetic states with the population density of
+nv-d (cm-3) and a specific temperature TL,M ≈1- 2keV and more (more than 20,000,000 ̊K)areformedinthe solid after every pass of the current impulse of the glow discharge. These energetic states exist for a specific timeτL,M (up to 10msec. and more). The non-equilibrium nuclear transmutation reactions proceed in this medium. The probability of such reactions proceeding (and relatively the excess heat power value) is defined by the criterion of
+nL,M τL,M> (nL,M τL,M)min.
+
+This criterion is an altered Lowson criterion, which used in thermonuclear reactors. The population density is
+determined by the discharge parameters and cathode samples design. The specific time of the excited states existence is determined by the x-ray emission value. Therefore, the high population density of the vibrational-dipole energetic states nv-d should be produced and x-ray emission (for increasing the life time of theexcitedstatesτL,M) should be suppressed for obtaining large values of excess heat power. Excitation of L, M electron shells spread in the solid in the form of transverse waves. Flat geometry of the cathode sample is used in the carried out experiments. In this case the initial population density of the energetic states reduces into the sample depth due to these states relaxation. The transmutation nuclear reactions intensity reduced relatively that can be seen in reducing the impurities isotopes concentration. In case of using cylindrical or spherical geometry of the cathode sample in such a way that excitation of L, M electron shells would be pulled down to the center, increasing the population density of the energetic states in the sample depth can be obtained. In this case the non-equilibrium nuclear transmutation reactions can be realized in the form of a thermal explosion. The solid body with the metastable excited levels up to energies of 1-2keV when increasing the life time of these levels, can be the base for designing storage cells of a super large capacity up to 2 10 Joule/cm2.
+
+
+7. REFERENCES
+
+1.A.B.Karabut,Ya.R.Kucherov,I.B.Savatimova,“Nuclearproductratioforglowdischargeindeuterium”, Physics Letters A, 170, p.265, 1992.

@@ -1,0 +1,171 @@
+1. INTRODUCTION
+
+A multi-body fusion model in metal deuteride (especially PdDx and TiDx) has been proposed to
+explain anomalous results that have been reported in cold fusion studies. The model assumes that in
+lattice dynamic conditions, where plasma oscillation and vibrations of deuterium atoms trapped in metal
+lattice are excited coherently, there is possibility that multi-body fusion rates are enhanced drastically
+compared with random processes. In this model there are two important points as follows:
+
+1. Deuterium atoms trapped in metal lattice make well-regulated array symmetrically in metal solid.
+
+2. Free electrons, which screen the Coulomb potential wall in nuclear fusion process, can exist.[3,4]
+
+Under these conditions, by ion-beam implantation to metal deuteride, coherent motion of deuterons in
+metal is thought to be induced at the end of the beam scanning range or deeper and multi-body fusion is
+taken place.[5] The possible channels of the three-body fusion are assumed as follows:
+
+D+D+D  6 Li*(25.32MeV)  d(15.9MeV) + 4He(7.90MeV)------(a)
+
+ t(4.75MeV) + 3He(4.75MeV)------(b)
+
+ n + p + 4He + 20.1MeV------(c)
+
+H+D+D  5 Li*(21.88MeV)  p(19.1MeV) + 4He(4.77MeV) ------(d)
+
+ d(3.30MeV) + 3He(2.20MeV) ------(e)
+
+We have tried to detect charged particles emitted form these channels using silicon surface barrier
+detectors (SSBD) and titanium deuteride target (TiDx ). To inspect a reaction channel (b), two kinds of
+experiments were carried out under deuteron beam bombardment to TiDx. The one is experiment using a
+E-E counter telescope, the other is measurement with reducing pileup signals of D-D reactions. Before
+these two experiments, we could not search the unique charged particle spectrum exactly because of
+pileup signals of D-D reactions. In proton beam experiment, high energetic protons having 17-20MeV
+emitted kinetic energy that might suggest channel (d) have been detected with high reproducibility.
+To investigate whether multi-body fusion includes incident particles (direct multi-body fusion) or not
+(indirect multi-body fusion), we tried an experiment to irradiate TiDx target with Si-beam. We observed
+an isolated peak at about 3.6MeV, which was supposed to be response of triton by channel (b).
+
+
+2. DEUTERON BEAM EXPERIMENT
+
+Fig. 1 shows the charged particle spectrum emitted from TiDx irradiated by 300keV-deuteron.
+Two unique charged particles were observed. They are supposed to be 3He (4.75MeV) and t (4.75MeV)
+emitted by 3D fusion. However, the yield of them couldn’t be evaluated precisely because the responses
+of 3He (4.75MeV) were on the shoulder of D-D protons and the responses of t (4.75MeV) were on the
+pileup signals of D-D protons. To inspect 3He (4.75MeV), experiment using a E-E counter telescope
+was performed. Helium-3 by 3D fusion stops in the E detector and doesn’t reach to E detector. Fig.2
+shows the charged particle spectra of E (upper Fig.) and E (lower Fig.) respectively. The peak measured
+at about 3.5MeV in spectrum of the E detector was assigned to be 3He counts by 3D fusion. The ratio of
+the yield of 3He to that of D-D proton was about 2.-4.
+
+In order to estimate the triton by 3D fusion, a
+reduction technique of pileup signals of D-D
+reactions was applied to experiments of deuteron
+beam implantation. The rise time of pileup signals is
+longer than single event signal. Then, we can
+discriminate between pileup signals and normal
+signal by difference of rise times. The spectra shown
+in Fig. 3 were obtained under the implantation of
+300keV deuteron beam to TiDx sample. Charged
+particle spectra with pileup reduction and without
+pileup reduction are compared. The spectra were greatly improved by the reduction technique for pileup
+signals. Pileup signals of D-D reactions were fully decreased in the range above 3.5MeV. Especially the
+peak of alpha-particle by 14N(d, )12C reaction could be confirmed clearly at about 6MeV. The signals in
+
+Fig.1 Charged particle spectrum measured with Ek-detector under
+300keV deuteron beam iradiation to TiDx
+
+Fig. 2chargedparticlespectraobserved byEandEdetector
+emitted fromTiDximplanted300keVdeuteronbeam
+
+the range of 4-5MeV are supposed to be the responses of triton (4.75MeV) by 3D reactions. The ratio of
+the yield of triton by 3D fusion to that of D-D proton was about 2.-4, which agreed with the yield of
+3He estimated with E-E counter telescope. It was reported that the reaction rate ratio (R3D/R2D) between
+two-deuterons (D+D) and three-deuteron (D+D+D) fusions was about 10-30 [6], which was a typical value
+for cascade reactions in random theory.[6,7] Therefore, these two experiments suggest that 3D multi-body
+fusion rate (R3D/R2D~2*10-4) would be greatly enhanced by 1026 times referred to the random theory rate
+
+
+3. PROTON BEAM EXPERIMENT
+
+We have measured anomalous
+high energetic charged particles with
+SSBD set up at the back side of the
+target during proton beam irradiation to
+TiDx. Since the thickness of the target
+was 1mm, no charged particles emitted
+by impurity reactions and normal D-D
+reaction could reach to the detector.
+However, protons emitted by multi-
+body fusion have enough energy to
+reach to the detector after penetrating
+through the target and the absorbing
+foil set up to reject the scattering
+particles in front of the SSBD. In order
+to identify these high energetic charged
+particles, we changed the thickness of
+absorbing foils (Al-410m, Al-450m).
+
+Fig.4 shows energy spectra obtained
+under
+300keV
+proton
+beam
+implantation to TiDx with two different
+absorbing
+foils
+(upper
+fig
+aluminum-410m),
+(lower
+fig
+aluminium-450m).
+
+The
+difference
+between these two spectra indicates
+that high energetic charged particle on
+
+Fig. 3 Charged particle spectra emitted from TiDx
+implanted with 300keV-deuteron beam
+
+Fig.4 Charged-particle spectrum emitted from TiDx
+sample impinged by 300keV-proton
+
+the fig. 4 were of protons emitted with initial kinetic energy of 17~19MeV, considering stopping powers
+in the material for different particles. It has been reported that a possible branch of the multi-body fusion;
+H+D+D p++23.8MeV, can emit protons with 19.1MeV. Therefore, this result suggests that
+multi-body reactions were taken place in TiDx under bombardment with protons.
+
+
+4. SOLICONE BEAM EXPERIMENT
+
+It is difficult to know whether multi-body fusion includes an incident particle (direct multi-body
+fusion). Therefore, in order to search the possibility of indirect multi-body fusion, emitted charged
+particles were measured during 4MeV-Si3+ beam implantation to TiDx (fig.5). We observed small isolated
+counts around 3.5MeV. In this experimental system, the response beyond the energy of the cascade D-D
+proton could not be explained with conventional two-body nuclear reactions under the beam-target
+interactions. Considering the energy losses of charged particles within the thickness of screening foil
+(Al-5m), it was possible to say that the responses around 3.5MeV were of charged particles emitted by
+multi-body reaction; D+D+D t(4.75MeV) + 3He(4.75MeV). Although the perfect identification of the
+responses was not possible because of the statistical problem, the possibility of indirect multi-body fusion
+was shown in this result.
+
+Fig.5 Charged-particle spectrum emitted from TiDx sample bombarded with 4M eV -Si3+
+
+
+5. DISCUSSIONS AND CONCLUSIONS
+
+We have found that the 3D multi-body fusion rate has been greatly enhanced in highly deuterated
+titanium, by stimulating it with deuteron beam. In the proton beam experiment, we have succeeded in
+obtaining high energetic protons with high reproducibility, which were thought to suggest the multi-body
+fusion. Some unknown responses were measured around 3.5MeV during Si3+ beam implantation to TiDx.
+
+The investigation of the measurement may be needed to identify these responses, for example, by
+applying the E-E counter telescope with extremely thin E (~10m).
+
+Three experimentally obtained results discussed in this paper can be explained with multi-body
+fusion induced with stimulating highly deuteron-preloaded titanium target.
+
+
+REFERENCES
+
+[1] A. Takahashi et al.: Fusion Technology, 34(1998)
+[2] A. Takahashi et al.: Physics Letters A225(1999) pp.89-97
+[3] A. Takahashi et al.: Fusion Technology, 19(1991) pp.380-390
+[4] A. Takahashi et al.: Fusion Technology, 27(1995) pp.71-85
+[5] K. Ochiai et al.: Fusion Technology, 36(1999) pp.315-323
+[6] A. Takahashi et al.: Anomalous Enhancement of Three-Body Deuteron Fusion in Titanium-Deuteride
+with Low-Energy D+ Beam Implantation, Fusion Technology, 34(1998) pp.256-272
+[7] Y.Isobe et al.: Jpn.J.Appl.phys.Vol.41 (2002) pp.1546-1556
+Energy(MeV)

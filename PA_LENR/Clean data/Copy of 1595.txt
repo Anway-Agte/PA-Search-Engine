@@ -1,0 +1,391 @@
+1. Introduction
+In a recent set of experiments where two lasers were used to stimulate excess power in Pd cathodes, the response
+was observed to depend on the difference frequency between the two lasers which was at THz frequencies [1]. The
+response was found to be largest at three different “sweet spots”, corresponding to 8.2, 15.1, and 20.8 THz. The first
+two frequencies appear to be connected to low group velocity compressional modes in PdD. The origin of the third
+frequency is less clear. Possible explanations include H contamination in PdD, and optical phonon modes associated
+with D in vacancies in Au [2].
+
+In this work, we are concerned with the issue of data analysis. In previous work, we reported results for the excess
+power increase by first determining the excess power before the lasers turned on (or changed difference frequency), and
+then estimating the increase in the excess power after about 3 h [1]. A weakness of this approach is that the different
+estimates are subjective, and it is not so easy to determine the associated error bars. This issue was raised recently by
+a reviewer when we submitted a paper for publication.
+
+The application of statistical methods systematically to the experimental data is in principle straightforward. How-
+ever, there are issues, some of which are interesting. One approach might be to develop statistical estimates for the
+excess power before the stimulation, then wait for a steady state to be attained, and then do a second statistical estimate
+for the excess power. In either case, we need to correct for the response of the system to the absorbed laser power.
+
+However, there is much more information that is potentially present in the data. For example, how long does it take
+to reach a steady state, and what kind of function [2] describes the dynamics? Are the dynamics the same in the different
+experiments, or does the system respond faster in some cases than in others? Then, if we understood the dynamics,
+would it change our picture the system? Interesting questions, but whether we are able to answer them or not depends
+on the degree to which the data differentiates between different models.
+
+In what follows, we consider two different models that we have used to ﬁt the data. We also consider two different
+data sets where excess power was observed.
+
+
+2. Calorimeter Response
+
+The calorimetry used in the experiments is simple Fick’s law calorimetry with no dynamical correction (these and other
+issues are discussed in [2]). The output power is computed from measurements of the temperature difference inside
+and outside of the cell
+Pout = K T.
+
+The input power for the present discussion is a combination of the electrical input power minus the contribution due to
+splitting of heavy water into deuterium and oxygen
+Pin = I(V − V0),
+where V0 is the thermoneutral potential.
+
+The cell is run in a constant current mode from minute to minute, and an approximate constant power condition
+is obtained by updating the current each minute so that the product of the new current times the old voltage will be
+matched to the desired electrical input power. As a result, there are minor ﬂuctuations in the input power.
+
+Of course, the calorimeter will respond to changes in the input with a delay since there is a signiﬁcant heat capacity.
+Since this is not taken into account by the simple Fick’s law calorimetry, we would expect that the Fick’s law output
+power will relax to the input, as in the example of Fig. 1. We could take this into account by using an improved model for
+the calorimeter that is more complete, and make use of the sophisticated method presented by Miles and Fleischmann
+[3]. However, the goal of this present work is to bring out some interesting features of the experimental results, rather
+than to develop a better model for the calorimeter.
+
+2.1. Fitting the output power:
+In the most simplistic point of view, the model output power should have the form
+where τ is the associated relaxation time. This suggests that we should use a ﬁtting function of the form
+
+Figure 1.
+Input and output power points from DGL662v2.
+
+The results from the ﬁtting are
+A = 8.98 W,
+B = − 1.06 W,
+τ = 31.9 min.
+The experimental points and the associated ﬁt are shown in Fig. 2. We computed the variance according to
+The square root of the variance for this ﬁt is
+ P = √var = 11.3 mW.
+
+2.2. Drift:
+There is a drift evident in the calibration data. We can ﬁt the drift according to
+Pout = A + B e−t/τ + Ct.
+
+Figure 2.
+Output power points and ﬁt for DGL662v2.
+
+The ﬁtting parameters that result are
+A = 8.95 W,
+B = − 1.02 W,
+C = 7.9 × 10−5 W/min,
+τ = 29.2 min.
+The associated spread in the excess power is
+ P = √var = 8.17 mW.
+
+A relevant question here is why there should be a drift in the data. One possibility is that perhaps a drift is present
+in the input power. To test this we show the input power in Fig. 3. Inspection of this ﬁgure indicates that there is no
+signiﬁcant drift at late times, so that the origin of the drift lies elsewhere.
+
+
+3. Absorbed Laser Power
+
+In the calorimetric approach used, most of the excess power that is seen appears to be due to anomalous power production
+by the cathode. We need to correct for the absorbed laser power, since it results in a temperature increase on a similar
+footing to the excess power production. The amount of laser power absorbed is small in comparison to the excess power
+production generally near resonance. In earlier work, we neglected the absorbed laser power. In response to comments
+from a reviewer we expand our discussion here to include the effect.
+
+Figure 3.
+Input power points from DGL662v2.
+
+In the set of experiments for which we have excess power data, the amount of laser light absorbed was not measured
+separately in each case. From a theoretical viewpoint, we expect the absorption of the cathode to be dominant. Hence,
+all that we need to do is to ﬁrst estimate what fraction of the laser light makes it to the cathode, and then determine the
+fraction absorbed. When new (before 2002), each laser could produce up to 30 mW, but recent measurements indicate
+that the laser power has degraded so that the total incident power from both is about 25 mW. The incident light passes
+through a double-pane glass window, then air, then the borosilicate glass of the cell, and ﬁnally the electrolyte prior to
+reaching the cell. We would expect roughly 90% of the incident light to reach the cathode surface.
+
+The fraction of the incident light absorbed is then dominated by the absorption at the cathode, which we discuss
+next. To get some intuition, we can use the Fresnel reﬂection coefﬁcient appropriate for light incident on a metal in
+water, which we develop in the Appendix. If the cathode surface were pure Pd, then we could take the optical data from
+clean Pd in vacuum to arrive at an absorption coefﬁcient of about 43% at 45o (or about 39% of the laser radiation) for
+TM polarized light. In experiments in vacuum, the reﬂection is seen to be changed signiﬁcantly due to the presence of
+an oxide layer. We would expect the cathode surface in the electrolyte to have a surface coating due to the electrolyte
+and electrochemistry, so that we would not be surprised if the measured number were different.
+
+In the two-laser experiments we can look at the calorimetric results from experiments in which the lasers were
+turned on off of resonance, where the cell response is the smallest. An example of this is experiment 662I2, where data
+near the time when the lasers ﬁrst turned on is shown in Fig. 4. The beat frequency in this case is 18.23 THz, which is
+in the dead region of the spectrum between the resonances at 15 and 21 THz. We see in this case a noisy calorimetric
+response with a relaxation time close to that of the calorimeter. This result is consistent with an absorption of 15 mW
+of laser power. This is the number that we have adopted for the analysis of [2].
+
+Figure 4.
+Data from experiment 662I2 around the laser turn on time.
+
+Subsequently, a calorimetric experiment in light water was run using one of the cathodes from the campaign in
+order to verify the absorbed power. In this experiment, one laser set at 659 nm was measured at 14.8 mW, the other set
+at 689 nm was measured at 11.5 mW, and the calorimeter (with no electrochemical input power) registered 15 mW of
+absorbed power (57% of the laser power was absorbed). In this case the lasers were both polarized in p-polarization.
+Changing to s-polarization was found not to impact the absorbed power. In the remainder of this paper we will neglect
+the absorbed laser power, since it provides a relatively small correction for the examples considered below.
+
+
+4. Excess Power Event
+
+We have focused on data from DGL662n and DGL662o combined since it provides one of the cleanest examples of
+excess power in the two-laser experiments. In this experiment, the cell was run for an extended period prior to turning
+on the two lasers, and a reasonably large excess power event was stimulated.
+
+In the two-laser experiments, there sometimes appears an artifact shortly after the lasers turn on as a precursor to
+an excess power event. We know that it is an artifact since it is much shorter than the response time of the calorimeter.
+
+Figure 5.
+Excess power and ﬁt for DGL662n and DGL662o, with the points removed around the artifact.
+
+Measurements of the cell parameters indicates that this artifact is due to a sudden and sustained drop in the cell voltage,
+which leads to a temporary drop in the cell input power that is largely corrected within 10–15 min. Why the cell voltage
+drops is at present unknown.
+
+4.1. Simple relaxation model:
+The simplest possible model that we might use is one that assumes relaxation for a step input. The excess power in
+such a model might look like
+where T0 is the initiation time, P0 the constant excess power source in the model, and u(t) is the unit step function.
+This suggests that we try a ﬁt of the form
+We have removed some data around the artifact in order to obtain a ﬁt that is less biased. The resulting ﬁt is shown in
+Fig. 5, and the associated ﬁtting parameters are
+A = 1.20 mW,
+B = 328.24 mW,
+T0 = 904.0 min,
+τ = 42.71 min.
+
+Figure 6.
+Excess power and ﬁt for DGL662n and DGL662o including drift, shown with all experimental points in the time segment used.
+
+Note that the relaxation time here is signiﬁcantly longer than the calorimeter relaxation time. The spread in excess
+power as computed above is
+ P = 7.54 mW.
+
+4.2. Drift:
+We know that the calorimeter drifts from our experience with the calibration data. It is reasonable to redo the calculation
+assuming that there is a linear drift for this data set. To include a linear drift, we ﬁt according to
+The resulting ﬁtting parameters are
+A = 3.58 mW,
+B = 326.58 mW,
+C = − 2.91 × 10−3 mW/min,
+T0 = 904.1 min,
+τ = 43.04 min.
+
+This ﬁt is shown compared with the data sets (including artifact) in Fig. 6. The associated spread in excess power is
+ P = 7.53 mW.
+We ﬁnd that including the spread in this case changes the results at the per cent level.
+
+4.3. Fewer points:
+In the computations above, we took points to 100 min before, and 200 min after. If we shorten these numbers to
+70 min before and 150 min after, then we obtain
+A = 4.12 mW,
+B = 329.80 mW,
+C = − 4.83 × 10−3 mW/min,
+T0 = 903.9 min,
+τ = 44.43 min
+with a smaller associated spread
+ P = 7.36 mW.
+
+
+5. Three-parameter Model
+
+At this point, we have had an opportunity to apply the model and ideas above to many data sets, with the result that
+largely things work reasonably well. However, there remains an issue that we are motivated to address. We know that
+there is a characteristic response of the calorimeter to excess power sourced within the calorimeter. Yet in the model
+ﬁt that we used above, we ﬁnd that the relaxation time is often longer than the relaxation time of the calorimeter. If we
+de-convolve the associated signal, we end up with a source history that is highly constrained. It is possible to develop
+a more sophisticated three-parameter ﬁt which relaxes the associated constraint.
+
+5.1. Relaxation model:
+This motivates us to revise our model so as to include the basic calorimeter response, and then parameterize whatever
+is left over in terms of the underlying excess power signal. We consider the simplest relaxation model described by
+Here Ps is the source excess power, and P is the excess power signal reported by the model calorimeter. We can express
+the calorimeter version of the power P in terms of the source version of the power Ps according to
+where h(t) is the impulse response
+
+5.2. Simple model based on a step:
+Now we are free to develop a model calorimeter power response based on a source power model. For example, if we
+chose a step
+Ps(t) = P0u(t).
+
+Then we would obtain a calorimeter power given by
+This is closely related to the ﬁtting function that we selected, but in this version the τ0 parameter is ﬁxed by the
+calorimeter response rather than being determined by the data.
+
+5.3. Source power for the model above:
+The natural question occurs as to what is the source assumed with the model that we discussed above. For this model,
+if we neglect the constant or linear offset, we might write
+The associated source power that would correspond to this is
+We can recast this as
+There is an initial step along with a relaxation curve. The amplitude of the step in this model is ﬁxed by the ratio of the
+relaxation times.
+
+5.4. More general model:
+Based on the argument above, it seems that we should be able to put together a better model based on separate parameters
+for the step and relaxation terms. For example, we might adopt a source power model of the form
+The corresponding calorimeter power is
+
+
+6. Fitting Data with the Three-parameter Model
+
+In order to tell whether the revised model helps, we need to try it on some data sets. The reference data set is a good data
+set generally, but in order to develop a useful ﬁt, we need to remove some of the points around the artifact. As such, we
+would not expect to see much difference between the different models since the points where the models would show
+the difference is in the excluded region. Better is to test a different data set that is free of the artifact.
+
+6.1. Reference data set:
+We begin by considering the reference data set. We have ﬁt the data (with no drift), and we have obtained the following
+ﬁt parameters
+A = 1.57 mW,
+B = 110.67 mW,
+D = 214.33 mW,
+τ0 = 30.0 min,
+τ = 33.45 min
+with T0 ﬁxed at 904. The associated spread in excess power is
+ P = 7.52 mW.
+This model gives results that are pretty similar to what we found previously.
+
+6.2. Example without an artifact:
+In the different data sets, there occur examples that are ﬁt well by a step function source model, and also examples that
+are ﬁt by a dynamic source function. One example of a data set with a dynamic source function is DGL670a, which
+was listed as point 42 on the earlier table at 19.28 THz, but which was subsequently corrected to 13.45 THz. The ﬁtting
+parameters in this case are
+A = 6.49 mW,
+B = 66.15 mW,
+D = 18.52 mW,
+τ0 = 30.0 min,
+τ = 54.69 min
+with T0 taken to be 8266. The associated spread in excess power is
+ P = 6.16 mW.
+
+Figure 7.
+Excess power and ﬁt for DGL670a using the three-parameter model (red) compared with the optimized simple model (green).
+
+However, having made arguments in favor of a slowed onset, in fairness we need to also argue the other side as well.
+In this case, the simpler model also gives reasonable results, as shown in Fig. 7. In this case the ﬁtting parameters are
+A = 5.78 mW,
+B = 0 mW,
+D = 94.84 mW,
+τ = 92.97 min
+with
+ P = 6.30 mW.
+This model gives a higher estimate for the source power, and a poorer ﬁt to the data.
+
+Results for both models are shown in Fig. 7. It is possible to see the effect of the slower rise in the associated curve
+for the three-parameter model relative to the simpler model. Unfortunately, since the two different models lead to curves
+that are close together, it is unlikely that one could make a compelling case that the data requires the more sophisticated
+model. If one uses the more sophisticated model, it seems unlikely that we would be sure that the parameters that provide
+an optimum ﬁt tell us much about the source history, since we can obtain very similar curves with other parameters.
+
+
+7. Discussion and Conclusions
+
+There are a number of conclusions which might be drawn from the discussion of the previous sections. Perhaps the most
+notable conclusion is that in the two-laser experiments, the excess power appears to relax to a constant value (which
+depends on the difference frequency between the two lasers). This is different qualitatively from some of the early
+Fleischmann–Pons experiments in which the excess power often would occur in bursts with sometimes complicated
+histories. For the data sets considered here, a simple relaxation model can provide a good ﬁt for the experimental data.
+We found this to be the case for the majority of the 18 data sets of this type that we analyzed.
+
+A second important conclusion is that the relaxation time associated with the excess power response is usually
+longer than the calorimeter response time. We can conclude that the source excess power itself relaxes to a reasonably
+constant level over times ranging between a few minutes and 4 h. There does not seem to be a clear correlation between
+the relaxation time and the excess power level. There does seem to be a correlation between the relaxation time and
+the difference frequency (see Fig. 8). The three data sets near 8 THz show short relaxation times, where the source τ
+of the three-parameter model is less than 13 min. All but one of the other data sets associated with the 15 and 20 THz
+resonances have longer relaxation times, most above 30 min.
+
+What this source relaxation time is due to is not known. There are two plausible scenarios that suggest themselves
+as possibilities. In one scenario, the two lasers are focused to a small spot on the cathode, and the lag time is associated
+with the spreading of the source from initially being localized to extending over a large fraction of the cathode surface
+at late time. In another scenario, the response is delocalized in space from early time, but it is the amplitude that builds
+up. Simple calorimetric experiments cannot resolve between these scenarios. If the cathodes showed a response in
+the IR, as was the case in the Swartz experiments [4], then perhaps we would be able to see the surface area response
+change in time, and perhaps correlate with the excess power production.
+
+Figure 8.
+Source relaxation time parameter τ from three-parameter model ﬁts of two-laser experiments. The data in blue circles are for the “normal”
+runs; the excess power was interrupted for the red square at 18.8 THz, so that the τ of 4.2 min is inaccurate; the data set is incomplete for the black
+triangle at 15.9 THz, so that the estimate of 206 min has a large uncertainty.
+
+If a faster calorimeter were used, then it would be possible to measure the excess power history and dynamics with
+more resolution. This would seem to be a good thing. If the short time response for the 8 THz frequency points is a
+real effect, and if the longer response for the 15 and 21 THz points is also real, then this might be useful to conﬁrm and
+to study. Perhaps the system is telling us something helpful in this data.
+
+
+Appendix A. Idealized Absorption Model
+
+We are interested in developing a simple theoretical model for laser light absorption from a a model metal surface in
+the electrolyte. Our motivation for this is that such a model can shed light on how much absorption might be expected
+under conditions that are better understood than those of the experiment.
+
+The light initially comes through air, then hits the outer glass cell, passes into the electrolyte, and then is absorbed
+and reﬂected at the cathode surface. We can analyze a simpliﬁed version of the problem using four homogeneous
+regions. Good optical data is available for palladium and for gold in vacuum, but the observed reﬂection or absorption
+depends also on surface contaminants and morphology. We estimate a relatively high absorption fraction from the
+optical data for a clean Pd surface.
+
+Appendix A.1. TM absorption at a metal surface:
+In what follows we are interested in obtaining the relevant Fresnel equations to determine the absorption of a beam in
+heavy water on a metal surface, and separately the reﬂection associated with going from air through glass into heavy
+water. For TM light (which corresponds to p-polarization), we focus on the magnetic ﬁeld. In the electrolyte we write
+In the metal the electromagnetic ﬁeld does not propagate because the laser frequency is below the plasma frequency.
+In this case we may write
+In the absence of a surface current the (transverse) magnetic ﬁeld is continuous across the boundary, so that
+Hi + Hr = Ht.
+(A.3)
+The transverse component of the electric ﬁeld must also be continuous across the boundary, which leads to
+We can solve these simultaneously to obtain
+where rTM is the reﬂection coefﬁcient.
+We can make use of the relations
+in order to rewrite rTM as
+Since there is very little loss in the electrolye, the associated dielectric constant ϵ[D2O] is real to within an excellent
+approximation and positive. Since the laser light is below the plasma frequency of the cathode, the real part of the
+dielectric constant ϵ[Pd] is negative. Since the metal is lossy, there will be a nonzero imaginary part of this dielectric
+constant.
+A similar analysis for TE polarization leads to
+The fraction of the light absorbed in this part of the model is
+where r is taken to be one of the two expressions above depending on the polarization.
+
+Appendix A.2. Optical constants and absorption:
+To proceed we require estimates for the dielectric constant of heavy water and for the cathode. We will adopt 665 nm
+as a reference laser wavelength for our estimates. The optical constant for light water is n is 1.331 [5] (we do not have
+data at present for heavy water in this spectral range), so that we will use for ϵ[D2O]
+ϵ[D2O] = 1.77 ϵ0,
+(A.12)
+The optical constants for Pd at 665 nm are n = 1.81 and k = 4.38 [6], so that for this calculation we can use
+ϵ[Pd] = − 15.9(1 + i) ϵ0.
+(A.13)
+These optical data can be used to construct the absorption curve shown in Fig. 9. The absorption fraction at an incident
+angle of 45o is calculated to be 0.43.
+
+Figure 9.
+Absorbed TM and TE fraction of 685 nm light in water on Pd as a function of angle θ relative to normal.
+
+We note that the absorption fraction shown in Fig. 9 is high, and that very clean surfaces in vacuum were used
+for the measurements of the optical constants that we used. It was noted in [6] that if the surface is oxidized, then a
+different amount of light is reﬂected (an oxide layer in vacuum decreases the reﬂection).
+
+There is gold electroplated on the surface in the two-laser experiment. From the optical constants of metallic gold
+near 685 nm (n = 0.14 and k = 3.76 [7]), we would ﬁnd an absorption fraction of about 0.025 for a planar gold surface.
+
+
+References
+
+[1] D. Letts, D. Cravens, and P.L. Hagelstein, Dual laser stimulation and optical phonons in palladium deuteride, in low-energy
+nuclear reactions and new energy technologies, Low-Energy Nuclear Reactions Sourcebook,Vol. 2,American Chemical Society:
+Washington DC, 2009, pp. 81–93.
+[2] P.L. Hagelstein, D.G. Letts and D. Cravens, J. Cond. Mat. Nucl. Sci. 3 (2010) 59.
+[3] M.H. Miles and M. Fleischmann, Accuracy of isoperibolic calorimetry used in a cold fusion control experiment, Low-Energy
+Nuclear Reactions Sourcebook, edited by J. Marwan and S. Krivit, 2009, p. 153.
+[4] M.R. Swartz, G. Verner, A. Weinberg, Non-thermal near-IR emission linked with excess power gain in high impedance and
+codeposition phusor-LANR devices, Proc. 14th International Conference on Condensed Matter Nuclear Science, Washington,
+DC (in press).
+[5] G.M. Hale and M.R. Querry, Appl. Optics 12 (1973) 553.
+[6] P.B. Johnson and R.W. Christy, Phys. Rev. B 9 (1974) 5056.
+[7] P.B. Johnson and R.W. Christy, Phys. Rev. B 6 (1972) 4370.

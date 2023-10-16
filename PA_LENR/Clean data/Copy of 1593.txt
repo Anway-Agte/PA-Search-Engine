@@ -1,0 +1,227 @@
+1. Introduction
+Spectroscopy is a key diagnostic in a variety of fields, including plasma physics, astrophysics, chemistry, and materials
+science. If a system is in thermal equilibrium, then it is may be possible to determine the plasma temperature from the
+relative intensity of different emission lines. At low density the atomic and ionic levels may not be in equilibrium, but
+in some cases it possible to determine both the temperature and electron density from the relative strengths of strong
+emission lines.
+
+Spectroscopy has so far not played a particularly important role in Fleischmann–Pons experiments, which is unfortunate
+since it is such a powerful tool. There have been reported observations of Kα radiation from Pd [1] and from
+Pt [1,2] in Fleischmann–Pons experiments. Such observations are important because they give us the possibility of
+learning new things about the physical mechanisms behind the anomalies.
+
+At present we do not understand why such radiation should occur. One possibility is that they are produced as a
+result of impact ionization from energetic particles. If so, then the X-ray emission could be considered as a secondary
+process which can be used as a diagnostic for the presence of energetic particles. Alternatively, it may be that X-ray
+emission occurs for some other reason, in which case it would be of interest to understand better what energetic process
+could result in the production of Kα emission.
+
+For other reasons we have examined issues associated with nuclear radiation in general that would be expected in
+energetic alpha particles were present in large quantities in the Fleischmann–Pons experiment. It had been conjectured
+that the excess heat comes about from new reactions which result in energetic alpha particle emission in a way such
+that the energetic alpha particles are "hidden" deep within the PdD. We calculated the yields for a variety of reactions
+which would result in neutron, X-ray and γ -ray production. From a comparison with experiments in which excess heat
+was observed while nuclear emissions were being detected, we were able to conclude that the upper limit on the alpha
+particle energy must be less than 10 keV in order to be consistent with experiment.
+
+As a result of this exercise, it became clear that spectroscopic diagnostics were available for energetic alpha particles.
+In particular, energetic alpha particles should produce Kα X-rays as well as the 478 keV line in 7Li. Moreover, it should
+be possible to develop an estimate for the energy from measurements of the ratios of the different transitions. Since
+energetic alpha particles would also produce neutrons, one would expect a correlation between all of the different
+signals.
+
+Now, there are experiments in which energetic alpha particles have been reported [3,4]. There are also experiments
+in which neutrons and X-rays have been reported. Previously we were interested in the correlation between excess
+power and nuclear radiation. Here, we are instead interested in the possible correlation between different low-level
+X-ray, gamma-ray and neutron emission. In what follows we will discuss results for yields of X-rays and γ -rays from
+energetic alpha particles. Based on these calculations, and from the few available experimental results, we conclude
+that the Kα radiation is not due to energetic alpha particles. Some other mechanism should be sought to account for
+them.
+
+
+2. Impact ionization and Kα emission
+
+X-ray emission resulting from bombardment by energetic ions is a subject that has been well studied for many years.
+In the case of alpha particle-induced K-shell X-ray emission, we can make use of the measurements of Wilson et al.
+[5], which is available in a relevant energy range for Rh and Ag (which are close to Pd).
+
+To obtain results for Pd, we could interpolate data taken for nearby elements. There is considerable literature on the
+closely related problem of scaling laws for impact ionization of K-shell electrons [6]. The basic idea is that there exists
+an underlying scaling law that depends on a universal function, from which K-shell impact ionization cross sections
+for many elements can be obtained over a wide range of energies [7].
+
+2.1. Universal function:
+To proceed, we would like to take advantage of ideas based on the notion that there exists a universal function for
+alpha particle-impact K-shell ionization. Certainly there is considerable literature both of a theoretical nature as well
+as experimental devoted to this problem. There are a number of speciﬁc universal functions which have been put forth
+based on different data sets or theoretical models.
+
+For our computations in particular, we have the problem that the data sets which are close to Pd do not go up to high
+enough energy for our application. Hence our interest is in making an empirical extension of the model in which we
+used scaled experimental data in the higher energy regime as a way to predict what the cross section would be for Pd.
+
+To proceed, we write
+where f is the presumed universal function, U is the K-shell binding energy and where ωK is the ﬂuorescence yield.
+
+Figure 1.
+Universal function f (in units of barns-eV) built up from K-shell X-ray production cross sections for collisions with alpha particles.
+
+To determine whether this approach will be helpful given the data sets that we have available, we can plot the data
+in terms of the universal function according to
+as a function of E/U. The results of this are shown in Fig. 1.
+
+2.2. Parameterization:
+We see that the data seems to describe a universal curve, which we have ﬁt to
+ln f = a + bx + cx2
+with
+and
+a = − 22.7185,
+b = 8.4285,
+c = − 0.3995
+for f in barns-eV.
+
+Figure 2.
+Comparison of the empirical X-ray cross section (red line) and data of Wilson et al. [5] for Rh (upper) and Ag (lower) data.
+
+2.3. Comparison with experimental results:
+We compare the empirical model with the data of Wilson et al. [5] in Fig. 2. Taking the Wilson data alone, one might
+think that the empirical ﬁt was a bit off at both high and low energy. However, since there is reasonable agreement
+between different data sets (with data taken between Al and Gd) in the construction of the universal function, it seems
+that our empirical Kα cross section for Pd should be reasonable outside of the range where we have relevant data.
+
+
+3. Yield of Pd Kα X-rays
+
+We have computed the yield function for alpha particles in Pd (see Fig. 3).
+
+3.1. Experimental result for the yield in Pd:
+There is an experimental data point available for the yield function of energetic alpha particles from the decay of 252Cf
+given in a paper by Watson [8]. The yield function is given as (0.93 ± 0.08) × 10−2 for the associated long range alpha
+particles in Pd. From the yield curve, we would compute that the associated alpha particle energy should be 15.0 MeV
+in order to be consistent. The long-range alpha particle energy spectrum for 252Cf has been measured by Fraenkel [9],
+and one sees that the peak occurs roughly at 15 MeV.
+
+Figure 3.
+Yield function for Pd K-shell X-ray emission due to energetic alpha particles as a function of alpha particle energy.
+
+3.2. K X-rays per unit energy:
+In order to compare with experiment, we require a computation of the yield divided by the energy, we require the
+K-shell X-ray yield divided by the alpha particle energy. This is shown in Fig. 4.
+
+Figure 4.
+Yield function for K-shell X-rays in Pd produced by energetic alpha particles divided by the alpha particle energy, in X-rays/J.
+
+Figure 5.
+Ratio of Kα production cross sections for Pt relative to Pd as a function of alpha particle energy.
+
+3.3. Ratio of Pd to Pt Kα cross sections:
+We mentioned above the possibility of gaining information about the alpha particle energy from the ratio of Kα emission
+from Pt as compared with Pd. There are few experiments where both have been measured at the same time, and the
+only work we could ﬁnd reporting such a result was [1].
+
+If we make use of the universal function ideas above, we can estimate the ratio of K-shell emission cross sections
+using
+
+This ratio is shown in Fig. 5. We see that the cross section for X-ray production is much larger for the lower energy Pd
+Kα X-ray than for the higher energy Pt Kα X-ray, which is as expected since it is harder to ionize a more tightly bound
+electron.
+
+3.4. Surface versus bulk effects:
+The discussion above requires additional comment, since Pt is found only within less than a micron from the outer
+surface of the Pd cathode. If the alpha particles are born inside of the cathode away from the surface, then one would
+not expect to see any Pt Kα X-rays. If the alpha particles are born near the cathode surface, then one might expect to see
+excitation of the Pt Kα, but the ratio of Pd to Pt Kα emission might be expected to be even larger than the ratios found
+above. In the single experimental measurement that shows both, there is not a big difference in the relative strength, as
+discussed later on in this work. With Pt restricted to a small region near the surface, the Pd Kα should be favored even
+more over the Pt Kα than in Fig. 5.
+
+Figure 6.
+Cross section for 7Li 478 keV gamma production as a function of alpha particle energy.
+
+
+4. Excitation of the 7Li nuclear state at 478 keV
+
+If energetic alpha particles are present, one would expect to see excitation of nuclear states for low-Z nuclei that have
+bound excited states. In the Fleischmann–Pons experiment Li appears in the electrolyte, and presents an obvious
+candidate for possible nuclear excitation. In 7Li the lowest excited state occurs at 478 keV, which makes it the prime
+candidate for nuclear excitation (other excited states in both 6Li and in 7Li are at signiﬁcantly higher energy). This
+state has been the focus of numerous studies over the years precisely for this reason.
+
+4.1. Cross section for gamma production:
+Because of its special status, the 478 keV gamma line has been studied experimentally in order to determine the gamma
+production cross section. This is somewhat different than an excitation cross section, as excitation to more highly
+excited states can lead to the 478 keV state as a product in a decay chain. We have made use of the measurements of Li
+and Sherr [10], and of Cusson [11]. The cross section is complicated, with more than a dozen resonances apparent. We
+have made use of the Li and Sherr data at low energy up to the ﬁrst peak. Above the ﬁrst peak, we have developed an
+approximate ﬁt (made up of many resonance terms) to the Cusson measurements. The resulting cross section is shown
+in Fig. 6.
+
+4.2. Yield function:
+Lithium is present in the LiOD electrolyte as mentioned above, and it also is incorporated into the outer few thousand
+Angstroms of the cathode surface [12,13]. We expect the alpha particles to be sourced near the surface, so that there
+is some possibility of interaction with the Li incorporated into the Pd. However, alpha particles born this close to the
+surface will also have a 50% probability of going into the electrolyte. The computation of the yield function in the
+electrolyte is a preferable computation for us (since we need not worry about the proﬁle of the lithium and the trajectory
+of the alpha particles), and we expect that it will provide the dominant signal under most conditions.
+
+Figure 7.
+Yield of the 7Li 478 keV gamma production as a function of alpha particle energy.
+
+The resulting yield function for alpha particles slowing down in D2O are shown in Fig. 7 for 0.1 M and 1.0 M
+LiOD. For alpha particles of energy greater than 2 MeV, we see that the yields are small, but respectable for this kind
+of process. Clearly a substantial ﬂux of alpha particles would be required to observe this signal. However, large yields
+of alpha particles are now being claimed by Storms and Scanlan [14], and by the SPAWAR group [4]. It is probably
+worthwhile to look for the 478 keV line in these experiments. The associated yield per unit energy is shown in Fig. 8.
+
+
+5. Discussion and conclusions
+
+In the sections above, we have presented results for cross sections and yields of Kα X-rays and the 7Li 478 keV gamma
+ray. Given the good accuracy of the stopping power models and cross sections, the resulting yields should be very good.
+
+From these results, some conclusions can be drawn. In regard to ongoing experiments, it would be interesting to
+monitor the Kα signals and 7Li signal, since they can provide independent information about the ﬂux and energy of
+energetic particles. Although we have focused on energetic alpha particles here, similar yield functions for the Kα
+X-rays can be developed easily for other energetic ions. Excitation cross sections for the 478 keV line will be much
+more difﬁcult to obtain for other light ions. These results also allow us to comment on the experiments showing Kα
+emission. Although important information about the Bush and Eagleton experiment [1] is not included in the write up,
+if we assume that the Rh, Pd and Ag Kα spectrum were taken in the same run as the Pt Kα spectrum, then we can be
+sure that these signals were not due to energetic alpha particle impact ionization. The reason for this is that the signal
+strength of the Pt appears to be comparable to that of Pd, which is inconsistent with what would be expected from alpha
+particle impact ionization (even if there were as much Pt as Pd available near the surface). Since the X-ray detection in
+this experiment has a relatively low resolution, there can be questions as to whether the signals are actually due to the
+Kα lines.
+
+The presence of the Rh Kα line at similar strength to the Ag Kα line is very hard to account for in this experiment
+since the cathode was a PdAg alloy. In any event, we will need a conﬁrmation of this experiment before we can be sure
+of our conclusions. In future investigations of Kα emission it will be important to use a high resolution detector so that
+the Kα and Kβ lines can be resolved, so that we might have more conﬁdence in the results.
+
+Figure 8.
+Yield of the 7Li 478 keV gamma production divided by energy as a function of alpha particle energy.
+
+Also of interest is the spectrum presented by Iwamura et al. [2], which shows clearly a dominant Pt Kα signal, but
+no 478 keV line. If produced by energetic alpha particles, probably the alpha particles would need to have an energy
+well above 2 MeV. Since there is no correlation with neutron emission, which was also measured, we are sure from
+other calculations that the Pt Kα signal is not associated with energetic alpha particle emission.
+
+We draw attention to an earlier publication which contains a brief summary of these and earlier results [15].
+
+
+References
+
+[1] R. T. Bush and R. D. Eagleton, Proc. ICCF3 409 (1993).
+[2] Y. Iwamura, N. Gotoh, T. Itoh and I. Toyoda,  Proc. ICCF5, p. 197 (1995).
+[3] A. G. Lipson, G. H. Miley, A. S. Roussetski and E. I. Saunin, Proc. ICCF3, p. 539 (2003).
+[4] P. Mosier-Boss and L. P. G. Forsley, Bull. APS paper BAPS.2008.MAR.A17.10 (2008).
+[5] S. R. Wilson, F. D. McDaniel, J. R. Rowe and J. L. Duggan, Phys. Rev. A 16 (1977) 903.
+[6] J. D. Garcia, Phys. Rev. A 4 (1971) 955.
+[7] G. Basbas, W. Brandt and R. Laubert, Phys. Rev. A 7 (1973) 983.
+[8] R. L. Watson, Phys. Rev. 179 (1969) 1109.
+[9] Z. Fraenkel, Phys. Rev. 156 (1967) 1283.
+[10] C. W. Li and R. Sherr, Phys. Rev. 96 (1954) 389.
+[11] R. Y. Cusson, A study of the elastic and inelastic scattering of alpha particles by lithium-7, CalTech Ph.D. Thesis (1965).
+[12] O. Yamazaki, H. Yoshitake, N. Kamiya, K. Ota, J. Electroanal. Chem. 390 (1995) 127.
+[13] H. Uchida, M. Sato, W. Cui, T. Tabata, M. Kumagai, H. Takano and T. Kondo, J. Alloys and Compounds 293–295 (1999) 30.
+[14] E. Storms and B. Scanlan, presented at ICCF15.
+[15] P. Hagelstein, Naturwissenschaften 97 (2010) 345.

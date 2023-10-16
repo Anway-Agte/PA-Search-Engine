@@ -1,0 +1,368 @@
+1. Introduction
+
+We have considered a number of possible theoretical approaches over the that
+past several years that may be relevant to a description of the anomalies that
+have been reportedly observed in metal hydrides and metal deuterides.1 The primary
+experimental claims at this point include: [1] excess energy production in
+electrochemical experiments at a level that could not possibly be chemical ( with
+essentially no associated radiation); [2] tritium production, without secondary neutron
+emission (the tritium, if real, must be born nearly stationary); and [3] neutron
+emission. There also exists claims of experimental evidence in support of
+4 He production, host lattice activation, x-ray emission, gamma emission, and beta
+emission.
+
+Many involved in the experimental efforts mentioned above hold that the existence
+of the anomlies is now proven; many involved in mainstream physics research
+(and most of the scientific community) hold that none of the anomaHes are real.
+This difference of opinion appears to be a stable feature of the field, and there appear
+to be no prospects to resolve the differences any time soon. In our research,
+we take the experimental claims for which the evidence seems to be strongest, and
+study theoretical mechanisms that appear to be relevant. While the nature of the
+experimental claims excludes many possible mechanisms and reactions, they unfortunately
+do not generally make positive statements that would clearify reaction
+pathways or underlying mechanisms.
+
+For any theory to begin to be relevant to claims of this sort, two fundamental
+issues must be addressed: [1] there must be a mechanism that allows for the
+transfer of a large amount of energy from the atomic scale to the nuclear scale;
+and [2] there must also be a mechanism that will allow nuclei to react in the most
+general sense. The second point is usually cast in terms of overcoming the Coulomb
+barrier, but in light of the discussion in the present work, this is too restrictive. Our
+studies have consequently focused on mechanisms for anomalous energy transfer,
+and also on new nuclear reaction pathways involving charge neutral reactants for
+which no Cou􀂂omb barrier problem occurs.
+
+2. Anomalous Energy Transfer
+
+We have considered during the past several years the possibility of anomalous 
+energy transfer with the phonon modes in ·a lattice. Basic energy transfer mecha­
+nisms with vibrational modes in molecules and solids were understood in the 1930s; 
+the creation and destruction of phonons in a lattice was described by Lamb2 and 
+later by Mossbauer3; frequency-shifting of phonon modes in the molecular case was 
+described by Duschinsky4• Anomalous energy transfer through the creation and 
+destruction of phonons does not appear to be feasible; instead, we have examined 
+energy transfer by frequency shifting phonons that are already present. 5 In this 
+case, the energy transfer is 
+where N is the number of phonons present, and where cw is the associated fre­
+quency shift. 
+
+For this energy to be anomalously large, we require a large number of phonons 
+N to be present (which could be developed by a phonon laser, for example). We 
+also require a lattice with special properties: it must have a phonon spectrum 
+that contains a band gap, and phonon modes must jump a band gap due to a 
+modification of the lattice at a single site. Many metal hydrides contain a band 
+gap between the acoustic and optical phonon modes; the basic theory for how 
+phonon modes are altered due to mass or force constant changes at a single site 
+was studied by Dawber and Elliott6• 
+
+This mechanism alone appears to be capable of producing anomalies if the 
+appropriate conditions can be met. For example, phonon gaps may be produced 
+in metal hydrides if host lattice vacancies occur at impurity levels. In this case, 
+processes that alter the number of host lattice vacancies can mediate anomalous 
+lattice energy transfer. We have computed decay rates for this general process for 
+a variety of recoil and nuclear decay channels.7 For example, lattice-induced recoil
+of deuterons will lead to dd-fusion reactions with predicted neutron production 
+rates that are in the general range of those claimed in experiments. This gen­
+eral mechanism could in principle produce anomalous alpha and beta decays; the 
+associated reaction rates are reported in Ref. 7. 
+
+
+3. Proposed Surface Phonon Laser
+
+Anomalous energy transfer through the route described in the last section pre­
+supposes the existence of a large number of phonons per mode N; we know that 
+this could be produced by a phonon laser. Phonon lasers are known, and phonon 
+lasing on acoustic modes up to 0.87 THz has been reported in the literature.8 The
+energy exchange mechanism that we arc interested in requires the existence of an 
+optical phonon laser that operates near 6-8 THz. 
+
+Phonon las·ers are in many ways analogous to optical lasers, as both require the 
+development of a population in version ( or else the development of parametric gain). 
+There exist few proposals for driving an optical phonon laser, although it would 
+be reasonable to expect that optical pumping of impurities in a low temperature 
+transparent crystal could be extended to optical phonons. Such techniques are not 
+readily extended to metal hydrides, and the requirement that gain be developed 
+at room temperature makes the problem far more severe since the optical phonon 
+lifetimes are expected to be quite short (on the order of a picosecond) under these 
+conditions. 
+
+We have recently proposed that exothermic desorption of a metal hydride can 
+be used to drive a surface phonon laser.9 If we consider the potential for molecular
+hydrogen near a clean metal surface, 10 we note that molecular hydrogen is not 
+stable at the surface and is in fact pushed away (see Figure 1). Hydrogen in 
+the metal can be either at lower or higher energy than the molecular energy. In
+the case that the energy is higher, so that the desorption is exothermic, then the 
+situation becomes in some sense a phonon analog of an excimer laser. 
+
+Phonons can stimulate the desorption, and some of the desorption energy will 
+go into the phonon modes that initially caused the desorption; in the event that 
+the desorption is exothermic, then there exists the possibility of stimulated phonon 
+emission and phonon gain. The hydrogen desorption from PdH probably becomes 
+exothermic near a loading of 0.83; the situation is expected to be similar for 
+desorption from PdD. 
+
+Figure 1. Schematic energy of H2 minimum potential energy surface near a metal 
+hydride surface. 
+
+Quantum desorption models have been studied in the literature (see for example 
+Ref. 11). A basic description relevant to the present discussion could be developed 
+starting from 
+This model includes hydrogen atoms at site i, free molecular hydrogen with mo­
+mentum k, phonon modes indexed by q and u, and phonon-dependent desorption 
+and adsorption terms. A linearization of the desorption potential in the phonon 
+mode operators results in a Hamiltonian that can describe a one-phonon laser 
+amplifier. 
+
+Perhaps the simplest quantitative estimate for the desorption flux required to 
+sustain such a phonon laser comes from a balance between surface phonon creation 
+and destruction; net gain is present when more phonons are generated than de­
+stroyed. If we imagine that a surface phonon mode is initially very highly excited, 
+so that a significant fraction of the desorption power is converted to stimulated 
+phonon power, then the threshold e:ondition is equivalent to the statement that as 
+many phonons are generated as destroyed. For surface optical phonons modes, the 
+number of phonons required in this example is perhaps on the order of unity per 
+atom participating; consequently the number of phonons destroyed per unit time 
+is the product of the mode volume V, the relevant density n, and the destruction 
+rate 1/r. The number of phonons generated per unit time is the product of the 
+exothermic desorption flux Jdeai weighted by the number of phonons generated per 
+desorption event N, and mode surface area A. We obtain 
+The required desorption flux for normal surface optical phonon modes obtained 
+from this argument is very high, on the order of 1028 molecules/cm2sec. Such 
+a desorption flux is not sustainable, even on a microscopic timescale, either by 
+conventional diffusion or by thermodynamically-forced diffusion.12 
+
+Figure 2. Estimated desorption energy for PdH versus loading. 
+
+Inspection of equation (3) indicates that the constraint on the desorption flux 
+in the case of an impurity mode can in principle be lower by a dilution factor. 
+For example, liost lattice vacancies at the per cent level has been proposed to lead 
+to an "impurity" optical phonon band within the PdD phonon band gap. The 
+participating deuterium atoms are those within a cell containing a vacancy, which 
+occurs at a reduced density; consequently, the threshold desorption current should 
+be considerably less (on the order of 1026 molecules/cm2sec). If a dominant mode 
+of release of molecular deuterium from the surface of a highly loaded cathode is 
+through local explosive exothermic desorption events that last on the order of a 
+nanosecond , then such events may be sufficient to drive an optical phonon laser 
+on dilute impurity modes. 
+
+The existence of such a mechanism would be critical for the operation of the 
+physical mechanisms under discussion in section 2, and in the following sections. 
+In addition this type of mechanism appears to be consistent with recent correlation 
+of excess heat with flux discovered recently by the SRI group.13
+
+
+4. Neutron Hopping
+
+While there have been several proposals for mechanisms that may lead to en­
+hanced screening of the Coulomb potential between nuclei, we have abandoned 
+fusion reaction mechanisms generally (as candiates for heat and tritium produc­
+tion) in the belief that the amount of screening required is nonphysical. Our 
+deliberations have driven us through a string of relatively exotic reactions, finally 
+reaching a new class of reactions that may all be classed under the generally head­
+ing of "neutron hopping" reactions.14 It is well known that electrons hop in solids, 
+and the basic model that describes this hopping can be applied almost directly to 
+examine the possibility of neutron hopping. 
+
+The neutron mixed valence Hamiltonian that describes the coupling between 
+bound and continuum neutron states is 
+Neutron hopping is only expected in nuclei with s-wave valence neutrons and 
+two neighboring stable isotopes; elements ·which satisfy this requirement include: 
+hydrogen, helium, silicon, cadmium, tin, tellurium and xenon. 
+
+We recently investigated neutron hopping in silicon, in the hopes of developing 
+an experiment that would exhibit the effect cleanly. The basic idea is that 2s 
+neutrons from 29Si would hop among neighboring 28Si nuclei, and from time to 
+time be captured by 29Si to make 30Si; this capture process would lead to a gamma 
+at 2.1 MeV. Crystalline silicon has a diamond lattice structure, which consists of 
+two interpenetrating FCC lattices. Virtual neutrons originating from one FCC 
+sublattice are Bragg scattered by the other and delocalized; the gamma emission 
+rate for this structure is obtained from fourth order perturbation theory 
+In this formula, state 1 refers to a 29Si valence neutron on the first sublattice, 
+state 2 refers to a 29Si valence neutron on the second sublattice, state 3 refers to a 
+free neutron, and state 4 refers to a gamma captured 30Si neutron; the interaction 
+potentials ¼i are of the form of given in the neutron mixed valence Hamiltonian. 
+This gamma emission rate can be evaluated approximately (after much algebra); 
+we obtain in the high temperature limit 
+where V0 is the volume-averaged nuclear matrix element (about 20 meV), NB is the 
+number of Brillouin zones contributing (about 30 near the melting point),, is the 
+capture rate for a free virtual neutron ( about 2.5 sec-1 ), f.D is the neutron binding 
+energy (8.4 7 Me V), and &M is the lattice energy transfer in the Mossbauer limit 
+(uncertain, but perhaps on the order of 10-10 eV). The f factors are fractional site
+occupation probabilities. The exponential factor comes about from destructive 
+interference of the continuum Bragg waves, limited by the requirement that the 
+virtual neutron scattering generates no phonons; the effective energy barrier is 
+where a is the lattice constant (2.715 A), < Juj 2 > is the mean square thermal 
+center of mass displacement, M is the nuclear mass of 28Si, and 0m is the Debye 
+temperature (about 525 K). This relation may also be written as 
+where w0 is the characteristic vibrational frequency. 
+
+The gamma emission rate in this case is unfortunately too small to be observ­
+able. The emission rate is highest near the melting point (1683 K); the prefactor 
+is respectable ( ~ 10-13 sec-1 ), but the exponential ( due to destructive interference 
+of the Bragg waves) reduces the rate by more than 60 orders of magnitude. 
+
+Consequently, we turn to the question as to whether the effect would be ob­
+servable in other systems. Upon inspection of the various factors that make up 
+the effective energy D.f. for the diamond lattice structure, it appears that only two 
+quantities are of importance: the nuclear mass and Debye temperature. Lighter 
+nuclei could exhibit in principle a much greater effect. Of the candidate elements 
+with outer s-wave neutrons, by far the most interesting candidate is hydrogen: vir­
+tual neutron originating from deuterium have the best chance of being delocalized 
+by Bragg scattering from nearby protons in an ordered lattice. This argument 
+assumes that the relevant nuclear matrix element (which we have not yet com­
+puted for deuterium) is of comparable magnitude. For example, the vibrational 
+frequency w0 for the deuterons in PdD is roughly the same as for the silicon nuclei 
+in crystalline Si (the lattice structure is that of NaCl, so that a somewhat different 
+proportionality may occur); the barrier energy D.f. in this case should be much less. 
+
+If these arguments are correct, then we would expect that a metal hydride 
+that is loaded with a mixture of deuterium and hydrogen would exhibit neutron 
+hopping if heated suddenly, as a thermally-induced bulk effect, with an effective 
+energy on the order of an electron volt. The presence of the effect should be 
+observable through gamma emission. Computations of this process are ongoing. 
+
+
+5. Neutron Hopping Coupled with Anomalous Energy Transfer
+
+For the past several years we have examined various approaches to the problem 
+of neutron hopping to an inequivalent nucleus coupled with the lattice energy 
+transfer mechanism. A neutron hopping onto a nucleus generally will lower the 
+phonon mode frequency, which leads to an energy transfer that has the wrong 
+sign for heat production. We proposed that impurity modes due to host lattice 
+vacancies could shift up through a recoil upon neutron capture that reduced the 
+number of vacancies. While it seemed to be clear that the energy transfer through 
+frequency shifting could be driven by a neutron transfer in principle, the frequency 
+shifting mechanism leaves the lattice in a state which cannot use the same phonons 
+for subsequent energy transfers. 
+
+This problem is in general serious. If phonons were used only once then lost, 
+then the maximum efficiency would be much less than one; the experimental claims 
+for heat production are larger than this. We have proposed earlier that the phonons 
+could be frequency-shifted back down by a Raman process, and replaced when 
+lost by phonon gain. While this may be possible in principle, it is by no means 
+compelling. 
+
+Here we propose a speculative alternate solution that may have some advan­
+tages. We propose to couple an exothermic neutron hopping reaction with an 
+endothermic lattice-induced decay process, and then require that the phonon dis­
+tribution not be changed significantly during the combined process. Such a mech­
+anism could be repeated without a loss of phonons; it has the additional advantage 
+that the reaction rate for the coupled process will be faster than the rate for the 
+neutron hopping part of the reaction alone, since the lattice-induced processes are 
+so fast. 
+
+For example, we consider a virtual neutron that originates from a deuteron, 
+resonantly Bragg scatters off of nearby protons in a metal hydride, and then lands 
+on 28Si with enough recoil to dislodge it so as to change the number of host lattice 
+vacancies. If the process were conservative so far, then the lattice would be highly 
+excited and unstable against a rapid decay of the host lattice, the fastest of which 
+would be lattice-induced alpha decay of a low Z nucleus. Since the lattice decay is 
+so fast, it is reasonable to couple it with the preceding reaction as a second order 
+process,7 which need not conserve energy in the intermediate state. The associated 
+decay rate of a deuteron through this route can be computed from 
+In this formula, 6fL is the energy excess determined by the difference in neutron 
+binding energies of the donor and acceptor nuclei, taking into account the energy 
+transfer with the lattice: 
+and state 5 includes the results of the lattice-induced decay. 
+
+This mechanism is currently the focus of our theoretical investigations. While 
+we have not yet evaluated this rate in detail, certain aspects of the reaction rate 
+appear at this point to be plausible. We expect the total reaction rate to be 
+perhaps of the form 
+The prefactor here is reduced from that encountered in the last section by VjJ L).fLi 
+the fractions f can be on the order of unity; the effective energy L).f ought to be 
+less than 1 eV. The probability that the appropriate recoils occur, and that the 
+coupling between the initial, intermediate and final lattices is phonon conservative, 
+will appear as an exponential damping factor (taken to be e-0 here, the magnitude
+of which is presently unknown). Finally, the lattice-induced decay gives rise to a 
+very large rate ,i ( on the order of 1020 sec-1 for each nucleus i in the lattice that
+is capable of causing a useful phonon mode gap jump; this results in a potential 
+increase in the total rate over the results of the previous section. 
+
+One interesting feature of this type of theory is that it does not require that 
+the lattice actually has the very large number of phonons required for a complete 
+exchange of the reaction energy. Since the intermediate state is now virtual, and 
+the final state lattice does not have the reaction energy (it is in the fast alpha in this 
+case), the requirements on the lattice are now much reduced. Two requirements 
+are seemingly apparent however: (1) given the combinatorial number of available 
+phonon states, the lattice states with frequency-shifted phonon modes had best 
+have large coupling matrix elements and be well separated in energy to avoid 
+destructive interference effects; and (2) given the fast (psec) decoherence time 
+of the optical phonon modes, unless phonon gain is present on the gap jumping 
+modes, the number of atoms that can take place in the final alpha decay process 
+will be limited. Further study of this mechanism will determine the applicability 
+of the theory to experiments reporting heat and tritium production. 
+
+
+6. Conclusions
+
+We have reviewed key aspects of our theoretical approach to account for anoma­
+lies claimed in recent experiments with metal hydrides. We have focused on two 
+new physical effects: [l) lattice energy transfer by frequency shifts of phonon 
+modes, and [2) neutron hopping. Neither of these mechanisms has been proven 
+experimentally, yet we contend that both effects are predicted from quantum me­
+chanics. 
+
+Specific results that are new since ICCF4 include: [1] a proposal for a surface 
+phonon laser driven by exothermic desorption; [2] that neutron hopping should 
+lead to second order gamma emission as a thermally-induced bulk effect; [3] the 
+observation that Bragg scattering of virtual neutrons by the internal unit cell 
+structure is important (especially for nuclei with outer s-wave neutrons); (4) the 
+conclusion that the primary donor or acceptor nuclei for heat or tritium production 
+must involve outers-wave neutron orbitals; [5] that neutron hopping should work 
+much better with light nuclei; [6) that the energy exchange with the lattice during 
+a neutron hop in the Mossbauer limit is nontrivial and must be included properly. 
+The formula for second order gamma emission, as well as the theory outlined in 
+section 5 constitute new theoretical results. 
+
+We conclude that there exist routes within conventional theory both for anoma­
+lous energy transfer and for a new class of reactions based on neutron hopping. 
+The theory outlined in section 5 describes excess heat and tritium production 
+mechanisms, perhaps similar to the experimental claims; further calculations and 
+comparisons with experiment are required to determine whether it is correct in 
+detail. The phonon laser route to energy transfer outlined in sections 2 and 3 can 
+result in neutron, alpha, beta and gamma production, also perhaps relevant to the 
+experimental claims. The neutron hopping/gamma emission process outlined in 
+section 4 is a bulk effect, and may be more easily verifiable experimentally. 
+
+Quantitative predictions specific to the various metal hydrides for thermally­
+induced second order gamma emission will soon be available; these predictions can 
+be tested experimentally, and can be used to prove or disprove a major part of the 
+present theory. Heat production according to the theory of section 5 a neutron 
+transfer from deuterium to silicon, and a low Z alpha decay; this can be proven 
+or disproven through measurements of silicon isotopic ratios, and detection of the 
+alpha decay products. 
+
+
+References 
+
+As discussed, for example, in more than 20 experimental papers presented
+at this conference.
+W. E. Lamb, "Capture of Neutrons by Atoms in a Crystal," Phys. Rev., 55,
+190 (1939).
+R. L. Mossbauer, "Kernresonanzfluoreszenz von Gammastrahlung in Ir191, 
+Z. Physik., 151 124 (1958).
+F. Duschinsky, "Zur Deutung der Elektronenspektren mehratomiger Molekule,"
+Acta Physiochemica (URSS), 7, 521 (1937).
+P. L. Hagelstein, "A Possible Mossbauer Effect in Neutron Capture," Hyper­
+fine Interactions, 92, 1059 (1994).
+P. G. Dawber and R. J. Elliott, "The Vibrations of an Atom of Different
+Mass in a Cubic Crystal," Proc. Phys. Soc., 81, 483 (1963).
+P. L. Hagelstein, "Lattice-Induced Atomic and Nuclear Reactions," Trans.
+Fusion Tech., 26, 461 (1994).
+P. Hu, "Stimulated Emission of 29-cm-1 Phonons in Ruby," Phys. Rev.
+Lett., 44,417 (1980_).
+P. L. Hagelstein, "Proposed Novel Optical Phonon Laser Pumped by Exother­
+mic Desorption," Bull. APS, 40, 808, (1995).
+10. J. Harris, "On Vibrationally-Assisted Dissociation of H2 at Metal Surfaces,"
+Surface Science, 221, 335, (1989).
+11. E. Goldys, Z. W. Cartel and H. J. Kreuzer, "Desorption Kinetics Mediated
+by Surface Phonon Modes," Surface Science, 116, 33 (1982).
+C. Bartolomeo, M. Fleischmann, G. Larramona, S. Pons, J. Roulette, H.
+Sugiura, "Alfred Coehn and After: the a, /3, 1 of the Palladium-Hydrogen
+System," Trans. Fusion Tech., 26, 23 (1994).
+13. M. C. H. McKubre, S. Crouch-Baker,· s. I. Smedley, and F. L. Tanzella, "The
+Measurement of Excess Power in the D /Pd System under nearly Isothermal
+Conditions," presented at ICCF5 (this conference); (1995).
+14. P. L. Hagelstein and S. Kaushik, "Neutron Transfer Reactions," Proc. ICCF4,
+vol. 1, 10-1 ( 1994 ).

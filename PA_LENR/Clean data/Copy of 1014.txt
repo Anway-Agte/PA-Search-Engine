@@ -1,0 +1,104 @@
+1. Introduction
+
+A demonstration of our excess heat experiment was performed in Salt Lake City (SLC) at an American
+Chemical Society conference on March 23, 2009, the 20th anniversary of the announcement by
+Fleischmann and Pons that they had achieved nuclear fusion in a bottle. The apparatus for this
+demonstration was shipped from our Portland State University (PSU) laboratory. The electrolyte,
+containing sulfuric acid, a hazardous chemical, was to be shipped separately, with required precautions.
+However, the electrolyte did not arrive in SLC in time for the demonstration. Rather than cancelling the
+demonstration, commercial battery fluid was substituted for our electrolyte.
+
+
+2. Experimental methods and Results
+
+The battery fluid contained dilute sulfuric acid (Sp.G. !.265).This was further diluted with tap water.
+Therefore, the diluted electrolyte contained no heavy water. This was the electrolyte for the control cell
+(C cell). This cell contained a Pt foil anode, a Pd foil cathode, and hydrogen and sulfate ions in the
+electrolyte. The experimental cell (E cell) was identical except that it contained the same commercial
+battery fluid diluted with heavy water instead of tap water. This cell also contained a Pt foil anode and a
+Pd foil cathode, but the electrolyte contained both hydrogen ions and deuterium ions, in addition to
+sulfate ions. The cell components are given in Table 1.
+
+The two cells were connected in series to a direct current power supply which supplied constant current to
+both cells at almost the same voltage. Thus, the power input was almost identical for the two cells (about
+14 watts), but the power output was at least one watt higher for the C cell compared with the E cell. This
+result was totally unexpected. . The experiment in SLC was repeated, and the result was the same, i.e. the
+C cell produced more than one watt greater thermal power than the E cell.
+
+Our previous experiments used deionized water and pure sulfuric acid (Sp.G. 1.84) for the C cell
+electrolyte, and pure heavy water and the same sulfuric acid for the E cell electrolyte. A typical excess
+heat result was about 0.8 watt higher power output from the E cell. This was the result which we
+demonstrated at ICCF10 in Cambridge, MA in 2003.
+
+After electrolysis for about two hours, the demonstration was stopped, the electrolyte was removed, and
+the apparatus was shipped back to PSU. The C cell cathode was removed from the cell and examined.
+Whereas it originally was a flat, silvery foil, it is now black and bent lengthwise to a curved surface which
+was concave to the anode during electrolysis. It was then examined with a scanning electron microscope
+(SEM) equipped with an energy dispersive spectrometer (EDS). Fig. 1 shows the pitted topography on
+the concave side of a Pd cathode after electrolysis for about two hours in light water electrolyte. A
+characteristic x-ray spectrum was taken by scanning the electron beam over the entire area of Fig. 1. The
+only elements detected in this spectrum were C, O, Al, Pd, and Pt. The origin of C is not known, O, Al,
+and Pt are thought to result from the Pt-Al2O3 recombination catalyst suspended above the electrolyte. Pt
+could also be produced by electroplating Pt dissolved from the anode. 
+
+Table 1. Cell components for experiment on 3-23-09 in SLC. 
+
+In Fig. 1 the gray areas contain mostly Pd, the white areas contain mostly electroplated Pt , and the black
+holes contain mostly Pd with statistically significant Ag. The ratio Ag/Pd averages 0.06 for 9 black holes.
+This Pd/Ag ratio for each of these nine black holes is given in Table 2.
+
+The area shown in Fig. 1 was chosen for intensive study because it is highly pitted. One possible
+explanation for the pitting is that localized melting and vaporization occurred. Such events seem unlikely
+with only 14 watts input energy. Another possibility is that chemical dissolution occurred. If so, a more
+uniform topography would be expected instead of the pitted surface shown in Fig. 1. In previous research
+localized concentrations of anomalous elements were found on surface asperities [1] and in pits [2] The
+SEM electron beam, less than 1µm diameter, was focused on the asperity or pit. This resulted in the
+emission of characteristic x-rays from all of the elements present. The x-rays were detected and processed
+to produce a spectrum from each pit. Carbon, atomic number 6, and all elements of higher atomic
+numbers, could be detected and quantified by this method.
+
+Table 2. Silver content at various locations in the black pits shown in Fig. 1. Statistically significant (>3 sigma)
+amounts of Ag were found in nine of 14 pits which were analyzed. The spectrum obtained by scanning the electron
+beam over the whole area of Fig. 1 (wa) did not contain Ag.
+
+Fig. 1 - Micrograph of the concave side of the Pd cathode after about two hours electrolysis in light water electrolyte. 
+
+Fig. 2 - Topography of a hotspot on the convex side of a Pd cathode after electrolysis for about two hours in light 
+water electrolyte, SLC 3-23-09. Twelve of 14 black holes contained statistically significant Ag (>3 sigma). The 
+average ratio Ag/Pd was 0.09, and the range was 0.06 to 0.14. 
+
+
+3. Discussion 
+
+We now examine the possibility that the silver detected in the black holes originated from environmental 
+contamination, such as impurities from the tap water. This seems unlikely because deposition occurs 
+preferentially on asperities, not in pits. The black holes in figures 1 and 2 are rimmed with white particles 
+which are almost pure platinum. We suggest that miniature explosions occurred, leaving behind pits 
+containing Ag, which resulted from thermal neutrons absorbed by Pd. The unstable Pd isotopes then beta 
+decayed to form Ag and heat sufficient to form a localized pit. Pt then electroplated from the electrolyte 
+onto the rims, which were elevated above the original surface.  
+
+EDS measurements were also performed on the cathode from the E cell. Topography was similar to  that 
+found on the C cell cathode, and anomalous Ag was found in the pits. Our efforts were concentrated on 
+the light water C cell cathode because it produced more heat than the heavy water E cell. 
+
+We are currently using secondary ion mass spectrometry (SIMS) before and after electrolysis to 
+determine if there are changes in Pd isotopic abundance in our cathodes. 
+
+
+4. Conclusions 
+
+Excess heat was obtained from electrolysis with palladium cathodes in  cells containing acidified H2O 
+electrolyte compared with cells containing palladium cathodes and acidified D2O electrolyte. 
+
+Statistically significant, localized concentrations of silver were found in pits on the surfaces of palladium 
+cathodes after electrolysis. 
+
+The results for the light water cells were obtained using commercial battery acid diluted with tap water, 
+suggesting that highly purified chemicals are not necessary for LENR. 
+
+
+5. References 
+
+[1]. J. Dash, G. Noble, and D. Diman, Trans. Fusion Tech. 26, 299(1994). 
+[2]. J. Warner and J. Dash, Conf. Proc. 70, ICCF8, F. Scaramuzzi (Ed), SIF,Bologna, 2000, p.161. 

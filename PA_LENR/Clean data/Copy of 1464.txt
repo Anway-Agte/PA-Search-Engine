@@ -1,0 +1,47 @@
+REGISTRATION of SYNTHESIS of 45Rh102 in MEDIA of EXCITED NUCLEI of 28Ni58
+
+Igor V. Goryachev, DSc Russian Research Center “Kurchatov Institute” Oleg A. Trykov, PhD State Research
+Center “Physical Energy Institute”, City of Obnisk, Russia
+
+For the purpose of searching for heavy nuclei generated in the result of low energy nuclear
+processes we used samples of 28Ni58 which were bombarded with 27 MeV electrons from the Resonance
+accelerator MI-30. The samples of nickel of 48 mm in diameter and 20 mm thick were irradiated with
+electrons to the level of absorbed energy of around 2.5 106 J/cm3 which is approximately 5 times exceeds the
+minimum specific energy at which as it followed from the authors’ theoretical model the process of
+generating transmuted elements will become quite noticeable.
+
+The experimental work consisted in measuring gamma-spectra accompanying decay of radioactive
+nuclei generated inside Nickel samples in the result of photo nuclear reactions and other nuclear interactions.
+
+The Nickel samples of 48 mm in diameter and 10 mm thick were irradiated with 27 MeV electrons.
+After 9 months delay which resulted in decreasing the induced radioactivity the samples were measured with
+a Ge-Li detector of coaxial type that had resolution of 2.2 keV at 1.33MeV using a multichannel MatchMaker
+analyzer. The total count rate of the spectrometer was kept at the level at which the relative “dead time” did
+not exceed 3-5%. In order to limit the background the detector and the samples were placed inside a lead
+shield container with the thickness of the walls equal to 3 cm. with a purpose of increasing the relative
+amount of high energy gamma-quanta in the spectra to be measured and decreasing the intensity of “soft”
+gamma-quanta(Co57-122keV; 136keV0 thin filters of Pb(0.6 mm) and Cd(1.0 mm) were placed between the
+Ni-samples and the detector.
+
+All the spectra lines of gamma-quanta originating from the nuclides within the range from 39Y88 to
+77Ir192 were carefully analyzed with a special attention toward those of them which obtain the T1/2 periods
+from 100 up to 300 days. The information related to a number of those nuclides did not allow to come to a
+reliable conclusion about the presence or absence of the synthesized nuclei. It can be stated more surely about
+availability of such isotopes as 45Rh102, 76Ta182, 76Os185, 77Ir192. The most exactly the presence of 45Rh102 can
+be stated. Disintegration of this isotope is accompanied with irradiation of gamma-quanta with energies of
+475.1 keV and 556.41 keV. These energies in the spectrum were identified with maximum errors of 0.18 keV
+for the energy of 475.1 keV and 0.17 keV for the energy of 556.41 keV.
+
+While determining the specific intensities of gamma-quanta with such energies special careful
+attention was given to evaluation of the absence of energy coincidences in those energy regions. It was
+determined that those energy lines resulted from the coincidences have the energy resolution which is 1.5
+times worse than the resolution for the real energy lines of gamma-quanta at the same energies. At the same
+time the amplitudes of those lines are several decades of magnitude lower than the amplitudes of real energy
+lines.
+
+Based upon the careful analysis of the likely errors in identification of gamma-radiation of the
+synthesized nuclides it was determined that the error of their identification depends only from the statistical
+errors and the errors in calibration of the energy scale of the spectrometer.
+
+So, in the result of the careful analysis it was reliably determined that the synthesis of 45Rh102 from
+the nuclei and fragments of nuclei of 28Ni58 is a real experimental fact.

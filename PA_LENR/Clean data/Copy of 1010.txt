@@ -1,0 +1,181 @@
+INTRODUCTION. 
+
+In an experiment using a cell with one Pd and one Pt electrode in
+H2SO4-D2O electrolyte, the polarity was switched by mistake, so that the Pd became the anode
+and the Pt became the cathode 1. During the next four hours and many subsequent experiments,
+this cell produced excess thermal power compared with a control cell. Pd dissolves from the Pd
+anode and co-deposits with hydrogen isotopes on the Pt cathode. Co-deposition of Pd with
+hydrogen isotopes has been studied extensively by Szpak and Mosier-Boss 2.
+
+In this report we describe the results of co-deposition of Pd with hydrogen isotopes on a Pd
+cathode.
+
+
+EXPERIMENTAL METHODS AND RESULTS. 
+
+Closed cells were constructed using 200 ml
+Berzelius beakers (Pyrex, without pouring spouts), Teflon lids fitted to each beaker, perforated
+Teflon baskets filled with recombination catalyst and suspended above the electrolyte, and thin
+foil electrodes connected to platinum wires which were threaded through the Teflon tops, Fig. 1.
+
+A control cell and an experimental cell were identical except that the control cell contained two
+Pt foil electrodes and H2O-H2SO4 electrolyte, whereas the experimental cell contained a Pt anode
+and a Pd cathode, and D2O-H2SO4 electrolyte. The recombination catalyst was 0.5% Pd on
+coconut charcoal. The experimental cell electrolyte consisted of H2SO4 and D2O in the ratio
+1:6.7. The average temperature of each cell was determined with the aid of a data acquisition
+system which monitored three thin foil, type K thermocouples attached to the outside of each
+cell. One thermocouple was attached to the bottom of each cell, and one was attached opposite
+each electrode. The output of the thermocouples was monitored with an automated data
+acquisition system. The power supply was operated in the constant current mode, and the cells
+were connected in series. The cells were held in recesses cut into a Styrofoam base. Cell voltages
+were monitored with a strip chart recorder. The ambient temperature was monitored with a
+thermocouple in the space between the cells. Each cell was weighed before and after each
+experiment to determine the extent of energy losses due to incomplete recombination.
+
+Fig.1. Control cell used for electrolysis in series with an experimental cell.
+
+Fig. 2 shows the results of an experiment in which the control cell had greater power input
+throughout the 5.5 hour experiment, but the experimental cell temperature was about 3ºC higher
+at the end of the experiment.
+
+During the first 2700 seconds of the experiment, both cells had the same temperature, starting at
+21ºC and rising to 50 C. During this period the input power to the control cell was about 0.3 W
+greater than the input power to the experimental cell. Then the current to both cells was reversed,
+so that the anode of the experimental cell was now Pd and the cathode was Pt. Both electrodes of
+the control cell were Pt, but the cathode with a dark surface layer formed during prolonged
+electrolysis was now the anode.
+
+After the current was reversed, the power input to both cells dropped due to enhanced
+conductivity. The drop was much greater for the experimental cell than for the control cell,
+probably because Pd was dissolving from the anode and depositing on the cathode, thus
+increasing the surface area, which lowered the cell voltage. The control cell received 0.9 W more
+power than the experimental cell after electrolysis for 6500 seconds, but both cells had the same
+temperature (55ºC ).
+
+After electrolysis for 8700 seconds, the control cell was receiving 1.2 W more power than the
+experimental cell. Now the control cell temperature was almost 2ºC higher than the experimental
+cell. After 12000 seconds, there was no change in power input to the two cells, but the control
+cell temperature was about 3ºC higher. Now the current was again reversed, so that the Pd
+electrode in the experimental cell was again the cathode. The control cell voltage and
+temperature began to decrease and the experimental cell voltage and temperature began to
+increase. After a total of 16200 seconds of electrolysis, the control cell was receiving 0.15 W
+more power, but its temperature was now about 1ºC lower than the experimental cell. Now the
+cell voltages remained constant for the remainder of the experiment, but the temperatures
+continued to diverge. After 20700 seconds, the control cell was receiving about 0.2 W more
+power, but its temperature was now almost 3ºC lower than that of the experimental cell.
+
+Fig. 2. Temperature and power results for electrolysis of heavy water with a Pd cathode compared
+with a control. Pd dimensions: 2.5 cm x 1.25 cm x 0.035 cm. Constant current was 3 A and current
+density was ~ 0.5 A / sq cm. Error bars are embedded in the data points. Error for power values was +/-
+0.03 W and +/- 0.1 C for temperature.
+
+The power output of the experimental cells compared with the control cell was determined at
+steady state temperature, where the power input was equal to the power output. For the control
+cell at steady state,
+
+where,
+Vc is the cell voltage, I is the constant current, k is the heat transfer coefficient, Tc is the cell
+temperature, Ta is the ambient temperature, and dHc / dt is the rate of enthalpy loss due to
+incomplete recombination. The latter term is determined from the change in weight of the cell
+and the duration of the experiment. This equation is solved for k, which is then used in a similar
+equation for the experimental cell.
+
+In the equation for the experimental cell, a term for excess thermal power output is added on the
+left side to give, 
+
+where dHxs / dt is excess thermal power, and the subscript e refers to the experimental cell. If the right
+side of equation ( 2 ) exceeds VeI, the input power to the experimental cell, then excess heat is
+being produced by the experimental cell..
+
+The temperature and voltage for the control cell data at 27000 seconds, the constant current
+(3 A), ambient temperature (24ºC), and the rate of enthalpy loss caused by incomplete
+recombination are substituted into equation (1), and the heat transfer coefficient k is calculated.
+This k is substituted into equation (2), along with the temperature, voltage, and enthalpy loss data
+for the experimental cell. The excess thermal power is found to be 0.93 W. To estimate the
+accuracy of this result, the errors involved in power input and power output measurements must
+be estimated.
+
+The power input is the product of the constant, 3A cell current and the voltage. Because the cells
+are connected in series, the measurement error for the current has no significant net effect on the
+power input. The measurement error for cell voltage was +/- 0.01 V. Therefore, the error in input
+power measurements was +/- 0.03 W, which means that the error bars for input power are
+embedded within the data points for input power in Fig. 2.
+
+The power output is calculated from temperature and mass measurements. At the beginning of
+the experiment the control cell temperature was 20.9ºC +/- 0.02, the experimental cell average
+temperature was 21.0ºC +/- 0.1, and ambient temperature was 21.0ºC. The balance used for
+measurement of mass has a precision of +/- 0.1 g. Using this data, the uncertainty in the power
+output is estimated to be about +/- 0.1 W, and the calculated 0.93 W excess thermal power output
+is statistically significant. Subsequent runs gave similar results.
+
+After a total of 229 hours of electrolysis, the Pd cathode from the experimental cell was
+examined with a scanning electron microscope (SEM) equipped with an energy dispersive
+spectrometer (EDS) in order to characterize surface topography and microchemical composition.
+Fig. 3 is a low magnification photograph of a portion of the Pd cathode. The topography is
+varied. The relatively smooth area enclosed in the white rectangle was examined at higher
+magnification, Fig. 4. 
+
+Fig. 3. SEM photograph of a portion of the Pd cathode from the experimental cell. The area
+within the rectangle was enlarged (Fig. 4).
+
+The topography in Fig. 4 is quite varied. The bright, dendritic particles may have resulted from
+electrodeposition of Pd and Pt after the current reversal, as indicated in Fig. 2. The EDS
+characteristic x-ray spectrum shown in Fig. 5 was obtained from the bright particle indicated by
+arrow 1. By fixing the electron beam in the SEM on a spot, it is possible to obtain chemical
+analyses from about 1 cubic micron on the surface of a specimen. The spectrum in Fig. 5
+indicates that the chosen spot contains about 63 weight percent (wt.%) Pd, 24 wt.% Pt, and 13
+wt.% C.
+
+Fig. 4. Enlargement of area within the white rectangle in Fig. 3. The arrows 1, 2, and 3
+point to spots from which characteristic x-ray spectra were obtained.
+
+Fig. 5. Characteristic x-ray spectrum from a point on a white particle on the surface of the Pd
+cathode from the experimental cell. Arrow 1 indicates the location of this point. The most
+prominent peaks in the spectrum are from Pd, Pt, and C. Pt slowly dissolves from the anode and
+deposits on the cathode, and C most likely comes from the charcoal catalyst. The Pd Lα peak 
+occurs at 2.84 keV, and the Pd Lβ peak occurs at 2.99 keV. The intensity ratio, Pd Lβ / Lα , is
+expected to be 0.42 3. In this spectrum this ratio is 0.45.
+
+Arrows 2 and 3 indicate two spots on the smooth, dark area shown in Fig. 4. The spectrum in
+Fig. 6 was obtained from the spot indicated by arrow 2.
+
+Fig. 6. Characteristic x-ray spectrum from the dark spot indicated by arrow 2 in Fig. 4. The ratio
+Pd Lβ / Pd Lα is 0.61. This is an increase of 36 % compared with the spectrum in Fig. 5. This
+increase may be due to overlap with Ag Lα , which occurs at 2.98 keV. If so, then quantitative
+analysis indicates that this spot contains about 7 wt.% % Ag.
+
+Quantitative analysis of the spectrum in Fig. 6 gave 4 wt.% C, compared with 13 wt.% C from a
+bright spot (Fig. 5). The other elements in the spectrum, Pd and Pt, are in approximately the
+same ratio as in Fig. 5. Another difference in Fig. 6 compared with Fig. 5 is that the Pd Lβ / Pd 
+Lα ratio is 0.45 in the latter compared with 0.61 in the former. This difference is possibly due to
+the presence of Ag , for which the Lα peak occurs at 2.98 keV compared with 2.99 keV for Pd 
+Lβ. If this interpretation is correct, then spot 2 in Fig. 4 contains about 7% Ag. 
+
+Fig. 7. Characteristic x-ray spectrum from black spot indicated by arrow 3 in Fig. 4. Here the Pd
+Lβ / Pd Lα ratio is 0.71. This is a 58 % increase compared with this ratio in Fig. 5. If this
+increase is caused by overlap of Ag Lα with Pd Lβ , then quantitative analysis indicates that this
+spot contains about 10 % Ag.
+
+The spectrum in Fig. 7, obtained from the black spot indicated by arrow 3 in Fig. 4, is similar to
+the Fig. 6 spectrum. In Fig. 7 the Pd Lβ / Pd Lα ratio is 0.71, compared with the expected 0.42
+for pure Pd 3. If this increase is caused by the presence of Ag, then the amount of Ag is about 10
+wt.%.
+
+
+DISCUSSION OF RESULTS. 
+
+The experiment described here shows that
+co-deposition of Pd with hydrogen isotopes enhances the production of excess enthalpy. Szpak
+and Mosier-Boss also reported excess enthalpy from their co-deposition experiments 2. In
+addition, localized changes in the ratio of Pd characteristic x-ray peak intensities suggests the
+presence of Ag in these microscopic areas. Confirmation of the presence of silver by some other
+method such as mass spectroscopy is necessary.
+
+
+REFERENCES.
+
+1. C. Cano, M.S. Thesis, Portland State University, 2002.
+2. S. Szpak and P. Mosier-Boss, Thermal and Nuclear Aspects of the Pd/D2O System,
+Technical Report 1862, SSC San Diego, vol. 1, p.7, 2002.
+3. G. G. Johnson, Jr. and E. W. White, ASTM Data Series DS 46, American Society for
+Testing and Materials, 1970, p. 4.

@@ -1,0 +1,92 @@
+Celani Demonstrations, August 2012
+•
+NI Week: Excess heat1 ~14 W (CoP ~1.2)
+•
+ICCF-17: Excess heat1 ~6 W (CoP ~1.1)
+•
+Considerable interest expressed in LENR Community
+
+
+Overview of Demonstration
+•
+Treated Constantan (Cu-Ni alloy) wire
+•
+Hydrogen (protium, deuterium) gas
+•
+Dissipation calorimeter (Stefan-Boltzmann Law)
+•
+Borosilicate glass, with wire wrapped around mica insulation
+•
+~57 W input power1
+
+
+Celani Reactor/Calorimeter, ICCF-17, August 2012
+
+
+Important Parameters
+•
+Excess heat
+•
+Electrical resistance reduction (hydrogen loading)
+•
+Treated wire properties (material properties, elemental composition)
+•
+Supplemental: radiation, transmutation
+
+
+Celani Provided Samples to Investigators for Verification Objectives of NI-UT Initiative
+•
+Document Celani wire experiments for verification
+•
+Identify lessons learned and best practices
+
+
+Six Entities Investigating Celani Constantan Wires
+
+1. Sidney Kimmel Institute for Nuclear Renaissance (SKINR) 
+−Excess heat not observed 
+−Resistance reduction possibly observed 
+−Celani-type layering not observed 
+−Probable non-verification 
+
+2. Martin Fleischmann Memorial Project 
+−Excess heat possibly observed 
+−Resistance reduction observed 
+−Wire layering observed 
+−Probable verification 
+
+3. Ubaldo Mastromatteo 
+−Excess heat observed 
+−Resistance reduction observed 
+−Wire layering observed 
+−Verification 
+
+4. Larry Forsley 
+−Excess heat not observed 
+−Resistance reduction possibly observed 
+−Celani-type layering not observed 
+−Probable non-verification 
+
+5. Chava Energy 
+−Excess heat not observed 
+−Resistance reduction observed;  
+not attributed to H2 loading 
+−Celani-type layering not observed 
+−Probable non-verification 
+
+6. Idrocell (Reactor Cell under Construction) 
+
+
+Summary of Verification Results 
+
+
+Lessons Learned/Best Practices 
+• LENR not as robust as indicated in demonstrations 
+• Experiments begin with replication, then proceed to reproducing effect 
+• Dissipation-type calorimeter needs verification (e.g., mass flow) 
+• Reactor calibration required with each experimental setup 
+• Resistance reduction may be influenced by factors besides H loading 
+• Metallurgy of treated Constantan more complicated than thought 
+• Proper temperature profile essential for accurate calorimetry 
+• Lack of verification in this survey does not negate possibility of LENR  
+

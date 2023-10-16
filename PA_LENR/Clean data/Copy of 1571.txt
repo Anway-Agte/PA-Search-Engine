@@ -1,0 +1,153 @@
+1. Introduction
+
+We have continued our theoretical efforts to develop models that are relevant to the
+experimental claims of the observation of anomalies in metal hydrides. Of these anomalies,
+we have been particularly interested in heat generation both in heavy water and in light water
+systems, electrochemically induced radioactivity, tritium production and neutron emission.
+There have been a rather significant modification in our direction over the course of the past
+year, resulting in new models that appear to be more closely related to the experimental
+claims.
+
+
+2. Failure of the Neutron Hopping Model
+
+We proposed that inelastic neutron hopping might account for the claimed heat and
+tritium production in experiments involving metal hydrides and deuterides.2 The potential
+advantage of neutron hopping as a mechanism was that neutrons experience no Coulomb
+barrier, thus removing the Coulomb barrier problem. Neutron hopping with the exchange of
+low momentum virtual neutron states appeared to be the only possible mechanism for tritium
+production, which must be produced with nearly zero kinetic energy to be consistent with
+the observed lack of secondary dt-fusion neutrons that would accompany energetic tritium
+nuclei.
+
+Potential problems associated with this proposal were recognized early on by this author
+and by other theorists. The basic problem is that it is not obvious that neutrons can hop from
+one nucleus to a distant (on the Fermi scale) nucleus. While it was clear that significant
+energy exchange with the lattice would be required for heat and tritium production, the
+initial attempts at developing a model for this process suggested that neutron delocalization
+might occur without MeV-level energy input from the lattice.
+Subsequently, the neutron hopping model was analyzed in great detail. A basic quantitative
+understanding of both elastic and inelastic neutron hopping is now believed to be
+in hand, and the results indicate that no neutron hopping is possible without MeV-level
+energy transfer from the lattice. While a very large sub-threshold virtual neutron hopping
+effect is predicted, the effect would require more than 5 MeV input energy from the lattice,
+which was not appreciated in our previous work. There are two important consequences
+of this observation: (1) neutron hopping driven by such large lattice energy transfer would
+be accompanied by real neutron emission (not in agreement with experiment); and (2) that
+many other observable effects are predicted to be observable at much lower energy transfer.
+We have therefore turned our attention back to lattice-induced reactions at lower energy
+transfer.
+
+
+3. The basic energy transfer model
+
+Atomic and nuclear reactions that occur within a lattice ( and that involve energy transfer
+with the lattice) can be be described in general through Fermi's Golden Rule using coupled 
+lattice and nuclear states 
+where the interaction operator depends on both nuclear and lattice coordinates. The pro­
+totypical interaction operator includes recoil and lattice rearrangement; these effects can be 
+modeled using site-dependent interaction operators of the form 
+The first term on the RHS describes momentum exchange through recoil; the second term 
+describes lattice mode rearrangement (e-iSn is a Duschinsky operator).
+ 
+Modeling anomalous energy transfer requires operators that are capable of transferring 
+large amounts of energy when a reaction occurs. The recoil operator is well known in 
+condensed matter, and in our view cannot support anomalous energy transfer. Mode re­
+arrangement fundamentally involves operations on all excitation present; consequently, the 
+Duschinsky operator is potentially capable of mediating anomalous energy exchange, given 
+a large initial excitation of an initial state mode that projects into final state modes with a 
+finite energy spread. 
+
+For anomalous energy transfer through this mechanism, we require an initial strong 
+excitation of a phonon mode, either through the presence of a phonon laser or through 
+strong coherent excitation. We have conjectured that exothermic desorption may drive a 
+phonon laser. For this mode to project into final state modes with a large energy spread, it 
+probably needs to be in the band gap away from other modes (we are considering nonlinear 
+frequency shifting of a mode near the band gap). Mode rearrangement would be driven by a 
+change in the vacancy distribution, and hence involve vacancy modes. The resulting energy 
+transfer would then occur as fluctuations, with an energy transfer on the order of 
+We suggested previously that a larger energy exchange (proportional to Nph) might be 
+possible; but this can be shown to be inconsistent with moment theorems that apply to 
+phonon mode rearrangement. 
+
+The resulting theory leads to reaction rate predictions of the form 
+where 10(t:) is the reaction rate assuming that an energy Eis transferred, and P(t:) is the as­
+sociated probability. For energy transfer by fluctuations, the probability would be described 
+locally by a Gaussian distribution 
+
+
+4. Understanding experimental claims with the model
+
+Within the framework of the model, different effects would be induced depending on the
+amount of energy transfer, the number of vacancies present, and on the type and abundance 
+of impurities. For energy transfer on the order of 10s to 100s of eV, atomic recoil would be 
+predicted; a possible observable might be atomic hydrogen or deuterium ejection from the 
+surface. At the keV-level of energy transfer, deuteron recoil would lead to low level dd-fusion 
+neutron production and electron recoil from light isotopes. Above about 100-200 keV of 
+energy transfer, beta decay and electron capture reactions would be induced; these would be 
+sensitive to the presence of vacancies since the recoil energy imparted to moderately heavy 
+nuclei is low. Above about 1.5 MeV of energy transfer, alpha decay reactions would become 
+dominant. Significantly larger energy transfer (more than about 5 MeV) does not presently 
+appear to be likely, but would induce other more energetic effects. 
+
+Figure 1: Alpha decay energy as a function of Z.
+
+Heat production in this model would come about from lattice-induced exothermic alpha 
+decays of heavy nuclei that are present (see Figure 1 ). The optimum naturally occurring 
+"fuel" isotope in this picture is 147Sm; others are listed in Table I. For example, Pt is present 
+in many heat-producing experiments at low levels; in this model, some of the Pt are candidate 
+fuels for heat production (see Figure 2 for a comparison of the lattice-induced decay rate for 
+Pt compared with that of other elements). If this basic mechanism is correct, then significant 
+prompt gamma emission should be observable as lattice-induced alpha decay would give a 
+finite yield of excited state daughters. 
+
+Tritium production would come about from lattice-induced alpha decay of 7Li (at 2.47 
+MeV of energy transfer). The reaction rate is computed to approach its maximum for lattice 
+i 1ccF-6 October IJ-18, 1996 Japan 
+Fundamental Session 
+Nuclear Physics Approach 
+transfer energies only a few keV above threshold; such a mechanism has the potential to 
+account for slow tritium formation at low levels. The related lattice-induced decay of 6Li ( at 
+1.47 MeV of energy transfer) would similarly produce deuterons with keV-level energy, that :
+could result in low-level dd-fusion neutrons. Lattice-induced alpha decay of light nuclei, if it 
+occurs, could be studied through lattice-induced 9Be decay which would lead to fast neutron
+production as a primary observable. 
+
+Table I: Lattice-induced alpha decays of alpha unstable naturally occurring isotopes. Qcx
+is the alpha decay energy. The isotopes in this table are ordered by the characteristic 
+lattice energy  E(l) required for a 1 sec1 decay rate.
+
+Figure 2: Element-averaged lattice-induced alpha decay rates per nucleus. 
+
+
+5. Modeling cathode activation
+
+Cathode activation in this model could come about in the absence of heat through lattice­
+induced beta decay. Calculations for some of the attractive candidates for lattice-induced 
+beta decay are shown in Figure 3. 
+
+Such a mechanism is proposed to account for the cathode activation described by Passell 
+at ICCF5. 5 We attempted to use the model to fit some of the experimental data from this 
+experiment, assuming that the observed radioactivity is due to lattice-induced beta decay of 
+Pd and ppm levels of Ru, Rh, Ag, and Cd impurities. While the comparison is imperfect, 
+the data appears perhaps to be most consistent with a Gaussian energy transfer model 
+described by Jo ~ 0.05 and & ~ 350 keV. This level of energy transfer is too low to produce
+detectable heat production. The relatively large value of Jo within the model would have 
+the interpretation that energy transfer was allowed on essentially a CW basis throughout 
+the activated region, presuming the presence of host lattice vacancies at the per cent level. 
+
+The results of this comparison are inconsistent with the presence of an optical phonon 
+laser, as we had proposed earlier. It is more consistent with an acoustic phonon laser, 
+combined with nonlinear coupling between acoustic modes and vacancy modes within the 
+band gap as we proposed at ICCF5. 
+
+Figure 3: Lattice-induced beta decay rates for isotopes with low thresholds for allowed 
+transitions. 
+
+References 
+1. P. L. Hagelstein, EPRI final report (1996).
+2. P. L. Hagelstein, ICCF5 Proceedings (1995).
+3. P. L. Hagelstein, Hyperfine Interactions 92 1059 (1994).
+4. P. L. Hagelstein, Trans. Fusion Tech. 26 461 (1994).
+5. T. Passell, ICCF5 Proceedings (1995).
+I JCCF-6 October JJ-18, 1996 Japan 

@@ -1,0 +1,308 @@
+1. Introduction
+
+In computer simulations using molecular dynamics methods, it was previously shown that the electrons of the outer
+shells of metals have a shielding effect on deuterons and significantly accelerate nuclear fusion reactions. The results of
+quantitative calculations of the reaction rates of hydrogen isotopes in a number of metals are published in Refs. [1]–[6].
+In this paper, we model the behavior of hydrogen atoms in the flow of free electrons in metals.
+
+1.1. Description of the Model:
+At the first stage, within the frame of classical (non-quantum) mechanics, the behavior of a single deuterium atom is
+simulated when acted upon by a flow of free electrons7
+. It is assumed that the particles do not radiate electromagnetic
+waves. The system consists of a deuteron and two electrons. At the initial moment, one of the electrons (orbital) is in
+the circular orbit of Bohr radius 0.529 ˚A. The flow of incoming electrons is isotropic; the impact parameter is limited
+by the value 0.53 ˚A.
+
+The incoming electrons appear at the 1 ˚A distance from the deuteron; the kinetic energy of the incoming electrons
+follows the Fermi distribution with the parameters characteristic of free electrons in a Pd crystal at room temperature8
+:
+
+f(ε) = const√
+ε/{1 + exp[(ε − ε
+∗
+)/kT]},
+
+where ε
+∗ = h
+2
+(3ne/π)
+3/2/8me is the so-called characteristic energy, nedesignates the free electrons concentration,
+h is Planck’s constant, k is the Boltzmann constant; and the absolute temperature T is assumed to be equal to 350 K.
+According to Ref. [3], we assume that for every atom there is a single free electron. Then ne ≈ NA · ρ/A. For
+palladium, ne ≈ 6.8 × 1022cm−3
+, ε
+∗/k ≈ 7 × 104 K. The average kinetic energy of free electrons in palladium is
+3ε
+∗/5 ≈ 3.6eV, the average electron velocity v ≈ 1.13 × 108
+cm/s.
+
+After random initial conditions have been specified, particle trajectories are calculated by numerically solving a
+system of differential equations of mechanics. Relativistic equations are used but without allowance for magnetic
+effects, i.e. the particle interaction is considered purely Coulomb interaction. The system of equations is solved by
+Runge-Kutta method of the fourth order with the relative error less than 10−5
+.
+
+As has already been mentioned, at any instant three particles can be tracked, i.e., two electrons and one deuteron.
+When one of the electrons travels at a distance exceeding 10 ˚A, the remaining system (unsteady state of deuterium
+D
+∗
+atom) is bombarded by a new free electron, etc. Nmax = 104 model experiments have been conducted. Number l
+of free electrons collisions with the D∗
+“atom” could reach up to lmax = 100.
+
+When one of the electrons approached the deuteron at a distance less than 10−13 cm, trajectories were no longer
+calculated. This implementation of incoming electron parameters was excluded from consideration and a transition to
+a new implementation of a system took place with an initial Bohr orbit of the deuterium atom. Therefore, the number
+of simulated D∗
+“atoms”, which underwent l collisions with electrons, N(l) < Nmax. For instance, N(10) = 9101,
+N(50) = 3331, N(80) = 1489, N(100) = 847. The total number N* of simulated D∗
+“atoms”
+
+N∗ =
+l
+Xmax
+l=1
+N(l) = 420748 < Nmax × lmax = 106
+.
+
+A high proportion of electrons collisions with D∗
+results in the decreased energy of D∗
+and its size. For the D∗
+size
+the distance r from the electron to the deuteron is taken at the apogee of the orbit. The size distribution density of D∗
+,
+which underwent l collisions with electrons, will be designated as f(r|l).
+
+We had to exclude from our consideration trajectories in the region of small distances in order to prevent the
+degradation of the trajectories calculation accuracy and to enhance the program response. Special calculations showed
+that for a significant proportion of neglected trajectories there was a pronounced trend for the electron impingement on
+the deuteron, which could have resulted in the formation of a bineutron. The program, however, was not yet sufficient
+to calculate this process accurately enough. Part of the neglected trajectories could have also lead to the formation
+of D∗ of even smaller sizes. Those two possibilities potentially can significantly increase the theoretically estimated
+value of the fusion reaction rate and require supplementary research. For the time being, we assume that under more
+accurate trajectories calculation all the excluded implementations result in the formation of D∗ whose size obey the
+same distributions f(r|l). In this connection, distributions are normalized similarly for any l:
+
+Z ∞
+0
+f(r|l)dr = 1.
+
+The number l of the D∗
+“atom” collisions with free electrons obeys Poisson distribution Pa(l) with the parameter
+a; the average number of collisions a is proportional to the electron flow density and time.
+
+The main contribution to the reaction rate make small D∗
+(r∼10−11 cm), that have a high mobility. So, the crystal
+lattice does not strongly interfere with D*-D* collisions. Let n and N be the concentration and full quantity of D∗
+atoms
+in the working volume of crystal. The proportion of deuterons λ, which reacted in a unite time (fractional reaction rate
+λ) is equal to:
+
+λ(a) = −
+1
+N
+dN
+dt =
+l
+Xmax
+l=0
+l
+Xmax
+m=0
+Pa(l)Pa(m)λ(l, m),
+λ(l, m) = n
+2
+Z ∞
+0
+dr1
+Z ∞
+0
+dr2f(r1|l)f(r2|m)
+Z ∞
+0
+dEvσ(v)FM(E),
+
+where v is the relative speed of deuterons, E = µv2/2; µ – reduced mass of deuterons pair; FM(E) – Maxwell
+distribution at room temperature normalized as:
+
+Z ∞
+0
+FM(E)dE = 1.
+
+The cross-section of D∗−D
+∗
+-collisions resulting in a fusion reaction in the quasiclassical approximation is σ(v) =
+S0P(E)/E, where S0 = 0.55 × 10−19 cm2
+eV;
+
+P(E) = exp
+−
+4π
+h
+Z R
+0
+p
+2µ[V (r) − E]dr!
+,
+
+where R = V
+−1
+(E) is the turning point of a classical trajectory.
+
+It will be assumed that D∗
+“atoms” with the shell sizes r1, r2 move freely if the “shells” do not overlap, i.e., if
+the distance between the D∗
+“atoms” is r > r1 + r2. If the “shells” overlap, a purely Coulomb repulsion of the D∗
+“atoms” is observed. The potential deuterons interaction energy in this approximation is equal to
+
+V (r) = 
+e
+2/r − Es if r < r1 + r2,
+0 if r > r1 + r2,
+
+where Es = e
+2/(r1 + r2) = mec
+2
+re/(r1 + r2) is the screening energy, re = 2.82 × 10−13 cm is the classical radius
+of an electron. By integration, we obtain
+
+P(E) = exp 
+−993.09 eV1/2
+/
+p
+E + Es
+
+.
+
+Since at any energy E contributing to λ there holds a condition E << Es, the approximation P(E) ≈
+P(0), FM(E) = δ(E − E) can be used where E = 3kT /2. Then 
+
+λ(l, m) = C Z ∞ 0 dr1 Z ∞ 0 dr2f(r1|l)f(r2|m)W(r1 + r2), 
+
+where C = (nS0/2)(2/µE) 1/2 , W(r1 + r2) = exp  −1.39p (r1 + r2)/re  .
+
+Taking into account the probabilistic sense of f(r|l), the reaction rates λ(l, m), λ(a) could be approximately calculated by the formulas 
+
+λ(l, m) = C N(l)N(m) N X (l) i=1 N X (m) j=1 W(r (l) i + r (m) j ), λ(a) = C X N ∗ i=1 X N ∗ j=1 Pa(l(i))Pa(m(j)) N(l(i))N(m(j)) W(ri + rj ),
+
+where ri
+(l)
+, i = 1, 2, 3,. . . , N(l) are random implementations of the D∗
+“atom” size with l collisions of electrons; ri
+,
+i = 1, 2, 3. . . , N
+∗ denotes the complete set of implementations. Let every octahedral site contain a deuterium atom.
+Then the deuterium concentration n = 6.8 × 1022 cm−3
+; at T = 350 K, C = 1.2 × 1010 s
+−1
+.
+
+
+2. Calculation Results
+
+Recall that f(r|l) is the size distribution of the atom that has experienced l collisions with electrons. The simulation
+showed that the distributions of f(r|l), starting from about l = 50, are almost the same with a further increase in l (see
+Figure 1). The equilibrium distribution can be close to that found if the characteristic time of the quantum relaxation
+of the “miniatom” exceeds 10−13 s.
+
+Table 1 presents the number of events with the size r and the number of collisions l from the different ranges; ∆N∗
+is the total number of events with l from these ranges.
+
+Table 2 shows the dimensions of the 10 smallest “miniatoms” of deuterium D∗
+, which have r ≤ 2×10−11cm. The
+“orbits” are usually very elongated: rmin << r, so using the value r as the size of the “atom” should lead to a lower
+estimate of λ.
+
+Figure 2 shows the functions λ(l, l) and λ(a). Averaging λ(a) over a ≤ lmax, which is equivalent to averaging over
+time, leads to the result λ ≈ 2 × 10−4
+s
+−1
+, which is 106
+times greater than the value obtained in Refs. [2] and [4]
+
+Table 1. Number of events with r and l from the indicated ranges
+
+Table 2. Sizes of D* “atoms” at the apogee of r and at the perigee rmin in units of 10−11 cm. l is the number of
+electron collisions with D*
+
+Figure 1. The size distributions of “atoms” D*, averaged over the number l of collisions with electrons: a − l = 1 ÷ 20; b − l = 21 ÷ 40;
+c − l = 41 ÷ 60; d − l = 61÷ 80; e − l = 81 ÷ 100.
+
+on the basis of the dynamic model of electron orbital deformation (EODD). Taking into account that λ(a) somewhat
+increases with the increase in a, the obtained average λ should be treated as a lower-bound estimate. The contribution
+of 370 events presented in Table 2 to the obtained value of λ is 99%, including the contribution of 10 events from
+Table 1 amounting to about 80%.
+
+
+3. Discussion
+
+The application of classical mechanics usually provokes objections because classical mechanics enables one to put a
+shielding charge at any point and impart it any initial velocity (e.g., zero velocity). We deem it therefore important to
+emphasize that the equiprobable initial conditions we employed correspond to the real-life situation. In addition, the
+applied approach, which could be called the Bohr approach, is not a purely classical one, since the radiation has been
+“turned off”. Quantum-mechanical models allowing for elastic processes only give a sufficiently accurate description
+of real physical processes for a very wide range of phenomena.
+
+It should be noted that from the quantum-mechanical viewpoint, D∗
+is not a kind of a hypothetical atomic state
+with energies lower than that of the ground state. D∗
+should be treated as an unsteady structure within many-particle
+nonradiating system.
+
+We indicate a possible mechanism for the occurrence of such configurations under the action of a flow of free
+electrons, having previously made an estimate of the collision frequency of the “atom” D* with electrons. It was said
+above that the maximum value of the impact parameter of the incoming electrons in our calculations was equal to
+rB, and any outcome was counted as a collision. The average number of such collisions of an “atom” with electrons
+
+Figure 2. Reaction rate. Dashed line denotes λ(l, l); solid line designates λ(a).
+
+during time t is equal to a = Φπ r2
+Bt, where Φ = nev ≈ 7.7·1030 cm−2
+s
+−1
+is the density of the flow of free electrons
+in a palladium crystal. The average time between two successive collisions of an “atom” with free electrons is equal
+to ∆τ = 1/Φπ r2
+B ≈ 1.5 · 10−15s. In some cases, as a result of the interaction of electrons, one of them (flying or
+orbiting, let’s call it “electron 1”) can fly a sufficiently large distance (several Å) from the deuteron; for a while (∆t)
+it seems to be out of the game, since it is far away and does not determine the size of the “atom”. But it takes away
+some of the energy, which leads to the fact that the remaining electron (“electron 2”) will make revolutions around the
+center along an open trajectory, which we will call a “non-stationary orbit”; its average dimensions are smaller than
+the original dimensions of the atom and during ∆t these determine the actual dimensions of the “atom”. The returned
+electron 1 returns part of the energy to electron 2, which as a result flies away to infinity. If the final energy of the
+atom is not less than the initial energy, then such a classical movement of electrons does not contradict the fact of the
+existence of a lower energy stationary state of the atom. Since electron 1 can fly far enough away, a non-stationary
+orbit may well exist for a time of order ∆t = 10−15s; then it is very likely that it will be exposed to the next free
+electron, and this may lead to the formation of a non-stationary orbit of an even smaller size, etc.
+
+
+4. Conclusions
+
+Dynamic modeling without taking into account quantum effects predicts the formation of non-stationary particles
+consisting of protons (deuterons) with an electron rotating around them in orbits close to elliptical, with an apogee of
+∼10−11 cm and a perigee of ∼ 10−12 cm. These “mini-hydrogen atoms”, which vary in size and shape, are up to 3-4
+orders of magnitude smaller than ordinary hydrogen atoms, but 1-2 orders of magnitude larger than neutrons. They
+can exist and move in the environment of free electrons of metals, and, like neutrons, approach the nuclei of isotopes
+of hydrogen or other elements at a distance at which, due to the tunneling effect, nuclear reactions of synthesis or
+transmutation of elements are possible. The formation of such atoms increases the previously calculated rate of nuclear
+reactions in metals1-6 by 5-6 orders of magnitude, that is, to values corresponding to experimental data.
+
+
+References
+
+[1] V. A. Kirkinskii, Yu. A. Novikov. A new approach to theoretical modelling of nuclear fusion in palladium deuteride, Europhysics Letters, vol. 46, No.4, pp. 448–453, 1999.
+[2] V. A. Kirkinskii, Yu. A. Novikov. Theoretical modeling of cold fusion. Novosibirsk State University, Novosibirsk, 105 p,
+2002.
+[3] V.A. Kirkinskii, Yu. A. Novikov. Numerical calculations of cold fusion in metal deuterides. In the book: “Condensed Matter
+Nuclear Science”, Proceedings of the ICCF-9, ed. by Xing Z. Li, Beijing, pp. 162–165, 2003.
+[4] V. A. Kirkinskii, Yu. A. Novikov. Modelling of dynamic screening effects in solid state, Europhysics Letters, vol. 67, N 3,
+pp. 362–367, 2004.
+[5] V.A. Kirkinskii, Yu. A. Novikov. Calculation of nuclear reaction probability in iron hydride and the problem of nucleosynthesis in the Earth‘s interior, in the book “Condensed matter nuclear science”, Proc. of ICCF-9, ed. by Xing Z. Li, Beijing,
+pp. 166–169, 2003.
+[6] V. A. Kirkinskii, Yu. A. Novikov. Calculation of nuclear reaction probabilities in a crystal lattice of titanium deuteride. In the
+book “Condensed matter nuclear science”, Proc. of the ICCF-10, 2003, Cambridge Massachusets, ed. by P. L. Hagelstein and
+Scott R. Chubb, World Scientific, New Jersey, London, Singapore, Beijing, 2006, pp. 681–685.
+[7] A. I. Goncharov and V. A. Kirkinskii. Theoretical modeling of electron flow action on probability of nuclear fusion of
+deuterons. In the book: Progress in condensed nuclear science, World Scientific, Proc. of ICCF-12, Yokohama 2005,
+pp. 582–586, 2007.
+[8] R. H. Fowler and E. A. Guggenheim. Statistical Thermodynamics (Cambridge University Press, 1939).

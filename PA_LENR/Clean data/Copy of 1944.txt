@@ -1,0 +1,53 @@
+1. Introduction
+
+Begining with the famous work of Fleischmann and Pons on cold fusion /1/ the investigators of anomalous nuclear phenomena in condensed matter did not succeed
+in getting 100 % reproduction of the results on observa­ tion of emission of nuclear reactions products. All the.se experiments were carried out with solids on the basis of systems metal-hydrogen, neither the structure nor crystallographic orientation being non controlled. Unlike all other experiments carried out earlier for achieving of high level of reproduction we used princi­ pally new materials as investigation objects: monocrys­ tals of oxide tungsten bronzes (OTB) of non stoichio­ metric compounds, having general formula Na WO . The facet (100) of the crystal was a working su?fade and
+the channels of rigid W-0 sublattice being perpendicular to it. Alkali metal cations are placed and can move in
+241
+these channel�o In dependence on the content of alkali metal in OTB in consequence of change of valent state of tungsten in sublattice W-0, electronic conductivity of OTB can very greatly. It allows to create structures with high gradients of composition and properties con­ ditioned by it.
+
+
+2. Methods
+
+Natrium may be extracted from channels in surface layer of bronze crystal and replaced by hydrogen ions by electrochemical methods (anodic treatment in salt melts, water solutions or vacuum).
+The main part of experimental installation is a hermetic chamber of stainless steel. Anode and cathode consisted of tungsten plates situated one over another are inserted into the chamber. Monocrystal of natrium tungsten bronze of Na0 9wo1 composition in the form of a plate 10 x 10 x 2 mm•1n Size was placed on anode. The plate was cut out of monocrystal grown by electrolysis of polytungsten melt according to the technique worked out by us /2/ in such a way that natural facet (100) was a working surface. At mounting of the installation the gap of 2 mm between the working surface of crystal and cathode was kept.
+
+The measurement of neutrons flow were taken by means of 2 independent channels: 2 blocks of 4 counters of SN111' -42 type with paraffine retardant. 'J:hese blocks were placed at both sides of the chamber, their signals being summed by digital recorder and were led out inde­ pendently at the register tape. Swnmary efficiency of
+2 blocks was about 1.4- %.
+Crystal temperature was measured by chromel-alumel thermocouple made of wires 0.1 mm in diameter.
+After placing the crystal on the surface of �ode the chamber was hermetized and evacuated up to 10- - 10-5 mm Hg. After that anode with the crystal was heat­ ed up to 720-760 °C and direct voltage 500-1000 V was switched on between anode and cathode and passing cur­ rent was registered. Such anodic treatment lasted for 1-5 hours and suumary amount of electric charge was 0.1-1.0 c. After switching off current the crystal was cooled to room temperature and deuterium (or hydrogen) was introduced into the chamber till the pressure beco­ mes 1 mm Hg. The introduction moment considered as a zero point of counting and was registered at the tapes of registration of neutrons flov, and temperature. Restarting of digital neutron recorder was being produc­ ed at the same moment. In 10 minutes the chamber was vacuumed once more and registration of neutron flow and crystal temperature was going on.
+
+Then the cycle was repeated. Up to 15 cycles were carried out at one crystal.
+
+
+3. Results
+
+Neutron flow intensity after deuterium introducti­ on increase sharply and in 10-20 min registration does not exceed the background (fig. 1).
+Always one can choose 2 minute interval during the first 5 min, when average intencity of neutron flow essentially in several times exceeds the background.
+Just the same neutron impulse but with less inten­ sity is observed after begining of pumping out.
+
+Thus, for example, in one of the last series of 4 experiments with one and the same monocrystal (total) number of exceeded 100 those with positive result�) ave­ rage neutron emission was fixed during 2 min (800-JOO)n at infusion and pumping out (650:!:Joo) n at ratio of sig­ nal to the background 8 and 6 cor�espondingly. In one of
+control experiments the flow (3.6-1.3)•104 N/min was fixed. In the experiments with hydrogen excess of neut­
+ron flow over the background was not uncovered.
+The increase of crystal temperature takes place synchronically with introduction both hydrogen and deu­ terium. The front of temperature increase for deuteriwn is more steep, temperature jump (ll T) varies in great limits, reacing sometimes 40-50 °C for deuterium. In the series of experiments at one and the same crystal, in which after deuterium infusion in repeated cycle hydrogen inflision, was conducted, it was determined that temperature jump for deuterium is higher than that for hydrogen.
+
+
+4. Discussion
+The main result of the work is getting out to the level of qualitative reproduction of experiment, when performance successivness of operations with monocrys­ tal of OTB described earlier leads to one and the same reply at predicted up to 1 min time: generation of neu­ trons and heat in the experiments with deuterium and neutron generation stops 10-20 min later. Thus single action causes the effect happenning only once.
+If to suggest that the reaction generating neut­ rons occurs at the expense of deuterium, absorbed by the channels of crystal at introduction, that all curr­ ent at anodic treatment is spent for natrium extraction and the number of deuterium atoms N, absorbed by the crystal is equal to the number of extracted natriun atoms (at passing of 1 C of electricity 0)
+Q.NA 1 (c).6.1023 (at/mol) 18
+N = --� ----------- 10 oms,
+N
+6• D at
+F 96500 (C/mol) ~
+(F - Faraday of electricity, N - Avogadro's number), thus the average neutron emission rate per deuter�u pair (DD) at infusion
+
+
+5. Conclusions
+The results of the work allow to come to a new level of experiment: determination of qualitative depen­ dences between the process parameters, that will give the opportunity to find out the mechanism of the pheno­ menon observed and to discover the ways of realization of controlled process.
+
+
+6. References
+1.
+Fleischmann, M. and Pons, s., 1989, Electroanal. Chem.,261, 301.
+2. -xa:Iiev, K.A. and Baraboshkin, A.N., 19829 In: Oxide Bronzes.Moscow, 137.

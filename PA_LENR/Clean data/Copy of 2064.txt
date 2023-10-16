@@ -1,0 +1,292 @@
+I. INTRODUCTION
+
+Recently, a surface fusion mechanism1,2 was proposed to explain the discrepancy of 24 to 60 orders of magnitude between claimed results of electrolysis fusion experiments3-18 and the conventional estimates19-21 for deuterium-deuterium (D-D) fusion. The effect of a velocity distribution22 in the context of the surface fusion mechanism was shown to be very important in reducing this discrepancy. More recently, it has been suggested23 and shown24 that the effect of electron screening becomes significant at low energies and further reduces the discrepancy. However, the claimed positive results3 -18 of electrolysis fusion experiments are not yet reproducible. Furthermore, there are also many negative results25-28 of electrolysis experiments.
+
+Claytor et al.29 have been investigating D-D fusion processes in a nonelectrolytic gas/solid- state (G/S) device and have succeeded in attaining reproducible results for tritium production from their G/S cells. In this technical note, the experimental results of Claytor et al.29 are explained in terms of the surface fusion mechanism.1,2,22-24 Theoretical criteria and experimental conditions for improving and optimizing the D-D fusion rates in the G/S fusion devices are described in the context of the surface fusion mechanism.1,2,22-24 It is also shown that the surface fusion mechanism provides a plausible explanation for the nonreproducibility of results of electrolysis fusion experiments.3-18,25-28
+
+In section II, D-D fusion reactions are described in terms of the surface fusion mechanism as they relate to a G/S fusion device and the results of Claytor et al.29 and effects of electron screening and velocity distribution on D-D fusion rates are discussed. The observed anomalous branching ratio for D-D fusion reactions is also discussed in this section. In section III, theoretical criteria and experimental conditions for improving and optimizing the D-D fusion rates in a G/S fusion device are given in the context of the surface fusion mechanism. Finally, a brief summary and conclusions are given in section IV.
+
+
+II. SURFACE FUSION MECHANISM
+
+The G/S fusion cells used by Claytor et al.29 were constructed of alternating layers of palladium and silicon powders pressed into a ceramic disc stack and exposed to D2 gas at 110 psi resulting in a D/Pd ratio of 0.7. Pulsed dc voltages were applied to pass pulses of current through cells, which are kept in the pressurized D2 gas at an operating temperature near the ambient temperature. The pulses used were of 1 μs to 1 ms in duration at voltages up to 3000 V and at currents as high as 0.5 ampere with a low duty cycle (~ 10 ms) to reduce Joule heating. Since the palladium and silicon layers are made of pressed powders, there are numerous ( 106) D2 gas pockets of ~ 10 μm size distributed throughout these layers and at the interfaces between the layers.29 In several runs of 60- to 90-h duration, they observed a tritium production rate of
+RT 107 s1 and a neutron production rate of Rn 102 s1 corresponding to a branching ratio
+exp
+of RT exp
+exp
+/ Rn 109 . More importantly, their results seem to be highly reproducible.29
+
+In the surface fusion mechanism,1,2 an electric field is generated in each of the D2 gas bubbles (in an electrolysis experiment) or pockets (in a G/S fusion device) on the surface of the deuterated metal (palladium cathode or layer) due to an applied external voltage, as shown in Fig. 1. This electric field accelerates positively charged deuterium ions (D+ and D2+) which are produced by ionization and dissociation of D2 molecules in the D2 gas. These deuterium discharge currents are incident on deuterium embedded in the deuterated metal or on deuterium in the D2 gas, which acts as the deuteron target.
+
+In a typical electrolysis experiment, there are several possible mechanisms which can accelerate deuterium ions through D2 gas bubbles or through a D2 gas layer which has formed on the surface of the cathode. Due to the isobaric hysteresis30 of deuterium solubility in palladium as a function of the palladium temperature, D2 gas bubbles can be produced rapidly and uniformly on the palladium surface during hysteresis, and can virtually cover the palladium cathode. Because of instability and difficulty of creating and maintaining a thin D2 gas layer, it is difficult to achieve and reproduce the same result with same and/or similar electrolysis cells. Although the potential difference across a given D2 gas bubble is expected to be a fraction of the applied potential across the electrolysis cell, Rabinowitz and Worledge31 have suggested several nonequilibrium situations in which high potential differences can occur:
+
+1. Gas bubbles of H2/D2 can form into a layer that virtually covers the palladium cathode, thereby allowing the formation of a high double-layer electric field which is enhanced at the sharp tips of surface asperities (or whiskers); this electric field can be ~ 109 V/m along with a high D+ current, even though the voltage across the electrolysis cell is only ~ 1 V.
+2. The breaking of direct contact between the electrolyte solution and small regions on the surface of the cathode by the interposition of accumulating D2 gas bubbles leads to the possibility for breakdown arcing across these bubbles with attendant huge spark discharge current densities (105 A/cm2) (Refs. 32 and 33); this would be especially true with the presence of asperities.
+3. A small number of deuterons can become entrained with high current density electrons. Even though these electrons can have energies only of the order of ~ 10 eV, the entrained D+ can obtain energies ~ 37 keV, since the ratio of the deuteron energy to electron energy would be (MDυ2/2)/(Meυ2/2) = MD/Me ≈3670. Because of the different sizes of the D2 gas pockets and different values of the widely varying electric field inside each pocket, D+ ions will gain kinetic energies with a statistical velocity distribution.
+
+The possibility of a high double-layer field with surface asperities has been also suggested by Lin et al.34 A different model of the surface double layer has been proposed by Hora et al.35 An alternative explanation for the nonreproducibility of the results of electrolysis experiments has been proposed by Handel36 based on difficulties of achieving homogeneous nucleation of D2 bubbles on the surface of the cathode.
+
+Fig.1. Schematic picture of a D2 gas pocket (or bubble) which acts as a micro surface-fusion chamber. The dark area represents the palladium surface with whiskers. The solid line represents the surface of the D2 gas pocket.
+
+II.A Fusion Reaction Cross-Sections
+
+In the G/S fusion experiment,29 the dominant fusion reactions are expected to be
+D+ + D → 3H (1.01 MeV) + p(3.02 MeV), (1a) and
+D+ + D → 3He (0.82 MeV) + n(2.45 MeV). (1b) Experimental values of the cross-section, σ(E), for (1a) and (1b) have been conventionally
+parameterized as37
+S E  1 / 2
+EE expEG/E (2)
+where EG is the “Gamow energy” given by EG = (2παZDZD)2 Mc2/2 or EG1/2 ≈31.39 (keV)1/2 for the reduced mass M ≈MD/2 for reactions (1a) and (1b). E is in units of kilo-electron-volts in the center of mass (CM) reference frame. The S factor, S(E), is extracted from experimentally measured values38 of the cross-section, σ(E), for E ≥4 keV and is nearly constant,39
+S(E) ≈52.9 keV – b, for both reactions (1a) and (1b) in the energy range of interest here, E ≤1 keV.
+
+The expression for σ(E) given by Eq. (2) is valid only for a reaction in which D+ is incident on another D+. In cold fusion experiments, D+ is incident on deuterium which is shielded by an electron cloud; i.e., the target deuterium is electrically neutral outside the electron shielding radius (≤0.53 Å, the Bohr radius). Therefore, the Coulomb barrier penetration factor (“Gamow factor”) in Eq. (2),
+1/2
+PEexpE /E, (3)
+GG
+which is appropriate only for the D+ + D+ reaction has to be modified for the case of the D+ + D reactions (1a) and (1b). The new modified barrier penetration factor appropriate for reactions (1a), (1b), and other fusion reactions is23
+1/2 1/2
+PEexpE /EE E. (4)
+sGs
+We will discuss the derivation of this formula in Sect. II.B. When there is no electron screening, Es(E) vanishes, and we recover the conventional Gamow factor, Ps(E) =PG(E). Using Eq. (4), the new extrapolation formula appropriate for reactions (1a) and (1b) and other charged particle fusion reactions is
+S E 
+E   expE /EEE. (5)
+1/2
+sEGs
+The screening energy term Es(E) in Eq. (5) can be extracted from the measured values of σexp(E) at very low energies for the D-D fusion reaction (1a) or can be uniquely calculated for a given electron screening potential.23 The parameterization37,39 of S(E) used in Eq. (2) can also be used in Eq. (5), since S(E) is determined from the measured cross-sections at higher energies
+E >> Es(E).
+
+II.B Electron Screening Effect
+With the presence of the electron screening potential, Vs(r), the resultant modified Coulomb barrier penetration factor in the Wentzel-Kramers-Brillouin (WKB) approximation is
+where V r Z Z e2 / r, r is the effective nuclear interaction range, and the classical turning
+N
+    r 
+1/2
+citN
+point ra is determined by Vc(ra) + Vs(ra) = E. Zi and Zt are the charges (in units of E) of the incident and target particles, respectively. The integral in Eq. (6), even for rN = 0, which is an accurate approximation, cannot be carried out analytically in most cases. However, the numerical values of Ps(E) obtained by numerical integration can be expressed by Eq. (4) for an attractive potential Vs(r) < 0. From Eqs. (4) and (6), it can be easily shown that Es(E) in Eq. (4) is bounded by |Vs(ra)| < Es(E) < |Vs(0)|. As an example, the electron screening potential for the deuterium target atom generated from the 1s hydrogen electron density as seen by an incident deuteron is given by
+r
+Vsr i
+t 1expur1ur/2, (7)
+Z Z e2
+Where
+u = 2/a0
+a0 ≈0.53 Å, the Bohr radius.
+
+The value V (r) approaches Z Z e2 / r as r → ∞, as expected. Value V (r) is negative for r ≥0
+sits andVrhasamaximumvalueofV0ZZe2/a 27.17ZZeVatr=0.SinceVr
+ssit0its decreases monotonically as r increases, Es Esatisfies Es E Vs 0. Thus, at the classical
+turning point of r = ra = a0 corresponding to E = 7.35 eV, Vs a0 19.8 Z i Zt eV, and hence Es Eis bounded by 27.17 ZiZt eV > Es(E) > 19.8 ZiZt eV.
+
+The electron screening effect has definitely been detected in heavier reaction species40,41 and the extracted values of Es(E) are found to be 66, 120, 210 and 300 eV for D(3He+, p)4He (Ref. 40),3He(D+,p)4He(Ref.40),7Li(p,4He)3He(Ref.41),and6Li(p,4He)3He (Ref.41),respectively, which are consistent with the qualitative trend expected from Eq. (7). For D(D+, p)3H, the screening energy term Es (E) has also been extracted23 from the difference between Eq. (2) and the measured values38,39 of σexp(E) for the D-D fusion reaction (1a) with D2 gas targets. The extracted value23 of Es(E) ≈50 eV is consistent with that expected for the 1s hydrogen electron with Es(E) ≈e2 /rs ≈27 eV where rs ≈a0. For solid targets such as TiD and PdD, however, the electron screening range could be as small as a tenth of the Bohr radius, rs = a0/10 ≈0.05 Å (Refs. 42, 43 and 44); hence the extracted values of Es(E) from the solid metal deuteride targets may be up to ten times [Es(E) ≈300 eV] larger than values [Es(E) ≈50 eV] (Ref. 23) extracted from a D2 gas target.38,39 Therefore, it is important to carry out precise measurements of σexp(E) with improved accuracy for E < 4 keV(CM) with the deuterated metal targets. A nonequilibrium situation similar to that of electrolysis and G/S fusion experiments can be simulated by applying an external electric field (either dc or ac voltage) to the metal deuteride target.
+
+The modified Coulomb penetration factor, Ps(E), given by Eq. (6) is a general expression
+applicable to any screening electron density distribution ρe(r) surrounding the positively charged
+hydrogen or deuterium nucleus. For a given screening electron distribution, the screening energy
+term, Es(E), in Eq. (4) is uniquely determined for each positive energy, E > 0, as in the case of a
+target consisting of atomic nuclei such as 3He. For mobile deuterium atoms in deuterated metals
+(as in electrolysis experiments3-18), however, the screening electron density in a nonequilibrium
+situation is not known reliably from either theoretical calculations or experimental
+measurements. Existing theoretical models45 for the screening electron density surrounding a
+positive charge embedded in a metal are based on zero-temperature linear response
+approximations for a degenerate electron gas, the validity of which has not been tested
+experimentally for these situations. An example of those models is the random-phase or Thomas-
+Fermi (TF) approximation. For the TF model, the screening electron density  ris given by TF
+Yukawa form,  r Z ek 2 / 4expk r/ r leading to the TF screening potential, TF te e V rZZe e /r,where k 4k /a  istheTFscreeninglength,withkF beingthe
+TFit eF0
+electron Fermi wave number.45 The TF model has been used by Vaselli et al.46 to describe the cold fusion process in metals. The adequacy of the linear response approximation45 has not been investigated, and a reliable nonlinear theory at finite temperatures is yet to be developed and implemented for mobile deuterium (or hydrogen) atoms in solid metal lattices, liquids, or liquid metals.42 The combined effect of electrons and mobile atoms may lead to a further reduction of
+42-44 1 2 2 1/2
+the Coulomb barrier via a shorter coherent screening length r k k k  in an
+effective screened potential, VrZ Z e2 expkr/ r , where k1 is the TF screening length ite
+1/2
+and k k T / 4e n  is the mobile atom modification length with the target atom density, n .
+1 2
+tBt t
+Ultimately, the validity of any theoretical model for e rand the electron screening potential have to be tested by direct and/or indirect measurements. The cross-section measurements for
+reactions (1a), (1b), and other similar charged particle nuclear reactions at low energies should providedirectmeasurementsofEs(E)andindirectmeasurementsof erfordeuteratedsolid
+(or liquid) targets in a nonequilibrium situation similar to that of the G/S fusion experiment with pulsed high dc voltage.
+
+II.C Fusion Reaction Rates
+Reaction rates, Rmono, for both reactions (1a) and (1b) for monoenergetic incident deuterons with kinetic energy Ei in the laboratory (LAB) frame are given by
+Rmono 1aRmono 1bPEi . (8) The value Φis the deuterium flux incident on the target area A:
+n A0.6251019 D/sI , (9) i
+where
+I = current (A)
+ni = incident deuterium density υ= deuterium velocity.
+
+The value P(Ei) is the probability for a deuteron to undergo a fusion reaction (1a), or (1b) while slowing down in the deuterated palladium layer, which can be written as
+PEi1expdxnDEDDdxn E  D DD
+(EDD = ED/2). The stopping power47 for ED ≤12 keV is given by
+dED 3.701015 nPd ED eV∙cm2 (11)
+dx
+for deuterium in palladium and
+nDEidE 1E. 0 D dED/dx DD
+(10) Values ED and EDD are the deuteron kinetic energies in the LAB and CM frames, respectively,
+set
+  
+dED 0.891015 nD ED eV∙cm2 (12) dx
+for deuterium in deuterium. Therefore, the stopping power for deuterium in PdD is given by the sum of Eqs. (11) and (12),
+keV/cm , (13)
+
+If we use Eq. (13) and the conventional extrapolation formula for σ(E) given by Eq. (2), the integration in Eq. (10) can be done analytically to yield the following expression for Eq. (8),
+R 1aR 1b1.04106 exp44.40/ E , (14) mono mono i
+where Rmono in measured in s-1 and Ei in kilo-electron-volts (LAB), assuming equal branching ratios for reactions (1a) and (1b).
+For cold fusion experiments, the incident deuterium flux is not monoenergetic but has a velocity distribution as discussed previously at the beginning of this section. Therefore, the reaction rate, Rmono, given by Eq. (8) must be modified. The modified expression for the reaction rate, Rcalc, which takes into account a velocity distribution, f(υ), is given by
+Rcalc / f Pd, (15) 
+where the relative velocity v is related to ED by ED = 1⁄2MDυ2, and P(υ) is the probability of fusion reaction given by Eq. (10). The velocity distribution function, f(υ), is normalized to f d1
+and f d.
+To see whether D-D fusion in electrolysis or G/S fusion experiments occurs mainly in the surface layers of palladium, the range Δx(Ei) of D+ in PdD is calculated in the following. Δx(Ei) can be obtained from Eq. (13) as
+
+which yields Δx(Ei) = 20.4, 64.5, and 204 Å for Ei = 1, 10, and 100 eV, respectively. The range Δx(Ei) of D+ in D2 gas is larger than that of D+ in PdD. Since individual deuterium atoms in palladium are separated by ~ 2 Å, the D+ penetrates into the first 10, 32, and 102 atomic layers from the surface of PdD when the incident D+ energies (LAB) are 1, 10, and 100 eV, respectively. Therefore, D-D fusion takes place within the surface atomic layers of PdD and/or within the D2 gas pockets outside the palladium metal surface in the G/S fusion experiment.
+For order of magnitude estimates, the D-D fusion reaction rate, Rcalc, Eq. (15) can be approximated as
+where Δx is an effective interaction thickness of the target given by Eq. (16) and Λ(E) is given by
+The precise form of the deuterium velocity distribution in the G/S fusion experiment29 is not known at present. If f(υ) is assumed to be a Maxwell-Boltzmann velocity distribution with a cut- off for high velocity components, the D-D fusion rate, Λ(E0)(s-1/D), is given by
+where the cross-section, σ(E), is parameterized (E is in the CM frame) by Eq. (5) assuming nonresonant charge-particle reactions for reactions (1a) and (1b). Ec in Eq. (19) is the upper integration limit beyond which the high velocity components are cut off. Value E0 in Eq. (19) is
+2
+3  related to the average deuterium kinetic energy as EDD CM  E0 or
+
+E LAB M  3E , where MD is the deuteron rest mass and is the average velocity of
+1 D2D0
+2 incident deuterium ions.
+
+The fusion rates Λ(E) for reactions (1a) and (1b) have been calculated24 using Eq. (19) and Eq. (5) with the replacement of Es(E) in Eqs. (4) and (5) by a constant given by Es(E) = Ẽs = e2/rs. The calculated results24 are presented in Table 1 for parametric values of Ẽs = 0, 1, 2, 4, 6 and 10e2/a0 and nD = 6 × 1022 cm-3 . The case of Ẽs = 0 in Table 1 corresponds to the conventional Gamow factor (no electron screening). The expected coherent screening length r3 discussed in
+1 2 21/2 1 2 1/2
+sectionII.Bisrk k kk kT/4en0.049ÅwithT=300Kand
+seDDBD
+nD = 6 × 1022 cm-3. Recent elaborate calculations42,44 also yield rs ≥0.05 Å, corresponding to Es ≤10e2/a0 = 270 eV. As can be seen from Table I and Fig. 2, the electron screening effect becomes larger at lower energies. To demonstrate the large effect of deuterium velocity distribution on the fusion rates, the calculated results22,24 of Λ(E0) = nD σ(E0) υare shown in Table 2. As can be seen from Tables I and II, the effect of both velocity distribution and electron screening becomes significant at low energies.
+
+Fig.2. The calculated cross-sections24 σ(EDD) for reactions (1a) and (1b), D(D,p)T and D(D,n)3He, for the CM energy,EDD <20eVwithEs(E)=Ẽs =0,1,4,10e2/a0 usingEq. (5):E2/a0 =27.17eVwiththeBohrradius,
+a0 = 0.53 Å. The solid, dashed, dash-dotted, and dotted lines refer to the results of calculations using Ẽs = 0, 1, 4, and 10 e2/a0 , respectively.
+The expected upper limit of the D-D fusion rates inside the palladium surface for the case of the G/S fusion experiment by Claytor et al.29 can be obtained from Eq. (14) with Ei ≤3 keV as
+RT 1aor Rn 1b7.65101848 I (A)s-1, (20) PdD PdD  D
+where the net deuterium spark discharge current ID (in amperes) generated in the D2 gas pockets is not the same as the measured external current (< 0.5 amp.)29 across the G/S fusion cell. The spark discharge current densities are known to be large (≤106A/cm2)32,33 corresponding to 0.625 × 1025 charge/s∙cm2, lasting ~ 10 μs. In the G/S fusion cells used by Claytor et al.,29 the total volume of palladium layers is ~ 7 cm3. If D2 gas pockets with an average size of 10 μm occupies one seventh (~ 1 cm3) of the total volume of ~ 7 cm3 (a conservative estimate), there will be 109 D2 gas pockets in the G/S cell. Since the deuteron density of D2 gas at 10 atm. is ~ 6 ×1020 D/cm3,eachD2 gaspocketcontains~6×1011 D.Ifonesixthofthe~6×1011 Dina single pocket (or 1020 D/cm3) on average are accelerated during a spark discharge period of
+~ 10 μs, the deuteron flux is Φ≈1020 D/10 μs = 1025 D/s, and the upper limit of RPdD given by Eq. (20) is RPdD ≈7.65 × 107 s-1 with Ei ≈3 keV. At Ei ≈3 keV, the electron screening effect is not important and may increase the upper limit [Eq. (20)] by less than one order of magnitude.
+TheneutronproductionrateofRn 1b102s1 observedbyClaytoretal.29iswellbelowthe exp
+upper limit given by Eq. (20), while their observed tritium production rate of RT 1a107 s1 exp
+will require a net deuteron flux Φgreater than 1026 D/s in Eq. (20).
+
+With the flux value of Φ≈1025 D/s, the expected values of the D-D fusion rates for reaction (1a) and (1b) can be computed from Eq. (17) with Λ(E0 ) given in Table 1. When there is no electron screening (for conservative estimates with Ẽs = 0 in Table 1), the calculated values are R 0.2081012sE2.08102s1 and0.832×10-1s-1forE =40eVand calc 0 0
+E0 = 50 eV, respectively. The observed value29 of Rn 1b102 s1 is bracketed by the above exp
+calculated values, while the observed tritium production rate of RT 1a107 s1 will require a exp
+net flux Φ> 1025 D/s, or alternatively, a larger value of E0 and/or an enhancement of the low- energy cross section.
+
+Dramatic increases of the D-D fusion rates can be achieved if a higher pulsed dc voltage (≤100 kV) is used. For Ei = 100 keV, Eq. (14) yields an upper limit of RPdD ≤1.23 × 10-8 Φ, which is an increase of 109 from the upper limit of 7.65 × 10-18 Φgiven by Eq. (20) for Ei = 3 keV. For an input power of IcellVcell = (1 A) (100 kV) = 100 kW for a single G/S cell with
+Ei = 100 keV, Φ≥1.26 × 1026 D/s is required to reach the break-even point, since a fusion rate of RPdD ≈1.55 × 1018 s-1 is needed to produce the fusion energy output of 100 kW with 4.03 MeV = 6.45 × 10-13 J per reaction (1a). With the use of multiple cells or a larger cell with an improved design, the above break-even requirement for Φcan be made lower.
+
+The above estimates of the D-D fusion rate in the palladium surface layers indicate that the surface fusion mechanism provides plausible explanations of the reproducible results of Claytor et al.,29 and also of the nonreproducible positive results3-18 and negative results25-28 of electrolysis fusion experiments, in which it is difficult to maintain and control the total number and size of the D2 gas bubbles. In contrast, the D2 gas pockets in the G/S fusion device of Claytor et al.29 are numerous (≥106), stable, and can be prefabricated. Furthermore, a very high pulsed dc voltage (≤100 kV) can be used in the G/S fusion device as in the experiments of Claytor et al.,29 while applicable dc voltages are very small (1 to 20 V) in electrolysis experiments,3-18,25-28 The reaction cross-sections and fusion rates for reactions (1a) and (1b) from electrolysis experiments3-18,25-28 therefore are expected to be substantially smaller than those from the G/S fusion experiments.29
+
+II.D Anomalous Branching Ratios and Secondary Reactions
+The observed branching ratio, RT 1a/ Rn 1b109 by Claytor et al.29 and others12,13 is exp exp
+contrary to the conventional assumption of nearly equal branching ratios expected from charge symmetry and charge independence of the nuclear force, and is yet to be explained theoretically if the experimental data are definitively confirmed.
+
+After the incident deuteron penetrates through the Coulomb barrier to within an effective nuclear interaction range of 8 F (twice the deuteron radius), nuclear dynamics take over for this system of four nucleons. One possible explanation for the unequal rates is that there may be a broad resonance behavior in σ(E) for reaction (1a) but not in σ(E) for reaction (1b) at low energies. This is plausible since the final state Coulomb interaction is present for reaction (1a) but not for reaction (1b). If σ(E) happens to have resonance behavior near E ≤100 eV, the extrapolation may yield erroneous values for σ(E ~ 100 eV), since the nonresonant relation (2) or (4) is not applicable to resonance reactions. Therefore, it is very important to investigate theoretically the possibility of resonance behavior for σ(E) near E ≤100 eV, and also to measure σ(E ≤3 keV) directly with precision experiments as suggested previously.48
+
+Another possible explanation is that there may be resonances for the reaction D(2D,T)3He at low energies. The three-body collision frequency is astronomically small in three-dimensional space in the case of conventional plasma fusion, but may become comparable to that of two-body collisions49 in the case of one-dimensional channeling, a process that occurs in ion implantation or in a similar situation as in G/S fusion.
+
+An interesting possibility is that the anomalous branching ratio may be understood as an effect of the extension of Efimov’s effect50,51 to the four-nucleon system and the three-deuteron system. Efimov demonstrated a remarkable and hitherto unsuspected property of three-body systems by showing that if three nonrelativistic identical particles interact via short-range two-body potentials gυ(r), then as the coupling constant g increases to that value g0 which can support a single two-body bound state at zero energy, the number of bound states of the three-particle
+system increases without limit, being roughly given by the formula N 1/ lna / r , where a 0
+is the two-body scattering length (which becomes infinite whenever there is a zero-energy s- wave two-body bound state) and r0 is the range of the potential v(r). This implies that whenever there is a two-body bound state with zero binding energy, there are an infinite set of solutions of the three-body Schroedinger equation with E complex and very near zero.52,53 Whether such states can be observable resonances or virtual states for four-nucleon and three-deuteron systems should be investigated in terms of (1) Efimov’s effect for the 2-D system as a three-body system, (D+p+ n), (2) generalization of Efimov’s effect to four-body systems, and (3) Efimov’s effect for the 3-D system. An Efimov or Efimov-like effect is expected to be different between reactions D(D,p)T and D(D,n)3He due to different final-state interactions. It also implies that a low-energy 3-D resonance may exist if a low-energy 2-D resonance exists.
+
+At present, there are neither direct experimental measurements nor theoretical calculations of the branching ratio for reaction (1a) to reaction (1b) for E ≤3 keV. One would expect the reaction rate of reaction (1a) to be larger than that of reaction (1b), since reaction (1b) involves a fusion of two protons to form 3He while reaction (1a) does not fuse two protons but merely transfers a neutron from one deuteron to the other to form 3H. Reliable theoretical calculations of the reaction cross-sections and branching ratio of reactions (1a) and (1b) are yet to be carried out based on nonrelativistic four-nucleon scattering theory54 using nucleon-nucleon forces and the Coulomb interaction.
+
+The tritium produced at the rate of RT 1a107 s1 in the experiment of Claytor et al.29 exp
+should have produced 14 MeV neutrons via the secondary reaction, T + D → 4He(3.5 MeV) + n(14.1 MeV), which has an expected rate of 107 × 10-5 ≈102 s-1, since the probability given by a relation similar to Eq. (10) is expected to be P(E) ≈10-5, unless tritium is produced from reaction (1a) with very low kinetic energies for some unexpected reason. In addition to the above secondary reaction, 3 MeV protons produced from reaction (1a) at the same rate as tritium should have produced de-excitation gamma rays (0.37 ~ 0.56 MeV)28 from proton-induced Coulomb excitation of palladium isotopes. Future measurements of these secondary nuclear reactions can provide additional information for understanding the unexpectedly large value of the D-D fusion rate for reaction (1a).
+
+
+III. OPTIMIZATION CONDITIONS FOR THE SURFACE FUSION MECHANISM
+
+For the surface reaction mechanism for low-energy D-D fusion, the total fusion rate, Rcalc, is given by Eq. (15), or approximately by Eq. (17). Rcalc depends mainly on (a) the target deuterium density in the deuterated metal and in the D2 gas pockets, (b) the incident deuterium flux, and (c) the kinetic energy (or velocity) of the incident deuterium ions. Therefore, quantities (a), (b), and (c) must be maximized within the limitations imposed by a given experimental set-up for a G/S fusion device.
+
+III.A Target Deuterium Density
+In order to maximize the fusion rates, Rcalc, the deuterium density, nD, in Eq. (10) or Eq. (18), should be optimized and maintained at a maximum value inside the surface of the deuterated metal and in the D2 gas pockets. High deuterium density in the metal is also needed to rapidly replace depleted D2 molecules in the D2 gas pockets by desorption:
+1. Choice of the target metal is important for high nD values; the metal should have a high value of deuterium solubility at a reasonably high temperature (100 ~ 500°C for practical energy generation).
+2. High values of applied D2 gas pressure should be helpful in maintaining high deuterium density in the metal and in the D2 gas pockets.55
+
+III.B Deuterium Flux
+To maximize the fusion rate for a given experimental setup, the deuterium flux should be maximized by optimizing the net deuterium spark current.
+1. A metal oxide coating of ~ 10 Å thickness on the metal surfaces is known to improve D-D fusion rates.29 This procedure of oxidizing the metal surface may help to maintain the metal surface integrity including preservation of the asperities and a high deuteron surface density by preventing surface poisoning due to incident discharge currents.
+2. It is important to use a pulsed dc voltage (≤100 kV) source, since the deuterium ions are accelerated as spark currents inside the D2 gas pockets due to the electric fields generated by the applied external voltage. The desirable dc voltage pulse duration is expected to be 1 to 10 μs since the spark current is known to reach a peak value within 1 μs and to decay to half-value in 10 to 30 μs.32
+The duty cycle of the pulsed high dc voltage should be optimized by synchronizing it with an average recovery time during which the original gas density in the pockets is restored by D2 gas diffusion and also by desorption from the deuterated metal after D2 molecules are depleted by spark discharge and D-D fusion in the gas pockets.
+3. The asperities on the surface of the deuterated metal which penetrate into D2 gas pockets are useful in providing an efficient mechanism for accelerating the deuterium ions23 and for producing the spark discharge current.32,33 A means of optimizing this physical situation should be found.
+
+4. The size d of the D2 gas pocket and the D2 gas pressure, p, should be optimized for attaining a maximum value of the incident deuterium flux, since the breakdown voltage beyond which the D2 gas (an insulator) in the pocket becomes a conductor producing the D+ current depends on d and p as a function of the product dp. (Refs. 32 and 33).
+5. The total number of D2 gas pockets and the surface area of the deuterated metal exposed to the D2 gas pockets should be maximized to generate a maximum deuterium flux.
+6. During spark discharge in the D2 gas, electrons emitted from D2 molecules and the metal surface tend to inhibit higher deuterium ion currents. Since the electron mass is much smaller than the deuteron mass, electrons can be deflected to the sides away from the deuterium flux by an applied magnetic field of appropriate magnitude and direction. The deuterium flux can be enhanced by application of a pulsed magnetic field in synchronization with the pulsed dc voltage.
+
+ III.C Incident D+ Kinetic Energy
+Since the cross-section σ(E), Eq. (2) or (5), increases rapidly as a function of increasing value of the incident deuterium kinetic energy,22,24 the total fusion rate, Rcalc, can be increased by raising the incident deuterium kinetic energy.
+The use of pulsed high dc voltage should help to increase the high velocity component of the deuterium velocity distribution and the intensity of the spark current because the modulated voltage can be raised to a very high value (≤100 kV) without shorting out the experimental setup.
+
+
+IV. SUMMARY AND CONCLUSIONS
+
+It has been shown that the surface fusion mechanism can provide plausible explanations for both the reproducible results of the G/S fusion experiment of Claytor et al.29 and the nonreproducible results of electrolysis fusion experiments.3-18,25-28
+The D-D fusion rates, RT 1a107 s1 for reaction (1a) and especially Rn 1b102 s1 for exp exp
+reaction (1b), obtained by Claytor et al. from the G/S fusion experiments29 are physically acceptable values in the context of the surface fusion mechanism.
+
+The observed branching ratio, RT 1a/ Rn 1b109 is an unexpected result from the exp exp
+viewpoint of conventional nuclear theory based on the charge symmetry and charge independence of the nuclear force and may be due to resonance behavior in the cross-section favoring one channel over another at low energies. Therefore, it is very important to measure σ(E ≤3 keV) for reactions (1a) and (1b) directly with precision experiments as previously suggested.48 Historically, the frontier of nuclear physics has shifted from low energies (several kilo-electron-volts) to higher energies, bypassing the extreme low-energy regime (1 eV to 1 keV) partly due to experimental difficulties, and partly due to unjustified theoretical expectations that no new phenomena would be observed from a simple scaling of higher-energy results to the extremely low-energy regime. If the neutron and tritium production data are definitively confirmed in future experiments, a new frontier of nuclear physics research will open up in the extremely low-energy regime, which will also pose challenging problems in nuclear theory. Reliable theoretical calculations of the cross-sections for reactions (1a) and (1b) should be carried out in the context of nonrelativistic four-nucleon scattering theory which includes both the Coulomb interaction and nucleon-nucleon forces.
+
+Finally, the nonreproducibility of the results of electrolysis fusion experiments3 -18,25-28 can be explained in terms of the surface fusion mechanism. Because of the inherent instability and problems associated with D2 gas bubbles that form a thin gas layer, which can virtually cover the surface of the palladium cathode in electrolysis experiments, it is difficult to achieve appropriate conditions required for D-D fusion in electrolysis experiments, and to reproduce the same result consistently with the same and/or similar electrolysis cells.3-18 The performance of the electrolysis fusion cells in achieving D-D fusion, therefore, is expected to be erratic and to remain unreliable. Thus, the surface fusion mechanism can provide plausible explanations for the nonreproducibility of the claimed positive results3-18 and for the numerous negative results24-28 of electrolysis fusion experiments. In contrast to the shortcomings of electrolysis fusion cells, the D2 gas pockets in a G/S fusion device are stable and physically controllable for each and every experiment; thus the G/S fusion device offers a more desirable and promising system in which experimental conditions for optimizing D-D fusion rates can be investigated reliably with reproducible results. The use of a high pulsed dc voltage of ~ 100 kV in the G/S fusion device may provide economic tritium production and may also lead to practical applications for large- scale economic power generation.
+
+
+v. REFERENCES
+
+1. Y. E. Kim, “Nuclear Theory Hypotheses for Cold Fusion,” in the Proceedings of the NSF/EPPJ Workshop on Anomalous Effects in Deuterated Metals, Washington, D.C., October 16-18, 1989.
+2. Y. E. Kim, “Fission-Induced Inertial Confinement Hot Fusion and Cold Fusion with Electrolysis,” in Laser Interaction and Related Plasma Phenomena, Vol. 9 (H. Hora and G. H. Miley eds.), Plenum Press, New York (1990).
+3. M. Fleischmann and S. Pons, “Electrochemically Induced Nuclear Fusion,” J. Electroanal. Chem. 261, 301 (1989); and errata 263, 187 (1989).
+4. M. Fleischmann, S. Pons, M. W. Anderson, L. J. Li, and M. Hawkins, “Calorimetry of the Palladium-Deuterium-Heavy Water System,” J. Electroanal. Chem. 287, 293 (1990).
+5. S. Pons and M. Fleischmann, “Calorimetry of the Palladium-Deuterium System,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28- 31, 1990, pp. 1-19.
+6. A. J. Appleby, Y. J. Kim, O. J. Murphy, and S. Srinivasan, “Anomalous Calorimetric Results during Long-Term Evolution of Deuterium on Palladium from Alkaline Deuteroxide Electrolyte,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 32-43.
+7. M. Schreiber et al., “Recent Measurements of Excess Energy Production in Electrochemical Cells Containing Heavy Water and Palladium,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 44-56.
+8. S. Guruswamy, J. G. Byrne, J. Li, and M. E. Wadsworth, “Metallurgical Aspects of the Electrochemical Loading of Palladium with Deuterium,” to be published in the Proceedings of the NSF/EPRI Workshop on Anomalous Effects in Deuterated Metals, Washington, D.C., October 16-18, 1989.
+9. M. C. H. McKubre et al., “Calorimetry and Electrochemistry in the D/Pd System,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28- 31, 1990, pp. 20-31.
+10. R. Adzic, D. Jervasio, I. Bae, B. Cahn, and E. Yeager, “Investigation of Phenomena Related to D2O Electrolysis at a Palladium Cathode,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 261-271.
+11. S. E. Jones et al., “Observation of Cold Nuclear Fusion in Condensed Matter,” Nature 338, 737 (1989).
+12. P. K. Iyengar et al., “Bhabha Atomic Research Centre Studies in Cold Fusion,” Fusion Technology 18, 32 (1990).
+13. N. J. C. Packham, K. L. Wolf, J. C. Wass, R. C. Kainthala, and J. O. M. Bockris, “Production of Tritium from D2O Electrolysis at a Palladium Cathode,” J. Electroanal. Chem. 270, 451- 458 (1989).
+14. D. Gozzi, P. L. Cignini, L. Petrucci, M. Tomellini, and G. De Maria, “Evidence for Associated Heat Generation and Nuclear Products Release in Palladium Heavy-Water Electrolysis,” Nuovo Cimento 130A, 143-154 (1989)
+15. E. Storms and C. Talcott, “A Study of Electrolytic Tritium Production,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 149-163.
+16. C. D. Scott, J. E. Mrochek, T. C. Scott, G. E. Michaels, E. Newman, and M. Petek, “Measurement of Excess Heat and Apparent Coincident Increases in the Neutron and Gamma-Ray Count Rates during the Electrolysis of Heavy Water,” Fusion Technology 18, 103 (1990).
+17. C. Sanchez, J. Sevila, B. Escarpiz, F. J. Fernandez, and J. Canizares, Solid State Comm. 17, 1039 (1989).
+18. Y. Arata and Y.-C. Zhang, “Achievement of An Intense Cold Fusion Reaction,” Nuclear Fusion Research 62, 398 (November 1989, in Japanese); Fusion Technology 18, 95 (1990).
+19. S. E. Koonin and M. Nauenberg, “Calculated Fusion Rate in Isotopic Hydrogen Molecules,” Nature 339, 690 (1989).
+20. A. J. Leggett and G. Baym, “Exact Upper Bound on Barrier Penetration Probabilities in Many-Body Systems: Application to Cold Fusion,” Phys. Rev. Lett. 63, 191 (1989).
+21. K. Langanke, H. J. Assenbaum, and C. Rolfs, “Screening Corrections in Cold Deuterium Fusion Rates,” Z. Phys. A. Atomic Nuclei 333, 317 (1989).
+22. R. A. Rice, G. S. Chulick, Y. E. Kim, and Jin-Hee Yoon, “The Role of Velocity Distribution in Cold Deuterium-Deuterium Fusion,” Fusion Technology 18, 147 (1990).
+23. Y. E. Kim, “Surface Reaction Mechanism and Lepton Screening for Cold Fusion with Electrolysis,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 194-201.
+24. R. A. Rice, G. S. Chulick, and Y. E. Kim, “The Effect of Velocity Distribution and Electron Screening on Cold Fusion,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28-31, 1990, pp. 185-193.
+25. M. Gai et al., “Upper Limits on Neutron and 7-Ray Emission from Cold Fusion,” Nature 340, 29 (1989).
+26. N. S. Lewis et al., “Searches for Low-Temperature Nuclear Fusion of Deuterium in Palladium,” Nature 340, 525 (1989).
+27. D. E. Williams et al., “Upper Bounds on Cold Fusion in Electrolysis Cells,” Nature 342, 375 (1989).
+28. M. H. Salamon et al., “Limits on the Emission of Neutrons, γ-Rays, Electrons, and Protons from Pons/Fleischmann Electrolysis Cells,” Nature 344, 401 (1990).
+29. T. N. Claytor, P. A. Seeger, R. K. Rohwer, D. G. Tuggle, and W. R. Dotty, “Tritium and Neutron Measurements of a Solid State Cell,” Los Alamos National Laboratory Reprint LA- UR-89-39-46, to be published in the Proceedings of the NSF/EPRI Workshop on Anomalous Effects in Deuterated Metals, Washington, D.C., October 16-18, 1989.
+30. A. Sieverts and W. Danz, “Die Loslichkeit von Deuterium und von Wasserstoff in festem Palladium. II,” Z. Physik. Chem. (B) 34, 158 (1936); 38, 46 (1937).
+
+31. M. Rabinowitz and D. H. Worledge, “An Analysis of Cold and Lukewarm Fusion,” Fusion Technology 17, 344 (1990).
+32. J. M. Meek and J. D. Craggs, Electrical Breakdown of Gases, Oxford University Press, London (1953), Chapter 10.
+33. F. Llewellyn-Jones, Ionization and Breakdown in Gases, John Wiley and Sons, Inc. (1957).
+34. G. H. Lin, R. C. Kainthala, N. J. C. Packham, and J. O’M. Bockris, “Electrochemical Fusion:
+A Mechanism Speculation,” J, Electroanal. Chem. 280, 207 (1990).
+35. H. Hora, L. Cicchitelli, G. H. Miley, M. Ragheb, A. Scharmann, and W. Scheid, “Plasma and
+Surface Tension Model for Explaining the Surface Effect of Tritium Generation at Cold
+fusion,” Nuovo Cimento D 12, 393 (1990).
+36. P. H. Handel, “Reformulation of the Cold Fusion Problem: Heterogeneous Nucleation—A
+Likely Cause of the Irreproducibility and Intermittency of Cold Fusion Observations,” in the Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City, Utah, March 28- 31, 1990, pp. 288-294.
+37. W. A. Fowler, G. R. Caughlan, and B. A. Zimmermann, “Thermonuclear Reaction Rates,” Ann. Rev. Astr. Astrophys. 5, 525 (1967); “Thermonuclear Reaction Rates II,” 13, 69 (1975).
+38. A. von Engel and C. C. Goodyear, “Fusion Cross-Section Measurements with Deuterons of Low Energies,” Proc. Roy. Soc. A 264, 445 (1961).
+39. A. Krauss, H. W. Becker, H. P. Trautvetter, and C. Rolfs, “Low-Energy Fusion Cross- Sections of D + D and D+3He Reactions,” Nucl. Phys. 465, 150 (1961).
+40. S. Engstler, A. Krauss, K. Neldner, C. Rolfs, and U. Schroder, “Effects of Electron Screening on the 3He(d,p)4He Low-Energy Cross Sections,” Phys. Lett. B 202, 179 (1988).
+41. U. Schroder, S. Engstler, A. Krauss, K. Neldner, C. Rolfs, and E. Somor-jai, “Search for Electron Screening of Nuclear Reactions at Sub-Coulomb-Energies,” Nuclear Instr. and Meth. B 40/41, 466 (1989).
+42. H. Takahashi, “Quantum Theory of Correlation Functions for Liquid Metals and Normal Liquids in the Zero Sound Wave Range,” Physica 51, 333 (1971); “Dynamical Screening of Potential by Mobile Deuteron and Fusion Rate of Accelerated Deuteron in Pd Dx,” J. of Fusion Energy 9, 441 (1990).
+43. S. N. Vaidya and Y. S. Mayya, “Theory of Screening-Enhanced D-D Fusion in Metals,” Jap. J. Appl. Phys. 28, L2258 (1989).
+44. K. B. Whaley “Boson Enhancement of Finite-Temperature Coherent Dynamics for Deuterium in Metals” Phys. Rev. B 41, 3473 (1990).
+45. A. Fetter and J. D. Walecka, Quantum Theory of Many-Particle Systems, McGraw-Hill (1970).
+46. M. Vaselli, M. A. Harith, V. Palleschi, G. Salvetti, and D. P. Singh, “Screening Effect of Impurities in Metals: a Possible Explanation of the Process of Cold Nuclear Fusion,” Nuovo Cimento D 12, 927 (1989).
+47. H. H. Anderson and J. F. Ziegler, Hydrogen Stopping Powers and Ranges in All Elements, Pergamon Press, New York (1977).
+48. Y. E. Kim, “Cross-Sections for Cold Deuterium-Deuterium Fusion,” Fusion Technology 17, 507 (1990).
+49. M. Rabinowitz, “High Temperature Superconductivity and Cold Fusion,” Mod. Phys. Lett. B 4, 233 (1990); private communication.
+50. V. Efimov, “Energy Levels Arising from Resonant Two-Body Forces in a Three-Body System,” Phys. Lett. 33B, 563 (1970).
+51. V. Efimov, “Weakly-Bound States of Three Resonantly-Interacting Particles,” Yad. Fiz. 12, 1080 (1970) [Sov. J. of Nucl. Phys. 12, 589 (1971)].
+52. R. D. Amado and J. V. Noble, “A New Pathology of Three-Particle Systems,” Phys. Lett. 35B, 25 (1971).
+53. R. D. Amado and J. V. Noble, “Efimov’s Effect: A New Pathology of Three-Particle Systems. II,” Phys. Rev. D 5, 1992 (1972).
+54. O. A. Yakubovsky, “On the Integral Equations in the Theory of N Particle Scattering,” Yad. Fiz. 5, 1312 (1967) [Sov. J. Nucl. Phys. 5, 937 (1967)]; P. Grassberger and W. Sandhas, “Systematical Treatment of Non-Relativistic N-Particle Scattering Problem,” Nucl. Phys. B 2, 181 (1967).
+55. W. M. Mueller, J. B. Blackledge, and G. G. Libowitz, Metal Hydrides, Academic Press, New York (1968)

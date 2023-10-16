@@ -1,0 +1,311 @@
+1. Introduction
+
+The issue of modifying nuclear processes by the surroundings has been a question of primary interest of nuclear physics from the very beginning. The best known and investigated process in respect of modifying nuclear processes by surroundings is the internal conversion process, in which an atomic electron around an excited nucleus takes away nuclear transition energy of an electromagnetic multipole transition which otherwise would be prohibited by angular momentum conservation [1].
+Motivated by observations of an anomalous screening effect (see e.g. [2]) we have searched for physical processes that may affect nuclear reactions in the solid state environment. We found theoretically [3,4] that the leading channel of the p + d→3 He reaction in the solid environment is the so-called solid state internal conversion process, an adapted version of an ordinary internal conversion process. It was shown [3,4] that if the reaction p + d→ 3 He takes place in solid material the nuclear energy is taken away by an electron of the environment instead of the emission of a γ photon.
+
+In the usual internal conversion process only one nucleus is involved. However, very many pairs of nuclei can be found which may go to a state of lower energy if they could cooperate exchanging e.g. a neutron (or proton) [5]. Therefore it is worth investigating the way the electronic environment could lead to such cooperation.
+Let us take two initial nuclei A1 X, A2 Y and two final nuclei A1 −1 X, A2 + 1 Y which may be formed by neutron Z1 Z2 Z1 Z2
+exchange. If the sum E of the rest energies of the initial nuclei is higher than the sum E of the rest energies of the 0i ()0f
+final nuclei, i.e. if E0i − E0f = ∆ > 0, then the two nuclei A1 X and A2 Y are allowed to make a neutron exchange. Z1 Z2
+∆=∆−+∆+,with∆−=∆A1−∆A1−1and∆+ =∆A2−∆A2+1.∆A1,∆A1−1,∆A2,∆A2+1aretheenergy excesses of neutral atoms of mass numbers A1, A1 − 1, A2, A2 + 1, respectively [5]. As it was stated above there exist very many pairs of nuclei that fulfill the ∆ > 0 requirement. So it is a question of how these nuclei can realize the A1 X, A2 Y → A1−1X, A2 + 1Y neutron exchange transition.
+Z1 Z2 Z1 Z2 The process
+e+A1X+A2Y→e′ +A1−1X+A2+1Y+∆, (1) Z1 Z2 Z1 Z2
+that we call cooperative internal conversion process by neutron exchange (CICP-NE), will be discussed with bound- free electron transition and for atomic state only.
+On the other hand, it can happen that the two final nuclei are A1−1X, A2 +1Y which may be formed by proton Z1−1 Z2 +1
+exchange from A1 X, A2 Y. If the sum E0i of the rest energies of the initial nuclei is higher than the sum E0f of the rest Z1Z2 ()
+energies of the final nuclei then the two nuclei A1 X and A2 Y are allowed to make a proton exchange. Z1 Z2
+Proton exchange can be realized in the process
+e1 +A1X+A2Y→e′1 +A1−1V+A2+1W+∆, called cooperative internal conversion process by proton exchange (CICP-PE) which will be discussed theoretically in more detail too. (In processes (1) and (2) e and e′ denote bound and free electrons, respectively.)
+In Section 2, the transition rate (the transition probability per unit time) and in Section 3 the cross section of the cooperative internal conversion process by neutron exchange (CICP-NE) in the single electron-single nucleon model are derived. In Section 4, the cross section of CICP-NE in the spherical nuclear shell model is determined. Section 5 is devoted to cooperative internal conversion by proton exchange (CICP-PE). In Section 6, the total rate per unit volume of the sample, in Sections 7 and 8 as numerical examples the CICP-NE in Ne and CICP-PE in Al are given. In Section 9, other results and discussion and in Section 10, a summary can be found. In the Appendix the Coulomb factors f2′3 and f34, which are necessary in the case of CICP-PE, are determined.
+
+
+
+2. Transition Rate of CICP-NE in Single Electron – Single Nucleon Model
+The CICP-NE can be understood with the aid of a standard time independent second order perturbation calculation
+of quantum mechanics. There are two perturbations present which cause the effect and which have to be taken into
+account. The first is the electric dipole term V dip of the Coulomb interaction between a bound electron and a neutron Cb
+of an atom of nucleus A1 X in which the effective charge of the neutron qn = −Z1e/A1 [6]. Z1
+m=1
+dip Z1e24π −2 ∑ ∗
+VCb = A1 3 x1xe
+Y1m(Ωe)Y1m(Ω1), (3)
+m=−1
+where Z1 and A1 are charge and mass numbers of the first nucleus, e is the elementary charge, x1, xe and Ω1, Ωe are magnitudes and solid angles of vectors x1, xe which are the coordinates of the neutron and the electron in the first atom, respectively and Y1m denotes spherical harmonics. The second is the nuclear strong interaction potential Vst of nucleus A2 Y. For this nuclear potential a rectangular potential well is assumed, i.e. Vst = −V0 (x2 ≤ RA2 ) and
+Z2
+Vst = 0 (x2 > RA2 ) where x2 is the magnitude of vector x2, which is the coordinate of the neutron in the second
+nucleus and RA2 is its radius.
+The initial state, which is composed from the state of a bound electron of the atom having nucleus A1 X, the state
+Z1
+of a bound neutron of the atomic nucleus A1 X and the states of centers of mass motion, is changed to first order due to
+Z1
+the perturbation V dip according to stationary perturbation calculation as
+Cb
+(0) (0) (0) (0) −iEit
+ψi = ψi + abb,kψk,bb + abf,kψk,bf dνk + aff,kψk,ff dνk e ~ . (4)
+[∑∑∫∫]
+
+Here Ei is the total initial energy, which includes the sum E0i of the rest energies of the initial nuclei A1 X, A2 Y.
+Z1 Z2 ψ(0) is the product of the unperturbed bound electron and neutron states and two plane waves ψCM,A1 and ψCM,A2
+i
+which describe the motions of the centers of mass of the atoms having A1 X and A2 Y nucleus, respectively. ψ(0) is the Z1 Z2 k,bb
+product of other bound electron and neutron states, ψCM,A1 and ψCM,A2 . In ψ(0) k,bf
+one of the electron and neutron states
+is bound and the other is free which are multiplied by ψCM,A1 (in case of free electron) or by ψCM,A1 −1 (in case of free
+neutron) and ψCM,A2 , where ψCM,A1 −1 describes the motion of the center of mass of the atom having A1 −1 X nucleus. Z1
+The last term is interesting from the point of view of our process and in ψ(0) both the electron and the neutron are free k,ff
+and their product is multiplied by ψCM,A1 −1 and ψCM,A2 . Accordingly, the last term in Eq. (4) can be written as
+δψi,free =
+E −E ψk,ffdνke ~ ik
+. (5)
+∫ dip
+VCb,ki (0) −iEit
+The sum of the energy of the free electron, neutron and center of mass states is Ek, which contains the sum E0k of the rest energies and the state density is dνk [7].
+Taking into account the interaction Vst between a free neutron and an other nucleus A2 Y the second order transition Z2
+rate has the form
+2π∫ ∫ Vst,fkVdip 2 Wfi = Cb,ki dνk
+δ(Ei −Ef) dνf.
+
+Here V dip and Vst,fk are matrix elements of V dip and Vst with states ψ(0) , ψ(0) and ψ(0), ψ(0) , respectively. ψ(0) is
+(6)
+the product of the free electron state of the nucleus A1 −1 X, the bound neutron state of A2 + 1 Y and free center of mass Z1 Z2
+states of the two nuclei. The quantity dνf is the density of the final states of sum energy Ef, which comprises the sum E0f of the rest energies of the final nuclei A1 −1 X and A2 + 1 Y. If the free states are plane waves of wave vectors ke , k1
+~ Ei − Ek
+Cb,ki Cb k,ff i f k,ff f
+Z1 Z2
+and k2 corresponding to the wave vectors of the free electron, the A1−1X nucleus which has lost the neutron and the
+nucleus A2 + 1Y which has taken up the neutron then Z2
+Z1
+V3V
+dνf = (2π)9 dke dk1 dk2, dνk = (2π)3 dkn, (7)
+where kn is the wave vector of the free (intermediate) neutron, and V is the volume of normalization. The initial wave vectors of atoms having nuclei A1 X and A2 Y are negligible. The nuclear energy difference ∆, that is the reaction
+Z1 Z2
+energy, is distributed between the kinetic energies of the final free electron and the two final nuclei. All told, in process
+(1) the nucleus A1 X loses a neutron which is taken up by the nucleus A2 Y forming A2 + 1Y in this manner. Z1 Z2 Z2
+
+
+3. Cross Section of CICP-NE in Single Electron – Single Nucleon Model
+The cross section σbf of the bound-free (bf) electron transitions of CICP-NE can be determined from the transition rate by the standard method. The evaluation of the transition rate is carried out in a one particle nuclear model. The hydrogen-like state of binding energy EBi and Coulomb-factor corrected plane wave are used as initial, bound and final, free electron states. The motion of the intermediate neutron and the two final nuclei are also described by plane waves. The rest masses of the two initial nuclei of mass numbers A1 and A2 are m1 = A1m0 and m2 = A2m0 where m0c2 = 931.494 MeV is the atomic energy unit.
+When calculating σbf, it is reasonable to use the
+i me k1·xe
+= 1
+e (A1−1)m0
+long wavelength approximation in the electron part of the Coulomb matrix element since
+me ≪ 1. (A1 −1)m0
+The analysis of σbf shows that those processes give an essential contribution to the cross section in which ke ≪ k1 and
+ke ≪ k2 where ke, k1 and k2 are the magnitudes of the wave vectors of ke, k1 and k2. In this case as a consequence
+of momentum conservation the integration over k1 can be carried out resulting the substitution k1 = −k2. Thus Ef,
+which is the sum of the kinetic energies of the free electron, particle A1 −1 X and particle A2 + 1 Y, (in the Dirac-delta) Z1 Z2
+and E (ke , k2 ), which is the sum of the kinetic energies in the intermediate state (in the energy denominator) become Ef = ~2k2/[2m0a12] + ~2ke2/(2me) with a12 = (A1 − 1)(A2 + 1)/(A1 + A2) and
+E (ke, k2) = A1 ~2k2/ (2m0) + ~2ke2/ (2me) , respectively (the intermediate neutron has wave vector −k2). These simplifications result
+( ) ∫∫∫ ∑m=1 m m 2 2
+m=−1 Ief (ke) I1 (k2) |I2 (k2)| where v is the relative velocity of the two atoms, c is the velocity of light (in vacuum),
+and
+2Z
+σbf = 1 V0
+2
+α2~c2 f
+dke dk2 [E(ke,k2) + ∆n −∆− + EBi]2
+δ(Ef − ∆Bi) ∫
+, (8)
+(9)
+(10)
+(11)
+3A1
+v(2π)3
+Im(k)= u(x)Y∗ (Ω)x−2e−ike·xedx,
+efe ie1mee e
+I1m (k2) =
+I2 (k2) =
+∫
+∆V
+φ∗f (x2) eik2·x2 dx2.
+
+Here ui (xe) and φi (x1) are the initial bound electron and neutron states and φf (x2) is the final bound neutron state. αf denotes the fine structure constant and ~ is the reduced Planck-constant. ∆n = 8.071 MeV is the energy excess of the neutron. Furthermore, me is the rest mass of the electron and ∆Bi = ∆ − EBi. ∆V in I2 (k2) is that volume of the surface of the second nucleus (of A2) in which direct neutron capture may be assumed [8]. It can be considered as a shell of a sphere of radius RA2 and of thickness L, where L is the mean free path of the ingoing neutron in the nucleus.
+
+
+4. Cross Section of CICP – NE in Spherical Nuclear Shell Model
+The bound, initial electron, the initial and final nuclear states, which are used, have the form:
+ui (xe) = Ri (xe) Yjs(Ωe), φi (x1) = φi (x1) Ylimi (Ω1)/x1 and φf (x2) = φf (x2) Ylfmf (Ω2)/x2.
+Here j and s are orbital angular momentum and magnetic quantum numbers of the bound electron state. φi (x1 ) /x1
+and φf (x2 ) /x2 are the radial parts of the one particle shell-model solutions of quantum numbers li , mi and lf , mf . In
+the cases to be investigated the corresponding part R0Λ = b−1/2 Γ(Λ + 3/2)−1/2 21/2 ρΛ + 1 exp(−ρ2 /2) of 0Λ one kkk
+particle spherical shell model states [9] is applied as φi (x1) and φf (x2). Here ( ~ )1/2
+ρk = xk/bk, bk = and ~ωsh,k = 41A−1/3 m0 ωsh,k k
+(in MeV units, [6]) with k = 1, 2 corresponding to A1 and A2 , and Γ(x) is the gamma function. Thus in the case of spherical shell model states
+32(Z)2 ∫ 2
+σ = 1V (2l +1) Jlf(k) (12)
+bf,sh3vA0f 22 1
+∫ ∑ Nlλ J1λ(k2) 2 Jel(ke) 2
+[E (ke, k2) + ∆n − ∆− + EBi]2 αf2~c2δ(Ef − ∆Bi)ke2 dkek2 dk2, where in case of 0lf final nuclear state
+×
+l,λ
+2 πL2ρ2lf+3e−ρ2fJ2 1(k2RA) lf flf+22
+J2(k2) = Γ(l+3)k (13) f22
+with ρf = RA2 /b2 and Jlf + 12 is a Bessel-function of the first kind. In the case of 0li initial nuclear state ∫(A)
+Jλ(k)= R (x)j 1 kx x2dx, (14) 1 2 0li 1 λ A1−121 1 1
+∫
+The parenthesized expressions are Wigner 3j symbols. In Eqs. (14) and (15) jλ and jl are spherical Bessel-functions of the first kind. (The suffix sh of any quantity denotes that it is calculated in the one particle spherical shell model.) In (15) FCb (ke) is the Coulomb factor.
+
+We restrict ourselves to 1s initial electronic state of R (x ) = 2a−3/2 exp(−x /a) with a = a /Z , where a
+is the Bohr-radius, Zeff = Since
+√
+ie e 0eff 0 EBi/Ry and Ry is the Rydberg energy and use the FCb (ke) = 2π/ (kea) approximation.
+( 0 1 l )2
+j=0 and (2l+1) 000 =δ1,l,
+N1λ = (2λ + 1) 0 0 0 . (17)
+Keeping the leading term of Je1(ke), introducing k2 = k0x, and carrying out integration over ke with the aid of the energy-Dirac-delta and in the case of li = even [li = 2; Ne(3/2 + , 0d)] to be investigated one obtains
+ifλ=li −1.
+210π3 Z2V2 b5L2 ρ2lf +3e−ρ2f 1 0 1 f
+∑ N (k b )2λ 1λ 0 1
+σbf,sh = 3v A2~3 a2 m0a12(2lf +1)Γ(l + 1) Here k0 = √2m0c2a12∆Bi/ (~c) ,
+∫1
+Sλ =
+(1 − x2) x2λ + 1e−(k0b1)2x2 J2 1 (xk0RA2 )
+lf + 2 ]2 (20) A1a12x2 +1+ξ
+A1−1
+Γ(λ+ 3) Sλ. (18) 10 f2λ=li±1 2
+f (x)gλ (x) dx, with x = k2/k0, (19)
+0
+EB
+f (x) = [
+1+ ∆Bi (1−x2)
+]2 [ andξ=(∆n−∆− +EBi)/∆Bi.InEq.(19)gλ(x)=1ifλ=li +1and
+gλ (x) = (2li + 1)2 − 2 (2li + 1) (k0b1x)2 + (k0b1x)4 (21) The differential cross section dσbf,sh/dE2 of the process can be determined with the aid of
+∑
+possible maximum of the kinetic energy E2 of particle A2 + 1Y created in the process, Kbf stands for the whole factor Z2
+which multiplies the sum in (18). dσbf,sh/dE2 has accountable values near below z = 1, i.e. if E2 ∼ E20.
+dσbf,sh /dEe = Kbf [P (x)]x=√1−z / (2∆Bi ) can also be determined with the aid of P (x) where z = Ee /∆Bi , Ee is the kinetic energy of the electron and Kbf is defined and is given above. dσbf,sh/dEe has accountable values near above
+z=0,i.e.ifEe ∼0.
+
+
+5. Cooperative Internal Conversion Process by Proton Exchange
+Now the cooperative internal conversion process by proton exchange (CICP-PE, process (2)) will be discussed. In ()
+this process (see Fig. 1) a bound proton of an atomic nucleus A1 X, particle 2 is virtually excited into a free state Z1
+(particle 3) due to the dipole term V dip of its Coulomb-interaction (in electric dipole coupling the proton has effective Cb
+chargeqp =(1−Z1/A1)e[6])withoneoftheboundatomicelectrons(e1)oftheatomcontainingtheA1Xnucleus Z1
+while the electron becomes free (e′ ). The free, virtual proton is captured by an other nucleus A2 Y (particle 4) due 1 Z2
+to its nuclear potential Vst (created by strong interaction) forming the nucleus A2 + 1W (particle 5) in this way. The Z2 + 1
+sum of the rest energies of the initial nuclei is E0i and the sum of the the rest energies of the final nuclei is E0f. If E0i − E0f = ∆ > 0, i.e. if E0i > E0f, then the process is energetically allowed and proton exchange is possible. The nuclear energy difference ∆, which is the reaction energy, is shared between the kinetic energies of the final, free
+electron and the two final nuclei [A1−1V (particle 2′) is the nucleus which has lost the proton]. Z1 −1
+
+Figure 1. Graph of the cooperative internal conversion process by a heavy charged particle (e.g. proton) exchange. Particle 1 (bound) and 1’(free) are electrons, particle 2 is the nucleus which loses the heavy charged particle (e.g. proton) and becomes particle 2’. Particle 3 is the intermediate heavy charged particle (e.g. proton). Particle 4 is the nucleus which absorbs the heavy charged particle (e.g. proton) and becomes particle 5. The filled dot denotes (in case of a proton the dipole term of) the Coulomb-interaction and the open circle denotes nuclear (strong) interaction.
+
+The transition rate and the cross section σbf of CICP-PE with bound-free (bf) electron transitions can also be
+determined with the aid of a standard second-order perturbation calculation of quantum mechanics. (The cross section
+of CICP-PE with bound-bound electron transition is neglected since it has proved to be much smaller than σbf.) The
+calculation of σbf is similar to the calculation of CICP-NE. The difference is the appearance of the square of the 22 Z1
+two Coulomb factors f2′3 and f34 which (f2′3 and f34) multiply the cross section and ∆n, A are changed to ∆p , ()1
+1 − Z1 , respectively. ∆p = 7.288969 MeV is the energy excess of the proton. (f2′ 3 and f34 are determined in the A1
+Appendix, see (A.1).) The dipole term of the Coulomb interaction reads as
+()
+dip Z1 24π −2 ∑ ∗
+m=1
+VCb = 1 − A e 3 x1xe Y1m(Ωe)Y1m(Ω1),
+1 m=−1
+where x1 and Ω1 are magnitude and solid angle of vector x1 which is the coordinate of the proton in the first atom. (The order of magnitude of the cross section produced by the L-th pole coupling is (R/r)2L−2 times smaller than the cross section produced by the dipole coupling where R and r are the nuclear and atomic radii. Therefore the leading term to the cross section is produced by the dipole coupling.) The motion of the intermediate proton and the two final nuclei are also described by plane waves.
+
+Introducing the wave vectors ke and k1, k2 of the free electron and particles A1−1V (particle 2′) and A2 + 1W Z1−1 Z2 +1
+(particle 5), respectively, the analysis of σbf shows that, similarly to the CICP-NE, those processes give essential contribution to the cross section in which ke ≪ k1 and ke ≪ k2 where ke, k1 and k2 are the magnitudes of the wave vectors of ke, k1 and k2. (In this case as a consequence of momentum conservation k1 = −k2, furthermore the intermediate proton has wave vector −k2.)
+The initial and final nuclear states are one particle shell-model solutions of quantum numbers li, mi and lf, mf. The case of spherical shell model states of 0li initial nuclear state and of 0lf final nuclear state is investigated.
+Also keeping the leading term of Je1(ke), in the one particle spherical shell model and in the case of li = even [li = 2; Al(5/2 + , 0d)] to be investigated one obtains
+
+
+6. Total Rate Per Unit Volume
+The transition rate λ1 of CICP of one nucleus of mass number A1 of an atomic gas of number density n created by all those isotopes of mass number A2 for which CICP is allowed, is expressed in the spherical shell model in
+the σbf = σbf,sh approximation as λ1 = n A2 rA2 vσbf,sh. Here rA2 is the relative natural abundance of isotope of mass number A2 (in the cases of Ne and Al to be investigated the A2 = A1 event is only possible). Furthermore τ1/2,1 = ln 2/λ1 , which can be considered as a half-life.
+The quantity rA1 nλ1 is the rate per unit volume of the sample produced by the nuclei of mass number A1 which ∑
+take part as initial nuclei in CICP, and rtot = A1 rA1 nλ1, which is the total rate per unit volume of the sample.
+If the participating atoms are in the same solid then the cross sections are multiplied by the so-called Debye–Waller
+factor [10]. The analysis of (8), (12), (18) and (23) modified accordingly shows that the cross section and consequently
+the transition rate drastically drop due to the Debye–Waller factor and the phenomenon (CICP) becomes unobservable.
+In the case of diatomic molecules the appearance of a factor exp(−β2r2/4) in the cross section and the transition rate a√
+leads to the same result. (Here ra is the distance between the two nuclei in equilibrium position and β = μω/~ were μ is the reduced mass of the two vibrating atoms and ω is the angular frequency of vibration.) One can draw the conclusion that the phenomenon (CICP) is mainly related to atomic state, i.e. CICP can have an observable rate if either of the participating atoms is in atomic state or they belong to different clusters (solids, molecules).
+
+
+7. Numerical Calculation in Case of Ne (CICP-NE)
+In the numerical calculation V = 50 MeV is used [6]. In the case of Ne only the e+ 21Ne+ 21Ne → e′ + 20Ne+ 0 10 10 10
+22Ne + ∆ reaction of ∆ = 3.603 MeV is allowed. CICP-NE does not work in Ar since all the possible channels 10
+are energetically forbidden. On the other hand in the case of Kr and Xe nuclei the applicability of the spherical shell
+model may be in doubt. For Ne the transition rate is estimated as λ1 > λ1(K), which is the transition rate of the
+bound-free CICP-NE from the K shell of Ne. The initial and final states of 21Ne and 22Ne are supposed to be 0d
+spherical shell model states of li = lf = 2, rA1 = rA2 = r21 = 0.0027, and ∆− = 1.310 MeV. The electron binding
+energy in the K shell is EBi = 870.1 eV. (2E20 = 3.26 MeV and Kbf/ (2E20) = 4.77 × 10−25 cm3s−1MeV−1/v).
+vσbf,sh(K) = 2.48 × 10−34 cm3s−1 is obtained in the case of bound-free CICP-NE from the K shell of Ne. Taking
+this,theλ1 >1.8×10−17 s−1 andτ1/2,1 <3.8×1016 s(1.2×109 y)andrtot >1.25cm−3s−1 foragasofnormal
+state (n = 2.652 × 1019cm−3). The estimated half life is so long that the decay through CICP-NE does not alter
+natural abundance of Ne in observable measure. However, the rate is high enough to be measurable. 20Ne and 22Ne 10 10
+are mostly formed with energy near below
+E10 = A1 + 1 ∆Bi =1.97MeV and E20 = A1 −1 ∆Bi =1.63MeV
+A1 + A2 A1 + A2
+and with wave vectors of opposite direction. Therefore, it is plausible to observe their creation in coincidence mea-
+surement.
+
+
+8. Numerical Calculation in Case of Al (CICP-PE)
+It is a special case of process (2) when the two initial nuclei are identical. In this case the CICP-PE reads as
+e1 +A1X+A1X→e′1 +A1−1V+A1+1W+∆. (29)
+Z1 Z1 Z1−1 Z1 +1
+For example of such a case the reaction e + 27Al + 27Al → e′ + 26Mg + 28Si + ∆ is considered when the reaction
+13 13 12 14
+starts from the K shell. The initial and final nuclear states are supposed to be 0d spherical shell model states of li = lf = 2, ∆ = 3.31362 MeV. The electron binding energy in the K shell is EBi = 1.5596 keV and ∆− = −0.98235 MeV. In this case vσbf,sh(K) = 7.23 × 10−36 cm3s−1 is obtained in the case of bound-free CICP-PE from the K shell of Al. If one compares this result with vσbf,sh(K) = 2.48 × 10−34 cm3s−1 obtained in the case of CICP-NE in Ne one can recognize that the ratio of the two cross sections is only 0.029. At first sight it seems to be larger then expected since two Coulomb factors appear in the cross section. But as it was said earlier the intermediate proton has wave vector −k2 and thus its energy E3 = ~2k2/ (2m0) with ~k2 = ~k0x = x√2m0∆Bia12. It gives E3 = x2∆BiA1/2 since a12 = A1/2 if A1 = A2 and near below x = 1 the value of E3 is large enough to result moderately small Coulomb factors.
+For a gas of atomic Al and of number density n the rate λ1 = n A2 rA2 vσbf,sh = nvσbf,sh since the relative natural abundance r of the initial 27Al isotope equals unity. λ is estimated as λ > λ (K), which is the transition
+A2 13 1 11
+rate of the bound-free CICP-PE from the K shell of Al (λ1(K) = nvσbf,sh(K)), resulting λ1 > 1.92 × 10−16 s−1 and rtot > 5.08 × 103 cm−3s−1 for a gas of normal state (n = 2.652 × 1019cm−3 and rtot = nλ1, which is the total rate per unit volume of the sample, in this case since rA1 = 1).
+
+
+9. Other Results and Discussion
+Although the λ1 obtained for Ne and Al is rather small, the Weisskopf-estimation of the cross section indicates that it, and consequently λ1, may be increased very much with the increase of the atomic number. Moreover, the magnitudes of σbf and λ1 are very sensitive to the model applied, e.g. if neutron or proton capture of the nucleus of A2 is not restricted to the direct reaction then the integral in I2 (k2) must be carried out over the whole volume of the nucleus. In this case σbf,sh and λ1 are increased by a factor of about 240 for Ne. Furthermore, λ1 can essentially increase e.g. with the increase of n. Therefore, contrary to the smallness of the value of λ1 obtained in the cases of Ne and Al, CICP-NE and CICP-PE could play a role in the problem of nuclear waste disposal.
+
+In Tables 1 and 2 some long lived fission products are listed which can take part in CICP-NE and CICP-PE, respectively. The values of ∆− and ∆ + indicate that each pair of isotopes chosen from either of the two tables can produce CICP-NE or CICP-PE since ∆− + ∆− = ∆ > 0 in every case. Consequently, it seems there may be a practical chance to accelerate the decay of the listed isotopes if they are collected in appropriately high concentration and density in atomic state. This is, however, a great technical challenge.
+AspecialfamilyofCICP-NEreactions–thee + d + AX→e′ + p + A+1X + ∆reactionfamily–isworth ZZ
+mentioning. The quantity ∆−(dp) = ∆d − ∆p = 5.846 MeV, which is characteristic of neutron loss of the deuteron. Here ∆d and ∆p are mass excesses of d and p. The energy of the reaction is ∆ = ∆−(dp) + ∆+ and some specific reactions together with their ∆ + and ∆ values are listed in Table 3. (This is not a complete list.) Chances are that these reactions may open new perspectives in the field of nuclear energy production.
+In Table 4. the ∆−, ∆+ and ∆ data of some cooperative internal conversion processes by proton exchange (data to reaction (2)) can be found. In the first column the initial stable isotope of relative natural abundance unity and in the second column the reaction products are listed.
+There are other possibilities to realize CICP, when a charged heavy particle (such as d, t, 32He and 42He) is exchanged
+instead of proton exchange. The process is called cooperative internal conversion process by heavy charged particle
+exchange (CICP-HCPE) and it can be visualized with the aid of Fig.1 too. Denoting the intermediate particle (particle 3
+in Fig. 1) by A3 w, which is exchanged, the cooperative internal conversion process by heavy charged particle exchange z3
+e+A1X+A2Y→e′ +A1−A3V+A2+A3W+∆.
+
+Table 1. Data for cooperative internal conversion process by neutron exchange of long lived nuclear fission products. (Data to reaction (1).) A − 1 and A + 1 are the mass numbers of the two final isotopes, τ is the half-life of the fission product in year units. For the definition of ∆− and ∆ + see the text.
+Table 2. Data for the cooperative internal conversion process by proton exchange of long lived nuclear fission products. (Data to reaction (2).) Products are the two stable final isotopes, τ is the half-life of the fission product in year units. For the definition of ∆− and ∆ + see the text.
+Table 3. The values of the quantities ∆ + (A) and ∆ = ∆−(dp) + ∆ + (A) of the
+e + d + AX → e′ + p + A+1X + ∆reaction. rA isthenaturalabundanceofthe ZZ
+isotope. ∆−(dp) = ∆d − ∆p = 5.846 MeV, ∆d and ∆p are mass excesses of d and p.
+Table 4. Data for cooperative internal conversion process by proton exchange. (Data for re- action (2).) In the first column the initial stable isotope and in the second column the reaction products can be found. For the definition of ∆− , ∆ + and ∆ see the text.
+Table 5. Data for the cooperative internal conversion process by triton exchange. (Data to reaction (32).) In the first column the initial stable isotope and in the second column the reaction products can be found. For the definition of ∆− , ∆ + and ∆ see the text.
+
+Here e and e′ denote bound and free electron and ∆ is the energy of the reaction, i.e. the difference between the ()()
+rest energies of initial A1X + A2Y and final A1−A3V + A2 +A3W states. ∆ = ∆− + ∆+, with ∆− = Z1 Z2 Z1−z3 Z2 +z3
+∆A1 − ∆A1−A3 and ∆+ = ∆A2 − ∆A2 +A3. ∆A1, ∆A1−A3 , ∆A2, ∆A2 +A3 are the energy excesses of neutral Z1 Z1−z3 Z2 Z2 +z3 Z1 Z1−z3 Z2 Z2 +z3
+atoms of mass number–charge number pairs A1, Z1 ; A1 − A3, Z1 − z3; A2, Z2; A2 + A3, Z2 + z3, respectively [5]. In process (30) the initial bound electron (particle 1) Coulomb interacts with the nucleus A1 X (particle 2). A free
+Z1
+electron (particle 1′ ), the intermediate particle A3 w (particle 3) and the nucleus A1 −A3 V (particle 2′ ) are created due to
+z3 Z1 −z3
+this interaction. The intermediate particle A3 w (particle 3) is captured due to the strong interaction by the nucleus A2 Y
+z3 Z2 (particle 4) forming the nucleus A2 + A3 W (particle 5) in this manner. So in process (30) the nucleus A1 X (particle 2)
+Z2 + z3 Z1
+looses a particle A3 w which is taken up by the nucleus A2 Y (particle 4). The process is energetically forbidden if
+z3 Z2 As an example we deal with the
+e+A1X+A2Y→e′ +A1−3V+A2+3W+∆ (31) Z1 Z2 Z1−1 Z2 +1
+reaction in which a triton is exchanged. It is called CICP by triton exchange (CICP-TE). A special type of reaction (31) is
+e+A1X+A1X→e′ +A1−3V+A2+3W+∆. (32) Z1 Z1 Z1−1 Z2 +1
+In Table 5, the ∆−, ∆− and ∆ data of some cooperative internal conversion processes by triton exchange (data to reaction (32)) can be found.
+
+
+10. Summary
+In this paper the cooperative internal conversion process (CICP) is discussed. It is shown that the Coulomb interaction between bound electrons and the nucleons of a nucleus may lead to exchange of one or more nucleons between two nuclei which are located in different atoms. The cross sections of CICP with neutron and proton exchange are calculated and the qualitatively extended mechanism also shows the possibility of many nucleon (such as d, t, 32He and 42He) exchange. There is a chance that CICP may accelerate the decay of long lived isotopes, e.g. long-lived nuclear fission products. Moreover, it was found that special types of CICP with neutron exchange of deuterons with other nuclei may open new perspectives in the field of nuclear energy production. In conclusion, the results indicate that CICP seems to be able to significantly modify nuclear processes.
+
+
+11. References
+[1] J. H. Hamilton, Internal Conversion Processes, Academic Press, New York, 1966.
+[2] A. Huke, K. Czerski, P. Heide, G. Ruprecht, N. Targosz and W. Zebrowski, Phys. Rev. C 78 (2008) 015803.
+[3] P. Kálmán and T. Keszthelyi, Phys. Rev. C 69 (2004) 031606(R).
+[4] P. Kálmán and T. Keszthelyi, Phys. Rev. C 79 (2009) 031602(R).
+[5] R.B. Firestone and V.S. Shirly, Tables of Isotopes, 8th Edn., Wiley, New York, 1996.
+[6] W. Greiner and J.A. Maruhn, Nuclear Models, Springer, Berlin-Heidelberg, 1996.
+[7] L.D. Landau and E.M. Lifsic, Quantum Mechanics, Non-relativistic Theory, 3rd Edn., in Course of Theoretical Physics,
+Vol. 3, Chapter 43, Pergamon Press, Oxford, 1977.
+[8] J.M. Blatt and V.F. Weisskopf, Theoretical Nuclear Physics, Wiley, New York, 1952.
+[9] M.K. Pal, Theory of Nuclear Structure, Scientific and Academic, New York, 1983.
+[10] C. Kittel, Quantum Theory of Solids, 2nd Edn., Ch. 19, Wiley, New York, 1964.
+[11] K. Alder, A. Bohr, T. Huus, B. Mottelson and A. Winther, Rev. Mod. Phys. 28 (1956) 432–542.

@@ -1,0 +1,177 @@
+1. Introduction
+
+The studies on deuterium/palladium system have been conducted for more than 20 years in order to
+search for the anomalous phenomena. One of the subjects has been if we should treat the deuterons inside
+the palladium as granular particles or as a wave. S. Chubb and T. Chubb proposed early in 1990 that the
+deuterons inside the palladium should be treated as a wave based on the similarity with the electrons and
+the experimental facts [1, 2]. In 1995, the selective resonant tunneling model was proposed to explain the
+tunneling of Coulomb barrier between deuterons based on the wave mechanics [3, 4]. This wave model
+explained also why there was no accompanied commensurate neutron and gamma radiation for excess
+heat. Indeed the hot fusion data for 6 major fusion cross sections justified this wave model [5, 6] as well.
+The verification of three deuteron fusion reactions [7, 8, 9] has further supported this wave resonance
+model inside the metal-hydrides. In this paper, we provide two additional analyses of experimental data
+which show the wave nature of the deuterons inside the palladium thin film.
+
+The correlation between deuterium flux and heat flow provides the first set of experimental data [10]. The
+permeation of the deuterium through the palladium thin film with nanometer coating layers provides the
+second set of experimental data [11, 12, 13]. Two theoretical derivations are presented accordingly to
+explain these two sets of data, and show clearly the wave nature of deuterons. 
+
+
+2. The identity of (A/T) and correlation between deuterium flux and heat flow
+
+A, the absorption rate, and T, the transmission rate, are two important rates to describe the permeation
+process of deuterons through palladium film. A is defined as the ratio of the number of absorbed
+deuterons to the number of injected deuterons. T is defined as the ratio of the number of permeated
+deuterons to the number of injected deuterons. If the deuterons are treated as granular particles, we may
+expect that the transmission rate might decrease when the absorption rate increases while the injected
+number is fixed. 
+
+However, the experimental result showed differently. The
+deuterium flux (solid line in upper plot of Fig.1 (blue, right
+coordinate)) increased when the heat flow (dash-dotted line
+(red, left coordinate)) increased. Since the deuterium flux and
+heat flow are supposed to be related to transmission (T) and
+absorption (A), respectively, the summation of (T+A) is
+supposed to be equal to (1-R). Here R is the reflection rate
+which is defined as the ratio of the number of reflected
+deuterons to the number of injected deuterons. If the deuterons
+are treated as granular particles and the permeation is treated as
+a diffusion process of random walking particles; then, the
+number of the reflected deuterons on the palladium surface is
+fixed or increases slowly when temperature decreases (the solid
+line (pink) in the lower plot of Fig.1). Thus, we might expect
+(T+A) is fixed or decreases slowly. Then any peak up in T
+would be accompanied a spike down in A. In contrary, the
+experimental data showed that peaks in T are accompanied by
+peaks up in A. It implied that (T+A) has a peak there, or more
+deuterons are entering palladium there. This conflicts with the
+diffusion model which implies less diffusion flux through
+palladium when temperature goes down. 
+
+In a word, diffusion model allows only a monotonic decreasing deuterium flux when palladium is cooling
+down, and allows only a negative correlation between the deuterium flux and heat flow. It does not allow
+such a peak-wise behavior of deuterons permeating through the thin film of palladium, and does not allow
+a positive correlation between the deuterium flux and heat flow. We have to modify the diffusion model
+in order to explain this phenomenon. That is to say: deuterons are not random walking granular particles
+in permeation through the thin palladium film.
+
+A slab model based on the wave nature of the deuterons is proposed to describe the interface between
+deuterium gas and palladium surface in Fig.2. A thin layer (PdO or any coating layer) is assumed on the
+surface of palladium. Two sets of rates, (T0, A0) and (T1, A1) are defined to describe the surface layer and 
+the palladium substrate, respectively. 
+
+An identity has been proved to calculate the transmission and absorption rates of compound system (see
+Appendix A): 
+
+It is a direct result of wave property: (1) The injected wave may be reflected not only by the first layer,
+but also by the interface between the first layer and the Pd substrate; (2) the total reflection is determined
+by the summation of these two reflected waves; (3) the wave phase angle between these two reflected
+waves may lead to a zero summation of wave amplitude and greatly reduce the total reflection. As a result,
+the ratio is always greater than each individual ratio (because the multiple reflections in the interface between the first layer and the Pd substrate always enhance the total absorption (A) and
+reduce the total transmission (T). On the contrary, if the deuterons act as the granular particles, the total
+reflection, (1-(T+A)), is always greater than each individual reflection; then, (T+A) must be reduced.
+Thus any peak in T must lead to a spike downward in A.
+
+Consequently, the positive correlation between the deuterium flux and the heat flow just denies the simple
+diffusion model of granular particles and reveals the wave nature of the deuterons permeating through the
+thin film of palladium. A series of experiments were designed to further verify this wave nature [11, 12,
+13]. 
+
+
+3. The permeation of deuterons through palladium film with nanometer multiple coating layers 
+
+In order to verify this wave nature of deuterons permeating through palladium film, we may add more 
+coating layers on the surface of palladium substrate (Fig.3). Instead of changing temperature, we may 
+change the number of coating layers and see if the total reflection might be reduced by interference of 
+reflected waves from several interfaces. If the wave model is correct; then, at certain number of coating 
+layers, we are supposed to see the total transmission would be enhanced to higher than the transmission 
+with no coaling layers. 
+
+On the palladium sustrate a TiC layer of 2 nm is coated first by ion sputtering. Then a palladium layer of 
+20 nm is coated. These alternatively coated Pd-TiC-Pd films were used to measure the deuterium flux 
+near 120oC [13]. Since the phase angle plays key role in the wave phenomena, we assign the change of 
+the phase angle (φ ) for each Pd-TiC-Pd compound layer. The transmission rate (T) is assigned also to 
+describe the feature of each Pd-TiC-Pd compound layer. The task is to find the total transmission rate 
+(TN) for a palladium substrate with N Pd-TiC-Pd compound layers, and compare it with the experimental 
+data. 
+
+Fig. 3. - Multiple coating layers on the surface of Pd substrate 
+
+Based on the matrix algebra(Appendix B), we may reach 3 conclusions: 
+
+(1) The Tansmission rate of the palladium coated with nanometer TiC-Pd layers is 
+Here, (T0,φ0) is assigned for the first palladium layer facing deuterium gas. (N TN,φ) is assigned for the 
+N compound layers TiC-Pd facing the first palladium layer (see Appendix B.)  
+
+(2) NTN,φ) can be written as an explicit function of the number of compound layers TiC-Pd⋅⋅⋅TiC-Pd: 
+
+(3) An eigen angle,α1, is introduced in eqs.(3) and (4) based on the (
+Here, N is the number of nanometer coating layers.  
+Using 4 input parameters, it reproduces the experimental data, the ratio of 
+In Fig.4, the red stars are the results of the experimental measurement, and the open circles are the result of 
+calculation using eqs. (3), (4) ,(5) for 
+T0 = .0 0031,
+φ0 = .0 1123,
+.2 4026.
+.0 7629,
+ These open circles are connected by dotted lines because N is supposed to be intgers only. The predominate 
+feature is that: (1) This ratio at N=1, and N=6. It implies the reduction of reflection due to 
+interference of several reflected waves. 
+This is the characteristics of wave model. 
+(2) A peak-wise behavior of versus N implies the failure of diffusion 
+model of radom walking granular particles 
+in palladium. 
+
+
+4. Discussion 
+
+This wave model is originally based on the 
+similarity between electrons and deuterons 
+in the palladium-deuterides. However, the 
+de Broglie wavelength of deuteron is much 
+smaller than that of electron. Can we still 
+apply the wave model to deuteron? The 
+low energy electron diffraction (LEED) 
+experiments show that the electron Deuterium Flux Ratio T0N/T0
+Layer Number  N Experimental Data Wave Model
+diffraction pattern appears even if the electron energy reaches 267 eV [14]. The electron wave length at 
+this energy is similar to that of a deuteron at thermal energy. Hence, we might expect the characteristics 
+of deuteron waves in the palladium deuteride at room temperature. Indeed we checked once and once 
+again this peak-wise dependence of T N versus N by different experiments: measure the changing 
+rate of deuterium pressure in vacuum side of palladium film[12], and in the high pressure side of 
+palladium film[13]; compare the behavior of air and deuterium to assure the peak-wise characteristics of 
+deuterium flux[13]. All these experiments  have confirmed the peak-wise behavior in Fig. 4. Hence, the 
+wave nature of deuterium flux permeating through palladium thin film is confirmed. 
+
+The great success in superwave triggering, and in ultrasonic wave work has implied the wave nature of 
+metal deuterides as well [15,16,17] although we need to figure out the underlined mechanism. Chemical 
+catalyst model failed in this peak-wise feature because its effect depends only on the first surface layer. 
+
+The ratio TA may be enhanced by multiple nanometer coating layers on the surface of palladium. If we 
+increase the transmission T by certain number of coating layers; then, we may increase the absorption of 
+deuterons inside the palladium deuteride. In this way we may enhance the loading ratio and the possibility 
+of having “excess heat”. Indeed, this is using the reflection waves among interfaces to enhance the 
+confinement of deuterons inside the palladium. 
+
+
+References 
+[1]. S.R. Chubb and T.A. Chubb, Proceedings of the First Annual Conference on Cold Fusion, March 
+28-31,1990, Salt Lake city, Utah, p.119 (National Cold Fusion Institute, 1990) 
+[2]. R. Nieminen, Nature 356  289 (1992) 
+[3]. X.Z. Li: Proceedings of ICCF-5, 9-13 April, 1995, Monte Carlo, Monaco, p.285(1995) 
+[4]. X.Z. Li: J. of New Energy, 1 No.4  44 (1996) 
+[5]. X.Z. Li: Fusion Science and Technology 41 63( 2002) 
+[6]. X.Z. Li, Q.M. Wei, B. Liu: Nuclear Fusion 48 125003(2008) 
+[7]. J. Kasagi, et al., J. Phys. Soc. Japan 64 (3) 778 (1995) 
+[8]. A. Takahashi, et al., Fusion Tech. 34  256 (1998) 
+[9]. G.K. Hubler, Private communication (2009) 
+[10]. X.Z. Li, B. Liu, J. Tian, et al. J. Phys. D: Appl. Phys. 36 3095(2003) 
+[11]. X.Z. Ren, Thesis for Master Degree of Science at Tsinghua University (2003) 
+[12]. J. Li, Thesis for Bachelor Degree at Tsinghua University (2006) 
+[13]. B. Liu, et al., Proceedings of ICCF-15, (2009) 
+[14]. J.B. Pendry, Low Energy Electron Diffraction, Academic Press (London and New York, 1974), p.20. 
+[15]. I. Dardik, Proceedings of ICCF-15, (2009) 
+[16]. V. Violante, et al., Proceedings of ICCF-15, (2009) 
+[17]. Y. Toriyabe, et al., Proceedings of ICCF-15, (2009) 
+[18]. X.Z. Li, Condensed Matter Nuclear Science, Proceedings of 9-th International Conference on Cold 

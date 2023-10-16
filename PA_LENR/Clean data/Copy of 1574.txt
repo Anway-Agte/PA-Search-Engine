@@ -1,0 +1,553 @@
+1. INTRODUCTION
+
+There have been a variety of anomalies claimed to have been observed in metal deuterides and in
+metal hydrides over the past 13 years. The principal effects that have been claimed include: temperature
+excess, energy production, heat with quantitative 4He, slow tritium production, low level dd-fusion, gamma
+emission, fast low-mass ion emission that is not from dd-fusion, induced radioactivity, massive
+transmutation, and the observation of reaction products from beam experiments consistent with a three-
+deuteron reaction. From our perspective, the most important theoretical problem to be addressed is one of
+mechanism.
+
+Most physicists would agree that the new effects claimed to have been observed are not
+consistent with vacuum nuclear physics as has been studied for the past 80 years. The point of view taken by
+the physics community in light of the experimental claims has been to question the competence of those
+performing the measurements.
+
+We chose instead to contemplate the theoretical implications of the
+experimental claims.
+
+After considering a very large number of approaches to the theoretical problem, it appears that the
+most promising route for understanding, and hence modeling, the experimental claims is to replace the
+vacuum nuclear physics formulation with a new formulation that includes solid-state effects implicitly at the
+outset.
+
+While this may seem to be a very obvious starting place, the reader should be assured that this
+obviousness is entirely retrospective.
+
+
+2. INCLUDING THE LATTICE IN THE PROBLEM FORMULATION
+
+There are two basic formulations that have been used to describe fusion reactions in the literature:
+the resonating group method,[1] and the R-matrix method.[2] The extension of these methods to include solid
+state effects is completely straightforward, as we have discussed previously.[3] The resonating group method
+may be thought of as specifying an approximate multichannel variational wavefunction
+in which the internal nuclear degrees of freedom are described by basis states
+, and the relative channel
+separation factors Fj describe the physics associated with the separation of the center of mass of the reacting
+and product nuclei. The optimization of the channel separation factors leads to coupled-channel equations
+that we may write formally as
+The generalization of the approach to include solid state effects involves the replacement of the channel
+separation factors Fj with lattice channel separation factors
+that include in principle a description of all
+of the center of mass coordinates in the solid on equal footing. The lattice resonating group method is then
+based on an approximate multichannel variational wavefunction
+The optimization of the associated lattice channel separation factors
+leads to coupled lattice
+multichannel equations
+The R-matrix method can be extended similarly to the lattice case. Our focus here will be on the lattice
+resonating group method, as it is the simpler formulation to present basic concepts.
+
+The basic claim is that the inclusion of the solid-state part of the problem at the outset is ultimately
+all that is needed in order to generalize vacuum nuclear physics to be relevant to developing models for the
+various anomalies. A seemingly innocuous physical statement is proposed, however, the ramifications are
+enormous.
+
+
+3. PHONON EXCHANGE AND SECOND-ORDER SITE-OTHER-SITE REACTION
+
+One would not expect that the exchange of a few phonons would have much impact on fusion rates
+or reaction channels of first-order reactions in the lattice. Perhaps the most promising route to demonstrate
+directly the existence of a phonon exchange effect is to seek a modification of the angular dependence of the
+reaction products for very low energy fusion reactions in a solid with a very strong uniform optical phonon
+field. This would involve careful low energy accelerator experiments in which the angular distribution would
+be measured with and without optical phonon excitation. A small change in the angular distribution of the
+dd-fusion products would occur if a strong phonon exchange effect were present.
+If measured, it would
+prove that angular momentum exchange between a phonon field and the microscopic nuclear system can
+occur. No such experiments have been done or are planned to the author’s knowledge.  
+
+However, the new formulation allows for the possibility of a novel class of second-order reactions.
+A second-order reaction is possible for reacting nuclei at two different sites as long as phonon exchange
+occurs with a common phonon mode.[4]
+The most important of such a second-order reaction in a metal
+deuteride is the null reaction
+Two deuterons fuse at one site, and a helium nucleus dissociates at another site, the two processes being
+coupled together through phonon exchange with a common phonon field. The microscopic selection rules
+require an E2 electric quadrupole interaction, which in this case comes about through phonon exchange. This
+reaction we will discuss further below.
+
+This basic mechanism also implies other second-order reactions. Relevant to light water reactions is
+the 3He version of the null reaction
+The energy from a fusion reaction at one site can disintegrate a nucleus at another state, through a second-
+order reaction of the form
+In this case, the alpha particles would be ejected at energies between 18-21 MeV, as reported by Chambers.[5]
+The observations of Cecil in TiD2 can be accounted through a similar mechanism.[6] Iwamura has recently
+claimed the observation of substantial transmutation effects.[7] The specific cases that he reports, assuming
+that the effect is real, could be accounted for by site-other-site reactions of the form
+assuming that the energetic 12C nucleus produced as a result subsequently reacts with a nearby nucleus in a
+12C (A’Z’,A’+8[Z’+4]) 4He reaction.
+
+
+4. TWO-SITE MODEL WITH A WIGNER INTERACTION
+
+As in our previous work, we seek the simplest models that contain the physics of interest in order to
+illustrate the effects under discussion. In the many-body problem of interest, there are a very large number of
+sites that can interact. Here we restrict ourselves to only two active sites. Many phonon modes in general are
+involved. Here we reduce the problem down to a single highly excited mode, while all other modes are
+accounted for in local coordinates.[8] The nuclear interaction depends on spin and isospin in a complicated
+way.
+Here we propose to simply use a scalar Wigner Gaussian interaction.
+In the end, the resulting
+Hamiltonian for the coupled lattice and nuclear system is of the form
+
+The sum over nuclear coordinate ranges over four nucleons at one site, and four more nucleons at a second
+site.
+Nucleons interact with each other through an attractive scalar Gaussian interaction and Coulomb
+interaction. The highly excited phonon mode has amplitude q. For the two sites to interact with a common
+phonon mode, the two sites must be close together, within several hundred Angstroms to a micron,
+depending on the phonon mode in question. The optical phonon modes between 8 and 15 THz in PdD would
+probably be most effective. However, the highest acoustical phonon modes in the THz region may show a
+response, and one might expect the strong coupling between electrons and phonons to lead to a response at
+higher frequencies. The local potential seen by either a pair of deuterons or a helium nucleus at each site is
+presumed to be approximately spherical in the absence of effects due to the highly excited phonon mode.
+The nuclear and Coulomb interaction depends on the highly excited phonon mode through the relative
+deuteron center of mass coordinate of the deuterons.
+
+An approximate wavefunction for the coupled lattice and nuclear system is developed according to
+We consider in this model that the terms  are to be taken as basis functions, and the various P functions
+are the residual radial lattice coupled-channel separation factors. The basis functions include internal nuclear
+ functions, that keep track of whether the two sites, a and b, are occupied by a deuteron pair or a helium
+nucleus. The highly excited phonon mode is accounted for by
+n
+. The angular momentum associated with
+the local radial channel separation factor is accounted for by the various spherical harmonics Ylm.
+
+The optimization of the wavefunction leads to lattice coupled-channel equations of the form
+described previously. For example, the two-helium channel is optimized to give
+This equation and equivalent equations for other channels are reduced to radial coupled-channel equations of
+the form
+These equations are derived assuming a harmonic oscillator model for the highly excited phonon mode.
+
+
+5. PHONON EXCHANGE
+
+Phonon exchange appears naturally within the model. We have pursued a calculation of phonon
+exchange in the case of Gaussian nuclear wavefunctions.
+The overlap integral between a deuteron pair and a helium nucleus depends on the relative distance between
+the deuteron center of mass coordinates. If we naively replace H-E by the scalar Wigner interaction, then we
+obtain
+r . The distance between the two-deuteron center of mass coordinates
+is a function of the amplitude of the highly excited phonon mode
+Here r is the residual radial separation coordinate, and
+describes the relative motion due to the highly
+excited phonon mode. The basic picture that underlies this discussion is one in which two deuterons occupy
+a single site, either due to high loading, high temperature, or due to the presence of vacancies within the
+metal deuteride. Occasionally, the deuterons tunnel close together. While close together, the deuterons are
+still part of the lattice, and constitute a component of the phonon modes of the lattice. When they are close
+together, the very strong nuclear and Coulomb interactions dominate over the interactions with relatively
+distant atoms that may be a few Angstroms away. However, the deuterons will still exhibit a response in the
+presence of strong phononic excitation, although a weak one, which must be computed using a linearization
+scheme that takes into account the very strong interactions the deuterons undergo while close together. The
+resulting relative motion that is accounted from the
+term is expected to be on the order of fermis.
+
+After much algebra and the use of the WKB approximation, we obtain for an interaction
+where
+n is the number of phonons exchanged, and where
+Our calculations so far indicate that a maximum local relative motion
+u qmax
+on the order of half a fermi
+is sufficient to generate a significant two-phonon exchange interaction.
+Relative motion on the order of
+several fermis can result in the exchange of on the order of 10 phonons within this kind of model.
+
+
+6. THE MANY-SITE PROBLEM
+
+We have considered the generalization of the problem to the case of many sites. The mechanics of
+the construction of the many-site coupled channel equations are straightforward, however, the problem seems
+to be qualitatively richer as we discuss below. In conducting the study, we had hoped to obtain a continuum
+of compact state solutions, along the lines that we outlined in a recent lengthy review of the problem.[9] Our
+recent results suggest that the conclusions in this review are somewhat naïve, and that the basic picture
+requires some revision.
+
+The many-site coupled-channel equations are of the basic form
+where
+is a many-site channel separation factor with configuration  and with index M defined by
+
+There are a very large number of channels, and it quickly becomes impractical to attempt a direction solution
+of them. In our previous work, we made use of infinite-order Brillouin-Wigner perturbation theory in order to
+get some insight as to possible nature of the solutions. Here, we simply note that it appears that such an
+approach is simply not up to the problem when the coupling becomes strong enough to be interesting in
+terms of accounting for the experimental results. Instead, we must make use of alternate approximations.
+
+Of fundamental concern is the question of whether there exist localized solutions to the many-site
+version of the coupled-channel equations. It seems a priori unlikely that an answer would be forthcoming
+without a brute force computation on the coupled-channel equations. Our efforts to date on this problem
+have so far not produced insight. For the purposes of the present discussion, we might adopt as an ansatz the
+assumption that we can define useful localized states which may or may not be stable, and proceed with the
+calculation in order to ascertain the goodness of the ansatz with solutions in hand. This appears to be a
+productive approach.
+
+We propose to simplify matters further in order to allow us to make progress on the development of
+this very hard problem by assuming that all sites are identical, and furthermore, that the establishment of a
+localized state at each of these sites will involve the same local superposition of orbitals within the different
+angular momentum channels. These simplifications lead ultimately to a an approximate time-independent
+eigenvalue equation based on a Hamiltonian of the form
+In this Hamiltonian the  operators are pseudospin operators that are developed as a superposition
+over Pauli matrices at the different sites
+The parameter S is the Dicke number for the system
+The localization energy for a single site is <h>, and the
+Vnn'
+terms are integrals of the interaction potentials
+and localized orbitals summed over the different angular momentum channels.
+
+We have encountered such a Hamiltonian previously, before we had considered the possibility of
+localized two-deuteron states, as perhaps applying to a many-body version of the problem in which molecular
+states would make phonon-mediated transitions to helium states. In that case, the hope was that the number
+of sites involved would be sufficiently large that the Dicke enhancement could offset the Gamow factors.
+Here, we apply the Hamiltonian now to the situation where compact states are making transitions, in which
+case there is no Gamow factor, and the coupling is very strong. In our previous work, we studied this kind of
+model in order to understand under what conditions such a model might lead to extended states that were
+sufficiently broad in n so as to allow coherence between the states with different number of fusion events and
+vastly different phonon number such that approximate energy conservation occurred. We were astonished at
+how this model stubbornly insisted on producing localized states in which the number of phonons exchanged
+was on the order of the associated dimensionless coupling constant. This being said, we are aware that the
+eigenfunctions of this Hamiltonian are generally not overly interesting in regards to relating to the physical
+problem in question, without further input to the problem.
+
+
+7. INCLUDING LOSS
+
+The basic problem with the model Dicke Hamiltonian lies in its high degree of symmetry when n
+and S are large, and M is small. In order to develop delocalized solutions, the symmetry needs to be broken
+somehow. Either we require coupling coefficients that depend strongly on n or M, or else we need some kind
+of additional potential that is highly nonlinear in one or both of these quantum numbers. It is the case that
+working in the limit where the number of helium nuclei that interact is on the order of the dimensionless
+coupling strength makes a difference with respect to delocalizing the solutions in n and M space.
+
+There is another effect which is much more important, and which has a very strong dependence on
+M.
+This includes loss terms.
+For example, when two deuterons fuse in the many-site problem, the off-
+resonant energy
+E
+(24 MeV) is more than enough to fuel recoil between localized deuterons and many
+other highly energetic decay modes. The presence of such decay modes completely destroys the underlying
+symmetry of the problem, and produces significant delocalization of the wavefunction in n and M space.
+Unfortunately, the inclusion of decay channels into a Hamiltonian is not particularly straightforward. Such
+problems in other disciplines are often handled using density matrices.
+We wish not to adopt such a
+formulation here, as the associated complications would likely make further progress more difficult due to
+the added complexity of the approach.
+
+Instead, we prefer to think about the problem as a probability flow problem, as we will outline
+below. In order to derive the relevant flow problem, we consider a Hamiltonian of the form
+We imagine that the problem divides up into three sets of basis states, source states, sink states, and states
+intermediate between the two. For example, we might consider deuteron pairs locally in molecular states to
+be part of the source states. States that contain energetic reaction products that result from recoil processes or
+other reactions are sink states. Intermediate states are those including helium nuclei or two-deuteron compact
+states in the sites of interest. We may divide the associated Hilbert space into three sectors that correspond to
+source basis states, sink basis states, and intermediate basis states. After all, loss can be thought of as simply
+transitions from a sector of Hilbert space that one is interested in, to other sectors. We can accomplish this
+splitting of the different sectors by taking advantage of Feshbach projection operators
+where the summation j is over the basis states in sector i. The time independent Schrodinger equation for this
+Hamiltonian is
+
+To split this equation into sector-dependent equations, we assume that the eigenfunctions contains
+components in the three different sectors
+The time-independent Schrodinger equation is then divided into sector-dependent equations given by
+We identify with the source sector,
+with the intermediate states, and
+with the sink states.
+In
+writing these equations, we presume that there is no direct coupling between source and sink states. The sink
+states can be eliminated as in infinite-order Brillouin-Wigner theory
+The intermediate sector equation then becomes
+
+The interaction between the intermediate sector and the sink sector appears in this equation in the same way
+as in infinite-order Brillouin-Wigner theory.
+
+When the resolvant operator has a pole in a continuum at
+energy E, then the inverse operator develops an imaginary component that describes decay. We see in this
+equation a description of the intermediate sector, driven by the source sector, and decaying to the sink sector.
+We can solve formally for the intermediate sector component of the wavefunction to obtain
+This accomplishes the development of a probability amplitude flow equation, complete with source and with
+sink.
+Although the underlying formulation is rigorously Hermitian throughout, the inverse operator
+describing the intermediate sector evolution is non-Hermitian with respect to the intermediate sector. We
+have included loss into a Schrodinger formulation in a useful way. We define the operator
+K2
+to be the
+intermediate sector Hamiltonian augmented with loss terms that are non-Hermitian with respect to the sector
+2 basis states
+The intermediate state solution written in terms of this operator becomes
+This is interesting, as K2 has eigenfunctions that are delocalized due to the presence of loss terms that are
+very nonlinear in M.
+
+
+7. INTERMEDIATE STATE DISTRIBUTIONS
+
+We have put together a computer code to analyze the intermediate state solutions along the lines
+outlined above.
+Let us consider a few examples in order to illustrate some of the systematics. In Figure 1,
+we show the logarithm of the probability distribution under conditions
+where the source is localized at ( M0, n0 ), and the coupling is weak. In this case, the initial condition
+corresponds to 3 helium atoms and 10 deuteron pairs.
+We see that the associated probability density is
+closely centered around the source, that the distribution is localized in phonon number, and that there is a
+spread in M that is perhaps larger than one might expect.
+In the direction of negative M-M0, which
+corresponds to more helium nuclei present, the states are very unstable, and the probability distribution
+decays moderately. The balance between the coupling strength and the decay rate determines the slope. In
+the other direction, we quickly reach the boundary at which all of the helium nuclei have dissociated, where
+there is a wall. These states are stable, as they are in serious energy deficit. Such a distribution corresponds
+to a low or modest level of conventional dd-fusion events, as well as some events in which the fusion energy
+is transferred to other decay modes within the lattice.
+
+Figure 1: Probability distribution in the vicinity of the source in the case of weak coupling.
+
+In Figure 2, we illustrate the same situation, except that the phonon oscillation amplitude is larger,
+and the interaction strength for phonon exchange is greater. We see that the stronger coupling leads to a
+much larger spread in n, which is a hallmark of this kind of model. The spread in M is very significant as
+well, more so than in the previous example. This spread would like to be even larger, however, in both the
+positive and negative directions, the distribution hits walls as the number of helium nuclei and deuteron pairs
+is limited. We see that there is some avoidance of high loss regions of the configuration space, but that this is
+not a dominant effect in this problem.
+
+In Figure 3, we present the logarithm of the probability distribution in the case where there are more
+helium nuclei present, and the losses are lower
+(corresponding to the development of higher angular
+momentum states). We see that the spread in phonon number is now much greater. We see another effect
+that is of great interest as well. We see that the probability distribution is strongly skewed into the region in
+log10 P(M,n)
+n - n0
+M - M0
+which M-M0 is positive, avoiding the region in which M-M0 is negative.
+The avoided region is where
+deuterons have fused to helium, and where the system has more energy than the local basis state energy, and
+hence where many decay processes are allowed. The probability distribution is seen to be favoring low-loss
+regimes, and hence minimizing the overall loss. This is very interesting, and appears to be a fundamental
+characteristic of this quantum system.
+
+Figure 2: Probability distribution in the vicinity of the source in the case of moderate coupling.
+
+Figure 3: Probability distribution in the vicinity of the source in the case of strong coupling. Only a
+restricted range in n-n0 has been included in the plot.
+
+The spread of the distribution in phonon number increases as the strength of the coupling, and
+decreases under conditions in which the loss is large. It is possible to develop some intuition from these
+results as to how this problem works. The part of the Hamiltonian that describes fusion and dissociation
+transitions in this context serves as a kind of kinetic energy operator for the problem. The solutions appear to
+be outwardly oscillatory away from the source. As long as the probability amplitude avoids lossy regions,
+log10 P(M,n)
+n - n0
+M - M0
+log10 P(M,n)
+n - n0
+M - M0
+then there appears to be a flow from the source into the positive M-M0 corridor, confined on one side by a
+wall, and on the other side by an impedance mismatch associated with a high loss region. This flow is
+increased by a stronger coupling between the states, and inhibited only by the boundary loss.
+Our
+calculations so far have indicated that the transport of probability amplitude through the corridor can easily
+extend for more than a thousand quantum numbers in n-n0. Altogether this is indicative of a rather efficient
+mechanism for coupling excitation and energy between the nuclear and phonon degrees of freedom.
+
+
+8. STABILITY OF THE COMPACT STATES
+
+The formulation and results given above allow us to re-examine the question of the stability of the
+compact states in light of the solutions that we have obtained. Stability can be assessed from two different
+points of view.
+
+On the one hand, we may look at the average loss rate for the intermediate probability
+distribution, and judge the stability of the compact states based on the resulting decay rate per site. We
+discussed above that most of the probability distribution is in the low-loss regime corresponding to the
+system being in relative energy deficit, in which the channels through which the compact states might
+separate by recoil are closed. Loss numbers estimated based on the presumption that recoil occurs freely
+wherever energetically allowed show that the stability improves dramatically as a function of the ability of
+the distribution in M and n to localize in regions of stability. We have seen up to three orders of magnitude
+improvement in the decay rate as measured in this way.
+
+On the other hand, we might look at the stability of the compact states as measured by whether the
+exchange terms lead to a net positive or negative energy contribution as measured by
+
+This interaction energy is negative under most conditions, which corresponds to the local exchange
+interaction being attractive. This argues in support of the compact states being localized. The corresponding
+local exchange energy that we have seen in the calculations done so far has approached 1 MeV.
+This
+argument needs to be developed further, but these results support the premise that stable compact states exist
+in the case of the many-site problem. It remains to establish precisely the conditions under which they are
+stable, however, the present results is indicative that only a relatively small number of sites are required for
+this to be so. Such a result is consistent with what we found when considering the two-site problem.
+
+
+9. THE OVERALL PICTURE
+
+The new results that we have described in this work leads to an overall picture that is somewhat
+different from that discussed earlier this year.[9] In the old picture, compact states could be developed at a
+continuum of energies ranging from the molecular state energy to the helium ground state energy. According
+to the present results, the compact states locally will have a significant localization energy which can be on
+the order of an MeV, and in addition a negative exchange energy that will produce a continuum of state
+energies which can extend down to the molecular state energy and below. It does not appear likely that the
+compact state energy distribution will extend down anywhere close to the helium state energy. There is no
+real reason for this to be the case, and our proposal that it might the case was clearly naïve.
+
+Otherwise, the new overall picture is very much like what we described previously. Weak coupling
+leads to compact states with low angular momentum that are highly unstable against fusion reactions. Strong
+coupling with more than 10 sites with helium occupation interacting with a highly excited phonon mode
+begins to allow for the development of significant probability in states that are stabilized by virtue of energy
+deficiency.
+The associated loss modes include fusion reactions, simple deuteron-deuteron recoil, and the
+transfer of excitation to loss modes at other sites (such as alpha ejection and other low mass disintegration
+modes). Very strong coupling that involves large amplitude of local phonon-induced relative motion leads to
+high angular momentum compact states with very good associated stability, and this allows for the
+development of extremely large spread in n. In this regime, one might expect a large scale conversion of
+compact deuteron pairs to helium with the reaction energy expressed as an increase in the phonon number of
+the highly excited phonon mode.
+
+A high level macroscopic picture of the system might be proposed based on the models described
+above. Deuterium is loaded into a metal host through any one of a variety of methods. The ideal metal host
+maximizes the local molecular state concentration, which can be accomplished through a combination of
+high loading, the creation of a large number of host metal atom vacancies, and through heating in the case
+that the molecular state energy is more than a few kT. Transitions to compact states are mediated through the
+presence of very strong excitation of an optical phonon mode, or any relevant hybrid electron-phonon mixed
+mode, such that deuterons are moved toward and away from each other when they are very close on a nuclear
+scale (albeit by a very small amount).
+To achieve high optical phonon excitation might be done in any
+number of ways. In many experiments, deuterium is fluxed through the metal deuteride. We have proposed
+previously that when deuterons transport down a sudden chemical potential barrier, that efficient optical
+phonon generation will result when the barrier is more than about 50 meV. Such differences in the local
+chemical potential are present between different crystallites within a homogeneous metal deuteride. Fluxing
+deuterons through a metal bilayer is expected to generate optical phonons even more efficiently, and
+experiments based on this method appear to give very interesting results. Precisely what physical phenomena
+are expressed depends on a variety of details, such as the level of optical phonon excitation, how many
+molecular states are occupied within an optical phonon mode, as well as how many helium nuclei are situated
+in useful sites – most or all of which are presently uncontrolled experimental variables.
+
+The basic picture also applies to the 3He reaction branch, in which proton deuteron molecules and
+compact states dominate the new physics. There is presently no experimental evidence in support of a proton
+deuteron compact state analog of the Kasagi state. One would hope that this problem might be addressed.
+Heat production in mixed proton and deuteron systems should be accompanied by the production of 3He
+through the mechanisms indicated. To date, no evidence has been developed in support of the presence of
+3He in association with light water experiments.
+Due to the absence of strong-force mediated fusion
+pathways for the proton-deuteron reaction, the stability of the compact states is much improved relative to the
+two-deuteron system. The models discussed here should apply with appropriate modifications to the proton-
+deuteron problem, and based on what we might surmise based on the discussions above, the proton deuteron
+system should be much more favorable in terms of the generation of compact states, the stability of them, and
+the possibility of making heat and inducing dissociation in neighboring atoms with low dissociation energies.
+Given the lower reaction energy, and the absence of strong-force fusion channels, the proton-deuteron system
+will likely be harder to diagnose. Experimental demonstrations of mechanisms will be more challenging in
+general.
+
+
+10. DISCUSSION
+
+Our discussion above has focused on the generalization of the resonating group method from the
+vacuum case to include the lattice.
+Within this formulation phonon exchange occurs during a nuclear
+reaction, which has little impact on first-order reactions.
+New second-order site-other-site reactions are
+predicted within this formulation. During the past several years, we have studied various models for two-site
+interactions and also for many-site interactions. The null reaction in which the fusion of a deuteron pair at
+one site is coupled to the dissociation of a helium nucleus at another site is clearly the most important such
+reaction in metal deuterides. We concluded some time ago that when the helium nucleus dissociates to form
+a deuteron pair, the deuteron pair introduced in close proximity has difficulty separating. The same Coulomb
+barrier that makes tunneling together from atomic distances difficult also inhibits the tunneling apart of two
+deuterons that happen to have been created within fermis of one another. This argument would suggest that
+new two-deuteron compact states should form within the model.
+
+We have commented previously that the compact states within the model may be observable in
+accelerator experiments. We have proposed that the Kasagi effect[10] (apparent three-body ddd-fusion) may
+be due to a fast incident deuteron striking a deuteron pair in a compact state
+Stable compact states would have a high angular momentum.
+The presence of a high two-body angular
+momentum would inhibit the two-body exit channels.[4]
+
+The many-body model that results appears to describe a complicated situation. Deuteron pairs in
+molecular states within the metal can make transitions to compact states in a “slow” version of the null 
+reaction, but only when a strong component of optical phonon excitation is present. Null reaction transitions
+between compact two deuteron states are very fast. In the limit that only a few phonons are exchanged in
+each interaction, the compact states produced are unstable against the normal dd-fusion reactions (leading to
+p+t and n+3He). In this case, only compact states with energy near the molecular state energy are occupied,
+and dd-fusion reaction products would be observed. In this case also, a fusion reaction at one site can couple
+to a disintegration event at another site, leading to alpha ejection and the emission of other low mass ions. In
+the p+d version of the model, the compact proton-deuteron states are much more stable. Nevertheless, there
+are many other-site disintegration paths available to take up the energy for a compact
+fusion
+at one site.
+
+When the local relative motion between deuterons becomes large (on the order of several fermis),
+then many phonons can be exchanged, and the accessible compact states are stabilized against conventional
+fusion reaction pathways (by the centripetal potential barrier). This should allow for a large quantum spread
+of the mixed states in phonon number, in which case pathways open for tritium production, or helium
+production if the spread is even greater.
+
+We have focused on the simple two-site model in order to illustrate the basics of what is required of
+a model in order to show the effects under discussion. We have succeeded in outlining how phonon exchange
+works within the framework of a simple scalar nuclear interaction model.
+The two-site model does not
+appear to lead to compact two-deuteron states, based on the solutions that we have obtained so far. The
+reason seems to be that the coupling in the case of two sites is just too weak.
+
+We have recently formulated the many-site version of the problem. It is clear from the discussion
+given above that the current version of the many-site problem is much richer than what we speculated about
+previously.
+We have made a connection between the underlying coupled-channel problem of the lattice
+resonating group method, and a many-site Dicke Hamiltonian similar to what we proposed previously before
+we became aware of the possible existence of two-deuteron compact states.
+We have formulated the
+intermediate state problem as a Schrodinger picture flow problem between different sectors in Hilbert space.
+An initial set of models that implement the flow problem have been implemented, and the results begin to
+illustrate how things work within the model.
+The inclusion of loss within the flow problem is a critical
+component of the problem. The probability distribution in the intermediate sectors is seen to avoid regions of
+high loss where possible, and a low-loss corridor appears to form in the configuration space of the Dicke
+number M and phonon number n. This has led to the proposal of a new mechanism for the exchange of
+nuclear and phonon energy.
+
+Future work on the model needs to be focused on developing predictions that can be tested in detail
+against experiment.
+In part, this will require encouraging the experimental community to develop well-
+characterized experiments, so that an apple-to-apple comparison between theory and experiment might be
+made.
+An important goal of the theoretical work is to develop an applied physics or engineering level
+description of the problem, so that we might be able to design new systems for applications.
+
+
+REFERENCES
+
+[1] J. A. Wheeler, Phys. Rev. 52 1107 (1937). J. R. Pruett, F. M. Beiduk and E. J. Konopinski,
+Phys. Rev.,
+Vol. 77, p. 628 (1950). H. J. Boersma, Nucl. Phys.,.Vol. A135, p. 609 (1969).
+[2] A. M. Lane and D. Robson, Phys. Rev., Vol. 151, p. 774 (1966). D. Robson and A. M. Lane, Phys. Rev.,
+Vol. 161, p. 982 (1967). A. M. Lane and D. Robson, Phys. Rev., Vol. 185, p. 1403 (1969). R. J. Philpott
+and J. George, Nucl. Phys., Vol. A233, p. 164 (1974).
+P. L. Hagelstein, ``A unified model for anomalies in metal deuterides,'' Proceedings of the 8th
+International Conference on Cold Fusion, May 2000 Lerici (La Spezia), Italy. Edited by F. Scaramuzzi, p.
+363. P. L. Hagelstein, ``Theory for Anomalies in Metal Deuterides,'' Trans. Am. Nucl. Soc. Vol. 83, p. 359
+[4] P. L. Hagelstein, ``Anomalous Energy Transfer,'' Proceedings of the Seventh International Conference
+on Cold Fusion, April 1998, Vancouver, Canada . Edited by Eneco, Inc. Salt Lake City, Utah, USA. P. L.
+Hagelstein, Bull. APS Vol. 45, p. 235 (2000).
+[5] G. P. Chambers, J. E. Eridon, K. S. Grabowski, B. D. Sartwell and D. B. Chrisey, ``Charged Particle
+Spectra of Palladium Thin Films During Low Energy Deuterium Ion Implantation,'' J. Fusion Energy, Vol.
+9, p. 281 (1990).
+[6] F. E. Cecil, H. Liu, D. Beddington and C. S. Galovich, AIP Conf. Proc. Vol. 228, p. 383 (1990).
+[7] Y. Iwamura, M. Sakano, T. Itoh, Jpn. J. Appl. Phys., Vol. 41, p. 4642 (2002).
+[8] P. L. Hagelstein, Phil. Mag. B, Vol. 79, p. 149 (1999).
+[9]  P. L. Hagelstein,``Anomalies in metal deuterides,’’ MIT Research Laboratory of Electronics Annual
+Report,
+Vol.
+Chapter
+July
+Available
+online
+on
+the
+MIT
+website
+at
+http://rlewebserver.mit.edu/Publications/pr144/29.pdf
+[10] J. Kasagi, T. Ohtsuki, K. Ishu and M. Hiraga, Phys. Soc. Japan Vol. 64, p. 777 (1995).

@@ -1,0 +1,349 @@
+1. BACKGROUND 
+
+In the short period following the announcement of
+the Pons-Fleischmann discovery, several centers reported the generation of variable amounts of heat in similar experiments. Other centers reported no heat from the
+process. The disparity of heat output has been enormous,
+indicating that the controlling experimental parameters
+of the cold fusion process are not well understood. Unlike the excess heat, the D-D nuclear fusion has not been
+as widely supported or reported. For example, fusion
+products initially reported by the original experimenters
+were revised downward and early reports of fusion byproducts from other centers were retracted. 
+
+Careful examination of the reported characteristics
+of cold fusion revealed outstanding similarities to an esoteric engineering subject: hydrogen embrittlement. This
+led to correlation of important properties of the two phenomena, explanation for the enormous disparity in heat
+production in cold fusion, and identification of specific
+parameters to ignite and control the process. 
+
+Hydrogen embrittlement was studied at length in
+the last three decades to understand, theorize, and control a serious cause of premature failure of aerospace
+and other structures. The palladium-deuterium system
+is similar to the palladium-hydrogen system, with the
+heavier deuterium causing slightly greater damage to
+metals and alloys than hydrogen. 
+
+Failure of metals and alloys by hydrogen embrittlement is comprised of the initiation, growth, and
+propagation of cracks. The interaction of hydrogen with
+other hydrogen or metal atoms and residual stresses
+locked in during processing and manufacturing introduce forces in the vicinity of the cracks. The lockedin stresses can remain in a metal sample for a long
+time, ready suddenly to release mechanical energy by
+a variety of mechanisms, including deuterium or hydrogen embrittlement. While only small forces are involved in the process, considerable energies are
+exchanged within the metal lattice during the fracture
+process. The most significant energy term was identified as the work-of-fracture. 2 The energy to form two
+new surfaces in palladium, or other metals, is generally less than 1 J/m 2, while the fracture energy to produce the same new surfaces can be greater than 1 • 10^6
+J/m z. Actually, the total fracture work that can be done
+within a metal electrode is greater than the heat reported from cold fusion to date. 
+
+
+2. TEMPERATURE CORRELATION 
+
+It is not clear whether Professors Pons and Fleischmann attempted the cold fusion process at high, intermediate, and low temperatures and whether the
+intermediate room temperature was found to be optimum
+through tests or not. Maximizing a process, such as cold
+fusion, can be done by varying parameters, particularly
+temperature. The hydrogen embrittlement database clearly
+shows that embrittlement is most severe in intermediate
+temperature regions, particularly around room temperature, while the effect is negligible at low and high temperatures. A correlation for this important parameter
+appears to exist between cold fusion and the embrittlement of metals by hydrogen and deuterium. 
+
+
+3. VARIABLE HEAT PRODUCTION 
+
+The amount of heat liberated in cold fusion experiments varied greatly; from more than 4 x 106 J/cm 3 of
+palladium electrode volume to no heat at all. Recognizing that the fracture process can be the primary source
+of the reported heat clarifies the variation of heat output
+and this can be explained by known characteristics of
+embrittlement. 
+
+Severity of deuterium attack is dependent on the
+crystallographic structure of metals and alloys. The more
+open body-centered cubic (bcc) metals are more susceptible to embrittlement than the more closed hexagonal
+close-packed (hcp) or face-centered cubic (fcc) metals.
+Most metals and alloys, however, are susceptible to hydrogen and deuterium embrittlement to varying degrees,
+depending on many complex conditions. 
+
+Consider the effect of hydrogen on the alloys in
+Table I. Here, the fracture toughness of precracked specimens was measured 3 in vacuum, molecular, and atomicmolecular hydrogen at the shown pressures. The stress
+intensities in Table I were calculated in Ref. 3 from
+measured loads. The results show that atomic hydrogen,
+molecular hydrogen, pressure, and alloy treatment produce different effects. The results for the titanium samples are of particular importance here. The annealed
+titanium (Ti-6A1-4V) samples suffered less strength reduction than the solution-treated samples. Since residual
+stresses are greatly reduced by annealing, the embrittlement effect and the work-of-fracture are smaller, and the
+liberated heat is minor or absent. 
+
+Professor Pons said that there is "almost no fusion
+if the palladium rod is machined, or formed from a larger
+block, for instance; only cast palladium, in which the
+metal is melted and poured into a form, works" (Newsweek, May 8, 1989, pg. 52). Cast metals are generally
+brittle and weak in tension and are, thus, more susceptible to embrittlement and are more likely to release considerable fracture work and heat. 
+
+Also, residual stresses vary across the bulk of the
+same ignot after cooling, so that samples from the same
+block can exhibit differing degress of susceptibility to
+fracture. The work-of-fracture, and the amount of heat
+that can be liberated, will therefore vary for electrode
+samples obtained from the same ignot or block. This last
+observation is amplified by other tests in Ref. 3, where
+the effect of hydrogen on similar metal samples was
+tested. The results of these tests are shown in Figs. 1 and 2. Here, all the titanium specimens were slightly
+affected by the hydrogen environment (Fig. 1). The steel
+samples exhibited greater variation in strength reduction
+(Fig. 2). If the 26 similar steel specimens were used in
+calorimetric tests to measure the amount of heat that can
+be liberated through strength reduction and fracture energy, then a normal distribution is observed. No heat
+would be obtained from five samples in hydrogen (corresponding to samples in air), one to three experiments
+would produce considerable heat (corresponding to samples which failed between 2 and 3 kN), and most of the
+tests (14 specimens) would give intermediate results. Other
+tests demonstrated variation of ultimate strength of palladium for hydrogen-palladium atom ratios of 0.0 to
+0.6, while the reduced ultimate strength remained constant from 0.6 to 1.0 ratios. 4 The release of fracture
+energy from the same sample can then vary as the concentration of hydrogen or deuterium in the specimen
+changes. 
+Fig. 1. The distribution of titanium alloy failure load in air and
+hydrogen (reproduced from Ref,, 3). 
+Fig. 2. The distribution of steel alloy failure load in air and
+hydrogen (reproduced from Ref. 3). 
+
+The heat output of cold fusion appears to correlate
+to strength reduction caused by hydrogen or deuterium
+environments. The strength reduction was not measured
+in cold fusion experiments and the proposed correlation
+went undetected. The embrittlement process is complex
+and is sensitive to minor deviations in one of many parameters as discussed in the next section. 
+
+
+4. OTHER CONTROLLING FACTORS 
+
+Correlation of hydrogen embrittlement to the cold
+fusion process uncovers an extensive data base to study
+the process. Many important characteristics of hydrogen
+embrittlement were studied and identified before. For
+example, the embrittlement process was found to have
+little or no correlation to hydrogen diffusion and the
+activation energy for hydrogen diffusion, the effective
+radius of the hydrogen electron shell in metals, the effective radius of hydrogen ions and the radius of interstices, the heat of chemisorption, and the activation energy
+of desorption, while no correlation, or conflicting results, were reported for hydrogen solubility and heat effects. 3 Other characteristics were carefully tested in the
+same reference, including the effects of hydrides and
+phase formation in metals, kinetics of hydrogen transport, stress intensity, cyclic loading, strain rates, pressure, and temperature. The inconsistent behavior of
+embrittlement in some metals led the author of Ref. 3
+to propose that "A correlation with a common parameter
+may never be possible." 
+
+Thermodynamics of palladium-hydrogen, -deuterium, and-tritium systems and electrochemical and calorimetric measurements were surveyed and summarized
+in Ref. 5. In general, the enthalpy and entropy of PdH, -D, and -T systems were based on the heats of absorption, desorption, formation, and other chemical,
+physical, or thermodynamics processes. Correlation of
+enthalpies and entropies to the concentration of H, D,
+or T in palladium was reported. The study noted that
+anomalies exist in the enthalpy measurements of the PdH system, but the substantial work-of-fracture and the
+heat that can result from the work were not included. 
+
+On the other hand, the significant energy involved
+in the fracture work was reported in other studies, but
+these were not correlated to the embrittlement process
+or to heat production. In the energy balance for the formation of a crack, Ref. 6 includes the energy of superdisIocation, surface energy, distortion energy, and the
+work done in opening a crack. Conditions at the crack
+tip, for example, were noted to increase the energy by
+a factor of 100 to 1000. 2,6 
+
+The study of crack initiation, growth, and propagation uncovers other intricacies. The severity of deuterium attack on metals and alloys is further influenced
+by the microstructure of the material, stress intensity,
+method of load application, and whether hydrogen or
+deuterium is in the atomic, molecular, gaseous, liquid,
+or other states. 
+
+The embrittlement process explains the arbitrary
+"ignition" of the fracture process and the ignition of
+heat generation from cold fusion. Many microcracks are
+introduced into metals and alloys during the manufacturing process. These cracks provide many sites for the
+nucleation of other cracks, and the fracture process is
+significantly influenced by complex factors acting singly
+or in combination. To ignite the fracture process, the
+experimenter must know the conditions above plus the
+stress concentration at the crack tip, heterogeneity of
+deformation, orientation of planar defects, yield and ultimate strengths of the material, and surface and lattice
+bond energies. Uncontrolled, this complex composite of
+conditions makes the ignition of cold fusion a random
+process. 
+
+The capricious behavior of deuterium and hydrogen
+embrittlement and, more importantly, the complex conditions required to ignite or maintain the fracture process
+explain some of the chaos that surrounded the early attempts to reproduce the results of the Pons-Fleischmann
+experiments. The objective of the earlier embrittlement
+studies was to minimize the fracture process. The objective of the cold fusion experiments, on the other hand,
+is to maximize the same process. Minimizing the embrittlement effect is a complex task, as the engineers who
+designed systems to operate in hydrogen or deuterium
+environments have already discovered. The same complexity will be present in the effort to maximize the
+effect for heat generation from cold fusion. If only one
+of the many factors mentioned above is neglected or
+miscalculated, then the results will be haphazard and
+random. 
+
+
+5. THE FUSED AND MELTED ELECTRODES 
+
+The incremental heat generation in the PonsFleischmann experiments was correlated to the well-known
+discontinuous propagation of cracks in hydrogen and
+deuterium embrittlement. 2 In addition to the intermittent
+release of energy, Ports and Fleischmann reported that
+'% substantial portion of the cathode fused (melting point
+1554~ part of it vaporized, and the cell and contents
+and part of the fume cupboard housing the experiment
+were destroyed,"! in a cold fusion experiment. The sudden release of substantial energy from palladium in the
+hydrogen environment can be correlated to the explosive
+crack propagation phenomenon. A comparable scene to
+the palladium electrode meltdown was seen in titanium,
+a similar transition metal, electrode in the early 1970s.
+During the study of surface hydride formation on titanium 3
+(the same tests in Fig. 1), "in one test run, however, a
+violent reaction occurred between the titanium alloy and
+the hydrogen environment immediately following the introduction of hydrogen into the chamber. This reaction
+continued for approximately 3 rain, ejecting material
+continuously, with a resulting crater .... " A photograph of the crater is reproduced from Ref. 3 in Fig. 3.
+Also, "Similar observations have been made at room
+temperature in columbium and in tantalum where severe
+fragmentation has been observed as the result of hydride
+formation originating at a thermocouple attachment"
+(ibid). 
+
+The resemblance of these embrittling phenomena to
+the Pons-Fleischmann palladium electrode meltdown is
+apparent. The explosive crack propagation results from
+the short-time release of the significant fracture work,
+or energy. 
+
+
+6. OTHER RELEVANT CORRELATIONS 
+
+I found other characteristics of the cold fusion process
+which are analogous to features in hydrogen embrittlement. Whereas initially it was reported that heat generation occurs only with deuterium, and not hydrogen, it 
+has already been reported that hydrogen produced a similar, though smaller, effect. This compares with the slightly
+greater effect of deuterium, than of hydrogen, on the
+fracture of metals and alloys. And whereas it was not
+clear at the outset whether heat can be liberated from
+materials other than palladium, it has already been reported that heat was liberated from titanium and nickel
+alloys in similar experiments. These and other alloys are
+susceptible to embrittlement, crack initiation and propagation, release of varying amounts of fracture work,
+and hence, heat. Also, the need for an electric current
+to enhance the "fusion" process inside of the electrode
+bulk was proposed, but it has already been reported that
+the phenomenon is reproduced without an electric current. While hydrogen or deuterium may be introduced
+into the bulk of metals during processing steps, these
+atoms are transported onto the surface through physisorption or chemisorption and are then diffused into the
+bulk, in time and without the need for an electric nudge,
+where they cause embrittlement. There are other characteristics of cold fusion which correlate directly with
+similar characteristics of the embrittlement phenomenon,
+such as the delayed start of heat generation, the incremental release of heat, and others. The similarities between the two phenomena are indeed many. 
+
+
+7. ENGINEERING DESIGN CONSIDERATIONS 
+
+The cold fusion phenomenon leads to new vistas
+for scientific research and study. The reported phenomenon should also rejuvenate understanding of hydrogen
+and deuterium embrittlement in the design of modern
+engineering systems. The prevailing practice in the design of spacecraft, aircraft, rockets, and other systems
+is to analyze the loads, deflections, stresses, strains, fatigue, and other parameters in the system, with little
+attention given to the energy exchanges in materials and
+structures. 
+
+My two papers, in this journal, illustrate the critical
+role of energy exchanges in engineering materials and
+structures. The random behavior of hydrogen- and deuterium-induced cracks and the sudden release of the large
+fracture energy can lead to premature failure of an aircraft wing or hull, or the unexpected breakdown of a
+spacecraft. Engineering systems are designed to positive
+safety margins, but some of these systems experienced
+occasional premature failures in the last few years. In
+most instances, the positive safety margins are based on
+loads, stresses, and strains. Hydrogen and deuterium,
+and other corrosive elements, are abundant in the environment, and many lightweight systems may have to be designed on the basis of the significant energy exchanges
+identified in my papers to avert major accidents. 
+
+
+8. COMMERCIALIZATION--ENERGY STORAGE DEVICES 
+
+During the congressional hearing on the cold fusion
+phenomenon, 9 the Utah experimenters proposed that heat
+generation from the calorimetric process can be made
+continuous by circulating deuterium in calorimetric cells
+in a closed system. As I proposed in my papers, heat
+generation is dependent on the fracture of the palladium
+electrodes in the deuterium environment and, hence, circulation of deuterium into the all-cracked Pd electrodes
+cannot continue the heat process. 
+
+The capacity of the Pd-D system to liberate heat is
+significant, 1,2 and the process will be useful for energy
+storage devices for use in space systems and in remote
+terrestrial locations and for special applications. This is
+evident from a comparison of the heat content of coal,
+less than 10 kcal/cm 3, with the more than 1,000 kcal/
+cm 3 (the 4 MJ/cm 3 liberated in the Pons-Fleischmann
+experiments) that can be released from a comparable
+metal cube. While fine control of embrittlement is complex as described in this paper, some basic parameters
+can be monitored to control the initiation and suspension
+of the process. For example, the fracture process is greatly
+dependent on the microstructure of the electrode material
+and the strain rate. Carefully applied external forces can
+be used to alter (start or stop) the fracture process by
+changing the microdistances within the lattice. 8
+
+
+9. ENVIRONMENTAL CONSIDERATIONS 
+
+The enormous heat that can be liberated by the fracture of metals may have a detrimental effect on local
+and worldwide environments. Massive piles and large
+storage fields of discarded cars, planes, trains, and other
+metal structures can be a source of enormous heat in
+concentrated locale. Such stockpiles were introduced
+around major cities in the last half century and their heatgeneration impact on local and world environment may
+have gone undetected to date. The seriousness of the
+problem is demonstrated below. 
+
+Cast iron, heavily used and discarded in the last
+century, is susceptible to corrosion by environmental hydrogen, deuterium, and, most importantly, salt seawater
+and other agents. Approximation of the heat generated
+from a stockpile of discarded cars indicates that the metal
+piles may act as small, but invisible, volcanos. If 1 cm 3
+of cast iron produces 0.4 MJ, i.e., 10% the heat released
+from cast Pd, then the heating effect can be calculated.
+The corrosion of 100,000 cars can produce more than
+5x1015 J. If the cars corrode in 100 years, then the average daily heat release from the pile is 1.37 x 1011 J.
+When the corrosion rate is accelerated by stresses due
+to daily thermal cycles and other factors, the amount of
+heat that can be liberated from the exposed metal can be
+enormous. While these values are small on a global scale,
+their effect can be noticeable in major cities, such as,
+Los Angeles, Baltimore, and Houston. When the weather
+is hot and stagnant in these or other cities, the heat production from the discarded metal can intensify and
+strengthen the stagnation effect. Such effects on local
+weather can be studied by charting temperature variations around major cities from Earth Resources Satellites
+and other weather systems. 
+
+
+10. CONCLUSION 
+
+This paper is a synopsis of notes from a 3-day course
+on the subject. The mainly qualitative description briefly
+demonstrates discernible correlations between the cold
+fusion process and the hydrogen or deuterium embrittlement of metals and alloys and identifies important parameters to control the ignition and release of heat from
+the process. 
+
+
+REFERENCES
+
+1. M. Fleischmann and S. Pons, Electrochemically induced nuclear
+fusion of deuterium, J. Electroanal. Chem. 261, 301 (1989).
+2. A.F. AbuTaha, Cold Fusion--The Heat Mechanism, Proceedings
+of the Workshop on Cold Fusion Phenomena, Santa Fe, N.M.,
+May 1989. Also, J. Fusion Energy, 9, 3, 345-349 (1990).
+3. H. G. Nelson, The Kinetic and Mechat, ieal Aspects of HydrogenInduced Failure in Metals, NASA TN D-6691, Washington, D.C.,
+1972.
+4. R. J. Smith and D. A. Otterson, Some Tensile and Electrical Resistance Properties of Palladium-Hydrogen and Titanium-HydTvgen Systems, NASA SP-227, Proceedings, Aerospace Structural
+Materials, Cleveland, Ohio, Nov. 1969, pp. 269-278.
+5. R. P. Santandrea and R. G. Behrens, A Review of the Thermodynamics and Phase Relationships in the PaUadium-(Hydrogen, Deuterium, Tritium) Systems, Freund, 1986.
+6. P. Haasen, Physical Metallurgy, Cambridge University Press,
+Cambridge, 1986, Chaps. 5 and 12-14.
+7. G. E. Dieter, Jr., MechanicalMetallurgy, McGraw-Hill, New York,
+1961, Chaps. 7 and 14.
+8. A. F. AbuTaha, Anatomy of Failure Mechanisms in Aerospace and
+Defense Systems, Course Notes, George Washington University,
+Washington, D.C., Feb. 1989.
+9. Congressional Hearing, Committee on Science, Space, and Technology, On Recent Developments in Fusion Energy Research,
+Washington, D.C., Apr. 26, 1989. 

@@ -1,0 +1,241 @@
+deals with how it can be used to produce energy. Several
+novel direct energy conversion concepts for use with cold fusion
+are discussed.
+
+
+INTRODUCTION
+
+Cold fusion, if it is real, using the electrolytic means developed
+by Fleischmann and Pons,1 would not match up
+well with most energy conversion methods. The main problem
+with this method is that the crystal can only heat water.
+Given the best possible scenario, steam could be produced to
+power turbines and eventually produce electricity. To generate
+a high enough temperature to produce high-quality steam,
+the crystal would have to be kept at high temperatures (600
+to 800 K). There is so little known about the alleged cold fusion
+process that high-temperature operation is not a given.
+In fact, one would expect from basic physics that the deuterium
+density in the crystal should decrease with temperature.
+Hence, the cold fusion rate should also decrease with temperature.
+
+Jones et al.2 from Brigham Young University (BYU)
+have reported observations of low-level neutrons from an
+electrochemical cell.
+
+Several potential alternative methods of initiating cold fusion
+have been proposed. A group from the Centro Ricerche
+Energia Frascati led by Scaramuzzi announced that they have
+observed low-level neutron emission from titanium shavings
+placed in a pressure vessel filled with D2. In this experiment,
+it was possible to control the gas and titanium temperature
+and the gas density. A similar experiment was conducted by
+a group at Mississippi State University.3
+
+The Fusion Research Laboratory at the University of
+Missouri is working on a method of implanting ions from a
+Maxwellian plasma into palladium, titanium, rhenium, tantalum,
+nickel, etc., to achieve cold fusion. It appears that
+there is low-level neutron emission4 similar to the BYU
+study.2 Similar experiments are being carried out at the Fusion
+Studies Laboratory at the University of Illinois5 and by
+a group at Mississippi State University.3 In the University of Missouri study, the temperature of the sample had to be kept
+at or below room temperature
+
+sma methods over the electrolytic method is that more advanced
+energy conversion systems can be implemented.
+Clearly, the electrolytic method is limited to a Rankine energy
+conversion cycle at best. However, both the high-density gas
+and Maxwellian plasma methods can incorporate many possible
+types of energy conversion cycles.
+
+
+ENERGY CONVERSION METHODS
+
+The normal channel for deuterium fusion is
+n + 3He + 3.5 MeV
+D + D . (1)
+p + T + 4.04 MeV
+
+The Fleischmann-Pons experiment reportedly releases 50
+times the energy input. Clearly, if reaction (1) were responsibility
+for this energy release, the neutron production would
+be deadly. Therefore, the evidence indicates that the fusion
+reaction in Eq. (1) does not account for the reported energy
+released in the palladium. However, scientists such as Walling
+from the University of Utah and Hagelstein at Massachusetts
+Institute of Technology have identified another possible
+reaction that could account for the energy release in the
+Fleischmann-Pons experiment:
+D + D 4He + 7 + 23.8 MeV (2)
+and
+D + D - 4 H e + 23.8 MeV . (3)
+News accounts have attributed Pons with discovering 4He in
+his "fusion" experiment using a palladium crystal. Normally,
+it is expected that reaction (2), which releases a gamma ray,
+would dominate reaction (3). However, theorists have postulated
+that the crystal itself takes up the excitation energy in
+the fused 4He. Therefore, reaction (3) can be dominant. The
+main product of the cold fusion experiment reported by
+Fleischmann and Pons would have to be 4He. It has not yet
+been proven, however, that they have observed fusion
+
+The question of interest to direct energy conversion is
+whether or not the 4He, if it is produced, carries off any kinetic
+energy. It is possible that the palladium crystal lattice permits complete transfer of the energy so that 4He, remains
+embedded in the crystal.
+
+To use the direct energy conversion systems discussed in
+this paper, it is necessary that the low-level activity of reaction
+(1) observed by Jones et al.2 be enhanced somehow or
+that the 4He in reaction (3) have a sufficient amount of kinetic
+energy to be useful.
+
+If one were able to extract the charged-particle products
+from fusion, it would be possible to produce many useful
+forms of energy. We know that charged particles can interact
+with matter to produce excitation and ionization. It is possible
+to produce photons, excited states and excitation, and
+chemicals from these reactions.6-8 
+
+There are a number of useful products that one can create
+with photons, including chemicals from photochemical or
+photoelectrochemical reactions, electricity from photoelectric
+reactions, and lasers through photolytic reactions. Additionally,
+chemicals can be produced directly from the interaction
+of ions with matter and a laser can be produced directly from
+the interaction of ions with matter.
+
+It is possible to transport ions from the cold fusion target
+material (e.g., palladium, titanium, rhenium, nickel, etc.)
+if the target is thin. The target should be thin enough so that
+the energy transport range of an energetic ion created in a fusion
+reaction is larger than the thickness of the target. One
+possible way of assembling such a target is to use thin films,
+as shown in Fig. 1.
+
+Another potential method of assembling an energy conversion
+configuration is to use an aerosol form of the cold fusion
+target material, as shown in Fig. 2. This method is
+similar to that used for the aerosol core reactor energy conversion
+system.4
+
+would be small enough so that ions produced from fusion
+could escape. The aerosol would have to be transported from
+the area where the targets were saturated with deuterium to
+an area where the reactant material is located. This method
+lends itself well to the production of photons in the reactant
+material. The aerosol can be made optically thin enough to
+allow photons to be transported out and used by a variety of
+secondary reactants (e.g., photovoltaic cells for electrical production,
+substrates for photochemical conversion, and photolytically
+driven laser media for coherent photon production).
+These types of systems have been discussed for fission and fusion
+energy conversion.
+
+There is also the possibility of using thin-wall cylinders
+made of target material with the plasma on the inside and
+the energy conversion material on the outside, as shown in Fig. 3. This type of configuration is known as a reentrant surface
+since any fusion product generated in the thin wall will
+eventually enter the reactant material. Half of the products
+will enter the reactant material immediately, while the remaining
+products will first enter the central region before being
+transported out to the reactant.
+
+
+POTENTIAL ENERGY CONVERSION MATERIALS
+
+The excimer ultraviolet (UV) energy conversion method
+was developed in 1981 (Refs. 7 and 9). The concept uses energetic
+charged particles from fusion reactions to ionize and excite a gaseous medium, which in turn produces a narrowbandwidth,
+single-line UV radiation. Gaseous media that can
+produce UV emission of this nature are the high-efficiency
+excimer media. This UV radiation can then drive photochemical,
+photoelectrochemical, or photoelectric reactions to produce
+useful forms of energy
+
+A system efficiency of 25% for fusion-driven photochemical
+reactions was reported.7,9 Synfuels (e.g., H2 and CO)
+were the assumed useful energy product. Conversely, the
+photoelectric and photoelectrochemical reactions for use in
+fusion energy conversion would require the development of
+a doped semiconductor material that is specially tailored with
+a band gap to match the UV radiation.9 A predicted system
+efficiency of 56% for fusion-driven photoelectrochemical reactions
+and 56% for fusion-driven photoelectric reactions
+was reported.9 Studies of the excimer UV energy conversion
+method were also carried out for fission reactors using photoelectric
+and photoelectrochemical reactions and indicated
+system efficiencies of —40% (Ref. 6). One of the major assumptions
+in these studies is that UV photocells can be developed.
+The highest band gap available for standard materials
+is that of diamond (—5.0 eV). The most efficient excimer UV
+radiation sources, the rare gas excimers, have much larger
+photon energies (>7 eV) and hence the development of photocells
+for these excimers is not assured. However, the outlook
+for such cells is hopeful since solid-state physicists have
+focused primarily on materials with band gaps in the few
+electron-volt range and have basically ignored the higher band
+gap energy ranges. Rare gas halide excimers have lower energies
+(3.5 eV for XeF* and 5 eV for KrF*), and while their fluorescence
+efficiency may be lower than that of the rare gas
+excimers, their photon energy falls in the range of known
+semiconductor materials.
+
+For some atoms, like the noble gases (e.g., xenon, krypton,
+argon), the atoms repel one another, for interatomic distances
+characteristic of diatomic molecules, if both are in the
+ground state. However, if one of the atoms is in an excited
+state, it is then possible to form a bond with the other neutral
+atom. This type of bonding leads to the excimer state.
+Technically, an excimer is defined as an excited dimer state
+(i.e., the bonding of like atoms such as Xe*, Kr*, etc.). Today
+the term encompasses the bonding of excited molecules
+with unlike atoms (e.g., XeF*, HgCl*, Cdl*). The common
+attribute of excimers is that the energy flow from incident
+charged particles through the excimer bound-free transition
+to the narrow-band photon output can occur with very high
+efficiency. A wide range of photon energies are also possible
+with different excimers.
+
+Laboratory measurements have demonstrated high fluorescence
+efficiencies for excimers. Experiments with a variety
+of excitation sources (e.g., electrons, fission fragments,
+protons) and particle densities have given fluorescence efficiency
+values ranging from a few percent to as high as 68%
+(see Ref. 6). The most efficient fluoresces are the rare gas excimers.
+
+Energetic ions from the debris of the fusion can then interact
+with the excimer mixture to produce photons. In turn,
+the photons can, for example, interact with photovoltaic cells
+placed on the walls of the reactor to produce electricity.10
+Radiation damage to the photovoltaics from X rays and neutrons
+is a concern. However, it is well known that ionizing radiation
+appears to enhance fluorescence absorption efficiency in continuous-wave insulating crystal lasers. Additionally, if
+a radiation-damaged crystal is thermally annealed, the damage
+disappears. Potential crystalline photovoltaic materials
+exist that may experience the positive effects described above
+(e.g., NaCl and A1203).
+
+Other possible reactants would be inorganic chemicals,
+such as H 2 0 or C02 , which can produce the useful feedstock
+materials H2 and CO through photolytic reactions. There is
+even a possibility of using a laser material reactant to produce
+coherent photons.
+
+The energetic fusion products can interact with a variety
+of energy conversion materials not discussed here.
+
+
+CONCLUSION
+
+In conclusion, if the Fleischmann-Pons experiments are
+proven correct or if the low-level reactions observed by Jones
+et al. can be enhanced, the electrochemical method of producing
+fusion would have limited applications. It would be
+necessary to identify new ways of extracting fusion products
+in order to tap the vast potential of the cold fusion reaction.
+Two potential methods have been discussed in this technical
+note. If either of these methods succeeds, then there are a
+number of ways to extract the energetic ion reaction products
+for direct energy conversion.

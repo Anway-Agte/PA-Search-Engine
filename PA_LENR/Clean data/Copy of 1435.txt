@@ -1,0 +1,241 @@
+Related Fields
+
+The Quantum Fusion (QF) Hypothesis explains the Fleischmann-Pons Effect and a large cross
+section of experiments researchers in this field have observed. It is an explanation of how cold to
+ultra cold neutron(s) form. QF draws on work in the fields of mechanics, chemistry including
+molecular, quantum and computational, material science, physics, including quantum and astro,
+and electronics. Depending on your background, recognition of different aspects of what is
+presented in this paper will vary. This paper is written for people with a scientific background to
+understand what underlies the phenomena and how to drive it. Understanding the phenomena
+requires integration of many concepts across the fields mentioned above. There are some systems
+that may operate on different principals and have not yet been analyzed relative to the Quantum
+Fusion hypothesis. Edmund Storms’ plasma discharge work may fall into this category. I believe
+that the Quantum Fusion hypothesis is correct for many of the systems this community has been
+investigating. Details may be found on-line in Ref [1].
+
+
+Testing the hypothesis
+
+Profusion Energy built and ran several prototype reactors in open beakers in a partially
+controlled environment. Tests used both electric heaters and copper reactor cores for comparison.
+Systems with nickel or palladium cores can always outperform both electric heaters and copper
+core devices regardless of the position in the testing environment.
+
+
+Typical results
+
+Figure 1 shows a 0.05 mm Pd core system outperforming an electric heater. All power into the
+Quantum Fusion reactor is considered strictly as power into the beaker. The loss caused in the
+generation of oxygen and hydrogen gas was ignored. The power drawn off of the Q or Quantum
+compression supply (Q power discussed later) was calculated as power into the beaker even
+though the circuitry generated significant heat outside the beaker. The Quantum Fusion system
+still outperformed the electric heater, which turns every watt second of power into 1 joule of heat
+energy.
+
+Figure 1. A 0.05 mm Pd core producing more heat than an electric heater.
+
+
+Molecular Hamiltonian
+
+In atomic, molecular, Quantum, and optical physics as well as in quantum chemistry,
+molecular Hamiltonian is the name of the operator representing the energy of the electrons and
+nuclei in a molecule (to be taken as the trapped nuclei and lattice elements in a unit cell of the
+matrix running the reaction). This equation plays a central role in computing properties of
+molecules and aggregates of molecules such as conductivity, optical, and magnetic properties,
+and reactivity. By quantizing the classical energy in Hamilton form, one obtains a molecular
+Hamilton operator. This Hamiltonian is a sum of 5 terms1
+. This was a handy starting point but is
+used to describe systems in equilibrium. When the molecular system is moved away from
+equilibrium, nonlinear effects begin to dominate.
+
+In general, evaluation of a Hamiltonian results in another function. The function of the QF
+Hypothesis includes terms not previously included in a Hamiltonian because QF addresses a
+system far from equilibrium. In the solution space of this expanded Hamiltonian there are
+absolute values greater than 782KeV and up to 9.3 MeV. You may recognize 782KeV as the
+mass difference between the sum of a proton and an electron and the mass of a neutron. At first
+glance 9.3 MeV may seem preposterous, however it is no more preposterous than 80+GeV for
+the well-accepted W bosons. The energy is concentrated by virtue of being a compression
+function. Deuterons may require up to 3 MeV and Tritons up to 9.3 MeV.
+
+
+Material science
+
+The elements and materials that support the Fleischmann-Pons Effect have the following shell
+similarities in common. They have a full or nearly full Dn shell and an empty or at least room in
+the S(n+1) shell. Palladium is the only element in the periodic table with a full Dn shell D4 and an
+empty S(n+1) or S5 shell in the ground state. I believe that this S(n+1) orbital energy well represents
+the trapping points that hydrogen occupies in the materials that support the Fleischmann-Pons
+Effect. Hydrogen will pass through palladium but helium will not. As atoms go, helium is about
+½ the size of hydrogen, yet it will not pass through palladium and hydrogen will. It has been
+shown that hydrogen actually enters with a fractional charge or less than one electron per
+hydrogen nuclei entering the lattice. One way to visualize the transport of hydrogen through
+palladium is as an external gear pump mechanism.
+
+The tear dropped shaped P orbitals act like the teeth of an external gear pump and the D
+orbitals in combination with the lattice nuclei act as the casing. There is only room for a single
+hydrogen nuclei in-between each set of P orbital teeth. The walls of that “space” are a
+combination of electrostatic repulsion of the lattice nuclei and the P(n) D(n) electron wave
+functions. Hydrogen nuclei can easily tunnel to an adjacent lattice element site in palladium
+providing extraordinary mobility within the palladium lattice. Given this extraordinary mobility,
+it is inconceivable that two hydrogen nuclei would occupy the same octahedral point and fuse at
+a loading ratio of less than 3. What trapping in the octahedral points does do is limit the
+uncertainty or standard deviation of the position of the hydrogen nuclei. All the hydrogen loving
+lattice structures that support the transmutation of elements have this trapping capability.
+
+
+Heisenberg uncertainty formula
+
+As it turns out, the greater than symbol used in the Heisenberg uncertainty formula is correct.
+If one variable is forced to an extremely or a “super” low value, the uncontrolled variable
+becomes large. In a Bose-Einstein condensate, super cooling a cloud of evaporated atoms
+achieves a very small p or uncertainty of momentum or energy. To satisfy p q or uncertainty
+of momentum times uncertainty of position > h / 4 (Heisenberg Uncertainty Principle), a very
+large q or uncertainty of position occurs and if the atoms follow Bose statistics, a Bose-Einstein
+condensate is formed. The atoms assume the same quantum state and can overlap or be in the
+same place at the same time. When this happens, the atoms become indistinguishable from each
+other and behave as a single super atom. It is possible to see a collection of only a few thousand
+atoms with an unaided eye because the standard deviation of position is very large. To reliably
+control the PF reaction, one must supply what the patent application describes as Heisenberg
+Confinement Energy or super confinement of the nuclei, forcing a very small q or uncertainty
+in position, affecting a large p (energy). This is the first new additional term to the Hamiltonian
+describing how QF works.
+
+
+Non bonding energy
+
+The term non-bonded energy is the second term added to the Hamilton describing QF. This
+term refers specifically to atoms that are not bonded to each other in a molecule. The non-bonded
+energy accounts for repulsion, van der Waals attraction, and electrostatic interactions. Van der
+Waals attraction occurs at short range, and rapidly dies off as the interacting atoms move apart
+by a few Angstroms. Repulsion occurs when the distance between interacting atoms becomes
+even slightly less than the sum of their contact radii. The hydrogen in the lattice is not bonded
+and actually causes some deformation of the lattice on entry, indicating that it has forced entry
+into the portion of the equation controlled by a factor of 1/r12. It is the 1/r12 effects driven by
+phonons. Phonons are bosons and can be in the same place at the same time, driving electron
+capture events. This second new term to the Hamiltonian drives the Fleischmann-Pons Effect.
+
+
+Q Energy
+
+In Profusion Energy’s work to date, both the non-bonded energy and Heisenberg Confinement
+energy are driven by what Profusion Energy calls Q or quantum compression energy. This is
+used to stimulate super confinement waves in the lattice.
+
+The primary Q pulse delivers the bulk of its power in ~100ns achieving a peak current density
+of over 7 thousand amps per square mm. The polarity of the Q pulses alternate to limit the
+degrading effects of electromigration on both the core material lattice elements and the hydrogen
+in the core. The portion of Q power reported as going to the beaker is calculated as ½*C*V2
+*repetition rate. ½*C*V2
+is the energy or joules contained in the capacitor being discharged
+across the wire and repetition rate is times time or the joules per second which equals Watts. A
+Quantum Fusion reactor uses Q waveforms to force the value of the Molecular Hamiltonian.
+Once the value is high enough to supply the mass energy difference between a hydrogen ion plus
+an electron and the mass of a neutron or neutron cluster, that energy converts to mass in an
+electron capture event. A large number of hypotheses have been put forward to correlate the
+production of tritium and helium with heat. Accusations that it could not be fusion due to the
+lack of Gamma rays and fast neutrons were almost instantaneous. I propose that the QF
+Hypothesis can account for all the Fleischmann-Pons Effect experiments and some of the other
+excess heat experiments such as Bubble Driven sono fusion style devices, laser activation of
+metal hydride systems and gas load plus heat systems. This reaction is not fusion as the current
+establishment defines it. The perceived reaction is not DD.
+
+
+What is Quantum Fusion (QF)?
+
+When the system energy or molecular Hamiltonian achieves or exceeds the energy necessary
+to make up the mass difference between a hydrogen ion plus an electron and the mass of a
+neutron or neutron cluster, the hydrogen nucleus undergoes an electron capture event as a natural
+energy reduction mechanism. This highly endothermic reaction, in combination with the
+dispersion of the phonons that caused the increased confinement, results in a cold to ultra-cold
+neutron and/or neutron cluster. Neutrons are attracted to each other but the attraction is not
+strong enough to be “bound”. At energy levels of a few meV (38 meV is roughly 70F or 21C),
+the Brownian motion will shake the multi neutron systems apart. However, a deuteron that has
+just converted up to 3 MeV of energy or a triton that has just converted up to 9.3 MeV of energy
+to mass has an extremely low energy level. The energy level is low enough that the neutrons
+remain together long enough to interact with another hydrogen nucleus moving through or into
+the lattice location occupied by the newly formed neutron or neutron cluster. With the removal of
+the proton’s charge, it is possible for a new hydrogen nucleus to enter the same trapping point
+and bond with the neutron or neutron cluster. This is similar to concepts used in astrophysics and
+referred to as the S and R process that build the heavier elements inside of stars through
+accumulation of neutrons and β
+−
+decay. In QF cold to ultra-cold neutron(s) interact with another
+hydrogen nucleus moving through the lattice, resulting in 4H.
+
+Part of the problem for established physics is that their information is based on big science
+accelerator experiments. This led to a policy at the National Nuclear Data Center (NNDC) that
+defines the “ground state” of a nucleus as the “lowest energy at which it has been observed”. The
+first three links you are likely to run across at the NNDC in relation to 4H indicate that it
+undergoes a 100% neutron ejection decay path, even at what they have arbitrarily defined as the
+“ground state”. Another document, mass.mas03.txt states the mass of 4H as being greater than
+the mass of tritium + a neutron. This was referred to as an un-bound nucleus. (Meaning what?)
+
+Researchers extrapolated the path of a neutron and a triton back to the same point. For 4H that
+time of existence is so short it is given as a width of 4 MeV. That calculates out to roughly 10-24
+seconds, more precisely 82.28 yocto-seconds after an 8 MeV neutron collides with a 7
+Li nuclei. I
+have discussed this with J. H. Kelly of the National Nuclear Data Center (NNDC). He assured
+me that this was the absolute lowest energy level at which you could possibly create 4H. (Does
+this sound like the ground state?) When 4H is formed as an early intermediate decay product
+from a high-energy collision, there is sufficient momentum to make it energetically favorable for
+a neutron to carry the excess energy away before β
+−
+decay occurs. In a metallic lattice where low
+energy neutrons accumulate, β
+−
+is the decay path. Papers compiled in NNDC do indicate this.
+(The data is somewhat difficult to access. To retrieve it, go to http://www.nndc.bnl.gov/ensdf/,
+enter 4H in the Quick search: box, and click “Search”. Click the check the box next to the 4H and
+click “HTML”. See the first sentence in the data sheet.)
+
+According to Kelly, if there were some way to make 4H at a low enough energy (≤3.53 MeV),
+then it would undergo β
+−
+decay. That can’t be done in an accelerator. When solid-state systems
+produce 4He, each helium nucleus formed liberates between 23.2 MeV and 27.5 MeV depending
+on the exact path taken.
+
+
+Gross loading
+
+Existing attempts to harness the Fleischmann-Pons Effect depend on what I call Gross loading.
+By achieving a loading ratio greater than 0.85, the movement of hydrogen ions is limited by the
+number of open octahedral points. It also moves the lattice away from equilibrium and raises the
+base level result of the Hamiltonian operator. Why don’t all palladium samples work once the
+loading ratio exceeds 0.85? Researchers have talked about the grain structure and cracking.
+Wave phenomenon or phonons are reflected and refracted by grain boundaries and cracks or
+discontinuities. The Nuclear Active Environment is one where enough phonon peaks intersect to
+obtain the 1/r12 + Heisenberg confinement energy necessary to affect electron capture events.
+Typical gross loading problems are driven in part by the quantity of hydrogen present in the
+lattice when the reaction starts. The bonding energy released in the formation of helium or
+transmutation causes a local chain reaction release of energy that eventually destroys the
+mechanical structure that was supporting the reaction.
+
+
+Quantum Fusion (QF)
+
+Quantum Fusion avoids these problems by explicitly driving the required phonons or
+displacement of the lattice elements. By performing this in an explicit manner, it is possible to
+run the reaction at a very low level and low loading ratio. At this point Profusion Energy has not
+yet ascertained the minimum (loading*phonon level) necessary to run the reaction but the
+systems appear to begin producing excess heat as soon as they are activated. Another aspect that
+leads me to believe that the Fleischmann-Pons Effect is driven by rogue or super waves causing
+electron capture events is the system response to Q repetition rate. As the Q repetition rate is
+adjusted up, the reaction has peaks and then rolls off before picking back up to a higher peak as
+the repetition rate continues to increase. The current hardware has a maximum Q repetition rate
+of 100KHz but the best results obtained are below that frequency. The patent applications show a
+number of different ways to build a practical reactor but systems to date have been built using
+wire cores and fast current pulses for the Quantum Compression.
+
+Most of the scientific community agrees, it is not possible to overcome the coulumbic
+repulsion of hydrogen within a metallic lattice. However as I have just outlined, it is not
+necessary to overcome columbic repulsion. This is not fusion as currently defined.
+
+The Quantum Fusion Hypothesis not only explains the reaction but points to multiple ways of
+making industrially useful devices by controlling the underlying physics.
+
+
+References
+
+1. R. E. Godes, The Quantum Fusion Hypothesis, Profusion Energy Inc., September 2008
+www.profusionenergy.com/PhaseIVerificationData/ProfusionEnergyHypothesis.pdf

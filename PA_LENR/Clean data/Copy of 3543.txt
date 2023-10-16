@@ -1,0 +1,1291 @@
+A Dialogue on Chemically Induced Nuclear Effects—
+A Guide for the Perplexed About Cold Fusion,
+by Nate Hoffman. Published by the American Nuclear Society (ANS) with support from the Electric Power
+Research Institute (EPRI), 1995, ISBN:0-89448-558-X, 223 pages (69 pages as appendices),
+
+
+“ADDENDUM
+“Comments were made in this text that the
+work performed by SRI INTERNATIONAL
+was difficult to examine in detail because
+that lab was reticent to share experimental
+details of a potentially profitable field of
+research. This experimental secrecy was
+partially lifted by the following Report to
+EPRI:
+“McKubre, M. C. H., et al., 'Development of
+Advanced Concepts for Nuclear Processes
+in Deuterated Metals,' TR-104195,
+Research Project 3170-01, Final Report,
+August 1994.”
+
+This is a strange little book. It well written
+in some parts, with knowledgeable, indepth,
+analysis. Yet elsewhere the author
+makes factual errors that might easily have
+been avoided. Some of his mistakes are
+mind-boggling, like his suggestions that
+chemical supply companies sell used moderator
+heavy water from CANDU fission
+reactors, or that no researcher in any cold
+experiment has ever measured true rms
+power. The focus of the book is wrong. It
+covers a few backwater aspects of cold
+fusion. It describes a handful of unimportant,
+botched experiments while it ignores
+the real work. The most important fact
+about cold fusion is that it produces excess
+heat beyond the limits of chemistry. As
+Fleischmann says, “heat is the principal
+signature of the reaction.” In most experiments,
+heat is the easiest parameter to
+measure, giving the highest signal-tonoise
+ratio. Yet Hoffman does not discuss
+any experiments in which excess heat was
+observed. He censors them out, he pretends
+they do not exist. This eliminates
+most of the literature. In the second paragraph
+of the book, Hoffman says that Pons
+and Fleischmann claimed excess heat, but
+that is the last we hear about the subject
+until the closing remarks. He never says
+that hundreds of other scientists replicated
+their findings. He never mentions any particulars
+about heat. There is no discussion
+of power; net energy; energy versus mass
+(megajoules per mole of cathode material);
+power density; temperature; current density
+and other triggering mechanisms; or
+metallurgical conditions and surface treatments
+required to generate excess heat.
+
+This censorship of anything relating to
+heat is carried to absurd extremes. A short
+chapter on calorimetry, titled “Possible This censorship of anything relating to
+heat is carried to absurd extremes. A short
+chapter on calorimetry, titled “Possible Artifacts Associated with Heat
+Measurements in Palladium/Deuterium
+Systems” contains only speculation about
+hypothetical errors, and no actual calorimetric
+data from any experiment. Chapters
+that deal with things like neutrons, charged
+particles, and helium contain references to
+the literature, samples of data from published
+experiments, and comments from
+researchers. But the chapter on calorimetry
+has no data from any cold fusion paper,
+even though the majority of papers in the
+field deal with this subject. Other chapters
+have extensive bibliographies; this chapter
+lists four items from outside the literature
+(including a reference to the Fluke instrument
+company Catalog), and this whimsical
+little note:  “Note: Listed bibliography concentrates
+solely on artifact considerations, not on the
+numerous studies of heat generation in
+deuterium / solid systems.”
+
+McKubre observed megajoules of excess
+heat per mole at high signal to noise ratios,
+using superb calorimeters, so Hoffman
+censored him. This Addendum lists only
+McKubre; it should have listed papers from
+Pons and Fleischmann, Kunimatsu, Storms,
+Oriani, Gozzi, Aoki, Huggins, Okamoto and
+dozens of other top scientists who Hoffman
+ignored. The Addendum of missing papers
+and data should have been as long as the
+Fusion Facts bibliography (more than 100
+pages). On the back page, reviewer
+Tillbrook of the ANS describes this book as
+“wide in scope.” It is just the opposite. This
+is a classic case of academic tunnel vision,
+in which the author refuses to examine 99%
+of the published papers because he disagrees
+with their conclusions.
+
+Let us start at the end, and look at this
+afterthought Addendum carefully, because it epitomizes the whole book.
+
+1. Hoffman asserts that SRI's work has been
+secret until the Final Report was published
+in August 1994. This is incorrect. SRI
+revealed copious details in 1991 at the
+Second International Conference (ICCF2) (1)
+at ICCF3 in 1992 (2) at ICCF4 in 1993(3); in
+the Journal of Electroanalytical Chemistry
+article of 1994 (4); and at ICCF5. McKubre
+and others have discussed this work in formal
+lectures at MIT(5) (M.I.T. EECS-LECTURE,
+Sept. 24, 1992), Texas A&M, and
+elsewhere. The Final Report does contain
+new details, but it does not have any surprises
+or new information that would
+impact upon the arguments in this book.
+Everything Hoffman needed to know was
+published five years ago. On page 75, he
+gives one example of one detail that SRI has
+not shared. Just because SRI did not share
+one detail he wanted, that does not mean
+he can justify ignoring the great mass of
+information they did share.
+
+2. Hoffman asserts that SRI's work was difficult
+to examine when the book was written.
+Yet every other review of the field written in
+the last five years discusses SRI's work, and
+dozens of other papers reference it.
+
+3. He says that the lab was “reticent to
+share experimental details” because this
+field is potentially profitable. He asserts as
+a general rule that you cannot get sufficient
+scientific information in areas of research
+driven by industrial profits. Yet, most
+research and development in most fields is
+for profit. Countless journals, magazines
+and textbooks are devoted to purely commercial
+R&D areas like semiconductors and
+oil refining.
+
+4. This book was published with support
+from EPRI. The Forward was written by
+Thomas Schneider of EPRI. EPRI paid for
+McKubre's research at SRI and Wolf's
+research at Texas A&M, and it published
+the Final Report that barely made it into the
+Addendum. Schneider has been a known
+behind-the-scenes bitter opponent of cold
+fusion for many years, but he must have
+been aware of McKubre's numerous publications
+over the years, and he must have
+realized that McKubre's data contradicts
+Hoffman's conclusions. He should have told
+Hoffman to include something about
+McKubre. Schneider and Hoffman want to
+present a one-sided picture. They want to
+prove that all positive results are due to “an
+unidentified error or artifact,” as Schneider
+puts it.
+
+McKubre's experiments are among the
+most important in this field. McKubre has
+been a keynote speaker at all five
+International Conferences, three of which
+Hoffman attended. Yet Hoffman does not even mention McKubre's work. This is not a
+minor oversight; it is a fatal flaw. Hoffman
+makes many incorrect statements about
+calorimetry and experimental technique. If
+he had taken the time to look carefully at
+McKubre, or Pons and Fleischmann,
+Storms, or any of the other mainstream
+workers, he would have caught these mistakes.
+The experiments do not fit the patterns
+he describes. The potential errors he
+speculates about could not have occurred.
+The equipment and protocols are designed
+to rule out these errors. In many experiments,
+the magnitude of the excess heat
+alone rules out the errors he speculates
+about. For example, he mentions that bubbles
+on cooling coils can sometimes insulate
+the electrolyte, raising the temperature
+slightly. In leading experiments the temperature
+rose thousands of times higher
+than bubble formation could explain.
+
+For people who already know the field,
+this book is old hat, or a stroll down memory
+lane. A scientist who is thinking about
+doing these experiments for the first time
+who knows nothing about the field will find
+valuable information, although I recommend
+reading the original sources instead.
+Hoffman's writing style is clear and forceful.
+His own comments are often helpful,
+and to his credit he has brought good
+material from wide-ranging sources, like
+the checklist of potential errors measuring
+tritium, from Carol Talcott-Storms on page
+61, the statistical analysis by Tolly on page
+89, and the Appendices written by G. Miley
+and B. Oliver. The bibliography is pretty
+good too, except, of course, it does not list
+the major papers about excess heat. (One
+or two minor papers about heat did creep
+into the chapter about tritium).
+
+
+A Cute Presentation Format, But It Gets
+on Your Nerves
+
+This book is written in an odd but
+appealing format. It is an imaginary
+Socratic conversation; a series of questions
+and answers between a Young Scientist
+(YS) and an Old Metallurgist (OM,
+Hoffman's alter ego). I have never seen a
+serious scientific book written as an imaginary
+conversation. In the chapters on history
+and the overview this format is effective,
+but in the technical chapters it
+becomes tiresome.
+
+The tone of the writing is irritating. It is
+hypocritical. Hoffman trashes cold fusion
+by pretending the dramatic successful
+experiments never happened, and by
+grossly misrepresenting other experiments.
+He pretends to be impartial. He
+even makes a show of being solicitous
+toward the cold fusion scientists. He uses
+little of the heavy-handed mockery and
+harsh language you see in attacks against
+cold fusion by Huizenga, Taubes or
+Morrison. Unlike the American Physical
+Society officials, he makes no accusations
+of criminality or lunacy, he does not say
+that cold fusion scientists are half-wit suicidal
+Branch Davidians(6). Hoffman criticizes
+Taubes. Occasionally, he praises a
+few experiments. In a short chapter titled
+“Experiments Without Apparent Artifacts,”
+
+Hoffman says that Chien's experiment at
+Texas A&M, Claytor's work at Los Alamos,
+and a few other experiments seem to be
+free of error. He did not include any that
+showed excess heat. (He says that Russ
+George's work at E-Quest is “interesting,”
+but he does not mention that it produces
+excess heat.) His Mister Nice Guy tone and
+his occasionally pat-on-the-head praise of
+a few cold fusion scientists will make a
+naïve reader think that Hoffman really is
+even-handed, and he really has presented
+“a broad review” conducted in an “open
+minded” fashion, as the book jacket blurbs
+claim. A blurb from Steve Jones says:
+“Dr. Hoffman's treatise on anomalous nuclear
+effects in deuterided materials has been looked
+upon as pro-cold-fusion and paradoxically as
+anti-cold-fusion. It is neither. Rather, I see Dr.
+Hoffman's book as a significant effort to scrutinize
+relevant observations with care . . .”
+
+This book does not “scrutinize relevant
+observations.” It buries them! It ignores
+them, just as Jones himself does. This is a
+narrow, biased, anti-cold-fusion tract masquerading
+as a broad review. The relevant
+data has been stripped out because it contradicts
+the point of view Hoffman,
+Schneider, and Jones want to foist on the
+reader. This book demonstrates why you
+should never depend upon a review of a
+scientific field, particularly a controversial
+field. You must also read original sources.
+
+
+Masterful Analysis of Non-Issues
+
+Many of the topics Hoffman chose to
+address are non-existent, non-issues. His
+analysis and presentation of these topics is
+sometimes masterful. He does a superb job
+in describing the problems, he includes the
+details, facts, and hard numbers you need
+when you check the literature to see if these
+problems marred the experiments. But he
+does not say that the hypothetical problems
+he describes do not exist in the real world. 
+
+The short chapter about calorimetry
+“Possible Artifacts Associated with Heat
+Measurements”. . . and its whimsical phantom
+bibliography is described above. It is a
+masterpiece of obfuscation. In it, Hoffman
+carefully avoids saying anything about any
+actual cold fusion experimental result. On
+the surface, it is a technical discussion of
+hard facts. He talks about the Joule-
+Thompson effect in detail. Taking a 10.6
+gram cathode (which he says is a “typical
+mass,” but which I think is larger than
+usual), he says: “The maximum loss of deuterium
+is from a stoichiometry corresponding
+to pressures of 0.2 in the shear modulus,
+which occurs at a loading of about
+PdD0.9, to the stoichiometry of one atmosphere
+of D2, which occurs at roughly
+PdD0.65 as one can see from this phase
+diagram (Figure 6.2). ” Working through the
+diagrams and figures, we find that with
+10.6 grams of palladium, under extremely
+rare circumstances, the Joule-Thompson
+effect might slowly store and then suddenly
+release a one-time burst as large as 2.18
+kilojoules. With some types of calorimeters,
+under some circumstances, this might
+appear to be a positive burst, rather than
+zero-sum energy storage and release. In
+many cold fusion experiments, including
+the ones at SRI, continuous generation from
+small cathodes adds up to far more than
+2.18 kilojoules. Some cathodes have produced
+a hundred thousand times more
+energy than this. Therefore, cold fusion
+cannot be an artifact of the Joule-
+Thompson effect. Hoffman leaves the reader
+with the impression that this might be a
+significant artifact even though his own
+analysis proves it is not. 
+
+Other topics discussed briefly include the
+effect bubble formation on the insulating
+quality of the cell and mixing. In any
+calorimeter, it is essential that you ensure
+the cooling fluid or electrolyte is properly
+mixed. Everyone doing cold fusion knows
+this, and in every experiment I have read
+about, proper mixing is assured. Mixing is
+important but so elementary that no scientist
+would overlook it.
+
+Sometimes he goes to extremes, raising
+points that he must know are disingenuous.
+The worst example is at the end of the
+chapter where the gullible Young Scientist
+asks: “do the experimenters use rms voltmeters?”
+The Old Metallurgist answers like
+a crafty lawyer:
+“OM: To my knowledge, no electrochemist
+involved in these calorimetric studies uses rms
+meters. Calorimetry specialists have raised this
+point many times, but the heat-measuring cold
+fusion community has rather 'heatedly' replied
+that rms meters are not required.
+“YS: On what basis do they justify not using rms
+meters?
+“OM: Their claim is that they routinely examine
+the output signal with cathode-ray tubes and see
+no signal that is hashy enough to justify rms
+meters.
+“YS: Certainly a cathode-ray tube readout should
+be a sufficient instrument for ruling out the necessity
+of rms voltmeters, but I'm surprised. . . ”
+
+First of all, this is nonsense. Many cold
+fusion scientists use rms meters to mea-sure power, as well as oscilloscopes, but
+more to the point, they all use computer
+systems with fast data acquisition boards.
+These not only measure true rms power
+better than most meters, but they also
+integrate power to measure energy.
+Nobody relies upon a meter. Does Hoffman
+imagine that graduate students are posted
+to watch a meter 24 hours a day, writing
+down the power levels and graphing them
+by hand?
+
+The chapter concludes:
+“OM: Well, that is a quick rundown on possible
+heat artifacts. In general, these heat measurements
+are being done by very knowledgeable
+experimenters who know how to avoid artifacts.”
+How kind of Hoffman to mention this! As
+Anthony put it: “For Brutus is an honorable
+man; So are they all, all honorable men. . . ”
+
+
+Mind Boggling Mistakes 
+
+Every so often, Hoffman goes off on a
+tangent and makes wildly incorrect statements.
+Most of chapter 3, Radioactivity
+Artifacts, is devoted to a discussion of used
+moderator water from fission reactors,
+which he believes may be causing artifacts
+in some cold fusion experiments. The discussion
+begins:
+“OM: There are strong indications that commercially
+sold heavy water may contain variable contents
+of used moderator water from either
+CANDU-type nuclear reactors or Savannah Rivertype
+weapons production reactors.
+“YS: What would indicate that?
+“OM: The indicator is the enormous variation in
+the tritium-to-deuterium (T/D) ratio in different
+batches of heavy water. . .
+“YS: But why in the world would the commercial
+suppliers mix any used moderator water into
+their feedstocks?
+“OM: As to why, one cannot just pour used moderator
+heavy water from these reactors down the
+drain– the tritium content is too high– and
+besides, heavy water is not all that cheap . . .”
+This is followed by a five-page, in-depth
+discussion of how used moderator water
+might affect a cold fusion experiment.
+Hoffman speculates that uranium from the
+reactor might contaminate the water. He
+includes a table of Alpha Emissions for a
+nanogram of uranium decay isotopes. The
+first three pages of the next chapter
+describe how corrosion products from zirconium
+fission fuel cladding in commercial
+heavy water probably explain the isotopic
+and chemical changes seen in palladium
+cathode surfaces. This is a carefully presented,
+detailed, professional-looking
+exposition. It is also a preposterous flight
+of fancy. The levels of tritium and other
+dangerous contaminants in used moderator
+water are millions of times too high for
+the water to be cleaned up and sold to the
+public for any purpose. I faxed this section
+to Ontario Hydro, the company that produces
+90% of the world's supply of heavy
+water for use in their Canadian designed
+CANDU reactors. They responded with a
+detailed two-page fax, in which they show
+that Hoffman's idea is, quote: pure nonsense.
+They said that the specific activity of
+tritium in newly refined virgin heavy water
+varies from 0.05 to 0.17 μCi/kg (microcuries/kilogram), depending on the
+method of refining and the site of the refinery
+plant. Tritium levels above 2.0 μCi/kg
+is considered dangerously radioactive, and
+must be handled by trained personnel
+wearing appropriate protective clothing,
+using special equipment. In an operational
+CANDU power reactor, the moderator water
+contains 107 μCi/kg, and research reactors
+generally contain 106 μCi/kg. Furthermore,
+this water contains many other contaminants
+even more dangerous than tritium, including
+long-lived alpha and gamma emitters.
+Removing these radioactive contaminants
+would be far more expensive than refining
+virgin heavy water from ordinary water. In
+order to reduce the tritium to safe levels you
+would have to mix the moderator water with
+virgin heavy water in a ratio of 1 to
+100,000,000. Ontario Hydro concludes:
+“Used moderator water can often be re-sold, but
+only to other reactor operators. . . . Ontario Hydro
+dominates the world's nuclear market for heavy
+water and the world's non-nuclear wholesale
+market, and we have never attempted to use
+diluted, cleaned-up old moderator water for our
+non-nuclear markets.”
+The letter points out that some of
+Hoffman's other speculation about heavy
+water is also wrong:
+“Theoretically, deuterium gas produced by electrolysis
+has lower D/T ratio than the source D2O.
+However, in practice, there is no difference, as the
+separation factor is so small, and the operation is
+done in a single stage process. . . . [Hoffman's]
+suggestion that commercial D2 gas suppliers
+must start with heavy water that is higher in tritium
+activity than any commercially available
+product any is also pure nonsense. Ontario Hydro
+is one of the world's major deuterium gas suppliers
+and we provide heavy water to one of the
+world's other major suppliers. The heavy water
+starting material is our normal virgin product.”
+
+Hoffman went badly astray here. He made
+a wild guess that was wrong by eight orders
+of magnitude. He should have called
+Ontario Hydro to check out these weird
+ideas. Why didn't his editor or Schneider
+catch this? Did Schneider read the book
+before he wrote the Forward? The text that
+Hoffman himself wrote (excluding material
+from other authors) is only 130 pages, and
+he reportedly worked on it for several years.
+In all that time he should have taken a few
+minutes to call Ontario Hydro. This is not a
+minor issue. If Hoffman had tucked this
+idea in a footnote, as a throwaway suggestion,
+then I suppose his editors and reviewers
+might have overlooked it. But he devoted
+eight pages to it! Six percent of the
+book! He devotes zero pages to excess
+heat; power density; temperature; triggering
+mechanisms; current density; cathode
+testing techniques and other topics most
+people think are the key to the phenomenon.
+And that is not the only glaring error
+in the book. It is the most egregious mistake,
+but the statements about rms meters
+and calorimetry run a close second.
+
+Hoffman's publisher and reviewers at the
+American Nuclear Society and EPRI are
+among the world's leading experts in
+nuclear fission. EPRI performs the most advanced nuclear power reactor research
+and development in the world. They spend
+hundreds of millions of dollars designing
+new fission power reactors. How could a
+leading expert at EPRI like Schneider fail to
+realize that no chemical supply house could
+sell used heavy water? Jones asserts that
+Hoffman is careful. Did Jones read the
+book? I believe that Hoffman, Schneider,
+Jones and the others did not overlook these
+mistakes. They ignored them, because they
+do not take this field seriously. They do not
+care whether the arguments marshaled
+against cold fusion are scientifically correct
+or pure nonsense. They will use any tactic
+to discredit the field. They ignore positive
+experiments; they pretend that McKubre
+does not exist; and they toss out scientifically
+illiterate arguments like used moderator
+water. They publish these absurd arguments
+on Internet and in books like this in
+order to confuse the issue. They want to
+drown out reasoned scientific debate with
+chaotic nonsense and mind-boggling mistakes.
+They want to lower the standards of
+science so that instead of looking at carefully
+derived data, superb calorimetry, and
+meticulously worked out theories, we go
+chasing off after used moderator water and
+other phantasmagoria.
+
+
+Focus on Botched Experiments
+
+Hoffman devotes much of this book to
+statements from people who are not qualified
+to discuss cold fusion. This reaches
+extremes in Chapter 8, in which he
+describes a farcical scientific conference
+held in 1991 called the Half Moon Bay
+Review, which was billed as an “in-depth
+review of cold fusion.” It was sponsored by
+Schneider and arranged by Hoffman himself.
+There were three ground rules:
+“1. No firm 'believers' in cold fusion were to be
+included.
+“2. 'Skeptics' were welcome as long as we felt that
+such a scientist could be objective about presented
+data.
+“3. Each scientist panel member should be among
+the top few in the technical area for which he or
+she was selected.”
+
+In actual practice, Rule 1 meant that no
+competent cold fusion scientist was invited
+to join the Review Panel, and Rule 3 was
+ignored. The assembled “experts” specialize
+in neutrons and high-temperature plasma
+physics. Not a single one of them has
+ever published a serious paper on cold
+fusion or performed a cold fusion experiment.
+EPRI did not even invite their own
+expert electrochemist, McKubre, who is
+widely acknowledged as being one of the
+best in the world. This is like holding a conference
+on Tokamak hot fusion reactors
+and inviting only electrochemists.
+
+The conference called in four experimental
+groups for the Review Panel to pass
+judgment upon: the Texas A&M cyclotron
+group (Kevin Wolf); Rocketdyne Helium
+Mass Spectroscopy Group; the Brigham
+Young University (BYU) 'Anomalous Nuclear
+Effects' Group; the Colorado School of
+Mines. Unfortunately, in 1991, none of
+these groups had ever done cold fusion
+calorimetry, which is at the heart of the 
+experiment. The first two groups had
+assisted others in post-experiment analysis,
+but they themselves had not done any
+experiments. The Review Panel might have
+called in any number of scientists who had
+done competent experiments and seen
+positive results, but they decided not to.
+Their conclusion was pre-ordained, given
+the people they called in: “We were not presented
+with (nor are we aware of) any consistently
+reproducible data that shows
+anomalous nuclear effects in deuterium/
+metal systems. ” Perhaps if they had
+invited a scientist who claimed to see such
+effects, he might have told them about it.
+
+Since there was no one on the panel qualified
+to judge cold fusion, and since they
+only invited scientists whose experiments
+failed, I think this Conference was a deliberate
+attempt to discredit the field—just
+like the original DOE panel in 1989. If I am
+right, the review panel will never reconvene
+and call in the same groups again, because
+subsequently two of them saw definitive
+evidence of cold fusion. Kevin Wolf saw
+dramatic transmutations [See IE, Vol.1,
+No.2], which is exactly the sort of nuclear
+evidence the panel claimed it was looking
+for. Wolf himself denies that this is evidence
+of cold fusion; he claims that the
+transmutations have nothing to do with the
+fact that the cathodes were in a test tube
+undergoing electrolysis with heavy water.
+He thinks that by a fantastic coincidence,
+the cathode was hit by a hypothetical WIMP
+particle (or its products) from outer space!
+No other scientist with whom I have spoken
+believes that. Appendix D of this book is
+the report from the Rocketdyne Group,
+written in 1993. Long after the Half Moon
+Bay Review, Rocketdyne saw definitive evidence
+of helium in three groups of experiments.
+They dispute the first one, from
+China Lake (Miles), although their reasons
+are spurious. They do not dispute Texas
+A&M (Chien, Bockris) or E-Quest. Hoffman
+should have said this back in Chapter 8. He
+should have pointed out that subsequent
+work from two of these groups negated the
+conclusions of the panel.
+
+Hoffman describes in loving detail some
+experiments performed by Steve Jones of
+BYU to detect low level neutrons. He
+devotes many pages to a whimsical experiment
+performed by Jones in which
+Portland cement was mixed with heavy
+water. This is interesting science. It sounds
+like fun. But it has nothing to with mainstream
+cold fusion. In any case, these
+experiments failed to produce definitive
+results. At ICCF4, Jones retracted most of
+his earlier claims. Hoffman writes a lot
+about this sort of marginal, flawed,
+retracted work, and he does not even mention
+hundreds of positive, replicated cold
+fusion experiments. In a short book on cold
+fusion, why would anyone devote several
+pages to Portland cement and never get
+around to mentioning McKubre or
+Kunimatsu? Hoffman also discusses Jones'
+palladium experiments, but these experiments
+prove nothing:
+
+The experiments were incompetently
+performed. No attention was paid to critical critical
+techniques like keeping the electrolyte
+and cathode clean. At Kamiokande, the
+workers were actually shown on Japanese
+NHK national television touching the metal
+surface of the cathode with their bare
+hands.(7) This is appalling sloppiness.
+• They did not attempt to measure critical
+parameters like loading. They performed no
+pre-testing of cathodes. They made no
+attempt to raise current density to high
+enough levels, and they made no attempt
+trigger the reaction by heating up the sample
+or with some other well known method.
+• They did not attempt to measure excess
+heat. There is no point to looking for neutrons
+unless you are sure you have a cold
+fusion reaction, and the only certain sign of
+a cold fusion reaction is a burst of excess
+heat. The heat is far easier to detect than
+the neutrons, and it is unambiguous.
+People have argued for years about the
+trace levels of neutrons detected in some
+cold fusion experiments. Jones himself has
+retracted some neutron measurements. In
+contrast, nobody has ever retracted any of
+the high power calorimetry (power above
+one watt), and the skeptics have never
+offered any serious arguments to disprove
+it. The level of neutrons in cold fusion is
+millions of times lower than it is for hot
+fusion, so looking for neutrons without first
+verifying the heat is folly.
+
+Hoffman and Jones ignore one of the few
+things we know with certainty about cold
+fusion: it is nearly aneutronic. It does not
+produce neutrons commensurate with a hot
+fusion process. Cold fusion is nothing like
+fission or hot fusion. Suppose a scientist
+was given two samples of uranium and told
+to find out which one was undergoing
+intense fission. He could try measuring the
+surface temperature of the metal, but it
+would be far better to use a Geiger counter,
+because the principle signature of fission is
+ionizing radiation. The principle signature
+of cold fusion is heat. This fact was established
+during the first five minutes of the
+first cold fusion experiment that produced
+measurable levels of excess heat. It is
+known as the dead graduate student problem.
+If cold fusion was hot fusion, a cell
+producing a fraction of a watt of heat would
+generate such intense radiation that in a
+matter of minutes it would kill the people
+standing nearby. Yet many observers,
+including me, have stood next to cold
+fusion reactions and we are alive and well.
+
+Jones and many others argue that all of
+those scientists who reported excess heat
+have made a mistake in their calorimetry.
+This is the heart of the cold fusion debate.
+Schneider says that in the Forward, in what
+I call the subtle yet massive yet invisible
+unknown error hypothesis. He says: “the
+alternative explanation, that the anomalous
+heat measurements are not from nuclear
+reactions but are the result of an unidentified
+error or artifact, appears to me to be
+the only viable explanation of 'cold fusion.'”
+He does not attempt to guess what error
+this might be. Schneider knows as well as I
+do that many cold fusion experiments have
+yielded very high power, some as high as
+180 watts.(8) It takes a gigantic error to
+produce a false reading of 180 watts.
+Gigantic errors are inherently easy to spot. They are caught during calibration.(9)
+
+Schneider wants to have it both ways. He
+wants an error so big that anyone would
+see it instantly, and so small that several
+thousand scientists have failed to see it
+over six years of intense research. The fact
+is, for the last 200 years, scientists have
+been using calorimeters to measure multiple-
+watt power levels. Measuring milliwatts
+is tricky, but watts are easy. There are few
+scientific techniques as cut and dry and as
+reliable as calorimetry in this domain. The
+basic techniques were described in my
+daughter's third-grade science textbook.(
+10) At any large high school science
+fair you will find experiments using
+calorimetry accurate and precise enough to
+measure the power levels observed in the
+leading cold fusion experiments. (I counted
+four calorimeters at last year's Dekalb
+County Fair.)
+
+Schneider, Jones and Hoffman know
+there are no significant errors in the
+calorimetry of the mainstream professional
+scientists working in this field. They pretend
+there might be an error. They never
+specify which error, because they know
+there cannot be one. If the invisible error
+hypothesis really was “a viable explanation,”
+as Schneider claims, he would list two
+or three potential candidates that fit the
+data. When pressed, opponents like
+Schneider and Hoffman always come up
+with a list of minor sources of error like the
+Joule-Thompson effect, which, thanks to
+Hoffman's own discussion, we see is many
+orders of magnitude too small to explain
+the data.
+
+Schneider wants to artificially limit the
+debate to two options: either cold fusion is
+a standard hot-fusion style nuclear
+process, or it is a mistake. He wants to discuss
+these two hypotheses alone, excluding
+all others, even though these two were disproved
+years ago. He does not admit that
+cold fusion may be something new and different.
+He ignores the theoretical work of
+people like Schwinger, Hagelstein, Chubb
+and Chubb, and Preparata. He wants to
+limit the debate to two equally impossible,
+equally sterile hypotheses. Hoffman tries to
+steer clear of this issue, but he also pretends
+that Schwinger, Hagelstein and the
+others do not exist. Occasionally he hints
+that “a new paradigm ” might be needed,
+but he does not mention any of the new
+theories. He does not give the name of a
+single theoretician!
+
+
+The Rockwell Rocketdyne Report
+
+Appendix D is a 35 page report written by
+Brian Oliver of Rockwell International, titled
+“Summary of Helium Analysis Conducted by
+Rocketdyne Under EPRI Funding.” This is
+one of bright spots in the book. Since July
+1989, Rockwell has worked with many cold
+fusion research labs around the world,
+looking for evidence of helium in used
+cathodes and in samples of effluent gas.
+They tested materials from the University of
+Utah, ETEC, China Lake, Osaka University,
+E-Quest, and others. Their procedures and
+instruments are described in detail.
+
+The Rockwell Rocketdyne facility is wide-ly considered to be the best in the world at
+measuring helium. The hot fusion Tokamak
+programs contract with it to do helium
+analysis. Even John Huizenga, the archenemy
+of cold fusion, once said that if
+Rockwell found helium from a cold fusion
+experiment, he would endorse those
+results in writing. At ICCF4 Huizenga said
+that to Russ George and me. Unfortunately,
+his resolve did not last long. George and I
+talked to Hoffman and another Rockwell
+representative at the conference. We
+agreed we would find the money to pay for
+the work, and they agreed to test the
+George's E-Quest samples. When we told
+Huizenga, he panicked and reneged, saying
+he would not endorse the results after all.
+His exact words were: “I will leave it up to
+you fellows.” Nevertheless, during that
+hour when he thought there was no chance
+Rockwell would agree, and no chance we
+would find a way to pay, Huizenga was
+confident enough to stake his reputation
+on Rockwell's work. It is a pity he chickened
+out because, as this chapter shows,
+Rockwell did test the E-Quest samples
+from the Los Alamos experiments, and
+their tests did prove that the excess heat
+comes from a nuclear reaction (at least in
+part). Experiments that did not generate
+excess heat showed 0.4 ppm helium.
+Experiments that did generate excess heat
+yielded helium far above that background
+level, at levels as high as 552 ppm, 100
+times atmospheric concentration. Rockwell
+also looked at the ratio of 3He to 4He as
+well as 22Ne to 4He in the samples and
+found the isotopic ratios prove the helium
+could not possibly have come from contamination
+from normal terrestrial helium.
+This report says that these results have
+also been confirmed by other helium mass
+spectrometry at the U.S. Bureau of Mines
+(Amarillo, TX) and by SRI International. It
+says reactions in the E-Quest system are
+“characterized by the production of heat”
+but it glosses over important details. does
+not say that the power level is at hundreds
+of watts, or that the levels of 3He and 4He
+are proportional to the net energy produced
+by the device.
+
+ Hoffman mentions E-Quest briefly elsewhere
+in the book but he gives no details,
+except in one spot. In Table 10.1, on page
+130, “Anomalous Nuclear Measurement
+Examples,” he slips in a cryptic reference to
+E-Quest. He tries hard to disguise it. In this
+table, the name E-Quest is not mentioned;
+there is nothing about 4He; there is no reference
+to Appendix D; and naturally there
+is no mention of heat (a forbidden subject!).
+But he does include this comment
+which I suppose must refer to E-Quest:
+“3He; only one questionable measurement of
+3He; one gas sample claimed to be from cavitation
+experiment showed high 3He.”
+It is hard to know what to make of this.
+Perhaps Hoffman finds his own laboratory
+at Rockwell “questionable” for reasons he
+does not reveal. Nobody else finds it questionable,
+but perhaps he has some inside
+information that calls into doubt Rockwell's ability to measure 3He at levels thousands
+of times above the natural background.
+From the phrase “claimed to be,” I conclude
+that Hoffman does not fully believe the
+samples came from E-Quest's experiments
+at Los Alamos. I cannot imagine where else
+he thinks they might have come from.
+Perhaps he imagines that someone else at
+Los Alamos synthesized or obtained 3He,
+put it in $500 steel collection flasks, and
+shipped it to Rockwell as a joke.
+
+Oliver's report shows that other tests, on
+cathodes and gas from other laboratories,
+were not as definitive as E-Quest, but some
+of them did show that helium has been created.
+Even when experiments yielded
+excess heat, most of the cathodes did not
+have elevated levels of helium or unnatural
+isotopic ratios. I suppose that means the
+reaction usually occurs near the surface,
+and the helium ash is lost with the effluent
+gas. Rockwell found clear positive results
+from two other groups besides E-Quest:
+China Lake, and Texas A&M.
+
+Melvin Miles at China Lake (11) found
+helium in effluent gas samples proportional
+to excess heat. I discussed the Rockwell
+report with Miles. He pointed out that it is
+marred by misunderstandings and out-ofdate
+information. Rockwell suspects that
+the helium may have come from contamination;
+that is, helium leaking through the
+glass. The report discusses this at length,
+but this possibility was ruled out years ago:
+• The helium is proportional to the excess
+heat. There is no mechanism that would
+allow selective leaking in of helium through
+the glass weeks after a fraction of a watt of
+excess heat was generated. When you look
+a simple presence or absence test, the
+proof is even more stark. When there was
+no heat, there was no significant helium;
+when there was heat, there was easily
+detected levels of helium. The glass cannot
+know whether there was heat, and the
+excess was too small to weaken the glass or
+chemically change it to leak faster.
+• Miles later repeated the experiments with
+steel collection flasks, and found the same
+results. Steel is more resistant to helium
+penetration than glass.
+• Miles sent samples in both glass and
+steel collection flasks to other laboratories,
+including the University of Texas and SRI.
+They too confirmed the helium.
+• The experiments are continuing, and
+Miles still observes excess heat and a positive
+correlation with helium. Over the past
+year, he has seen as much heat as his best
+earlier results. He has not yet been able to
+publish results from the last year.
+Rockwell found no helium in the China Lake
+cathodes. Miles points out that he would
+not expect to find any, even if it had
+evolved inside the cathode during the
+excess heat runs. After every run with heavy
+water, the cathodes were electrolyzed with
+ordinary water to recalibrate.(12) This
+would probably purge any significant helium
+from the cathode. Miles told that to
+Rockwell, but they neglected to mention it
+in the report.
+
+Oliver describes the analysis of the Chien
+(13,14) cathodes from Texas A&M in detail After hemming and hawing, he concludes
+in italics:
+“Small amounts of 4He were observed in 7 of the
+16 specimens analyzed, 5 of these 7 were for
+specimens that had been etched. Six of the 7
+'positive' 4He results were for AM-Pd4. Unlike the
+results obtained earlier, the results for the present
+group are more heterogeneous, and also do
+not show any clear correlation with either sample
+surface area (Figure D.6) or with etch depth
+(Figure D.7). This would suggest that the small
+amounts of 4He observed in the Chun-Ching
+Chien cathode material from the electrolysis
+experiments performed in Professor Bockris's
+laboratory are indeed heterogeneous and extend
+to depths greater than ~4μm.”
+
+
+Hoffman Argues With Himself
+
+The saddest part of this book comes close
+to the end, where Hoffman confronts the
+most important aspect of cold fusion: the
+heat. Heat is the principle signature of the
+reaction, and it is also the best, most ironclad
+proof that the effect is real. I found this
+section heartbreaking. Here is the spectacle
+of a man who knows how to do good science;
+a man who knows the facts and the
+literature, who cannot bring himself to face
+the truth. Hoffman is stuck in a time warp,
+arguing about issues that were settled
+years ago, and issues that make no scientific
+sense. In the Socratic dialog format
+Hoffman appears to enjoy playing the
+devil's advocate and arguing with himself. It
+is playful. The Young Scientist acts as a foil,
+allowing the Old Metallurgist to strut his
+stuff and impress the reader, which he does
+at times. In this section, the argument gets
+out of hand. It gets ugly. A split personality
+emerges, as if he really is arguing with
+himself. I sense that Hoffman sincerely
+wants to confront the issue, but he cannot
+bring himself to do so. He skirts the issue.
+He approaches the answer, he gets to heart
+of the matter for a moment, and then suddenly
+he changes the subject, as if he cannot
+stand to look at the truth for long. The
+dialog begins: YS: I guess the real question has to be this: Is the
+heat real?
+“OM: The simple facts are as follows. Scientists
+experienced in the area of calorimetric measurements
+are performing these experiments. Long
+periods occur with no heat production, then,
+occasionally, periods suddenly occur with apparent
+heat production. These scientists become
+irate when so-called experts call them charlatans.
+The occasions when apparent heat appears seem
+to be highly sensitive to the surface conditions of
+the palladium and are not reproducible at will.” Instead of answering the question, Hoffman
+has flown off on a tangent. The correct
+answer is: Yes, because the techniques are
+proven and the signal to noise ratio is very
+high. Those are the simple facts. Hoffman
+ignores them as he launches into an irrelevant
+and factually incorrect discussion. It is
+true that with some experiments heat is
+sporadic and unpredictable, but the simple
+answer remains: Yes because calorimeters
+measure sporadic heat reliably.
+Furthermore, Hoffman fails to say that Pons
+and Fleischmann, Patterson, Arata and
+many others have good control over the
+reaction. They can trigger it at will, and it continues indefinitely at steady, high power
+levels with such a large percent excess that
+there is no question it is real. Calling it
+“apparent heat production ” is like watching
+a Boeing 747 take off and then saying
+“apparently it is flying.” The conversation
+goes on:
+“YS: Any phenomenon that is not reproducible at
+will is most likely not real.
+“OM: People in the San Fernando valley, Japanese,
+Colombians, et al., will be glad to hear that earthquakes
+are not real.
+“YS: Ouch. I deserved that. My comment was stupid.
+“OM: A large number of people who should know
+better have parroted that inane statement. There
+are, however, many artifacts that can indicate a
+false period of heat production, as we have discussed.
+The question of whether heat is being
+produced is still open, though any such heat is
+not from deuterium atoms fusing with deuterium
+atoms to produce equal amounts of 3He + neutron
+and triton + proton. If the heat is real it must
+be from a different nuclear reaction or some
+totally unknown non-nuclear source of reactions
+with energies far above the electron-volt levels of
+chemical reactions.”
+This is the first and only place in the entire
+book where Hoffman faces the truth. But
+not for long. The question of whether heat
+is being produced is not open. It was
+closed, once and for all, back in 1991 when
+McKubre and others published their replications
+of Pons and Fleischmann. Hoffman
+finally makes this key point: the energies
+are far about the electron-volt levels of
+chemical reactions. It is hundreds of thousands
+of times above those levels, in some
+cases. Hoffman's statements about “many
+artifacts” and the heat “still being open to
+question” are false. Calorimetry at the multiple-
+watt level is cut-and-dry. It gives an
+unambiguous answer that no modern scientist
+can doubt or argue with. It is not
+complicated; the results are not open to
+question; the doubts and questions paraded
+by Hoffman and other skeptics have no
+scientific merit. The techniques used to
+measure watt-level heat are so fundamental,
+so easy, and the results so clear, that
+for Hoffman and others to question them is
+tantamount to questioning all of science
+back to James Watt. They might as well
+doubt that Newton's prism experiment
+proves white light contains the other visible
+colors.
+
+Other skeptics have attempted to disprove
+the heat results. Hoffman does not.
+He does not even dare to mention the actual
+numbers from the papers. He is a good
+enough scientist to realize that he cannot
+challenge them. Instead, he pretends they
+do not exist. After coming so close to confronting
+the truth, Hoffman's imaginary
+dialog fades away in a meandering discussion
+of marginal experiments. This is typical
+of the whole sad book:
+“YS: You were supposed to summarize 'cold
+fusion' for me. Your summary has no punch ending!
+You agree it is not the normal D-D fusion
+that was originally postulated. Does any anomalous
+nuclear effect exist or not? I suspect it does
+not. You apparently think that the answer is not
+in yet. Can you at least point to those experiments
+that you think should be continued?”
+No scientist, anywhere, has ever postulated
+that cold fusion is normal D-D fusion. If it were, I would be dead from radiation. That
+is an infuriating straw man argument.
+“OM: It's not an exclusive list -- and I'm talking
+about anomalous nuclear effects now, not heat.
+Obviously, the concrete setting experiments are
+interesting. The Los Alamos alternating disks of
+palladium and silicon with submicrosecond bursts
+of kilovolt charge are most intriguing. The cavitation
+experiments, which involve the creation of
+enormous pressures as bubbles collapse, seem
+worthwhile at this time.”
+“YS: Well, if you can't be more definitive on the
+reality of anomalous nuclear effects in deuterium/
+solid systems, at least you know what needs
+to be pursued.
+“OM: Is there anything else you'd like to know
+about the anomalous nuclear effects in deuterium/
+solid systems? . . ”
+So . . . the heat drops out of the discussion,
+having lasted for only two paragraphs out
+of the entire book. Yet heat is the single
+most important aspect of cold fusion. It
+proves the three great essentials:
+1. That cold fusion must exist, because the
+calorimetric signal to noise ratio of these
+experiments is so high and the techniques
+so reliable.
+2. That it cannot be a chemical effect.
+3. That it may well be the most important
+discovery in history, because pollutionfree,
+high-density energy is the most vital
+resource on earth.
+Hoffman sweeps the significance of the
+heat under the rug along with all heat
+experiments and data. Hoffman and the
+other skeptics want to talk about neutrons
+and Portland cement. They want to change
+the subject. They will never admit the heat
+is real, because that proves they have been
+drastically wrong from the beginning.
+Hoffman, Jones, and other hard-line opponents
+would dearly like to put a stop to all
+experiments that show excess heat.
+Hoffman wants to do Portland cement, he
+wants Los Alamos to continue looking for
+tritium. Cold fusion is fine as long as it is
+not heat. He wants to talk about E-Quest,
+but he dares not mention that they observe
+hundreds of watts of heat, and he deliberately
+leaves out their best helium results
+too, in Table 10.1, because he does not
+want to lend too much support to any
+aspect of cold fusion. The theme of the
+book, introduced in the Forward and
+repeated throughout is that all cold fusion
+results are marginal and probably mistakes.
+To prove that contention they censor out
+the dramatic successes like E-Quest's helium-
+4, even though Hoffman's own lab confirmed
+it, and even though it slipped into
+Appendix D. Above all, Hoffman and
+Schneider avoid giving any support to heat,
+no matter how dramatic and clear-cut the
+evidence for it is. They pretend that most of
+the top cold fusion papers do not exist. Yet
+heat is the key to cold fusion, and it is the
+key to mankind's long term survival. 
+
+Tanzella, S. Crouch-Baker, T.O. Passell and J. Santucci,
+"Isothermal Flow Calorimetric Investigations of the D/Pd
+System," The Science of Cold Fusion, Proceedings of the II
+Annual Conference on Cold Fusion, Como, Italy, June 29-
+July 4, 1991, pp 419-443
+
+2. M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, R.C.
+Rocha-Filho, S.I. Smedley, and F.L. Tanzella (SRI
+International, Menlo Park, CA, USA), "Excess Power
+Production in D2O Electrolysis Cells: a Comparison of
+Results from Differing Cell Designs," presented at the
+Third International Conference on Cold Fusion, October
+21-25, 1992
+
+3. M.C.H. McKubre, B. Bush, S. Crouch-Baker, A. Hauser,
+N. Jevtic, T. Passell, S. Smedley, F. Tanzella, M. Williams,
+and S. Wing (SRI International, Menlo Park CA, Electric
+Power Research Inst., Palo Alto, CA), "Calorimetry Studies
+of the D/Pd System," presented at ICCF4
+
+4. M. McKubre et al., "Isothermal flow calorimetric investigations
+of the D/Pd and H/Pd systems," J. Electroanal.
+Chem., 368 (1994) 55.
+
+5. M.C.H. McKubre (SRI International), Observations of
+Heat in Electrochemical Studies of the
+Palladium/Deuterium System Employing an Isothermal
+Flow Calorimeter.
+
+6. F. Slakey (Science Policy Administrator, American
+Physical Society), “When the lights of reason go out,” New
+Scientist, Sept. 1993.
+
+7. F. Nakano, “The Reality of Cold Fusion Can No Longer
+Be Denied,” Bungei Shunju, Sept. 1991.
+
+8. M. Fleischmann (Univ. Southampton), S. Pons (IMRA
+Europe), "Calorimetry of the Pd-D2O system: from simplicity
+via complications to simplicity," Physics Letters A,
+176 (1993) 118-129
+
+9. Actually, an error of that magnitude would never happen
+in the first place. If the instruments were broken or
+installed incorrectly to that extent, they would show nothing.
+A modern calorimeter uses digital thermometers and
+computer data acquisition. With such instruments, a 180
+watt error is as unlikely as an error that causes a digital
+clock to run two hours fast one day, and two hours slow
+the next. When an electronic clock or thermometer breaks
+that badly, it stops, goes blank, and shows nothing.
+
+10. M. Cohen et al., Discover Science, (Scott, Foresmann),
+pp. 158 - 159. (Note: While the principles described in this
+textbook are correct, the experiment as described does
+not yield the results shown. The authors are so certain that
+calorimetry works, they did not bother to verify that the
+particular setup they illustrate will work. I tested it and
+found that it does not work.)
+
+11. M. H. Miles, R. A. Hollins (Chem. Div., Research Dept.,
+Naval Air Warfare Center, China Lake, California), B. F.
+Bush, J. J. Lagowski (Dept. Chem., Univ. of Texas), and R.
+R. Miles (Nuc. Safety Dept., EG&G, Colorado), "Correlation
+of Excess Power and Helium Production During D2O and
+H2O Electrolysis Using Palladium Cathodes," J.
+Electroanalytical Chem., vol. 346, nos. 1-2, 1993, pp 99-
+117.
+
+12. To recalibrate means to recheck the equipment after a
+run and make sure the temperature still rises the same
+extent in response to a given input power level.
+
+13. Chun-ching Chien (Chem. Div., Inst. Nuc. Energy Res.,
+Taiwan), Dalibor Hodko (on leave from Rudjer Boskovic
+Inst., Zagreb, Croatia), Zoran Minevski and John O'M.
+Bockris (Chem. Dept., Texas A&M Univ., Texas), "On an
+Electrode Producing Massive Quantities of Tritium and
+Helium," J. Electroanalytical Chem., vol. 338, 1992, pp
+189-212
+
+14. Chun-ching Chien and Theresa Chen Huang (Inst.
+Nucl. Energy Res., Chem. Div., Lung-Tan, Taiwan),
+"Tritium Production by Electrolysis of Heavy Water," Fusion
+Technology, vol. 22, no. 3, 1992, pp 391-394
+
+

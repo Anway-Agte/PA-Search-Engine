@@ -1,0 +1,199 @@
+1. Introduction
+
+Excess heat has been observed in many Fleischmann-Pons experiments over the years, generally
+supporting the claims made by Fleischmann and Pons in 1989 [1,2]. The many negative results found in
+the early experiments of 1989 can be attributed in part to a lack of understanding of basic requirements
+that were clarified later on [3-5]. A remarkable feature of the effect is that a prodigious amount of energy
+is produced; much greater than can be attributed to chemical reactions (for which physical evidence is
+absent). The conjecture that the energy is due to a new nuclear process has historically been met with
+much skepticism, due to the absence of commensurate energetic particles which would be expected if
+nuclear reactions were responsible [6]. In a nuclear reaction, the energy produced is expressed as
+energetic particles as a consequence of local energy and momentum conservation. Excess energy
+produced in the Fleischmann-Pons experiment without commensurate energetic particles challenges long
+established ideas about how nuclei react, suggesting that there is a new kind of physical process in which
+nuclei interact in some new way in which the energy is expressed through other degrees of freedom.
+
+We have described in earlier publications a new mechanism which is capable of coherent energy
+exchange between two-level systems and an oscillator under conditions where the transition energy of the
+two-level system is a great many times the characteristic energy of the oscillator [7,8]. This mechanism
+seems to be capable of converting an MeV-level nuclear energy quantum into a very large number of
+meV-level phonons under conditions relevant to the Fleischmann-Pons experiment. We have proposed a
+two-step reaction mechanism that involves first the transfer of excitation from the hindered D2/4He
+system to unhindered two-level systems which then convert the nuclear energy quantum to phonons using
+this new energy conversion mechanism. Under conditions where the excitation transfer step is the
+"bottleneck" which determines the overall rate for the two-step reaction, the reaction rate can be estimated
+from the associated excitation transfer matrix element. We have recently computed the nuclear part of
+this matrix element using a brute force numerical calculation, and we find that it is sufficiently large to
+account for the rate of excess heat production if the screening energy [9] is about 150 eV.
+
+For the process consistent with our model to occur, molecular D2 must be present in the lattice. In this
+respect, our model differs from other models which are currently more popular [10,11]. In our view,
+many practical aspects of the Fleischmann-Pons experiment and related experiments can be understood in
+terms of maximizing molecular D2 inside the lattice. In this proceedings paper, we will focus on the issue
+of D2 in PdD, which will focus our attention on issues related to the local electron density and vacancies.
+
+
+2. Preferred electron density
+
+Our arguments in this paper are based on the notion (from embedded atom theory [12-14]) that there
+exists a preferred electron density that deuterium or dideuterium wants to see, that is similar in molecular
+or solid state environments. If so, then we might use PdH as a reference for deuterium in Pd, and PdH2 as
+a reference for dideuterium in Pd.
+
+In the case of PdH, we make use of the results of Balasubramanian et al [15] who give an atomic
+separation of 1.53 Angstroms. For PdH2, we use the results of Balasubramanian et al [16], who give an a
+separation between the Pd atom and the center of the H2 molecule to be 1.67 Angstroms. In this case, the
+two hydrogen atoms bond as a molecule with a separation of 0.81 Angstroms. To estimate the Pd
+electron density at 1.67 Angstroms for PdH2, we performed a Dirac-Fock calculation for atomic Pd in the
+ground state (4d)10 configuration (which was found by Balasubramanian et al to be the dominant Pd
+configuration), and found the Pd electron density to be 0.0332 electrons/Angstrom3 (see Figure 1). A
+similar computation for the Pd (4d)9.35(5s)0.65 configuration leads to an electron density at 1.53 Angstroms
+of 0.0686 electrons/Angstrom3.
+
+Fig. 1. – Electron density from a Dirac-Fock calculation of Pd (4d)10 configuration in the vicinity of 1.67 Angstroms
+relevant to the PdH2 molecule.
+
+Fig. 2. – Model electron density due to Pd in the vicinity of an octahedral site in PdH.
+
+
+3.  Pd electron density in PdH 
+
+If we consider the electron density due to only the Pd atoms in PdH from a simple superposition of the 
+atomic orbitals, we obtain the result for a scan centered at an octahedral site along the [111] direction 
+shown in Figure 2.  We see that the electron density is lowest at the octahedral site in this model, with a 
+density of 0.081 electrons/Angstrom3.  The electron density in this model is significantly higher at the 
+tetrahedral sites, indicating that one would expect hydrogen in PdH to occupy the octahedral sites since 
+the Pd electron density at these sites is closer to the Pd electron density in molecular PdH. 
+
+A computation of H2 in electron gas at an electron density of 9.3x10-3 electrons/a0
+3 was published by 
+Christensen et al [17].  This electron density corresponds to 0.0628 electrons/Angstrom3, and is 
+reasonably close to the octahedral site electron density in PdH from above (0.081 electrons/Angstrom3). 
+The equilibrium distance between the two hydrogen atoms in this case is about 1.9 a0, which is 1.005 
+Angstroms.  This perhaps provides the closest connection to the discussion above.  The electron density 
+once again is higher than in the case of -bonded PdH2, and the H2 molecule responds by increasing its 
+separation because of the occupation of antibonding states. 
+
+
+4.  Electron density near a monovacancy in PdH 
+
+We next consider the electron density due Pd atoms near a monovacancy in PdH.  In Figure 3 we show 
+the Pd electron density from a simple superposition of Pd atomic orbitals, where the vacancy is indicated 
+at -3.54 Angstroms, and where the along the [111] direction the electron density is equal to the preferred 
+electron density of molecular H2. 
+
+Fig. 3. – Model electron density due to Pd near a monovacancy in PdH. 
+
+We note that this model gives an electron density at the octahedral site location near the vacancy to be 
+very close to the optimum for single H as judged by the PdH molecule.  The calculation of Velikova et al 
+[18] is consistent with a displacement of 0.26 Angstroms for single H occupation from the octahedral site 
+location. 
+
+
+5.  Statistical mechanics 
+
+To estimate the probability that a D2 molecule is present in a monovacancy, we require a statistical model.  
+Binding energies for single hydrogen atoms in octahedral sites have been estimated by several authors, 
+including Nordlander et al [14] and Velikova et al [18].  The binding energies of Velikova et al are 
+relative to hydrogen in solution at low concentration, which suggests that we need consistent models for 
+deuterium in the bulk and trapped in vacancies.  We begin with the bulk model, where the chemical 
+potential can be related to the loading above the beta phase boundary through 
+
+Here ED(0)  is the deuterium binding energy in dilute PdDx; the variable x is the D/Pd ratio; and E is the 
+binding energy at D/Pd = 0.60 minus the binding energy at D/Pd=0.  We have used E = -135 meV [19], 
+and  
+This is consistent with the measurements of Chun and Ra [20].   
+
+Fig. 4. – Model calclation of occupation of D2 near monovacancies. 
+
+For the occupation of the octahedral sites in the vicinity of a vacancy, we can use a model based on 
+For the degeneracy gm, we have included the spin and statistical factors; for the energies Em, we have used 
+the results of Velikova et al [18].  From the computations in [18], we know that a dideuterium molecule is 
+unstable in the presence of unoccupied octahedral sites in the vicinity of a monovacancy.  So we have 
+added the possibility of D2 occupation only when there are 7 deuterons in the vicinity of the 
+monovacancy.  This is consistent with the computations of Liu et al for hydrogen in W [21].  In the 
+D/Pd
+xD2
+calculation of Velikova et al, the energy of the D2 molecule is about 1 eV above deuterium atom 
+occupation of the octahedral sites.  Unfortunately, we do not as yet have a good number for the D2 energy 
+relative to bulk deuterium for 5D+D2 occupation around a monovacancy.  In the computation shown in 
+Figure 4, we have assumed that the additional D has to go up by 200 meV from ED(0) to make a D2 
+molecule. 
+
+The amount of D2 in this model increases with loading above a threshold near 0.85.  We recall that the 
+excess heat increases with loading above a threshold in much the same way.  This is consistent with 
+models that we have put forth which start with D2 in the lattice as a prerequisite for the reactions which 
+result in excess power and 4He. 
+
+
+6.  Conclusions 
+
+Excess heat in the Fleischmann-Pons experiment has been seen in a large number of experiments.  At 
+present there is no consensus among those in the field as to what physical mechanism is responsible.  Our 
+attention over the past decade has been focused on new reaction mechanisms which are driven by D2 to 
+4He transitions, with the energy converted into phonon excitation.  For this reaction mechanism to work, 
+we require D2 to be present in the lattice, which is not an easy thing to happen if the lattice is PdD.  
+
+Molecular D2 cannot form in bulk PdD because the electron density is too high.  According to the 
+arguments here, D2 can form near vacancies, and we have focused on the occurrence of D2 near a 
+monovacancy.  Since the electron density due to Pd is reduced near the site of a missing Pd atom, the 
+electron density in our simple models drops to levels at which D2 normally binds to Pd. 
+We have been of the opinion for many years now that important aspects of the Fleischmann-Pons 
+experiment can be understood simply if we are trying to maximize D2 occupation.  Since D2 doesn't form 
+in bulk PdD, and since there are very few vacancies initially in Pd, the cathodes start out with essentially 
+no ability to host molecular D2.  So, according to the discussion above, we need to create vacancies.  
+Vacancies are stabilized when Pd is highly loaded with deuterium [22-23].  Previously we estimated that 
+a D/Pd loading of about 0.95 was required in order for the vacancies to become favored 
+thermodynamically.  However, since the diffusion coefficient for vacancies is so small near room 
+temperature, vacancies have great difficulty diffusing in from nearby surfaces.  Instead, it seems more 
+probable that inadvertent codeposition of Pd on highly loaded Pd is responsible.  This is consistent with 
+observations of impurities below the outer surface of cathodes, and it is consistent with the very long time 
+that cathodes need to remain loaded prior to observations of excess power.  Codeposition has been 
+verified as being able to produce superabundant vacancies [24].  The short onset time of excess power in 
+the Szpak experiment is consistent with this point of view.  Vacancies in this scenario would be created 
+near the outer surface, so that only the near-surface region would be active.  This is consistent with the 
+observation of produce 4He in the gas phase, which could not diffuse if created in the interior. 
+
+Once vacancies have been produced, then they need to be filled with molecular D2.  According to the 
+model described above, this requires high loading above D/Pd of about 0.85.  The correlation between 
+loading and excess power has been observed in experiments [3], and the results are consistent if one 
+assumes that the level of excess power production is correlated with D2 occupancy.  It remains to 
+compute the D2 binding energy in a monovacancy with 7 deuterium atoms present. 
+
+
+7.  References 
+
+[1]  M. Fleischmann, S. Pons, M. Hawkins, J. Electroanalytical Chem. 261 301 (1989); errata 263 187 
+[2] M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li, and M. Hawkins, J. Electroanalytical Chem. 287 
+293 (1990). 
+[3] M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, S.I. Smedley, Proceedings of  ICCF3, Nagoya, 
+1992, Nagoya, edited by H Ikegami, page 5 (Universal Academy Press, Tokyo, 1993). 
+[4]  M.C.H. McKubre, S. Crouch-Baker, R.C. Rocha-Filho, S.I. Smedley, F.L. Tanzella, T.O. Passell, J. 
+Santucci, J Electroanal. Chem. 368 55 (1994). 
+[5] M.C.H. McKubre and F.L. Tanzella, Proceedings of ICCF12, Yokohama, edited by A Takahashi, 
+K.-I. Ota, and Y Iwamura,  page 392 (World Scientific, Singapore, 2005). 
+[6] J.R. Huizenga, Cold fusion, the fiasco of the century, (University of Rochester Press, Rochester NY, 
+[7] P.L. Hagelstein and I.U. Chaudhary, Proceedings of ICCF14, Washington, DC (in press). 
+[8] P.L. Hagelstein and I.U. Chaudhary, Low-energy nuclear reactions sourcebook, edited by J. Marwan 
+and S. Krivit (Oxford University Press, 2008). 
+[9] F. Raiola, L. Gang, C. Bonomo, G. Gyurky, M. Aliotta, H.W.Becker, R. Bonetti, C. Broggini, P. 
+Corvisiero, A. D'Onofrio, Z. Fulop, G. Gervino, L. Gialanella, M. Junker, P. Prati, V. Roca, C. 
+Rolfs, M. Romano, E. Somorjai, F. Streider, F. Terrasi, G. Fiorentini, K. Langanke, and J. Winter, 
+Eur. Phys. J A 19 283 (2004). 
+[10] A. Takahashi, J. Cond. Mat. Nucl. Sci. 2 33 (2009). 
+[11] Y.E. Kim, Naturwissenschaften 96 803 (2009).  
+[12] N. Esbjerg and J.K. Norskov, Phys. Rev. Lett. 45 807 (1980). 
+[13] M. Manninen, J.K. Norskov, and C. Umrigar, J Phys. F: Metal Physics 12 L7 (1982). 
+[14] P. Nordlander, J.K. Norskov, F. Besenbacher, S.M. Myers, Phys. Rev. B 40 1990 (1989). 
+[15] K. Balasubramanian, P.Y. Feng, and M.Z. Liao, J. Chem. Phys. 87 3981 (1987). 
+[16] K. Balasubramanian, P.Y. Feng, and M.Z. Liao, J. Chem. Phys. 88 6955 (1988). 
+[17] O.B. Christensen, P.D. Ditlevsen, K.W. Jacobsen, P. Stolze, O.H. Nielsen, and J.K. Norskov, Phys. 
+Rev. B 40 1993 (1989). 
+[18] O.Yu. Velikova, D.I. Bazhanov, S.I. Simak, and I.A. Abrikosov, Phys. Rev. B 80 024101 (2009).  
+[19] T. Kuji, W.A. Oates, B.S. Bowerman, and T.B. Flanagan, J. Phys. F: Met. Phys. 13 1785 (1983). 
+[20] J. H. Chun and K. H. Ra, J. Electrochem. Soc. 145 3794  (1998). 
+[21] Y.-L. Liu, Y. Zhang, H.-B. Zhou, G.-H. Lu, F. Liu, and G.-N. Luo, Phys. Rev. B 79 172103 (2009). 
+[22] Y. Fukai, J. Alloys and Compounds 231 35 (1995). 
+[23] Y. Fukai and H. Sugimoto, J. Phys. Cond. Mat. 19 436201 (2007). 
+[24] Y. Fukai, M. Mizutani, S. Yokota, M. Kanazawa, Y. Miura, T. Watanabe, J. Alloys and Compounds 
+356-357 270 (2003). 

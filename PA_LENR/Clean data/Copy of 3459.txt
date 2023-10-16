@@ -1,0 +1,120 @@
+Abstract:
+
+It is shown that the same phenomenon has been
+observed in Cold Fusion and also in another rather
+different experiments. The necessity to take into
+account the electron participation in nuclear fusion
+proce:ss in dense media is ensuing from this result. It
+implies that the fusion reiaction rate, necessary for
+obtaining the Lawson critE􀂨rion in the thermonuclear
+case, is not any valid in those experiments: so a new
+form􀂩la is proposed.
+
+
+1.Introduction: Correlation between experiments
+
+Nuclear fusion reaction counting data from diverse
+tentative fusion experiments have been plotted in
+function of deuteron energy E in logarithmic scale
+(Figure 1) . Those experiments were of three kinds: the
+o2 o cluster collision experiments, the transitory flow
+of current pattern in deuterated media, and the so
+called cold fusion experiments [1]. It turned out that
+those, experiments were non-thermonuclear origin and that
+the mean square method applied to the experiment
+reprssentative points, could lead to a fit with a
+straight line whose slope was bounded between 1.5 and 2 .
+
+This correlation suggested that there could be a
+cormnon cause of the fusion reaction production in very
+diffe:rent experiments
+
+The hypothesis which was been made consisted of
+taking into account the role of all plasma constituents,
+particularly the electrons, whereas the thermonuclear
+hy-p<::>thes.is takes only .t nto .account the ion existence.
+
+
+2. Double screening process.
+
+There between two colliding deuterons. Firstly the
+cloud of moving electrons, with their great mobility,
+from the nearby environment towards the positive
+potential accident created by the two colliding
+deuterons. Secondly a change of reference potential Vp
+at the colliding place due to the environmental electron
+depopulation. The whole phenomenon can be called "Double
+Screening", inspi te the first effect is less important
+than the second one. This reasoning leads to an
+effective expression in function of radius r, outside
+the nuclear well, which has the form,This potential is closei to the one proposed
+phenomenologically by many authors
+
+For calculating the barrier transmission factor F,
+the non relativistic Schrodinger equation is useful. One
+can drop the L-term, as the wavelength of partial
+amplitudes is large
+
+One has to take into account the real useful
+parameters in this process: the nuclear reaction rate R,
+the nuclear cross section cr, the whole barrier crossing
+duration 0, the barrier width L, the transmission
+barrier factor F, the number n of particles which can be
+involved in c'. nuclear reaction. Using an improved
+dimensional analysis method [2j, one gets the following
+formula:
+
+It replaces the customary expression, valid only in the
+thermonuclear hypothesis and which imply the Lawson
+criterion:
+
+
+3. Results ot: calculations.
+
+The results of the barrier transmission factor
+calculations, give a straight line in the log R diagramm
+vs log E, for a constant number of electrons
+contributing to the Double Screening (Figure 1). The
+slope of those straight lines is close to the slope of
+the straight regression line, deduced from the
+experimental points. The most probable number of those
+electrons is in the range of 10 3 to 2 103 .
+
+Moreover this number is in agreement with simple
+ion distribution considerations in dense media, this
+point of view consisting of assuming that the 3D spatial
+deuteron distribution obeys Poisson's law [ 2].
+
+The results of those calculations are also in
+agreement with several experimental results, the most
+striking being the Brookhaven results of o2o colliding
+clusters [3]. The number of nuclear fusion reactions has
+a maximum in function of the o2o molecule number in the
+cluster (Figure 2). For a o2 o number inferior to the one
+of naximum there is one unique deuteron collision
+center. The maximum corresponds to the turning up of two
+deuteron collision points Those two collision centers
+are competitor for attracting the environmental
+electrons.
+
+A n2 o collision experiment performed with a greater
+number of o2o molecules in the cluster would probably
+give another maximum counting rate followed by a
+decreiase, corresponding to the turning up of three
+deuteron collision centers.
+
+
+4. Ccnclusions
+
+Electrons play a fundamental role in a nuclear
+process. An experiment performed by M. Fallavier et Al [4]
+, with pure deuteron clusters has not given any fusion
+reaction. According the double screening model, clusters
+must be rich in electrons for sustaining fusion
+reactions. It builds up the conjecture which consist to
+suppose, as made J.Schwinger [5], that the D(D,4He)gamma
+reaction becomes probable. So it could account for the
+mysterious excess heat production, given that 4He nuclei
+have a very short range in dense media, and can so
+produce gammas and heat.
+

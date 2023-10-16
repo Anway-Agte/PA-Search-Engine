@@ -1,0 +1,227 @@
+Abstract
+
+Several models are examined in which it is claimed that cold fusion is the result either of
+tight binding of the electrons in H isotope atoms or molecules, or of an electron-H isotope
+resonance which allows a higher probability of Coulomb barrier penetration. In the case
+of models in which the electron is tightly bound to the H isotope atom, we show that
+states below the most deeply bound (–16.39 eV) are impossible in principle. We also
+present evidence against the possibility of the existence of electron-H isotope resonances.
+Finally, a lower bound is found for the binding energy of H isotope molecules which is
+above that calculated in the tightly bound electron-H isotope models.
+
+
+1. Tightly Bound Hydrogen and Deuterium
+
+A number of models assume the existence of an exotic chemical system whose
+occurrence either precedes nuclear synthesis or makes it quite unnecessary. The similarity
+of these postulated models is in their tight binding of electrons in atoms and/or
+molecules. In one of the simplest, the authors1 claim that in addition to the normal energy
+levels for the H atom, a more tightly bound sub-ground state of –27.17 eV is possible.
+
+For them, the excess Cold Fusion (CF) power, with no nuclear products, is simply the
+extra 13.68 eV/atom obtained as H isotopes go into the sub-ground state. If their tight H
+abounds in the universe, one may ask why this spectral line has not been seen long ago.
+
+Mayer and Reitz2 claim that resonances of ep, ed, and et are created which, if they
+survive long enough, allow a high probability of Coulomb barrier penetration and
+subsequent nuclear reaction. Their resonance model is based on that of Spence and Vary3,
+who used single photon exchange in the Coulomb gauge. Recently, McNeil4 reformulated
+the ep problem in a qualitative yet gauge-invariant way and finds no evidence for a
+resonance in the ep system in the energy range of interest. Therefore, it is possible that
+the results of Spence and Vary3 and hence Mayer and Reitz2 are spurious.
+
+
+2. Deep Dirac States
+
+Recently, Maly and Va'vra5 carried out a calculation for the hydrogen atom based upon
+irregular solutions of the relativistic Dirac equation and obtained an extremely tightly
+bound electron orbit. They get a binding energy of ~ 500 keV, and a radius of ~ 5 ×
+10-13 cm, a nuclear dimension. For them, CF is primarily chemical. The excess energy is
+
+
+500 keV/atom as these tightly bound atoms are formed. They suggest that this chemical
+
+ash of tightly bound H or D atoms may account for the missing mass (dark matter) of the
+universe. Their electron orbit radius of ~ 5 fm is 50 times smaller than muonic orbits of
+
+
+250 fm. If such tight D atoms existed, they should produce fusion upon collision at a
+
+much higher rate than in muon-catalyzed fusion. Moreover, there are some serious errors
+in their analysis. At the nuclear surface, r = rn ≠ 0, both regular and irregular solutions are
+allowed simultaneously for r ≥ rn. Therefore, a general solution is a linear combination of
+them for r ≥ rn. When the boundary conditions are imposed at r = rn, it can be shown that
+the irregular component becomes nearly negligible compared to the regular component6.
+
+The results of Maly and Va'vra5 are incorrect, since they assumed erroneously that the
+irregular solution is a general solution independent of the regular solution, as shown
+below in detail.
+
+The radial part of the relativistic Schrödinger equation is7
+for a point Coulomb potential
+and E and m are the total energy and mass of the electron, respectively. Because of the
+centrifugal barrier, we need consider solutions of this equation for
+only because the
+energies corresponding to
+must be higher than the lowest
+As
+the wavefunction
+has the behavior
+where
+Because the wavefunction has the boundary condition
+, from eq. (2),
+and
+, where n' is a positive integer. Furthermore, because
+and the energy levels E+ and E- are
+Note that eq. (8) gives a binding energy of E- – mc2 ≈ mc2(γ-1) ≈ –510 keV, so that, if
+the solutions corresponding to s- were acceptable, deeply bound electron states might
+exist. However, these solutions are incorrect. Furthermore, eq. (7) gives the correct
+observed binding energy of E+ – mc2 = –13.6 eV for n' = 0 and Z = 1.
+
+The energy levels, eqs. (7) and (8), obtained from the relativistic Schrödinger equation,
+eq. (1), are similar to those of Maly and Va'vra5 (their eq. (24)) for the Dirac equation7.
+
+The same shortcoming, detailed below, applies to their solution; however, it is less
+transparent than our example because the Dirac equation involves a set of coupled
+differential equations7.
+
+We can assume that the potential e (r) is given realistically by
+The wavefunction χ (r) = rψ(r) then, as rn → 0, has the following form:
+where Note that, in eq. (10), we have used the regular
+solution χ = A sin Kr for the interior wavefunction. which is zero at the origin, as it must
+be for a finite potential, and the form of the exterior wavefunction comes from the
+analytic solution of eq. (1).
+
+When we equate logarithmic derivatives
+we obtain,
+so that, for a physical wavefunction, as rn →0, the solution corresponding to s- does not
+contribute. However, because of the finite size of the nucleus, the wavefunction consists
+of a large component corresponding to s+ and a small component corresponding to s- with
+a binding energy which is thus very close to the original binding energy E+ – mc2. For
+instance, for the case of a proton, the proton radius rn ≈ 1 fm, Z = 1, and E ≈ E+ = mc2 –
+
+13.6 eV; therefore α ≈ 3.78 × 10-5 fm-1, and hence C/B ≈ –0.2 × 10-8.:
+
+
+3. Tightly Bound H and D Molecules
+
+The next set of models involve tight H isotope molecules of radius ~ 0.25 Å in which
+excess energy may result chemically, and/or from nuclear fusion as the tightly bound
+atoms more easily penetrate their common Coulomb barrier8. Actually, there seems to be
+no sound basis for assuming the existence of a superbound state of a
+
+D ion. Some of the
+analysis is qualitative. The most critical region is barely at the boundary of applicability
+of the equations. An exact solution for the entire region under consideration will likely
+yield a potential with no local minimum. Thus the metastable state may not be present in
+a more rigorous analysis9. Hence, the superbound solution is at best unstable.
+
+Gryzinsky10 and Barut11 present analyses to substantiate the existence of the metastable
+D state based on three-body calculations for two d's and one electron. Gryzinsky treats
+the problem mainly classically, but invokes quantum mechanics to neglect radiation
+effects for his oscillating electron. Barut's analysis is based on the Bohr-Summerfeld
+quantization principle, and obtains a binding energy of 50 keV. Both authors,
+independently, conclude that a "superbound" (
+D )* molecular ion can exist in which an
+electron that is exactly half-way between the d's provides an attractive force and screens
+the d Coulomb repulsion. Vigier12 presents an analysis almost identical to that of Barut11.
+
+For Barut, Gryzinsky, and Vigier, the analysis is predicated on very unlikely precise
+symmetry. The electron must be exactly the same distance on a line between the two d's.
+
+The tightness of the orbit violates the uncertainty principle for a Coulomb potential, but
+may not violate it with stronger potentials. Although a non-relativistic analysis may be
+warranted for the large mass H isotopes around the electron, a non-stationary electron
+will require a relativistic treatment because it will attain a velocity close to the velocity of
+light due to its small mass. Perhaps a full relativistic calculation including spin-spin and
+spin-orbit coupling may save this model, but this has not been presented as yet.
+
+
+4. Rigorous Bound for the Binding Energies of H and D
+
+Recently, Kim and Zubarev13 have shown a rigorous bound of –16.39 eV for the
+binding energies of
+H2
+and
+D , which poses a more serious difficulty for the tightly
+bound
+D models10,11,12.
+
+The non-relativistic Hamiltonian for
+D (or
+H ) is
+where me and Mi (i =1 or 2) are the masses, and
+er and
+Ri
+, are laboratory coordinates of
+the electron and deuteron, respectively. In terms of the center of mass coordinate
+, the internuclear coordinate
+and the relative electron coordinate
+the Hamiltonian reads
+where Mt = me + M1 + M2, M = (M1 M2)/( M1 + M2), μ = me(M1 + M2)/( me + M1 + M2),
+and γ = (M1 - M2)/(M1 + M2). After separating the motion of the center of mass, one has
+the following Schrödinger equation
+where
+The operator
+where
+, is positive. Note that γ =0 for M1 = M2. Therefore
+or
+But H~ is separable in confocal elliptic coordinates14, and hence the exact numerical
+solution of the Schrödinger equation,
+is well known to be14
+Since
+, we have
+for any
+The spin-orbit and spin-spin interactions are not expected to change the above bound of
+–16.39 eV, eq. (23), dramatically.
+
+
+5. Summary
+
+We have examined several models which purportedly explain the results of Cold
+Fusion, and found each to be lacking in some respect. Models in which the electron is
+tightly bound to the hydrogen or deuterium nucleus were found to have serious
+qualitative or quantitative defects, and models in which it is claimed that an unusual
+electron resonance occurs are likely to be spurious. Finally, a lower bound for the binding
+energies of
+H2
+and
+D was found which is considerably higher than the claimed binding
+energies in "superbound" models of the two H isotope molecules.
+
+
+References
+
+1. R.L. Mills and S.P. Kneizys, "Excess Heat Production by the Electrolysis of an
+Aqueous Potassium Carbonate Electrolyte and the Implications for Cold Fusion",
+Fusion Technology 20, 65 (1991).
+2. F.J. Mayer and J.R. Reitz, "Very Low Energy Hydrogenic Nuclear Reactions",
+Fusion Technology 20, 367 (1991).
+3. J.R. Spence and J.P. Vary, "Electron-Proton Scattering Resonances at Low Energy
+from a Relativistic Two-Body Wave Equation", Phys. Lett. B 271, 27 (1991).
+4. J.A. McNeil, "Relativistic Hyperfine Interaction and the Spence-Vary Resonance".
+Proc. Second Cold Fusion Conf. (Como. Italy), 217 (1991).
+5. J.A. Maly and J. Va'vra, "Electron Transitions on Deep Dirac Levels I", Fusion
+Technology 24. 307 (1993).
+6. R.A. Rice, Y.E. Kim, and M. Rabinowitz, "Comment on 'Electron Transitions on
+Deep Dirac Levels V ", to be published in Fusion Technology.
+7. L.I. Schiff, "Quantum Mechanics", Third Edition (McGraw-Hill Publishing Company,
+8. G.F. Cerofolini and N. Re, "(D+D+)2e- Binuclear Atoms as Activated Precursors in
+Cold and Warm Fusion", AIP Conf. Proc. (Provo, Utah) 228, 668 (1990).
+9. W. Kolos et al., "New Born-Oppenheimer Potential Energy Curve and Vibrational
+Energies for the Electronic Ground State of the Hydrogen Molecule", J. Chem. Phys.
+84, 3278 (1986).
+10. M. Gryzinsky, "Theory of Electron Catalyzed Fusion in a Pd Lattice", AIP Conf. Proc.
+(Provo, Utah) 228, 717 (1990).
+11. A. O. Barut, "Prediction of New Tightly-Bound States of
+and Cold Fusion",
+Int. J. Hydrogen Energy 15, 907 (1990).
+12. J.-P. Vigier, "New Hydrogen Energies in Specially Structured Dense Media:
+Capillary Chemistry and Capillary Fusion", Proc. Third Int. Conf. Cold Fusion
+(Nagoya, Japan), 325 (1991).
+13. Y.E. Kim and A.L. Zubarev, "Rigorous Bound for Binding Energy of
+H and D2
+Molecules", Purdue Nuclear Theory Group Report PNTG 94-7 (1994), to be
+published.
+14. H. Wind, "Electron Energy for
+in the Ground State", J. Chem. Phys. 42, 2371

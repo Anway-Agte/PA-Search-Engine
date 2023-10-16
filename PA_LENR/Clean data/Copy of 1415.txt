@@ -1,0 +1,274 @@
+MEMORANDUM ON THE PRESENT STATE OF KNOWLEDGE ON COLD
+FUSION
+
+H. GERISCHER, FRITZ HARBER INSTITUTE DER MAX PLANCK,
+Gesellschaft, Faraday Weg 4-6 D-1000, Berlin 33
+
+Concerning the origin of this memorandum: Between the 30th of June and the 4th of July,
+there took place in Como, Italy, the Second Annual Conference about Cold Fusion. This had been
+organized by Italian groups, principally from the Universities of Turin and Milan. The joint
+chairmen of the conference were Prof. T. Bressani (Turin) and Prof. G. Preparata (Milan).
+
+At the end of May I was invited to attend this conference as a skeptical observer and found
+that I was down on the program for the last day of the conference as giving a lecture on the pros and
+cons of the field. There were about 60 lecturers at the meeting in groups from the USA, Italy, Japan,
+China, Soviet Union, and various smaller countries which all gave their results. Two comprehensive
+reviews had been already sent to me in manuscript form, - one of them has already appeared (1) and
+the other will shortly appear. On the basis of these two reviews I was able to prepare myself
+somewhat for the conference.
+
+
+THE INDICATIONS OF OCCURRENCE OF NUCLEAR PROCESSES IN METALDEUTERIUM ALLOYS
+
+In spite of my earlier conclusion, - and that of the majority of scientists, - that the phenomena
+reported by Fleischmann and Pons in 1989 (3) depended either on measurement errors or were of
+chemical origin, there is now undoubtedly overwhelming indications that nuclear processes take
+place in the metal alloys. The early publications were so full of errors in measurement technique and
+in the interpretation that the euphoria to which the discovery gave rise was rapidly replaced by
+disappointment when it turned out that the laboratories with the best equipment could not reproduce
+the results. Only very few groups found similar effects, but even these groups could not find
+reproducibility in their own laboratory. Furthermore the supposition that a fusion of two deuterium
+atoms could take place in a solid body such as PdDx or TiDx was contradictory to all theories of
+nuclear reactions. In particular the observed (or maintained) heat effects bore no relationship to the
+tiny amounts of nuclear products which had been found by a few authors. The main search here
+went towards neutrons and tritium because according to fusion of two D+
+ nuclei in hot plasmas, the
+following two reactions would occur with about the same probability:
+
+D+
+ + D+
+ >- n (2.45 MeV) + 3
+He (0.82 MeV)
+
+D+
+ + D+
+ >- H+
+ (3.02 MeV) + 3
+H (1.01 MeV)
+
+Now, the sensitivity of instruments for detecting neutrons is particularly good and therefore
+the majority of the measurements concentrated on experiments which would give rise to such
+detection. This was particularly true in experiments which were carried out at low temperatures
+from palladium which had been previously loaded with deuterium. In the electrochemical loading
+of palladium by cathodic evolution of deuterium either from an alkaline or acid electrolyte in D2O
+(predominantly with the electrolyte LiOD) from time to time a tritium enrichment would be found
+which was considerably higher than could arise from differences expected for separation factors
+during the discharge of D2O from an electrolyte containing DTO. The occasional observation of
+neutrons with intensities which were decisively above the background, and with tritium amounts in
+the electrolyte which were certainly and indication for the occurrence of nuclear processes is very
+significant, but the amounts were so small that the heat observed could not by explained by their
+occurrence. Correspondingly, it has been found that the neutron production is sporadic and occurs
+in bursts. The same occurs for the tritium enrichment and also for the heat production.
+
+The occurrence of such happenings could not in any way be foreseen on the basis of previous
+knowledge. Correspondingly, the authors of the papers admitted that the reported positive results
+were only occasionally obtained, and that many experiments ran through without any observable
+nuclear consequences at all, facts which lent further doubt as to the reality of the effects.
+As far as the interpretation of the nuclear reactions goes it has been suggested (4,5) that a
+reaction occurs which plays no part at all in the hot plasmas, namely:
+
+D + D >- 4
+He (0.076 MeV) + gamma (23.77 MeV) (Eq 3).
+
+The gamma radiation which should occur according to this reaction is, however, not
+observed. However, very recently there have been reports about the observation of helium in
+electrolytically evolved deuterium from a LiOD/D2O solution in cells with palladium electrodes.
+In these experiments heat production was also calorimetrically observed. The amount of 4
+He was
+indeed in the right order of magnitude according to equation 3 although the agreement was not
+quantitative. On the other hand, corresponding water blank experiments using LiOH/H2O showed
+neither any heat excesses nor any helium in the evolved hydrogen gas.
+
+
+AN EVALUATION OF THE RESULTS OBSERVED SO FAR
+
+Although there are many discrepancies in the reports which are at hand, and although there
+are many open questions, there now lie before us several indications that fusion reactions do occur
+between deuterides in metals. This gives rise to a new situation. It is entirely an open question
+whether such processes could be used as the source of energy but this, of course, can only be
+decided if the processes which have been revealed in the work discussed here are researched and
+given a theoretical basis. In any case I consider it absolutely necessary that these phenomena are
+systematically researched and the conditions for their reproducibility cleared up. That a nuclear
+reaction can be stimulated by interaction with a solid lattice and made to take another path from that
+which it would take in the plasma, is an entirely unexpected discovery with possibly wide-ranging
+consequences. It demands confirmation and further experimental evaluation. In the following a
+number of experimental and theoretical questions are raised which are at the present time entirely
+open.
+
+
+EXPERIMENTAL PROBLEMS
+
+The overwhelming problem is the lack of reproducibility in the results. The anomalous
+phenomena in palladium and titanium can only be seen after very long times of loading, usually after
+several weeks. In the loading there is a phase change in which the alpha phase is changed to the beta
+phase and this involves a change in lattice constants which gives rise to a volume increase of about
+15%. The microcrystalline structure of the solid seems to play an important role here. However,
+the structure of the solid is not yet characterized. The lattice structure seems to be an important part
+of the conditions necessary for the setting up of the anomalous effects.
+
+In the electrochemical experiments the characteristics of the surface in the charging of the
+metal with deuterium plays a great role. The effects in the electrochemical experiments are greater
+than those in loading from the gas phase. The reason for this is probably the increased activity of
+deuterium atoms which occur in the first step of loading according to the reaction:
+
+D2O + e >- Dad + OH- (eq. 4).
+
+The slower the following reactions (5 and 6) are, - these lead to molecular deuterium, - the
+greater is the activity of the absorbed D atoms on the surface:
+
+Dad + Dad >- D2 (eq. 5)
+
+Dad + D2O + e >- D2 + OD- (eq. 6)
+
+ The activity of adsorbed atoms determines the loading of the metal lattice with D atoms which
+go from the surface to the interior of the lattice. In this way one can build up a super- saturation of
+the lattice with D-atoms and this super saturation increases with the surface activity of the adsorbed
+D. If one tried to read super saturation in the metal by increasing the pressure in the gas phase,
+enormous pressures would be necessary.
+
+In the literature it is reported that extremely long times of electrolysis are necessary before
+phenomena are observed and these can give rise to the deposition of impurities on the surface of the
+electrode. This gives rise in turn to a change of the overpotential in the current-potential curve (7)
+and also in the analysis of the surface composition which will certainly take place on long term
+electrolysis (8). Such absorbance can give rise to an inhibition of the recombination rate of the
+surface atoms to the molecular product in reactions 5 and 6. In this way the activity of adsorbed
+hydrogen can be increase. On the other hand, if the inhibition affects reaction 4 then the reverse
+effect occurs. In fact, it is possible to think of an acceleration of reactions 5 and 6 by the impurities.
+Thus, it has been shown for palladium cathodes that these contain platinum which obviously arises
+by the partial dissolution of the anode. It is known that if oxygen is evolved at high rates upon an
+anode there is certainly the danger of anodic dissolution. Correspondingly it is known that platinum
+deposition on palladium increases the recombination and therefore decreases the activity of adsorbed
+D.
+
+Apart from the observation of neutrons, proof of the presence of the nuclear products 3
+H,
+3
+He, and 4
+He are difficult to observe because many of the experiments are carried out in open
+systems, the evolved gases seldom being collected. The consumed D2O has to be replaced. In this
+way one builds up impurities in the electrolyte in the cell and the products in the gas phase are lost.
+ 1
+ Note added by JOMB: At a recent meeting at the California Edison Company, Robert Bush
+of Pamona University in California revealed measurements on very thin films which, when
+calculated to a per cc measurement of heat, give about 1 kW per cc.
+ 2
+ Note added by JOMB: In particular Mike McKubre and his group at SRI have been
+reporting 250-450% heat for some months. The rumor is that this is an understatement. EPRI
+has decided to continue to build a practical plant for the production of energy from cold fusion
+which should be completed by 1997.
+ 3
+ Note added by JOMB: On the other hand, the well accepted Mossbauer effect surely is
+already and example of the effect of a lattice upon a nuclear process.
+Only a very few experiments are carried out in closed systems in which the D2 is converted to D2O
+on a catalyst and re-introduced into the electrolyte (9,10) or, alternatively, the D2 which is evolved
+is oxidized back to D2O (or D+
+) (11).
+
+The latter process corresponds to the anodic process in a hydrogen-oxygen fuel cell. In such
+experiments the reaction products build up in the electrolyte or in the gas volumes which are
+collected. This has so far only been used for tritium analysis.
+
+The calorimetric measurements have been greatly improved. In the open cells there are still
+difficulties concerning the loss of heat along with the evolved gases. Closed cells do not have this
+difficulty but they are much larger in volume and are less sensitive to the measurement of heat. In
+general there exists in all electrochemical cells the problem that the energy input of the cell is large
+(large current densities) and must be carefully measured in order to set up a clear and sure energy
+balance. The uptake of energy varies with the cell resistance and the overpotentials of the electrode.
+The excess energy in most of the experiments which have been described so far is considerably less
+than the energy which is being used for the electrolysis. A typical excess heat measurement amounts
+to 10-20% of the energy put into the electrolysis over several hours. A few measurements have
+given 100% and more. 1
+ A few measurements do give 100% of heat and even more but are perhaps
+somewhat doubtful. On the other hand, there were plenty of indications at the conference that some
+authors were withholding their results because of patent considerations. 2
+
+The experimental problems in the measurement of gas loading is much less well known to
+me and I do not wish to comment upon it. It is noteworthy that neutron production which exceeds
+the background intensity can only be obtained by warming up these samples which have been
+charged at very low temperatures.
+
+
+THEORETICAL PROBLEMS
+
+The most decisive problem is the question: How can a solid body influence the course of
+nuclear processes? 3
+ Thus, the point is, - how can the screening of the repulsive forces between the
+ 4
+
+Note added by JOMB: The experiments of Fleischmann and Pons are being carried out in
+Nice with support of a Japanese group connected to Toyota.
+
+two atomic nuclei be achieved so that successful tunnelling can occur? The second question is, how
+can the pathways be altered so that they go in the direction of reaction 3 and thus allow a ratio of
+106
+ - 109
+ for the predominance of tritium over neutrons (compare the expected 1:1 ration of nuclear
+chemistry in hot plasmas). (2)
+
+A further riddle is the absence of hard gamma radiation which should occur corresponding
+to reaction 3. How can the gigantic energy of this reaction be diffused over the solid body without
+emitting radiation (although weak x-rays have been seen on a photographic plate)? (6,12)
+
+There are various attempts at theoretical interpretation (1), and some of these are really quite
+far out. It has even been suggested that an unknown elementary particle is a catalyst in these
+processes (13). Without sufficient material to overview the theoretical contributions I will not make
+any further comments on these theories.
+
+
+WHAT SHALL BE DONE?
+
+The works which have been so far reported are works which concern individual questions.
+Attempts are being made to reproduce experiments and to modify the technique. A systematic
+characterization of the electrochemical and experimental conditions has not yet been carried out.
+As the largest effects are being observed under the electrochemical conditions it is necessary to
+concentrate on the electrochemical experiments.
+
+Fleischmann and Pons reported in the meeting in Como concerning their experiments with
+palladium alloys (probably with silver) and maintain that they have been able reproducibly to
+observe large excess heats. No details of the experimental arrangements were given because of their
+wish to maintain patent conditions. 4
+
+There is also evidence that the composition of the electrolyte plays a considerable part in the
+occurrence of the anomalous effects. It is absolutely essential to research the connection between
+overpotential, hydrogen content, and surface characteristics of palladium or palladium alloys in a
+systematic way. This could probably be carried out with light hydrogen, beginning with the
+hypothesis that a very high loading of D in metals is necessary for fusion, because in respect to
+loading, H and D hardly differ from each other. One could then come back later to the experiments
+with D2O and with the knowledge of what has given rise to the high loading with hydrogen. In this
+respect it is necessary to have a method which allows a rapid measurement of the amount of
+hydrogen in the palladium. Here resistance methods are probably the best. Parallel to the
+information obtained in the measurements it would be necessary to build calorimeters which have
+requisite controls and work in an enclosed manner so that heat production and nuclear products can
+also be observed with a minimum amount of ambiguity. The decisive proof of excess heat arising
+from nuclear reactions will, of course, be the occurrence of the corresponding amount of 4
+He. If this
+can be confirmed, further steps for the optimization of the energy yield can be carried out.
+
+These goals require the cooperation of scientists from various fields. One needs
+electrochemists, metal scientists, particularly those with knowledge of metal hydrides, engineers for
+the building of cells and the computerization of data, persons with experience in calorimetry, mass
+spectroscopy, and one needs nuclear physicists for the radiation measurements. A team of this kind
+should be in a position to clear up the basic situation fairly quickly. Of course, the first thing is to
+confirm the facts. The fact that, in the Republic of Germany this work has been inhibited is no
+longer justified. It could, later on, be regarded as a very unfortunate gap in German research when
+compared with the present activity in other countries and particularly in Japan.
+
+
+REFERENCES
+
+1. M. Srinivasan, in: "Current Science," April 1991.
+2. E. Storms, appears in "Fusion Technology", 1991.
+3. M. Fleischmann, S.Pons & M. Hawkins, J. Electroanal. Chem. 261 (1989), 301; 263 (1989),
+187.
+4. C. Walling & J. Simons, J. Phys. Chem. 93 (1989), 4693.
+5. M. Fleischmann, personal communication, 1990.
+6. B.F. Bush, J. Lagowski, M.H. Miles, & G.S. Ostrom, J. Electroanal. Chem. 304 (1991), 171.
+7. Z.B.M. Ulmann, J. Lin, J. Augustynski, F. Eli, & L. Schlapbach, J. Electroanal. Chem. 286
+(1990), 257.
+8. Observations of various authors at the meeting in Como.
+9. N.J.C. Packham, K.L. Wolf, J.C. Wass, R.C. Kainthla, & J. O'M. Bockris, J. Electroanal.
+Chem. 270 (1989), 451.
+10. E. Storms & C. Talcott, Fusion Technology 17 (1990), 680.
+11. F. Will, lecture at meeting in Como.
+12. S. Szpak, lecture at the meeting in Como, J. Electroanal. Chem. 302 (1991), 255.
+13. F. Mayer and J.R. Reitz, Fusion Technology 18 (1991), 352.

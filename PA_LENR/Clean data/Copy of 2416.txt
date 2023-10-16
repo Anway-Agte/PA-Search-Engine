@@ -1,0 +1,252 @@
+1. EXCESS TRITIUM  
+
+November, 1989 ERAB made five recommendations. “Investigations designed to 
+check the reported observations of excess tritium in electrolytic cells are desirable.” was 
+one of them [1]. It was important, because the existence of tritium product should be a 
+critical evidence to confirm the nuclear reactions in the electrolytic cells [2]. On the other 
+The original publication is available at www.springerlink.com  
+ Li, X.Z., et al., A Chinese View on Summary of Condensed Matter Nuclear Science. J. Fusion Energy, 
+hand, the quantity of the tritium was incommensurate with the neutron emission. It 
+should be a hint that the origin of this tritium should be different from the usual d+d 
+fusion reaction. Particularly, there was not any report on 14 MeV neutron emission. It 
+should be another hint that this tritium should not be the product of d+d fusion reaction. 
+
+F. Will conducted a series of carefully designed experiments which showed that 
+excess tritium in electrolytic cells and gas-discharge tube were real and reproducible [3]. 
+In parallel with his gas discharge experiments, T. Claytor of Los Alamos National Lab. 
+showed also that the excess tritium in gas-loading systems was real as well [4]. This 
+tritium measurement was confirmed by the mass spectroscopy in 2001[5]. Indeed tritium 
+appeared in various experiments in Japan, Italy, Russia, US, Canada, India and China. It 
+is one of the strongest evidences for condensed matter nuclear science in the past 15 
+years. It implied a new mechanism at low energy for nuclear reaction. 
+
+
+2. SELECTIVE RESONANT TUNNELING MODEL 
+
+Selective resonant tunneling model has been proposed to provide the mechanism for 
+this low energy nuclear reaction in the condensed matter. Before we hop into the issue of 
+tritium production, we may introduce the basic concept of the selective resonant 
+tunneling model first. 
+
+Selectivity of the resonant tunneling can be learnt from the electronic harmonic 
+circuit. A harmonic circuit is able to pick up the specific wave frequency from the air. 
+When the signal is weak, it requires low resistance of circuit in order to observe this 
+resonance before its damping off. Similar situation is expected in resonant tunneling of 
+the Coulomb barrier. At the low energy, the Coulomb barrier is thick and high; hence, 
+the incident deuteron wave in the nuclear well is very weak due to the Coulomb barrier. 
+The amplitude of weak penetrating wave may be enhanced by the resonance effect when 
+the phase of the reflected wave inside the nuclear well is same as that of the incident 
+wave. This is the resonant tunneling. This resonant tunneling requires a weak damping 
+in order to observe this resonance before its damping off also. The damping in resonant 
+tunneling of the Coulomb barrier is just the fusion reaction itself, because the deuteron 
+wave function disappears due to the fusion reaction. Thus, this fusion reaction rate 
+cannot be very fast, otherwise the fast damping will kill the resonant effect. On contrary, 
+this fusion reaction rate cannot be very small, because zero reaction rate would not give 
+any fusion reaction even if the incident deuteron wave function has a large amplitude 
+inside the nuclear well due to the resonance. As a result, the life-time of the deuteron 
+wave function cannot be too large or too small. There is an optimized life-time, τlife , to 
+match a specific Coulomb barrier [6]: τlife ≈ θ⏐ τflight          
+
+Here, θ is a very large number for a thick and high Coulomb barrier. (θ is in the order of 
+1022 ~1031 or greater here. 1/θ 2 is just the famous Gamow penetration factor); τflight is the flight-time inside the nuclear well for the penetrating deuteron. τflight  is of the order 
+of 10-23 seconds. 
+
+Now we may understand why there is no neutron emission from the resonant 
+tunneling at low energy, because the life-time for a neutron emission process is too short 
+to meet the matching condition (1). (Usually, the life-time for a neutron emission 
+process is of the order of 10-23 seconds due to the nature of the “Strong Nuclear 
+Interaction” between nucleons.)  Electromagnetic interaction is much weaker than the 
+strong nuclear interaction (the life-time for a gamma-ray emission process here is of the 
+order of 10-17 seconds), but it is still too strong to meet the matching condition (1)[7,8]. 
+Only the weak interactions (β-decay or K-capture) might possibly provide the life-time 
+to meet this matching condition (1) (Fig.1). 
+
+Fig.1 Schematics showing the selectivity of resonant tunneling model 
+
+Consequently, this selective resonant tunneling answers three famous questions 
+proposed by J. R. Huizenga in 1992 [9]: the resonant tunneling provides the mechanism 
+to penetrate the Coulomb barrier; and the selectivity of the resonant tunneling at low 
+energy explains why there is no neutron or gamma radiations after the resonant 
+tunneling at low energy. It is clear now that neutron detection is not a good choice to 
+search for this low energy resonance. The Nobel prize winner, Professor B.D. Josephson 
+of Cambridge University, cited twice our work on “selective resonant tunneling model” 
+in his recent talk at Lindau Meeting [10] in order to reply to the “pathological 
+disbeliever”. 
+
+It is interesting to find that this selective resonant tunneling is supported by the hot 
+fusion data as well [11]. Indeed this selective resonant tunneling model corrected a 
+mistake in the d+t fusion cross section data provided by National Nuclear Data Center 
+(Brookhaven) in 1996 [12]. Recently this model has been successfully extended to the 
+calculation of the hot fusion cross-section for d+d, and d+ 3He [13]. This encouraged us to 
+apply this model to study the puzzle of tritium production. 
+
+
+3. THE WEAK INTERACTION FOR TRITIUM PRODUCTION  
+
+If the weak interaction is the only possible reaction for the resonant tunneling at low 
+energy; then, we may immediately write down two reactions for tritium production in 
+D(H)/Pd systems, i.e. 
+
+Usually, the positron-decay is faster than the K-capture process for a parent nucleus; 
+however, in case of the resonant tunneling, this positron-decay (2) is too fast to meet the 
+matching condition (1). Only the K-capture process (3) would possibly match the 
+selective resonant condition (1). This inference has been consistent with the experiments. 
+The annihilation of positron would produce the 0.511 MeV gamma radiation. However, 
+we did not observe any commensurate gamma radiation in all these tritium production 
+experiments. Indeed the light water was detected in all Bockris experiments which 
+produced tritium [14], and T. Claytor reported that slight tritium production was observed 
+in his control run with hydrogen as well [15]. It simply meant that proton was in favor of 
+tritium production. The hydrophilic nature of the heavy water might explain the 
+contamination by the light water in the electrolytic cells. Moreover, triton in reaction (3) 
+obtains the recoil energy only, which is in the order of keV; hence, there was no 14 MeV 
+neutrons observed in any of these tritium production experiments. 
+
+It is interesting to notice that H. A. Bethe, the Nobel prize winner, used weak 
+interaction and resonant tunneling to obtain the right answer for the p+p fusion cross 
+section in the sun [16] as well. 
+
+
+4. THE ROLE OF THE CONDENSED MATTER: ION BAND 
+
+The condensed matter is important for this resonant tunneling to be in effect. At low 
+energy, the long life-time state in the resonant tunneling corresponds to a very narrow 
+energy level. It cannot be realized through the beam-target experiment using accelerator 
+because of the dispersiveness of the beam energy. Even if in a solid, the confined 
+deuteron state is oscillatory in energy due to the thermal oscillation of the crystal lattice. 
+In a cycle of oscillation, only in an extreme small portion of oscillation, a deuteron 
+might be in a resonant tunneling state. We need an energy band [17] for the deuterons (or 
+protons) in a lattice and let a number of deuterons to fill in this energy band. Whenever 
+this energy band is overlapped with this resonant tunneling state, one of these deuterons 
+in the energy band is always in the resonant tunneling state. Condensed matter provides 
+the necessary periodicity to form this energy band. Certain metals (Pd, Ni, Ti, etc.) are 
+particularly good because of their nature in absorbing hydrogen, which means an almost 
+full occupation of this energy band. In the first five years of the cold fusion research, a 
+lot of efforts were devoted to load deuterium gas into the palladium in order to solve the 
+problem of reproducibility.  
+
+
+5. REPRODUCIBILITY AND THE DEUTERIUM FLUX 
+
+Gradually, it was realized later in a variety of the experiments that deuterium flux 
+played an important role in repeating the experiment [18] [19] [20]. The concept of energy 
+band for deuterons simply means that the deuterons inside a crystal might be described 
+by a single wave function. This concept has further led to an anomalous deuterium flux 
+on the crystal surface. The reflected waves from the different surface layers of the 
+crystal might interfere destructively with each other, and the total reflection might be 
+greatly reduced. The result is the enhancement of deuteron density in the surface layers, 
+because the penetration on the surface is greatly enhanced due to the reduction of the 
+reflection. This inference has been supported by the experimental results that most of the 
+nuclear reactions appear in the surface layers [19]. Moreover, multiple layer coating has 
+been applied to further enhance this effect; since then, the reproducibility is improved in 
+various laboratories. We no longer pursue the high loading ratio inside the bulk of the 
+palladium, instead, we attempt to increase the local deuteron density in the surface thin 
+layer in terms of high deuterium flux. The key issue is the rapid change of the gradient 
+of deuteron density which maintains a steady state of self-sustaining resonant tunneling 
+reaction region. Fig.2 shows that a heat flow of 2 mW was maintained in 2500 seconds 
+while a deuterium flux was permeating through the thin wall of a palladium tube. The 
+right hand side of Fig.2 shows the schematics of the apparatus. Deuterium gas was fed 
+into a thin palladium tube which was installed in the center of a reaction chamber. When 
+the temperature of the Pd tube and the reaction chamber increased, there was a 
+deuterium flux permeating through the thin Pd wall. The deuterium flux was pumped out 
+through a coaxial stainless steel tube. The reaction chamber sat in a high-precision 
+calorimeter (Setaram C-80D) to monitor the heater flow. A heat flow was observed when 
+the whole system was cooling down slowly from 150oC to 140oC (left-lower plot of 
+figure 2). The left-upper plot of figure 2 shows the heat flow (dot-dash-dot line) in 
+parallel with the deuterium flux (solid line). This deuterium flux increased first before it 
+decreased with temperature. This is very different from the feature of a normal diffusion 
+flux which is supposed to decrease monotonically with the decreasing temperature. We 
+may call it anomalous deuterium flux which was correlated with a heat flow. It is 
+reproducible. 
+
+
+6. SUGGESTION FOR FURTHER EXPERIMENTS 
+
+The heat carried by the anomalous flux is more than 120 eV per deuteron which is 
+more than any conceivable chemical heat. Hence, it is desirable to conduct the mass 
+spectroscopy analysis for the permeating gas. Particularly, if tritium is observed in the 
+permeating gas when a mixture of H2 and D2 gas are used to feed the Pd tube. It would 
+justify not only the nuclear nature of the heat flow, but also the “selective resonant 
+tunneling theory”. The early Bockris’ electrolytic cell [14] and Claytor’s hydrogen cycle 
+[15] might be two precedent experimental results that support this proposal. The 
+preliminary experiments at Energy Conversion Research Laboratory (HEAT project 
+proposed by Dr. Glenn Schmidt at New Mexico Tech.) and at Institute of Plasma Physics 
+(Hefei) were encouraging[21]. 
+
+
+8. CONCLUDING REMARK 
+
+(1) Resonance plays key role in the Condensed Matter Nuclear Science. Indeed, there is 
+not any violation of the law of the physics.
+(2) It is not easy to keep this resonance in a steady state. 
+(3) We are supposed to look for the mechanism which may keep this resonant state in a 
+self-sustaining way. Possibly, a deuterium flux permeating through Pd film is a method 
+to maintain this resonance. 
+(4) Fission was discovered in 1939, the first fission reactor was in operation in 1942 
+with the support from the whole nation. “Cold fusion” was announced in 1989, but we 
+are still in the stage of confirmation of this phenomenon because of the lack of financial 
+support. 
+
+Fig.2 A heat flow correlated with an anomalous deuterium flux permeating 
+through the thin wall of a Pd tube cooling down to certain temperature 
+interval. 
+
+
+REFERENCES 
+
+Excess Tritium 
+[1] Energy Research Advisory Board, Cold Fusion Research, DOE/S-0073, 1989. 
+[2] N.J.C. Packham, K.L. Wolf, J.C. Wass, R.C. Kainthla, and J. O’M. Bockris, 
+“Production of Tritium from D2O Electrolysis at a Palladium Cathode,” J. 
+Electroanal. Chem., 270 415(1989). 
+[3] F. G. Will, K. Cedzynska, D.C. Linton, “Reproducible Tritium Generation in 
+Electrolychemical Cells Employing Palladium Cathodes with High Deuterium 
+Loading,” J. Electroanal. Chem., 360 161 (1993). 
+[4] T. N. Claytor, et al., “Tritium Production from Palladium Alloys,” Proceedings of 
+ICCF-7, Vancouver, Canada, ENECO, Inc., Salt Lake City, USA (1998) p.88. 
+[5] B.W. Clarke , B.M. Oliver, M.C.H. Mckubre, F.L. Tanzella, P. Tripodi, “Search for 
+3He, 4He in Arata-Style Palladium Cathodes II: Evidence for Tritium Production,” 
+Fusion Science and Technology, 40 152 (2001). 
+Selective Resonant Tunneling model 
+[6] X.Z. Li, C.X. Li, and H.F. Huang, “Maximum Value of the Resonant Tunneling 
+Current through the Coulomb Barrier,” Fusion Technology 36 324 (1999). 
+[7] X. Z. Li, J. Tian, and M. Y. Mei "Fusion Energy without Strong Nuclear Radiation," 
+Journal of Fusion Energy, 18, 51 (1999). 
+[8] X. Z. Li, et al., "Study Of Nuclear Physics For Nuclear Fusion," Journal of Fusion 
+Energy, 19, 163 (2002). 
+Three Miracles 
+[9] J. R. Huizenga, “Cold Fusion: The Scientific Fiasco of the Century,” University of 
+Rochester Press, p.111-113 (1992). 
+[10] B. D. Josephson, “Pathological Disbelief”, Lecture given at the Nobel Laureates’ 
+Meeting, Lindau, June 30th., 2004, Edited version of presentation (revised Aug. 20th., 
+2004, http://www.newenergytimes.com/library/2004JosephsonB-LindauLecture.pdf ) 
+Selective Resonant Tunneling model and Hot Fusion 
+[11] X.Z. Li, J. Tian, M.Y. Mei, and C.X. Li, “Sub-barrier Fusion and Selective 
+Resonant Tunneling,” Phys. Rev. C, 61 024610 (2000). 
+[12] X.Z. Li, “Nuclear Physics for Nuclear Fusion,” Fusion Science and Technology, 41 
+63 (2002).  
+[13] X.Z. Li, B. Liu, S. Chen, Q. M. Wei, H. Hora, “Fusion cross sections for inertial 
+fusion energy,” Laser and Particle Beams, 22 (2004), 469. 
+Hydrogen in experiments producing tritium 
+[14] K. L. Wolf, “Wolf: My Tritium was an Impurity,” Science, 248 1301 (1990). 
+[15] T. N. Claytor, et al., “Tritium Production from Palladium Alloys,” Proceedings of 
+ICCF-7, Vancouver, Canada, ENECO, Inc., Salt Lake City, US (1998) p.88. 
+Resonant Tunneling and Weak Interaction in the Sun 
+[16] H.A. Bethe, C. L. Chritchfield, “The Formation of Deuterons by Proton 
+Combination,” Phys. Rev. 54 246 (1938). 
+Ion Band in Crystal 
+[17] T.A. Chubb and S.R. Chubb, “Cold Fusion as an Interaction between Ion Band 
+States,” Fusion Technology, 20 93 (1991). 
+Deuterium Flux and Reproducibility 
+[18] M.C.H. Mckubre, S. Crouch-baker, A.K. Hauser,S.I. Smedley, F.L. Tanzella, M.S. 
+Williams, S.S. Wing, “Concerning Reproducibility of Excess Heat Production,” 
+Proceedings of ICCF-5, Monte-Carlo, Monaco (1995) p.17. 
+[19] Y. Iwamura, M. Sakano, and T. Itoh, “Elemental Analysis of Pd Complexes: Effects 
+of D2 Gas Permeation,” Jpn. J. Appl. Phys. 41 4642 (2002). 
+[20] X.Z. Li, B. Liu, J. Tian, Q.M. Wei, R. Zhou, and Z.W. Yu, “Correlation between 
+Abnormal Deuterium Flux and Heat Flow in a D/Pd System,” J. Phys. D: Appl. Phys. 
+36 3095 (2003). 
+[21] Q. M. Wei, B. Liu, Y. X. Mo, X. Z. Li, S. X. Zheng, D. X. Cao, X. M. Wang, and J. 
+Tian, “Deuterium (Hydrogen) Flux Permeating through Palladium and Condensed 
+Matter Nuclear Science”, The Proceedings of 12-th International Conference on 
+Condensed Matter Nuclear Science, Marseilles, France, Oct.31-Nov.5, 2004. edited 
+by Jean-Paul Biberian.(to be published) 

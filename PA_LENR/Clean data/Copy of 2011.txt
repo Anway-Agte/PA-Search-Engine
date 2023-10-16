@@ -1,0 +1,35 @@
+1. Preface
+
+The 21st International Conference on Condensed Matter Nuclear Science was held during the week of 3–8 June of 2018 in the Lory Student Center on the campus of Colorado State University in Fort Collins, Colorado. ICCF-21 was organized as a single-fee turn-key conference, which incorporated the technical program, housing, meals and all events. The campus setting, where participants shared meals and were lodged in the same village. encouraged the exchange of ideas, and also the development and refreshing of relationships. There were 104 abstracts submitted, and the program accommodated 63 oral presentations. The rest were posters.
+
+The conference web site provides many details on the organization and content of the conference: iccf21.com. Importantly, all of the abstracts and presented graphics are available at that site, as are high-definition videos of all the oral presentations at ICCF-21. Those primary contents of the conference will be available globally for the next decade.
+There were two classes of participants in ICCF-21. The first was the normal mix of scientists, technologists, engineers and business people. There were 147 such people at the conference from 22 countries. In addition, there was a set of participants who had won scholarships to attend the meeting without cost other than their travel. There were 50 applications, of which 42 were approved for funding, and 21 attendees. The scholarship participants were students from the U.S. and six other countries, including three high school science teachers. Those who had little prior exposure to LENR were introduced to the field. They also saw how a scientific conference works. The Scholarship Program was funded by the Ralph and Trish Nagel Foundation.
+
+An introductory Short Course was held on the first day of the conference. The organization of that course was very straightforward, with the schedule and topics given in Table 1. After the introduction, there were two talks on the primary means of bringing together either protons or deuterons onto or into metals. That process is called “loading”. Then, there was another pair of talks on the two most important measurements in LENR experiments, namely heat and elemental products. The field has two main challenges, materials and understanding, so a third pair of talks dealt with them. Finally, there was a presentation on the state of commercialization of LENR energy generators, a part of the field that has widespread interest. There were 78 people who attended part or all of the Short Course, substantially more than usual.
+
+
+Table 1. The schedule, topics and speakers for the Short Course held on 3 June 2018.
+Time Minutes 1000–1040 40 1040–1120 40 1120–1200 40 1200–1330 90 1330–1410 40 1410–1450 40 1450–1510 20 1510–1550 40 1550–1630 40 1630–1700 30
+Topic
+Introduction and Issues Electrochemical Loading Gas Loading
+Lunch
+Calorimetry and Heat Data Transmutation Data
+Break
+Materials Challenges Theoretical Considerations Commercialization
+Speaker Nagel McKubre Biberian
+Letts Srinivasan
+Imam Hagelstein Seccombe
+
+There were two keynote presentations at the start of ICCF-21. The first gave a larger perspective, and the second was a technical overview of the field.
+Thomas Darden, the founder and CEO of Cherokee Investment Partners LLC, also founded Industrial Heat in 2012. He focused his talk on the energy challenges that motivate many of the people trying to understand and advance LENR. Much of Darden’s address dealt with social, cultural, scientific, financial and political factors relevant to LENR. He ended with a call for increased openness and collaboration within the LENR field.
+
+Michael McKubre is an electrochemist, who worked at SRI international from 1978 until 2016. He lead a large and productive research program on LENR since 1989. Rather than review those many results, McKubre gave a perspective on what is needed for LENR to progress and realize its promise for the benefit of mankind. He emphasized five “tion” words: verification, replication, correlation, demonstration and utilization. McKubre noted, as he has done in the past, the need for collaboration, cooperation and communication within the field
+Near the end of the conference, Dana Seccombe presented an important talk entitled “Experience with Semiconductor Technology Development Potentially Relevant to LENR.” His experience in a major and innovative semiconductor development program is relevant to the commercialization of LENR generators. Yield in semiconductor production is conceptually equivalent to success (reproducibility) in LENR experiments. If funding of LENR development were adequate, it would be possible to use the iterative, focused practices from the massive semiconductor industry to speed knowledge, commercialization and exploitation of LENR.
+
+Several of the ICCF series have had unusual sessions for specific purposes. At ICCF-14, there were two sessions devoted to the work of LENR pioneers in order to review and highlight the many contributions to this field by those people, and to honor them for their work and results. A session at ICCF-21 on Friday morning was devoted to talks by three long-time contributors of experimental results about LENR. The intent was again to honor them and their contributions, and to give them a chance to ‘teach what they know’, which they learned over the decades. Those three presentations were by Edmund Storms, Jean-Paul Biberian and Mitchell Swartz.
+An evening meeting on Nuclear Structure and its relation to LENR was organized by Norman Cook and Bob Cook. It attracted about 20 participants. Many of them continued to interact after the conference.
+
+The excursions on one afternoon were unique. Rather than only going to one cultural or natural resource, four visits by groups of conference participants were made to technical organizations near Colorado State University. They were the National Institutes of Standards and Technology, the National Renewable Energy Laboratory, the National Oceanic and Atmospheric Administration and the National Center for Atmospheric Research.
+A detailed review of the technical content, and other aspects of ICCF-21, has been published in Infinite Energy magazine. https://www.infinite-energy.com/iemagazine/issue141/index.html.
+Sincerely,
+Steven B. Katinsky and David J. Nagel (August 2019)

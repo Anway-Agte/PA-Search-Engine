@@ -1,0 +1,261 @@
+1. Introduction
+
+It is well established from experiments that (hydrogen or)
+deuterium can be loaded in the Pd lattice even above the so-called
+stoichiometric ratio, X = D/Pd = 0.7 (atoms of D per atom of Pd).
+Up to this value (hydrogen or) deuterium atoms are arranged in the
+lattice in the octahedral sites. A further increase in
+concentration (or loading ratio) can be described by assuming
+"guest" atoms delocalized arranged in shallow holes2 corresponding
+to tetrahedal sites. The relative low energy barrier between two
+tetrahedral sites brings out to describe this population as almost
+free to move from a side to an other. We will refer only to D
+atoms.
+
+In the following we will quote from the current literature two
+features of DPd compounds, showing that the D atoms exceeding the
+stoichiometric ratio have a very different kind of interaction with
+the lattice.
+
+- It has been observed 3, 4 that the diffusion coefficient of D in
+Pd increases steeply by almost two orders of magnitude above X=0.7.
+This effect can be explained by assuming that the energy variation, 
+required for an atom to move from a lattice site to another, 
+decreases as the concentration increases. The diffusion coefficient 
+follows the Arrenius law 
+
+D a D0exp(-E/kT) 
+
+where E is the energy barrier between two neighbour sites. Thus, 
+the experimental data can be explained by assuming that the barrier 
+is lowered when X exceeds 0.7. 
+
+- It is known 5,6 that the relative change of volume (�V/V) of the
+Pd lattice cell as a function of loading ratio is a straight line,
+which shows a change in slope approximately at X = 0.7. This means
+that, for concentrations higher than this, the interaction between
+the D atoms and the Pd lattice changes.
+
+These two features prompted us to propose a picture, in which 
+the D atoms in the Pd lattice can be divided in two groups: 
+localized atoms in the octahedral sites, and delocalized ones in 
+the tetrahedral sites. The two groups have different kinds of 
+interaction with the lattice. It has to be remembered that, even 
+when X > 0.7, both groups are present: but, statistically, the 
+delocalized fraction is negligible if octahedral sites are 
+available, the latter's energy level being lower than for 
+tetrahedral sites. 
+
+The model describes the behaviour of the latter population 
+than it assumes a Pd lattice in which the octahedral sites are 
+already filled. Since the particles are indistingushable exchanges 
+between two population doesn't modifie the system status. 
+
+
+2. The model
+
+Many experiments show that, when electrolytically charging D 
+in Pd, the production of anomalous heat excess can be detected, if 
+the loading ratio is in the range 0.8 - 1, or even larger. A 
+typical feature of the first experiments was the need for a long 
+pre-charging procedure, as long as weeks, or even months, in order 
+for the anomalous effect to appear. More recently a pulsed 
+technique has been used7, consisting in either applying a sawtooth 
+current (just at the beginning of the run), or alternating low 
+currents to high currents with long periods ("lo-hi" technique), 
+resulting in a much more efficient charging mechanism. This 
+behaviour pushed us to study, from a theoretical point of view, the 
+loading and the transport dynamics of Din Pd, for X > 0.7, in the 
+framework of hi-lo electrolysis. 
+
+The model considers the Pd cathode as a membrane (with very 
+high surface/thickness ratio), separating two regions. Two 
+different instances have been considered: 
+
+A. The cathode is totally immersed in an electrolytic cell,
+
+B. Only one of the sides of the cathode participates to
+electrolysis, while the other is exposed to an ambient containing
+D2 gas.
+
+It is well known that, during electrolysis, a strong electric 
+field is present at the cathode-electrolyte interface. Furthermore, 
+it is reasonable to assume a Thomas-Fermi like interaction between 
+delocalized D atoms. Actually a dependence from the D 
+concentration of the electronic shield has been assumed. We can 
+then write an expression for the atom flow, depending both on 
+concentration and local electric field: 
+
+Fz•E 
+J = - D(VC + --C) 
+RT 
+
+where: 
+D diffusion coefficient, F Faraday constant, E total local 
+electric field, C deuterium concentration , R gas constant, T 
+temperature. 
+
+The local electric field can be considered as the algebraic 
+sum of the applied electric field (due to electrolysis) and the 
+reactional field due to the Thomas-Fermi like potential. The former 
+is non-zero only at the cathode-electrolyte interface, while the 
+latter can be calculated as a function of the loading ratio. Then. 
+the mass transfer equation, in transient conditions, can be written 
+as: 
+
+ac 
+Fz• 
+- =DV2C +-EVC
+at 
+RT 
+
+where: z* effective deuteron charge 
+(electrotransport)B-9. 
+where C is the concentration of delocalized deuterons, R is the gas 
+constant, F is the Faraday constant, T is the temperature, and Eis 
+the local electric field. 
+
+The interaction potential between delocalized deuterons (in 
+the Thomas-Fermi picture) is: 
+
+q 
+r 
+4> = --exp (- -)
+4m:
+0r 
+AD 
+
+where r is the distance between a delocalized deuteron and the 
+first neighbour (proportional to 1/N1/3), 
+AD is the Debye 
+distance, and q is the electric charge. 
+
+The initial and boundary conditions are: 
+t
+
+Where: 2ts is the period of the pulsed electrolysis, C1 e C2 are 
+the surface concentration, on the electrolysis side, in low and 
+high current respectively10. 
+
+Condition (a) describes the electrolysis side of the 
+electrode, condition 
+(b) describes an electrode having one side in 
+D gas ambient, condition (c) points a symmetric electrolysis (the 
+membrane cathode is between two equal anodic plates). 
+
+In order to evaluate the flow, in the gas (JDESIADS) it is
+necessary to write down a mass balance. Since the flow is a 
+function of the surface concentration and of the deuterons 
+concentration in the gas phase, we can write: 
+
+acSUP 
+� = KADSCGAS - KDESCSUP + JDIFF 
+
+where 
+ac 
+J DIFF = - D ax ; (x = L)
+
+KDES and KADS are the desorption and adsorption constants 
+respectively, CGAS and CsuP are the D concentration on the gas 
+phase cathode side and in the gas bulk respectively. The 
+desorption rate has been approximated as a lumped first order 
+kinetic. 
+
+The gas flux from/towards the cathode produces a variation of 
+the number of D molecules in the gas phase producing a pressure 
+variation: 
+
+aP 
+RT aNGAS 
+at 
+V 
+at 
+
+where Pis the gas pressure, Vis the gas volume and NGAS is the 
+number of D molecules within the gas (ideal behaviour is assumed). 
+
+The D concentration variation in the gas is: 
+
+acGAS 
+1 aP 
+at 
+RT at 
+
+The model just described has been solved numerically by 
+finite-difference method. For the adsorption/desorption constants, 
+data from the literature have been used. 
+
+
+3. Results and conclusions
+
+The main features emerging from this model are the following: 
+
+
+1. The period (2ts) of hi-lo electrolysis affects the charging
+efficiency and the concentration profile (see Fig.1): with a proper
+period, strong concentration gradients are set up. 
+
+Figure 1. Concentration evolution in two contiguous slabs near the 
+cathode surface in the electrolysis side. Profile in b) has been 
+obtained with a period 4 times shorter than the one of a) case. 
+
+Figure 2. Concentration profiles
+evolution in two contiguous slabs
+near the cathode surface exposed to
+D2 gas. The perturbation simulates
+the inversionof the flow on the gas
+side. 
+
+2. A strong external electric field enhances the charging efficien­
+cy and the global loading ratio: it has been observect6 that an
+increase in the potential across the cell (at constant current)
+announces the production of heat excess.
+
+3. The inversion of flow on the gas side produces a compression on
+the delocalized deuterons (see Fig.2), and the rate of loading is
+increased.
+
+The experiments performed at ENEA/Frascatil show that a strong 
+D2 gas adsorption is detected when heat excess is produced. Thus, 
+the model gives a satisfying description of the diffusion of 
+deuterons in a Pd cathode under electrochemical loading: it was 
+possible to establish a correlation between the deuterium dynamics 
+within the cathode and the production of heat excess: the model 
+analysis leads to the following consideration concerning the 
+development of excess of heat oriented experiments. The electrode 
+surface should be maintained active from the absorption point of 
+view and an "ad hoc" poisoning on the surface, aimed to reduce the 
+deuterium recombination and/or to enhance the cathodic over­
+potential, should be studied. In the geometry of the cell, 
+particular care should be given to the evaluation of the currents 
+distribution. 
+
+
+Footnote and References 
+
+ENEA - Dipartimento Fusione, CRE Frascati, C.P. 65 - 00044
+Frascati, Rome, Italy
+Bertalot L. et al. "Study of Deuterium Charging in PD ..... " 
+This conference 
+Preparata G., Proc. of 1st Annual Conference on CF. Provo (USA
+Mengoli G., et al. Surface and Bulk Effects in the Extraction
+of Hydrogen from Highly Pd Sheet Electrodes, Submitted to J.
+Electr. Anal. Chern.
+Chernenko V.I. and Yakunina T.G., Diffusion of Hydrogen
+through Pd Membranes. Translated from Elektrokirniya Vol. 18,
+7, (1982) 904-908
+Peisl H., Lattice Strans due to Hydrogen in Metals, in
+Hydrogen in Metals I Ed. G. Alefeld & J. Volkl, Springer
+Verlag Berlin 1978, 53-73
+Kittel C., Introduzione alla Fisica dello Stato Salido,
+Boringhieri 1971
+Takahashi A. et al., Nuclear Products ...... Submitted to Int. 
+J. of Appl. Electromagnetics in Mat. - May 1992
+Wipf H., Electro and Thermo transport of Hydrogen in Metals.
+Hydrogen in Metals Vol. II, Cpa. 7 - Ed. G. Alefeld & J.
+Volkl, Springer Verlag Berlin 1978
+Isengerg, I., Phys. Rev. Letts. 79 (1950) 736
+Enyo M., Hydrogen-Electrode Reaction on Electro Catalytically
+Active Metals, pp. 241-250 in Comprehensive ....... of
+Electrochemistry 
+Vol. 7, cap. 5, Plenum N.Y. 1983

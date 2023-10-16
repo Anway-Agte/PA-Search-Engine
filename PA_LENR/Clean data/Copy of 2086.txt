@@ -1,0 +1,169 @@
+1. Introduction
+
+Recently, the Bose-Einstein condensation (BEC) mechanism has been generalized to a ground-state mixture of two different positively charged bosons (such as deuterons and lithium-6 nuclei, or deuterons and palladium nuclei) in harmonic traps [1]. One of the main predictions of the BEC mechanism is that the Coulomb interaction between two charged bosons may be suppresssed for the case of a large number of particles and hence the conventional Gamow factor may be absent. The theory has been used to analyze low-energy nuclear reaction (LENR) experiments involving atomic clusters (Pd black powders) [2] and acoustic cavitation [3]. The generalization to the two species case allows us to propose an alternative theoretical interpretation of LENR processes in deuterated metals to include the two-species reactions with entrance channel (D + X) where X represents a Bose nucleus other than D, in addition to the conventional one-specie (D + D) reaction. Both (D + X) and (D + D) reactions may be occurring in LENR and transmutaion experiments.
+
+For application of the BEC mechanism to LENR and transmutation (or cold nucleosynthesis) experiments involving metals, we assume that non-equilibrium fluctuations might make either vacancies or impurities sufficiently mobile so as to allow Bose nuclei to move collectively in localized regions. Another possibility is that these non-equilibrium fluctuations might enable the particles to tunnel so as to create localized BEC states. These mechanisms are expected to be more favaorable with micro- and nano-scale atomic clusters, dendrites, and cavitiesonmetalsurfaces,andareconsistentwithrecentlyproposed“crud”scenario[4].
+
+The proposed theoretical interpretation is discussed for the results (excess heat and nuclear emission) of LENR experiments with deuterated metals (heavy water electrolysis, deuterium gas, etc.) including triggering requirements such as laser stimulation [5], and deuteron beam experiments [6,7]. To assess the validity of this proposed theoretical interpretation for the LENR experiments, it is essential to carry out accurate probes of isotope abundance ratios in deuterated metals by neutron activation analysis (NAA), time of flight secondary ion mass spectroscopy (TOF-SIMS), and trace-element accelerator mass spectroscopy (TEAMS) [8,9].
+
+
+2. Bose-Einstein Condensation (BEC) Mechanism
+
+Recently, the previously developed theory [10-14] of the BEC mechanism for one-specie LENR such as (D+D) reactions has been generalized to two-species case and applied to
+D+Lireactions [1]. In this section, we summarize the results and predictions of two-species BEC mechanism for LENR and transmutation processes [1].
+
+2.1 Selection Rules
+For the BEC mechanism for LENR and transmutation processes, there are two selection rules: (1) nuclear spin selection rule and (2) nuclear mass-charge selection rule. Selection rule (1) is exact while selection rule (2) is approximate.
+(1) The Nuclear Spin Selection Rule:
+The nuclear spins of both species must be integer. This rule is obvious for the BEC
+mechanism.
+(2) The Nuclear Mass-Charge Selection Rule:
+This approximate selection rule is given by the following relation
+where Ñi is the number of neutrons in the Bose nucleus for the specie i. We note that the above relation is satisfied, for example, for two species with Zi=Ñi.
+
+2.2 Fusion Rates
+For the two species case, we approximate the short-range nuclear interaction by a Fermi pseudo-potential [10] and write it in a generalized form as
+where the nuclear reaction rate constants Aij are given by
+withr(ij)h2/(2ZZe2)and mm/(mm). S are the S-factors for nuclear  fusion between two nuclei from species i and j.
+The nucleus-nucleus fusion rates are determined from the trapped ground state wave function
+as
+and in the mean-field approximation, we have R11=A11N1n1B/2, R12=A12N1n2B, and
+R =A N n B/2,where nB N /((4/3)R3). N isthetotalnumberofspeciei,and R isthe 222222 i i i i i
+radius of the trap for specie i.
+If the probabilities of the mean-field ground state occupation [10], i, are taken into account,
+thetrapfusionratesaregivenby R t R , R t R , and Rt R .Weexpectthat 1111122222 12312
+   . 312
+
+2.3 Application to (D+Li) Reactions
+For 6 Li(d,)4 He (Q=22.37 Mev) and 7 Li(d,n)24 He (Q=15.12 Mev), the S-factors are 18.8 Mev-barn[15,16] and 30 Mev-barn [17], respectively, as shown in Table 1. Using these values we find that the corresponding nuclear reaction rate constants are Ad6Li 5.81015 cm3 / sec and
+Ad7Li 8.971015cm3 /sec which are about 50 times larger than the d-d nuclear reaction rate constant Add 1.51016cm3 /sec.
+We expect that nuclear reaction rate constants for reactions 6 Li(6 Li,5 Li)7 Li (Q=1.86 Mev) and 6 Li(6 Li,)24 He (Q=20.897 Mev) are much smaller than Ad6Li.
+7
+
+For the BEC mechanism, the (d  Li) reaction rate is expected to be suppressed compared
+6
+with the (d  Li) reaction rate due to the selection rule A. This is consistent with the observation
+of depletion of 6Li [18,19] as inferred from increased 7Li/6Li abundance ratio in Arata-Zhang’s particulate Pd exposed to deuterium gas [20-22].
+The excess heat and 4He observed in electrolysis experiments [23] may be due to 6 Li(d,)4 He in addition to other reactions leading to the final states without 4He (see Table 1
+and 2). This would be an alternative scenario to the (d+d) reaction scenario which has been proposed by many.
+
+2.4. LENR and Transmutation Processes in the Metal Surface Region
+As pointed out recently by Storms) [4,24], there are many experimental observations [26-37] suggesting that LENR and transmutation processes in condensed matter maybe occuring in nuclear active environment (NAE) or nuclear active spot (NAS) created in the surface region of deuterated metals. If this active spot contains a high-density plasma (positive ions (nuclei) and electrons) trapped in a micro/nano scale cavity in the metal surface region, our theoretical model for the BEC mechanism is appliciable and could provide an appropriate theoretical description of LENR and trasmutation (cold nucleosysthesis) processes.
+
+
+3. Experimental Evidences for (D+Li) and Other Two-Species Reactions
+
+A number of hints have been evident over the past 16 years that lithium and possibly other light elements such as beryllium and boron were the source of excess heat production by various possible nuclear reactions with deuterium. Many of these reactions produce heat without appreciable emission of neutrons or tritium, but are indeed capable of producing the small levels of these products that have been detected.
+
+The most obvious hint was the almost complete absence of neutrons or tritium commensurate with the observed levels of excess heat. When finally detected, these products were not even in the same ratio with each other as expected from the D+D reaction. The ratio expected was 1:1 and the observed ratio was more like one million to one, favoring tritium. Even tritium was about one million times smaller than expected from D+D, if indeed that reaction had been the source of the excess heat observed. Since those early observations many attempts have been made to explain how D+D reaction channels could be modified in a solid to favor 4He reaction by ten million times over the expected value and the almost complete, and unequal, suppression of the channels leading to tritium or neutrons [38,39].
+
+3. 1 Possible Roles of Impurities
+Another early hint was the observation that there was a batch effect present among the palladium samples used as cathodes in the electrochemical cells producing excess heat. Some were noticeably more productive of excess heat episodes than others. These more productive cathodes were among the least pure palladium batches. Here was a hint that the impurities in palladium were playing a role in the heat production process. It was assumed at the time that such a role might be in the physical strengthening of the metal to prevent cracking during its 10% volumetric expansion upon being loaded with deuterium. The idea that these impurities might be direct participants in the nuclear reactions producing heat was not seriously considered in those early few years.
+
+The impurities were measured and found to be not overwhelmingly different among the various batches of palladium, but one element stood out as a major consitituent among those present. This was boron, element number 5. Among the electrolytes used in the electrochemical cells, the impurity levels were not readily distinguished from each other, but all had beryllium and boron present at parts per billion levels in addition to the predominant lithium. It was noticed that small additions of aluminum and boric acid to the electrolyte were apparently beneficial to increasing the frequency of excess heat episodes in a given cell. Again, the trace impurities showed some sign of influencing the output of excess heat. Pursuit of the boric acid electrolyte addition was truncated at SRI International by McKubre after their observation of a disturbing change in the curve of electrical resistivity versus deuterium loading. The changed nature of that curve from one maximum at around 0.7 D/Pd to one with two-peaks was such as to make definite monitoring of deuterium loading ratios highly uncertain [40]. The loading ratio was believed at that time to be the primary variable determining the appearance of excess heat episodes, so that boric acid addition was stopped. Of course, boron at around 50 to 100 parts per million by weight, was still present in the various batches of palladium (actually 1000 PPM as atom fraction since boron atoms are one tenth the mass of palladium atoms).
+
+The fact that such minor additives of aluminum and boric acid to the electrolyte (~200 PPM each by weight) had such a large effect on the system shows that the cathode surface nature is a determining factor in excess heat appearance. It was surprising that the boric acid additive should so dramatically influence the bulk metal property of electrical resistivity by which the loading ratio D/Pd was measured. One could speculate that boron is loading into the bulk Pd along with the deuterium. However, we must not overlook the fact that the element boron appears to increase the appearance of excess heat episodes and that it is plausible that the boron atom can move within the bulk lattice of the palladium sufficiently to affect the electrical resistance, as already observed for deuterium atoms.
+
+3. 2 Initiation Period and Surface Effect
+Another factor widely observed in the electrochemical methods of producing excess heat was the 200-60hour“initiation”periodbeforeanyepisodesofexcesheatwereobserved. This fact suggests that some slow process must be completed to achieve the conditions necessary for excess heat production. Speculation on such a slow process has included diffusion of some atom or ion to some required location at the cathode surface or within the bulk, such as at grain boundaries. Lithium ions in the lithium deuteroxide electrolyte along with the impurities always present in this electrolyte are the prime suspects for this process. Another slow process is the gradual buildup of a surface layer on the cathode from well known cathodic deposition of any positive ion in the electrolyte, whether initially present or dissolved from the cell anode (platinum in most cases) or from the glass or quartz or Teflon cell walls. Observation of a black layer of porous material on the cathodes of many cells that ran for long times is well established. The composition of this black layer has occasionally been analyzed. Platinum, palladium, and calcium, silicon, and boron are among the elements observed, but no systematic study of the layer is known to have been performed. Evidence from a study by Storms [41] using platinum cathodes suggests that this layer is the likely locale of the excess heat effect. The impurities as well as the metals present there in a finely divided form of high surface area may be the source of excess-heat episodes. A surface source is all the more plausible from the observation of helium of mass 4 in the gas phase of heat-producing electrochemical cells [42]. If helium had been formed initially within the palladium cathode lattice, it would not easily move to the gas phase of the closed cell. In fact helium in solids lies sequestered for many years if it is initially produced within the solid by nuclear processes driven by high energy particles in cosmic rays [25].
+
+
+3. 3 Evidence for (D+Li) reactions
+Lithium has two isotopes, 6Li and 7Li with a natural ratio of 12.5 favoring 7Li. Both may plausibly react with deuterium or protium in a set of 12 exothermic reactions, nine of which produce helium of mass 4 as listed in Table 1. However, it is likely that the reaction rate for each of these isotopes may be different enough in various cold fusion type experiments to show a change in the 7Li/6Li ratio remaining after the excess heat episodes are sufficiently productive of excess heat to burn out one of the two more than the other. Therefore, several investigators measured the 7Li/6Li ratio in materials known or alledged to have produced a substantial quantity of excess heat [18,19,43]. The major problem in this effort is to avoid lithium that is depleted in 6Li in the initial surface. The use of 6Li for thermonuclear devices was intense enough to have left behind a legacy of lithium depleted in 6Li below its natural level. The time of flight secondary ion mass spectrometry (TOF SIMS) method is particularly well suited to this measurement since there are no significant interferences at those two mass numbers and lithium is more readily ionized than most other elements by the input gallium-71 beam of the instrument. Also, if the active region of excess heat production is at the surface of the material, this surface analysis method is all the more appropriate. Tables 2 and 3 give the 7Li/6Li ratios measured in a number of palladium samples from experiments that reportedly produced substantial amounts of excess heat. Needless to say, a much more comprehensive effort on many more candidate samples is necessary to fully confirm these initial suggestive findings.
+
+One might wonder how lithium might be the nuclear reation source of excess heat in experiments apparently lithium-free. The TOF-SIMS measurements of numerous solid samples convinced us that lithium, like sodium, is a surface contaminant on ALL surfaces explosed to handlingintheearth’satmosphere.TheamountsDIDvary,butlithiumalwaysshowedup. We believe it would take a determined effort to perform an experiment with a surface free of lithium.
+
+3. 4 Possible Roles of Boron Impurity
+Beryllium with only one stable isotope, 9Be, is not susceptible to this sort of experimental test. However, boron with the two isotopes 10B and 11B is subject to a similar test. Just as with 6Li and 7Li, both boron isotopes produce excess heat and 4He without neutrons or tritium, but in any situation, reactions with one will most likely favor one over the other hence leading to a difference from the natural ratio of 4.0 favoring 11B. No appreciable data on 10B/11B ratios are yet available. However, depletion of 10B has been reported in several cathodes that reportedly produced substantial excess heat. These measurements were performed by prompt gamma neutron activation analysis (PGNAA)[44], but the method is not sensitive to 11B.
+
+3. 5 Summary of Section 3
+The case favoring non D+D reactions as the source of excess heat in cold fusion type experiments has been given here. The light elements have been favored because they are almost universally present at low levels in all the materials used in such studies and all three of them have known reactions producing excess heat and 4He without predominantly neutrons or tritium, even though such reactions are known. Some hints of other nuclear reactions such as the fission of palladium isotopes to elements in the region around iron (element 26) exist [18] but are not considered sufficiently robust to treat in detail here. Such reactions may indeed be present and would produce excess heat without commensurate neutrons or tritium (with positive exothermic energies per reaction of 20-30 Mev). However, 4He would not be produced in such reactions.
+
+The evidence does point to a reaction on large surface area materials of a catalytic nature[20-23,45] and seems to indicate the possibility of a gaseous interface with the catalyst as being the key. For example, even in liquid electrolyte experiments, the high deuterium loading criteria may be signaling the need for a high rate of hydrogen bubble formation at the cathode surface, maximizing the time spent as a gaseous interface of bubble and surface. The long time required before observation of excess heat may signal the need to build a high surface area deposited film to contact that continual series of gaseous deuterium bubbles after loading is complete to a high level. In the case of Arata-Zhang [20-22], the production of excess heat seems to favor palladium particle sizes under 40 nanometers exposed to high pressure deuterium gas inside their hollow cylindrical cathode.
+
+
+4. Proposed Experimental Tests
+
+In order to test the possibility that (D+Li) reactions are involved in the LENR processes in condensed matter and also to test the predictions of the BEC mechanism as described in section 2, we propose to use 6Li and 7Li separately and also to use microporous or nanopourous materials in the following types of experiments:
+(1) electrolysis experiments of Fleischmann-Pons type[46-54]. (2) gas experiments[2,20-22,45,55], and
+(3) nuclear emission experiments [56,57].
+The microporous or nanoporous materials include: vycor glasses[58], aerogels[59], nanogels[60], ordered nanoporous thin films[61], carbon arerogels[62], and pocofoams[63]. The use of microporous or nanoporous materials in these experiments recently proposed by Kim et al.[64] is expected to enhance the observed effects by many orders of magnitude if the observed processes are surface phenomena, since active surface is substantially larger for these materials compared with the surface area of a bulk metal.
+
+
+5. Summary and Conclusions
+
+There are now a substantial number of LENR experimental data indicating that (D+Li) reactions are involved in LENR processes in condensed matters. In addition, there are many indications that the LENR processes in condensed matters are surface phenomena. The BEC mechanism may provide a suitable theoretical description for the surface phenomena involving high-density plasma (D, Li, e-) formed in micro/nano scale cavities. The possibility of (D+Li) reactions and the predictions of the BEC mechanism for LENR processes can be tested by carrying out (1) electrolysis experiments of Fleischmann-Pons type, (2) gas experiments and (3) nuclear emission experiments, using 6Li and 7Li separately and also using porous materials instead of bulk metals, as recently proposed by Kim et al. [64].
+
+
+6. References
+
+[1] Y.E.KimandA.L.Zubarev,“MixturesofChargedBosonsofConfinedinHarmonicTraps
+and Bose-Einstein Condensation Mechanism for Low-Energy Nuclear Reaction and Transmutation Processes in Condensed Matters", submitted to ICCF-11, 2004, Marseilles, France, and references therein.
+[2] Y.E. Kim, D.S. Koltick, R. Pringer, J. Meyers, and R. Koltick, Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[3] Y.E. Kim, D.S. Koltick, and A.L. Zubarev, Proceedings of ICCF-10, Cambridge, Massachusetts
+[4] E.Storms,“WhatConditionsAreRequiredtoInitiatetheLENREfect?”,Procedingsof ICCF-10, 2003, Cambridge, Massachussetts.
+[5] D. Letts and D. Cravens, Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[6] J. Kasagi, Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[7] J. Kasagi, Proceedings of ICCF-11, 2004, Marseilles, France.
+[8] G. K. Hubler et al., Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[9] T. O. Passell, Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[10] Y.E. Kim and A.L. Zubarev, Fusion Technology 37, 151 (2000).
+[11] Y.E. Kim and A.L. Zubarev, Italian Physical Society Proceedings 70, 375 (2000) for ICCF- 8, 2000, Lerici (La Spezia), Italy.
+[12] Y.E. Kim and A.L. Zubarev, Phys. Rev. A64, 013603 (2001).
+[13] Y.E. Kim and A.L. Zubarev, J. Phys. B: At. Mol. Opt. Phys. 33, 55 (2000). [14] Y.E. Kim, Progr. Theor. Phys. Suppl. 154, 379 (2004).
+[15] S. Engstler et al., Z. Phys. A342, 471 (1992).
+[16] A. Musumara et al., Phys. Rev. C64, 068801 (2001).
+[17] J. Yan et al., Nucl. Phys. A621, 127c (1997).
+[18]T.O.Pasel,“EvidenceforLitium-6 Depletion in Pd Exposed to Gaseous Deuterium and Hydrogen”,ProcedingsoftheNinthInternationalConference on Cold Fusion, pp. 299- 304, May 19-24, 2002, Beijing.
+[19]T.O.Pasel,“Pd-110/Pd-108 Ratios and Trace Element Changes in Particulate Palladium ExposedtoDeuterium Gas”,ProcedingsoftheTenthInternationalConferenceonCold Fusion, 2003, Cambridge, Massachusetts.
+
+[20] Y. Arata and Y.C. Zhang, Italian Physical Society Proceedings 70, 11 (2000) for ICCF-8, 2000, Lerici (La Spezia), Italy.
+[21] Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys. 37, L1274 (1998).
+[22] Y. Arata and Y.C. Zhang, Japanese J. Appl. Phys. 38, L774 (1999).
+[23] M. McKubre et al., Italian Physical Society Proceedings 70, 3 (2000) for ICCF-8, 2000, Lerici (La Spezia), Italy, and references therein.
+[24] E. Storms, The APS conference, March 3-7, 2003, Austin, Texas.
+[25]W.J.Camp,“Helium Detrapingandreleasefrom MetalTritides”,J.Vac.Sci.Technol.14, 514 (1977).
+[26] E. Storms and C. Talcott-Storms,“Theefectofhydridingonthephysicalstructureof paladiumandonthereleaseofcontainedtritium”,FusionTechnol. 20, 246 (1991).
+[27] P.A. Mosier-BosandS.Szpak,“ThePd/(n)Hsystem:transportprocesesanddevelopment ofthermalinstabilities”,NuovoCimentoA112, 577 (1999).
+[28] S. Szpak, P.A. Mosier-Bos,andM.H.Miles,“CalorimetryofthePd+Dcodeposition”, Fusion Technol. 36, 234 (1999).
+[29] J.DashandS.Miguet,“MicroanalysisofPdCathodesafterElectrolysisinAqueous Acids”,J.NewEnergy1(1), 23 (1996).
+[30]G.H.Miley,etal.“Quantitativeobservationsoftransmutationproductsocuring in thin- film coatedmicrospheresduringelectrolysis”,inSixthInternationalConferenceonCold Fusion, Progress in New Hydrogen Energy. 1996. Lake toya, Hokkaido, Japan, New Energy and Industrial Technology Development Organization, Tokyo Institute of Technology, Tokyo, Japan.
+[31]Y.Iwamura,etal.“DetectionofAnomalousElements,X-ray and Excess heat Induced by Continuous Diffusion of Deuterium Through Multi-layerCathode(Pd/CaO/Pd)”,inThe Seventh International Conference on Cold Fusion. 1998. Vancouver, Canada: ENECO, Inc., Salt Lake City, UT.
+[32] J.O.M.BockrisandZ.Minevski,“Twozonesof‘Impurities’observedafterprolonged electrolysisofdeuteriumonpaladium”,InfiniteEnergy1, 67 (1996).
+[3]T.Ohmori,etal.,“Transmutationinthe electrolysis of lightwater –excess energy and iron productioninagoldelectrode”,FusionTechnol.31, 210 (1997).
+[34]D.S.Silver,J.Dash,andP.S.Kefe,“Surfacetopographyofapaladium cathodeafter electrolysisinheavywater”,FusionTechnol. 24, 423 (1993).
+[35]G.H.Miley,etal.,“MultilayerThinFilmElectrodesforColdFusion”,inThirdInternational ConferenceonColdFusion,“FrontiersofColdFusion”.192.NagoyaJapan:Universal Academy Press, Inc., Tokyo, Japan.
+[36] E. Storms, “AcriticalevaluationofthePons-Fleischmanefect:Part2”,InfiniteEnergy 6(32), 52 (2000).
+[37] R.T.BushandR.D.Eagleton.“A CalorimetricstudyoftheExces sHeatEf fectinThin FilmsofPaladium”,intheSecondAnualConferenceonColdFusion,“TheScienceof ColdFusion”,191,Como,Italy:SocietaItalianadiFisica,Bologna,Italy.
+[38] P.L. Hagelstein, Proceedings of ICCF-8, 2000, Lerici (La Spezia), Italy; Proceedings of ICCF-10, 2003, Cambridge, Massachusetts, and references therin.
+
+[39] S.R. Chubb and T.A. Chubb, Proceedings of ICCF-8, 2000, Lerici (La Spezia), Italy; Proceedings of ICCF-10, 2003, Cambridge, Massachusetts, and references therin.
+[40] M. McKubre et al., SRI EPRI Report TR-104195 (August 1994), pp. 3A-1 to 3A-22.
+[41] E. Storms, Proceedings of ICCF-8, 2000, Lerici (La Spezia), Italy, pp. 55-61.
+[42] M. McKubre et al., SRI EPRI Report TR-107843 volume 1 (June 1998), pp. 3-226 to 3- 235.
+[43] D. Thompson, Proceedings of ICCF-1, 1990, Salt Lake City, Utah.
+[4 4] T.O.Pas sel l,“Search for Nuclear Reaction Products in Heat- Producing Pal ladium”, Proceedings of ICCF-6, 1996, Hokkaido, Japan.
+[45]L.C.Case,“FusionTechnology”,20, 478 (1991); Proceedings of ICCF-6, 1998, Vancouver, Canada; see also [23].
+[46]P.L.Hagelstein,M.C.Mckubre,D.J.Nagel,T.A.Chub,andR.J.Hekman,“NewPhysical EfectsinMetalDeuterides”,submitedtoDOEforareview,July204,andreferences therein.This report was posted December 1, 2004 at the DOE website:http://www.sc.doe.gov
+[47] See experimental papers in the Proceedings of the 10th International conference on Cold Fusion (ICCF-10), 2003, Cambridge, Massachusets.
+[48 E.Storms,“WhyColdFusionHasBenSoHardtoExplainandDuplicate”,TheAPS Conference, March 3-7, 2003, Austin, Texas.
+[49]D.LetsandD.Cravens,“LaserStimulationofDeuteratedPaladium:PastandPresent,” Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[50] S. Szpak, P.A. Mosier-Bos,J.Dea,andF.Gordon,“PolarizedD+/Pd-D2O System: Hot Spots and ‘Mini-Explosions’”, the Procedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[51] S. Szpak, P.A. Mosier-Bos,M.H.Miles,andM.Fleischman,“Thermal
+Behavior of Polarized Pd/D electrodes prepared by co-deposition”,ThermochimicaActa
+410, 101 (2004).
+[52] M. McKubre et al., Italian Physical Society Proceedings 70, 3 (2000) for ICCF-8, 2000,
+Lerici (La Spezia), Italy.
+[53]G.H.Miley,etal.“Quanitativeobservations of transmutation products occuring in thin-film coatedmicrospheresduringelectrolysis”,inSixthInternationalConferenceonColdFusion, Progress in New Hydrogen Energy. 1996. Lake Toya, Hokkaido, Japan: new Energy and Industrial Technology Development Organization, Tokyo Institute of Technology, Tokyo, Japan; Proceedings of ICCF-10, 2003, Cambridge, Massachusetts.
+[54] D.S.Silver,J.Dash,andP.S.Kefe,“Surfacetopologyofapaladium cathodeafter electroylsisinheavywater”,FusionTechnol. 24, 423 (1993).
+[55] Y. Iwamura et al., Japan Journal of Applied Physics, 41, 4642 (2002); Proceedings of ICCF- 10, 2003, Cambridge, Massachusetts.
+[56]S.E.Jones,etal.,“Charged-particleEmisionsfrom MetalDeuterides”,Procedingsof ICCF-10, 2003, Cambridge, Massachusetts.
+[57]S.E.Jones,etal.,“NeutronEmisionsfrom MetalDeuterides”,ProcedingsofICCF-10, 2003, Cambridge, Massachusetts.
+[58] P. Levitz, G. Ehret, S.K. Sinha, and J.M. Drake, J. Chem. Phys. 95, 6151(1991).
+
+[59] J. Fricke and A. Emmerling, J. of Sol-Gel Science and Technolgy 13, 299(1998).
+[60] http:// www.cabot-corp.com
+[61]LaikaMenon,“NanoaraysSynthesizedfrom PorousAlumina,”Dekker Encyclopedia of Nanoscience and Nanotechnology, pp. 2221-2238 (2004), Marcel Dekker, Inc., New York, NY.
+[62]R.W.Pekala,etal.,in“SolGelScienceandAplications”,editedbyY.A.Atia(Plenum Press, New York, 1994), p. 369.
+[63] MRS Bulletin, December 2000, p. 10; http://www.pocofoam.com
+[64]Y.E.Kimetal.,“ProposalforNewExperimentalTestsoftheBose-Einstein Condensation Mechanism for Low Energy Nuclear Reaction and Transmutation Processes in Deuterium Loaded Micro- and Nano-ScaleCavities”,ProcedingsofICCF-11, 2004, Marseilles, France.

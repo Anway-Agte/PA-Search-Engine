@@ -1,0 +1,130 @@
+1. Experimental 
+
+The experimental layout consists of a small (8.5 cm3) electrolytic cell with an anode made 
+of a Platinum sheet and a cathode made of a Pd stripe sputtered on an inert surface. The cell 
+is filled with 5.5 ml of 10-4 M LiOD solution. Electrolytic currents in the range 2 - 10 mA 
+were used to load Deuterium into the Palladium lattice. The cell is equipped with a Peltier 
+element in good thermal contact with the Pd cathode in order to record a possible unbalance 
+between the power electrically dissipated into the cell and the power detected. A detailed 
+description of the experimental layout and of the cathode loading technique has been given 
+elsewhere [5], [6]. 
+
+The gas mixture evolving from the cell contains mainly O2 and D2 with a very small 
+amount of 4He. In such conditions the helium analysis by mass spectrometry has posed 
+numerous special problems. The risk of contamination, too, has required special care. To 
+overcome these problems, an innovative “pseudo-static” gas analysis method has been 
+developed. Non evaporable getter (NEG) pumps remove effectively all the non inert 
+components of the gas mixture (especially hydrogen isotopes), whereas noble gases remain in 
+the gas phase. This technique allows us to analyze easily the content of inert gases in the 
+sample as well as to monitor for contamination by comparing the time evolution of different 
+noble gases. We have found it is necessary to avoid cryosorption pumps, as they trap helium 
+erratically in the condensates. 
+
+Furthermore, the particular arrangement used in our experiments allows us to sample 
+periodically the gas during the loading phase, without perturbing the electrolytic process at 
+all. 
+
+During the measurement, the gas is periodically sampled (at about 40 minute intervals), 
+without influencing the electrolytic process, and sent to a Quadrupole Mass Analyser 
+(QMA); this allows us to check in real-time the 4He content of the electrolytic cell.  
+
+In order to have a reference value (a blank experiment) we started the electrolysis 
+keeping the electrolytic current to a very low value (2 - 4 mA) for some hours leaving thus 
+the D/Pd systems “under-critical” at x < 1. We  then increased the cell current and 
+consequently the longitudinal voltage, to about 20 Volts. The R/R0 ratio fell below the value 
+
+1.3. That corresponds, according to the well known R/R0 vs. x curve, to x=1. That, and the :
+excess heat detected in the calorimeter within its response time, signal the onset of the 
+phenomenon. Since we are able now to count the 4He atoms over intervals as short as 40 
+minutes we can check the coincidence of excess heat production and 4He generation. 
+
+
+2. Results 
+
+During a typical experiment we can distinguish four phases (see Fig.1):  
+
+Preloading phase. During this normal electrolysis phase, the output power Pout 
+coincides with the power Pin supplied by the electrolytic current, the number of 4He atoms is 
+compatible with the background value of the detector. At this time the cold fusion 
+phenomenon is absent and these measurements exclude the existence of systematic errors or 
+artefacts. 
+
+Loading phase. The application of an electrical potential across the cathode makes 
+possible to increase the Deuterium loading over the threshold necessary to observe the 
+phenomenon. 
+
+Supercritical phase. Upon crossing this threshold, “anomalies” appear in the 
+system, namely: a) the temperature of the cathode increases above the previous equilibrium 
+value, signalling a source of enthalpy in the cell; b) a significant deviation of 4He from the 
+baseline is observed from this time onwards 
+
+Control phase. After some hours of cell operation, the cathode potential Vc is 
+switched off: both anomalies a) and b) disappear. 4He yield settles back to the initial zero 
+value, excluding that leakages or permeations have occurred.  
+
+
+3. Conclusions 
+
+We have observed 4He production during electrolysis in LiOD solution on a Palladium 
+cathode a factor of about 60 times out of the baseline. Simultaneously, an anomalous 
+enhancement of the temperature measured in the cell was detected. Our calorimetric 
+technique (measuring the average cathode temperature measurement) requires that the system 
+be at thermal equilibrium (or in a succession of thermal equilibrium states). Non thermal 
+(radiative) part of the energy produced in the phenomenon will not be accounted for by the 
+temperature transducer (the Peltier element) if it thermalises out of the cell. Thus, we are able 
+to estimate, at the present time, a lower bound for the produced energy. 
+
+The experiments performed so far suggest the following conclusions: 
+
+1. The reported production of excess heat and helium demand the overcoming of a 
+critical threshold of D concentration in Pd. 
+
+2. The demonstration of the presence of 4He provides evidence that a nuclear 
+process occurred in the cell; a nuclear reaction is therefore obtainable by 
+chemical procedures. 
+
+3. Thermal calorimetry can demonstrate the presence of a small amount of excess 
+heat although the only high precision  calorimetry would be based on a 
+quantitative evaluation of the  4He. 
+
+The above results fit quite well into the theoretical proposal  based on standard 
+Quantum Electrodynamics (QED) [7]. We summarize here its main predictions:   
+
+1. when the stoichiometric ratio x = D/Pd exceeds 0.7 (at room temperature) D 
+nuclei (deuterons) enter a stationary coherent oscillatory state, whose phase 
+is sharply defined. This state is described by a unique wave function and is 
+able to respond to externally applied electric potentials (and not only to their 
+gradients). 
+
+2. when x exceeds 1, the probability that oscillating deuterons reach a distance 
+that might allow the fusion becomes appreciable. As a matter of fact this 
+threshold is not easily reached and this accounts for many of the failures in 
+trying to reproduce the effect. 
+
+3. the fusion among deuterons occurs in a plasma within a medium and not in 
+vacuo. Thus energy and momentum can be shared among many components 
+of the condensed system, allowing in principle a fast cooling of the “hot” D-
+D compound nucleus preventing its splitting. Consequently 4He should be 
+expected to be the final product of this newly discovered nuclear fusion.  
+
+In the next stage of the experiments we will try to address the difficulties of thermal 
+calorimetry with the aim of capturing a larger fraction of the excess enthalpy as indicated by 
+the “helium” calorimetry. 
+
+
+References 
+
+1.  McKUBRE et. al, Proc. Of Third International Conference on Cold Fusion, “Frontiers of Cold fusion”, 
+Nagoya, Japan: Universal Academy Press, Inc. Tokyo, Japan 1: p.5 (1992) 
+2. Y. ISOBE, K. YABUTA, S. UEDA, A. TAKAHASHI,  Jpn. J. Appl. Phys., Vol.41 pp.866-870,(2002) 
+3. Y. ARATA, H. FUJITA, Y. ZHANG, Proc. Of The Japan Academy, vol.78, Ser. B, No. 7 (2002) 
+4. T. BRESSANI, E. DEL GIUDICE, G. PREPARATA, Nuovo Cim. 101A,  845,(1989) 
+5.] A. DE NINNO, A. FRATTOLILLO, A. RIZZO, E. DEL GIUDICE, Proc. Of  ICCF9, Beijing 2002, p. 
+6. A. DE NINNO, A. FRATTOLILLO, A. RIZZO, E. DEL GIUDICE, G. PREPARATA, ENEA Technical 
+Report, RT-2002/41/FUS 
+7. G. PREPARATA, “QED Coherence in Matter”, World Scientific, Singapore 1995, Ch. 8 
+
+Figure  1 (a) 4He content of the gas mixture inside the storage volume, (b) excess power PHe derived from 
+helium yield assuming that  24 MeV are released for each helium atom and (c) average excess 
+calorimetric power PC in the experiment described in the text. The data are shown as a function of 
+time allowing to check the coincidence.  

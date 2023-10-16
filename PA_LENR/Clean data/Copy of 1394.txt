@@ -1,0 +1,289 @@
+1 Introduction
+
+Despite the enormous increase of work in the study of the PdHx system in the last few years, there has not
+been (to our knowledge) a systematic study of heat capacity of the PdHx system at loading ratio in the range
+0<x<0.93 at room temperature. The present work is addressed to the measurement of such a quantity. It is
+possible to define a “molar” heat capacity PdH x
+C as the ratio:
+
+Total heat capacity moles of Pd PdHx C = (1.1) 
+
+without entering in the subtle issues raised by this problem; the present work will be kept on an eminently
+experimental ground.
+
+Our measurement was made possible by the availability of a method for loading and keeping charged a thin
+Pd wire for a long time [1-3]. The method relies on an electrolytic procedure (based on Sr and Hg deposition
+on the Pd cathode) able to reach high loading ratio ([H]/[Pd] 1). The samples used are Pd wires 50 mm
+diameter, 10 cm length Pd wire. The stability of the loading is guaranteed by the presence of a thin Hg layer
+(typically a few mm) electrolytically deposited on the Pd wire surface. Depending on the Hg layer thickness
+we are able to obtain a totally blocked or slowly deloading wire (<10% deloading in one day).
+
+Due to the smallness of the sample, when measuring heat capacity we are faced with two main problems:
+
+1. devising a reliable method for measuring wire temperature
+
+2. avoiding large heat leakage from the sample.
+
+We have solved these difficulties by measuring the time variation of the wire temperature due to step-wise
+current pulses by monitoring the electric resistance.
+
+Heat leakage from the sample due to the presence of air has been reduced by placing the wire sample inside a
+vacuum chamber (pressure ~ 60 mTorr) and soldered to two vacuum-tight electrodes kept at ambient
+temperature. We have verified that, in this pressure range, residual leakage is significantly reduced.
+Heat capacity has been measured at several loading ratios. This has been accomplished by progressively
+deloading a highly loaded Pd wire ( x ; 1), either by spontaneous deloading (especially at high loading
+ratios) or by a suitable heating of the wire obtained by current pulses.
+
+
+2 Temperature measurement
+
+The loading ratio was estimated by measuring the electrical resistance of the wire [4].
+The relation between resistance and temperature is
+
+0
+( , ) ( )(1 ( ) ) R T
+x T R x x T  
+(2.1)
+
+The measurement of the thermal coefficient of resistance ( )
+T a x was performed at several loading ratios in
+the range 0  x < 0.97 and on different wires by measuring the wire resistance (using a four wire method) at
+three different temperatures (15°C, 25°C and 35°C) at fixed loading ratio. This was accomplished by placing
+the wire in a sealed container into three different water heat baths. The obtained results are summarized in
+Figure 1.
+
+Data are consistent with available data in the literature [5, 6] and confirm the validity of equation (2.1) in the
+range 0  x < 0.97 . It is worth noting that the presence of the Hg layer (~2mm), on the Pd surface, does not
+alter significantly the measured resistance values since its resistivity (~10
+-6 W m) is much larger than that of
+Pd (~10
+-7 W m) and the cross section ratio is ~6·10
+-3
+.
+
+Figure 0: Thermal coefficient of resistance as a
+function of hydrogen loading
+
+
+3 Physical model of the wire
+
+The temperature distribution along the wire due to
+Joule heating cannot be uniform because the wire
+ends are kept at room temperature. Therefore it is
+necessary to develop a physical model that
+accounts for spatial dependence of the wire
+temperature. The model is based on the following
+assumptions:
+
+- the wire is homogenously loaded with
+hydrogen,
+
+- the radial temperature gradient on the wire is
+negligible.
+
+These assumptions lead to the following partial
+differential equation (see [7]):
+
+LK x t C x t G R I T x t R I G T x t           (3.1)
+
+where T (x, t) is the wire temperature at position x at time t,
+T
+K is the longitudinal thermal conductivity of
+the PdHx wire, GT
+is the transverse thermal convection coefficient, I is the current across the wire,
+amb
+T is
+the ambient temperature, L is the wire length and T
+C is the total heat capacity of the wire. Please note that
+the radiative contribution to the dissipation power is neglected due to its smallness with respect to the
+convection term.
+
+Being the heat capacity of the connectors holding the Pd wire much larger than CT
+, we are allowed to fix the
+spatial boundary conditions of the problem as
+,
+2
+amb
+L
+T t T
+Ë  Û 	
+Ì Ü
+Í Ý
+. (3.2)
+
+Besides, the initial condition is given by the steady state of the wire traversed by a constant current
+0
+I present
+prior to the pulse i.e. the stationary solution of (3.1) for
+0
+I I 
+
+. The solution of the analytical problem is
+addressed in [7] where T (x,t) is calculated. Then the wire resistance R(t) as a function of time (the actual
+physical measured quantity) is given by the spatial integral: 
+
+( ) 0 2 1 0 0 0 0 1 2 2 2 ( ) (1 ( , )) 1 exp 1 2 1 L n T n n n n T I L n T n R R t R t T x t dx R L C L n                  Î Ë Û Þ Ï Ì Ü ß Ð Í Ý à × Ê (3.3) 
+
+where 0 RI is the steady-state wire resistance when a current 0 I is passing through the wire, 
+
+( ) ( ) 2 0 1 2 2 2 0 2 2 ( 1) 1 , (2 1) 2 1 n n amb T n T T L R I T n K C G R I n L b a p t a p    = - + - = - + - Î Þ Ï ß Ð à (3.4) 
+
+and 0 0 and n n   are obtained by the substitution 0 I  I in (3.4).
+
+It is possible to show that to a good approximation only the first two terms in the sum of eq. (3.3) give a
+significant contribution in our experimental conditions.
+
+
+4 Experimental setup
+
+The experiment consists in a wire suspended inside a vacuum chamber and connected through vacuum-tight
+connectors to a current generator (ELIND
+500KL2,4/6). Three digital multimeter
+(Keithley2000) measure the voltage across the wire,
+the current through the wire and the ambient
+temperature by means of a Pt100 thermoresistance.
+A computer at a rate of 5-10 samples/second
+continuously acquires data. The PC also controls the
+current generator via GPIB and stores the data on a
+file for further elaboration. The vacuum chamber is
+continuously evacuated by a rotative pump and it is
+maintained at a constant pressure of ~60 mTorr.
+This procedure is necessary in order to reduce heat
+leakage through the surface of the wire that would
+otherwise considerably reduce the accuracy in the
+estimation of CT
+. Secondly the time constant of the
+system is also increased to a suitable level for the
+available sampling rate.
+
+Figure 2 Heat capacity per mole of Pd of the PdHx
+system as a function of hydrogen loading
+
+
+5 Results
+
+The best estimation of CT
+has been computed as the weighted average over about 10 different current steps.
+
+Please note that the loading ratio was not affected by the current steps used in the measurement since
+restoring the current to the initial value the resistance returned to the initial value.
+
+The only unknown parameters in our system (eq. (3.1)) are , CT KT
+and GT
+and have been estimated
+numerically by fitting the data with the least squares method.
+
+The actual function used in the fitting procedure is the simplified expression for the wire resistance as a
+function of time given by the first two terms of the sum in equation (3.3), whose analytical expression is
+
+0
+1 2
+1 2
+( ) 1 exp 1 exp I
+t t
+R t R A A      Ë Ë ÛÛ Ë Ë ÛÛ
+Ì Ì ÜÜ Ì Ì ÜÜ
+Í Í ÝÝ Í Í ÝÝ
+(5.1)
+
+where
+0
+I
+R is the wire resistance before the current pulse while the coefficients 1 2 1 A , A , ! and 2 "
+have a well
+defined dependence on the system parameters
+2
+.
+
+The goodness of the measurement and, in particular, the validity of the assumptions at the basis of the
+theoretical model, have been tested by measuring the heat capacity of pure Pd and Pt wires in the same
+conditions. The values found are consistent with the well-known published data
+3
+.
+
+The value of CT
+obtained by fitting the data is not the heat capacity of the PdHx but rather the total wire heat
+capacity and is the sum of two contributions:
+
+x
+CT CPdH CHg
+= + (5.2)
+
+where
+x
+CPdH
+is the heat capacity of PdHx system and CHg
+the heat capacity of the Hg surface layer. Two
+different methods have been used for the estimation of CHg
+:
+
+1. evaluation of the quantity of Hg deposited on the wire by measuring directly the Hg thickness by
+means of SEM images;
+
+2. comparison of the CT
+value of PdHx=0 sample covered with Hg layer with the CT
+value of a pure Pd
+wire.
+
+The two methods give consistent results within the accuracy of the overall measurement
+4
+. In order to avoid
+the trivial dependence of
+x
+CPdH
+from the size of the sample, we have defined a specific heat capacity:
+
+( ) ,
+PdH
+Pd
+x
+C
+C x
+n
+= (5.3)
+
+where Pd
+n is the number of Pd moles in the sample.
+
+In Figure 2 are represented the measured C(x) of three different wires
+
+
+6 Conclusions
+
+The striking feature of Figure 2 is the rapid variation of C(x) around x ; 0.7 . Such a behavior of the heat
+capacity suggests the existence of a phase transition. This hypothesis is supported by the observation that a
+similar trend is shared by other physical quantities like the thermal coefficient of resistance aT
+(measured in
+the present work, Figure 1), resistivity [4, 6], superconducting behavior [8], Hall coefficient [9], diffusion
+coefficient [10] and volumetric dilatation coefficient [11]. Moreover, the existence of such a phase transition
+has been recently predicted by a theoretical model [12, 13].
+
+As a final remark, as previously observed, also KT
+and GT
+are determined by the fit. Although KT would be
+a significant quantity, characteristic of the PdHx system, unfortunately its determination is affected by very
+large error bars. Lastly, the parameter GT
+is not relevant because it is not an intrinsic characteristic of the
+PdHx system. In facts it depends on residual pressure and on geometrical configuration of the experimental
+setup.
+
+
+8 References
+
+[1] F.Celani et al, submitted to Phys. Lett. A ,(preprint: http://wwwsis.lnf.infn.it/pub/LNF-00-006(P).pdf).
+[2] F.Celani et al, , Proceedings of ICCF8, pag 181.
+[3] A.Spallone et al, , Proceedings of ICCF8, pag 191.
+[4] D. Azzarone, D. Garbelli, F. Fontana, Proceedings of 4
+th
+Asti workshop on Anomalies in
+Hydrogen/Deuterium loaded Metals, ed. W. J. M. F. Collis (1999).
+[5] J.C. Barton, F.A. Lewis and I. Woodward (1963), Trans. Faraday Soc. 59, 1201.
+[6] P.Tripodi et al., Phys. Lett. A., 276, 122-126 (2000).
+[7] D.Garbelli, G.Piana, L,Gamberale, submitted to Phys. Lett A .
+[8] B.Stritzker, H Wulh, Hydrogen in Metals I, Cap 6, vol 28, Topics in Applied Physics
+Springer-Verlag Berlin-Heidelbeerg (1978)
+[9] R. Wisniewski, A. J. Rostoscki, Phys.Rew B3, 2 251-252(1971)
+[10] F.Taddei, Thesis, “Analisi teorica del sistema palladio idrogeno”, Università degli studi Milano-1995 (in italian).
+[11] B.Baranowsky, S. Majchrzak and B.Flanagan, J.Phys.F.,vol.1, 258,(1971)
+[12] G.Preparata, QED coherence in matter, World Scientific (1995)
+[13] G.Preparata, M.Cola; E.Del Giudice, A. De Ninno, Proceedings of ICCF8, pag 349

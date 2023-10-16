@@ -1,0 +1,586 @@
+1. Introduction
+
+Since 23 March 1989, when Stanley Pons and Martin Fleischmann 
+startled the scientific world with the announcement of sustained nuclear 
+fusion in an electrolysis cell using heavy water electrolyte and palladium 
+electrodes, controversy worthy of Heisenberg's philosophy has raged. 
+
+Proponents of this new discovery have determinedly advanced experimental 
+research and in many instances have achieved significant and remarkably 
+encouraging results. Opponents have consistently discounted these results 
+as errors in experimental technique and interpretation. This is peripheral 
+controversy. 
+
+More significant are the substantive criticisms that there 
+is; 
+1) no theoretical basis for the reaction, 2) no experimental 
+repeatability, 
+3) no neutron product from branching reactions, and 
+4) 
+no neutron or other radiation from secondary reactions. 
+
+These negative arguments are helpful in that they identify reasonable 
+scientific concerns and thus define basic questions that must be answered 
+positively. This paper addresses these questions. In response to: 
+1) it 
+proposes that the Coulomb force of absorbed deuterons crowds those near 
+the center of the palladium cathode to nuclear fusion; 
+2) it suggests 
+from the mechanics of 1) a sufficiently comprehensive understanding will 
+evolve to explain already reported experimental results and to guide future 
+experiments; 3) it argues that the kinetic energy of the nuclear reaction 
+is so low and the Coulomb repulsion of the protons so high that one or 
+the other deuteron decomposes into a neutron and a proton before the 
+nuclei are close enough to fuse, the neutron suffering no repulsion and 
+continuing on to fusion with the surviving deuteron while the energy of 
+the reaction is carried away by the proton; 
+and 4) it maintains that the 
+low kinetic energy of nuclei in the neighborhood of fusion essentially 
+represses secondary product nuclear reactions and that the only subsequent 
+reaction is the decay of tritons to helium 3 nuclei. 
+
+Simply put, cold fusion occurs when deuterons produced by 
+electrolysis absorb into the palladium cathode where accumulation 
+ultimately crowds those near the center of the cathode to [d-d] nuclear 
+fusion. The primary product of the reaction is excess heat; a secondary 
+product is B radiation from the decay of tritium. Other possible reactions 
+are suppressed by the fusion environment. 
+
+More explicit explanations 
+follow. 
+
+Of particular interest may be the theoretical construct for 
+crowding fusion, the postulated mechanics of the nucleonic conduction 
+property of metals (viviance), 
+and the logical extension of the 
+Mayer/Jensen Shell Model of the nucleus to develop an Alternate Model 
+to the generally accepted Standard Model. 
+651 
+
+
+2. Theoretical Construct 
+
+A space enclosed by a source of kinetic deuterons accumulates 
+deuterons until in equilibrium with the source. Theoretically, a threshold 
+can be reached where deuterons crowd to fusion near the center of the 
+space. 
+
+The construct envisions a hypothetical fusion cell in which a 
+sustained envelope of deuteron plasma concentrates deuterons inward 
+toward fusion. 
+
+Fusion diameter, charge volume (C), viviance, and charge 
+time are formulated for the threshold of fusion. 
+
+The special case of a spherical source of diameter D0 simplifies 
+description of the physical mechanics of the cell. 
+
+A constant charge; 
+Q0 = N0 deuterons, (= N0 x e+ in esu), (1)
+is assumed to be uniformly distributed about a spherical surface of diameter 
+D0 as shown in Figure l(a). 
+
+Deuterons emanate from the source until
+the plasma charge Qi within the sphere is in equilibrium with the source 
+charge Q0• 
+Since the charge at the center of the sphere must be zero, 
+the internal charge along any diameter ranges, from q0 to zero to q0,
+as shown in Figure l(b}. 
+• • • 
+0 • 
+0 
+(a) 
+0 
+• • • o 
+o 
+0 
+I
+0 
+o 
+0 
+0 
+I 
+O 
+0 
+·•oq_ 
+0 
+- - -o -- - 0-- •+o-- --
+·. ·1·
+0 i:
+°i •• :
+0 
+(b) 
+0 
+0 0 . 0 
+0 
+0 
+I! I 
+O 
+0 
+0 
+0 
+0 0 0 0 • 
+0 
+(de teron) 
+Figure 1. Theoretical construct. 
+
+The effective charge at 
+any 
+concentric 
+spherical 
+boundary (di < Do) within the 
+plasma is; 
+(2) 
+and 
+the 
+number of 
+charge 
+elements ni in that charge is; 
+(3) 
+The charge elements of cross 
+sectional 
+area 
+Ae 
+are 
+uniformly 
+distributed. 
+about 
+the spherical area Ai; where, 
+Ae = 1't(de)2/4, 
+and 
+Aj = 7C (dj)2. 
+(4) 
+(5) 
+When 
+the 
+product 
+of 
+the 
+number 
+of deuterons ni and 
+the cross sectional area 
+of 
+the 
+deuteron 
+Ae equals or 
+exceeds the spherical surface 
+area 
+Aj 
+fusion may occur; 
+i.e. when, 
+652 
+From (3) and (5) the diameter df and the number nt of fusion 
+elements in terms of the diameter of the deuteron de are, 
+df = (de)2No/4Do, 
+nt = 4df2/de2· 
+(7) 
+(8) 
+From the logic of these arguments and equations the theoretical 
+conclusion is drawn that; Fusion of deuterons will occur about the center 
+of a spherical space bounded by a constant deuteron charge supply source 
+Q0 when that source exceeds the internal charge element storage capacity 
+Qj of the space. This is consistent with Coulomb's Law and simply stated 
+is; Crowding Fusion is, f (constant charge source), f(fini te charge space) 
+when, 
+Qo<Do)2   q/dt)2' 
+(9) 
+where qf is the fusion charge and d
+f is the diameter of fusion. 
+
+Fusion will occur when, 
+From (12) the critical diameter of fusion for nt deuterons is, 
+(FUSION DIAMETER) 
+df = (nfde2)1/2. 
+(11) 
+The distance separating deuterons Ai has a rate of change with 
+respect to diameter di that is proportional to X. • 
+Thus, the number of 
+deuterons nd across the diameter D0 is, 
+where the distance between deuterons at source Q0 is >.. 0; 
+and the 
+distance between deuterons at df <>-t> is de· 
+Since df and de are (lo-5 x ). 0) or smaller,
+(13) 
+The approximate number of deuterons nt to charge the volume to fusion 
+is then, 
+(CAPACITY) 
+(14) 
+Q0 supplies a constant deuteron charging current called j for 
+convenience. The transfer function relating it to the sustaining current 
+i0 of the ionizer; 
+i.e. the liveliness or viviance of diffusion of the 
+deuteron in the charge medium, is designated by the symbol µ where, 
+(VIVIAN CE) 
+µ = j/io· 
+653 
+It is convenient to measure j in amperes since the ionization of one 
+deuteron o+ in the source removes one electron e from the source. 
+
+Then the charge time to fusion tf is, 
+(CHARGE TIME) 
+(16) 
+This analysis can be extended to any charge medium of any shape 
+that is within a closed charge source. Of particular interest at this time 
+are palladium (Pd) cathodes of cold nuclear fusion electrolysis cells. 
+
+
+3. Viviance
+
+Accumulated absorptivity of energy and matter crowds deuterons to 
+cold fusion. 
+
+This requires, 
+1) a sustained source of kinetic deuterons, 
+2) a field for inward drift of absorbed deuterons, and 
+3) the cathode
+bulk property of nucleonic conductance or viviance. 
+
+The adsorptive
+kinetics of. charge Q0 enveloping the cathode surface of the cold fusion
+cell; 
+1) sustain a source of kinetic deuterons, a sm.all fraction of which
+penetrate the cathode, and 2) develop back voltage E0 which establishes
+a · positive absorptive field gradient. 
+
+The reversible formation and
+dissociation of palladium deuterides 3) provides the mechanics of. viviance.
+
+Adsorption kinetics at the cathode surface create an ionosphere of 
+randomly moving low. meV deuterons. 
+
+Most capture electrons and escape 
+the electrolyte as deuterium gas or scatter as they collide with the 
+cathode surface. A few with direction of travel either parallel (- 1 ° of 
+arc) to a crystal plane or coincident (- 0 .3 ° arc) with a crystal channel 
+penetrate the cathode. 
+
+Repulsion of the nuclei of the crystal tends to 
+confine these to the open space of the plane or channel. 
+
+They may 
+travel several hundred lattice layers into the crystal before being absorbed. 
+
+The size of the deuteron relative to other molecules, atoms, and ions 
+present in cell electrolysis, also contributes to the depth of penetration. 
+
+Scale in Angstroms (10-8 centimeters) 
+1 
+3 
+5 
+7 
+9 
++ 
+(+) 
+I I I I I I I • I I I I 
+*D+ diameter approx. 10-13cm.
+
+Figure 2. Size of molecules, atoms, and ions in cell electrolysis. 
+
+The systematic conditions existing at any moment in a single metal 
+crystal with at least one surface exposed to a deuterium ionosphere 
+include ions, atoms and molecules of deuterium and deuterides of the 
+metal. The electrostatic charge of an individual single crystal is equal 
+654 
+to the totality of charge of the ions extant in the crystal at that moment. 
+
+These conditions maintained; 
+1) this charge increases until it reaches 
+equilibrium with the surface charge of the crystal and 2) detiterides 
+ultimately form at all vacancies and at the boundaries of the crystal 
+where incompleteness of crystal structure abound. In summary the single 
+metal crystal might be characterized as a temporary electrical storage cell. 
+
+This systematic description of a single metal crystal is inadequate 
+to describe the characteristics of the bulk metal. 
+
+The composition of 
+metal is grains of polycrystalline structure. This polycrystalline structure 
+is schematically illustrated in Figure 3. 
+metal 
+grains 
+polycrystalline 
+grain 
+Figure 3. 
+
+Polycrystalline/grain/bulk metal structure. 
+
+The typical grain 
+structure 
+of metals 
+results 
+from 
+uneven 
+solidification. 
+
+Individual grains are seldom perfect single crystals. 
+
+Generally numerous crystals of random orientation commence growth as 
+solidification begins. 
+
+A polycrystalline mass forms as these grow into 
+one another. 
+
+Disorder and structural incompleteness abound along 
+crystalline boundaries within the polycrystalline mass. Deuterides of the 
+metal may form along these boundaries, grain boundaries, and at other 
+sites of structural incompleteness or irregularity. 
+
+Further, there is 
+adequate open space within the arrangement of atoms in palladium to 
+accommodate deuterons and/or deuterium as interstitial impurities. 
+
+Deuterium exhibits almost metallic properties in alloy like deuterides, 
+is partly positive in character and can act as a connecting bridge be ween 
+metal atoms. Interstitial deuterons may expand the crystal structure and 
+can change the phase of the structure. In palladium the deuterides may 
+take several distinct phases Pd2nDn where n is not necessarily an integer.
+655 
+Pd2nDn may be explained as a co-ordination compound; i.e., atoms
+that are united by co-ordinate bonds or valences in accordance with 
+Werner's Co-ordination Theory. 
+
+The mechanism of these bonds relies on 
+the metallic like properties, small size, and positive charge of the deuteron 
+to attract electrons from neutral palladium atoms which have unshared 
+electrons. The maximum number for the deuteron as the central ion in 
+the co-ordinate compound is 2. Thus the deuteride Pd2D forms as,
+Pd·D·Pd. 
+
+The deuteride Pd4D2 forms about the deuterium molecule as, 
+Pd.
+
+Pd 
+D·D 
+Pd
+0 
+0Pd. 
+
+Formation of Pd2D and Pd4D2 is enhanced by the square planar complexes 
+formed by covalent complexes of bivalent palladium which configure the 
+four corners of the square coplanar with the central ion. 
+
+All palladium 
+compounds are easily decomposed and these deuterides are particularly 
+unstable. Dissociation of palladium deuterides is reversible. 
+
+When thermal activation or kinetic disturbance causes a deuteride 
+to dissociate deuteron(s) leave behind a negative lattice site and become 
+conducting particle(s) free to drift in the electric. field of the lattice. 
+
+The typical drift path is erratic, being continually interrupted by collisions 
+which the deuteron makes with the atoms of the lattice, with other 
+deuterons, atoms and molecules of deuterium, etc. However, the average 
+of deuteron drifts in the presence of cathode overvoltage E0 is inward 
+toward the center of the cathode. The vacated negative lattice site(s) 
+becomes available as temporary store for other deuteron(s) spent of kinetic 
+energy. This transfer function is the conductive mechanism of viviance; 
+the nucleon is the conducting particle, the fixed lattice sites the 
+conducting medium, and the cumulative absorbed kinetic energy the work. 
+
+The argument is advanced that natural thermal dissociation of 
+deuterides at polycrystalline and grain boundaries and at other crystal 
+lattice imperfections is accelerated by kinetic encounter with newly 
+arriving deuterons. This releases secondary deuterons to further propagate 
+within the crystal. These nucleons tend to be repelled from crystals of 
+higher positive charge toward neighbor crystals or grains of lesser charge 
+and to drift along boundaries in the general direction of the field gradient 
+of E0• Thus nucleon mobility, the interstitial capacity of the individual 
+crystal to absorb nucleons, and the pathways of metallic boundaries to
+the interior of the metal are the operative mechanics of viviance.
+
+Systematic absorption continues until the internal charge Qi is in
+equilibrium with the source charge Q0• Equilibrium may be reached before 
+deuterons crowd to fusion depending on individual characteristics of 
+palladium cathode specimens. 
+656 
+
+
+4. Alternate Model
+
+The fusion of nuclei is more easily visualized from the Alternate 
+Model (a logical extension of the Mayer/Jensen Shell Model) than from 
+the generally accepted Standard Model of the atomic nucleus. 
+
+The logic of the Standard Model constructs nucleons, protons (p) 
+and neutrons (n), from sub nucleon particles. 
+
+Simply explained, each 
+nucleon is constructed of three quarks (electric charges) bound together 
+by three gluons (carriers of the nuclear strong force). 
+
+According to this 
+model the atomic nucleus is a cluster or clump of nucleons bound together 
+by the nuclear strong force of gluons. 
+
+The logic of the Alternate Model constructs the neutron as the 
+complement of the hydrogen (protium) atom; 
+i.e., an electron captured 
+inside a proton. 
+
+The neutron's resultant internal electric field is the 
+nuclear strong force. 
+
+According to this model the atomic nucleus is a 
+concentrici ty of individual nucleon fields, each confined to a distinct 
+shell location by wave length and angular and spin momenta. The structure 
+conforms to the Pauli exclusion principle, the principles of quantum 
+mechanics, and with the exception of the protium nucleus is bound together 
+by the neutron(s) internal field(s). 
+
+Standard Model 
+Alternate Model 
+Figure 4. Models of the 
+atomic nucleus. 
+
+
+5. Crowding Nuclear Fusion
+
+Cold fusion in an electrolysis cell is a deuteron to deuteron [d-d] 
+reaction caused by Coulomb crowding. The products of the three possible 
+d-d nuclear reactions are: 
+1) [p + 3 HJ, 
+2) [n + 3 He], and 
+3) [4He +
+gamma ray]. 
+
+High energy deuteron fusion experiments have shown that 
+reactions 1) and 2) occur in about even proportions. 
+
+Reaction 3) is not 
+expected as it requires even higher energies to occur. 
+
+It is generally 
+assumed that reactions 1) and 2) should always produce a 1 :1 branching 
+ratio. 
+
+Reported neutron observations in cold fusion experiments are 10-9 
+to 10-6 of the expected product. 
+
+Hence, it is concluded the absence of 
+neutrons proves there is no nuclear reaction. This conclusion is specious. 
+
+Reaction 2) does not occur in cold fusion, therefore no neutrons should 
+be observed. 
+657 
+The interaction of the strong forces of the nuclei causes the nuclei 
+to fuse. 
+
+Fusion occurs when nuclei are crowded to within one nuclear 
+diameter of one another even though they possess no kinetic energy. The 
+[d-d] reaction in a crowded environment ( >..'- 10-12 cm.) is illustrated (in
+accordance with the Alternate Model) in Figure 5. 
+
+Two deuterons o+, 
+thermally activated, move toward collision at time t
+0• 
+Their kinetic 
+energies are small fractions of an electron volt. At time t_n+l the proton
+(clear) and the neutron (hatched) of each deuteron 
+are concentric about 
+a common center. 
+
+At some later time t_2 they remain centered, but the
+neutrons internal fields distort in reaction to the Coulomb repulsion of 
+the protons. 
+
+Later at time t_l one proton overcomes the neutron field 
+and breaks free of the common center. 
+
+At time t
+0 the overlap of the 
+neutron strong forces begin to draw the neutrons toward a common center 
+and the Coulomb repulsion of the two protons begins to move them apart. 
+
+By time t+l the triton has formed and begun to "settle in" and both it
+and the proton move apart with added kinetic energy from the fusion 
+reaction. 
+------- 0 
+0 
+p+ 
+----- o-
+T+
+i 
+t_2
+t_l 
+t 
+t+l 
+Figure 5. Model illustrating deuteron to deuteron fusion. 
+
+The Alternate Model is used for ease of illustration. 
+
+The same 
+results 
+can 
+be 
+demonstrated 
+using 
+the 
+Standard 
+Model 
+but 
+the 
+conceptualism lends to ambiguity. 
+
+The argument is that the inertial 
+velocity possible for thermally excited deuterons in the micro dimensions 
+of crowding precludes the collision of the proton components. 
+
+
+6. Conclusion
+
+It is concluded that the phenomena of cold fusion can and does 
+occur. 
+
+The reaction is a bulk effect. 
+
+The physical mechanics are simple; 
+almost primitive. 
+
+Accumulation of absorbed kinetic deuterons can cause 
+Coulomb crowding to reach [d-d] nuclear fusion reaction levels near the 
+658 
+center of high v1v1ance electrolysis cell cathodes. 
+
+Most transitional 
+metals (Ti to Ni, Zr to Pd, and Hf to Pt) exhibit viviance. 
+
+The VIIIA 
+metals Pd, Pt, and Ni in its f3 phase are unusually viviant. 
+
+Because of 
+the low kinetic energy of the fusing nucleons only the [d-d] > [p-t] 
+reaction occurs. 
+
+As a result the primary energy product is heat and the 
+primary radiation product is tritium decay. 
+
+The cold fusion cell is inherently small in size and power output as 
+a result of the micro dimensions of the reaction. 
+
+Large power sources 
+will require batteries of cells. 
+
+Any disadvantage from this should be 
+largely offset by flexibility of sizing and independence of location. 
+
+The 
+lack of neutron radiation has positive environmental impact when compared 
+to hot fusion reactions. 
+
+Naturally solidified metals are marginally suitable for fusion cell 
+experiments. 
+
+Cathode 
+metals 
+with 
+controlled 
+and 
+predictable 
+characteristics would accelerate experimental progress. 
+
+Cold fusion is one of the great discoveries of natural phenomena. 
+
+With it comes the potential to open new physical realms beyond just the 
+generation of energy. Much scientific credit is due Pons and Fleischmann 
+for this discovery. 
+

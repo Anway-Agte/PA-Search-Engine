@@ -1,0 +1,452 @@
+1. Introduction
+
+There are a large number of experiments that cannot be explained easily or at all by conventional nuclear physics theory.
+These include most experiments from the LENR community along with a number of others concerning radioactive
+decay rates and other anomalous phenomena ([7,8] and references therein). Physicists have largely disengaged from
+this subject, although many study it secretly late at night, the problem being frustration over how these experimental
+results can possibly be true. If one reads enough of the experimental literature though, one begins to ask the mirror
+question - How can these experiments all be wrong? I found myself on this path and tried about a dozen ideas to
+explain and reconcile this dilemma over a number of years. Slowly, I felt cornered into the theory presented here, and
+in previous papers [7,8]. My conclusion was, and still is, that the only way the experiments can be explained is if
+the nuclear rest masses of particles are somehow varying in those “nuclear active environments” where the reactions
+are occurring. But how could that be? Aren’t the rest masses fixed? Having been trained in theoretical particle
+physics, I knew that in relativistic quantum field theory, like the standard model of particle physics, the masses inside
+of Feynman diagrams – the “virtual particles” – can and do vary from their rest masses [50,49]. These particles are
+also called “off the mass shell” in the vernacular of particle physics for this reason. Actually, the standard model makes
+a very interesting prediction in this regard. It predicts that all interacting particles have some probability of being off
+the mass shell all of the time, even if the inter-particle interactions are very weak (just not exactly zero for all time).
+
+This conclusion follows from the fact that Feynman integrals, the building blocks of perturbative solutions to quantum
+ﬁelds, involve integrations over the masses of particles in loops and in the interior portions of the diagrams, and since
+all particles in our universe have been interacting with other particles since the beginning of time and will continue to
+interact, they are always at least slightly virtual. In order to explain LENR, quite large off-shell deviations are required,
+often in the MeV range. These have never been directly observed, or expected. Thus this must be viewed as a highly
+speculative idea. I’ve proposed this theory because I see no other way to explain the experiments of LENR. I want the
+reader to understand this, and that I am not claiming that mass variation is in any way proven. I shall make arguments
+in favor of it, but proving that nature works this way will depend on future experiments.
+
+Off-mass-shell behavior is an inherently relativistic effect. Usually it’s associated with hgih velocity motion. In
+ordinary matter at near to room temperature we expect that the velocities of the particles to be non-relativistic, since
+otherwise the matter would not be stable. The usual relativistic correction factor of γ = 1/√1 − v2/c2 can be safely
+set to 1. Nevertheless, we consider the possibility that the rest masses can deviate from their usual values in some
+special systems. Inside of a Feynman diagram, consider a virtual particle with a 4-momentum P µ. The velocity of the
+virtual particle (if it is timelike) can be taken to be |v| = c
+P µPµ (I use the time-like metric signature here
+(+, −, −, −)). So it is possible for a virtual particle to have a slow velocity, but still go off the mass shell, since all
+values for P µ are integrated over in the Feynman integral. Even though the motions of all the massive particles in a
+solid might be non-relativistic, we must still use a relativistic theory to examine this off-shell behavior. The laws of
+physics in a local Lorentz frame are Lorentz covariant to a high degree of accuracy (if we ignore curvature of space-
+time locally and gravity effects). The non-relativistic limit of the laws of physics, resulting in Galilean invariance, is
+only an approximation to this. So we should use a Lorentz-covariant theory, like the standard model of particle physics
+or quantum electrodynamics (QED), to study this sort of phenomenon. The problem is that this is very hard to do.
+We would prefer to use a relativistic wave mechanical theory, like Schrödinger’s non-relativistic equation, to describe
+it instead, But the standard relativistic versions of wave mechanics, like the Dirac equation, Klein–Gordon equation,
+Proca equation, Rarita–Schwinger equation, etc. are all unacceptable as many body quantum theories because either
+their energy is not bounded from below, or they have negative probability states, or both. The modern view among
+particle physicists is that only a quantum ﬁeld theory description is possible, and a wave mechanical particle description
+does not exist. Due to the complexity of the perturbation theory for the standard model in a solid, there exists no
+rigorous bound on how far the virtual masses can wander off-shell. Thus we are venturing into terra incognita, but I
+feel that the experiments require us to pursue this theoretical possibility.
+
+The difﬁculties with developing a relativistic wave mechanics can be understood very easily. Relativity theory says
+that space and time are coordinates in a 4-dimensional manifold, and that they mix linearly under Lorentz transforma-
+tions. So space and time are the same in some sense. But in quantum mechanics, time is a c-number parameter that
+precisely orders the evolution of causal history and events and therefore commutes with all the operators of the Hilbert
+space of quantum states, whereas the positions of quantum particles become non-commuting operators. So in quan-
+tum mechanics. time is very different from position. These two different requirements on the time variable produce
+lots of problems for relativistic quantum mechanics. The time variable is overloaded. This problem was recognized
+early on in the development of quantum theory, and a solution was proposed in the 1930s independently by Fock and
+Stueckelberg [13,47,46]. We discuss these theories more below.
+
+
+2. The Time–energy Uncertainty Relation and Variable Mass
+
+Some physicists might ask the following question.
+
+In a solid, where the velocity of the particles are non-relativistic, the energy of a particle is simply given by
+E ≈ mc2. But we expect an energy-time uncertainty relation of the form ∆E∆t ≈ ℏ, and therefore (taking c = 1)
+∆m∆t ≈ ℏ. If the particle is stable, so it is lifetime is inﬁnite, then we can take ∆t to be ∞ and consequently why is
+not ∆m ≈ 0, i.e. on the mass shell?
+
+Therefore, they expect weakly interacting particles to be always on the mass shell. This argument is reinforced
+by the fact that most of the time when we measure a particle’s mass in condensed matter it is on the mass shell. I
+believe that the experimental evidence in LENR suggests that in very rare and special nuclear active environments, the
+masses are varying unexpectedly, and so let’s examine the theoretical basis for this Heisenberg uncertainty argument a
+bit deeper.
+
+First of all, the Heisenberg uncertainty relation deals with the uncertainty for E, it says nothing about the expecta-
+tion value ⟨E⟩
+∆E =
+√⟨
+(E − ⟨E⟩)2⟩
+
+Second of all, the Heisenberg uncertainty relation is an inequality, and so for energy and time it would be
+∆E∆t ≥ ℏ/2
+
+and therefore, if ∆t = ∞ all we can say is that ∆E ≥ 0, which is not a very signiﬁcant result.
+
+Third, the origin of the Heisenberg uncertainty is the canonical quantization rule [p, q] = −iℏ, but time t in
+conventional quantum mechanics is a c-number which commutes with all the operators in the Hilbert space of states.
+Therefore the commutator[E, t] = 0. So how could there be a time-energy uncertainty relation? This unresolved
+question has occupied many articles over the years, a partial list being [5,3,6,9,26,43,36].
+
+Finally, there is no acceptable relativistic wave mechanical theory, and so we can’t even deﬁne a Hamiltonian or
+position operators covariantly for a many-body system.
+
+Consequently, I conclude that the Heisenberg uncertainty principle argument against variable masses in a con-
+densed matter setting are not conclusive or even relevant. We expect the nuclear active environment to be a non-
+equilibrium mixed-state quantum open system with complex morphology, unknown catalytic processes, and possibly
+with external electromagnetic ﬁelds, and proton, deuteron, and electron currents ﬂowing in the material. In other
+words, it is basically a perfect storm of complexity about which it is very difﬁcult to say anything with rigor and
+conﬁdence. One thing we can say for sure though, and that is that the energy–momentum tensor density is conserved,
+since this is a property of the standard model, or any other relativistic model we might consider. Consequently, even
+though the mass of a particular particle may change, this does not mean that energy is not conserved. Just as in the
+Feynman diagrams of relativistic perturbation theory where the particles are off shell, the total energy and momentum
+are always exactly conserved.
+
+
+3. Fock–Stueckelberg Covariant Wave Mechanics
+
+The idea of Fock and Stueckelberg was to add a second time variable and make the space ﬁve dimensional (for a single
+particle) [13,47,46]. Sometimes these are called historical-time or proper-time models. The theory was utilized by
+Feynman, Schwinger, and Nambu [11,41,34]. For example, Feynman used it to carry out his path integration approach
+to quantum mechanics for the Klein–Gordon equation [11]. This is the simplest example of a historical time theory.
+
+The usual Klein–Gordon equation is
+
+(i∂ − A)µ (i∂ − A)µ Ψ = −M 2Ψ,
+
+where M is the particle’s rest mass, and where A is the vector potential for an external classical electromagnetic ﬁeld.
+The conserved current is jµ = i [ϕ∗∂µϕ − ϕ∂µϕ∗], but j0 takes on both positive and negative values, and so it cannot
+be taken to be a probability current. Moreover, a localizable Schrödinger type position operator cannot be deﬁned for
+this equation in the sense of Newton and Wigner [35]. The idea is to add a second invariant time τ, and consider the
+modiﬁed Klein–Gordon equation
+
+i∂φ(x, τ)
+∂τ
+2 (i∂ − A)µ (i∂ − A)µ φ(x, τ),
+
+where x = {x0, x1, x2, x3}.
+
+It is very similar to the time dependent Schrödinger equation, but with the “historical time” τ replacing the usual time
+variable t, and with the four coordinates of space-time xµ replacing the usual three coordinates of space. Because
+of this, it is quite easy to formulate the path integral method for this system by following the same steps as used for
+the Schrödinger equation. Feynman points out that if Aµ does not depend on τ, then separable solutions exist so that
+φ(x, τ) = Ψ(x) exp(i 1
+2M 2τ) and ψ is the solution to the usual Klein-Gordon equation. Equations of this type were
+ﬁrst studied by Fock and Stueckelberg. The path integral solution includes all paths in space-time connecting two
+space-time points and parametrized by τ, with no restrictions on the path, so that off-mass-shell paths are included in
+the path integral solutions. This reﬂects the fact that Feynman diagrams contain virtual particles which are not on the
+mass shell. Horwitz and Piron [19–23] extended the theory to multiple particles. This theory is no longer simply a
+reformulation of the standard quantum mechanics. It is now different, and in particular the off-shell behavior is much
+more prevalent. In the quantum version of this theory, the on-mass-shell state vectors are not complete in the whole
+quantum Hilbert space. Rather, off shell states are also required for completeness.
+
+Another approach that has been taken is to develop a 5-dimensional generalization of QED, called pre-Maxwell
+theory, for which the Feynman diagram rules have been worked out and applied to various scattering processes [29,28].
+
+So the assumption is that in the “nuclear active environments” of LENR, a variable mass theory such as one of
+these has become an effective theory for the solid state behavior. Perhaps this assumption can be derived from just the
+standard model of particle physics, exploiting its off-shell virtual particle qualities, but in the meantime we can take
+a phenomenological approach and try and deduce what experimental conditions seem to lead to off-shell behavior in
+LENR. More discussions along these lines were presented in [7,8].
+
+
+4. Could the Standard Model of Particles Allow Large Virtual Mass Variations in Condensed Matter?
+
+The standard model is believed by most physicists to describe all phenomenon observed in nature except for gravity
+[37,50]. Thus all of nuclear and condensed matter physics are believed to be derivable from the standard model. For
+example, the neutron–proton mass difference has recently been accurately calculated, and agrees with the measured
+value, by using lattice QCD plus QED [2].
+
+The ﬁrst question then is, are there any theorems that would rule out the possibility of large mass variations? The
+usual arguments based on the Heisenberg uncertainty relations, as we have seen above, are not conclusive on this
+point. There is the equivalence theorem in ﬁeld theory which states that changing ﬁeld variables will change off-shell
+Green’s functions while leaving the S-matrix invariant [10,48]. But this does not prove that in condensed matter which
+is undergoing some arbitrary complex non-equilibrium process, that large excursions off the mass shell cannot occur
+and contribute signiﬁcantly to the resulting probability amplitudes for different reactions. I have not found any theorem
+that rigorously limits off-shell mass excursions of this type in condensed matter that would be relevant.
+
+In quantum electrodynamics, charged particles do not have a simple ﬁxed mass due to the interaction with infrared
+photons as in [16,4,33] and references therein. Charged particles continually interact with massless infrared photons,
+and therefore cannot be assigned ﬁxed masses. The charged particle surrounded by its cloud of infrared photons is
+called an infraparticle. This infrared problem poses an interesting and as yet unsolved challenge to QED and the
+standard model. When you consider these results in the framework of an interacting, non-equilibrium condensed
+matter system, it seems quite plausible that in some special circumstances a large mass variation for charged particles
+may be possible. Perhaps, in some approximation, the Fock–Stueckelberg models might describe such an interacting
+infraparticle.
+
+We can say for certain that the Fock–Stueckelberg type of models are compatible with the basic principles of
+relativity and quantum mechanics, and that they do allow for large mass variation. It is conceivable that in some special
+circumstances in a solid, the matter there might be better described by them rather than by the usual Schrödinger
+theory. What environmental conditions are required to bring about such a state of matter? I do not know, but the
+experiments of LENR shed some light on it. The nuclear active environments tend to occur near the metallic surface,
+in non-equilibrium situations, possibly in cracks or crevices, and in the presence of ﬂuxes of deuterium, hydrogen, and
+electrons through the metal. External stimulation with electrical, optical, or other stimuli of the metal often helps, as
+do catalytic elements.
+
+
+5. Enhanced Tunneling Rates Caused by Increased Electron Masses
+
+In the Born–Oppenheimer approximation for molecules and solids, the size scale is determined by the inverse of the
+electron mass [7]. Therefore, an electron mass increase will reduce the inter-nuclear distance, and greatly enhance
+quantum tunneling and fusion rates. This is a form of electron screening. The enhancement of deuterium fusion in
+a D2 molecule was rigorously quantiﬁed by Koonin and Nauenberger [27], where it was shown that a mass of ten
+electron masses was necessary to explain the reaction rates measured by Fleischmann and Pons, and a mass of ﬁve
+electron masses was needed to explain Jones’ results. With simply a large electron mass, one cannot explain the
+discrepancy in the branching ratio, but with a simultaneous reduction in the deuterium mass, one can explain that as
+well, and in this case the electron mass increase factor can be much smaller than 10 since the resonant tunneling effect
+greatly enhances the fusion rate [7]. An electron mass increase factor of 5 is sufﬁcient to explain the results of Jones,
+and this could be adequate, when combined with resonant tunneling, to explain the excess heat experiments that have
+been observed [7].
+
+Another form of tunneling which might have been observed in some experiments is neutron transfer. In a test of
+the commercial E-Cat reactor [30] it was reported that the fuel consisting of powder containing nickel and lithium
+in their natural isotopic ratios, was modiﬁed by the reaction and that the ash consisted mainly of lithium-6, most of
+the lithium-7 having apparently lost a neutron, and the only isotope observed in the ash of nickel was nickel-62, the
+heaviest stable isotope. So apparently the neutrons from lithium-7 had been transferred to nickel isotopes. Neutron
+tunneling has been proposed as an explanation for this [15]. If electron masses were to increase in a molecule binding
+together lithium and nickel atoms, then the tunneling rate could increase by many orders of magnitude. Therefore, this
+neutron transfer mechanism seems quite plausible as a candidate for explaining these results provided that masses can
+vary in this way. I take this experimental result as quite tentative though.
+
+
+6. Some Anomalous Nuclear Reactions that can be Interpreted as Allowed by Mass Variation
+
+Most of the nuclear anomalies that have been observed in LENR experiments and elsewhere cannot be explained by
+conventional nuclear physics. I believe that they can all be interpreted as being enabled by variable mass behavior. So,
+here is a partial list of various effects and how they can be explained. I do not claim that these experimental claims
+are all correct. I do think that there is some non-zero probability in the Bayesian sense that any of these experiments
+might be true though, and since they are persistently reported in the literature I have tried to explain them.
+
+(1) Deuterium fusion d+d → α. This reaction was studied in detail in [7]. It takes place between two neighboring
+deuterons in a palladium lattice. The electron mass must increase for at least one electron which is binding
+the two deuterium particles together, and the deuteron masses must subsequently decrease. When the two
+deuterons, imagined as continuously going off-shell in [7], reach a combined mass which is very close to the
+mass of an alpha particle, a resonant tunneling effect can be expected to occur, and this gives the observed
+behavior of Pons and Fleischmann. Fusion is enabled by mass-tuned quantum tunneling in this picture, but
+only excess heat is produced.
+
+(2) In the Widom–Larsen theory [51] it is argued that protons and “heavy” electrons can react to form a neutron
+and a neutrino e + p → n + νe at near room temperatures, because the electron’s rest mass has increased. The
+neutron activation caused by the presence of these neutrons then can produce nuclear reactions. The general
+variable mass theory contains this Widom–Larsen effect as a special case. We allow masses for all charged
+particles to decrease as well as increase, unlike Widom–Larsen, and this leads to many more reactions being
+possible.
+
+(3) Oppenheimer–Phillips processes whereby a deuteron gives up a neutron to a metal nucleus through quantum
+tunneling. This effect has been advocated by Passell [38]. Enhanced electron screening is required for the
+cross sections of these reactions to be large enough to account for observed effects. Increased electron mass
+would provide such a mechanism.
+
+(4) Neutron transfer involving two deuterons d+d → p+t. This reaction would be made possible by an increased
+electron mass which would increase the electron’s screening ability, along with possibly a variation in the
+deuteron mass to allow for resonant tunneling of the neutron when the summed mass of the two deuterons
+were to equal the sum of the on-shell masses of the proton and tritium. This reaction could help explain why
+there is much more tritium observed in Fleischmann–Pons type experiments than neutrons [45].
+
+(5) The ‘Reifenschweiler effect’ [40] is the observation that the beta-decay rate of tritium (half-life 12.5 years) is
+reduced reversibly by about 25–30% when the isotope is adsorbed into 15 nm titanium-clusters in a temperature
+window between 160–275◦C. Remarkably at 360◦C the original radioactivity reappears. First discovered circa
+1960/1962 at Philips Research, Eindhoven. The reported decay rate reduction can be explained if the tritium
+mass and consequently the kinematic phase space for the decay were reduced [8]. Since the Q for tritium decay
+is about 18.6 keV, if the mass of the tritium drops by this amount, its decay rate would go to zero.
+
+(6) Other radioactive decay effects that might indicate mass variation [8]. Radioactive isotopes implanted into
+metals at low temperature
+∼12 K show variations of decay rates in some cases, which could be due to
+enhanced electron screening, which in turn could be due to mass variation [31,32,14]. These results have not
+been completely reproducible so far, and the theory proposed based on conventional electron screening has
+been criticized. It is another controversial LENR phenomena .
+
+(7) Time varying radioactive decay rates may indicate mass variation [8]. Experiments show decay rates varying
+with time for a number of isotopes. Frequency analysis has shown annual, diurnal, and approximate monthly
+variations [12]. Once again, these results are controversial. It has been suggested that solar neutrinos might be
+the cause of this decay-rate variation.
+
+(8) With varying particle masses, transmutations can in theory at least occur in a number of ways in nuclear
+active environments. Enhanced electron screening caused by electron mass increases can modify alpha decays,
+beta decays, and electron capture rates. Mass changes of nuclei can change reaction rates or make reactions
+possible which would normally be forbidden. Resonant fusion of hydrogen or deuterium with other nuclei,
+resonant fusion of alpha particles and other nuclei, and even ﬁssion of heavier nuclei might occur after a mass
+change. Also, there is the possibility of neutron creation and subsequent capture as in the Widom–Larsen
+theory, or neutron stripping or hopping reactions, leading to many possible transmutations. In short a world
+of possibilities exist, and a managerie of transmutations have already been observed experimentally in LENR
+[44,45]. The number of transmutations observed in LENR are so large, that many scientists have concluded
+that it is proof that the experiments must be wrong. But maybe not, given the multitude of processes made
+possible by variable masses.
+
+More details may be found in [7,8].
+
+
+7. Suggestions for Experiments to Test the Variable Mass Idea
+
+If radioactive nuclei are placed into the nuclear active environments, their decay rates should change if their masses
+change, and this might be observable by monitoring the real-time radiation during an experiment. Probably gas loading
+experiments would be the easiest ones to monitor in this way, and some imaging capability would be desirable because
+the nuclear active environments tend to be very localized on the surface of the metal. Tritium is an excellent candidate
+to serve as a tracer element to reveal mass variations of hydrogen isotopes. Tritium can be added to deuterium or
+hydrogen in LENR experiments. The tritium in the nuclear active volumes should experience a mass change like
+deuterium if the variable mass theory is correct. This should be detectable as a change in the tritium decay rate in those
+zones while they remain in a nuclear active state. Other radioactive isotopes might be tried as well. A replication of
+the Reifenschweiler experiments would be very desirable too.
+
+
+8. Implications for other Theories of LENR
+
+The possibility of variable mass does not rule out any of the other prevalent theories of LENR, but actually can provide
+a mechanism for them to be valid. For example, the Widom-Larsen effect is enabled by the type of variable mass
+behavior we are contemplating here. Also, the collective interaction of the lattice with the nucleus as proposed by
+Hagelstein [17,18], Preparata [39], and Schwinger [42] could be understood as mediated by mass variation over an
+extended time leading up to the nuclear reaction. The lattice could slowly take up or give up energy to the nuclear
+environment as the masses of some of its particles changed prior to a nuclear reaction. There are a number of theories
+which rely on the existence of small atoms which can be understood if electrons can increase their mass. A theory
+due to Kim proposes a Bose–Einstein mechanism [25], and the existence of such a state of matter might be enabled
+by resonant tunneling as in [7] where deuterium resonant tunneling was enabled by mass reduction of the deuterium
+particles.
+
+
+9. Choices for Physics
+
+As I see it, physics should re-engage in a serious way with this subject. Here are the choices facing mainstream physics:
+(1) Dismiss the experimental claims and the entire ﬁeld of LENR (more than 1500 international research papers); (2)
+Do nothing, but wait and see what happens next; (3) Continue to try and explain the claims with existing theories after
+24 years of failed effort; or (4) Develop a new theory, based on relativistic quantum mechanics, that modiﬁes existing
+theory and explains the experiments. Obviously I prefer the fourth choice.
+
+Much of modern physics has separated from close laboratory experimental feedback. Fields like quantum gravity,
+string theory, interpretations of quantum mechanics, emergent theories of gravity, etc. are examples. Here, with
+LENR, we have a large discrepancy between theory and experiment which may require a fundamental modiﬁcation of
+our theories for nuclear physics and condensed matter, and we also have lots of laboratory feedback to aid us.
+
+If off-mass-shell quantum mechanics is needed in order to understand LENR results, then our understanding of
+quantum mechanics will be affected at a fundamental level. The standard on-shell wave equations would have to be
+considered then as approximations to more general off-shell theories. The standard relativistic wave equations (Klein–
+Gordon, Dirac, Proca, etc.) all have problems with a localized position operator, or negative energies, or negative
+probabilities. Thus, modern physics regards quantum ﬁelds as preeminent over wave mechanics. But a resurgence
+of the Fock–Stueckelberg theories could change this, and make wave mechanics prominent once again. The practical
+implications if LENR is real are obviously potentially enormous. Only the re-engagement of the physics community
+will allow the full promise of this technology to be realized. The downside monetary risk of coming up dry seems
+insigniﬁcant compared to the potential beneﬁts both to mankind and to fundamental physics. What gambler would not
+take this bet? Even if all the experiments in LENR turn out to be wrong, physics could still beneﬁt if by examining this
+issue we can learn to engineer the control of rest masses. This would then open doors to ﬁnding new ways to make
+LENR devices and provide a powerful tool in chemistry and condensed matter physics.
+
+
+10. Conclusion
+
+We have listed here some of the anomalous LENR reactions which have not been explained by conventional nuclear
+physics. If nuclear rest masses can vary in special nuclear active environments, then all of these reactions can be
+allowed with the right mass variation.
+
+After surveying the literature on mass variation in relativistic physics, the historical time models pioneered by Fock
+and Stueckelberg are prominent. The modern reﬁnements of this theory especially by Horwitz and co-workers stand
+out as the most likely candidate theories around which to construct a model for LENR. The task before us is to try and
+quantify what physical effects cause a nuclear active environment to come into existence.
+
+The theories for mass variation are not yet complete. In particular, we do not have a theory which interpolates
+between theories in which the rest mass is quite freely variable, like for instance pre-Maxwell theory, and ones that
+have ﬁxed mass, like conventional QED or the standard model applied to few particle systems. I have in mind a
+new phenomenological parameter that would depend on position inside a material and control how easy or hard it is
+for particles to drift off the mass shell. In ordinary matter or in vacuum, this parameter would make deviation from
+standard rest masses exceedingly small, but in the nuclear active environments it would allow signiﬁcant deviation of
+mass from the expected value.
+
+Many of the objections to LENR experimental claims in the past were based on the fact that neutrons and tritium
+were not observed in experiments involving deuterated palladium in the proper amounts, energies, and ratios as deu-
+terium fusion would require [1,24]. If masses of electrons and deuterons can vary, then this not a valid justiﬁcation for
+rejecting these results out of hand. So, if one is to rule out a theory like this one, the change in the ratios of tritium
+to neutrons or their energies cannot be used to dismiss experiments. Rather, they might be viewed as experimental
+evidence in support of variable masses.
+
+Much of modern physics has separated from close laboratory experimental feedback. Fields like quantum gravity,
+string theory, interpretations of quantum mechanics, emergent theories of gravity, etc. are examples. Here, with LENR
+and related anomalies, we have a large discrepancy which may be resolved by a fundamental modiﬁcation of our
+theories for nuclear physics and condensed matter, and we also have lots of laboratory feedback to aid us. It seems
+that physicists ought to re-examine this subject in the light of these new developments, and determine with certainty
+whether or not the nuclear anomalies are real.
+
+
+References
+
+Cold Fusion Research, November 1989 - A Report of the Energy Research Adivsory Board to the United States Department
+of Energy, DOE Report DOE/S-0071 (August, 1989) and DOE/S-0073, DE90, 005611, Department of Energy, 1989.
+S. Borsanyi, S. Durr, Z. Fodor, C. Hoelbling, S.D. Katz, S. Krieg, L. Lellouch, T. Lippert, A. Portelli, K.K. Szabo and B.C.
+Toth, Ab initio calculation of the neutron–proton mass difference, Science 347(6229) (2015) 1452–1455, arXiv: 1406.4088.
+J.S. Briggs, A derivation of the time-energy uncertainty relation, J. Phys.: Conf. Ser. 99(1) (2008) 012002.
+D. Buchholz, Gauss’ law and the infraparticle problem, Phys. Lett. B 174(3) (1986) 331–334.
+M. Bunge, Virtual processes and virtual particles: real or ﬁctitious? Int. J. Theoret. Phys. 3(6) (1970) 507–508.
+P. Busch, The Time–Energy Uncertainty Relation, In J.G. Muga, R.S. Mayato and Í.L. Egusquiza (Eds.), Time in Quantum
+Mechanics, No. 734, in Lecture Notes in Physics, Springer, Berlin, Heidelberg, 2008, pp. 73–105.
+M. Davidson, Theories of variable mass particles and low energy nuclear phenomena, Foundations Phys. 44(2) (2014) 144–
+M. Davidson, Variable mass theories in relativistic quantum mechanics as an explanation for anomalous low energy nuclear
+phenomena, J. Phys.: Conf. Ser. 615(1) (2015) 012016.
+V.V. Dodonov and A.V. Dodonov,
+Energy–time and frequency–time uncertainty relations:
+exact inequalities,
+arXiv:1504.00862 [quant-ph], Apr. 2015.
+[10] H.W. Fearing and S. Scherer, Field transformations and simple models illustrating the impossibility of measuring off-shell
+effects, Phy. Rev. C 62(3) (2000) 034003.
+[11] R.P. Feynman, Mathematical formulation of the quantum theory of electromagnetic interaction, Phy. Rev. 80(3) (1950) 440–
+[12] E. Fischbach, J.B. Buncher, J.T. Gruenwald, J.H. Jenkins, D.E. Krause, J.J. Mattes and J.R. Newport, Time-dependent nuclear
+decay parameters: new evidence for new forces? Space Sci. Rev. 145(3–4) (2009) 285–335.
+[13] V. Fock, Die Eigenzeit in der klassischen und in der Quantenmechanik, Phys. Z. Sowjetunion 12 (1937) 404–425.
+[14] L. Gang, S. Jun, W. Bao-Xiang, J. Chao, B. Xi-Xiang, Z. Sheng, Z. Yong-Nan, Z. Sheng-Yun, Z. Li-Hua, L. Wei-Ping,
+L. Zhi-Hong, W. You-Bao, G. Bing, L. Yun-Ju and Q. Xing, Enhancement of β + -Decay Rate of 22 Na in Metal Pd at Low
+Temperature, Chinese Phys. Lett. 25(1) (2008) 70–72.
+[15] C.-O. Gullstrom, Low radiation fusion through bound neutron tunneling, Oct. 2014.
+[16] S. Gulzari, J. Swain and A. Widom, Asymptotic infrared fractal structure of the propagator for a charged fermion, Modern
+Phys. Lett. A 21(38) (2006) 2861–2871.
+[17] P.L. Hagelstein and I.U. Chaudhary, Energy exchange in the lossy Spin–Boson model, J. Condensed Matter Nucl. Sci. 5
+(2011) 52–71.
+[18] P.L. Hagelstein and I.U. Chaudhary, Including nuclear degrees of freedom in a lattice hamiltonian, J. Condensed Matter Nucl.
+Sci. 7 (2012) 35–50.
+[19] L. Horwitz, Spin, angular momentum and spin-statistics for a relativistic quantum many-body system, J. Phys. A: Math. and
+Theoret. 46(3)(2013) 035305.
+[20] L.P. Horwitz and R. Arshansky, On relativistic quantum theory for particles with spin 1/2, J. Phys. A: Math. General
+15(12)(1982) L659–L662.
+[21] L.P. Horwitz and Y. Lavie, Scattering theory in relativistic quantum mechanics, Phy. Rev. D 26(4) (1982) 819–838.
+[22] L.P. Horwitz and C. Piron, Relativistic dynamics, Helv. Phys. Acta 46(3) (1973) 316–326.
+[23] L.P. Horwitz, C. Piron and F. Reuse, Relativistic dynamics for the spin 1/2 particle, Helv. Phys. Acta 48(4) (1975) 546–548.
+[24] J.R. Huizenga, Cold Fusion: The Scientiﬁc Fiasco of the Century, Oxford University Press, Oxford, New York, Jan. 1994.
+[25] Y.E. Kim, Theory of Bose–Einstein condensation mechanism for deuteron-induced nuclear reactions in micro/nano-scale
+metal grains and particles, Die Naturwissenschaften 96(7) (2009) 803–811.
+[26] D.H. Kobe and V.C. Aguilera-Navarro, Derivation of the energy–time uncertainty relation, Phy. Rev. A 50(2) (1994) 933–938.
+[27] S.E. Koonin and M. Nauenberg, Calculated fusion rates in isotopic hydrogen molecules, Nature 339(6227) (1989) 690–691.
+[28] M.C. Land, Pre-Maxwell electrodynamics, Foundations Phys. 28(9) (1998) 1479–1487.
+[29] M.C. Land and L.P. Horwitz, Off-Shell Quantum Electrodynamics, arXiv:hep-th/9601021, Jan. 1996.
+[30] G. Levi, E. Foschi, B. Hoistad, R. Pettersson, L. Tegner and H. Essen, Observation of abundant heat production from a reactor
+device and of isotopic changes in the fuel, Technical report, Elforsk, Oct. 2014.
+[31] B. Limata, F. Raiola, B. Wang, S. Yan, H.W. Becker, A. D’Onofrio, L. Gialanella, V. Roca, C. Rolfs, M. Romano, D. Schür-
+mann, F. Strieder, and F. Terrasi, First hints on a change of the 22na βdecay half-life in the metal Pd, Eur. Phy. J. A – Hadrons
+and Nuclei 28(2) (2006) 251–252.
+[32] B.N. Limata, L. Gialanella, A.D. Leva, N.D. Cesare, A.D’Onofrio, G. Gyurky, C. Rolfs, M. Romano, D. Rogalla, C. Rossi,
+M. Russo, E. Somorjai and F. Terrasi, 7Be radioactive beam production at CIRCE and its utilization in basic and applied
+physics, Nucl. Instr. Methods Phys. Res. Sect. B 266(10) (2008) 2117–2121.
+[33] G. Morchio and F. Strocchi, Infrared Problem, Higgs Phenomenon and Long Range Interactions, In G. Velo and A. S. Wight-
+man (Eds.), Fundamental Problems of Gauge Field Theory, No. 141 in NATO ASI Series, Springer, New York, US, 1986,
+pp.301–344.
+[34] Y. Nambu, The use of the proper time in quantum electrodynamics–I, Prog. Theoret. Phy. 5(1) (1950) 82–94.
+[35] T. D. Newton and E.P. Wigner, Localized states for elementary systems, Rev. Modern Phy. 21(3) (1949) 400–406.
+[36] H. Nikolic, Quantum mechanics: Myths and facts, Foundations Phy. 37(11) (2007) 1563–1611, arXiv: quant-ph/0609163.
+[37] R. Oerter, The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics, Plume, New York,
+London, reprint edition, Sept. 2006.
+[38] T. O. Passell, The case for deuteron stripping with metal nuclei as the source of the Fleischmann–Pons excess heat effect, J.
+Condensed Matter Nucl. Sci. 15 (2014) 1–7.
+[39] G. Preparata, QED Coherence in Matter, World Scientiﬁc, Singapore, Jan. 1995.
+[40] O. Reifenschweiler, Reduced radioactivity of tritium in small titanium particles, Phys. Lett. A 184 (1994) 149–153.
+[41] J. Schwinger, On gauge invariance and vacuum polarization, Phy. Rev. 82(5) (1951) 664–679.
+[42] J. Schwinger, Inﬁnite Energy Magazine, Issue 1, 1995, p. 10.
+[43] W. D. Smith, The Energy-Time Uncertainty Principle, CiteseerX, 1998.
+[44] M. Srinivasan, G. Miley and E. Storms, Low-energy nuclear reactions: transmutations, In S.B. Krivit, J.H. Lehr and T.B.
+Kingery (Eds.), Nuclear Energy Encyclopedia, Wiley, New York, 2011, pp. 503–539.
+[45] E. Storms, Science of Low Energy Nuclear Reaction: A Comprehensive Compilation of Evidence and Explanations about
+Cold Fusion, World Scientiﬁc, Singapore, July 2007.
+[46] E. Stueckelberg, La signiﬁcation du temps propre en mécanique ondulatoire, Helv. Phys. Acta 14 (1941) 322–323.
+[47] E. Stueckelberg, Remarque à propos de la création de paires de particules en théorie de la relativité, Helv. Phys. Acta 14 (1941)
+[48] I. V. Tyutin, Once again on the equivalence theorem, Phy. Atomic Nuclei 65(1) (2002) 194–202.
+[49] M. Veltman, Diagrammatica: The Path to Feynman Diagrams, Cambridge University Press, Cambridge, First edition, July
+[50] S. Weinberg, The Quantum Theory of Fields, Vol. 3 Volume, Hardback Set, Cambridge University Press, Cambridge, First
+edition, Feb. 2000.
+[51] A. Widom and L. Larsen, Ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces, Eur. Phys.
+J. C – Particles and Fields 46(1) (2006) 107–111.

@@ -1,0 +1,38 @@
+1, INTRODUCTION
+
+Experiments aimed at illuminating the anomalous high energy phenomena in the solid-state cathode medium of the high-current glow-discharge were carried out for years. Earlier experimental results showed that the character of detected X-ray emission was essentially different from the known X-ray emission types.
+
+
+2, EXPERIMENTAL METOD AND RESULTS
+
+The experiments were carried out using a high-current glow discharge device (GDD) in deuterium, hydrogen, Ar, Kr and Xe. The GDD operated on a pulse-periodic power supply with current pulses of rectangular shape. The X-ray emission registration was carried out by thermo-luminescent detectors, X-ray pinhole, scintillation detectors supplied with photomultipliers. The energetic spectrum of the emission was registered with the help of a curved mica crystal spectrometer. The cathode samples made of Pd and other metals were placed on a cathode-holder above which a window for output penetrating radiation was provided. The window was shielded by 15m-thick Be foil for protecting the detectors from visual and ultraviolet radiation. Detectors of various types were installed by the window to measure the output penetrating radiation (Fig.1).
+To estimate the intensity and evaluate the mean energy of the soft X-ray emission in the GD, thermo- luminescent detectors (TLD) based on crystalline Al2O3 and, covered by Be foils of varying thickness were
+used. The temporal characteristics of the penetrating radiation were determined with the help of scintillation detectors supplied with the photomultipliers (PM). Two modes of radiation emission were observed in the experiments: (1) diffusion X-ray emission (Fig.2), X-ray emission in the form of laser beams (Fig.3). The diffusion X-ray emission occurs mainly during the current running in the form of flashes and conforming to the law 1/r2. The value of X-ray emission energy was estimated for the experiments with using system scintillator- PM and the beryllium foil shields for the foil with thickness of 15m and 30m (Fig.2a) and (Fig.2b).
+For the PM scintillation detector the relative intensity of the X-rays was determined as the total sum of the amplitudes A1i and A2j of all the X-ray bursts within the time interval of 1 second (Fig.2a,b). The experiments using the scintillator – PM measurement system, and, 15m- and 30 m –thick Be foil shields allowed to evaluate of the X-ray energy value as EX-ray 1.3 – 2.5 keV (for different cathode materials). Then the relative intensity was reduced to a physical magnitude by the intensity value measured with the TLD detectors (EX-ray 1.5 – 1.8) keV.
+
+The generation of X-ray emission in the form of laser beams began when the GD operational parameters increased (duration of current pulses, current density, GD voltage) and was observed as powerful flashes. The
+production of X-ray laser beams occurred in pulse-periodic GD some time after (delay time) the GD current pulse trailing. The temporal spectrum of the X-ray emission made up a correlation: the quantity of pulses per a T period of time (T stands for the time period between the GD current pulses) versus the time period between the current trailing edge and the X-ray pulse leading edge. The temporal spectra are discrete in character, consisting of separate lines. The specific pattern of each spectrum is dependent upon the cathode material used. The secondary penetrating radiation (in the form of bursts of fast electrons with small angular divergence) occurred when the targets made of different materials were exposed to X-ray laser beams. The generation of electron bursts was observed in the experiment when the primary X-ray beams passed through Pb targets (of up to 3 mm thickness). Presumably, some multi- photon processes were initiated.
+The X-ray emission spectra were measured using the curved mica crystal (50mm diameter) X-ray spectrometer, the spectrum being recorded on an X-ray film (Fig.4). Reflection and refraction spectra were registered in the experiment. Reflection spectra being used for data processing. The wave length and the X-ray energy were determined according to the expression
+
+m= 2d sin; EX-ray = 1.235/.
+Where m - is the spectrum order, - stands for the X-ray emission wave length in nm, 2d - is the constant of the
+mica crystal lattice (2d = 2.0 nm), - represents the reflection angle. The spectra were repeatedly recorded during the GD operation and after the GD current switch off (for up to 20 hours afterwards). The spectra pattern includes bands, dark and light spots (consisting of multiple tiny dark and light dots) and separate dark and light small spots. The bands and spots were located in spectral areas specific for a given cathode material used (Fig.4). So, the energetic position within the spectrum was dependent upon the cathode material used and was similar to characteristic X-ray spectra. It was assumed that the diffusion component of the X-ray emission was registered on the spectrum as a series of bands.
+The X-ray emission bands energy don’t correlated with L, M energy of the electron levels (Fig.4).
+The laser beams were recorded as dark spots and in case of the emission beam high density they assumed white color (solarization of the photoemulsion) (Fig.5b,c,d). In certain experiments radiation and thermal destruction of
+the X-ray film was observed (Fig.5a).
+
+
+3, DISCUSSION
+
+Presumably, some long-lived excited levels with energies up to several keV are formed in the cathode solid- state medium when its surface is exposed bombardment by the discharge plasma ions. These levels are characterized by fixed discreet values of energy and lifetime. The registered X-ray emission results from re- excitation of these levels. The spectral energy values of the recorded X-ray emission differs significantly from L, M energies of internal electronic transitions for the given cathode material. The formation of excited levels may be associated with the distortion of the solid electron-nuclear system.
+
+
+4, CONCLUSION
+
+The results obtained show that it is possible to create in the solid body optically active medium with long-lived meta-stable levels with energy ranging 0.6 – 3 keV and more.
+The experimental research of this fundamental phenomenon has allowed to create a basically new type of the device: “The X-ray solid-state laser with 0.6 – 0.8nm radiation wave length, 10-11-10-13s duration of separate pulses, and, up to 107 W beam power in the pulses.
+
+
+5. REFERANCES
+
+1. A.B Karabut., Research into powerful solid X-ray laser (wave length is 0.8-1.2nm) with excitation of high current glow discharge ions, Proceedings of the 11 International Conference on Emerging Nuclear Energy Systems, 29 September - 4 October 2002, Albuquerque, New Mexico, USA, pp.374 – 381.

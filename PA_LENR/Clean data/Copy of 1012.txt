@@ -1,0 +1,318 @@
+Introduction
+
+Our 1994 publication [1] presented evidence of localized, microscopic surface
+concentrations of gold and silver on palladium cathodes which had been electrolyzed in
+an electrolyte containing either H2SO4 and D2O or H2SO4 and H2O. The unique
+capabilities of a scanning electron microscope (SEM) equipped with an energy dispersive
+spectrometer (EDS) made it possible to locate concentrations of these elements on a
+microscopic scale. Our experiments included the detection of excess heat. We suggested
+that the excess heat and unexpected elements could be explained by the energy released
+during transmutation of platinum to gold and palladium to silver in the presence of
+thermal neutrons.
+
+A previous study by another group also reported elemental anomalies on the surface of
+palladium after electrochemical loading of deuterium [2]. A near surface enrichment of
+rhenium and silver was detected by x-ray photoelectron microscopy (XPS). These
+elements are present as impurities in the starting palladium at levels (50 ppm Rh and 100
+ppm Ag), well below the XPS detection limit. It is not clear why nickel, which is present
+before electrolysis as an impurity at the 200-300 ppm level, was not similarly enriched to
+a concentration which could be detected by XPS. This report does not include a bulk
+analysis of a Pd cathode after electrolysis. The authors concluded that surface segregation
+of Rh and Ag impurities is most likely due to the forcing current and time during long-
+term electrolysis.
+
+In another study by the same group [3], time-of-flight-secondary ion mass spectroscopy
+(TOF-SIMS) measurements of the Pd blank (no electrolysis) and Pd electrolyzed in H2O
+gave the natural abundances of the stable Pd isotopes. However, two samples
+electrolyzed in D2O had more than 20% increases in Pd 106 intensities and decreases in
+Pd 105 intensities. These researchers suggested the possibility that Pd 105 obtained a
+neutron and became Pd 106. Although this SIMS research seemed promising, it was not
+mentioned in a later publication from this group [2]. Apparently, this research was
+terminated.
+
+In 1994 we also published a report on the changes in surface topography and
+microcomposition of a palladium cathode caused by electrolysis in acidified light water
+[4]. A thin palladium cathode became bent and torn during electrolysis in acidified light
+water. Localized changes in composition, including the possibility of the formation of
+silver by neutron absorption, were reported.
+
+Results of our SIMS study of Pd foils before and after electrolysis were presented in
+1996 [5]. We found that there was an isotopic inversion on the surface of a Pd foil
+cathode which had been electrolyzed in acidified heavy water. In the spectrum from the
+control (unelectrolyzed Pd foil), the signal from Pd 106 (natural abundance 27.33 at.%)
+was slightly greater than the signal from Pd 108 (natural abundance 26.46 at.%).
+
+However, a SIMS spectrum from an electrolyzed Pd foil had a more intense signal from
+Pd 108 than from Pd 106. The difference between these two abundances decreases with
+increasing sputtering time. After sputtering for 50 minutes to a depth of about 0.3 μm,
+these two isotopes have the same abundance.
+
+The same report included data on excess thermal power (0.3 W maximum) which was
+observed from electrolysis of acidified heavy water with a Pd foil cathode, compared
+with an identical cell containing a Pt cathode. After about 70 hours of electrolysis and a
+dormant period of 75 days, the cells were again electrolyzed. In 5 consecutive
+experiments totaling 20 hours over a period of 2 weeks the cell with the Pt cathode
+produced as much as 0.3 W excess thermal power compared with the cell containing a Pd
+cathode.
+
+In 1997 we published the results of electrolysis experiments with titanium cathodes [6].
+One experiment produced about 1 W excess thermal power compared with a control.
+Geiger-Mueller counters used to monitor radiation emitted by the cells showed no
+significant difference compared to background. LiF chips sealed in plastic and placed
+inside the cells before electrolysis also showed no significant difference compared to
+background. The Ti cathodes was examined before and after electrolysis, using SEM and
+EDS. A new microscopic feature on a cathode after electrolysis contained appreciable
+vanadium, one atomic number higher than titanium, just as silver is one atomic number
+higher than palladium and gold is one atomic number higher than platinum.
+
+In the same publication [6], we presented evidence of microscopic, time-dependent
+changes in fibers on the surface of a Pd cathode which had been electrolyzed about 6
+months earlier. Distinct changes in the morphology of one of the fibers occurred in two
+days during storage at room temperature and atmospheric pressure. An EDS spectrum of
+a new, oval-shaped feature showed that it contained an appreciable amount of silver. A
+spectrum from the same spot one month later suggested that silver was changing to
+cadmium, which is one atomic number greater than silver. This is further evidence which
+supports the possibility of transmutation.
+
+
+Experimental methods
+
+Palladium (AESAR stock # 11514) was cold rolled from 500 to 40 μm thickness. Each
+cathode was prepared from a piece of this foil 2 cm long and 0.8 cm wide which was spot
+welded to a Pt lead wire. The anodes were prepared in the same way, using Pt foil spot
+welded to a Pt lead wire.
+
+The electrolyte contained 20 ml D2O and 3.5 ml H2SO4 in one cell. A second cell
+contained 20 ml deionized H2O and 3.5 ml H2SO4.. The heavy water and light water cells
+were connected in series (Fig. 1).
+
+Fig.. 1. The heavy water and light water cells are connected in series. Each cell has a Pd
+cathode and a Pt anode. All heavy water cathodes bent toward their anode 45 to 90
+degrees, but the light water cathodes bent toward their anode only slightly.
+
+In one experiment the time of electrolysis was 6 minutes at a current density of about
+0.25 A per cm2. After microscopy of the electrodes was completed, SIMS analysis was
+performed on a control (no electrolysis) Pd foil from the same cold rolled strip, and on
+the Pd cathodes from the light water and heavy water cells.
+
+The instrument used for these analyses was a PHI II SIMS, Model 3500, linked to a
+General Balzer 16 mm rod quadrupole mass spectrometer. Each sample was bombarded
+with a 3 KV Cs ion beam which scanned an area of about 1.4 mm x 1mm. Pd was
+sputtered from the cathode at the rate of about 0.1 nm per second. By sputtering for long
+times, it was possible to obtain the relative abundances of the isotopes versus depth.
+
+Fig. 2. Depth profiles for the most abundant Pd isotopes : top – control (no electrolysis) ;
+center – after H2O electrolysis; bottom – after D2O electrolysis.
+
+
+Results and discussion
+
+The uppermost graph in Fig. 2 gives the signal intensities for the three most abundant Pd
+isotopes as a function of sputtering time for the control (no electrolysis) foil. As expected,
+Pd 106 gives the highest signal intensity (counts per second CPS), Pd 108 is next, and Pd
+105 gives the lowest signal intensity. There is no significant change in signal intensity
+with increasing sputter time, i.e. with increasing depth into the sample. This is similar to
+the three other depth profiles taken from other locations on the unelectrolyzed control
+foil.
+
+The SIMS results for the Pd foil which was electrolyzed for 6 minutes in H2O electrolyte
+are given in the center graph, Fig. 2. After sputtering for 5 minutes, the relative intensities
+are in proportion to their natural isotopic abundances, i.e., 27.3% for Pd 106, 26.5% for
+Pd 108, and 22.3% for Pd 105. After 12 minutes of sputtering, the signal intensities are
+almost constant for all three isotopes until sputtering was stopped after 25 minutes. Four
+other regions on the same sample gave very similar depth profiles.
+
+SIMS profiles were taken from nine different regions of the Pd foil which was
+electrolyzed in D2O electrolyte. The bottom graph, Fig 2, shows a typical profile. After
+sputtering for about 10 minutes, there is clearly an inversion in signal intensity : Pd 108
+now has greater signal intensity than Pd 106, whereas the opposite is expected, based on
+natural abundances. All nine of the depth profiles from this foil show this inversion. This
+suggests the possibility that Pd 106 absorbs a neutron, and becomes Pd 107 which beta
+decays to produce Ag 107, a stable isotope. Another possibility is that 106 PdD forms
+during electrolysis. This would appear in the SIMS spectrum as mass 108, thus increasing
+the Pd 108 signal and diminishing the Pd 106 signal.
+
+The bottom graph in Fig. 2 shows that the difference in signal intensities of Pd 106 and
+Pd 108 diminishes with increasing sputtering time. After 65 minutes, corresponding to a
+depth of about 0.4 μm, the signals from these two isotopes are identical. It appears that
+the process which caused the changes in signal intensities is confined to the outermost
+layers of the cathode surface. This is not surprising because the time of electrolysis was
+
+Fig. 3. SIMS depth profile from a different area of the same Pd cathode.
+
+Fig. 3 shows a SIMS depth profile from a different area of the same Pd cathode after
+electrolysis for 6 minutes in D2O electrolyte. The signal from Pd 106 is far less than
+expected. It coincides with the signal from Pd 105 which has a natural abundance 5 at.%
+less than Pd 105. The signal from Pd 108 is consistently greater than that from Pd 105
+and Pd 106 throughout the 81 minute sputtering time. There is no tendency for merger of
+the Pd 106 and Pd 108 signals, such as that shown in the bottom graph, Fig. 2.
+
+SIMS profiles for 8 of the 9 analyzed areas of the heavy water electrolyzed Pd cathode
+show that there is also an inversion in the abundance of Pd 104 (11.14 at.% natural
+abundance) and Pd 110 (11.72 at.% natural abundance). Data for the control and for the
+light water and heavy water electrolyzed Pd cathodes are given in Fig. 4. The signal from
+Pd 110 is greater than the signal from Pd 104 throughout 25 minutes of sputtering, both
+for the control (upper graph) and for the 6 minute H2O electrolyzed Pd cathode (center
+graph). The lower graph gives data for the Pd cathode after electrolysis for 6 minutes in
+D2O electrolyte. It shows that the signal from Pd 110 is only about half the intensity of
+the signal for this isotope in the upper 2 graphs, whereas the signal from Pd 104 for this
+cathode is only slightly less than that in the upper 2 graphs. The inversion is almost
+constant throughout the 81 minute sputtering time. Its cause may have may have a similar
+explanation to those suggested above for the 106/108 inversion.
+
+In another experiment, Pd from the same stock was cold rolled from 0.5 to 0.35 mm
+thickness. A cathode 25 x 23 x 0.35 mm 3 was prepared from this. Electrolyte was
+prepared containing 6.7 g D2O : 1 g H2SO4 and about 0.02 g Ti per ml of solution.
+Electrolysis was performed for about 6 hours per day for 8 days. Excess power compared
+to a control cell was observed for every run. It ranged from 0.5 to 2.6 W. The average
+was 1.8 W.
+
+During electrolysis the Pd cathode bent toward the Pt anode to form a concave surface
+facing the anode. After electrolysis both the concave and convex surfaces were analyzed
+blind by National Renewable Energy Laboratory (NREL) scientists. The analyses
+included SIMS, SEM, and Auger Electron Spectroscopy (AES). SEM and AES data are
+given in Figs. 5 and 6 and Tables 1 and 2.
+
+Fig. 4. SIMS depth profiles for Pd 104 and Pd 110.
+
+Fig. 5. SEM photo of the concave side of the Pd cathode.
+
+Table 1. AES analyses (at.%) of dark gray and light gray areas in Fig. 5. The dark gray
+areas have large concentrations of C, O, and N before and after sputtering. These
+elements were also found on the light gray area as received, but not after sputtering.
+
+Data for the convex side of the Pd cathode after electrolysis are given in Fig. 6 and Table
+
+Fig. 6. SEM photo of the convex side of the Pd cathode after electrolysis.
+
+Table 2. AES analyses (at.%) of the convex side of the Pd cathode after electrolysis.
+Carbon was not detected on this side of the cathode. After sputtering, oxygen and
+nitrogen were not detected. Chlorine was detected on both light and dark gray areas.
+
+Figs. 5 and 6 show that both sides of the Pd cathode contain a mixture of smooth, dark
+gray areas in a matrix of mottled, light gray areas. As received, the outermost layers of
+the concave side of the Pd cathode contain about 50 at.% C, but C was not detected on
+the convex side. It is difficult to accept that this difference could be caused by
+contamination. The main difference between the two sides is that the concave side had
+higher current density during electrolysis. If C was deposited on the concave side, it
+should have also been deposited on the convex side, but to a lesser extent.
+
+The origin of the Cl on the convex side only is also puzzling. Again, contamination or
+deposition during electrolysis is expected to affect both sides.
+
+The SIMS data on the same Pd cathode after electrolysis does not contain any inversions
+of isotopic abundance such as those in Figs. 2 – 4, but there are significant differences
+compared with the control, a pure (99.999 %) Pd foil which had not been electrolyzed.
+For example, there are no changes in isotopic abundance in the depth profiles for the
+control. Fig. 8 shows the count rate for masses 107 and 109 for the convex side of the
+electrolyzed Pd foil. The average count rate is about 50% greater for mass 107 than for
+mass 109,
+
+Fig. 7. Counts per second for the control Pd foil from masses 107 and 109. The count
+rate does not change with increasing depth into the foil. The average counts per second is
+about 22 for both masses.
+
+Fig. 8. Counts per second versus sputtering time (seconds) for the convex side of the
+electrolyzed Pd foil, which faced away from the anode during electrolysis. Compared
+with the control, there is less overlap of the data for mass 107 (yellow) with the data for
+mass 109 (blue). The average counts per second is about 30 for mass 107 and 20 for mass
+The SIMS depth profiles for masses 107 and 109 from the concave side of the
+electrolyzed Pd cathode are shown in Fig. 9. Here, it is apparent that the count rates for
+both 107 and 109 decrease with increasing sputtering time, and the count rate for 107 is
+
+Fig. 9. Depth profile of the signals from masses107 and 109 for the Pd cathode after
+electrolysis (concave side).
+
+about double that of 109 throughout 1700 seconds of sputtering. There is no overlap of
+the count rates from these two masses. At the start of sputtering the signal from mass 107
+is about 90 cps, and this falls to about 35 cps at the end of sputtering.The signal from
+mass 109 falls from about 75 cps to about 15 cps during the same time period.
+
+Masses 107 and 109 are stable isotopes of Ag, so transmutation by absorption of
+thermal neutrons is one possible explanation for the presence of these isotopes. Another
+possibility is that PdH and PdD are formed. Then, 105 PdD would appear at 107.This
+could be an explanation for the ratio 107/109 ~ 2 in Fig. 8, whereas the expected ratio is
+~ 1.1 for Ag. However, if 105 PdD is present, then 108 PdH should also be present. This
+would appear at mass 109 in the SIMS spectrum, and the 109 signal would be enhanced.
+Fig. 8 shows that there is enhancement of the 109 signal for several hundred seconds
+sputtering time compared with the 109 signal from the control in Fig. 7. Because there is
+no change in abundance with depth into the control Pd foil and because the 107/109 ratio
+is as expected, it seems likely that the signals from these two isotopes are due to Ag
+impurity which is uniformly distributed throughout the control Pd foil.
+
+Fig. 10 gives another example of changes in isotopic abundance on the concave surface
+of the 0.35 mm thick Pd cathode with increase in sputtering time. At the surface, the ratio
+of the isotopic abundance of 105 Pd to that of 104 Pd is about six, whereas the natural
+abundance ratio for these two isotopes is about two. After rising initially, the abundances
+of these two isotopes fall and converge, so that the abundance ratio is about 2.5
+B- data (concave)
+
+Fig. 10. Variation of isotopic abundance on the concave side of a 0.35 mm thick Pd
+cathode with increase in sputtering time. The rate of sputtering is about 0.8 nm per
+second, so the data in this figure represents isotopic abundance to a depth of about
+0.4μm.
+after sputtering for about 550 seconds. On the convex side, the isotopic abundance of 104
+and 105 Pd changes with increasing sputtering time, but the ratio 105 Pd / 104 Pd is
+close to the natural abundance.
+
+
+Summary and Conclusions
+
+SIMS spectra from 40 μm thick Pd foil cathodes after electrolysis in H2O/H2SO4
+electrolyte for 6 minutes show no significant changes in isotopic abundance
+compared with the control which was not electrolyzed. However, Pd foil cathodes
+electrolyzed in D2O/H2SO4 electrolyte had inversions in which the Pd 108 signal
+exceeded the Pd 106 signal and the Pd 104 signal exceeded the Pd 110 signal. These
+inversions may have been caused by the formation of PdD and PdH. For example,
+106 PdD would appear at 108, thus increasing the abundance of Pd 108. Also, 102
+PdD would appear at 104, thus increasing the abundance of Pd 104. Another
+possibility is that transmutation to Ag occurred. This would require the presence of
+thermal neutrons [7].
+
+A much thicker Pd foil (350 μm thick) electrolyzed for 74 hours in D2O/H2SO4
+electrolyte did not show inversions of isotopic abundance, but it did show significant
+differences in the SIMS spectra compared with the control. The occurrence of weak
+signals of almost the same intensity from the control at masses 107 and 109 suggests
+that Ag is present as an impurity in the control. The SIMS spectrum from the concave
+side of the electrolyzed Pd foil has about twice the intensity of the signal at mass 107
+compared with mass109. Based on natural abundance, the ratio of the signals should
+be 107/109 ~ 1.1, instead of the observed 2. Any attempt to explain these results
+should include the effects of PdH and PdD which are formed during electrolysis. PdH
+would appear in the SIMS spectrum at 107 and 109, but their ratio should be ~ 1, not
+the observed 2. Another possibility is that transmutation to Ag occurred. Ag was
+detected by EDS in localized concentrations on both sides of this Pd cathode after
+electrolysis. Large concentrations of C on the concave side were detected by EDS
+studies, in agreement with the AES results. EDS also detected C on the convex side
+of the Pd cathode, but at much lower concentrations. This suggests that the C content
+is related to the current density during electrolysis. The high C content is on the
+concave surface which faced the Pt foil anode and therefore had much higher current
+density than the convex surface, which faced away from the anode. The changes in
+the SIMS spectra are also much greater on the concave side. Fig. 9 shows one
+example. There are others, too numerous to present in this report.
+
+Since 1989, there have been many other reports of anomalous elements resulting
+from the interaction of metals with hydrogen isotopes [ 8-14]. The results reported
+here add to that growing body of evidence.
+
+
+References
+
+1. J. Dash, G. Noble, and D. Diman, Trans.of Fusion Technology 26, 299(1994).
+2. D.R. Rolison and W.E. O’Grady, Anal. Chem. 63, 1697(1991).
+3. D.R. Rolison, W.E. O’Grady, R.J. Doyle, Jr, and P.P. Trzaskoma, Proc. ICCF1,
+4. J. Dash, G. Noble, and D. Diman, Cold Fusion Source Book, p.172, H. Fox,
+editor, Fusion Information Center, P.O. Box 58639, Salt Lake City, Utah 84158.
+5. J. Dash, Proc. ICCF6, 477(1996).
+6. J. Dash, R. Kopecek, and S. Miguet, Proc. 32nd Intersociety Energy Conversion
+Engineering Conf. 2, 1350(1997).
+7. H. Kozima, The Science of the Cold Fusion Phenomenon, Elsevier, San
+Diego(2006).
+8. R. Notoya, Fusion Technology 24, 202(1993).
+9. F. G. Will, K. Cedzynska, Trans. of Fusion Technology 26, 209(1994).
+10. R. Bush and R. Eagleton, ibid, 344.
+11. I. Savvatimova, Y.R. Kucherov, and A.B. Karabut, ibid, 389.
+12. G.H. Miley, G. Narne, M.J. Williams, J.A. Patterson, J. Nix, D. Cravens, and H.
+Hora, ICCF6, 629(1996).
+13. D. Chicea, Condensed Matter Nuclear Science, P.L. Hagelstein and S.R. Chubb,
+editors,World Scientific Publishing Co., NJ, 2006, p.475.
+14. N. Nikitenov, D.Y. Kolokolov, I.P. Chernov, and Y.I. Tyurin, Vacuum, in press.

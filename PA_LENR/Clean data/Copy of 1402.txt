@@ -1,0 +1,405 @@
+I. Introduction
+
+A review of possible stimulation mechanisms of LENR (low energy nuclear reaction)
+is presented in [1, 2, 3]. We have concluded that transmutation of nuclei at low energies
+and excess heat is possible in the framework of the known fundamental physical laws, the
+universal cooperative resonance synchronization principle [1], and different enhancement
+mechanisms of reaction processes [2]. The superlow energy of external fields, the
+excitation, and ionization of atoms may play the role of a trigger for LENR. Superlow
+energy of external fields may stimulate LENR [3]. We give strong arguments that the
+cooperative resonance synchronization mechanisms are responsible for explanation of
+how the electron volt world can influence the nuclear mega electron volt world.
+
+Nuclear physicists are absolutely sure that this cannot happen. Almost all nuclear
+experiments were carried out in conditions when colliding particles interacted with the
+nuclear targets which represented a gas or a solid body. The nuclei of the target are in the
+neutral atoms surrounded by orbital electrons. All existing experimental data under such
+conditions teach us that nuclear low energy transmutations are NOT OBSERVED due to
+the Coulomb barrier.
+
+LENR with transmutation of nuclei occurs in different conditions and different
+processes but these processes have common properties: interacting nuclei are in the
+ionized atoms or completely without electrons (bare nuclei). Therefore, LENR with bare
+nuclei and nuclei in ionized atoms demonstrated drastically different properties in
+comparison with nuclei in neutral atoms [2].
+
+ LENRs take places in open systems in which all frequencies and phases are
+coordinated, according to the universal cooperative resonance synchronization
+principle. Poor reproducibility of experimental results and extreme difficulties of
+their interpretation in the framework of modern standard theoretical physics are
+the main problems of LENR.
+
+Recent progress in both the directions is remarkable and this phenomenon is a key
+point for further success in the corresponding fundamental and applied research. The
+results of this research field can provide new ecologically pure sources of energy,
+substances, and technologies.
+
+The possibilities of inducing and controlling nuclear reactions at low temperatures and
+pressures by using different low-energy fields and various physical and chemical
+processes were discussed in [2, 3]. The aim of this paper is to present the results of
+phenomenological quantization of atomic and nuclear masses and their differences which
+can bring new possibilities for inducing and controlling nuclear reactions by atomic
+processes and new interpretation of self-organization of the hierarchical systems in the
+Universe.
+
+
+HOW DO ATOMS and NUCLEI HAVE PERPETUAL MOTION?
+
+II. Hydrogen Atom in Classical Mechanics
+
+Is it possible to understand some properties of a hydrogen atom from classical
+mechanics? The Hamiltonian for a hydrogen atom is
+
+2
+2
+m vp p H 
+
++
+2
+2
+m ve e
+
+2
+p e
+e
+r r
+
+
+  . (1)
+
+All notation is standard. The definition of the center of mass is
+
+m r m r p p e e   0
+ 
+, (2)
+
+and the relative distance between electron and proton is
+
+p e r r r  
+  
+. (3)
+
+Equations (1) – (3) lead to the results
+
+e
+p
+p e
+m
+r r
+m m
+
+
+ 
+,
+p
+e
+p e
+m
+r r
+m m
+ 
+
+ 
+, (4)
+
+2
+2
+2
+v e H
+r
+
+ 
+
+, (5)
+
+where
+
+p e
+p e
+m m
+m m
+ 
+
+. (6)
+
+The Hamiltonian (5) coincides with the Hamiltonian for the fictitious material point
+with reduced mass  moving in the external field 2
+
+e r/ . If we known the trajectory of
+this fictitious particle r r t  ( )
+ 
+then we can reconstruct the trajectories of electron and
+proton using equations (4):
+
+( ) e
+p
+p e
+m
+r t
+m m
+
+
+
+* r
+
+(t), ( ) ( ) p
+e
+p e
+m
+r t r t
+m m
+ 
+
+ 
+. (7)
+
+It is evident from (7) that the proton and electron move in the opposite directions
+synchronously.
+
+SO THE MOTIONS OF PROTONS, ELECTRONS and THEIR RELATIVE
+MOTION OCCUR WITH EQUAL FREQUENCY
+
+   p e   
+. (8)
+
+We can derive from (7) that
+
+, P P P P p    e
+   
+, (9)
+
+where P m v i i i 
+ 
+. All three impulses are equal to each other in absolute value, which
+means the equality of
+
+( ) ( ) ( ) / D D D     p e h P    . (10)
+
+ Therefore, the motions of proton and electron and their relative motion in the
+hydrogen atom occur with the same FREQUENCY, IMPULSE (linear momentum)
+and the de Broglie WAVELENGTH. All motions are synchronized and selfsustained. Therefore, the whole system -hydrogen atom is nondecomposable into
+independent motions of proton and electron.
+
+
+III. Quantization of Nuclear and Atomic Rest Masses
+
+Almost all quantum mechanical models describe excited states of nuclei, atoms,
+molecules, condensed matter,... neglecting the structure of the ground state of the
+investigated systems. Therefore, we have very restricted information about the properties
+of nuclei, atoms,... in their GROUND STATES. Note that the mutual influence of the
+nucleon and electron spins (the superfine splitting), the Mossbauer effect, and so on are
+well-known. The processes going in the surrounding matter of nuclei change the nuclear
+moments and interactions of nucleons in nuclei.
+
+ We proved that the motions of proton and electron in the hydrogen atom in the
+ground state occur with the same frequency; therefore, their motions are
+synchronized. The cooperation in motion of nucleons in nuclei and electrons in
+atoms in their ground states is still an open problem. We formulate a very simple
+and audacious working hypothesis: the nuclear and the corresponding atomic
+processes must be considered as a unified entirely determined whole process. The
+nucleons in nuclei and the electrons in atoms form open nondecomposable whole
+systems in which all frequencies and phases of nucleons and electrons are
+coordinated, according to the universal cooperative resonance synchronization
+principle.
+
+This hypothesis can be checked at least partly by investigation of the difference
+between nuclear and atomic rest masses. We performed this analysis for the first time
+(details in [4]).
+
+The rest mass differences of atoms in the  -decay (single and double) and electron
+capture (single and double) processes,  -decay, the differences between nuclear and
+atomic rest masses are quantized by the formula [4] (in 2
+MeV
+c
+)
+
+1
+1 2
+2
+0.0076293945 , 1,2,3, , 1,2,4,8 n
+M n n
+n
+      . (11)
+
+The accuracy of this formula (to seven significant digits) can be increased if we take into
+account in our calculations all masses of atoms and nuclei (3177) to ten significant digits.
+The experimental data were taken from P. Moller, et al.:
+http://t2.lanl.gov/data/astro/molnix96/massd.html
+
+1
+1 2
+2
+0.0076293945312 , 1,2,3, , 1, 2, 4,8 n
+M n n
+n
+     . (12)
+
+Note that this quantization rule is justified for atoms and nuclei with different A,N and
+Z , and the nuclei and atoms represent coherent synchronized systems — a complex of
+coupled oscillators (resonators). This means that nucleons in nuclei and electrons in
+atoms contain all necessary information about the structure of other nuclei and atoms.
+This information is used and reproduced by simple rational relations, according to the
+fundamental conservation law of energy. Remember that the following relations exist:
+
+ 
+2 E Mc hv, (13)
+
+where E is energy, h is the Planck constant, and v is frequency. Schrodinger wrote that
+an interaction between microscopic physical objects is controlled by specific resonance
+laws. According to these laws, any interaction in a microscopic hierarchic wave system
+exhibits resonance character
+
+0,
+1
+ 
+
+j
+N
+j
+ij q v (14)
+
+where i =1,2,3,... is a number of linear independent relations, ij q is the matrix consisting
+of only integer numbers. Note that the binary relations from (14) can be rewritten in the
+following way:
+
+,
+j
+i
+j
+i
+v
+n
+n
+v  ( )  1,2,
+i j
+n n  3,..., (15)
+
+In the classical case the resonance occurs only when the frequency of the external field is
+close to the proper frequency of the system. The commonly accepted point of view is that
+the integer numbers in resonance conditions (15) must be small numbers. In the case of
+the argumental pendulum of D.B. Douboshenski and Ya.A. Duboshinsky [5] stable
+oscillations are maintained by an efficient coupling between subsystems whose
+frequencies can differ by two or more orders of magnitude. We come to the conclusion
+that the integer numbers ni
+and j
+n can be any numbers:
+9
+110 .
+
+We originated the universal cooperative resonance synchronization principle and this
+principle is the consequence of the conservation of energy.
+
+The cooperative resonance synchronized processes occur in the whole system:
+cooperative processes including all nucleons and electrons in atoms; in condensed matter;
+and in the surroundings when the resonance conditions (15) are fulfilled for all
+subsystems and the whole system. In this case, the threshold energy Q can be drastically
+decreased by internal energy of the whole system or even more — for example, the
+electron capture by proton in nuclei can be accompanied by emission of internal binding
+energy (which is forbidden in the case of the electron capture by free protons) — main
+source of excess heat phenomenon in LENR. A half-life of neutron in nuclei changes
+dramatically and depends on the isotopes.
+
+As a final result, the nucleons in nuclei and electrons in atoms have commensurable
+frequencies and the differences between those frequencies are responsible for creation of
+beating modes. The phase velocity of standing beating waves can be extremely high;
+therefore, the nucleons in nuclei and electrons in atoms should get information from each
+other almost immediately (instantaneously) using phase velocity. Remember that the
+beating (modulated) modes are responsible for radio and TV-broadcasting.
+The universal cooperative resonance synchronization principle is responsible for the
+unity of the nuclei and atoms. The quantization atomic and nuclear masses (12) with the
+same quanta of mass confirmed our working hypothesis: atoms and nuclei are open
+systems in which all motions are self-coordinated.
+
+
+III. Conclusion
+
+Note that the quantization rule (11, 12) is justified for atoms and nuclei with different
+A N , and Z , and the nuclei and atoms represent coherent synchronized systems – a
+complex of coupled oscillators (resonators). It means that nucleons in nuclei and
+electrons in atoms contain all necessary information about the structure of other nuclei
+and atoms. This information is used and reproduced by simple rational relations,
+according to the fundamental conservation law of energy-momentum. We originated the
+universal cooperative resonance synchronization principle and this principle is the
+consequence of the conservation law of energy-momentum. As a final result, the
+nucleons in nuclei and electrons in atoms have commensurable frequencies and the
+differences between those frequencies are responsible for creation of beating modes. The
+phase velocity of standing beating waves can be extremely high; therefore, all objects of
+the Universe should get information from each other almost immediately
+(instantaneously) using phase velocity [1, 3]. Remember that the beating (modulated)
+modes are responsible for radio and TV-broadcasting.
+
+Therefore, we come to understand the Mach principle. There are different
+interpretations of the Mach principle. The Mach principle can be viewed as the entire
+universe being altered by the changes in a single particle and vice versa.
+
+ The universal cooperative resonance synchronization principle is responsible for
+the very unity of the Universe.
+
+We have shown only a very small part of our calculations by formula (11, 12) and the
+corresponding comparison with experimental data for atomic and nuclear rest mass
+differences. This formula produces a surprisingly high accuracy description of the
+existing experimental data. Our incomplete tentative analysis has shown that the
+quantization of rest mass differences demonstrate very interesting periodical properties in
+the whole Mendeleev periodic table. We hope that it is possible to create an analog of the
+Mendeleev periodic table describing atomic and nuclear properties of the atomic and
+nuclear systems simultaneously.
+
+We bring some arguments [1, 2] that the homology of atoms, molecules (in living
+molecules too, including DNA) and crystal structures exists. So inter-atomic distances in
+molecules, crystals and solid-state matter can be written in the following way:
+
+1
+2
+e
+n
+d
+n
+  , (16)
+
+where e =0.3324918 nm is the de Broglie electron wavelength in a hydrogen atom in the
+ground state (  e p  in a hydrogen atom in the ground state) and   n n 1 2  1,2,3,.
+
+In 1953 Schwartz [6] proposed considering the nuclear and the corresponding atomic
+transitions as a unified process. This process contains the beta-decay which represents the
+transition of nucleon from state to state with emission of electron and antineutrino, and
+simultaneously the transition of atomic shell from the initial state to the final one. A
+complete and strict solution of this problem is still needed.
+
+We did the first step to consider the nuclear and atomic rest masses as unified
+processes (coupled resonators) which led us to establish the corresponding
+phenomenological quantization formula (11), and can bring new possibilities for inducing
+and controlling nuclear reactions by atomic processes and new interpretation of selforganization of the hierarchial systems in the Universe including living cells.
+
+LENR can be stimulated and controlled by superlow energy external fields. If
+frequencies of an external field are commensurable with frequencies of nucleon and
+electron motions, then we should have a resonance enhancement of LENR. Anomalies of
+LENR in condensed matter (in plasma) and many anomalies in different branches in
+science and technologies (for example, homoeopathy, influence of music in nature,
+rhythms, nanostructures…) should be results of cooperative resonance synchronization
+frequencies of subsystems with open system frequencies, with surrounding and external
+field frequencies. In these cases threshold energy can be drastically decreased by internal
+energy of the whole system — the systems are going to change their structures if more
+stable systems result. Therefore, we have now real possibilities to stimulate and control
+many anomalous phenomena including LOW ENERGY NUCLEAR REACTIONS and
+even SUPER-CONDUCTIVITY [1].
+
+We have in principle found a possible way to ACHIEVE SUPER-CONDUCTIVITY
+AT ROOM TEMPERATURE [1].
+
+
+References
+
+[1] Gareev, F.A. In: FPB-98, Novosibirsk, June 1998, p. 92; Gareev, F.A.; G.F. Gareeva
+In: Novosibirsk, July 2000, p.161; Gareev, F.A.; Zhidkova, I.E.; Ratis, Yu.L.
+Preprint JINR P4-2004-68, Dubna, 2004 (in Russian).
+[2] Gareev, F.A.; Zhidkova, I.E.; Ratis, Yu.L. In Proc. of ICCF11, Marseille: France: 31
+October – 5 November, 2004, p.459; Gareev, F.A; Zhidkova, I.E. E-print arXiv nuclth/0505021 v1 8 May 2005; E-print arXiv nucl-th/0511092 v1 30 November 2005;
+E-print arXiv nucl-th/0601015 v1 5 January 2006.
+[3] Gareev, F.A; Zhidkova, I.E. In Proc. of ICCF12, November 27 – December 2, 2005,
+Yokohama, Japan, in http://www.iscmns.org/iccf12/program.htm.
+[4] Gareev, F.A.; Zhidkova, I.E. E-print arXiv nucl-th/0610002 30 Sep 2006;
+arXiv:0708.0305[nucl-th] 2 Aug 2007.
+[5] Doubochinski, D.B.; Duboshinsky, Ya.B. Dokladee Akademii Nauk SSSR, 204, N5,
+1065 (1972).
+136
+[6] Schwartz, H.M. J. Chem. Phys. 21, p. 45, 19

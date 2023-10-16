@@ -1,0 +1,226 @@
+1. - Introduction. 
+
+After the first claims about the so-called ~(cold fusion, phenomenon [1-3] and sev- 
+eral different experiments, it has soon became clear that reliable detectors were 
+necessary for research in this new and particular field, to avoid measurement errors. 
+
+A new, multiparameter, high-efficiency neutron detector[4] was specifically de- 
+signed in Genoa for cold-fusion measurements and used in some typical experiments 
+on titanium-deuterium gas systems. Our aim was to verify, with an improved neutron 
+sensitivity, the results reported by Scaramuzzi and co-workers [3] and to investigate 
+neutron emisssion during high deuterium adsorption in the titanium lattice. In both 
+cases no neutron emission was observed in our experiments. Actually, in the first 
+case, our experimental conditions, as described in the following, were not completely 
+equivalent to the Scaramuzzi ones. 
+
+
+2. - Experimental 
+
+set-up. 
+
+As shown in fig. I the detector is composed of three cylindrical coaxial scintillators 
+shells, each shell being 20cm long and about 5 cm thick [4]. The inner shell is filled 
+(*) Due to the relevance of its scientific content, this paper has been given priority by the 
+Journal Direction. 
+(**) The authors of this paper have agreed to not receive the proofs for correction. 
+293 
+294 
+P. PRATI, G. RICCO, M. TAIUTI, C. BORAGNO, R. EGGENHOFFNER and u. VALBUSA 
+side view 
+ 9 
+I 
+f-el 
+I 
+I anticoincidence 
+~ 
+liquid scintillator 
+plastic scintillator 
+O 
+PM tube 
+Fig. 1. - Detector geometry and composition: side view. 
+PSD channels 
+Fig. 2. - Correlation between pulse pulse shape and pulse height in the liquid scintillator in a 
+two-dimensional plot for an Am-Be neutron source. The pulse height is plotted in MeV electron 
+equivalent units [4] to take into account the effect of the light yield of a neutron inside organic 
+scintillators. 
+with NE213 liquid scintillator and the outer two are plastic NE102A. Cadmium 
+sheets, 1 mm thick, are interposed between the scintillators to capture neutrons ther- 
+realized inside the detector. An anticoincidence cosmic-ray detector is placed over 
+the neutron and the whole system is surrounded by a paraffin (20cm)+ copper 
+SEARCH FOR NEUTRON EMISSION FROM TITANIUM-DEUTERIUM SYSTEMS 
+Fig. 3. - Simulated spectrum of monochromatic neutrons (E = 2.45 MeV) normalized to 100% de- 
+tection efficiency. The energy is plotted in Mee (MeV electron equivalent [4]), and the spectrum 
+is fitted by f(E~ ) = 0.224/(2=~ 2)1/2 exp [(E~ - 0.41)2/(272)]; ~ = 0.15 Mee. 
+energy (Mee) 
+Fig. 4. - A typical background spectrum: energy is plotted in Mee and the c.p.s. (counts per sec- 
+ond) are multiplied by 103 . 
+(2cm) + lead (10cm) wall. A 30cm 3 cylindrical sample can be inserted in the central 
+hole. The NE213 light pulse has different decay times when produced by gamma-rays 
+or by neutron[5]: a pulse shape discriminator, operating on the inner scintillator 
+pulses, efficiently separates gamma from neutron events. Due to the relatively large 
+detector dimensions, a very high fraction of neutrons giving a signal in the liquid 
+scintillator thermalizes and is captured by the cadmium foils. Each neutron event in 
+296 
+P. PRATI, G. RICCO, M. TAIUTI, C. BORAGNO, R. EGGENHOFFNER and U. VALBUSA 
+C 
+V2 
+LN2trap 
+cell 
+Fig. 5. - The deuterium control system. 
+~~ 
+' D2 
+thermocouple 
+LN2out ~
+ 
+II I
+ 
+LN2in 
+turbomolecular 
+pump 
+b 
+45 mm 
+Fig. 6. - The titanium cell and the cryostat. 
+the liquid scintillator gives the START to a time-to-amplitude, converter that will 
+wait 200 ~s for the STOP from gamma-rays produced by neutron capture on one cad- 
+mium sheet and detected by at least one of the three coaxial scintillators. A neutron 
+SEARCH FOR NEUTRON EMISSION FROM TITANIUM-DEUTERIUM 
+SYSTEMS 
+297 
+event is identified by two consecutive trigger signals: the first corresponding to a 
+neutron-type pulse in the liquid scintillator, and the second to the detection of cap- 
+ture gamma-rays within the 200 I~s time window. For each event, the amplitude of the 
+summed three scintillators pulses, proportional to the neutron energy, is recorded. 
+
+The acquisition system, based on a CAMAC interface connected to a MICROVAX 
+computer, allows off-line multiparameter analysis: as an example in fig. 2 is shown 
+the pulse-shape and pulse-height correlation. The signals from the scintillators are 
+stored on the computer each minute: in this way time trends can be monitored. The 
+detection efficiency for 2.45MeV monochromatic neutrons was determined by two 
+Monte Carlo codes [6, 7], tested measuring a calibrated, low-activity Am-Be neutron 
+source, and turned out (12.5 _+ 0.5)%. The detector rensponse to 2.45 MeV monochro- 
+matic neutrons is shown in fig. 3. A typical background spectrum is shown in fig. 4: 
+for neutron energies below 2.45 MeV the background rate is 10 -2 n/s and the detec- 
+tion sensitivity, with a 3~ statistical confidence level, turns out 2.4. T -1/2 n/s, where T 
+is the measurement time. 
+
+The system used to load titanium with deuterium gas is sketched in fig. 5. Before 
+admitting D2 gas in the cell, the system was evacuated up to 10 .6 mbar by a turbo- 
+molecular pump. In a second step the gas was inserted in the dead volume (200 cm 3) 
+flowing through a liquid-nitrogen trap to promote impurities condensation. Finally, 
+the gas was admitted in the cell through the valve V4. A manometer, with sensitivity 
+0.2 bar, was used to measure the pressure drop vs. time and then to estimate the ad- :
+sorption rate of the titanium. Details of the cell are drawn in fig. 6. Great care was 
+used to avoid thermal stresses on the neutron detector; for this reason high vacuum 
+was continuously mantained in the external chamber. The temperature of the exter- 
+hal wall of the cryostat was monitored by a thermocouple and, in measurement condi- 
+tions, it remained close to the room temperature. A second thermocouple was used to 
+measure the temperature of the Ti sample. 
+
+
+3. - Measurements. 
+
+We have performed measurements flowing deuterium gas in two different titani- 
+um samples: shavings, of the same kind of those used by Scaramuzzi and co- 
+workers [3], and powders. The two situations are separately described and discussed 
+in the following: 
+a) Titanium shavings: 24 g of titanium shaving were placed inside the cell 
+without any kind of thermal treatment. The cell insulation was verified whit He gas 
+at several pressures in the range (5 + 25) bar. The background was measured with the 
+vacuum system running (rotative and turbo-molecular pumps) and during thermal 
+transients from room to liquid-nitrogen temperature. No variation in the background 
+level was observed in these tests. The dead volume (see fig. 5) was then filled, at 
+room temperature, with deuterium gas at a 16.5 bar pressure and the valve (V4, see 
+fig. 4) connecting the dead volume with the cell was opened: neither pressure nor cell 
+temperature variations were observed. It is a well-known result, indeed, that no ap- 
+preciable hydrogen adsorption can be obtained without any surface preparation [8]. 
+
+In these conditions a 5 h measurement was performed and the neutron rate turned 
+out compatible with the background level. After this first step the liquid nitrogen 
+was admitted in the cryostat: the cell temperature went down to 77 K in about 10 rain- 
+utes, then the liquid nitrogen was closed and the temperature went back to room tern- 
+298 
+P. PRATI, G. RICCO, M. TAIUTI, C. BORAGNO, R. EGGENHOFFNER and U. VALBUSA 
+perature in about 4 hours. This thermal cycle was repeated consecutively 4 times. 
+
+During all the cycles neither pressure variation nor neutron emission greater than 
+the background level were observed. 
+b) Titanium powders: 32 g of titanium powder then inserted in the cell without 
+any preliminary thermal treatment and the dead volume was filled again with 16.5 
+bar of deuterium gas: the deuterium was then admitted inside the cell and two mea- 
+surement, at room temperature and during a thermal transient, down to 77K and 
+back to 300 K, were performed. Once again neither pressure variation nor neutron 
+emission were observed. After this first run we have degassed the titanium cell by 
+pumping and heating 2 h at 200 ~ 
+Temperature was eventually raised up to 560 ~ 
+and the cell was maintained at this constant temperature in high vacuum conditions 
+for approximately 7h. The temperature ramps in the oven were very slow. After 
+these thermal treatments, performed to favour deuterium adsorption, the sample 
+was inserted in the detector and the dead volume was filled with 16 bar of deuterium 
+gas. When the deuterium was admitted in the cell the pressure went down to zero bar 
+in a few minutes and the cell temperature increased up to 600 ~ 
+During this fast 
+transient a neutron measurement was performed but no emission was detected. 
+
+Then, a long measurement (15 hours) was performed holding the system in the same 
+conditions, once again no neutrons emission was observed. After this first loading the 
+dead volume was filled again with 10 bar of deuterium gas: when the deuterium was 
+admitted in the cell the pressure in the dead volume went down to 8 bar and the cell 
+temperature increased by 4 ~ 
+We concluded that the sample was now loaded with 
+deuterium at the maximum level and in these conditions we performed the following 
+measurements: 
+a 10 hours run with the titanium-deuterium system in stationary conditions; 
+two consecutive runs during thermal transients induced by filling the cryostat 
+with liquid nitrogen. These thermal cycles were completely equivalent to those per- 
+formed on the titanium shavings. During all the measurements no neutron emission 
+was observed. We evaluated, from the dead volume pressure variation, a deuterium- 
+to-titanium ratio in the sample of about 0.65. In these runs the ~s parameter, defined 
+according to Jones and coworkers [1] as the fusion rate per deuterium pair, was lower 
+than 10-25fus/D pair/s. 
+
+
+4. - Conclusions. 
+
+Some measurements on two deuterium-titanium systems were performed without 
+observing any neutron signal above the background level, also with a high deuterium 
+adsorption inside the titanium lattice. With the first sample, the experimental condi- 
+tions were very similar, but not completely equivalent, to those of Scaramuzzi and co- 
+workers [3]. In particular, the thermal transient induced in the cell was slower and 
+the multiparameter analysis, performed on the detector signals, had a dead time of 
+200~s. The second point could make impossible the detection of ~,neutron burst, 
+shorter than the detector dead time; nevertheless we must note that the scintillators 
+count rates, for which the dead time is negligible, was fully compatible with the back- 
+ground level in all the measurements performed. The same considerations can be ap- 
+plied to the second set of measurements. 
+
+As a conclusion, we think that the ,,Scaramuzzi-like, method, that we have fol- 
+SEARCH FOR NEUTRON EMISSION FROM TITANIUM-DEUTERIUM SYSTEMS 
+299 
+lowed, is not reliable because deuterium is not adsorbed in the titanium lattice. Ex- 
+perimental configurations with high deuterium adsorption could be still investigated, 
+in particular in high stress conditions. 
+
+
+REFERENCES 
+
+[1] S. E. JONES, E. P. PALMER, J. B. CZIRR, D. L. DECKER, G. L. JENSEN, J. M. THORNE and S. 
+
+F. TAYLOR: Nature, 338, 737 (1989). 
+[2] M. FLEISCHMANN, S. PONS and M. HAWKINS: J. Electroanal. Chem., 261, 187, 301 (1989). 
+[3] A. DE NINNO, A. FRATTOLILLO, G. LOLLOBATTISTA, L. MARTINIS, M. MARTONE, L. MORI, S. 
+
+PODDA and F. SCARAMUZZI: Europhys. Lett., 9, 221 (1989): Nuovo Cimento A, 101, 841 
+(1989). 
+[4] G. RICCO, M. ANGHINOLFI, P. CORVISIERO, E. DURANTE, S. MAGGIOLO, P. PRATI, A. ROT- 
+TURA and M. TAIUTI: A large solid angle multiparameter neutron detector, in press in Nucl. 
+
+Instrum. Methods. 
+[5] F. T. KUCHNIR and F. J. LYNCH: IEEE Trans. Nucl. Sci., NS-15(9), 107 (1968). 
+[6] M. ANGHINOLFI, G. RICCO, P. CORVISIERO and F. MASULLI: Nucl. Instr~m. Methods, 165, 
+217 (1979). 
+[7] M. TAIUTI, M. ANGHINOLFI, P. CORVISIERO, G. RICCO and A. ZUCCHIATTI: Nucl. Instrttm. 
+
+Methods, 211, 135 (1983). 
+[8] M. A. PICK: in Metal Hydrides, edited by G. BAMBAKIDIS (Plenum Press, New York, N.Y., 
+1980). 
+20 - I1 N~tovo Cimento A 

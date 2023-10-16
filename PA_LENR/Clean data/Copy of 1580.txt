@@ -1,0 +1,378 @@
+1. Introduction
+
+In 1989 there were announcements made of observations of anomalies in metal
+deuterides: Fleischmann and Pons presented observations of an excess heat eﬀect
+in PdD [1], and Jones presented observations of low-level neutron emission in TiD
+[2]. Since then, considerable experimental and theoretical work has been reported
+on these and on other anomalies. As has been noted often over the years, the
+existence of any such eﬀects would require a signiﬁcant revision of nuclear physics
+to explain. We have focused our eﬀorts on understanding the implications of these
+new experiments on theory, as well as on the development of models that may be
+relevant [3-5].
+
+In the nuclear physics literature, the predominant view is that nuclear fusion
+reactions that occur in condensed matter can be understood from idealized models
+in which the local environment is replaced by vacuum. The basic argument is that in
+order to react nuclei must approach to within a few fermis, and that the resulting
+reaction is completed with fast-moving well-separated product nuclei long before
+information concerning the reaction can reach neighboring atoms on an atomic
+scale.
+
+Such a picture cannot be relevant to the excess heat eﬀect in Fleischmann-Pons
+type experiments, in which a large amount of energy (apparently of nuclear origin)
+appears and commensurate 4He is detected. The experimental results are consistent
+with some new kind of reaction mechanism that acts as if
+d+d −→ 4He + 23.8 MeV (heat)
+
+Figure 1.
+Scheme proposed for excess energy production. Molecular deuterium in condensed
+matter makes transitions to 4He states through intermediate n+3He states, with stabilization of
+the intermediatestate through large angular momentum transfer associated with phonon exchange.
+The excitation is transferred to other species, which undergo fast phonon-mediated excitation
+transfer reactions among themselves, transferring energy to the excited phonon mode a few tens
+of phonons at a time.
+
+In vacuum, two deuterons can react to produce 4He; however, energy and momen-
+tum conservation results in the energy being carried oﬀ by an energetic gamma.
+No such gammas or other energetic particles are present in association with the
+Fleischmann-Pons excess heat eﬀect.
+In our view this indicates that the lattice
+participates in the reaction in some way, and that vacuum models will not be rel-
+evant. Our approach then is based on including the lattice (or more generally, the
+condensed matter environment) in the initial formulation at the outset [3-5]. In
+such a formulation one ﬁnds that phonon exchange can occur during the fusion pro-
+cess. For fast incoherent fusion reactions, the exchange of a phonon or two does not
+impact the fusion rate or products in a signiﬁcant way, so that the predictions of
+vacuum models are generally preserved within the new formulation. The new model
+opens the door to a coupling between nuclear reactions that occur at diﬀerent sites,
+as long as two or more phonons are exchanged at each site with a highly excited
+common phonon mode. In this case, there is the possibility of new second-order or
+higher-order quantum processes. We have discussed these ideas in some detail in
+our earlier ICCF conference papers, to which the interested reader is referred.
+
+
+2. Model for excess heat production
+
+At present, we are considering a model for excess heat production that is illustrated
+schematically in Figure 1. There are a number of ideas that are incorporated in
+this scheme. All transitions are mediated by phonon exchange (or by the exchange
+of similar quanta of a macroscopic condensed matter system that produces local
+acceleration of nuclei).
+In order to couple to the lattice, all individual nuclear
+transitions must involve a neutral, such as n+3He → 4He, so that the initial and
+ﬁnal states appear to the lattice to have diﬀerent mass (since the lattice does not
+see neutrals). In the case of AZ, the excited state (AZ)* is one in which there is a
+neutron or neutron cluster and a lower mass daughter with charge Z. Excitation is
+transferred from the D2/4He system on the right to the receiver nuclei on the left.
+In our early work we considered that 4He would be appropriate receiver nuclei in
+this sense, but it is clear that other nuclei such as Pd or other host lattice nuclei
+should be able to participate, with neutron-rich isotopes being able to couple more
+easily to the lattice. As in our earlier publications, we consider the initial fuel to
+consist of molecular D2 in condensed matter (we note that a similar scheme should
+be possible for HD).
+
+To analyze this kind of scheme, we require two diﬀerent basic tools. On the one
+hand, we need to analyze the microscopic interactions between nucleons in order to
+understand phonon exchange and develop estimates for transition matrix elements.
+In addition, we would like to understand the structure of the intermediate n+3He
+state, and the stability of excited neutral plus daughter states in general that are
+involved in the fast excitation transfer on the receiver side. On the other hand, we
+need models that are relevant to the many-site version of the problem. For example,
+we have discussed in previous papers that such models give rise to Dicke enhance-
+ment factors, and that tunneling in the coherent version of the problem appears
+through a rate linearly dependent on the Gamow factor, rather than through the
+square of the Gamow factor as in the case of incoherent transitions. In what follows,
+we will consider both problems.
+
+
+3. Coupled oscillator and two-level systems
+
+To address many site issues, we have been investigating models made up of two-level
+systems and an oscillator. The simplest example of a model that implements the
+ideas outlined above is given by
+
+In this model the D2/4He system is represented by the ﬁrst set of two-level systems,
+under the assumption that suﬃcient phonon exchange is present to allow transitions
+through the n+3He intermediate state with negligible loss. The D2 and 4He states
+are modeled as equivalent two-level systems (superscript 1 here), with transitions
+between these states represented with a hindered (by a tunneling factor e−G) tran-
+sition involving the exchange of up to m1 phonons. The receiver side nuclear states
+are also modeled as equivalent two-level systems (superscript 2) with unhindered
+transitions involving the exchange of up to m2 phonons.
+
+Figure 2.
+In the limit that the receiver-side two-level systems are strongly coupled to the oscil-
+lator, then it is useful to think in terms of two-level systems coupled to a coupled oscillator and
+Dicke system hybrid.
+
+3.1. Receiver as coupled two-level system and oscillator:
+In this model, the receiver-side system alone is composed of two-level systems that
+is strongly coupled to an oscillator. Since transitions involving the ﬁrst set of two-
+level systems are weak, we can think of the system in terms of weak transitions from
+two-level systems (the D2/4He systems) to a hybrid coupled oscillator and Dicke
+system. This is picture schematically in Figure 2.
+
+If we adopt such a view, then we become interested in understanding the hybrid
+system. The receiver-side Hamiltonian is
+
+3.2. Localization issues:
+The models under discussion are relatively complicated, and it is appropriate to
+make use of all tools available to gain understanding of how the models work. In the
+case of the coupled oscillator and Dicke system, there is an interesting and relevant
+limit that we need to consider. In the limit that the number of oscillator quanta
+is very large, and also that the number of excited states of the two-level system is
+also very large, then it is possible to develop analytic solutions. For simplicity, we
+focus on a version of the model with single phonon exchange (m2 = 1), in which
+case the limit of the coupled oscillator and Dicke model approaches
+This Hamiltonian has localized even eigenfunctions given by
+The associated eigenvalues are given by
+Very similar eigenfunctions occur for N0 + n0 odd.
+
+3.3. Dynamics and slowly varying g:
+Although we have an important limit of the coupled model in which localized solu-
+tions occur. What this means speciﬁcally is that the system will develop ﬂuctuations
+in n and N that are on the order of the coupling constant g. For net conversion
+of nuclear energy into phonon energy, a simple ﬂuctuation is not helpful – we need
+large numbers of oscillator quanta to be converted, far more than g. Consequently,
+we need to understand what eﬀects are capable of making the eigenfunctions delo-
+calized. In addition, we might expect that the rate for net energy transfer between
+the two systems may be relatively small.
+
+Since g is essentially the interaction matrix element divided by the transition
+energy, it can be on the general order of the number of receiver-side two-level systems
+(if we are able to arrange for half to be excited), since the underlying interaction
+strength per nucleus is probably on the order of a few MeV. Hence, the coupled
+system in this kind of model is very strongly coupled, and ﬂuctuations will be very
+large. As a result, the coupling strength g will vary over the eigenfunction in the
+(N, n) conﬁguration space, which can result in a ﬁnite (but small) rate of net energy
+transfer.
+
+From the results of numerical calculations some intuition has emerged concern-
+ing the dynamics associated with this system (when g is not ﬁxed as a constant).
+This kind of model appears to be able to make rapid transitions between states with
+diﬀerent N (two-level system excitation) with little phonon exchange. Such dynam-
+ics can occur on a frequency scale that is on the general order of g∆E/ℏ. Transient
+solutions can be developed which show occupation of states that correspond to
+∆E/ℏω0 phonons exchanged on a frequency scale that is on the general order of
+gω0. However, these solutions tend to have roughly equal amounts of components
+with fewer or more phonons.
+
+We are looking instead for slower dynamics where all states occupied have
+roughly the same energy, in which nuclear energy is traded oﬀ for oscillator en-
+ergy. Since constant g produces localization, one might expect that variations in
+g will be responsible for delocalization and consequently net energy exchange be-
+tween the coupled systems. To study this we have in earlier work carried out a
+change of basis in which the (N, n) conﬁguration space is replaced by an expansion
+in the localized basis functions discussed above. The general conclusion is that un-
+der conditions where the approach is valid (slowly varying g), the system would be
+expected to develop localized solutions made up of superpositions of localized basis
+functions.
+
+Figure 3.
+Spread in oscillator number ∆n (upper points) and in Dicke number ∆N (lower points)
+for eigenfunctions centered near ⟨N⟩ = 8 and ⟨N⟩ = 10. The calculations performed for a set of
+15 two-level systems coupled to an oscillator with large n.
+
+
+4. Delocalization
+
+There are perhaps some positive things to be said about the problem of delocaliza-
+tion. Suppose one simply sets up the coupled Hamiltonian and begins solving for
+eigenfunctions, keeping track of how localized the eigenfunctions are as a function
+of model parameters. To simplify things, consider the limit where the number of
+oscillator quanta is suﬃciently large that g does not depend on n. If we focus on
+ﬁnite models, and look at the eigenfunctions that are roughly centered near the mid-
+range of the problem in n and in N, we ﬁnd a number of interesting conclusions.
+At small g, we see localization, which can be measured quantitatively through the
+ratio of the spread in n compared to the spread in N
+In the case of localized solutions, this ratio is essentially unity. As g increases,
+the eigenfunctions begin to approach the boundaries in N, which keeps them from
+expanding arbitrarily in this direction, and which also causes them to elongate in
+the n direction (since the underlying symmetry that causes localization becomes
+broken). This eﬀect is illustrated in Figure 3 in the case of 15 two-level systems.
+
+To understand the associated dynamics we have done some computations in or-
+der to ﬁnd out at what frequencies dynamical transitions occur. In the calculations
+so far there is a strong response (as measured through oﬀ-diagonal matrix elements
+⟨Φi|n|Φj⟩) at
+δϵ = 2ℏω0
+There are also lesser contributions at both lower and higher frequencies. The model
+then has in it a characteristic time (1/2ω0) to transfer some unit of energy between
+the two systems. It remains to be determined whether this is a local oscillation, or
+whether it is characteristic of a more extended transfer process.
+
+
+5. Dynamics of coupled Dicke systems
+
+Based on the discussion above, we are motivated to consider a new kind of model
+to describe the dynamics of the D2 system and the coupled receiver system.
+If
+we assume that signiﬁcant conversion of excitation on the receiver side to phonons
+is slow, then it seems productive to neglect it completely in order to develop a
+description of the excitation transfer dynamics associated with the populations.
+
+There is the question of resonance. On the one hand, there is no reason to expect
+there to be receiver nuclei transitions that are matched to the energy diﬀerence
+between D2 and 4He. On the other hand, there is no excitation transfer between
+unmatched Dicke systems in the limit of hindered coupling and no phonon exchange.
+This sharply limits the possibilities. If the energy of the nuclear excitation is ﬁxed
+and oﬀ of resonance, then the energy diﬀerence must be made up through phonon
+exchange in the strongly-coupled oscillator and Dicke system on the receiver side.
+Alternatively, it may be the case that the nuclear excitation energy on the receiver
+side is determined by the energy involved in the excitation transfer. The argument
+in support of this is that one would expect the nuclei to have a very broad energy
+response (perhaps roughly proportional to the giant dipole response, but not the
+same since our excitation is not dipolar) under the conditions of excitation transfer.
+After all, if a quantum of energy is transferred, and if the nuclear system does not
+loose the energy, then it should be available for transferring back. Overall in this
+scenario the transfer process would create a precise resonance.
+
+From our perspective, either scenario is consistent in principle with the discus-
+sion which follows. There is a price to be paid, however, if the energy diﬀerence
+must be made up by phonon exchange. That price is a substantial reduction in
+eﬃciency, since it would be that the associated “oscillator strength” of the hybrid
+system must have a large energy spread.
+
+5.1. Evolution of resonant coupled Dicke systems:
+Excitation transfer between resonant Dicke systems is governed by the Hamiltonian
+The development of evolution equations for expectation values of the pseudospin
+operators is highly nontrivial in the general case, and does not appear to lead to
+useful results. However, we have had success developing an approximate Ehrenfest
+calculation by adopting a restricted basis composed of degenerate states. The results
+of the Ehrenfest analysis, augmented empirically with loss, results in the following
+coupled equations
+Here n1(t) and n2(t) are the average number of excited states in system 1 (D2 side)
+and system 2 (receiver side), and v1(t) and v2(t) are the associated velocities. The
+acceleration is a(t). The Dicke number for the two sides are N1 and N2, which can
+be as large as the total number of nuclei involved on each side.
+
+5.2. Example:
+In Figure 4 we show results from a numerical calculation of the evolution equations
+for resonantly coupled Dicke systems. In this calculation we have assumed that
+there are ten times more receiver side nuclei in the ground state than there are D2
+molecules in the upper state. In addition, we have set the relaxation time to be
+matched to the coherent transfer rate. If we use a much slower relaxation time,
+then we observe population returning from the receiver side.
+If we use a much
+faster relaxation time, then we observe a slower net transfer of excitation. The
+problem in this case is that if the receiver-side nuclei decay rapidly, then there
+are relatively few around to provide a (receiver-side) Dicke enhancement of the
+acceleration. In essence, the fastest net energy generation rate is obtained when we
+match the excitation transfer rate with the receiver-side loss.
+
+Figure 4.
+Calculation of normalized populations x(t) = n1(t)/N1 and y(t) = n2(t)/N1 as a
+function of normalized time for conditions in which N2 = 10N1.
+
+
+6. Avoidance of loss
+
+We have noted previously in our quantum ﬂow calculations that the probability
+amplitude tends to avoid regions of high loss. A very much simpliﬁed version of
+this argument can be given. Consider the situation of two states that are coupled,
+one loss free and the other with high loss:
+
+We initialize the system such that c0(0) = 1, and ask what happens later on. The
+exact solution is more complicated than what we are interested in here; however,
+a useful simpliﬁcation is allowed if we assume that the level 1 loss is very strong.
+In this case, c0 decays slowly as we will ﬁnd, and we may assume that the c1(t)
+probability amplitude is determined in the steady state by
+with E approximately H0. The resulting evolution of level 0 is then
+The eﬀective loss seen by level 0 is then
+Increasing the level 1 loss γ1 to ever larger values has the perhaps unexpected
+eﬀect of decreasing the level 0 loss. In essence, the probability amplitude tends to
+avoid level 1 as it gets increasingly lossy. Alternatively, one can view this result as
+indicated that the maximum loss from level 0 is obtained when the loss is matched
+to the coherent transition rate.
+
+
+7. Nuclear models
+
+We have made progress on the other half of the problem which involves the calcula-
+tion of the nuclear response in the presence of phonon-mediated excitation transfer.
+The calculation of phonon exchange matrix elements requires the inclusion of the
+nuclear center of mass coordinates as phonon operators. Results relevant to such
+calculations for the four-body problem is discussed in another paper submitted to
+this proceedings. [6]
+
+We have in addition developed a new strategy for the calculation of the nuclear
+response which may be worth discussing brieﬂy. The lattice generalization of the
+resonating group method that we have developed allows us to include phonon ex-
+change explicitly in calculating nuclear interaction matrix elements. It seems that
+the most relevant and perhaps cleanest calculation which is needed is a second-order
+process in which an initial nuclear system receives energy via excitation transfer in
+a ﬁrst phonon mediated strong force interaction, then evolves as a daughter plus
+neutral, and after a while makes a transition to a ﬁnal state nuclear system. The
+basic interaction matrix element can be represented as
+In the initial state, we see an internal nuclear wavefunction Φi(ξ1, · · · , ξA), with ξj
+as relative nucleon coordinates, embedded in a lattice (or condensed matter system)
+described by Ψi(q). Transitions are mediated by the strong force, described here by
+the nuclear potential VN. The intermediate internal nuclear wavefunctions for the
+diﬀerent possible intermediate conﬁgurations are Φint. The lattice wavefunction in
+the intermediate state is implied through the speciﬁc bra and ket arrangements,
+but since there is a neutral involved in the intermediate state, the phonon modes
+of the lattice wavefunction are rotated through a Duschinsky transform (leading
+to intermediate wavefunctions of the form Ψint(A · q). Finally, the neutral and
+daughter come back together through the second potential interaction, producing
+ﬁnal state nuclear Φf(ξ1, · · · , ξA) and lattice wavefunctions Ψf(q). In this case,
+the phonon basis for the initial and ﬁnal state lattice wavefunctions are locally the
+same, since there is no net mass change. There could be rearrangements in either
+the initial or ﬁnal state systems, such as would occur if D2 or HT molecular systems
+are involved. However, when the nuclei are close enough to interact, the lattice will
+simply see four nucleons and two charges.
+
+Figure 5.
+Feynman-type diagram for matrix element involving intermediate lattice plus neutral
+states.
+
+This basic calculation is involved both in phonon-mediated transitions of the
+form D2 → n+3He → 4He on the D2 side, as well as AZ → nm+A−mZ → AZ transi-
+tions on the receiver side. The matrix element can be represented by a Feynman-like
+diagram that is illustrated in Figure 5. Implicit in the expression for the matrix
+element and also in the diagram is the point of view that the lattice (or condensed
+matter system) separates from a neutral (in association with an excitation transfer
+event), evolves as a daughter lattice plus neutral in the intermediate state, and then
+comes back together to form the ﬁnal state lattice. Instead of a vacuum language
+that focuses on nuclei and nucleons, in the formulation under discussion, the in-
+teraction is with a nuclei which is part of a lattice, and it is helpful to think of it
+as a neutral plus lattice separation. Such a view makes plain what the calculation
+involves at the outset, and makes clear that it is in fact a fundamentally diﬀerent
+calculation than what is involved in related vacuum calculations.
+
+
+8. Summary
+
+We are moving toward viewing relevant models as involving the hindered coupling
+between a Dicke system for the D2/4He side and a hybrid quantum system on the
+receiver side composed of one or more Dicke systems strongly coupled to one or
+more highly excited oscillators. In previous work, we have been interested in the
+possibility that loss can break the symmetry of the coupled oscillator and Dicke
+Hamiltonian in order to allow the conversion of nuclear energy to phonon energy.
+Here we have shown that the boundaries associated with the Dicke system can
+accomplish the same basic function in a relevant strong coupling limit. Such a model
+is capable of transferring energy on a timescale relevant to the oscillator frequency,
+but we have not as yet clariﬁed how much energy is transferred during that time
+(other than the fact that it can be at least as large as one nuclear quantum).
+
+We presented the results of an Ehrenfest analysis of coupled resonant Dicke
+systems, augmented with loss to take into account energy coupling with the lattice
+in an empirical way. The resulting evolution equations should be relevant to the
+dynamics of fusion reactions under conditions where the D2 source is ﬁxed (not
+replenished). Progress on the nuclear calculations was discussed brieﬂy as well.
+
+
+References
+
+1. M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal Chem., 201, p.301 (1989);
+Errata, 263 p. 187 (1990). See also M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li
+and M. Hawkins, J. Electroanal. Chem., 287, p. 293 (1990).
+2. S.E. Jones, E.P. Palmer, J.B. Czirr, D.L. Decker, G.L. Jensen, J.M. Thorne, S.F. Taylor
+and J. Rafelski, “Observation of cold nuclear fusion in condensed matter,” Nature 338
+737 (1989).
+3. P. L. Hagelstein, Proceedings of the Ninth International Conference on Cold Fusion,
+May 2002 Beijing, China, edited by X. Z. Li, p. 121.
+4. P. L. Hagelstein Proceedings of the Tenth International Conference on Cold Fusion,
+Aug. 2003 Cambridge, MA, edited by P. L. Hagelstein and S. R. Chubb, p. 837.
+5. P. L. Hagelstein Proceedings of the Eleventh International Conference on Cold Fusion,
+Nov. 2004 Marseilles, France, edited by J. P. Biberian, (in press).
+6. I. Chaudhary and P. L. Hagelstein, this proceedings.

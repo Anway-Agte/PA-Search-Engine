@@ -1,0 +1,40 @@
+1. Introduction
+
+Penetrating radiation passing through the discharge chamber walls made of steel with a thickness of 5 mm was recorded during the experiments with a high-current glow discharge (Fig. 1). The experiments showed that it was secondary radiation produced in the interation of primary x-ray radiation (from the solid-state cathode medium) with the material of the chamber walls, construction elements, and pro- tective lead shields. The generation of the x-ray emission from the cathode is 100% reproducible, and this allows us to carry out research on the secondary penetrating radiation.
+
+
+2. Device and Experimental Technique
+
+The experiments were carried out with a high-current glow discharge1 with various gases (H2, D2, Kr, Xe) gases at pressures up to 10 Torr; using metal cathode samples (made of Al, Sc, Ti, Ni, Nb, Zr, Mo, Pd, Ta, W, Pt); operating at currents up to 500mA and with discharge voltages in the range of 500–2500V. A pulse-periodic power supply for the glow discharge was used, with a pulse duration of the discharge current of t = 0.3–1.0 ms, and with a period of T = 1.0–100 ms . The targets as shields were made of various foil materials (Al, Ti, Ni, Zr, Yb, Ta, W) with thickness of 10–30μm; these were arranged at a distance of 21 and 70cm from the cathode (Fig. 2a and b). A scintillation detector and a photomultiplier was used to record secondary radiation. The scintillation detector was mounted at the end of a 70 cm tube coaxial with the cathode surface (Fig. 2c). A magnetic system for creating a cross field normal to the radiation axis was mounted 35 cm from the cathode.
+
+Figure 1. (a) Registration diagram; and (b) photographs of reflected x-ray laser beams.
+Figure 2. Schematic representation of an experiment with x-ray targets (secondary penetration radiation research). PM-scintillator system: (1) cathode sample; (2) anode; (3) 15μm Be foil screens; (4) scintillator; (5) photomultiplier; (6) magnetic bar (magnetic induction between mag- netic poles is about 0.2 T); (7) X-ray targets made a foil of various materials.
+Figure 3. Typical oscillograms of bursts from secondary penetration radiation beams (fast elec- trons) in the discharge for different kind of assemblies. Upper curves are signals from the scintillator PM detector, and lower curves are discharge current. The cathode sample is Ta; the discharge current is 100mA, the discharge gas is D2. (a) Assembly is shown ahead in Fig. 2a; and (b) assembly is shown in Fig. 2c. [the magnetic field causes the secondary penetrating radiation (fast electrons) to not register]. In (a), the signal denoted with an asterisk (*) was chopped by the amplifier.
+
+The procedures to record and calibrate the radiation readings of the detector were similar to the procedures used to measure primary radiation beams. Temporal spectra of the radiation were recorded before and after the discharge current, when no current was flowing.
+
+
+3. Experimental Results
+
+A magnetic field was used to distinguish charged particles from neutral particles and electromagnetic radiation. The device used for this was placed up to 70cm from the cathode (Fig. 2b and c). When free of the magnetic field, no significant attenuation of the scintillator PM detector signal was observed when the distance from the cathode to the detector was increased from 21 to 70 cm (Fig. 3a). The introduction of a 0.2 T magnetic field led to the complete disappearance of the signal on the scintillator PM detector (Fig. 3b). Hence, the secondary radiation was a flux of charged particles (presumably fast electrons).
+When the distance from the cathode was increased from 21 to 70 cm, the pri- mary x-ray laser beams retained the ability to generate secondary radiation when interacting with targets made of various materials (Figs. 4 and 5). Different types of oscillograms of the primary radiation were observed, which depended on the cathode material (Fig. 6a). Secondary x-ray radiation of two types were observed:
+(1) Radiation with a continuous time spectrum as separate bursts with intensity up to 106 photons per burst. This emission began 0.5–1.0ms after turning off the discharge current.
+(2) Radiation with a discrete time spectrum and radiation intensity up to 109 photons per burst. Distribution of the bursts by the time of this radiation depended upon the target material (Fig. 6b and c).
+
+Figure 4. Typical oscillograms of bursts from secondary radiation beams (fast electrons) during the discharge for different of target materials. The cathode sample is Mo, D2; the discharge current is 100 mA; The assembly is shown in Fig. 2b. (a) Ta foil target, 10 μm thick; (b) Mo foil target, 20 μm thick. Asterisk (*) denotes that the pulse peak was chopped by the amplifier.
+
+The results from experiments in which radiation bursts were recorded were used for a study of the associated time dependence. The dependence of the radiation burst intensity on the time interval between the end of the current pulse and be- ginning of the radiation bursts was determined. The time spectrum of the primary x-ray laser radiation had a discrete character. The type of the time spectrum of the primary x-ray was determined by the cathode material. Separate bursts were recorded within 85 ms after turning off the current. The time spectrum of the sec- ondary radiation also had a discrete character, but the type of this spectrum was determined by the target material.
+A third type of penetrating radiation was observed as well. This type was recorded directly by the photomultiplier placed behind the target without a scin- tillator. In this scheme, the target was placed between the shield (plastic, with the thickness of 3 mm) and the PM detector. The type of secondary radiation was determined by the detector material. The anomalous high penetrating ability of this radiation type requires additional research to explain.
+
+Figure 5. Typical oscillograms of bursts from secondary radiation beams (fast electrons) during the discharge for different target materials. The cathode sample is Mo; the gas is D2; and the current 100 mA; and the assembly is as illustrated in Fig. 2b. (a) Ni foil target, 30 μm thick; (b) Al foil target, 100 μm. Asterisk (*) denotes that the pulse peak was chopped by the amplifier.
+Figure 6. Typical oscillograms of bursts from primary radiation (a), discharge current [below (a)], and secondary radiation (fast electrons) from different target metals. The cathode sample is Ta; the discharge gas is D2; the discharge current is 180mA; and the assembly is that shown in Fig. 2b. (b) Al target, 1.4 mm thick; (c) Yb target, 1.8 mm thick. Asterisk (*) denotes that the pulse peak was chopped by the amplifier.
+
+
+4. Conclusion
+
+The results obtained show that the creation of an optically active medium with long- lived metastable states with energies in the range 1–5 keV (and more) is possible in the solid state.
+
+
+5. References
+
+1. A.B. Karabut, Research into powerful solid X-ray laser (wave length is 0.8–1.2nm) with excitation of high current glowdischarge ions, in Proceedings of the 11th Inter- national Conference on Emerging Nuclear Energy Systems, 29 September–4 October 2002, Albuquerque, New Mexico, USA, pp. 374–381.

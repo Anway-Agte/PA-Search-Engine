@@ -1,0 +1,147 @@
+General Situation
+
+After the Como conference some institutes slowed down their steps
+due to the unfavorable atmosphere about the cold fusion (the close of National Institute of Cold Fusion at Utah etc.), or due to the difficulties in
+repetition. However, the cold fusion researcher in China survived and the
+quality of researches improved. Enlightened by the discharge tube exp
+eriment at Institute of Southwestern Nuclear Physics and Chemistry c
+3 in 1989, Professor Long He-Ging of Sichuan Institute of Material and Technology continuously improved his glow discharge tube experiment and
+obtained the evidences of anomalous neutron emission. The emission rate
+has been enhanced by a factor of ten in a year and it is reproducible. Institute of Applied Physics and Computational Mathematics helped in theoretical calculation to show that those neutron emissions were not caused
+by any beam-target effect or hot fusion. Furthermore, two days continuous neutron emission was monitored in an electrolytic cell at Institute of
+Southwestern Nuclear Physics and Chemistry also. The neutron energy
+distribution after slowing down was comparable with the standard
+neutron source. An accident of the explosion of electrolytic cell there was
+analyzed, and it was found that the energy released was much more than that from any possible chemical reactions. 
+
+Tsinghua University persists its "dry" experiment with CR-39 solid 
+nuclear track detector. The resistance of palladium wire was measured in 
+situ in a pressurized vessel to watch the evolution of a deuterized 
+palladium wire. The Silicon Surface Barrier Detector (SSD) was used to 
+detect the energetic charged particles in real time. Searching in the com­
+bination of parameters (pressure. temperature. loading ratio etc.). we ex­
+pected to find the precursor of the burst signals in the SSD. In the same 
+time Tsinghua University Group proposed the •combined Resonance 
+Tunneling" and the concept of "Semi-Resonance•, c D 
+which may pro­vide the possible mechanism to explain why the Coulomb barrier is pene­
+trated at low incident energy and why the small nuclear scale reactions are 
+affected by the large crystal scale parameters. 
+
+The team at Southwestern Institute of Physics continued their exper­
+iments in the deuterium plasma of magnetic mirror machine and in a 
+coaxial AC discharge tube. The bursts of neutrons appeared once and 
+once again. The experiments persist. although the leader of that team was 
+in a cancer disease. 
+
+The China Institute of Atomic Energy measured the time-behavior of 
+the signals after the bursts. in order to distinguish the neutron signal from 
+electronic noise in a temperature cycling of metal (Ti)-deuterium system. 
+
+Beijing Normal University resumed their electrolytic cell experiment 
+with a palladium electrode from Russia shortly before the conference, and 
+the neutron signals were found again. 
+
+Xiamen University made a helium detection system. which is able to 
+detect 4 x 108 helium atoms in deuterium matrix. A Zr-Al pump system 
+was set up for separation of helium from deuterium. 
+
+Chengdu University of Science and Technology attempted to corre­
+late the excess heat with helium production in an electrolytic cell with 
+titanium electrode. The mass-spectrometer measured different results 
+from the Ti sample above the electrolyte surface and the Ti sample beneath 
+the electrolyte surface. 
+
+Institute of Chemistry. Academy of Science. proposed a State-Field 
+Theory of Thermodynamics which implies a critical value of heat dissipa­
+tion during the electrolytic process in the cell. It is claimed that cold fusion 
+is possible only if the hea.t dissipation is higher than this critical value. 
+
+University of Science and Technology of China. Graduate School in 
+Beijing observed energetic charged particles not only from the deuterized 
+palladium. but also from the Y1 Ba2Cu307_.s superconductor I Deuterium 
+system. using CR-39 technique. 
+
+
+Continuous Neutron Emission from Glow Discharge Tube
+
+As a strong evidence of the anomalous nuclear phenomenon. the 
+neutron emission from the glow discharge tube has been carefully studied 
+since April 19. 1989. It is found that the metal film on the surface of glass 
+bulb and the flowing deuterium gas are two key points to make neutron 
+emission reproducible. The emission rate has been enhanced from 103 n / sec to 104 n / sec; therefore. the neutron emission can be con- firmed by activation method which is free from the electromagnetic noise.  Indium foil and iridium foil are used as activation detectors. both of them give The same results for the average neutron influx. ~104 n/ (m2 • sec). c2) 
+
+The energy spectrum of the neutron emission was measured by the 
+fast neutron curtain to distinguish the neutrons from hot fusions. If there 
+was beam-target effect to produce the d-d fusion. the energy of neutron 
+should have been less than 2.45MeV. However. the energy spectrum 
+showed clearly that there were two groups of neutrons. one group had the 
+energy greater than 2.45MeV. and another group had the energy less than 
+2.45MeV. The number ratio of the first to the second group was greater 
+than 9. Consequently, this neutron emission confirmed the existence of 
+anomalous nuclear effect in deuterium/ solid systems. 
+
+The interest point is that palladium turns out to be not necessary for 
+neutron emission. Platinum. niobium. tungsten. palladium. silver. copper. 
+molybdenum and iron are all tried as an electrode material. All of them 
+have the neutron emission. the difference consists in the quantity of 
+neutrons. which is the greatest for Pt and the least for iron. 
+
+
+3, "Combined Resonance Tunneling" and "Semi-Resonance•. 
+
+Even if we might reproduce the anomalous nuclear phenomenon 
+once and once again. we might not be able to convince ourselves thor­
+oughly if we do not have any model or theory to explain it. Among the 
+long list of questions. the first is how the Coulomb barrier is penetrated at 
+such a low incident energy; the second is why the parameter variation 
+in crystal scale has an effect on the reaction in nuclear scale. i.e. why the 
+operation in 1 o-8cm has an effect in 1 o-13cm.
+
+In fact. these two questions were solved in fission reactor already, 
+since the neutron needs not to penetrate any Coulomb barrier. and the 
+resonance energy levels at low energy make it possible to control the nu­
+clear reaction by careful design of the neutron slowing-down process in 
+terms of macroscopic parameters. However. in the fusion reaction. 
+
+Coulomb barrier is inevitable. and no resonance energy level has been 
+found at low energy after 20 year searching. Fortunately, looking at the
+energy saectrum of 4He nucleus there is a "Semi-Resonance" level at low
+energy. 2) "Semi-Resonance" is not a resonance. but it is an energy lev­
+el just in the mid of two resonance levels. When two deuterons approach 
+each other with zero energy, the energ� of two deuteron system is
+23.8MeV higher than the ground level of He. We noticed that there are
+two excited states of 4He at energy levels of 25.5MeV and 22.1 MeV. 23.8
+MeV energy level is just in the mid of these two resonances. Since 
+"Semi-Resonance" is not a resonance. the penetration of single Coulomb 
+barrier at "Semi-Resonance" energy level is still impossible. Nevertheless. 
+the combination of two "Semi-Resonance" by a resonance in crystal lat­
+tice might be penetrated together. This is proved by Quantum Mechanic 
+tunneling theory. A new formalism for W.K.B. approximation is proposed 
+to facilitate the calculation. In parallel. a microwave experiment is done to 
+prove this conclusion of wave mechanics. 
+
+
+4, Future Plan 
+
+After the confirmation of the anomalous nuclear phenomenon. the 
+next step should be more oriented towards mechanism. It would be a long 
+term basic research project. and the international academic exchange is 
+encouraged. An international diagnostic team to detect the neutron emis­
+sion from glow discharge tube and calibrate the energy spectrum of the 
+neutrons is suggested. 
+
+Invited talks about the could fusion status have been given at the 
+National Congress of Chinese Nuclear Physics Society (Xian 1991) and at 
+the International Conference on Laser-Plasma Interaction ( Shanghai. 
+1992). and will be given at International Conference on Plasma Physics 
+(Changsha. 1993). The scientific community is changing the attitude to­
+wards this new hydrogen energy source. We may expect a new discipline 
+of science. "Solid State Nuclear Physics". soon. 
+
+
+6, References 
+
+(1) Li. X.Z .. et al.. The Proceedings of ICCF3.
+(2) Long. H.O .. et al.. The Proceedings of ICCF3.
+(3) Xiong. R.H .. et al.. The Proceedings of the First Symposium on Cold
+Fusion in China. Beijing, May 10. 1990. P.187.

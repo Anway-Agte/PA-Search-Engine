@@ -1,0 +1,290 @@
+Introduction.
+
+Nuclear reaction rates at very low projectile energies, far below the
+Coulomb barrier, are sensitive to the electronic properties of target materials. The electrons
+surrounding the reacting nuclei can increase the tunneling probability through the Coulomb
+barrier leading to an enhancement of nuclear reaction rates at low projectile energies. The
+electron screening eﬀect was originally discussed due to its importance for dense astrophysi-
+cal plasmas, where nuclear reaction rates can be increased by many orders of magnitudes [1].
+Experimentally, the screening eﬀect could be veriﬁed only ﬁfteen years ago in gas target exper-
+iments [2] by an observation of an exponential-like increase of the measured cross-section for
+decreasing projectile energies compared to the cross-section expected for bare nuclei. Theoret-
+ically, this eﬀect was described [3] by applying a conception of the electron screening energy
+resulting from the gain in the electron binding energy between the initially separated atoms
+and the ﬁnally united atom. In the experiments, the screening energy could be treated as an
+energy shift of the kinetic energy of the reacting nuclei causing an increase of the penetration
+probability through the Coulomb barrier.
+
+Table I – Electron screening energies determined for various target materials.
+
+The fusion reactions 2H(d, p)3H and 2H(d, n)3He are especially suitable for the study of
+such eﬀects, due to their relatively high cross-sections and low Coulomb barrier. Recently [4],
+we have shown that the screening eﬀect investigated for the d + d fusion reactions in metallic
+environments is by about a factor of 10 stronger than that observed for the gas target [5] and
+up to a factor of 4 larger than the theoretical predictions [6]. Such ﬁndings were also conﬁrmed
+by results of other groups [7–10]. From a theoretical point of view, the experiments performed
+with deuterized metals provide information about the electron screening not only due to bound
+electrons as is the case for gas-phase experiments, but also about a contribution arising from
+free metallic electrons. The latter gives us a possibility to test models of the electron screening
+based on the dielectric function theory which describes the electronic dynamics in solids [11]
+as well as in dense astrophysical plasmas [28]. Here, we compare our previously published [4]
+and some new experimental data with the results of an improved theoretical approach includ-
+ing the self-consistent correction of the dielectric function. This enables us to determine a
+reliable deuteron-deuteron potential within a host metal also for large distances corresponding
+to very low deuteron energies. Applying the form of the screened potential, we predict some
+consequences for nuclear reactions taking place in metallic environments at energies down to
+room temperature. By means of the theoretical calculations, we shall compare our experimen-
+tal results achieved at higher energies using a classical accelerator technique with the data
+obtained in so-called cold-fusion experiments, i.e. in the heavy-water electrolysis [12,13].
+
+
+Experimental procedure. –
+
+The experimental results obtained for C, Al, Zr and Ta have
+already been presented previously [4, 14, 15]. The experiment with Pd has been performed
+analogously, so only an outline of the experimental procedure will be given here. The D+
+and D+
+2 beams from the electrostatic accelerator of energies ranging between 5 and 60 keV
+were magnetically analyzed, focused and impinged on a Pd foil. Diﬀerently to the previous
+experiment, where the targets were implanted to large deuteron densities corresponding ap-
+proximately to the chemically stable stoichiometry (see table I), the implantation process of
+the Pd foil was interrupted at a relatively small deuteron density in order to study fusion
+reactions in the metallic environment possessing a small number of crystal-lattice defects and
+reducing the number of possible deuterium bubbles resulting from long-term irradiation. The
+reaction products (protons, tritons and 3He particles) were detected by four Si-detectors lo-
+cated in the reaction plane at backward angles. Since the thickness of all targets was much
+larger than the projectile range, the experimental results can be expressed by the thick-target
+yield Y (E). Here we restrict ourselves only to the reaction 2H(d, p)3H for which the total
+thick-target yield was obtained by integrating the proton spectral line over the experimen-
+tally determined angular distribution [4]. An exponential-like enhancement of the total yields
+observed in the experiments for decreasing projectile energies can be described using the con-
+ception of the electron screening energy Ue [3]. According to this, a reduction of the height
+of the Coulomb barrier corresponds to an increase of the kinetic energy of the reacting nu-
+
+Fig. 1 – Screening function calculated with and without the local ﬁeld correction (LFC) (left) and
+the corresponding eﬀective screening energies (right) obtained for PdD.
+
+clei in the expression for the barrier penetration. Consequently, a formula for the screened
+cross-section reads as follows:
+
+Here S(Ecm) is the astrophysical S-factor determined for the bare nuclei taken at the center-
+of-mass energy Ecm. EG = 986 keV is the Gamow energy. In the case of Ue = 0, one obtains
+the standard relation between the cross-section and the S-factor. Note that eq. (1) diﬀers
+from the analogous formula used in the previous works [3,4,7–9], where the screening energy
+correction has been incorrectly applied also to the wavelength dependence of the cross-section
+being inversely proportional to the square root of E.
+At the very low deuteron energies
+investigated here this proper correction is signiﬁcant.
+
+Since the bare nuclei S-factor is very well known from the precision measurements per-
+formed on the gas target [16], the experimentally determined enhancement of thick-target
+yields can be described by ﬁtting the screening energy Ue. The results obtained for diﬀerent
+targets are presented in table I. A clear target material dependence of the screening energy
+can be observed.
+
+
+Theoretical approach —target material dependence. –
+
+The screening eﬀect in metals can
+be described in analogy to the strongly coupled astrophysical plasmas. We apply here the
+so-called dielectric-function method [11] which allows to treat the electron screening as a
+static polarization of the metallic medium induced by the positively charged deuterons. The
+screened Coulomb potential V (r) is a solution of the Poisson equation and can be expressed
+as a Fourier transform:
+
+where ϵν(q) and ϵc(q) are the static, wave-number–dependent, dielectric functions resulting
+from quasi-free valence electrons and from bound metallic core electrons, respectively. Dif-
+ferent from our previous calculations [17], the elementary charge e is multiplied by a self-
+consistent charge form-factor ϕ(q) for deuterons with the screening electrons in the Thomas-
+Fermi approximation [11,18]: ϕ(q) = 1 − z + zq2/(q2 + k2TF). Here, the Thomas-Fermi wave
+number k2 TF = 6πe2n/EF has been used; n and EF are the electron number density and the
+Fermi energy, respectively. The number z corresponds to the fraction of electrons bound to
+deuterons and is for metals close to unity. Since we are interested in the evaluation of the
+strongest possible screening eﬀect, we uniformly set z = 1 for all target materials. In the
+absence of screening ϵν ≡ ϵc ≡ 1 and z = 0, V (r) reduces to the bare Coulomb potential
+(Φ(r) ≡ 1). The response of the valence electron gas to an external ﬁeld is given by the
+dielectric function [19]:
+
+where v(q) = 4πe2/q2 and P(q) is the static Lindhard RPA polarizability [20]. G(q) is the
+static local ﬁeld correction (LFC) that takes into account the short-range electron correlation
+and the exchange interaction [19]. Similar to [17], we apply for core electron polarization
+the dielectric function proposed in [21].
+
+The screening function Φ(r) calculated with and without LFC by a numeric integration of eq. (2) is presented in ﬁg. 1 together with the simple
+exponential function exp[−r/a] corresponding to the Bohr screening. The diﬀerences between
+both curves are especially visible for larger distances where the numeric potential becomes
+negative and shows characteristic Friedel oscillations. The attractive part of the potential
+is strong enough to build the hydrogen molecule. Similar results were obtained within the
+dielectric-function formalism [18] and the density functional theory [22].
+The theoretical results were conﬁrmed by observation of the dihydrogen complexes in many metals [23]. For
+distances small compared to the screening length a, the Coulomb potential is reduced by a
+polarization screening energy Upol = e2/a which is used for calculating the screened cross-
+section according to eq. (1).
+
+In the metallic lattice, besides electrons also positive ions can contribute to the screening
+of the Coulomb barrier between reacting nuclei. This eﬀect, called cohesion screening, can
+be calculated in analogy to the dense astrophysical plasmas within the ion-sphere model of
+Salpeter [1]. We have proposed to use a more realistic model [17] based on the universal ion-ion
+potential introduced by Biersack [24]. This potential describes the interaction between light as
+well as heavy ions at low energies with very good accuracy. Since the potential energy of two
+deuterons in the ﬁeld of a host metal atom is larger than that of the helium atom produced in
+the fusion reaction, one obtains a gain in potential energy. As cohesion screening energy Ucoh
+we calculate the potential energy gain resulting from the surrounding 12 host atoms. The
+cohesion screening energy depends on the distance between the deuteron and the host atoms
+and on the crystal structure. Since we are interested only in a rough estimation of this eﬀect,
+we assume for all materials the same fcc crystal structure with a distance to the host atoms
+of 1 ˚A. The theoretical values for Ue, being a sum of the polarization and cohesion screening
+energies Upol + Ucoh, calculated for all target materials investigated are presented in table I.
+
+
+Extrapolation towards lower energies. –
+
+For even lower projectile energies, the eﬀect of
+the electron screening cannot longer be represented by an energy-independent Ue. We can
+introduce, however, an energy-dependent eﬀective screening energy Ueﬀ which ensures that
+the barrier penetration factors, calculated in the frame of the WKB approximation with the
+screened potential V (r) and that applied by eq. (1), are equal to each other. This condition
+reads as follows:
+
+where R1 and R2 are the classical turning points in the WKB expression, and M is the
+deuteron mass. The method proposed here allows the calculation of the cross-section according
+
+Fig. 2 – Left: energy dependence of the cross-section (full lines) and of the thick-target yield (dashed
+lines) for the 2H(d, p)3H reaction calculated for two diﬀerent screening energies, 300 eV (upper lines)
+and 150 eV (lower lines). Right: the nuclear reaction rate in dependence on the electron screening
+energy. The calculations are performed for Pd.
+
+to eq. (1) also at very low projectile energies. The eﬀective screening energy Ueﬀ, evaluated
+for Pd, is shown in ﬁg. 1. There are two well-deﬁned limits: at high energy (Ecm > 1 keV) and
+at low energy (Ecm < 10 eV). The ratio between the low-energy and the high-energy value
+amounts to about 0.58, being nearly independent of the actual deuteron-deuteron potential.
+The total screening energy is the sum Ueﬀ+Ucoh, the value of which taken at the zero projectile
+energy U0 corresponds to 0.78 of the high-energy limit Ue.
+
+Since the eﬀective screening energy is a slowly varying function of energy, it is simple
+to deduce the behaviour of the cross-section at very low projectile energies. Using eq. (1),
+we obtain σscr(Ecm) ∝ 1/√Ecm arising solely from the wavelength dependence of the cross-
+section. Similarly, we get an expression for the thick-target yield: Yscr(Ecm) ∝ ln (Ecm/E0),
+where it was taken into account that the stopping power at very low energies, being composed
+of the nuclear and the electronic contributions, is proportional to the square root of the energy.
+E0 is the minimum energy of the deuterons in the target before they are captured in the crystal
+lattice, corresponding to the activation energy for deuteron diﬀusion in the target material.
+In the case of thermal equilibrium, a useful quantity for a comparison with experimental data
+is the nuclear reaction rate:
+
+Here vrel is the relative velocity between reacting deuterons, M is the deuteron mass and N
+denotes the deuteron density of the target. The reaction rate for projectile energies much
+smaller than the screening energy is dependent only on U0 and not on Ecm. Therefore, no
+assumption about the distribution of the deuteron velocity is necessary. The cross-section and
+thick-target yield for Pd involving the realistic stopping power values [25] and the eﬀective
+screening energy are depicted in ﬁg. 2. Applying eq. (5) we can also evaluate the reaction
+rate in dependence on the screening energy U0. In ﬁg. 2 a comparison with the experimental
+reaction rates determined in heavy-water electrolysis experiments is presented. The neutron
+production rates measured by Jones et al. [12] are by a factor 1010 smaller than the nuclear
+fusion rates determined by Fleischmann and Pons [13] from the heat excess release.
+
+
+Discussion and conclusions. –
+
+The experimental electron screening energies determined
+for ﬁve diﬀerent target materials are presented in table I together with the results of theoreti-
+cal calculations. The negative Ue value for the amorphous-carbon target arises probably from
+the strong chemical bonding between deuterium and carbon atoms (ca. 5 eV) and a system-
+atic uncertainty in the beam energy. The experimental screening energies for heavier metals
+(Zr, Pd, Ta) are of the same order, 300 eV.
+
+The screening energy determined for Ta by the LUNA Collaboration [7] (309 ± 12 eV)
+and for Pd by the Japanese group [9] (310 ± 50 eV) are very close to our values, whereas the
+corresponding Pd value obtained by the LUNA Collaboration is much larger and amounts to
+800±90 eV. The lower Ue values for Al and Zr targets reported by the LUNA Collaboration [8]
+can be due to the enhanced oxidation of these materials under high-vacuum conditions and
+ion impact [4,26]. This was also conﬁrmed by an increase of the screening energies for Al and
+some other metals in the next experiment of this group [10], where the target surfaces were
+cleaned by Kr sputtering immediately before the deuteron incidence. However, in a vacuum
+of order 10−8 mbar the targets can re-oxidize within a few minutes (see, for example, [27]).
+This eﬀect depends very strongly on the chemical reactivity of the target material and can
+be, on the other hand, reduced by the sputtering process of the target surface during the
+deuteron irradiation, which is, however, also target material dependent. Thus, the small value
+of Ue = 80 ± 20 eV obtained for Zr and some other metals [10], being signiﬁcantly smaller
+than both our experimental and theoretical values, might be due to the re-oxidation process
+of the target. Since the main goal of the present paper is a theoretical one, we refer for a
+detailed discussion of experimental results to our forthcoming paper [28]. Certainly, future
+experiments performed under ultra-high vacuum conditions will allow to clear the discrepancy.
+
+The theoretical calculations describe the material dependence of the screening energy, ob-
+served in our experiment, qualitatively correctly. Whereas the screening energy for C is close to
+zero, the value for Al is slightly smaller than those calculated for the heavier metals. A strong
+variation of the screening energies observed in [8,10] for metallic targets cannot be theoreti-
+cally explained. The main contribution to the theoretical values is provided by polarization of
+the free valence electrons, although the contribution of bound electrons of the host atoms (core
+polarization) cannot be neglected [17]. The slight increase of Ue with the atomic number re-
+sults mainly from the cohesion contribution. However, the absolute values of the theoretically
+calculated Ue are low by a factor of two compared with our experimental results. Including the
+self-consistent correction and the full wave number dependence of the dielectric function leads
+to lower screening energies than those determined within the simpliﬁed theory [17]. No reason
+for such a large discrepancy between theoretical and experimental values has been found so
+far. Even if a possible contribution of the channeling eﬀect to the experimentally determined
+Ue were taken into account —in the case of Ta much smaller than 100 eV [15]— the diﬀer-
+ence between experiment and theory remains large. Therefore, the calculations (ﬁg. 2) of the
+cross-section and the thick-target yield at extremely low energies were carried out with the ex-
+perimental value of the screening energy by applying the theoretically predicted energy depen-
+dence of Ue. The resulting thick-target yield at the smallest projectile energies cannot explain
+the observation of the neutron emission at room temperature reported in [12,29]. Even if we
+take into account that the slow projectile deuterons win kinetic energy due to adsorption at the
+palladium surface (ca. 4 eV [30]) and due to the electron capture in the bulk (13.6 eV), the theo-
+retical neutron yield remains by a factor of about 1010 smaller than the reaction rates reported
+by Jones et al. [12]. However, the situation changes completely if we assume that the target
+deuterons move. Irradiation of the palladium target during the electrolysis can lead to strong
+lattice oscillations in the surface region of the target, causing, in turn, a quasi-free movement
+of target deuterons. This mechanism seems to be plausible for Pd, where the activation energy
+for deuteron diﬀusion amounts only to 0.15 eV [30]. In this case we can use eq. (5) for the es-
+timation of nuclear reaction rates. In ﬁg. 2, the reaction rates calculated for diﬀerent eﬀective
+screening energies U0 are compared to the neutron production rate of Jones [12] and to the heat
+excess rate postulated by [13]. The neutron production rate [12] requires U0 = 220 eV which
+corresponds to a screening energy Ue of about 280 eV at the high-energy limit in agreement
+with our experiments. On the contrary, the energy production rate [13] demands U0 = 620 eV
+(790 eV at high energies) being clearly outside our experimental constraints.
+
+Summarizing, the improved dielectric function theory allows for a qualitative description
+of the observed target material dependence of the screening energy; the absolute values are,
+however, by a factor of 2 smaller than the experimental values. Applying the eﬀective screen-
+ing energy approach, cross-sections and thick-target yields could be calculated for projectile
+energies much lower than those achieved in our accelerator experiments. An agreement with
+the neutron production rates at room temperature reported by [12] could be obtained only un-
+der the assumption of quasi-free moving deuterons in the target lattice during the heavy-water
+electrolysis.
+
+
+REFERENCES
+
+Salpeter F. E., Austr. J. Phys., 7 (1954) 373.
+Engstler S. et al., Phys. Lett. B, 202 (1988) 179.
+Assenbaum H. J., Langanke K. and Rolfs C., Z. Phys. A, 327 (1987) 461.
+Czerski K. et al., Europhys. Lett., 54 (2001) 449.
+Greife U. et al., Z. Phys. A, 351 (1995) 107.
+Ichimaru S., Rev. Mod. Phys., 65 (1993) 252.
+Raiola F. et al., Eur. Phys. J. A, 13 (2002) 377.
+Raiola F. et al., Phys. Lett. B, 547 (2002) 193.
+Kasagi J. et al., J. Phys. Soc. Jpn., 71 (2002) 2281.
+Bonomo C. et al., Nucl. Phys. A, 719 (2003) 37c.
+Pines D., Elementary Excitations in Solids (Benjamin, New York) 1963.
+Jones S. E. et al., Nature, 338 (1989) 737.
+Fleischmann M. and Pons S., J. Electroanal. Chem., 261 (1989) 301.
+Huke A., PhD Thesis, Technische Universit¨at Berlin (2002).
+Czerski K. et al., Nucl. Instrum. Methods B, 193 (2002) 183.
+Brown R. E. and Jarmie N., Phys. Rev. C, 41 (1990) 1391.
+Czerski K., Huke A. and Heide P., Nucl. Phys. A, 719 (2003) 52c.
+Ichimaru S. et al., J. Phys. Soc. Jpn., 59 (1990) 1333.
+Moroni S., Ceperley D. M. and Senatore G., Phys. Rev. Lett., 75 (1995) 689.
+Grosso G. and Parravicini G. P., Solid State Physics (Academic Press) 2000.
+Penn D. E., Phys. Rev., 128 (1962) 2093.
+Tomanek D. et al., Phys. Rev. B, 43 (1991) 4699.
+Jessopand P. G. and Morris R. J., Coord. Chem. Rev., 121 (1992) 155.
+Ziegler J. F., Biersack J. P. and Littmark U., The Stopping and Ranges of Ions in Solids
+(Pergamon Press, New York) 1985.
+Ziegler J. F. and Biersack J. P., code SRIM, http://www.srim.org.
+Huke A., Czerski K. and Heide P., Nucl. Phys. A, 719 (2003) 279c.
+Czerski K. et al., Nucl. Instrum. Methods B, 225 (2004) 72.
+Huke A., Czerski K. and Heide P., to be published.
+De Ninno A. et al., Europhys. Lett., 9 (1989) 221.
+You J. H. et al., Phys. Rev. B, 43 (1991) 7293.

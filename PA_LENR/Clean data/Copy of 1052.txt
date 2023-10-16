@@ -1,0 +1,632 @@
+1. Introduction
+
+Although much work remains to be done in the understanding and reduction to practice of Low Energy Nuclear Reactions
+(LENR), the body of experimental data accumulated over the past 25 years contains a wealth of clues to inspire and
+guide the LENR community. For example, since the early 1990s it has been known [1] that the amount of excess
+heat measured in a typical electrochemical LENR experiment can be increased by the appropriate application of a
+DC magnetic field. The Bockris Group at Texas A&M also reported [1] increased excess heat when their cells were
+stimulated with very high frequency (VHF) and ultra high frequency (UHF) electromagnetic fields. Finally, Letts and
+Hagelstein [2] reported excess heat when they focused the beams of two visible frequency lasers upon the cathodes
+in their Fleischmann–Pons cells, especially when the frequency difference between the two lasers corresponded to the
+THz atomic vibrational frequencies preferred by the PdH and PdD lattices. They also found that the best results were
+obtained when a DC magnetic ﬁeld measuring about 700 Gauss was applied across the face of their Pd foil cathodes.
+As a result of these observations, a number of LENR community members believe that there are profound connections
+among LENR phenomena, atomic vibrations, and electromagnetic ﬁelds.
+
+Experimental evidence also suggests that certain metal oxides may have a role in the LENR mechanism(s). For
+example, as we discuss in detail below, the layered structures used successfully by Iwamura et al. [3] contain thin ﬁlms
+of CaO in addition to the expected Pd. And one of the well-known Arata structures [4] contains nanoparticles of Pd
+embedded in a nonconducting matrix of zirconium dioxide. However, the choice of oxide is apparently not arbitrary,
+because the Iwamura team also reported that using thin ﬁlms of MgO instead of CaO yielded negative experimental
+results.
+
+This paper presents the results of Density Functional Theory (DFT) computations performed to study itinerant
+ferromagnetism in elemental transition metals and strained layer superlattices of binary composition. Section 2 provides
+a short introduction to Density Functional Theory. Section 3 discusses the basic results, including the cross checks done
+to ensure credibility and physicality of the DFT output, extraction of values for the equilibrium lattice constant, and the
+lifting of the degeneracy between spin-up and spin-down electron energy eigenvalues. Section 4 presents our results
+on the ground state lattice energy and absolute magnetization versus lattice constant and introduces the concept of
+normalized asymptotic magnetization per unpaired valence electron spin. Section 5 discusses the experimental results
+reported by the Mitsubishi Heavy Industries (MHI) team led by Yasuhiro Iwamura and interprets them in light of the
+DFT spin-polarized results of this work. Section 6 presents the results of a DFT supercell study of the CaO:Pd interface
+and illustrates the degree of spin polarization of the various atomic species in the structure. Section 7 discusses the
+experimental results ofYoshiakiArata in light of our DFT ﬁndings, and Section 8 contains the results of a DFT supercell
+study of the ZrO2:Pd interface that may affect the Arata results in roughly the same way that the CaO:Pd interface
+affects the MHI results. Finally, Section 9 summarizes our results.
+
+
+2. Density Functional Theory
+
+Density Functional Theory (DFT) is a mathematical procedure that can be used to simulate small clusters of atoms
+and calculate from ﬁrst principles (with essentially no adjustable parameters) many important physical properties such
+as ground state energy, lattice stress, electronic structure, phonon dispersion curves, and many more, given only the
+positions and atomic species for each atom in the cluster. Software implementing DFT makes use of the periodic
+symmetry of an ordered crystal lattice so that a ﬁnite-scope calculation based on a single unit cell of an ordered lattice
+can often produce results that approximate the bulk properties of a macroscopic sample of the material.
+
+The algorithms used in such calculations originated in a mathematical proof in which Hohenberg and Kohn [5]
+presented a variational principle for obtaining the ground state energy of an electronic system, a principle that introduces
+a universal functional of the electron density F[n(⃗r)]. Once this functional is computed by whatever means, the ground
+state energy in an arbitrary external potential can be obtained. The following year, Kohn and Sham [6] published a
+seminal paper in which they derived a highly nonlinear partial differential equation system that can be solved with a
+self-consistent, iterative algorithm to calculate the electron density versus position in an atomic system under study.
+
+Several software packages implementing DFT are available. For this particular project, we chose Quantum Espresso,
+mainly because it has an excellent track record, it is available at no cost through the Web, and one of us (DeChiaro) had
+acquired several years’ prior experience using Espresso in the academic domain. Further details, including the
+
+Figure 1.Lattice energy (left vertical axis) and stress (right vertical axis) curves vs. lattice constant for the paramagnetic solution of the transition
+metal ruthenium. Computed energy points are connected by solid green straight line segments, while the computed stress points are connected by
+dotted red straight line segments. The equilibrium lattice constant was found by ﬁtting the three lowest energy points to a second order polynomial
+and then solving this to ﬁnd the point of zero slope. The error between this value and the accepted value of lattice constant is about 2.7%.
+algorithms used to solve the Kohn–Sham equation in a self-consistent iterative manner, are available in Giannozzi
+et al. [7], and the interested reader is directed to this publication.
+
+Users of such software packages must be aware of a number of limitations and caveats. Each atomic species is
+represented by a pseudopotential ﬁle that approximates the effects of the atomic nucleus and the core electrons upon
+the valence electrons – but without the mathematically problematic “wiggles” and frequent zero crossings exhibited
+by the actual wave function. The generation of such pseudopotential ﬁles requires a parametrization procedure that
+vastly reduces the computational resources needed but also introduces certain errors. In general, we have obtained
+reasonably good results when using pseudopotential ﬁles parametrized with the Perdew, Becke, and Ernzerhof (PBE)
+generalized gradient approximation. However, in some cases, we employed Perdew-Zunger local density approximation
+pseudopotentials, generally because PBE pseudopotentials either might not be available for all elements or because the
+PZ potentials provide better agreement with experiment for some observable quantities. In any event, one should state
+which of the several different types of pseudopotential ﬁles were used, and these can be found in Appendix A for this
+work.
+
+
+3. Basic Results: Extraction of the Lattice Constant
+
+The ultimate success or failure of any computational model rests upon the degree to which it can accurately predict
+observable quantities such as the lattice constant. The DFT has had good success in accurately modeling many of the
+atoms in the Periodic Table, provided that one uses pseudopotential ﬁles that have been carefully tested and have good
+transferability characteristics. The two sections of the Table where the DFT success has been quite limited are the
+Lanthanide and the Actinide Series, primarily due to the difﬁculty in modeling the incomplete f-shells of those series.
+
+Figure 1 shows the computed results for ruthenium, a typical example of a well-behaved species near the center of
+the Transition Metal Group. The reader will note that the extracted value of lattice constant corresponding to the energy
+minimum is in excellent agreement with the zero crossing of the lattice stress curve. This is a necessary but not sufﬁcient
+condition to ensure that the calculated results are physically meaningful. One of the other important conditions that
+must be satisﬁed is a reasonable agreement (less than 5% error) between the extracted value of equilibrium lattice
+constant and the accepted value. Some of the elements crystallize in multiple lattice types and/or are characterized by
+multiple c/a ratios in the literature, however in all cases it was possible to ﬁnd a structure that was stable and yielded
+good agreement between computed and accepted values of lattice constant. For most of the elements, we employed
+values from Wyckoff for the accepted lattice constants. Appendix A contains a table that compares the computed and
+accepted values of lattice constant for all the atomic species in this study. The mean absolute value of all these errors
+is about 1.565%, conﬁrming the published results that DFT is reasonably successful in modeling the behavior of most
+of the atomic species of the Periodic Table in their elemental lattice form.
+
+One further caveat that should be borne in mind when interpreting these results has to do with the crystal structures.
+We employed the lattice types, space groups, and atomic coordinates as speciﬁed in Wyckoff for one of the structures
+
+Figure 2.Electron energy relative to the Fermi level vs. lattice constant for the ferromagnetic solution of the transition metal ruthenium. Computed
+points on the spin-up bands are connected by solid straight line segments, while the points on the spin-down bands are connected by dotted straight
+line segments. The light green and red curves illustrate the two bands lying closest to the Fermi level, while the dark green and blue curves illustrate
+the two bands lying furthest from the Fermi level.
+
+
+Figure 3.Ground state lattice energy (left vertical axis) in Rydbergs and absolute magnetization (right vertical axis) for tungsten versus BCC lattice
+constant in Angstroms. The green squares show the ground state energy for the ferromagnetic solution, while the small red squares show the energy
+for the paramagnetic solution. The blue diamonds show absolute magnetization in Bohr Magnetons per unit cell, and the red hour-glass symbols
+show magnetization values at key points calculated with a very dense mesh of k points to ensure maximum accuracy.
+
+that is in equilibrium at room temperature. The abscissas of the plots presented in this work include values of lattice
+constant corresponding to high tensile stress. Such stress represents a departure from equilibrium conditions that will
+signiﬁcantly elevate the lattice energy. All materials are limited in the associated strain they can support without physical
+destruction of the lattice. Atomic systems also possess a number of mechanisms to reduce their energy, even when
+the strain lies below the threshold for catastrophic destruction. These include the nucleation of lattice defects such as
+dislocations, the possibility of a phase transition to a different lattice type and space group, and even the growth of
+whiskers (for which high purity silver and tin are both notorious). Some of these phase transitions are accompanied
+by physical displacement of the atoms, for example, when a face-centered cubic (FCC) lattice undergoes a tetragonal
+distortion as the result of an applied stress ﬁeld. Other phase transitions, however, do not displace the atoms but instead
+cause a change in electronic structure that gives rise to a collective phenomenon known as itinerant ferromagnetism.
+Materials that exhibit this latter type of phase transition are characterized by a critical threshold value of lattice constant
+at which the numerical solution to the Kohn–Sham equation suddenly bifurcates into two distinct solutions. One of
+these is paramagnetic and joins continuously and smoothly with the paramagnetic behavior found below the threshold.
+However, the other solution is ferromagnetic in nature and may exhibit discontinuities in the derivatives of certain
+parameters as it joins with the paramagnetic solution at the threshold value of lattice constant. One of those parameters
+is the electronic band structure, which bifurcates at the threshold into two distinct sets of energy bands, one for the
+spin-up electrons, the other for the spin-down electrons. This bifurcation usually does not affect the deep core states,
+but will signiﬁcantly perturb the energy bands lying near the Fermi surface. To illustrate an example of this behavior,
+we return to the case of ruthenium.
+
+Figure 4.Ground state lattice energy (left vertical axes) in Rydbergs and absolute magnetization (right vertical axes) for polonium (upper left),
+nickel (upper right), aluminum (lower left), and osmium (lower right) versus lattice constant in Angstroms. Once again, the green squares show the
+ground state energies for the ferromagnetic solutions, while the small red squares show the energies for the paramagnetic solutions. The dark blue
+curves show absolute magnetizations in Bohr Magnetons per unit cell, and the thin black parabolic line on the polonium plot shows the regression
+polynomial that was ﬁtted to the several points near the energy minimum and used to extract a value for the equilibrium lattice constant.
+
+Figure 2 shows the electron energy eigenvalues (relative to the Fermi energy) plotted as a function of lattice
+constant for four spin-up and four spin-down energy bands at the center of the Brillouin zone (k = 0) where the electron
+momentum vanishes. Two of these energy bands lie below the Fermi surface, while the other two lie above it. The two
+bands lying closest to the Fermi surface are shown plotted in brighter colors, while the two lying furthest are plotted
+in darker colors. It is evident that the two brighter colored plots showing the bands lying closest to the Fermi surface
+exhibit considerably more splitting than the bands lying further from the surface.
+
+
+4. Lattice Ground State Energy and Absolute Magnetization
+
+The two most important lattice parameters to be considered in this work are the ground state energy and the magnetization
+of the lattice. The overall lattice ground state energy is the primary quantity used by Quantum Espresso in governing
+the self-consistent ﬁeld (SCF) iterative solution of the Kohn–Sham equation. This ground state energy is normally
+given in units of Rydbergs (the energy level for the solitary 1s electron in hydrogen is −1.0 Rydberg or −13.6 eV), and
+the SCF iteration normally proceeds until the estimated iterative increment in this quantity falls below a user-speciﬁed
+threshold that is typically 10−8 Rydberg. Magnetization is calculated as the spin-up minus the spin-down charge density
+versus position in the three dimensional working volume of the structure speciﬁed by the user in the input ﬁle. These
+two spin-polarized charge densities are normally identically equal in materials that have no absolute magnetization
+
+Figure 5.Histogram plot showing the distribution of the computed asymptotic magnetization for the elements after normalization to yield the
+absolute magnetization per unpaired electron spin. The width of each numerical bin is 0.1, and each vertical bar contains the chemical symbols of
+the various elements whose normalized asymptotic magnetizations fall in its respective bin. The tall bar at 0 on the left shows the 20 elements whose
+outermost electron shells contain only s electrons; they do not develop ferromagnetic activity when placed under high tensile stress.
+
+and where the spin-up and spin-down electron energies are everywhere equal. However, as can be seen in Fig. 2, one
+of the spin-up energy bands crosses the Fermi surface at a lattice constant value near 3.2Å, while the corresponding
+spin-down band remains above the surface.
+
+Since the electron occupation numbers (as speciﬁed by the Fermi–Dirac distribution) rapidly drop toward zero as
+one crosses the Fermi Surface from below, the spin-up band will be ﬁlled at k = 0 while the spin-down band will not
+be ﬁlled. Thus, we expect that the system will begin to show a nonvanishing magnetization, and the ground state lattice
+energies for the paramagnetic and the ferromagnetic solutions may begin to diverge from one another. This behavior
+is illustrated in Fig. 3, where we present ground state energies for the paramagnetic and ferromagnetic solutions and
+absolute magnetization (proportional to
+�
+| ρup −ρdown | d3V ) versus lattice constant for the transition metal tungsten.
+
+Initial conditions speciﬁed in the input ﬁles were chosen to encourage the system to converge to either the param-
+agnetic or the ferromagnetic solution. For all points to the left of the threshold value of about 4.32Å, the ferromagnetic
+solution does not exist, and the code always converged to the paramagnetic solution, regardless of initial conditions.
+However, for points above threshold, the two solutions coexist, and the choice of initial conditions determines which
+solution will “attract” the convergence of the algorithm. The reader will note that at the threshold, we see the energy
+curves for the two solutions begin to diverge. The difference between the two grows monotonically with increasing
+lattice constant for tungsten in the range of lattice constants explored in this work. Not all atomic species exhibited this
+monotonic increase. However in nearly all cases, the ferromagnetic energy was lower than the paramagnetic energy
+at the same lattice constant, suggesting that the ferromagnetic state is the energetically preferred one. The very few
+exceptions involve one or two points close to the thresholds where the numerical ﬂuctuations are very large for some el-
+ements. This can cause difﬁculty in convergence and the possibility of critical ﬂuctuation noise in the results, a situation
+very common in the study of thermodynamic phase transitions. Figure 4 shows results for four other elements, drawn
+
+Figure 6.Simultaneous plots showing the ferromagnetic (green squares) and paramagnetic (small red squares) energy curve for Pd on the left
+vertical axis, the magnetization of Pd on the right vertical axis when strained in two and three dimensions, and the equilibrium lattice constants for
+Pd, MgO and CaO – all versus lattice constant.
+
+from both the transition metals (Ni and Os) and the so-called sp elements (Al and Po) where the outermost valence
+electrons in the isolated atoms lie in p orbitals. We see that the general trend shows a rapid increase in magnetization at
+the threshold, a saturation at higher lattice constants, and in some cases, a decrease in magnetization at very high lattice
+constants as seen in the Al curves. The one element from the ﬁgure that is known to be ferromagnetic under normal
+conditions is nickel, and it is no coincidence that the threshold for bifurcation of the energy surface lies below the
+equilibrium lattice constant. Finally, we note that the 4 elements shown in the ﬁgure exhibit considerable differences
+in the rates at which the paramagnetic and ferromagnetic energy surfaces diverge above threshold. The ratio between
+this energy difference and kT is likely to have a strong inﬂuence upon the rate at which the higher-energy paramagnetic
+state is thermally populated at any given absolute temperature above 0K.
+
+In the limit as the lattice constant approaches inﬁnity, the behavior of the system approaches that of isolated atoms,
+for which the intrinsic electronic magnetic moment (neglecting the contribution caused by the orbital motion of the
+electrons) will be equal to the number of unpaired electron spins multiplied by the Bohr Magneton. In this limit, we
+would expect the total moment for a system of N decoupled identical atoms to be equal to the product of N, the number
+of unpaired spins in each atom, and the Bohr magneton. This implies that if we take the total moment of the system and
+normalize it by dividing by this quantity, we should obtain 1.0 Bohr magnetons per unpaired spin. The magnetization
+plots shown in Fig. 4 encompass about one order of magnitude dynamic range for the peak magnetizations computed
+in this work. Approximately the same can be said for the variation across the Periodic Table in the product of N and the
+number of unpaired spins. If we suspect these two quantities to be correlated in real elemental lattices, then we should
+be able to extract or extrapolate the maximum magnetic moment from each of the plots, perform the normalization,
+and obtain a result close to 1.0 in the absence of competing effects. This exercise was performed for each of the
+atomic species in this study. However, before presenting the results, we should add that it would be surprising if the
+
+Figure 7.False color cross-sectional image of total charge density taken parallel to theYZ plane (thus along the [100] crystal plane) and intersecting
+the CaO:Pd supercell. Individual atoms are labeled for clarity. This image should be used to locate the various atoms and simplify the interpretation
+of the more complex spin-polarized image shown in Fig. 8.
+
+magnetic moment contributions resulting from the electron orbital angular momenta were found to have no impact upon
+the results. In fact, our calculations indicate that in one respect the orbital angular momentum quantum number does
+impact the magnetizations of the elemental metals and semi-metals. Within the limits of computational precision caused
+by the numerical ﬂuctuations, the magnetizations of all Column I and Column II atoms (whose outermost electron shells
+are comprised entirely of s-state electrons with vanishing orbital angular momenta) are exactly zero. The same can be
+said for the atoms lying along the extreme right hand edge of the Transition Metal Group (Zn, Cd, and Hg). We studied
+the ﬁrst two of these and obtained zero magnetization and no ferromagnetic solutions to the Kohn-Sham Equation for
+any lattice constant lying in the range of values studied herein. Most of the remaining transition metals we studied
+(with the sole exceptions ofY, Ac, Ag, and Au) and some of the sp elements exhibited nonzero values of magnetization
+for sufﬁciently large values of lattice constant. Figure 5 contains a plot of the probability density function censored to
+the form of a histogram for the distribution of normalized peak magnetizations per unpaired spin.
+
+With the exceptions of the elements whose outermost electron shell contains only s electrons, most of the elements
+produced normalized asymptotic magnetizations that cluster fairly close to the expected value of 1.0. The element Pd
+could not be plotted on Fig. 5 because the outermost shell is the 4d shell, and it is completely ﬁlled in the ground
+state. Thus there are no unpaired spins at all, unless the lattice can be sufﬁciently excited to cause some of the atoms to
+occupy the low-lying ﬁrst excited state corresponding to an electronic conﬁguration of 4d9 5s1. If this were the case,
+then Pd would appear in the distribution at 1.125 in the tallest of the histogram bars clustered near 1.0.
+
+Figure 8.False color cross-sectional image of absolute value of spin-up minus spin-down charge density taken parallel to the YZ plane (along the
+[100] crystal plane) and intersecting the CaO:Pd supercell. A logarithmic scale was used to grade the colors in order to show all the atoms, including
+the most inactive ones. Atoms that are highly spin polarized will be bright in this image, while totally inactive atoms will appear black.
+
+
+5. Application to the Iwamura Structure
+
+From 1996 to 2005 results from a series of key LENR experiments were published by a team of workers at Mitsubishi
+Heavy Industries under the direction of Yasuhiro Iwamura. These results include the reported observation of excess
+heat and several types of nuclear transmutations that change the atomic number of their reactant species by +4 and
+the atomic mass number by +8 when deuterium is forced under a pressure difference of about 1.7 atm. through an
+ABABAB sandwich structure consisting of alternating layers of Pd and a light metal oxide having the same FCC crystal
+structure as Pd. Some of the Iwamura results were recently conﬁrmed by an independent team at Toyota Central
+Research Laboratories [9] and published in the October, 2013 Issue of Japanese J. Appl. Phys. Iwamura et al. also
+presented some of their key ﬁndings at ICCF-11 in Marseilles, France, in 2004. Among these ﬁndings are the following
+observations:
+
+(1) Transmutations are not observed when the light metal oxide layers are absent from the sandwich structure.
+
+(2) Transmutations are not observed unless the sandwich structure is permeated with D2 under pressure.
+
+(3) Transmutations are not observed if the light isotope of hydrogen is used instead of deuterium.
+
+(4) Transmutations are only observed for some chemical compositions of the light metal oxide layers and not others.
+
+In particular, when Pd is used as the transition metal layer, CaO was observed to function well, while MgO
+(another oxide with the same crystal structure) did not function at all.
+
+
+Figure 9.False color image of total charge density (in units of electronic charge per cubic Bohr radius) versus position after a single hydrogen
+atom has been added at the octahedral site just below the calcium atom near the geometric center of the image. The hydrogen atom can be seen as a
+small, purple sphere.
+
+The Mitsubishi team suggested that two possible roles of the oxide layers are to increase the deuterium density
+within the structure and to modify the surface electronic band structure of the Pd in some way that would favor the
+LENR reactions. Based upon the results of our spin-polarized DFT studies, it is now possible to propose a third role
+for the oxide layers: to apply a tensile stress to the Pd ﬁlms in two dimensions that is of sufﬁcient magnitude to drive at
+least some fraction of the Pd atoms into their ferromagnetic state. If this third hypothesis is experimentally conﬁrmed,
+we would then interpret the sandwich structure as a long period strained layer superlattice that is very similar (except
+for its longer period) to those now widely employed by the integrated circuit and optoelectronic component industries
+to create new materials with novel and highly optimized properties.
+
+Figure 6 presents results that help explain how the strained layer superlattice hypothesis functions. The accepted
+value for the Pd lattice constant is shown as a brown vertical line in the ﬁgure. As we might hope, this value lies very
+close to the global minimum in the energy curves. The lattice constant for MgO as shown by the light green line in the
+ﬁgure is larger than that of Pd, but not sufﬁciently large to drive the Pd into its ferromagnetic state when the sandwich
+structure is epitaxially grown so that some fraction of the Pd is forced to take on the lattice constant of the underlying
+MgO. Thus, if the LENR reaction were to depend upon the presence of a large magnetic ﬁeld, we would predict that the
+sandwich structures made from MgO will not perform any better than those without any metal oxide layers at all – in
+agreement with the experimental observations. On the other hand, the lattice constant of CaO (4.815 Å) is considerably
+larger than that of MgO, as one can see in the light blue vertical line in the ﬁgure. In fact, the lattice constant of CaO is
+sufﬁciently large that if we get some epitaxial growth of the Pd on top of the CaO so that the Pd is forced to assume the
+CaO lattice constant, we expect the Pd to be driven well into its ferromagnetic state, regardless of whether the tensile
+stress is applied in 3 or only 2 physical dimensions. This is also in excellent agreement with experiment.
+
+Figure 10.False color cross-sectional image of absolute value of spin-up minus spin-down charge density after adding the single hydrogen atom.
+The hydrogen is barely visible just below the central Ca atom and above the center-most Pd atom. Please note that the “eyes” of the central Ca atom
+are now missing, and the brightness of the Pd atom immediately below the hydrogen and the oxygen directly above the hydrogen is smaller than the
+other Pd and oxygen atoms, respectively.
+
+As with any hypothesis, further experiments would be necessary either to conﬁrm or refute it. However, if conﬁr-
+mation is obtained, the insight gained could illuminate the path toward technological exploitation. Among other things,
+it could provide guidance for those seeking other metal insulating compounds with even larger lattice constants (such
+as BaF2, for example, with a lattice constant near 6.2 Å). There is, of course, a maximum percentage lattice constant
+mismatch between the two materials (typically only a few percent) that can be tolerated without negative effects such as
+delamination of the epitaxial ﬁlm, nucleation of dislocations or other crystallographic defects, and thermal expansion
+problems, to name just a few. Thus the quest for the optimum set of materials for any given application will be far from
+trivial.
+
+
+6. DFT Studies of the CaO:Pd and MgO:Pd Interfaces
+
+The lattice structures for most of the elemental metals contain a basis with only one or at most two atoms. This makes
+it possible to study such structures even when limited to a single core processor. However, the study of an interface
+between two materials usually requires construction of a much larger system containing at least several tens of atoms.
+Fortunately, the authors have access to a desktop Linux machine with 16 cores and 16 GB of RAM, establishing an
+upper limit on the accessible systems at about 75 atoms. We therefore modeled the CaO:Pd interface by constructing
+a supercell of 2 × 2 × 2 FCC unit cells, the bottom 4 of which are composed of Pd and the top 4 of CaO. The overall
+lattice constant for the supercell was set at twice the value for a single cell of CaO. This should be reasonably accurate
+in the limit as the CaO layer becomes much thicker than the Pd layer. Quantum Espresso saves both the many electron
+wave function and the spin-polarized charge density as arrays deﬁned on a discretized three dimensional mesh. The
+post-processing tool makes it straightforward to sample the wave function and charge density on any user-speciﬁed line
+
+Figure 11.
+False color cross-sectional image of total charge taken parallel to theYZ plane (along the [100] crystal plane)and intersecting the MgO:Pd
+supercell. Individual atoms are labelled for clarity. The Mg atoms are not visible because they are represented in the pseudopotential ﬁle only by their
+two valence electrons, which have been completely absorbed into the electronic band structure of the material and are no longer localized around the
+ion core. The Mg labels show where the ion cores lie.
+
+or plane intersecting the volume of the system under study. When combined with a full featured plotting program such
+as Gnuplot, the user can generate false color images showing total charge density versus position, spin up minus spin
+down charge density versus position, and many other useful parameters.
+
+Figure 7 shows a false color cross-sectional image showing total charge density through the YZ ([100]) plane of the
+supercell. Individual atoms are labeled to facilitate their species identiﬁcation. The atoms appear as doughnut-shaped
+objects because the pseudopotential ﬁles used to represent each atom contain only the outermost valence electrons,
+the ones most directly involved in the creation of chemical bonds and the determination of most physical properties of
+materials. Figure 8 shows a false color cross-sectional image through exactly the same set of atoms, however here we
+are plotting the absolute value of spin-up minus spin-down charge density as a function of position with a logarithmic
+color scale in order to assess which atoms are the most ferromagnetically active. The largest and brightest atoms in
+Fig. 8 are Pd, and the spin polarized image shows evidence of the four-fold symmetry of the FCC lattice. We thus
+appreciate that the Pd has indeed become spin polarized by virtue of the tensile stress applied by the CaO lattice with
+which the Pd is in contact.
+
+The thin black regions surrounding each Pd atom represent places where the spin polarization goes through a zero
+and switches algebraic sign. Since the straight line path from one Pd to another passes through exactly two of these
+sign changes, we see that all the Pd are ordered ferromagnetically with respect to one another. The smaller of the bright
+atoms are the oxygens, and we note that these are also spin polarized and ferromagnetically ordered relative to the Pd
+
+Figure 12.False color cross-sectional image of absolute value of spin-up minus spin-down charge density taken parallel to the YZ plane (along the
+[100] crystal plane) and intersecting the MgO:Pd supercell. The same logarithmic scale as presented in Figs. 8 and 10 was used to grade the colors.
+
+The entire image is black, conﬁrming our prediction that the structure does not show any ferromagnetic ordering.
+atoms. We also note that all the Pd atoms are equally magnetized. The shape of the spin polarized regions of the oxygen
+atoms is somewhat reminiscent of “Fig. 8” shape of the p orbitals that serve as the outermost occupied orbitals for the
+oxygen atoms. Finally, the least magnetically active of the three atomic species in Fig. 8 is the sublattice of calcium
+atoms. These atoms can easily be distinguished from the other species by their faint resemblance to the face of a masked
+and bearded burglar. The very low level of magnetic activity for the Ca atoms is consistent with our monatomic results
+for calcium showing zero spin polarization for all of Columns I and II elements.
+
+In order for the CaO:Pd layered structure to be technologically useful for performing transmutations, one must
+permeate the structure with deuterium under a modest pressure differential. It is therefore of interest to seek some
+insight into how the structure will change when the octahedral sites on the Pd layers are occupied by hydrogen atoms.
+The minimum perturbation possible involves the addition of just one hydrogen atom, and the most aesthetically-
+appealing place to add this atom is immediately above the center-most Pd atom. Figure 9 shows the total electron
+density false color image of the CaO:Pd structure with the single added hydrogen, and Fig. 10 shows the corresponding
+spin-polarized image.
+
+Figures 7–10 are in good agreement with the prediction that the CaO:Pd structure can be expected to show itinerant
+ferromagnetic ordering. Equally important, however, is the exploration of the MgO:Pd structure. If the results of
+Fig. 6 are in fact correct, then we expect that a DFT study of the MgO:Pd structure with the supercell lattice constant set
+to twice the equilibrium value for MgO (4.211 Å) should result in no observable ferromagnetic ordering. Figures 11
+and 12 show the results of the MgO:Pd calculation. Figure 11 shows a false color image of the total electron density
+vs. position in the YZ ([100]) plane at x = 0, and Fig. 12 shows an image of the spin-up minus spin-down charge
+
+Figure 13.Ground state lattice energy (left vertical axis) in Rydbergs and absolute magnetization (right vertical axis) for cubic zirconia (ZrO2)
+versus FCC lattice constant in Angstroms. The green squares show the ground state energy for the ferromagnetic solution, and the blue line shows
+absolute magnetization in Bohr Magnetons per unit cell. The narrow black line is the regression parabola that was derived by ﬁtting the ﬁve points at
+the bottom of the energy curve to a second order polynomial. The extracted value of lattice constant is 5.1082 Å versus an accepted value of 5.07 Å.
+
+density for the structure. The scales used in Figs. 11 and 12 are identical to those in Figs. 7 and 8, respectively. Aside
+from the “missing” valence electrons removed from the Mg atoms, the image shown in Fig. 11 closely resembles that
+of Fig. 7. In fact, the most obvious difference between the two ﬁgures is that the atoms appear slightly larger in Fig.
+11. This is entirely due to the fact that the lattice constant in the MgO:Pd structure is considerably smaller (2 × 4.211
+versus 2 × 4.815Å) than the lattice constant in the CaO:Pd structure, as is evident from the X and Y axis scales.
+
+Finally, we note that the image in Fig. 12 is entirely black because there is no spin polarization down to the level of
+10−5 electrons per cubic Bohr radius in the MgO:Pd structure, thus conﬁrming our expectations that no spontaneous
+magnetization will appear because the Pd has not been strained up to its threshold for spontaneous ferromagnetic
+ordering. One dimensional cross sections were also performed for the same supercell runs (CaO:Pd with and without
+the single added H atom and MgO:Pd) whose two dimensional spin polarization false color images are shown in Figs.
+8, 10, and 12. In order to avoid undue increases in the length of the paper, their plots are presented in a Supplemental
+Section contained on-line.
+
+
+7. Application to the Arata Structure
+
+Yoshiaki Arata of Osaka University has published a number of interesting papers in which he and his colleagues report
+several experimental observations that may be relevant to the computational results presented in this work. ZrO2:Pd
+structures were fabricated by alloying Pd and Zr and subsequently oxidizing the alloy. Since Zr has a much higher
+chemical afﬁnity for oxygen than Pd does, we end up with Pd nanoparticles embedded in an insulating matrix of ZrO2
+
+Figure 14.Simultaneous plots showing the ferromagnetic (green squares) and paramagnetic (small red squares) energy curve for Pd on the left
+vertical axis, the magnetization of Pd on the right vertical axis when strained in two and three dimensions, and the equilibrium lattice constants for
+Pd (brown), MgO (light green), CaO (light blue), and ZrO2 (red) – all versus lattice constant.
+
+(which can crystallize as the well-known cubic zirconia). The main experimental observations can be summarized as
+follows:
+
+(1) Stimulation of the ZrO2:Pd powder with ultrasonic power greatly increased the LENR rate.
+
+(2) Stimulation of the ZrO2:Pd powder with energy from a welding laser [10] greatly increased the LENR rate. In
+his ICCF-10 paper, Arata et al. do not state what kind of welding laser they employed. However, a literature
+search of Arata’s other papers [11] strongly suggests that the laser was likely to have been a CO2 laser. In fact,
+Arata invented the CO2 laser welding process.
+
+(3) LENR events, including the generation of signiﬁcant quantities of 4He, were observed when the ZrO2:Pd
+powder was loaded with deuterium. No 4He was observed when the pure light isotope of hydrogen was used.
+
+(4) No 4He was observed when the experiment was run with bulk Pd.
+
+(5) The use of Pd black powder resulted in a low level of 4He. The use of Pd nanoparticles resulted in higher 4He
+levels, but not nearly as much as when the ZrO2:Pd powder was used.
+
+In light of the computational results presented in the previous sections of this work, we performed DFT studies of
+the cubic zirconia lattice with results presented in Fig. 13.
+
+The error between the extracted value of lattice constant and the accepted value is about 0.75%, thus the most basic
+of the DFT results are in reasonable agreement with observation. The reader will note our DFT results predict that ZrO2
+can become ferromagnetic if it is placed in sufﬁciently high tensile stress. However, we do not expect this to happen in
+the Arata structure, because the ZrO2 is placed in contact with Pd, which has a smaller lattice constant, thereby placing
+the zirconia in compressive stress. Having veriﬁed the lattice constant for FCC cubic zirconia, we next inquire how
+this value compares with the threshold for the onset of spontaneous ferromagnetic ordering in Pd. Results are shown
+in Fig. 14.
+
+
+Figure 15.False color cross-sectional image of total charge taken parallel to the YZ plane (along the [100] crystal plane) and intersecting the
+ZrO2:Pd supercell. Individual atoms are labeled for clarity. However, the oxygen atoms are not visible in this view because they occupy lattice sites
+located above and below the plane being represented in the ﬁgure. The Pd atoms can be distinguished from the Zr because the Pd core hole is smaller
+due to the higher nuclear charge. In addition, the Pd 4d valence charge cloud exhibits a slightly higher contrast around the circumference than the
+Zr atoms.
+
+As we can see from the ﬁgure, cubic zirconia has a lattice constant larger than any of the substrates used by the
+MHI team. This suggests that growing Pd on a zirconia substrate will push the fraction of Pd cells that grow epitaxially
+further into the ferromagnetic regime than using MgO or even CaO. Indeed, the ﬁgure suggests that if the LENR rate is
+somehow driven by the local magnetic ﬁeld intensity, we may expect to see rates for the Arata structures that are higher
+than those reported by the MHI team with their CaO substrates, provided only that the larger lattice constant of ZrO2
+does not cause the fraction of Pd cells growing epitaxially to plummet.
+
+Before leaving the subject of theArata results, we should comment on the use of the CO2 laser and draw a connection
+with the work of Letts and Hagelstein. It is by now well-known that the output wavelength of a CO2 laser is about
+10.7 µm. When this free space wavelength is converted to frequency, we get a value of about 28.04 THz, which does:
+not agree very well with the A1g stretching mode frequencies of 88.9, 108.8, and 125.7 THz for the D2, HD, and H2
+free-space molecules, respectively. However, once the molecules are added to a monovacancy within the Pd lattice and
+the structure is relaxed to allow the hydrogen/deuterium atoms to ﬁnd locally minimum energy positions, we calculate
+a number of phonon energy eigenvalues that lie in the 20–35 THz frequency range, depending upon which of several
+minimum energy sites are occupied by the hydrogen/deuterium molecules. Thus it is not difﬁcult to believe that Arata
+and his colleagues may have been pumping the hydrided or deuterided Pd lattice close to one of its resonances, as
+indeed Letts and Hagelstein reported when they described three one-phonon resonances at 8, 15, and 20 THz in their
+
+Figure 16.False color cross-sectional image of total charge density in a plane deﬁned by the [110] and Z axes and intersecting the ZrO2:Pd
+supercell. The aspect ratio of this ﬁgure is higher than 1:1 because the length of the [110] face diagonal is
+√ times larger than the length of the unit cell in the X, Y, or Z dimensions.
+
+two-laser paper [2]. What is also interesting is that Arata reports very little LENR activity when bulk Pd or powdered
+Pd was stimulated with the beam from the laser. Only when the Pd was in surface contact with a complex oxide did he
+observe high LENR activity and signiﬁcant 4He production.
+
+
+8. DFT Study of the ZrO2:Pd Interface
+
+DFT studies of the ZrO2:Pd interface were performed using a 2 × 2 × 2 supercell in a manner similar to that described
+in Section 6 for the purpose of studying ferromagnetic activity and identifying which atomic species are most active.
+Figure 15 shows a false color image of the total charge density of the ZrO2:Pd supercell sampled on a plane parallel
+to the YZ ([100]) plane and similar to those shown in Figs. 7, 9, and 11. The supercell lattice constant was set at
+10.2164 Å, corresponding to a lattice constant of 5.1082 Å for each individual unit cell.:
+
+This view shows that the Pd and Zr atoms occupy the usual sites in the FCC supercell structure. However, the
+oxygen atoms are not visible in this view. In order to provide a view showing all 3 atomic species, we need to orient
+the horizontal axis in the crystallographic [110] direction instead of purely parallel to the Y-axis. Such a view is shown
+in Fig. 16.
+
+As with the CaO:Pd and MgO:Pd structures, we generated spin-polarized images for the ZrO2:Pd supercell.
+Figure 17 shows the spin-polarized image corresponding to the total charge image of Fig. 15, and Fig. 18 shows
+the spin-polarized image corresponding to the total charge image of Fig. 16. There are a number of striking features
+visible in Figs. 17 and 18. First, we note that the two rows of Pd atoms are no longer equally polarized; the Pd atoms
+located closest to the oxygen atoms are polarized about 20 times more strongly than the Pd atoms located closest to the
+Zr atoms. Likewise, the two rows of oxygen atoms shown in the ﬁgure are also no longer equivalent; the oxygen atoms
+
+Figure 17.False color cross-sectional image of spin-up minus spin-down charge density taken parallel to the YZ plane (along the [100] crystal
+plane) and intersecting the ZrO2:Pd supercell. The brightest features identify the lowest row of three Pd atoms, while the upper row of two Pd atoms
+(shown in red) is not as strongly magnetized. The magnetically inactive zirconium atoms are shown largely in violet and black with just a trace of
+red.
+
+located closest to the Pd are much more strongly polarized than the ones near the Zr atoms. We also note that the Zr
+atoms themselves are very weakly polarized. This latter observation should not be especially surprising, because the
+lattice constant for the individual unit cells in this run was set to 5.1082 Å, corresponding to the minimum in the ZrO2
+energy curve. This is considerably less than the computed threshold of about 7 Å for the onset of spin polarization
+of the Zr atoms. Finally, both ﬁgures reveal exactly two zero crossings in traveling between any two Pd atoms and
+between any Pd and one of the neighboring strongly polarized oxygen atoms. Thus all of the Pd are ferromagnetically
+ordered, and furthermore, the oxygens are ferromagnetically polarized with respect to the Pd atoms, a situation very
+different from what is shown in Fig. 10, where the single hydrogen electron spin is polarized antiferromagnetically
+with respect to the Pd. One dimensional cross sections were also performed for the same ZrO2:Pd supercell run whose
+two dimensional spin polarization false color images are shown in Figs. 17 and 18. In order to avoid undue increases
+in the length of the paper, their plots are presented in the on-line Supplemental Section.
+
+The three structures discussed in this work may also be compared by providing their respective total supercell
+magnetic polarizations. For the MgO:Pd structure, the total magnetization is obviously zero, because there were no
+species whose interatomic separation was pushed beyond the threshold for spontaneous magnetization. For the CaO:Pd
+supercell, the total absolute magnetization was 5.57 Bohr magnetons, while for the ZrO2:Pd supercell, the value was
+8.61 Bohr magnetons. In both of the latter structures, the only atoms to become polarized are the Pd and the oxygens.:
+The CaO:Pd supercell contains a total of 32 Pd and oxygen atoms, while the ZrO2:Pd supercell contains a total of
+48. Thus the ratio of polarized atoms between the two structures is 48/32 = 1.50. As it turns out, the ratio of the
+
+Figure 18.False color cross-sectional image of spin-up minus spin-down charge density in a plane deﬁned by the [110] and Z axes and intersecting
+the ZrO2:Pd supercell. The bright heart-shaped features identify the highly magnetized rows of Pd atoms, while the smaller bright features are the
+rows of oxygen atoms located near the highly magnetized Pd atoms. The less highly magnetized oxygen atoms are shown in red below their more
+highly magnetized counterparts. Once again, the magnetically inactive zirconium atoms are shown largely in violet and black. Finally, the less highly
+magnetized Pd atoms are not visible in this cross-sectional view.
+
+two magnetizations was 8.61/5.57 = 1.54. It is thus tempting to attribute the magnetization difference simply to the
+difference in the number of polarized atoms. However, the local variations in spin polarization shown in the ﬁgures
+suggest that this is an oversimpliﬁed picture, because all of the Pd and oxygen atoms in the CaO:Pd supercell are
+strongly polarized, while this is clearly not true for either the Pd or the oxygen atoms in the ZrO2:Pd supercell. A
+more accurate picture can be obtained by making one dimensional plots of spin polarization through each of the two
+supercells and plotting the results on a linear scale instead of the logarithmic scale used in the false color images. Such
+a plot is shown in Fig. 19.
+
+Care must be exercised in running one dimensional cross sections through the atoms, however, because the lattice
+symmetry induces nodes in the spin polarization along certain directions. In order to avoid sampling the spin polariza-
+tions along nodal lines, it was necessary to section the CaO:Pd supercell in the [001] direction (Z-direction) along a
+vector passing through the origin of coordinates. Thus the red line in the plot passes through Pd atoms at the 0.2 and
+1.2 values of the Z-coordinate. The pair of minor peaks near 1.0 on the X-axis correspond to one of the oxygen atoms.:
+For the ZrO2:Pd supercell, it was necessary to perform our section in the [110] direction at an altitude of Z = 0 in order
+to pass through the antinodes in the spin polarization for the Pd atoms, and each pair of tall, green peaks represents
+one Pd atom. Even after exercising care to ensure our sections pass through the antinodes of the atomic polarization
+patterns, it is clear that the peak spin polarization is about two times larger for the ZrO2:Pd structure than it is for the
+CaO:Pd. This is most probably attributable to the fact that the larger ZrO2:Pd lattice constant pushes the Pd further up
+the magnetization curve than the CaO:Pd structure does.
+
+Figure 19.Plots of spin polarization (in units of electronic charges per cubic Bohr radius) versus position in the CaO:Pd supercell (red solid line)
+and in the ZrO2:Pd supercell (green dotted line). The horizontal coordinates for the ZrO2:Pd plot were divided by
+√2 to permit display on the same axis scale. The tall peaks in each of the plots represent the Pd atoms.
+
+
+9. Summary
+
+In summary, spin-polarized DFT computations have been useful in providing insight into the magnetic behavior of
+many of the transition metals on the Periodic Table in their elemental lattices. Most of the transition metals and a
+number of sp elements (including diamond, aluminum, silicon, germanium, selenium, tellurium, lead, and polonium)
+are predicted to exhibit ferromagnetic ordering when their lattices are placed in sufﬁciently high tensile stress. At
+the threshold lattice constant for the onset of this ferromagnetic ordering, we predict that the energy surface for the
+elemental lattice bifurcates into two stable solutions, one paramagnetic with a higher energy and one ferromagnetic with
+a lower energy. The paramagnetic sheet for the energy surface above threshold joins smoothly with the paramagnetic
+sheet below threshold, however the ferromagnetic sheet joins with the paramagnetic sheet in such a way that the
+energy is continuous, but its derivatives may exhibit jump discontinuities at the threshold. Most of the elements exhibit
+magnetization curves that rise very rapidly with lattice constant above threshold and then saturate at higher values,
+approaching well-deﬁned asymptotes as the lattice constant grows. In most cases, the normalized values of these
+asymptotic magnetizations lie close to 1.0 Bohr Magneton per unpaired p or d electron spin, which is the expected
+limiting case for isolated atoms. Interestingly, we ﬁnd that (with the possible exceptions of the Lanthanide andActinide
+series) the atoms whose outermost electron shells contain only s electrons do not exhibit ferromagnetic ordering at any
+practical value of lattice constant. This speciﬁcally includes all the Columns I and II elements and several elements on
+the right-hand edge of the Transition Metal Group such as zinc, cadmium, silver, and gold.
+
+The results summarized above may now be applied to a variety of multilayer structures whose LENR results
+have been published during the past 15 years. The Mitsubishi Heavy Industries (MHI) team under Yasuhiro Iwamura
+reported successful observation of several different types of nuclear transmutations when using a structure consisting
+of alternating layers of CaO and Pd, both of which crystallize in the face-centered cubic (FCC) structure. The CaO
+unit cell lattice constant is about 4.815 Å, placing it above the threshold for the onset of spontaneous ferromagnetic
+ordering of Pd (4.50 Å when tensile stress is applied in all three dimensions, 4.69 Å when stress is applied in only
+two dimensions). By contrast, they reported negative experimental results when MgO was substituted for the CaO.
+The lattice constant for MgO is only 4.211 Å, placing it well below the thresholds for magnetization in Pd. Similarly,
+the Osaka University team under Yoshiaki Arata reported high LENR rates and 4He production rates when their Pd
+nanoparticles were grown in intimate contact with ZrO2, which also has an FCC lattice and a lattice constant of about
+5.07 Å. They reported much lower LENR rates when bulk Pd or even ﬁnely divided Pd powder was used in the same:
+experimental apparatus.
+
+The search to identify the experimental parameters that most directly control LENR phenomena has posed and
+continues to pose difﬁcult challenges for the community. The effect of magnetic ﬁelds upon measured LENR rates has
+been known for some time but is not yet well understood. Our results suggest the possible existence of an underlying
+order involving spontaneous magnetization that may tie together the work of several different teams and materials
+systems. It is hoped that these results will provide a number of mechanistic clues for the theoretical community as well
+as guidance for LENR materials specialists seeking to optimize reactor structures for various LENR applications of the
+future.
+
+
+REFERENCES
+
+[1] J.O.M. Bockris, R. Sundaresan, Z, Minevski and D. Letts, Triggering of heat and sub-surface changes in Pd–D systems, ICCF
+Conference Proceedings, Vol. 4, 1993.
+[2] D. Letts and P.L. Hagelstein, Stimulation of optical phonons in deuterated palladium, ICCF Conference Proceedings, Vol. 14,
+[3] Y. Iwamura, T. Itoh, M. Sakano, N. Yamazaki, S. Kuribayashi, Y. Terada, T. Ishikawa and J. Kasagi, Observation of nuclear
+transmutation reactions induced by D2 gas permeation through Pd complexes, ICCF Conference Proceedings, Vol. 11, 2004.
+[4] Y. Arata and Y.C. Zhang, Development of compact nuclear fusion reactor using solid pycnodeuterium as nuclear fuel, ICCF
+Conference Proceedings, Vol. 10, 2002.
+[5] P. Hohenberg and W. Kohn, Inhomogeneous electron gas, Phys. Rev. 136 (1964) B864–B871.
+[6] W. Kohn and L.J. Sham, Self-consistent equations including exchange and correlation effects, Phys. Rev. 140 (1965) A1133–
+A1138.
+[7] P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, G.L. Chiarotti, M. Cococcioni, I. Dabo„ A.
+Dal Corso, S. de Gironcoli, S. Fabris, G. Fratesi, R. Gebauer, U. Gerstmann, C. Gougoussis, A. Kokalj, M. Lazzeri, L. Martin-
+Samos, N. Marzari, F. Mauri, R. Mazzarello, S. Paolini, A. Pasquarello, L. Paulatto, C. Sbraccia, S. Scandolo, G. Sclauzero,
+A.P. Seitsonen, A. Smogunov, P. Umari and R.M. Wentzcovitch, J. Phys.: Condensed Matter 21 (2009) 395502.
+[8] R.W.G. Wyckoff, Crystal Structures, Wiley, New York, 1963.
+[9] T. Hioki, N. Takahashi, S. Kosaka, T. Nishi, H. Azuma, S. Hibi, Y. Higuchi, A. Murase and T. Motohiro, Inductively coupled
+plasma mass spectrometry study on the increase in the amount of Pr atoms for Cs–Ion–implanted Pd/CaO multilayer complex
+with deuterium permeation, Jap. J. Appl. Phys. 52 (2013) 107301-1–107301-8.
+[10] Y. Arata and Y.C. Zhang, Development of compact nuclear fusion reactor using solid pycnodeuterium as nuclear fuel, ICCF
+Conference Proceedings, Vol. 10, 2003.
+[11] See, for example, Y. Arata, N. Abe and T. Oda, Fundamental phenomena in high power CO2 laser welding (Report I):
+atmospheric laser welding (welding physics, process & instrument), Trans. JWRI 14(1) (1985) 5–11.
+
+Appendix A
+
+Appendix B
+
+Figure 20.
+Appendix B: Periodic Table of the elements.
+
+Supplementary Figures
+
+Table 1.
+Appendix A: Table of computed and accepted values of lattice constant
+
+Figure 21.
+Supplementary Figure S1.
+
+Figure 22.
+Supplementary Figure S2.
+
+Figure 23.
+Supplementary Figure S3.
+
+Figure 24.
+Supplementary Figure S4.

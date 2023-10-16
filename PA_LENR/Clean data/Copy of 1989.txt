@@ -1,0 +1,235 @@
+0. INTRODUCTION
+
+Scientific investigation in the field of New Hydrogen Power Engineering aimed at finding new effective ways of energy production has been carried out for years by researchers of several countries. The concept of this investigation is based on phenomenon of interaction between deuterium and hydrogen ions, on one hand, and the solid medium (of Pd, Ti and other materials), on the other hand. The said interaction was studied in experiments with electrolysis, electric gas discharge and gas diffusion. At present a huge collection of stable 100%-reproduced results on Excess Heat power production has been accumulated. In most experiments the correlation of the relative output Excess Heat power to the input (electric) power does not exceed 10-20%. This scientific approach is now well recognized by the leading groups of researchers and scientific associations (such as the American Physical Society, the American Nuclear Society, the Los Alamos US National Laboratory, the US Livermore Lawrence National Laboratory and others.) despite the lack of widely familiar theoretical instrument for the description of the physical phenomena in question.
+
+It should be noted that only two directions of investigation yield the most fruitful results and present particular interest for development of large-scale commercial Excess Heat (EH) power production: 1) Experimentation with the Glow Discharge; 2) Experimentation with High-Voltage Electrolysis.
+
+Glow Discharge Approach. The absolute value of EH power up to 5 W/cm2 (on the cathode area of about 1 cm2) and 160% Efficiency (the ratio of the relative output EH power to the input electric power) was obtained in the experiments. Other physical values essential for creating the most favorable experimental conditions to achieve the maximum EH values have been established.
+High-Voltage Electrolysis. The obtained EH power absolute value amounted up to 300 W (on the cathode sample area of about 4.5 cm2) and the ratio of the relative output EH power to the input electric power was up to 800%.
+
+Given below are the experimental results and the proposed outline for further investigation. The results of this investigation have been repeatedly reported at successive specialized International Conferences and seminars. The most recent data has been accepted for presentation at ICAPP 2006 International Conference in the section titled “Alternative Power Supply Sources”. Note, that this work has merited a positive written reference from experts of the American Nuclear Society (ANS) (see Appendix 1).
+
+
+1. EXPERIMENTAL SUBSTANTIATION OF THE PROJECT
+
+1.1. Experimental Results with High-Current Glow Discharge
+1.1.1.Experimental Details
+Experimental research aimed at production of Excess Heat power resulting from low- energy ions (up to 1-2 keV) flux effect upon the cathode solid crystal lattice has been pursued for a dozen of years.
+The experiments were carried out using a high-current Glow Discharge Device (GDD). Adopting GD as a source of ions flux (as compared to electrolysis) permitted to establish a more or less pronounced effect associated with chemical reactions. The high-energy processes were studied in the solid-state GD cathode medium made of Pd, Ti, Ta, Mo and other materials. To build the plasma-forming environment the following gases were used: H2, D2, Ar, Kr, Xe. The investigation was carried out by stages in the following directions:
+
+Measurement of Excess Heat power produced in the cathode solid-state medium.
+The recording was carried out by registration of both the input electric power and the output heat power absorbed by the cooling system, and, by subsequently determining the difference between the obtained values.
+
+Measurement of elemental isotopic impurities formed within the cathode solid medium as a result of reactions of transmutation. The content of impurity elements was analyzed within the whole volume of the cathode material before, and after, the experiments with high-current GD.
+The isotopic ratio of elemental impurities formed in the cathode solid medium was tested and subsequently compared with the natural abundance ratio of these isotopes for each impurity element.
+
+Registration of fast electrons and X-ray emission from the cathode solid medium in reactions of transmutation. Defining the possible mechanism responsible for initiation of transmutation reactions.
+
+Elaboration of phenomenological theory for the description of processes going on in the cathode solid medium exposed to bombardment by low-energy ions flux. Choice of the most favorable experimental characteristics, parameters and conditions for obtaining maximum values of Excess Heat power and Efficiency.
+
+
+1.1.2. Description of GD Device, Experimental Procedure and Main Results Obtained
+The measurements were conducted on a GDD consisting of a water-cooled vacuum chamber, and the anode and cathode assemblies. The cathode design allowed the placement of cathode samples made of various materials on a water-cooled surface. Three components of the device (the anode, the cathode and the chamber) were provided with separate water-cooling channels. Each passage incorporated a volumetric counter of the cooling water consumption. The device was placed into a thermal insulation package (Fig.1) comprising the flow calorimeter. In contrast to the earlier experiments, the GDD operational mode of “plasma-anode” was used. The anode was positioned near the chamber wall (Fig.1) and thus was immersed into the plasma area above the cathode. Pulse periodic power supply based on field-effect IGBT transistors was used. This modification ensured quick on/off current switching with only a negligible power loss. The input GDD electric power and the output heat power carried away by the water cooler from the cathode, the anode and the discharge chamber were registered.
+
+The experiments were carried out with Pd cathode samples in a D2 discharge and with deuterium-charged Pd cathode samples in Xe and Kr discharges. The Pd cathode samples used in control tests were not deuterium-charged prior to their exposure in Xe and Kr discharges. In this set of experiments, the current density did not exceed 100 mA/cm2. With such values of the discharge current in D2 and with continuous loading, the concentration of D2 in Pd reached saturation. When saturation was achieved, the value of the D/Pd ratio was close to 1.
+Heat measurements were carried out for Pd cathode samples in the discharge while changing the following parameters: discharge current density, voltage, duration of current pulses, and the time between current pulses (from the power supply). The absolute value of the Excess Heat power and Heat Efficiency (the correlation of the relative output Heat power to the input electric power) grew with increase of the power input into the discharge (Fig.2, Fig3).
+
+Measurements showed that the release of Excess Heat power from the cathode sample solid persisted after turning off the current (in time intervals between the current pulses). Relatively high values of the Excess Heat power, and the Efficiency were achieved for deuterium pre-charged cathode samples in Xe and Kr discharges (Fig.3). No Excess Heat power production was observed in the cathode samples made of pure Pd (not deuterium pre- charged) in Xe and Kr discharges. The three-channel system of separate measurements of the output Heat power (for the anode, cathode and chamber) enabled to determine the structure of the Excess Heat power output in the GD. The graph (Fig.4) shows that the largest Efficiency values were achieved in experiments with high relative heat release on the cathode. This data prove that the Excess Heat (EH) power was produced mainly on the cathode. The graph (Fig.5) shows that the maximum EH values were recorded at the GD operational voltage ranging 1000 - 1300 V.
+
+
+2. mpurity Nuclides Yield Registration
+
+Proceeding from the assumption used in earlier experiments that the registered Excess Heat Power is related to ongoing nuclear reactions, the impurity elements content in the cathode samples was analyzed before, and after, the experiments with high-current GDD [1]. The following methods were used: (a) spark mass spectrometry, (b) secondary ionic mass spectrometry, (c) secondary neutral mass spectrometry. These techniques were used to analyze the impurity nuclides in the cathode samples material before, and after, the experiment. The procedure for determining the impurities by the method of secondary ion mass spectrometry included the following stages: (a) removal of the upper defect layer (with the thickness of 1,5 nm) by plasma etching; (b) scanning the first and second layers in 5 nm increments, while determining the content of the impurity nuclides; (c) removal of a layer with the thickness of 100 nm, and repeated scanning of the third and forth layers in 5 nm increments while again determining the content of the impurity nuclides (Fig.6.). The difference in the content of the impurity elements before, and after, the experiment was defined as storage of the elements during the experiment. Elemental impurities with the masses approximately half the Pd mass, up to nearly the Pd mass, were recorded in the 100 nm-thick near-surface layer, in an amount up to some tens of per cent.
+
+The main impurity elements (isotopes) with more than 1% content included: 7Li, 12C, 15N, 20Ne, 29Si, 44Ca, 48Ca, 56Fe, 57Fe, 59Co, 64Zn, 66Zn, 75As, 107Ag, 109Ag, 110Cg, 111Cg, 112Cg, 114Cg, 115In. The impurity content in the cathode material was determined at different depths. The impurity content at a depth of 100 nm decreased by 1.5-2 times in comparison with the near-surface layers. The results of these measurements show, that production of the impurity nuclides occurred in the volume of the cathode sample material at depths up to 1 m (up to 40000 atomic layers) from the cathode surface.
+
+
+3. X-ray Emission Registration
+
+Presumably, the reactions of transmutation leading to Excess Heat Power production and impurity nuclides yield in the cathode solid are initiated by processes of energy transfer from the ions flux interacting with the surface of the cathode sample solid. The energy of the ions flux is transferred to the solid medium. Specific feature of this transfer is the X-ray emission.
+The initial excitation energy up to several keV is needed to trigger the assumed nuclear reactions within the cathode sample solid (the density of the interactive nuclei corresponding to that of the solid). The existence of such excited energetic levels is evidenced by intensive X-ray emission from the cathode sample solid medium observed in the experiments. The recording of the X-rays was carried out using thermo-luminescent detectors (TLD), an X-ray film and scintillator detectors with photomultipliers (Fig.7.) [3].
+
+The high intensity of the X-rays made it possible to obtain an optic image of the emission area. This was done by a pinhole camera (with 2.0 mm diameter hole as an optic lens). The image shows that the cathode area measuring 9mm diameter (Fig.8) and especially its central part is the most luminescent. The pinhole provided a spatial resolution of the X-ray emission. The X-ray emission registration by the pinhole was performed without any induced magnetic field, and, with lateral 0.3 T magnetic field induced in front of the pinhole (to deflect the charged particles flow from the cathode). Absence of noticeable difference between the two images (Fig.8a and Fig.8b) shows that the pinhole recorded the X-ray emission.
+The evaluation of the X-ray emission was made with reference to the change in the radiation dose absorbed by thermo-luminescent detectors covered with Be foils of varying thickness. The experimentally determined value of the X-ray energy increased from 1.2 to 1.5 keV when the thickness of the Be shield increased from 15 m to 300 m. X-ray emission as a function of time was studied with scintillator detectors and photomultipliers (PM).
+For different cathode materials the X-ray energy values obtained with the help of scintillator detectors, PM and 15m and 30 m- thick beryllium foils amounted to EX-ray 1.0 – 2.5 keV (Table 2), which showed good agreement with the TLD data.
+
+where  is the wave length, d stands for the distance between crystallographic planes of the micacrystal, 2d=2nm;representsBreggdivergence;mstandsforthediffractionorder.
+The spectrum was registered both as bands of the continuum with energies ranging 0.6 - 10.0 keV and as spots resulting from the emission of series of high-density mono-energetic X-ray beams (with energies up to 0.6 - 10.0 keV) characterized by small angular divergence. The energetic position within the spectrum depended upon the cathode material used (was specific for a given cathode material) and was similar to characteristic X-ray spectra. Of particular interest was the persistence of the X-ray spectrum registration for several hours after turning off the GD current. Presumably, some long-lived excited levels with energies up to several KeV are formed in the cathode solid-state medium, and after the GD current is cut off, the excitation persists maintained by the X-ray emission. The spectrum band (ranging in energy 1.2 – 1.3 keV) was defined for Pd cathode samples in D2 and Kr GD (during its operation, and after, the discharge current switch off) (Fig.9.). This result is in good agreement with the maximum value of EH power at 1000 - 1300 V GD voltage.
+
+
+4. Registration of Secondary Penetrating Radiation
+
+Experiments have shown that secondary penetrating radiation is produced as a result of interaction between the primary X-ray laser beams (released from the cathode solid medium) and the assembly elements such as chamber walls and Pd safety screens. The nature and properties of the secondary penetrating radiation were studied using the high-current GDD.
+The targets consisting of 10-30 m thick foil screens made of different materials (Al, Ti, Ni, Zr, Yb, Ta, W) were positioned at a distance of 21 cm from the cathode. PM scintillator detectors were used for recording of the secondary radiation (Fig.10.). To determine the type of the secondary radiation the GDD was provided with a 70 cm-long channel for the radiation output and the magnetic system designed to establish a lateral magnetic field relative to radiation axis at the distance of 35 cm from the cathode.
+
+The procedure used for registering the emission and calibrating the detector was similar to that which had been employed for the measurement of primary radiation bursts. The X-ray emission type was studied using GDD with a 70 cm-long channel for the radiation output both in the absence of lateral magnetic field, and with the induced magnetic field. The induced 0,2T magnetic field didn’t change the primary emission signal. These results confirm that the primary emission consists of X-rays. The secondary emission resulting from the exposure of the target material irradiates in the same direction as the primary emission. In absence of the magnetic field no considerable weakening of the signal from the PM scintillator detector was observed when the distance between the cathode and the detector was increased from 21cm to 70 cm. The induction of 0,2T magnetic field results in complete disappearance of the signal from the PM scintillator detector. Thus, it may be assumed, that the secondary penetrating radiation consists of a flow of charged particles (presumably, fast electrons) characterized by a small angular divergence. The emission of the secondary penetrating radiation (bursts of fast electrons) is observed within the time period up to some tens of minutes after the discharge current switch off (Fig.11, Fig.12.).
+The value of the energy output from the cathode by beams of fast electrons ranges 1-10 W. Presumably, this energy is released as a result of relaxation of excited internal levels of Pd ions electron shell. The volumetric density estimation of the energy stored in the Pd cathode sample solid medium output by beams of fast electrons after the GD current switch off amounts to 104 - 105 J/kg.
+
+This experimentally established phenomenon may be used for the development of super-powerful storage batteries.
+
+
+5. The following results have been obtained:
+
+Excess Heat power up to 5 W on the cathode area of about 1 cm2 has been registered in experiments with PD cathode samples in D2 Glow Discharge. The correlation of the relative output EH power to the input GD electric power was up to 160%. It was shown that EH power is produced under the following conditions:
+- D2 should be loaded into Pd cathode sample medium with a relative D/Pd content ratio of 1:1.
+- The cathode sample surface should be exposed to the effect of the discharge plasma ions flux. The maximum values of EH power have been obtained at optimal GD operational voltage ranging 1100 – 1300 V.
+- The main impurity nuclides recovered in the experiment are 7Li, 13C, 15N, 20Ne, 29Si, 44Ca, 48Ca, 56Fe, 57Fe, 59Co, 64Zn, 66Zn, 75As, 107Ag, 109Ag, 110Cg, 111Cg, 112Cg, 114Cg, 115In, with the production rate of up to 1013 atoms/sec. The observed change in natural isotopic ratio for these impurity nuclides is up to several tens of times, some main isotopes of impurity elements (with high natural abundance percentage) being absent in contrast to presence of big quantities of isotopes of very low natural abundance percentage. The following isotopes were registered as being absent 58Ni, 70Ge, 73Ge, 74Ge, 113Cd, 116Cd. Peculiar to these effects is the production of big quantities of some isotopes (13C, 57Fe, 48Ti).
+- Soft X-ray emission with intensity of 0.01 J/(s4) was registered in experiments with high- current GD for cathode samples of Pd and other metals in D2 and H using TLD detectors, X- ray film and PM scintillator detectors. The X-ray emission spectra were recorded using the curved mica crystal X-ray spectrometer. The diffusion component of the X-ray spectra includes areas recorded as bands with energies of 0.8 keV, 1.2 keV, 1.65keV, 3.2 keV, 6.5keV.
+
+Presumably, the X-ray emission results from relaxation of Pd excited energetic levels. The energetic value of 1.2 keV characteristic to one of these levels is in good agreement with optimal GD operational voltage ranging 1100 – 1300 V at which the maximum meanings of EH power are produced. Another peculiar feature of the above effects in the cathode solid medium leading to the EH production and the impurity nuclides yield is the absence of any intensive neutron or some other radioactive emission.
+
+The results of experimentation allow to draw up the following basic conclusions:
+- The production of Excess Heat (EH) power occurs mainly in the near-surface layer of the cathode sample.
+- The EH power value depends upon the efficiency of the energy input into the Pd crystal lattice and is determined by the following GD parameters: the GD operational voltage, the current density on the cathode, the duration of separate current pulses.
+- The EH power maximum values were recorded at the GD operational voltage ranging 1000 – 1300 V.
+- The EH power and Efficiency relative value increases with increase in the time period between the current pulses (for the pulse-periodic power supply).
+- The EH power is produced as a result of reactions of transmutation leading to impurity nuclides yield.
+- The production of impurity nuclides occurs in the volume of the solid-state cathode medium at the depth of up to 1m (up to 4000 atomic layers) from the cathode surface.
+- The impurity nuclides are produced with changed natural isotopic impurity ratio (up to several tens of times) (Ca, Ti, Fe, Ni, Ge and others), some basic isotopic impurities (with high natural abundance) not being observed.
+The main objective of the GD experimental approach is the development and optimization of a power (storage) cell of the “plasma panel” type yielding high EH power and Efficiency values with a view of creating a relatively simple technology for building and industrial production of a power supply device with a capacity (power output) up to several kW and more.
+Another promising direction of research based on the same phenomenon is the experimental development and optimization of a high-voltage electrolysis power-cell operating in heavy water with a Pd cathode.
+
+1.2. Experimental Results with High-Voltage Electrolysis
+1.2.1. Experimental Details
+Most experimental data currently available in the field of New Hydrogen Power
+Engineering have been obtained by low-voltage electrolysis (10-12V) in heavy water. Reliable experimental results on EH power production (up to several W) and Efficiency (110- 120%) have been recorded using the said approach, though the achieved values of EH power and Efficiency are rather modest and commercially non-expedient.
+Several years ago a group of Russian researchers pursued investigation on High-Voltage Electrolysis (HVE) in heavy water using Pd and Cu cathodes [4,5]. Given below are the results of these experiments subjected to further mathematical treatment and converted into conventional EH power and Efficiency measurement units.
+
+1.2.2. Description of HVE Device, Experimental Procedure and Basic Results Obtained
+The HVE device consisted of a quartz tube with an additional circuit for a working fluid (Fig.13). The anode and cathode units were placed inside the tube. To circulate the working fluid a mixer was installed inside the circuit. One side of the flat cathode was washed by the working liquid, while the other side of it was cooled by the water flowing in a cooling tube. To take the difference in the cooling water temperature input and output thermocouples connected differentially were placed into the water-cooling passage. The cooling water consumption on the cathode was the same in all the experiments. High-voltage power supply (up to 2 kV at current values up to 100 mA) with a series-connected limiting resistor was used to feed the HVE device.
+
+The experiments were carried out using light and heavy water as a working liquid. By various techniques the voltage in the working liquid between the cathode and the anode was brought up to 800-900 V. The electrolysis was effected without GD operating between the cathode and the anode. The electric power was measured by a power gage provided with additional ammeter and voltmeter. The HVE power, current, voltage and the signal from the thermocouples were registered automatically by KCP-4 self-recording potentiometers. The water temperature inside the cooling passage was additionally controlled by mercuric thermometers.
+
+Five sets of experiments were carried out at the following HVE operating parameters: Electrolysis in light water (H2O) with a Pd cathode (not pre-treated Pd).
+Electrolysis in heavy water (D2O) with a Pd cathode.
+Electrolysis in heavy water (D2O) with a Pd cathode (pre-treated Pd cathode by saturation in heavy water for a month).
+Electrolysis in light water (H2O) with a Cu cathode. Electrolysis in heavy water (D2O) with a Cu cathode.
+
+The procedure of the Pd cathode pre-treatment was the following. First electrolysis was carried out with a Pd cathode in D2O, then the Pd cathode was left for a month immersed into D2O. The electrolysis with thus pre-treated Pd cathode was carried out alongside with measurements of electric power, and the water temperature in the cathode cooling passage. In all four cases the cathode was cooled by the tap water. The water consumption in the cathode cooling passage was the same in all the experiments. The electric power of electrolysis in experiments with the pre-treated Pd cathode was approximately by 2 – 2.5 times less. The relative value of the output power was determined by the difference between the input and output water temperature in the cathode water cooling passage.
+The following coefficient (K) of relative heat output was used:
+t D2O
+K t H2O
+W
+el.H 2O el.D2O
+
+22
+
+W
+Here t = (tout tin) represents water heat up in the cathode water cooling passage; Wel. stands for the electric power input into the electrolytic cell in the experiments with heavy and light water, respectively.
+The results of this set of experiments are given in Table 2.1. In experiments with Cu cathode in heavy and light water the results obtained are similar to those recorded with the Pd cathode in light water.
+
+The above experimental results may be represented in terms of EH power and Efficiency values. The term Heat Efficiency implies correlation between the heat power output into the cathode water cooling system and the electric power input into electrolytic cell during electrolysis. It may be assumed that the electric power input into the electrolytic cell, and the heat power produced in the cell are carried away by the water of the cathode cooling system. Then the EH power produced in the electrolytic cell will be determined by the following expression:
+PE.H. = Pel.(K 1) whereas the Heat Efficiency will be equal to
+Efficiency = K 100%
+The data presented in terms of this experimental method is given in the graphs of Fig.14 – 15.
+
+The recorded experimental data shows that the method of High-Voltage Electrolysis is very promising for research and development of a heat power source prototype.
+
+
+6. 2. Suggestions on Glow Discharge Experimental Method
+
+2.1. Objective of Experimental Research
+GD experimentation is aimed at establishing the most favorable GDD performance data
+resulting in maximum values of EH power and Efficiency (the ratio of the input electric power to the output heat power). It is intended to investigate the dependence of Excess Heat Power and Efficiency upon the following GD operational characteristics:
+1) the current pulse amplitude (peak value) (the current density on a definite cathode area) and the current pulse length;
+2) the voltage amplitude (peak value);
+3) the current pulse length and the pulse period (duration between the pulses).
+The above data is essential for the development of power supply prototype based on GDD method.
+
+2.2 Design of Glow Discharge Device (Continuous Flow Calorimeter).
+The above stated conditions and performance data permit to design the experimental
+device in accordance with the aims of investigation. The Glow Discharge device (GDD) (continuous flow calorimeter) used in experiments is similar to “Calorimeter 2B” installation (Fig.17). The device consists of a vacuum discharge chamber, the anode and cathode units (Fig.16). The discharge chamber incorporates two flanges made of stainless steel provided with fasteners (clamps) for the anode (3) and cathode (2) units and the inside (cylinder) quartz tube, inserted between the flanges. The inside quartz tube and the flanges form thevacuum volume of the discharge chamber. The outside quartz tube of a larger diameter is set coaxial to the inside tube, with a clearance being provided between the tubes. The circular cylindrical clearance between the quartz tubes serves as a water-cooling jacket. The anode unit comprises seven individual anodes (provided with vacuum joint gaskets and electric insulators) placed upon the anode flange. Each anode consists of an anode per se, the anode-holder and the cooling jacket. The anode-holder is made of copper and is designed to conduct electric current and to carry off heat. The cooling jackets (radiators) of the seven anodes are placed into a common chamber through which the cooling water is run. The cathode unit design is similar to that of the anode. Each cathode holder is provided with a clamp nut. Pd cathode samples are placed between the clamp nut and the cathode-holder. The device incorporates three independent water-cooling passages for the anode, cathode and the discharge chamber, respectively. To complete the flow calorimeter system (to ensure better thermal insulation from environment) the discharge chambers are wrapped up into a thermal insulation cover (4) that reduces thermal losses into the environment. The material used for the wrapping consists of 50-60 mm-thick polystyrene and polyurethane foam. To observe the discharge glow (in conditions of adequate thermal insulation) windows of transparent plastic (9) are made in the insulation cover.
+
+The suggested experimental device consists of seven anode-cathode pairs. Several design and technological solutions permit to change the number of anode-cathode pairs with ease. The proposed installation design represents a “plasma panel” prototype of a power supply device aimed at obtaining high values of EH power.
+
+2.3. GD power supply
+GD power supply is designed to feed the GD with a pulse-periodic direct current and
+permits to generate the desired current forms of various pulse length and pulse period and to obtain the required current voltage and meaning. The power supply consists of an auto- transformer, a step-up transformer, a rectifier, a storage capacitor, a ballast resistor and a high-speed electronic switch. The electronic switch is based on field-effect IGBT transistors. This modification ensures quick on/off current switching (up to 60 ns) with only a negligible power loss (Fig.17). The electronic switch comprises a master generator, IGBT opening pulse shaper, IGBT closing pulse shaper, and a set of IGBT power transistors. The master generator permits to form current pulses of rectangular shape, required length, and period. The IGBT transistor opening pulse is formed in passing the generator pulse leading edge. The IGBT transistor closing pulse is formed in passing the generator pulse trailing edge.
+
+2.4. Measurement System
+The system of measurement, recording and processing of obtained data is aimed at 1)
+measurement and recording of the electric power input into the discharge; 2) measurement and recording of the output heat power carried away by the cooling water; 3) defining the difference between the input (into the discharge) electric power and the output heat power (to summarize the heat balance).
+Registration of the input electric power
+The system consists of a channel for current measurement and a channel for voltage measurement (Fig.19). The measurement system effects total galvanic insulation of the data acquisition board from GDD electric circuits by means of voltage sensors based on Hall effect. The procedure for measurement of electric power inside non-sinusoidal current circuits is based on registration of instantaneous power values.
+
+The measurement procedure involves:
+- registration of voltage and current cyclogram in discrete digital values at distinct time intervals;
+- multiplying instantaneous voltage and current meanings obtained at definite moments of time and deriving cyclorama of electrical power;
+- numerical integration of relationship between instantaneous power values and time (within a definite T time period);
+- working out the relationship file between the power mean value and time.
+
+The measurement is carried out using precision (12 bit) high-speed data acquisition board of analog digital transformer (access time to measurement channel amounts to 2 s) and a special computer program. The current analog signal in terms of voltage output taken from the current sensor and the voltage analog sensor output are fed to the input of the two ADB (analog digital board) measurement channels. The ADB effects voltage measurements in both the current and the voltage channel, and converts the resulting output into a digital code. Then a special computer program multiplies the instantaneous voltage and current meanings. The aggregate of obtained instantaneous power values within a definite T time period is then numerically integrated in relation to the said T time period. The numerical integration of voltage, current, and, electrical power instantaneous values is carried out by dividing the integration curve into N definite time periods (stretches) and subsequent substitution of the integral for a sum according to the following formula:
+t
+Registration and measurement of the output heat power
+Three units of the device: the cathode, anode and chamber are provided with independent water cooling channels. Each cooling channel includes two temperature sensors turned on differently at the input and output and a flow meter of the cooling water consumption. The device is placed into a thermal insulating package (Fig.17.) and represents a flow calorimeter.
+The heat power carried away by the anode PHA, cathode PHC and chamber PHCh cooling water channels, respectively, is determined in the following way:
+PHA = Cw GWATA
+P H C = C w  G W C  T C
+PHCh = Cw GWCh TCh
+
+Here Cw stands for the water specific heat; GWA, GWC, GWCh show the anode, cathode and
+chamber cooling water flow rate, respectively; TA, TC, TCh denote the difference between the anode, cathode and chamber input and output cooling water temperature readings.
+With the availability of an Excess Heat power source (PEH ) inside the chamber, its value is determined by the following:
+PEH = (PHC + PHA + PHCh)
+N1 
+i
+P1 UiI i1 , (2)
+34
+el
+i1
+i 1
+UI t
+T i0 2
+where i index refers to voltage, current and time values at the starting point of a definite integration curve stretch; i+1 index shows the said values relative to the end of a given integration curve stretch. The time separation t = ti – ti+1 is chosen based on the required integration accuracy.
+
+The ratio of the output heat power to the input electric power (Heat Efficiency coefficient) is determined by :
+PHC + PHA + PHCh
+
+Pel
+
+
+7. Suggestions on High Voltage Electrolyses Method
+
+3.1. Objective of Experimental Research
+HVE experimental research pursues the same objective as the GDD method. HVE
+method is aimed at establishing the most favorable performance data resulting in maximum values of EH power and Efficiency (the ratio of the input electric power to the output heat power). It is intended to investigate the dependence of Excess Heat Power and Heat Efficiency upon the following HVE operational characteristics:
+1) the current pulse amplitude (peak value) (the current density on a definite cathode area) and the current pulse length;
+2) the voltage amplitude (peak value);
+3) the current pulse length and the pulse period (duration between the pulses).
+
+3.2. HVE Device
+Experimental HVE device has been developed on the basis of the GD device. HVE
+device is positioned horizontally (in relation) to the cathode axis (Fig.20.). The electrolytic chamber is shortened and provided with an additional circuit for a working fluid. The experiments were carried out using heavy and light water (in control tests) as a working fluid. The power supply system and the measurement system used in this set of experiments is similar to those used in GDD tests.
+
+
+8. Suggestions on Experimentation with Electric Energy Accumulation
+
+4.1. Objective of Experimental Research
+The research is aimed at experimental study of the energy accumulation phenomenon in
+the crystal lattice of the solid exposed to bombardment of the ions flux. No less important is the study of the accumulated energy output in the form of fast electrons and evaluation of its (the accumulated energy) amount at different GD operating characteristics.
+It is intended to investigate the dependence of accumulated energy values and the output energy values upon the following GD operational characteristics:
+1) the current pulse amplitude (peak value) (the current density on a definite cathode area) and the current pulse length;
+2) the voltage amplitude (peak value);
+3) the current pulse length and the pulse period (duration between the pulses).
+
+It is planned to carry out experimentation with various cathode materials and different plasma-forming gases.
+The experimental installation incorporates the GDD, the pulse-periodic power supply, the output energy data acquisition and registration system (Fig.21.). The Glow Discharge device consists of a vacuum discharge chamber, the anode, the cathode, and a collector for the fast electrons flux. The output energy acquisition and registration system incorporates a high-speed electronic switch based on field-effect IGBT transistors, load resistance, current and voltage sensors, and the Data Acquisition Board.
+
+The high-speed electronic switch of the registration system is turned on after passing the power supply pulse trailing edge. The fast electrons emitted from the cathode are captured by the collector and passed through the load resistor in the form of electric current. The output power is measured on the load resistor by means of current and voltage sensors. Presumably, there are two ways of energy accumulation in the solid crystal lattice:
+short-term regime – the energy is input (introduced) into the solid (crystal lattice) in the course of several current pulses generated by the power supply and then output for a period of up to 1 sec after the current switch off;
+long-term regime – the energy is input into the solid in the course of several minutes and is then output for a period of up to 1 hour.
+
+
+9. Conclusion
+
+Experimental evidence of the present research and that obtained by other groups
+of researchers allows to formulate a working program aimed at development of EH power supply prototype.
+
+
+10. References
+
+1.A.Karabut, “Heat Energy Production Method”, Patent #2240612, 20 November, 2004, Russian Federation.
+2. A.B.Karabut, “RESEARCH INTO LOW ENERGY NUCLEAR REACTIONS IN CATHODE SAMPLE SOLID WITH PRODUCTION OF EXCESS HEAT, STABLE AND RADIOACTIVE IMPURITY NUCLIDES”, Proceedings of the 12th International Conference on Cold Fusion, December 2 – 7, 2006, JAPAN.
+3. A.B.Karabut, “ STUDY OF ENERGETIC AND TEMPORAL CHARACTERISTICS OF X- RAY EMISSION FROM SOLID-STATE CATHODE MEDIUM OF HIGH-CURRENT GLOW DISCHARGE”, Proceedings of the 12th International Conference on Cold Fusion, December 2 – 7, 2006, JAPAN.
+4. G.Kazyonov , “Experiments of anomalous output heat registration by electrolysis in heavy water ”, PROCEEDINGS of the 10-th RUSSIAN CONFERENCE ON COLD NUCLEAR TRANSMUTATION OF CHEMICAL ELEMENTS AND BALL LIGHTNING, DAGOMYS, CITY OF SOCHI, September 29 – October 6, 2002, Russia, pp. 41 – 49.
+5. A.V.Yeremeyev, “ Experiments of anomalous output heat registration by high voltage electrolysis in heavy water (method detail)”, PROCEEDINGS of the 12-th RUSSIAN CONFERENCE on COLD NUCLEAR TRANSMUTATION of CHEMICAL ELEMENTS and BALL LIGHTNING, DAGOMYS, CITY OF SOCHI, September 19 –26, 2004, Russia, pp. 98 – 108.

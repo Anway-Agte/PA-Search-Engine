@@ -1,0 +1,218 @@
+1. Introduction
+
+Since the first publication of Martin Fleischman and Stanley Pons in 1989, the majority of articles in the LENR field
+have focused on calorimetry [1]. This is true for both electrolysis experiments and gaseous loading experiments [2].
+
+Many calorimetry experiments are masterpieces of science [3]. Nevertheless, despite the experimental evidence,
+the results indicating excessive heat have not convinced the scientific community. Well-designed calorimetry experiments take a very long time to be developed. It’s an issue, because it would be good to test many alloys systematically.
+It is likely that there are still unknown alloys whose ability to generate what Dr. Ed Storms calls a “Nuclear Active
+Environment” [4] is greater than that of palladium. It is certain that low concentrations of elements such as lithium,
+boron, beryllium in these alloys will have undoubtedly positive effects. We need fast and reproducible tests to sort all
+these alloys and select the most promising samples. Several authors have suggested that the quantum condensation of
+deuterium nuclei is at the root of the appearance of “NAE” [6–9]. It would be very useful to provide irrefutable proof
+of the existence of these quantum phases. But on top of that, these quantum phases could provide a relatively easy way
+to sort out the most useful alloys for LENRs.
+
+Figure 1. Fusion diode.
+
+For this purpose, we propose three relatively simple techniques:
+
+(1) The “Fusion Diode” effect: deuterated alloys in contact with a semiconductor cause the appearance of an
+easy-to-measure electrical voltage. If this voltage is actually due to the direct conversion of LENR, we have a
+simple method to select the most promising alloys (Fig. 1).
+
+(2) The Reifenschweiler effect: the variation of tritium beta-rays bremsstrahlung conversion efﬁciency as a func-
+tion of temperature is also a simple method for sorting the most efﬁcient alloys [10].
+
+(3) The magnetic alignment of the tritium pairs: this effect, which we have postulated, but not yet observed, would
+make it possible to very quickly test many new alloys [11].
+
+In this article, we want to discuss how it is possible to ﬁnd alternatives to calorimetric experiments.
+
+
+2. The Fusion Diode Effect
+
+It is very difﬁcult to make good calorimetric recordings.
+It is easier to count X-rays. But the easiest way to get a
+scientiﬁc evidence about any kind of phenomena is to do electrical recording. We have suggested the idea of “Fusion
+Diodes”. Fusion diodes are made of a palladium (or other alloys) in close contact with a semiconductor. This is a
+semiconducting diode.
+
+When fusion reactions take place near the metal/semiconductor contact, at the beginning we had high energy
+quanta (in the MeV range), and then thermalization occurs, leading to Anomalous Heat Effect (down-conversion of
+Hagelstein). But before thermalization, the decaying energy match the level of excitation of the electrons of the metal:
+some energy is transmitted to the electrons before thermalization (like in a photovoltaic cell, but in our diodes, the
+energy source is expected to be the fusion of deuterium, protium, or perhaps lithium, boron, or beryllium).
+
+At the contact between metal hydride and metal, pairs of electrons and holes are created, and depending to the
+height of the potential barrier between the two material, a voltage is created (and also an electrical current, of course).
+
+We can record the voltage and the intensity of the resulting current at the positive and negative side of the diode.
+This simple device allows a simple recording of the total output power, because there is no electrical input. We plan
+to record this electrical energy during months or even years, to exclude the possibility of a chemical origin. It is
+important to note that these devices have no electrical input. There is also no thermal input. The energy is released as
+electrical current, and this is very easy to record with high accuracy. We are using diodes made of palladium as the
+metal, and silicon as the semiconductor. We have also tried other semiconductors like aluminum nitride and organic
+semiconducting ink. But we only published our experiments with silicon. The palladium is loaded with deuterium
+simply by the gas-loading method. We do not know the effective loading value, but it is probably rather high, because
+of the micrometer size of the palladium powder. A diode is basically a surface of contact with a metal (electronic
+conductor) and a semiconductor (hole conductor).
+
+We think that the deuterium nuclei which are in the palladium will be driven in the direction of the electric ﬁeld.
+Once these deuterium nuclei will arrive at the interface between palladium and the semiconductor, they will accumulate
+there. The probability of fusion probably will increase [4].
+
+Better: if reactions of cold nuclear transmutation take place into the junction, an excitation of the electrons will
+occur at this place (as in the junction zone of a photovoltaic cell). A solar cell is a nothing than a ﬂat diode with a large
+surface. When photons fall on the junction zone, some atoms are excited, and electrons pass from a low energy level
+to a higher energy level. A spontaneous electric voltage thus will appear. It is what we observed. In our diodes, the
+nuclear energy is transmitted to the electrons before thermalization.
+
+In order to get a surface of junction as large as possible, our fusion diodes are made as powder diodes, with a large
+surface junction made up of a semiconductor powder in contact with palladium powder charged with deuterium [5].
+The weight of palladium powder is comprised between 1 and 2 g by diode. This energy very quickly appears as a
+spontaneous potential difference which can reach over 0.5 V/junction (open circuit) (Fig. 2).
+
+Figure 2.Powder fusion diode (length: 14 cm, diameter: 1.6 cm).
+
+Figure 3.Voltage recording at the ends of a fusion diode.
+
+Diodes comprising of a stack of junctions were made, making it possible to obtain over 1 V at the poles of a very
+compact device of a few centimeters’ length. The released power remains very low for the moment, (in the nanowatt
+range) but it should be noted that it is presented in the form of directly usable electrical energy, and not of thermal
+energy (Fig. 3).
+
+Of course, we have made blank and control experiments. We have built three diodes each time, one ﬁled with
+pure deuterium (1.5 bar) another ﬁled with hydrogen at the same pressure, and another ﬁlled with pure argon. We
+observed no voltage with argon ﬁlling, a little voltage with hydrogen, twice the voltage with deuterium. We think
+that the observed voltage with hydrogen is generated by the little amount of deuterium in the hydrogen (0.015% of
+deuterium in natural hydrogen). But it is difﬁcult to avoid the deuterium leak, and the ensuing voltage drop. We plan
+to seal a diode in a glass tube, and measure the energy produced for several months.
+
+Thus, it will be possible to determine whether the energy observed is actually of nuclear origin, or if it is an artefact
+of electrochemical origin. After several months, it will be sufﬁcient to weigh the copper deposited on a cathode (a
+tiny wire of copper) whose weight is known at the beginning of the experiment to prove that the energy produced is of
+nuclear origin (or not.. . ).
+
+Of course, it is rather tedious to work with powders. But the “Fusion Diode” effect is highly reproducible, even
+with thin ﬁlms of organic semiconductors. The authors used many different embodiments of the “Fusion Diode”.
+Another team working on “fusion diodes” has made diodes by vacuum metallizing silicon wafers. On one side is
+deposited a palladium ﬁlm, and on the other a gold ﬁlm (forthcoming publication).
+
+Figure 4.Stack of fusion diodes (please read “PVC” instead of the wrong acronym “PVS”).
+
+We used sheets of aluminum foil covered on one side by a thin sheet of palladium, and on the other by a layer of
+semiconducting paint (Plexcore® Organic Conductive Ink, Sigma). Little disks are then cut with a punch and these
+disks are stacked on top of one another and compressed with a hydraulic press. A valve makes it possible to pressurize
+the container with deuterium (Fig. 4).
+
+A better method would be to use a plastic semiconductor ﬁlm covered with a palladium sheet on one side, and
+a gold leaf on the other side. Whether in the form of metal powders or thin metal foils, it is possible to quickly test
+a large number of alloys containing deuterium or hydrogen. The higher the voltage, the better the LENR properties
+of the tested alloy. A large number of new alloys have been developed over the last 20 years by the metal-hydride
+battery industry, and also for the storage of hydrogen. Many of these alloys are available in the supplier’s catalogs
+(Sigma–Aldrich). These alloys are much cheaper than palladium, and their price will drop considerably as soon as
+they are produced in industrial quantities. Nickel alloys look promising [2].
+
+By way of example, the properties of the ZrV2 H5.5 alloy are better than those of pure palladium (3% weight of
+hydrogen versus 0.5% for PdH0.6 and equivalent pressure at 300 K of 10−8 bar versus 0.02 bar for palladium) (Ref:
+D. Chandra et al., Material Matters, Vol 6, no. 2, Sigma–Aldrich eds., 2010).
+
+
+3. The Use of the Reifenschweiler Effect
+
+The Dr. Otto Reifenschweiller was heading the neutrons generators department of PHILIPS during the 1960s. In
+1964, Reifenschweiler noticed that the apparent beta-decay of the tritium absorbed into titanium changes with the
+temperature of the titanium. Reifenschweiler has waited his retirement to publish his observations [10]. Here is the
+curve obtained by Reifenschweiller: the apparent radioactivity of tritium decreases by 40% (Fig. 5).
+
+In our opinion, the number of disintegrations per second does not change, it is just the yield of counting X-rays
+produced by bremsstrahlung that varies. We believe that at low temperatures, the tritium nuclei contained in the metal
+combine two by two to form composite bosons (two tritium nuclei of opposite spin form a composite boson, such
+as helium-3 nuclei in superﬂuid helium-3). The tritium nuclei have a spin of 1/2. They are therefore fermions. In
+superconductors, the electrons combine two by two to form composite bosons of spin 0 (the two electrons of each pair
+
+Figure 5.Decrease of the (apparent) radioactivity of tritium as a function of temperature.
+
+are of opposite spin 1/2). These composite bosons can form a superconducting quantum phase. We hypothesize that
+tritium nuclei can also associate two by two to form composite spin-zero bosons.
+
+These composite bosons can therefore form a Bose–Einstein Condensate (we will not discuss here the physical
+phenomena that make possible the existence of a BEC at room temperature) [11,12]. In this case, during the beta
+decay of a triton in this BEC, there is no more recoil of the nucleus: the energy of beta rays and neutrinos increases.
+The whole spectrum of beta electrons is shifted slightly towards high energies, and the counting efﬁciency increases.
+As the temperature increases, the pairs of tritium nuclei break and the Bose–Einstein Condensate disappears, and thus
+the counting efﬁciency of the radioactivity decreases.
+
+Figure 6.Balance of beta-decay energy.
+
+The decay energy of tritium is divided into three parts: the electron energy, the neutrino energy, and the recoil
+energy of the helium-3 nucleus (Fig. 6). We hypothesize that when the tritium nuclei are engaged in a BEC, it is the
+whole BEC that absorbs the recoil energy. As a result, there is very little energy transmitted to the BEC, and therefore,
+
+Figure 7.Spectrum of normal tritium decay and expected BEC tritium decay spectrum.
+
+correlatively, there is more energy carried by the neutrino and the beta electron. The spectrum of the beta rays is thus
+shifted to the “high” energies (Fig. 7). If the BEC is suppressed by the rise of the temperature, in the opposite way, the
+spectrum is moved towards the low energies. This effect is extremely weak. But by chance, we have a natural ampliﬁer
+that helps us to highlight it. Indeed, in the Reifenschweiler experiments, the conversion of beta rays into X-rays by
+bremsstrahlung is used. This effect is mainly caused by the upper part of the energy spectrum of tritium (low energy
+X-rays do not come out of the experimental setup, nor do they enter the Geiger counter, so they are not counted). A
+small shift to high energy will therefore have a relatively large effect.
+
+This phenomenon is very important for our ﬁeld of research because many authors have asserted that the “Nuclear
+Active Environment” that allows the LENRs is due to the formation of Bose–Einstein Condensates [4–7].
+
+It is therefore possible to use the Reifenschweiller effect to sort the new alloys containing hydrogen according to
+their capacity to house BECs. (Of course, we will use a simpler experimental device than that of Reifenschweiler:
+small sealed ampoules glass containing the alloy powder and tritium, and a small programmable oven.) It is probably
+possible to design experimental devices even simpler, and bringing even more convincing results.
+
+
+4. The Magnetic Alignment of the Tritium Pairs
+
+This effect, which we have postulated, but not yet observed, would make it possible to very quickly test many new
+hybrid-forming alloys. We propose to make sealed glass sources containing alloy powder and tritium. These sources
+will be placed in the gap of a powerful electromagnet. When the electromagnet will be turned on, the spins of the
+tritium nuclei will align with the magnetic ﬁeld and the composite bosons will be destroyed. The condensate of Bose–
+Einstein will disappear. The beta spectrum will be shifted slightly towards the low energies and the counting efﬁciency
+of the radioactivity will decrease.
+
+If it exists, this new effect will be easy to prove and it can be very useful to sort the best NAE alloys, regardless of
+the theoretical importance of this effect.
+
+
+5. Conclusion
+
+Despite the quality of the experimental results proving the reality of the Fleischman–Pons effect (excess heat in palla-
+dium and deuterium alloys), the majority of scientists are still not convinced of the existence of LENRs. We believe
+that the three phenomena of the “Fusion Diode” effect, the Reifenschweiler effect, and the magnetic suppression of
+the triton’s pairs, if conﬁrmed, could be the basis for new techniques to conﬁrm the calorimetry experiments. It would
+also be possible to use these effects to quickly select new alloys that can be used to produce LENRs.
+
+
+References
+
+M. Fleischman and S. Pons, J. Electroanal. Chem. 261 (1989) 301.
+A. Parkhomov and E. Belousova, Research into heat generators similar to high-temperature Rossi reactor, J. Condensed
+Matter Nucl. Sci. 19 (2016) 244.
+Michael C.H. McKubre, Romeu C. Rocha-Filho, Stuart Smedley, Francis Tanzella, Jason Chao, Bindi Chexal, Tom Passell
+and Joseph Santucci, Calorimetry and electrochemistry in the D/Pd system, In the First Annual Conf. on Cold Fusion, 1990,
+University of Utah Research Park, Salt Lake City, Utah, National Cold Fusion Institute.
+E. Storms, What conditions are required to initiate the LENR effect? in Tenth Int. Conf. on Cold Fusion, 2003, Cambridge,
+MA.
+Fabrice David and John Giles, Self-polarisation of fusion diodes: from excess energy to energy, Proc. of the ICCF14.
+Fabrice David, Hypothesis of the diaﬂuidity, FUSION no. 49, Jan.-Rev. 1994, (French edition of XXIth Century Science et
+Technology).
+F. Premuda, D. Boni and De Pasca, La superconduttivita nel palladio carico di deuterio, XXI Secolo Scienza e Technologia,
+Vol. 1, 1997, pp. 24–31.
+Paolo Tripodi, Daniele Di Gioacchino and Jenny Darja Vinko, Superconductivity in PdH: Phenomenological explanation,
+Physica C (Superconductivity) 408(1) (2004) 350–352.
+Y.E. Kim, and T.O. Passell, Alternative interpretation of low-energy nuclear reaction processes with deuterated metals based
+on the Bose–Einstein condensation mechanism, in Eleventh Int. Conf. on Condensed Matter Nucl. Sci., 2004, Marseille,
+France.
+O. Reifenschweiler, Phys. Lett. A. 184 (1994) 149.
+F. David and J. Giles, Beta-decay of tritium as a probe for Bose–Einstein condensates in metallic lattices, Proc. of the 17th
+RCCNT-BL, Sochi, September 26–Oct. 3, 2010.
+Fabrice David, About discrete breathers and LENR, 14th Int. Workshop on Anomalies in Hydrogen Loaded Metals, Asti,
+Italy, 5–9 June 2017.

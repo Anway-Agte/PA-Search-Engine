@@ -1,0 +1,1129 @@
+1. INTRODUCTION
+
+Following the initial claims of 1989,1,2 the body of research on anomalous eﬀects in metal deuterides has
+grown to include thousands of papers on a wide spectrum of topics. DoE, to facilitate their review of this
+set of research, has asked for the preparation of the following summary. The entire body of research is
+not addressed. Rather, a subset of research from two areas is presented: selected issues associated with
+excess heat production in deuterated metals, and a brief discussion of some aspects of nuclear emissions
+from deuterated metals.
+
+
+2. EXCESS HEAT EFFECTS IN FLEISCHMANN-PONS EXPERIMENTS
+
+In the simplest sense, the Fleischmann and Pons experiment is an aqueous electrochemical experiment
+in which a palladium cathode is loaded with deuterium in a heavy water electrolyte. If the associated
+conditions are suitable, an excess heata eﬀect can be observed (for example, see Figure 1). In 1989, there
+developed both interest and concern regarding the measurement of excess energy and the conditions
+under which the excess heat eﬀect could be observed. In the years following the initial announcement,
+it was easier for most to believe that the eﬀect was due to calorimetric errors than due to new physics.
+However, excess heat has been observed with a variety of calorimeters based on varying operating
+principles and by diﬀerent groups in diﬀerent labs, all largely with similar results. The hypothesis that
+the excess heat eﬀect arises only as a consequence of errors in calorimetry was considered, studied, tested,
+and ultimately rejected. A brief discussion of calorimetric issues is provided in Appendix A (see also a
+recent more general discussion by Storms3). The conditions under which the excess heat eﬀect occurs
+remain of interest. Much has been learned since 1989. We consider brieﬂy in what follows some of the
+factors that have been identiﬁed.b
+
+Figure 1.
+Excess power in Fleischmann-Pons experiments as a function of time in twin cells and calorimeters, driven with
+a common current, one with heavy water and one with light water.
+
+2.1. Total Excess Energy Production:
+The total excess energy produced in the Fleischmann-Pons experiment can greatly exceed what might be
+expected from chemical eﬀects.1,4 The energy density is customarily quoted relative to the total cathode
+volume,c corresponding to the conclusion that the excess heat eﬀect has its origin within the metal
+deuteride based on measurements of cathode temperature rise and the establishment of temperature
+gradients in electrolytic and gas calorimetric experiments. Gozzi and coworkers reported5 excess energy
+production at the level of 130 MJ/cm3. The SRI group quoted a value of 45 MJ/mol for a measurement
+in a closed cell ﬂow calorimeter, which is about 450 eV/atom of Pd.6 There are a great many reports of
+energy production at this general level, and some at much higher levels as well.
+
+2.2. Excess Heat and Loading:
+Early publications by Fleischmann and Pons implied that the phenomenon they were studying was
+conditioned. From the material then available, it was not easy to deduce a complete set of necessary and
+suﬃcient conditions to initiate the excess heat eﬀect. Little eﬀort was made in early replication attempts
+to measure or report the bulk, interfacial and stimulus conditions employed. By the time of the ﬁrst
+International Conference (ICCF1 in 1990), an eﬀort was underway to evaluate systematically the various
+parameters of the eﬀect. With the development7 and adoption8 of bulk resistivity and other methods9
+as in-situ probes of the Pd cathode composition, it was quickly recognized that the Fleischmann and
+Pons eﬀect occurred in Pd wire cathodes only when very high average levels of loading (D:Pd atomic
+ratio) were achieved in the Pd bulk.d Figure 2 shows the measured correlation between thermal power
+production (in excess of known power input) and D:Pd bulk atomic ratio determined in-situ from
+the measured cathode resistance. The eﬀect appears to increase approximately parabolically above a
+threshold loading of D/Pd ≈ 0.875. A very similar result with a slightly lower threshold was presented
+and published simultaneously by Kunimatsu et al.9,10 based on independent experiments carried out at
+IMRA Japan (Hokkaido). Such high loading is accompanied by high internal pressure, and it is necessary
+for the cathode to be able to withstand this in Fleischmann-Pons experiments.11
+
+Figure 2.
+Excess power density in W/cm3 versus average D/Pd atomic ratio measured from the axial resistance for a
+Johnson Matthey wire cathode 30 cm long and 1 mm diameter in 1.0 M LiOD containing 200 ppm Al.
+
+This loading requirement in the basic Fleischmann-Pons experiment is thought to be a general pre-
+condition for the eﬀect in Pd wire cathodes.e An analysis of 49 calorimetric results obtained at SRI
+in 1990 and 1991 showed that in no case was a calorimetric imbalance observed (19 examples) where
+an electrode failed for whatever means to achieve a bulk average D/Pd loading of 0.9. However, all
+electrodes achieving a loading of 0.95 or greater (15) exhibited a heat excess more than 3 times the
+measurement uncertainty (σ), in many cases many tens of σ larger. Example of such heat excess is
+shown in Figures 1 and 3. For the cells with cathodes achieving a maximum loading between 0.90 and
+0.95, approximately half manifested measurable excess heat and half did not.
+
+The equilibrium spacing of deuterons in PdD is greater than in D2, so the proximity of deuterons at
+high loading alone is not expected to promote an excess heat eﬀect. The pair-wise fusion rate of deuterons
+in PdD or in other metal deuterides is too small by tens of orders of magnitude to be observable.13 The
+notion that deuterons are somehow being squeezed together, so as to fuse at high loading or high fugacity
+in these experiments, is not considered a plausible explanation.
+
+Figure 3.
+Excess power (Pxs), reference voltage (Vref) and cell electrochemical current (Icell) as a function of time (hours)
+for an Englehard Pd wire cathode 3 cm long and 3 mm in diameter in 1.0M LiOD containing 200 ppm Al.
+
+2.3. Surface Chemical Potential:
+Fleischmann and Pons recognized the surface chemical potential of deuterium as the variable most
+critically associated with the eﬀect they were studying. If the bulk and surface are at equilibrium then
+the surface chemical potential can be inferred from a measurement of the bulk loading. The situation
+relevant to the Fleischmann-Pons eﬀect, however, often involves inhomogeneous loading and the presence
+of important deuterium ﬂuxes. Under these conditions a measure of the average composition reﬂects
+only the lower limit of the surface chemical potential for a dynamically loading cathode.
+
+Electrochemists have long used the reference voltage as a means to measure a species’ chemical
+potential.14 Basically, the potential diﬀerence is measured between the electrode of interest and another
+having deﬁned potential (the reference electrode) either in the presence of a steady current or at open
+circuit. Fleischmann and Pons advocated this method as early as 1990.15 Others have made use of this
+method as a diagnostic in relation to the excess heat eﬀect.16,17,18,19
+
+Figure 3 plots an early result at SRI where the cell current, reference voltage and excess power
+were recorded simultaneously. In this case the reference voltage was measured without interruption of
+current, and the presence of a ﬁnite electrolyte resistance between the cathode and reference electrodes
+results in voltage oﬀset proportional to current. It is clear, however, that the dynamics of the reference
+potential more closely correlate with the excess power than with the cell current. Unfortunately the
+electrode surface potential is determined by other species in addition to deuterium. The adsorption of
+Li, for example, is strongly reﬂected in the potential plotted in Figure 3, and the maintenance of a high
+potential at near zero excess power at the right of this ﬁgure was thought to reﬂect the presence of a
+lithium rich, blocking surface ﬁlm deposited on the cathode surface. The latter ambiguity is removed if
+the reference potential is measured with current interruption.18
+
+Figure 4.
+Excess power as a function of current density for Fleischmann-Pons cells with heavy water and with light water.
+
+2.4. Temperature Dependence:
+A strong sensitivity of excess heat production on the operating temperature was noted and exploited
+early on by Fleischmann and Pons, who developed an interesting protocol in which the temperature was
+allowed to rise following the onset of an excess heat eﬀect.20 The heat was found to increase over the
+course of a calibration heat pulse, which is attributed to a thermal positive feedback eﬀect.21,22 Others
+have noted such a temperature eﬀect.23 This basic eﬀect was studied by Storms,24 and the results
+expressed in a form consistent with
+Pexcess = P0 e−Ea/kBT
+where Ea is an equivalent activation energy that was found to be about 15 Kcal/mol (about 670 meV).f
+The observed small activation energy is thought to be associated with creating the proper chemical
+environment and not associated directly with the nuclear process.
+
+2.5. Excess Heat and Current Density:
+The identiﬁcation of the D/Pd loading requirements as necessary criteria did not bring an understand-
+ing of the Fleischmann and Pons eﬀect.
+Moreover, an initiation eﬀect was noted that has nothing
+to do with D loading, an explanation for which was proposed only recently. Electrochemical current
+density was initially reported by Fleischmann and Pons as having a threshold eﬀect on excess heat pro-
+duction that is completely independent of its eﬀect on loading,4 and this was later widely studied and
+conﬁrmed.5,6,26,27,28,10,24,29,30,31 Evidence of this current threshold behavior can be seen in Figure 3, and
+more directly in Figure 4, which shows calorimetric results from two identical cells, one with D2O and
+one with H2O, operated electrically in series, while interrogated with the same measurement system.27
+An approximately linear increase in excess power with a threshold of about 265 mA cm−2 can clearly
+be seen for the Pd cathode operated in D2O. Data for the H2O cell do not deviate from calorimetric
+balance; various excursions reﬂect only transients following changes in input power. In no case was the
+Fleischmann and Pons eﬀect observed to occur in cells containing H2O as the major component at SRI,
+and excess heat measured in D2O cells was observed to decrease to zero upon substantive addition of
+H2O.
+
+Figure 5.
+Excess power as a function of time and ﬁtting function for a Johnson Matthey Pd wire cathode 10 cm long and
+1 mm diameter in 1.0 M LiOD containing 200 ppm Al.
+
+2.6. Deuterium Flux and Triggering Issues:
+The excess heat eﬀect is often observed to be stimulated by changes in the experimental conditions.
+
+Fleischmann and Pons noticed in their initial work that the excess heat eﬀect was occasionally initiated
+or improved with the application of a heat pulse, which can be considered as a transient change in
+conditions within the present argument. At SRI, one of the techniques used with success to initiate
+a heat pulse was to alter the current density, either through sudden changes or through ramps (as in
+Figure 5). Takahashi introduced a protocol in which the current density was alternated between low
+and high values.32,33 Bockris described a regimen in which the current periodically changed direction.34
+Yamaguchi described an experiment involving vigorous outgassing of deuterium from a rapidly heated
+metal deuteride sample.35,36,37 The application of an axial current in a wire or cathode can be used to
+drive a signiﬁcant deuterium ﬂux against the electronic current.38 This eﬀect was exploited by Celani
+and coworkers,39,40 and by Preparata,41 who reported excess heat and other eﬀects with a high axial
+current.
+
+Quantitative evidence indicating that deuterium ﬂux plays an important role in determining the
+excess heat in a Fleischmann-Pons cell was found at SRI.42 A purely empirical function was found
+to describe the excess heat observed for 1 mm diameter Pd cathodes.
+This function, and its ﬁt to
+experimental data, are shown in Figure 5. After initiation, excess power was found to be proportional
+to the product of three terms: (i) the square of the loading above a threshold value (x − x0)2; (ii)
+the electrochemical current above a threshold; and (iii) the ﬂux of deuterium through the interface,
+irrespective of direction, measured as the time derivative of the average D loading, |δx/δt|.
+Incoming deuterium produces a ﬂux that increases the loading, which should improve things accord-
+ing to the discussion above. But experiments seem to show that deuterium ﬂux makes a diﬀerence,
+independent of whether it is incoming, outgoing, axial, or traversing.43 One question of interest concerns
+the functionality of the ﬂux: what is it about the ﬂux that makes a diﬀerence? Another interesting
+question, independent of any understanding of the functionality, is whether the eﬀect of deuterium ﬂux
+can be augmented or replaced by other kinds of stimulation. This question opens the door to a very much
+larger discussion that we are not able to pursue here. The general issue of triggering has been of interest
+since the early 1990s,44 and occupied a central place at recent international conferences.43,45,46,47,48,49
+
+
+3. HELIUM AND EXCESS HEAT
+
+Much eﬀort has been devoted to the search for reaction products that could be associated with the
+excess heat. It soon became clear that there are insuﬃcient chemical reaction products to account for
+the excess heat by several orders of magnitude. Attention has been directed to the search for nuclear
+“ash” in amounts commensurate with the energy measured. The problem is more diﬃcult than in the
+case of chemical reactions as no similar processes are known.
+
+Searches for neutrons, tritons, and other energetic emissions in quantitative association with the
+excess heat eﬀect have uniformly produced null results.5 The absence of quantitative energetic emissions
+leads to the conjecture that the new process is somehow converting nuclear energy directly to heat. There
+have been numerous consequences of this within the ﬁeld, one of which is that people have historically
+been motivated to maximize the energy produced in excess heat experiments (and not eﬃciency19) in
+the hope of maximizing the reaction products, so that they might be identiﬁed. There have been many
+assays performed on cathodes before and after excess heat production, seeking the presence of new
+elements or isotope shifts.50,51,52 Although there appears to be evidence that supports the existence
+of both elemental and isotopic anomalies near the cathode surface in some experiments, it is generally
+accepted that these anomalies are not the ash associated with the primary excess heat eﬀect. The main
+focus of attention has been on helium as the primary nuclear reaction product.53
+
+3.1. Correlation of Excess Heat and Helium:
+Numerous investigators have sought and, in many cases, found 4He in diﬀerent environments including in
+the gas phase,54,55,56,57,58,59,60,107 dissolved in the cathode metal,61,62,63,64,65,66 and emitted as charged
+particles.67,68 If helium were created in the cathode interior, then one might expect to see helium
+dissolved in the metal. If helium were produced near the surface, then perhaps it would show up in
+the surrounding gas. The presence of quantitative energetic helium would be expected to produce an
+associated Bremsstrahlung x-ray emission. However, there is no evidence for such signals in quantitative
+measure with what might be expected for a primary excess heat mechanism.
+
+The ﬁrst and historically most important experiments were performed by Miles et al., to correlate
+the helium content of gas produced by electrolysis (D2 or H2, and O2) with the average heat excess
+during the interval of sampling. Because of the very low 4He concentration expected and observed (1-
+10 ppb) extensive precautions were taken to ensure that samples were not substantially contaminated
+from the large ambient background (5.22 ppm).
+In an initial series of experiments, later replicated
+several times,55,69 eight electrolysis gas samples collected during episodes of excess heat production in
+two identical cells showed the presence of 4He whereas six control samples gave no evidence for 4He.
+
+Figure 6.
+Excess energy determined by gradient (boxes) and diﬀerential (diamonds) calorimetric methods plotted against
+the increase in 4He concentration in a metal-sealed helium leak-tight vessel. The experiment was performed by heating
+palladium on carbon hydrogenation catalyst materials to ∼ 190o C in ∼ 3 atmospheres of D2 gas pressure (see Appendix
+B).
+
+These results were only semi-quantitative, although the statistical signiﬁcance of these and later results
+were profound. Because of questions related to the helium permeability of sample vessels and cells, these
+results were taken simply as suggesting a nuclear origin and mechanism for the Fleischmann and Pons
+eﬀect.
+
+Later work by Miles and Bush using sealed metal vessels, and by McKubre70 and Gozzi71, conﬁrmed
+that 4He is presented to the gas phase above the electrolyte of a cathode demonstrating the Fleischmann
+and Pons eﬀect.h Gozzi presented some very striking results,71 in which bursts of excess energy were
+time-correlated with bursts of 4He observed in the gas stream.i When compared one at a time, the
+number of helium atoms detected per burst was on the order of what might be expected from 23.8 MeV
+per D+D reaction, but with a variation between 0.25 and 1.0 of this amount. If the energy production
+in these experiments is in fact due to a reaction mechanism consistent with D+D → 4He + 23.8 MeV,
+then it seems that some of the helium may enter the gas stream and some remain within the metal.
+Several important conclusions can be drawn from the studies cited above:
+• The rate of helium production (atoms/s) varies linearly with excess power (see Figure 6).
+• The amount of helium observed in the gas stream is generally within a factor of about 2 less than would
+be expected for a reaction mechanism consistent with D+D → 4He.
+• Helium is partially retained, and dissolved helium is released only slowly to the gas phase for analysis.
+
+Recent work at ENEA Frascati also supports these conclusions.72,73 Excess heat and helium observations
+consistent with a D+D → 4He + 23.8 MeV (heat) reaction mechanism, in a metal deuteride near room
+temperature, stands in stark contrast to the d(d,γ)4He reaction known from nuclear physics.
+
+Figure 7.
+Results for 4He measurements associated with the excess heat results presented in Figure 5, as discussed in the
+text. The concentration of helium and gas sampling times are indicated by squares, and the fraction of that expected for
+a 23.8 MeV/4He atom by triangles.
+
+3.2. Reaction Q Value:
+As the loss of deuterium in association with excess heat is not presently observable, and since there are no
+commensurate energetic reaction products, the argument in support of reaction mechanisms consistent
+with D+D → 4He is indirect. One can measure energy production, and assay for 4He in the gas stream
+or the solid, with uncertainties introduced in the reaction energy Q because all of the helium produced
+may not be accounted for in the measurement. Experiments are prefered in which a total inventory of
+the helium is made in order to improve the accuracy of the reaction Q value measurement. To this end,
+we discuss brieﬂy an experiment in which helium was measured in the gas stream, and an additional
+eﬀort was made to drive the helium out of the metal.
+
+The experiment under consideration was performed at SRI, and the excess heat measured is illus-
+trated in Figure 5. The experiment was performed in a helium leak-tight, all-metal and metal gasketed
+calorimeter. Samples were transferred in metal gas sample ﬂasks to be analyzed for 4He by the U.S.
+Bureau of Mines at Amarillo, Texas.70 The initial value of 4He was 0.34 ± 0.007 ppmV/V in the D2 gas
+used to charge the cell.
+
+Figure 7 traces the history of the cell, M4, from four helium samples taken after excess power was
+observed.
+The upper solid line is the expectation for helium concentration presuming: (i) an initial
+value of 0.34 ppmV/V, and (ii) that 4He is produced in a reaction which delivers 23.8 MeV of thermal
+energy to the calorimeter. The ﬁrst gas sample taken shortly following the second heat burst of Figure 5
+yielded a value of 1.556 ± 0.007 ppmV/V 4He, which is about 62% of its expected value, and consistent
+with the earlier observations by Miles, Bush and collaborators,55 and also Gozzi and collaborators.71 A
+second sample taken about six days after the ﬁrst showed a measurable increase in 4He content instead
+of the decrease that would be expected since, to maintain positive cell pressure, the gas taken for the
+ﬁrst sample had been replaced with cylinder D2 containing a lower level of 4He (0.34 ppmV/V). These
+ﬁndings support earlier observations that helium is released slowly from the palladium after an initial
+delay.
+
+After making these measurements, an attempt was made to dislodge near surface 4He either thermally
+or by D atom motion by subjecting the cathode to a period of compositional cycling, while still sealed in
+the calorimeter. Square and sine wave modulations of varying period and amplitude were imposed on the
+DC (negative) potential at the Pd electrode in an attempt to ﬂux deuterium atoms through the interface
+and thus act to dislodge near-surface ad- or absorbed 4He atoms. At the end of this period, the potential
+was reversed to withdraw all deuterium atoms from the Pd bulk. No excess heat was observed during
+the periods of oscillation although calorimetric uncertainties were large due to the strong departures
+from the steady state that accompanied the pulsing.
+
+Gas samples were taken before this procedure, again after purging the cell and reﬁlling with D2 from
+the gas bottle with 0.34 ppmV 4He, and once more after cycling. The latter sample exhibited the highest
+concentration of 4He measured in this cell, speciﬁcally 2.077 ± 0.01 ppmV/V. By making a proper mass
+balance of the helium lost through sampling and purging, and that gained through make-up from the
+gas bottle, it is possible to assess with deﬁned uncertainty the results of deuterium ﬂuxing in freeing
+lightly trapped 4He. The ﬁnal integral mass balance yielded a value of 104 ± 10% of the expected value
+if the excess power in Figure 5 is due to a reaction of the sort D+D → 4He + ∼ 23.8 MeV (heat).
+
+This value remains the most accurately determined in this ﬁeld (in the sense that contributions from
+both the gas stream and the metal are included), but it suﬀers from the criticisms that the numbers
+of samples were few, and the largest value of 4He measured was less than 50% of that in air. We note
+that 4He has been produced numerous times in excess heat experiments at levels above that of the
+concentration in air. One example is shown in Figure 6. This plot illustrates the real-time correlation
+between excess heat and the growth of 4He concentration in a metal-sealed, helium leak-tight vessel.
+The Q value of 31 ± 13 and 32 ± 13 MeV per 4He atom measured is also consistent with the reaction
+D+D → 4He + ∼ 23.8 MeV (heat). Because of the importance of this result, it is discussed further in
+Appendix B.
+
+
+4. EXCESS HEAT BEYOND THE BASIC FLEISCHMANN-PONS EXPERIMENT
+
+The importance of the basic Fleischmann-Pons experiment, as discussed in the previous section, is
+primarily scientiﬁc in the sense that the research provides strong evidence of a new excess heat eﬀect of
+nuclear origin. In addition, this basic experiment has provided a focus for a signiﬁcant research eﬀort,
+and many important aspects of the experiment have been studied, as discussed above. During the past
+15 years, numerous variants of this basic experiment have been proposed and executed. In what follows,
+we examine a subset of such studies.
+
+4.1. Self-Sustaining Excess Heat Eﬀect:
+Excess heat production in the absence of electrical input was ﬁrst discussed by Fleischmann and Pons
+at ICCF4.74,75 It was found that cathodes continued to produce excess heat in some cases after the
+termination of the electrochemistry in which heat had been produced earlier during “normal” cell opera-
+tion. This eﬀect has been reported in other experiments,76,22,78,79 and is often referred to as “heat after
+death.” These observations suggest a possible diﬀerence in the conditions required for the initiation of
+an excess heat eﬀect as compared to the conditions required for sustaining the eﬀect.
+
+4.2. Excess Heat in Other Metal Deuterides:
+Excess heat in electrochemical experiments involving metal deuterides other than PdD has been reported
+in several modiﬁed Fleischmann-Pons experiments. Helium production in association with excess heat
+was studied in palladium alloys by Miles.80 Excess heat has been reported in TiD with a D2O-H2SO4
+electrolyte using thermal imaging.81 Excess heat and other eﬀects were reported from an electrochemical
+cell with a Ti cathode by Bernardini and coworkers.76 Excess heat observations with Pt cathodes were
+reported by Dash52 and by Storms.82 Platinum does not form a deuteride, and the excess heat in this
+case is attributed to a surface layer.82
+
+4.3. Indirect Gas Loading:
+Arata and Zhang introduced an interesting experiment in which palladium black is sealed within the
+interior of a palladium cathode, and the resulting composite (hollow) cathodes structure is electrolyzed.83
+Deuterium gas within the interior of the cathode is in equilibrium with the deuterium in the highly loaded
+cathode, and the palladium black is loaded indirectly. Evidence for excess heat and helium production
+has been obtained from this kind of experiment. We discuss this further in Appendix C.
+
+
+5. NUCLEAR EMISSIONS
+
+The ﬁrst report of emissions consistent with deuteron-deuteron fusion was made by Jones and coworkers
+in 1989,2 who claimed that low-level neutrons near 2.45 MeV were emitted from electrochemically-
+loaded titanium deuteride.j Since that time, there have been numerous reports of neutron and charged
+particle emission generally at low emission rates from metal deuterides, which are consistent with a
+deuteron-deuteron fusion reaction mechanism. In what follows, we will discuss some of this work. We
+note that there is in addition evidence in support of emissions that are clearly not associated with a
+deuteron-deuteron fusion reaction mechanism. A subset of these observations will be discussed below.
+
+5.1. The Jones Experiment:
+Much eﬀort has been devoted since 1989 to the Jones eﬀect by Jones and coworkers,84,85 and also by
+other groups.32,33,86,87,88,89,90 Most of the eﬀort has focused on neutron measurements, but there have
+been observations of charged particles as well.85 Low-level nuclear emissions typically occur in bursts
+lasting a few seconds to several days,84 and at lower current density than that discussed above in
+connection with the excess heat eﬀect (Jones and coworkers reported neutron emission at 20 mA/cm2).
+A distinct burst eﬀect (see Figure 8) was reported by Wolf in neutron emission from PdD electrochemical
+experiments.91 This is reminiscent of a similar burst eﬀect noted for the excess heat in the Fleischmann-
+Pons experiment. It was noted in the early 1990s that there were considerable similarities between the
+electrochemical protocols and palladium cathodes used by Wolf in neutron emission experiments, and
+those used at SRI in excess heat experiments. In discussions between the two groups, it became apparent
+that the most signiﬁcant diﬀerence between the two experiments was the current density involved. At
+SRI, excess heat was observed at elevated current densities, with a current threshold in the range of
+200-300 mA/cm2. At Texas A&M, Wolf increased the current to about 30 mA/cm2 to initiate neutron
+emission, but found no neutron emission at signiﬁcantly higher current densities.92 The low-high current
+protocol of Takahashi discussed above scans through both regimes, and is associated with both excess
+heat and neutron emission.28.
+
+5.2. Stimulation of Nuclear Emissions with Electrical Current:
+Cecil and coworkers reported charged particle emission in experiments where current was run through
+TiDx [using Ti(662) alloy].93 For example, a proton signal centered at 2.45 MeV was presented.k Jones
+and coworkers have recently used this same general approach.94,90 The group evacuated a heated cham-
+ber containing 25 to 250 µm thick Ti foils, introduced 1 atmosphere of D2 gas and partially loaded
+the foils, which were then placed in front of a particle detector, or in a neutron counter. A low back-
+ground nuclear detector system was used. Electrical current was run through the foils during nuclear
+counting. Background subtracted counts were observed for neutrons at typical rates of 40 counts per
+hour. Background subtracted counts were observed for charged particles identiﬁed as < 3 MeV protons
+at typical rates of 100 counts per hour (and up to 2000 counts per hour), with emission rates varying
+strongly over the course of a few hour burst event. Results from a particularly strong burst are shown in
+Figure 9. The signal is centered at 2.4 MeV and the particle identity is determined from a comparison
+with a similar spectrum obtained with a thin Al absorber foil.94 Background subtracted coincidences
+between two particles, consistent with protons and tritium from deuteron-deuteron fusion, occur at a
+rate of 1 count per hour in foils with no electrical current running. In this case, there is an additional
+experimental procedure of LiOD and D2SO4 surface treatment and rinsing prior to nuclear counting. In
+all cases in the recent Jones experiments, excess nuclear counts diminish with time, positive signals are
+observed greater than 50% of the time, and no excess nuclear counts are observed when H2 is substituted
+for D2.
+
+Figure 8.
+Neutron burst from PdD loaded electrolytically from the experiments of Wolf and coworkers.
+
+5.3. Neutrons from Ti Shards in Deuterium Gas:
+Neutron emission consistent with d(d,n)3He reactions were reported in 1989 from gas-loaded metal
+deuteride shards with thermal cycling.95 In these experiments the metal is loaded at high pressure
+and cycled between liquid nitrogen temperature and room temperature.
+Neutron emissions appear
+occasionally in burst epsisodes.96,97,98,99,100 High eﬃciency neutron detectors were employed,98 and
+some of the measurements were performed under conditions where the background was quite low.101,96
+Research along these lines has not continued in recent years. The evidence in support of neutron emission
+from this kind of experiment is strong, but in such experiments the conditions are not well controlled.
+This, combined with a low associated emission frequency, made other approaches seem more attractive.96
+
+Figure 9.
+Proton spectrum near 2.4 MeV from TiDx taken over 21 minutes using a double scintillation detector, as
+presented by Jones at ICCF10. The two diﬀerent signals are from two diﬀerent scintillators (plastic and glass). The light
+output scale is related to the proton energy.
+
+5.4. Relation between Neutron Emission and Excess Heat Eﬀect:
+We note that the amount of energy associated with these low-level emissions is not observable calorimet-
+rically. Whether there is a correlation between nuclear emission eﬀects and excess heat or not has been
+under discussion since 1989.103 There have been several observations of excess heat with simultaneous
+diagnostics for neutron emission, and for x-ray and gamma emission.5,104,71 An anticorrelation between
+excess heat and neutrons was reported by Okamoto and coworkers.105 We have noted that excess heat
+production in the Fleischmann-Pons experiment has an associated current threshold around 200-300
+mA/cm2, while neutron emission is associated with lower current densities (around 30 mA/cm2 in the
+experiments of Wolf, Jones, and coworkers cited above), suggesting that the diﬀerent eﬀects have diﬀer-
+ent operating regimes. In experiments that operate with both high and low current densities, there are
+reports of both neutron emission and excess heat production.106,107 There is a study with the low-high
+current protocol in which a correlation is reported where cathodes producing the largest excess heat
+eﬀect also show the largest neutron emission.108
+
+5.5. Nuclear Emissions not Attributable to Deuteron-Deuteron Fusion:
+There are several reports for weak nuclear emissions which clearly are not associated with a deuteron-
+deuteron fusion mechanism. In 1990, Cecil and coworkers noted the presence of very energetic charged
+particles from thin TiD foils up to and beyond 10 MeV93 (see also the PhD thesis of Liu109). Energetic
+alphas around 15 MeV have been observed by Lipson and coworkers from PdD.110 Both alphas and
+protons near 14 MeV have been seen in experiments with TiD.111 The appearance of such signals under
+conditions that are similar to those associated with excess heat production and low-level deuteron-
+deuteron fusion is signiﬁcant, and provides additional information that may be helpful in understanding
+the underlying physical processes responsible for the new eﬀects.
+
+5.6. Broad Proton and Alpha Spectrum from Deuterons on TiDx:
+Kasagi and coworkers have reported anomalous results from beam experiments using TiDx targets in
+which product nuclei are observed with a very large energy spread.112 This group bombarded TiDx
+(x>1.2) foils with 90-150 keV deuterons and observed protons with energies from 6-17 MeV and alphas
+with energies from 4.5-6.5 MeV at scattering angles between 135 and 155 degrees at a rate of 10−6 of
+the deuteron-deuteron fusion rate. An aluminium absorber foil in front of the particle detector stopped
+the elastically scattered beam. The energy spectra for the protons and alphas are consistent with a
+three-body reaction mechanism
+d + d + d →4 He + p + n
+Q = 21.62MeV (3 body)
+Hubler and coworkers at the Naval Research Laboratory have partially conﬁrmed the existence of this
+anomaly in that the protons have been observed in some, but not all, of the samples bombarded. A
+coincidence experiment between the proton and alpha would be required to conﬁrm this reaction. The
+experiment is important, and thought by some to be related to other experiments that show anomalies
+in metal deuterides. It could be interpreted as a probe of the probability that two deuterons are close
+together in the solid when the bombarding deuteron encounters them. There is no viable conventional
+explanation for the existence of this nuclear signal.
+
+
+6. CONCLUSIONS
+
+The research discussed in this paper provides evidence for eﬀects in three categories:
+(1) The existence of a physical eﬀect that produces heat in metal deuterides. The heat is measured
+in quantities greatly exceeding all known chemical processes and the results are many times in
+excess of determined errors using several kinds of apparatus. In addition, the observations have
+been reproduced, can be reproduced at will when the proper conditions are obtained, and show
+the same patterns of behavior. Furthermore, many of the reasons for failure to reproduce the
+heat eﬀect have been discovered.
+(2) The production of 4He as an ash associated with this excess heat, in amounts commensurate
+with a reaction mechanism consistent with D + D → 4He + 23.8 MeV (heat).
+(3) A physical eﬀect that results in the emission of: (a) energetic particles consistent with d(d,n)3He
+and d(d,p)t fusion reactions, and (b) energetic alphas and protons with energies in excess of 10
+MeV, and other emissions not consistent with deuteron-deuteron reactions.
+
+Experimental results for tritium production were noted, and anomalous results from deuteron beam
+experiments on TiDx were discussed brieﬂy. In each case, the eﬀects cannot be accounted for by known
+nuclear or solid state physics. The underlying processes that produce these results are not manifestly
+evident from experiment. The scientiﬁc questions posed by these experiments are, in the opinion of the
+authors, both worthy and capable of resolution by a dedicated program of scientiﬁc research.
+
+
+APPENDIX A: CALORIMETRIC ISSUES
+
+As enumerated by Storms,30 four questions must be addressed when evaluating the state of heat obser-
+vations:
+(1) Was the calorimetric technique used by Fleischmann and Pons suﬃciently stable and accurate to see the
+claimed extra energy?
+(2) Have others independently replicated the claims using stable and accurate calorimeters?
+(3) Can prosaic sources of chemical energy or energy storage eﬀects be ruled out?
+(4) Have reasons for success or failure been discovered?
+
+A clear, positive answer to the ﬁrst question was available in massive detail114 but only retrospectively.
+Fleischmann and Pons used an open cell from which energy was lost in a variety of ways, including
+by infrared radiation, and as chemical energy carried with the evolving gases. The resulting diﬀerential
+equation was awkward and subject to misunderstanding. Fleischmann addressed the mathematical issues
+to the point where the isoperibolic method used can be seen to have accuracy better than 1% (Fleis-
+chmann’s estimate is 0.1%). With daily automatic calibration, the Fleischmann and Pons calorimetric
+method was able to establish and assure stability for the length of time (months) needed to perform
+their experiments.
+
+Because the cell was open to escaping gases, attention was also given to the possibility that an un-
+known and variable fraction of the evolving D2 and O2 gas may recombine to D2O within the calorimetric
+envelope. A reduction of this subtractive term would give rise to the appearance of “excess heat” when
+in reality it simply had a chemical origin. Quantiﬁcation of the upper bound of this eﬀect was made by
+Fleischmann and Pons,115 by Jones et al.116 and in ﬁnal detail by Will.117 With 15 years of hindsight,
+it is now clear that the initial heat claims of Fleischmann and Pons must be taken at face value as
+quantitatively sound and capable of standing alone. Fortunately, this last is not necessary. Hundreds,
+possibly thousands, of attempts were made to replicate the Fleischmann and Pons eﬀect. Apart from
+those conducted in 1989, when little was understood about necessary conditions, most researchers who
+attempted to reproduce the eﬀect claimed success. We do not attempt to evaluate the bulk of these
+experiments or claims, although readers are invited to do so and could beneﬁt in this regard by starting
+with the reviews by Storms.113
+
+To address the second question above, we provide an example. Flow calorimetry with closed cells was
+selected at SRI at the outset in part to avoid ongoing criticisms of the Fleischmann and Pons (Fick’s law)
+method. Electrochemical cells were operated thermodynamically closed, sealed, and immersed in the
+ﬂuid ﬂow. Rather than measuring heat ﬂow as a temperature diﬀerence across a deﬁned (and presumed
+stable) barrier, the emerging heat in the SRI experiments was measured as the temperature rise in
+a moving liquid mass that surrounded the cell. In this way, the governing equations become trivial:
+all considerations of heat source dependence and so-called “recombination” eﬀects can be avoided in
+simple ﬁrst principles operation. Where potential sources of error were anticipated or recognized, the
+calorimetric system was designed to yield conservative estimates. Over 50,000 hours of calorimetry to
+investigate the Fleischmann and Pons eﬀect have been performed to date at SRI, most of it in calorimeters
+identical or very similar to that shown in Figure 10.
+
+The object in Figure 10 is immersed in a constant temperature bath (typically held constant and
+uniform to within 3 mK long term and short term). The bath is situated in a constant temperature
+room (±1K). Calorimetric ﬂuid is drawn from the environing bath, past two inlet temperature sensors
+(100 Ω platinum resistance temperature sensor RTD’s) through the ﬂow labyrinth and past the cell under
+interrogation, which is encased in a brass ﬁn structure for better and more uniform communication of
+heat. The ﬂuid ﬂow is then drawn upwards and constrained by the hemispherical top to ﬂow through a
+small hole and labyrinth, past and closely proximate to two outlet RTD’s. Additional sensors of other
+types have been used to further assure accurate values of the measured temperature rise. The ﬂuid is
+then drawn through a heat exchanger to the inlet of a constant volume displacement pump, and then
+delivered directly to an electronic balance. The balance is polled by computer to determine the ﬂuid
+mass ﬂow rate as ∆M/∆t. In high power experiments requiring higher ﬂuid ﬂow rates, rotameter ﬂow
+sensors were used in series with the mass ﬂow measurement.
+
+Figure 10.
+SRI mass ﬂow calorimeter.
+
+Calorimetry at SRI normally employed an electrical Joule heater either inside the cell or wound tightly
+on the cell circumference, constrained by the radial brass heat ﬁns. This heater is used to calibrate the
+thermal eﬃciency of the convective heat ﬂow process, and to allow for constant power operation in the
+presence of a variable electrochemical heat input. The equation of the calorimeter is thus:
+In most experiments and all discussed here, the ﬂuid was air-saturated H2O for which the heat capac-
+ity, Cp, is well known. Current, voltage, and temperature sensors, and measurement instrumentation
+including the mass balance, were calibrated independently of the calorimeter. The only term requiring
+in-situ calibration is the conductive loss term k, which is the coeﬃcient sum of all heat that leaves the
+calorimeter by means (primarily conductive) other than with the ﬂuid ﬂow. This term is small. By
+careful insulation, controlled geometry and selection of the ﬂuid ﬂow rate, k was typically less than 1%
+of Cp(∆M/∆t). Since k is deﬁned by geometry, it is also very unlikely to change and was observed to
+be stable.
+
+Using these precautions the calorimetric method developed at SRI was shown by calculation and
+experiment27 to have an absolute accuracy between ±0.35% and 0.5% depending on input conditions.
+It is worth noting that this accuracy is actually worse than that calculated by Fleischmann114 for the
+Fleischmann and Pons isoperibolic method when fully implemented. It is important to further note that
+the calorimetric methods are very diﬀerent, the absolute accuracies comparable, and the results obtained
+consistent.
+
+Several results have already been presented (Figures 1-5) to give a sense of the calorimeter signal-to-
+error ratio in heat-producing experiments. Below we summarize the ﬁndings and results from the major
+SRI eﬀort to conﬁrm (or refute) the existence of the Fleischmann and Pons eﬀect.
+(1) Sustained excess heat eﬀects were observed from Pd electrodes undergoing electrolysis on more than 50
+occasions with conﬁdence more than three times the measurement uncertainty (3σ).
+(2) Bursts or episodes of excess heat generation lasted from periods of several hours to more than a week.
+(3) During a burst, the excess power was typically between 3 and 30% of the total electrical input power,
+with the largest sustained observation being in excess of 340%.
+(4) The intensity of this eﬀect was in the range 3-300 W/cm3.
+(5) Sustained heat bursts exhibit an integrated energy at least ten times greater than the sum of all con-
+ceivable chemical reactions within the closed cell.
+(6) When normalized to the number of cathode Pd (or D) atoms, the energy yield is of order 100-1000
+eV/atom, with the largest observed yield 2076 eV/Pd atom.
+(7) Endothermic eﬀects were not observed. Calorimeters maintained a tight thermal balance at times when
+excess power was not being observed.
+During these intervals, calibration checks could be performed
+conveniently and reliably by adjusting the level of the complementary Joule heater to increase and
+decrease the system total input and output power. Except for the expected transient responses, the
+calorimeters were never observed to exhibit output heat power lower than input.
+(8) Excess heat eﬀects were observed to occur with D2O but not H2O electrolytes, under similar or more
+extreme conditions of loading, input power and current density.
+(9) After an appreciable initiation or incubation time, heat generation appeared to be correlated to three
+variables: D/Pd loading above a threshold; electrochemical current stimulus above a threshold; and
+deuterium ﬂux or other dynamic stimulus.
+
+With these results of a clear enthalpic excess unaccountable by known chemical or physico-chemical
+means, it was determined at SRI and elsewhere to undertake a thorough and systematic evaluation of
+possible nuclear processes, by careful screening of potential products.l At SRI alone, serious eﬀorts were
+made to interrogate active electrochemical and gas loading cells118 for neutrons, x-rays, γ-rays, charged
+particles, beta and other charge emission, tritium, 3He and 4He. In over a decade of eﬀort, evidence
+for all of these potential products was observed, except neutrons. Of the products observed, only 3H,
+3He, and 4He could in any way be correlated, quantitatively or temporally, with the enthalpy production
+rates.
+
+
+APPENDIX B: RESULTS FOR THE CASE EXPERIMENT AT SRI
+
+In 1998, Case reported results from an experimental technique that oﬀered potential advantages over
+electrochemical Fleischmann and Pons experiments.54 He exposed commercial supported platinum group
+metal (PGM) hydrogenation catalyst materials to hydrogen or deuterium gas at slightly elevated pressure
+(1-3 atm) and temperature (150-300oC) in sealed metal vessels.
+
+In some cases, temperature sensed in a thermowell situated in the catalyst bed was higher by an
+amount sometimes exceeding 10oC under two diﬀerent conditions: during heat bursts in D2; and in D2
+relative to H2 at the same pressure. The diﬀerence in thermal conductivity between the gaseous isotopes
+does not appear to contribute appreciably to the observed temperature diﬀerence. The primary heat
+loss pathway does not signiﬁcantly involve gas phase conduction. Furthermore, a temperature diﬀerence
+for the same heater power is observed only in unusual circumstances. Having surveyed a very extensive
+range of supported PGM catalysts, Case concluded that the eﬀect:
+(1) Could be observed with carbon supported catalysts but not with non-conductive supports
+(2) Was exhibited with all PGM’s (Pd, Pt, Ir and Rh) except Ru, which had not been well studied at the
+time of publication
+(3) Occurred optimally in a narrow range of catalyst loading (0.5 – 1%); at higher and lower loading the
+magnitude of the eﬀect diminished and disappeared
+(4) Occurs in a narrow range of temperature, about 130-300oC, with activity peaking at ∼ 250oC
+(5) Was destroyed irreversibly when the catalyst was heated to temperatures much greater than 300oC
+Case concluded that his results represented evidence of a nuclear process because the energy production
+estimated from his calorimetry was much greater than could be accounted for from chemical processes.
+In addition, one post-test gas sample was reported to contain approximately 100 ppmV/V of 4He in a
+1 atm sample of D2.
+
+The elements of simplicity, small materials inventory, rapid initiation, clear thermal signature and
+possible quantitative nuclear signature inspired many to attempt replication of what became known as
+the Case eﬀect. Some succeeded in repeating the isotopic temperature disparity, although it quickly
+became clear that the experiment was far more demanding than it ﬁrst seemed.m
+
+An eﬀort was made at SRI to reproduce the Case experiment. Initial attempts to reproduce the
+eﬀect with catalyst materials supplied by Case and in metal sealed vessels somewhat smaller than those
+employed by Case failed to observe systematic temperature diﬀerences between H2 and D2. Samples
+of gas withdrawn from H2 and D2 cells did not show an increase in 4He when submitted to an on-line,
+high-resolution and high-sensitivity Extrel C-50 Quadrupole Mass Spectrometer. Two clear results of
+this ﬁrst phase of activity were:
+(1) The Case eﬀect, whatever its cause, is not normally or always present in catalyst samples, even those
+certiﬁed by Case as being “active”.
+(2) 4He is not a natural or normal component of these catalyst materials.
+Signiﬁcantly diﬀerent results were obtained in a second campaign after a visit by Case to SRI to demon-
+strate his experimental procedures. Experiments were performed in pairs in nominally identical 50 cc
+Nupro stainless steel sample ﬂasks modiﬁed by the e-beam welded addition of a 1/8” stainless steel
+thermowell and a 1-inch Cajon VCR ﬁtting to permit admission of catalyst. 10 g samples of catalyst
+were loaded into the vessels, which were then mounted and supported as shown in Figure 11.
+
+Figure 11.
+Conﬁguration of the Case experiment at SRI.
+
+A heating element 1 mm diameter and 117 cm long was wound helically on the circumference of
+the bottom third of the cells and temperature was maintained by supplying power from a computer
+controlled DC supply. The two cells were mounted axially in 1-liter, 10 cm inside diameter stainless
+steel dewars, surrounded by granular insulation to maintain their geometry and impose a consistent
+thermal environment. A signiﬁcant change in this second phase of activity was to expose just the top of
+the sample cells to ensure an axial heat ﬂow; this was found to be important both for calorimetry and
+to recreate the Case eﬀect. During the course of the experiment, the currents to and voltages across
+each heating element were monitored together with two thermocouples measuring temperatures in the
+thermowell of each cell, and an ambient temperature sensor. Typically experiments were operated in
+pairs, with one blank and one test cell, with the heater power set to keep the catalyst bed temperatures
+at nearly equal values. Test cells contained Case-certiﬁed 0.4-0.5% Pd on C catalyst in D2. Blank cells
+contained samples of identical catalyst in H2 or inactivated or non-catalyst carbon in D2.
+
+After hydrogen treatments and evacuation to clean the catalyst surfaces, cells were then subjected
+to an extended period “soak” in H2 to ensure by measurement that they were 4He leak-tight and that
+any labile 4He sources adsorbed or absorbed on the cell inner surface or catalyst volume had been
+exhausted. This period was also used to establish a reference temperature. Cells were then charged
+with D2 or recharged with H2 to the reference pressure, and their heat ﬂow and helium levels monitored.
+Experiments exhibited a range of behaviors. Figure 12 summarizes 6 of 16 results of helium measurements
+in paired cells; these fall into three classes of behaviors:
+(1) Cells that show no increase of 4He over long periods of time (including all cells operated with H2);
+(2) Cells that exhibit a slow, approximately exponential increase in [4He] with time, following a trajectory
+very diﬀerent from that expected for convective or diﬀusional leakage in from the ambient;
+(3) Cells that display no measurable increase in [4He] for a period of several days, followed by a rapid,
+approximately linear rise in [4He] to levels sometimes exceeding that of the ambient background.
+
+Figure 12.
+Results of 4He measurements from the Case experiment at SRI.
+
+Using data from temperature sensors situated in the catalyst and gas phases it was possible to make
+heat ﬂow estimates in one of two ways:
+(1) Gradient method, based on the relationship between the temperature diﬀerence between the catalyst bed
+and conﬁned gas, and the heater input power;
+(2) Diﬀerential method, based on the temperature diﬀerences between active and the reference catalyst bed
+sensors and room temperature, as a function of the relative input heater powers.
+The energy estimated in excess of that provided by the heater for these two calorimetric methods is
+plotted in Figure 13, together with the measured helium concentration during the time of greatest
+derivative, ∂[4He]/∂t in experiment SC2. Excess heat and the apparent increase in [4He] seem to be
+temporally correlated.
+
+In an attempt to establish a quantitative correlation, Figure 6 plots the two calorimetric estimates
+of excess heat production interpolated from Figure 13, versus the measured increase in [4He] (the value
+plotted in Figure 13 minus the 4He initially present in the D2 gas). Regression lines through these data
+incorporating the origin have slopes: Q = 31 ± 13 and 32 ± 13 MeV per 4He atom, respectively, for
+the gradient and diﬀerential calorimetric methods. The Q value of ∼ 23.8 MeV expected for reaction
+mechanisms consistent with D+D → 4He falls with the assigned uncertainties. The apparent shortfall
+of 4He may occur for the same reasons observed in electrolytic Fleischmann and Pons studies discussed
+in Sections 3.1 and 3.2. In that case the residual helium putatively formed in a new nuclear process is
+released from the metal only slowly to the gas phase for analysis.
+
+Another factor must also be considered in accounting for the 4He mass balance. In Figure 12 for
+experiments SC2 and SC4.2 (D2 on United Catalysts G75D and E, corresponding to 0.4% and 0.5% Pd
+on C, respectively), the ﬁnal trajectories of 4He with time show essentially the same linear decreasing
+trend. It is apparent the 4He is either leaving the cell, in which case it may enter if the partial pressure
+of 4He is lower inside than the ambient 5.22 ppmV/V, or else 4He is being adsorbed or absorbed onto or
+into the stainless steel or catalyst solid components, in which case these must be considered as potential
+sources of the observed increase.
+
+Figure 13.
+Excess energy and helium production as a function of time from the Case experiment at SRI.
+
+The ﬁrst is unlikely since the cells were demonstrated repeatedly to be helium leak-tight. An exper-
+iment performed to test the second hypothesis demonstrated clearly that 4He adsorbs or absorbs into
+this class of catalyst material and also into or onto activated charcoal of similar geometry, with a rate
+consistent with the declining trend in Figure 12, at similarly elevated temperatures. There is reasonable
+conﬁdence that the 4He source of the rising trends in Figures 12 and 13 is not a release of stored 4He
+from the catalyst for the following reasons:
+(1) A helium storage mechanism is expected to be reversible. A rate such as that shown in Figure 12 should
+manifest itself clearly in the 5 day hydrogen pre-soak intended to address this concern (among others)
+before experiment initiation.
+(2) The rate of helium sequestration in carbon and carbon catalyst materials, at room temperatures, appears
+to be negligible.
+(3) Multiple random samples of catalyst were subjected to direct assay for 4He by heating to temperatures
+in excess of 2250K in the mass spectrometers of Clarke120 and Arata and Zhang.
+In all cases these
+experiments demonstrated that the volume of 4He contained with Pd on C catalyst materials was less
+than that in an equivalent volume of air.
+
+We conclude, tentatively, that helium is produced in a process that involves deuterium, but not hydrogen,
+which evolves heat commensurate with a nuclear mechanism consistent with a D+D → 4He reaction.
+Even taking account of the rate of helium re-ad/absorption, the mean value of the 4He falls below that
+expected (assuming 23.8 MeV reaction energy) from the measured heat evolution. These observations
+regarding released 4He are consistent with those made in studying electrolytic Fleischmann and Pons
+cells. Calculating the excess power density normalized to the volume of Pd for Cell SC2, we obtain a
+maximum value of ∼ 50 W cm−3, also consistent with the values observed in electrolytic loading of Pd.
+Further attempts to replicate the Case eﬀect and the above-described results are underway at ENEA
+Frascati.
+
+
+APPENDIX C: THE ARATA AND ZHANG EFFORT
+
+Arata and Zhang have been major contributors to the research area under discussion. Dr. Arata came
+from the plasma fusion community. He and his colleague Dr. Yue-Chang Zhang began working as a
+team on cold fusion in about 1989. Their researches have been carried out in cooperation with other
+material scientists, including H. Fujita, who gave the Honda Memorial Lecture on atom clusters in 1994.
+
+In the early 1990s their researches led them to develop the DS (Double Structure) cathode, which
+is a Pd bottle whose “outer structure” is the wall of a Pd bottle and whose “inner structure” is ﬁlled
+with Pd-black. In 1994, they published observations of excess heat using open-cell DS-cathodes83 and
+water-ﬂow Dewar calorimetry similar to that described in Appendix A. In a continuous 3-month run
+Arata and Zhang observed excess heat power averaging about 15 Watts. Data from another run shows a
+heat balance for about 11 days, followed by 12 days with excess heat power averaging ∼ 80 W, with the
+output heat ∼ 1.8 times input energy. An initiation time with no excess heat eﬀect was seen in these, and
+in all other experiments with DS cathodes. Two additional 100-day runs exhibiting continuous excess
+heat of about 10 W were published in 1995.121 Three additional runs showing ∼ 10 – 20 W excess heat
+were published in 1996.122,123 One of these runs continuously produced excess heat for 6 months. In
+another run, a mechanical pressure gauge was ﬁtted to the DS cathode and measured the gas pressure
+inside the Pd bottle. During much of the run, the pressure gauge pinned at 800 bar. Excess heat power
+was much reduced when the pressure was less than 200 bar. Excess heat studies continued through
+2002. An especially important result is presented in a more recent publication.124 In this run, the inner
+cathode consisted of metal powder derived from an oxidized Zr65Pd35 alloy, showing that powders other
+than Pd-black can produce excess heat. In 1998, a pair of DS cathodes were run in series, with one DS
+cathode in D2O electrolyte and the other in H2O electrolyte. The DS cathode in D2O electrolyte showed
+excess heat rising to 20 W, while the one in H2O electrolyte showed no excess heat.125
+
+Replication Eﬀort at SRI:
+A pair of DS cathodes prepared by Arata and Zhang were operated at SRI under conditions closely
+similar to those employed in Japan. Two nominally identical cells were exercised cathodically within
+intentionally similar cells, one in 0.3M LiOD and the other in 0.3M LiOH. Calorimetric accuracy was less
+than that normally present in the SRI Mass Flow Calorimeters because of the need to operate at very
+high input power levels to exceed the threshold current density on large area cathodes. It was also not
+possible to submerge the Arata-Zhang cell completely in the constant temperature bath. Nevertheless,
+the results obtained at SRI118 conﬁrm the excess heat results published earlier by Arata and Zhang. In
+the same range of input powers, the heavy water cell clearly yielded more output heat than the light
+water cell when operated simultaneously and monitored with the same instruments.
+The maximum
+excess power observed in D2O was 9.9±1.3% of the measured power input, with the average value being
+approximately half the maximum. The measured excess power exceeded the experimental uncertainty
+(1-2% depending on conditions) for a period of ∼ 86 days to produce an integrated energy excess of
+64 ± 6 MJ for the D2O cell. For the H2O cell in the same period of time, the measured energy excess
+was −1 ± 6 MJ.
+
+At the conclusion of the experiment, both cathodes were removed and placed successively in a sealed
+chamber where they were punctured mechanically, and the gas contents of the cathode void volumes
+extracted for analysis. The Pd black powders also were removed and the Pd metal walls of the hollow
+cathodes were sectioned for 3He and 4He analysis. Signiﬁcant amounts of tritium and 3He (from the
+decay of tritium) were found inside the interior of the DS cathode electrolyzed in heavy water. Small
+amounts of 4He were attributed to atmospheric contamination. Detailed results and conclusions from
+this work126 and the results of later analyses are summarized here:
+(1) Production of tritium was between 2 and 5 x1015 atoms.
+(2) Assuming that the 3He is from tritium decay, independent determinations of both quantities allows for
+a determination of when the tritium was generated. Modeled as a single event, the generation of tritium
+computed from the measured yields occurred during the period of cathodic electrolysis.
+(3) There is deﬁnite evidence of excess 3He from tritium decay in all samples of gas, Pd bulk metal and Pd
+black from the D2O experiment.
+(4) Samples of Pd taken from a similar and contemporaneous electrode run with H2O show low 3He levels
+consistent with blank Pd.
+(5) Measurements of the 3He gradient through the 3.5 mm wall of the D2O cathode show that the 3He is
+the decay product of tritium, which diﬀused from a source inside the electrode void volume (see Figure
+(6) A ∼ 30% increase in tritium levels in the D2O electrolyte measured by liquid scintillation methods is
+quantitatively consistent with the integral ﬂux of tritium departing the cathode void and registered in
+the cathode walls.
+(7) The total inventory of tritium in the initial electrolyte and its increase, while substantial, represents only
+0.05% of the total tritium mass balance following the experiment.
+(8) No evidence was found for 4He in the interior gas (in the hollow within the cathode) or in the metal,
+that was quantitatively consistent with the measured excess heat.
+
+Figure 14.
+The 3He proﬁle as a function of radius observed in an Arata-type, double structured cathode experiment at
+SRI.
+
+The results of gas, metal and electrolyte phase 3He and tritium analyses compel the conclusion that
+tritium was sourced in, on or adjacent to the Pd black in the void of the D2O double-structure cathode.
+While neither sought nor expected, this result provides suﬃcient evidence of the formation of a wholly
+nuclear product in an essentially electrochemical experiment to merit further study. Of concern, however,
+is the apparent absence of 4He.
+
+Excess Heat and Helium:
+Having convinced themselves that non-chemical heat production within DS cathodes is a real phe-
+nomenon, Arata and Zhang sought to identify helium nuclear products using quadrupole mass spec-
+troscopy. They constructed a welded stainless steel manifold vacuum system evacuated with clean turbo
+pumps. They also built a small furnace system for outgassing metal powder test samples, and later
+developed a protocol using a Ti getter pump for removing chemically reactive gases from test volumes of
+desorbed gas. The manifold system included two dedicated mass spectrometers: one normally used to
+repeatedly scan the mass-4 peak structure, and the other to repeatedly scan the mass-3 peak structure.
+The initial analysis program was restricted to a study of desorbed gases from furnace-heated, as-received
+and post-run Pd-black. The quadrupole instruments were very clean and had moderate mass resolution.
+Arata and Zhang routinely observed the 4He+ peak resolved from the D+
+2 peak.123 The gas desorption
+studies127 provided compositional analysis of both strongly bound gases (released at T > 1000oC) and
+less strongly bound gases (released at T < 800oC). They repeatedly demonstrated that post-run Pd
+powder always showed easily measurable 4He+ peaks, whereas as-received Pd powder showed no de-
+tectable 4He+ peaks. In 1998, they detected 3He+ within a resolved mass-3 peak structure. They found
+that they could often measure 3He even when the mass-3 peak was not resolved. The 3He+ fraction
+could be distinguished from the HD+ fraction by measuring the peak height as a function of ion source
+voltage.128 The helium signal always made its appearance at a higher voltage due to its higher ionization
+potential. In 1999, following the experiment at SRI118 and post-test sampling126 described above, Arata
+and Zhang expanded their studies to include analysis of intergranular and ullage gas from the interior
+volume of one of their DS cathodes. They added an aliquot sampling volume to their manifold and built
+an assembly for piercing the DS cathode and for collecting gas samples. They used their system to collect
+both prompt release gas samples from the room temperature DS-cathode and slow release gas samples
+from the moderately heated DS-cathode.
+The helium signals were strong and clean. Measurements
+corresponded to a total 4He production ∼ 0.05% of that required to explain the run-integrated excess
+heat measured for the test cathode.129
+
+Whether 0.05% as observed in Osaka or 0.00% observed in similar experiments performed at SRI,
+the discrepancy relative to the integrated excess heat is large, and this diﬀerence has not been resolved.
+Possible explanations are:
+(1) The measurement of heat in both laboratories was substantially in error and no 4He should be expected.
+The heat associated with the generation of tritium (measured as 3He by Arata and Zhang) would be
+unmeasurable in either calorimeter.
+(2) Heat was produced in the cathode void by nuclear reaction of D, but the bulk of product helium was
+lost before sample collection due to micro-fractures, which occur in surface-stressed Pd, as described by
+A. Farkas.130
+(3) Heat was produced as in Fleischmann and Pons electrolytic cells at the cathode outer surface where
+loading, deuterium chemical potential, and stimulation are the greatest. The helium produced was only
+tenuously attached to the Pd surface and vented to the atmosphere in the Arata Zhang electrolytic cells,
+which are helium permeable.n In this case, one must ascribe a secondary, not primary purpose for the
+cathode void and its enclosed Pd black, which conﬂicts with the hypothesis of Arata and Zhang.
+
+This is an important question that will be resolved as a result of continued experimentation underway
+at Osaka University, SRI, and ENEA Frascati.
+nIn other words, helium from the outer surface is not collected and measured in these experiments.
+
+
+REFERENCES
+1. M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal Chem., 201, p.301 (1989); Errata, 263 p. 187
+(1990). See also M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li and M. Hawkins, J. Electroanal. Chem.,
+287, p. 293 (1990).
+2. S.E. Jones, E.P. Palmer, J.B. Czirr, D.L. Decker, G.L. Jensen, J.M. Thorne, S.F. Taylor and J. Rafelski,
+“Observation of cold nuclear fusion in condensed matter,” Nature 338 737 (1989).
+3. E.
+Storms,
+“Calorimetry
+for
+cold fusion:
+methods,
+problems
+and
+errors,”
+http://www.lenr-
+canr.org/acrobat/StormsEcalorimetr.pdf
+4. S. Pons and M. Fleischmann, Proc. ICCF1, p. 1 (1990).
+5. D. Gozzi, P. L. Cignini, M. Tomellini, S. Frullani, F. Garibaldi, F. Ghio, M. Jodice and G. M. Urciuoli, Proc.
+ICCF2, p. 21 (1991).
+6. M. C. H. McKubre, R. Rocha-Filho, S. I. Smedley, F. L. Tanzella, S. Crouch-Baker, T. O. Passell, and J.
+Santucci, Proc. ICCF2, p. 419 (1991).
+7. D. Macdonald, M.C.H. McKubre, A. C. Scott and P. R. Wentrcek, I & EC Fundamentals, 20, p. 290, (1981).
+8. M.C.H. McKubre, R.C. Rocha-Filho, S. I. Smedley and F. L. Tanzella, ”Calorimetry and electrochemistry in
+the D/Pd System”, Proc. ICCF1, p. 20 (1990).
+9. K. Kunimatsu, N. Hasegawa, A. Kabota, N. Imai, N. Ishikawa, H. Akita and Y. Tsuchida, ”Deuterium loading
+ratio and excess heat generation during electrolysis of heavy water by a palladium cathode in a closed cell
+using a partially immersed fuel cell anode,” Proc. ICCF3, p. 31 (1992).
+10. N. Hasegawa, N. Hayakawa, Y. Tsuchida, Y. Yamamoto, and K. Kunimatsu, Proc. ICCF4, Vol. 1, p. 3-1
+11. M. C. H. McKubre and F. Tanzella, Proc. ICCF7, p. 230 (1998).
+12. L. Bertalot, L. Bettinali, F. DeMarco, V. Violante, P. De Logu, T. Dikonimos Makris and A. La Barbera,
+Proc. ICCF2, p. 3 (1991).
+13. S.E. Koonin and M. Nauenberg, “Cold fusion in isotopic hydrogen molecules,” Nature 339, 690 (1989).
+14. J. O’M. Bockris and A. K. N. Reddy, Modern electrochemistry; an introduction to an interdisciplinary area,
+New York, Plenum Press (1970).
+15. S.
+Pons,
+M.
+Fleischmann,
+C. T. Walling,
+J. P. Simons,
+International PCT Patent Application
+PCT/US90/01328, International Patent number WO 90/10935 (1990).
+16. L. Bertalot, A. DeNinno, F. DeMarco, A. La Barber, F. Scaramuzzi, V. Violante, “Excess power production
+in electrolysis experiments and ENEA Frascati,” Proc. ICCF5, p. 34 (1995).
+17. E. Storms, Proc. ICCF6, p. 105 (1996).
+18. E. Storms, “Relationship between open-circuit-voltage and heat production in a Pons-Fleischmann cell,”
+Proc. ICCF7, p. 356 (1998).
+19. M. Swartz and G. Verner, “Excess heat from low-electrical conductivity heavy water spiral-wound
+Pd/D2O/Pt and Pd/D2O-PdCl2/Pt Devices,” Proc. ICCF10, (2004).
+20. S. Pons and M. Fleischmann, Proc. ICCF2, p. 349 (1991).
+21. M. Fleischmann, Proc. ICCF5, p. 152 (1995).
+22. M. H. Miles, S. Szpak, P. A. Mosier-Boss, and M. Fleischmann, Proc. ICCF9, p. 250 (2002).
+23. Proc. ICCF4, Vol. 2, p. 18-1 (1993).
+24. E. Storms, “Some characteristics of heat production using the “cold fusion” effect,” Proc. ICCF4, Vol. 2,
+p. 4-1 (1993).
+25. L. Case, in his oral presentation at ICCF10.
+26. M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, S. I. Smedley and F. L. Tanzella, ”Excess power observations
+in electrochemical studies of the D/Pd system; the influence of loading” Proc. ICCF3, p. 5 (1992).
+27. M. C. H. McKubre, S. Crouch-Baker, F. L. Tanzella, S. I. Smedley, M.Williams, S.Wing, M. Maly-Schreiber,
+R. C. Rocha-Filho, P. C. Searson, J. G. Pronko, and D. A. Koehler, Development of Advanced Concepts for
+Nuclear Processes in Deuterated Metals, EPRI Report TR-104195, August 1994.
+28. A. Takahashi, A. Mega, T. Takeuchi, H. Miyamura, and T. Iida, Proc. ICCF3, p. 79 (1992).
+29. T. Aoki, Y. Kurata, E. Ebihara, N. Yoshikawa, Proc. ICCF4, Vol. 2, p. 23-1 (1993).
+30. E. K. Storms, ”A study of those properties of palladium that influence excess energy production by the
+”Pons-Fleischmann” effect”, (1996) http://www.lenr-canr.org/acrobat/StormsEastudyofth.pdf
+31. F. De Marco, A. De Ninno, A. Frattolillo, A. La Barbera, F. Scaramuzzi, and V. Violante, Proc. ICCF6, p.
+145 (1996).
+32. A. Takahashi, T. Takeuchi, T. Iida, and M. Watanbe, “Neutron spectra from D2O-Pd cells with pulse
+electrolysis,” Proc. Provo meeting, p. 323 (1990).
+33. A. Takahashi, T. Iida, T. Takeuchi, A. Mega, S. Yoshida and M. Watanabe, “Neutron spectra anc controllability
+by PdD/Electrolysis cell with low-high current pulse operation,” Proc. ICCF2, p. 93 (1991).
+34. J. O’M Bockris, D. Hodko, and Z. Minevski, “The mechanism of deuterium evolution on palladium: Relation
+to heat bursts provoked by fluxing deuterium across the interface,” Proc. ICCF2, p. 337 (1991).
+35. E. Yamaguchi, and T. Nishioka, ”Direct evidence for nuclear fusion reactions in deuterated palladium,”
+Proc. ICCF3, p. 179 (1992).
+36. H. Sugiura and E. Yamaguchi, Proc. ICCF7, p. 366 (1998).
+37. E. Yamaguchi and H. Sugiura, Proc. ICCF7, p. 420 (1998).
+38. C. Bartolomeo, M. Fleischmann, G. Larramona, S. Pons, J. Roulette, H. Sugiura, and G. Preparata, “Alfred
+Coehn and after: The α, β, γ of the palladium-hydrogen system,” Proc. ICCF4, Vol. 1, p. 19-1 (1993).
+39. F. Celani, A. Spallone, P. Tripodi, A. Petrocchi, D. DiGioacchino, P. Marini, V. DiStefano, S. Pace, and A.
+Mancini, Proc. ICCF5, p. 57 (1995).
+40. F. Celani, A. Spallone, P. Tripodi, D. DiGioacchino, P. Maini, V. DiStefan, A. Mancini, and S. Pace, Proc.
+ICCF6, p. 93 (1996).
+41. G. Preparata, Proc. ICCF6, p. 136 (1996).
+42. M.C.H. McKubre, S. Crouch-Baker, A.K. Hauser, S.I. Smedley, F.L. Tanzella, M.S.Williams, and S.S. Wing,
+”Concerning reproducibility of excess power production”, Proc. ICCF5, p. 17 (1995).
+43. J. Tian, X. Z. Li, W. Z. Yu, D. X. Cao, R. Zhou, Z. W. Yu, Z. F. Jiang, Y. Liu, J. T. He, and R. X. Zhou,
+“Anomalous heat flow and its correlation with deuterium flux in a gas-loading deuterium-palladium system,
+Proc. ICCF9, p. 353 (2002).
+44. J. O’M Bockris, et al., Proc. ICCF4, Vol. 2, p. 1-1 (1993).
+45. X. Z. Li, B. Liu, N. N. Cai, Q. M. Wei, J. Tian, and D. X. Cao, Proc. ICCF10, (2004).
+46. Y. Iwamura, M. Sakano, and T. Itoh, Jpn. J. Appl. Phys. 41 4642 (2002).
+47. Y. Iwamura, T. Itoh, M. Sakano, S. Sakai, and S. Kuribayashi, “Low energy nuclear transmutation in
+condensed matter induced by D2 gas permeation through Pd complexes: Correlation between deuterium flux
+and nuclear products,” Proc. ICCF10, (2004).
+48. D. Letts and D. Cravens, “Laser stimulation of deuterated palladium: Past and present,” Proc. ICCF10,
+(2004).
+49. D. Cravens and D. Letts, “Practical techniques in CF research: Triggering methods,” Proc. ICCF10, (2004).
+50. T. O. Passell, Proc. ICCF5, p. 603 (1995).
+51. T. O. Passell, Proc. ICCF9, p. 299 (2002).
+52. J. Dash, Proc. ICCF6, p. 477 (1996).
+53. T. Bressani, “Nuclear products in cold fusion experiments, comments and remarks after ICCF-6,” Proc.
+ICCF6, p. 703 (1996).
+54. L. C. Case, ”Catalytic fusion of deuterium into helium-4”, Proc. ICCF7, p. 48 (1998).
+55. M. H. Miles and B. Bush, ”Search for anomalous effects during D2O Electrolysis Using Palladium Cathodes”,
+Proc. ICCF3, p. 189 (1992). See also: M. H. Miles, B. Bush, and J. J. Lagowski, ”Anomalous effects involving
+excess power, radiation, and helium production during D2O electrolysis using palladium cathodes”, Fusion
+Technol. 25, 478, 1994. B. F. Bush, J. J. Lagowski, M. H. Miles, and G. S. Ostrom, ”Helium production
+during the electrolysis of D2O in cold fusion”, J. Electroanal. Chem. 304 (1991) 271. M. H. Miles, R. A.
+Hollins, B. F. Bush, J. J. Logowski and R. E. Miles, ”Correlation of excess power and helium production
+during D2O and H2O electrolysis using palladium cathodes”, J. Electroanal. Chem. 346 (1993) 99.
+56. B. Bush and J. J. Lagowski, ”Methods of generating excess heat with the Pons and Fleischmann effect:
+Rigorous and cost effective calorimetry, nuclear products analysis of the cathode and helium analysis”, Proc.
+ICCF7, p. 38 (1998).
+57. E. Botta, R. Bracco, T. Bressani, D. Calvo, V. Cela, C. Fanara, U. Ferracin, and F. Iazzi, “Search for 4He
+production from Pd/D2 systems in gas phase,” Proc. ICCF5, p. 233 (1995).
+58. E. Botta, T. Bressani, D. Calvo, C. Fanara, and F. Iazzi, “Measurements of 4He production from D2 gasloaded
+Pd sample,” Proc. ICCF6, p. 29 (1996).
+59. G. S. Qiao, X. L. Han, L. C. Kong, S. X. Zheng, H. F. Huang, Y. J. Yan, Q. L. Wu, Y. Deng, S. L. Lei, and
+X. Z. Li, ”Nuclear products in a gas-loading D/Pd and H/Pd system”, Proc. ICCF7, p. 314 (1998).
+60. D. Gozzi, R. Caputo, P. L. Cignini, M. Tomellini, G. Gigli, G. Balducci, E. Cisban, S. Frullani, F. Garibaldi,
+M. Jodice, G. M. Urciuoli, ”Excess heat and nuclear product measurements in cold fusion electrochemical
+cells”, Proc. ICCF4, Vol. 1, p. 2-1 (1993).
+61. J. O’M. Bockris, C. Chien, D. Hodko, and Z Minevski, ”Tritium and Helium Production of Palladium
+Electrodes and the Fugacity of Deuterium Therein”, Proc. ICCF3, p. 231 (1992). C-C Chien, D. Hodko,
+Z. Minevski and J. O’M. Bockris, ”On an electrode producing massive quantities of tritium and helium”, J.
+Electroanal. Chem. 338 (1992) 189.
+62. B. Y. Liaw, P.-L. Tao and B. E. Liebert, ”Recent progress on cold fusion research using molten salt techniques”,
+Proc. ICCF2, p. 92 (1991).
+63. H. Sakaguchi, G. Adachi, and K. Nagao, ”Helium Isotopes from Deuterium Absorbed in LaNi5”, Proc.
+ICCF3, p. 527 (1992).
+64. J. R. Morrey, M. W. Caffee, H. Farrar, IV, N. J. Hoffman, G. B. Hudson, R. H. Jones, M. D. Kurz, J.
+Lupton, B. M. Oliver, B. V. Ruiz, J. F. Wacker, and A. Van Veen, ”Measurements of helium in electrolyzed
+palladium”, Fusion Technol. 18 (1990) 659.
+65. Y. Arata and Y-C. Zhang, ”Helium (4He, 3He) within deuterated Pd-black”, Proc. Japan Acad. 73B (1997)
+1.
+66. Y. Arata and Y-C. Zhang, ”Achievement of solid-state plasma fusion (”cold fusion”), Proc. Japan Acad. 71
+Ser. B (1995) 304.
+67. A. G. Lipson, A.S. Roussetski, G.H. Miley, and E.I. Saunin, Proc. ICCF8, p. 231 (2000).
+68. A. G. Lipson, A.S. Roussetski, G.H. Miley, and C. H. Castano, Proc. ICCF9, p. 218 (2002).
+69. M. H. Miles, “Correlation of excess enthalpy and helium-4 production: A review,” Proc. ICCF10, (2004).
+70. M.C.H. McKubre, et.al., Energy Production Processes in Deuterated Metals, EPRI Report TR-107843-V1
+(1998).
+71. F. Cellucci, P. L. Cignini, G. Gigli, D. Gozzi, M. Tomellini, E. Cisbani, S. Frullani, F. Garibaldi, M. Jodice,
+and G. M. Urciuoli, Proc. ICCF6, p. 3 (1996).
+72. A. De Ninno, A. Frattolillo, A. Rizzo and E. Del Giudice, Proc. ICCF9, p. 82 (2002).
+73. A. De Ninno, A. Frattolillo, A. Rizzo, and E. Del Giudice, “4He detection in a cold fusion experiment,”
+Proc. ICCF10, (2004).
+74. S. Pons and M. Fleischmann, “Heat after death,” Proc. ICCF4, Vol. 2, p. 8-1 (1993).
+75. M. Fleischmann and S. Pons, Phys. Lett. A 176 118 (1993).
+76. M. Bernardini, C. Manduchi, G. Mengoli, and G. Zannoni, “Anomalous effects induced by D2O electrolysis
+at titanium, Proc. ICCF8, p. 39 (2000).
+77. M. H. Miles, M. A. Imam, and M. Fleischmann, Proc. ICCF8, p. 105 (2000).
+78. M. Fleischmann, Proc. ICCF9, p. III (2002).
+79. I. Dardik, H. Branover, A. El-Boher, D. Gazit, E. Golbreich, E. Greenspan,A. Kapusta, B. Khachatorov, V.
+Krakov, S. Lesin, B. Michailovitch, G. Shani
+∗
+and T. Zilov, Proc. ICCF10, (2004).
+80. M. H. Miles, K. B. Johnson, and M. A. Imam, “Heat and helium measurements using palladium alloys in
+heavy water,” Proc. ICCF6, p. 20 (1996).
+81. M. F. Klopfenstein and J. Dash, “Thermal imaging during electrolysis of heavy water with a Ti cathode,”
+Proc. ICCF7, p. 98 (1998).
+82. E. Storms, “Excess power production from platinum cathodes using the Pons-Fleischmann effect,” Proc.
+ICCF8, p. 55 (2000).
+83. Y. Arata and Y-C. Zhang, Proc. Japan Acad., 70(B), 106 (1994).
+84. S. E. Jones, D. Bennion, D. Buehler, J. B. Czirr, D. L. Decker, J. Harb, R. Hunter, G. L. Jensen, E. P.
+Palmer, W. Pitt, S. Taylor, J. Thorne, D. Tolley, and J. C. Wang, Proc. Provo meeting, p. 206 (1990).
+85. S. E. Jones, T. K. Bartlett, D. B. Buehler, J. B. Czirr, G. L. Jensen, and J. C. Wang, Proc. Provo meeting,
+p. 397 (1990).
+86. F. Celani, A. Spallone, L. Liberatori, B. Stella, F. Ferrarotto, M. Corradi, P. Marini, S. Fortunati, and M.
+Tului, Proc. Provo meeting, p. 62 (1990).
+87. P. I. Golubnichyi, A. D. Philonenko, A. A. Tsaric, E. P. Kovalchuk, G. I. Merzon, and V. A. Tsarev, “Observation
+of nuclear particles and their correlation with acoustic and electromagnetic emission from palladium
+targets loaded with deuterium,” Proc. Provo meeting, p. 146 (1990).
+88. P. I. Golubnichyi, A. D. Philonenko, A. A. Tsaric, V. V. Kuzminov, B. V. Pritchenko, G. I. Merzon, and
+V. A. Tsarev, “Recording of neutron and acoustic emissions from palladium target in a low background
+underground experiment,” Proc. Provo meeting, p. 151 (1990).
+89. M. Okamoto, Y. Yoshinaga, M. Aida, and T. Kusunoki, Proc. ICCF4, Vol. 2, p. 3-1 (1993).
+90. S. E. Jones, J. E. Ellsworth and M. R. Scott, F. W. Keeney, A. C. Johnson, D. B. Buehler, F. E. Cecil, G.
+Hubler, and P. L. Hagelstein, “Neutron emissions from metal deuterides,” Proc. ICCF10, (2004).
+91. K. L. Wolf, “Nuclear reactions in deuterated metals,” EPRI Progress Report, March 1992.
+92. K. L. Wolf, private communication, 1993.
+93. F. E. Cecil, H. Liu, D. Beddingfield, and C. S. Galovich, Proc. Provo meeting, p. 375 (1990).
+94. S.E. Jones, F.W. Keeney, A.C. Johnson, D.B. Buehler, F.E. Cecil, G. Hubler, P.L. Hagelstein, J.E. Ellsworth
+and M.R. Scott, “Charged particle emissions from metal deuterides,” Proc. ICCF10, (2004).
+95. A. De Ninno, A. Frattolillo, G. Lollobattista, L. Martinis, M. Martone, L. Mori, S. Podda, F. Scaramuzzi,
+Europhys. Lett. 9 221 (1989).
+96. A. De Ninno, F. Scaramuzzi, A. Frattolillo, S. Migliori, F. Lanza, S. Scaglione, P. Zeppa, and C. Pontorieri,
+“The production of neutrons and tritium in the deuterium gas-titanium interaction,” Proc. ICCF2, p. 129
+(1991).
+97. H. O. Menlove, M. A. Paciotti, T. N. Claytor, H. R. Maltrud, O. M. Rivers, D. G. Tuggle, and S. E. Jones,
+“Reproducible neutron emission measurements from Ti metal in pressurized D2 gas,” Proc. Provo meeting,
+p. 287 (1990).
+98. H. O. Menlove, M. A. Paciotti, T. N. Claytor, and D. G. Tuggle, “Low-background measurements of neutron
+emission from Ti metal in pressurized deuterium gas,” Proc. ICCF2, p. 385 (1991).
+99. T. Bressani, D. Calvo, A. Feliciello, C. Lamberti, F. Iazzi, B. Minetti, R. Cherubini, A. M. I. Haque, and R.
+A. Ricci, “A study of the neutron emission from Ti loaded with D in gas phase by means of a time-of-flight
+spectrometer,” Proc. ICCF2, p. 105 (1991).
+100. M. Agnello, E. Botta, T. Bressani, D. Calvo, A. Feliciello, P. Gianotti, F. Iazzi, C. Lamberti, B. Minetti,
+and A. Zecchina, “Measurement of 2.4 MeV neutrons from Ti/D and Pd/D systems, Proc. ICCF3, p. 433
+(1992).
+101. A. De Ninno, F. Scaramuzzi, C. Pontorieri, and P. Zeppa, “Emission of neutron bursts from a titaniumdeuterium
+gas system in a high-efficiency low-background experimental setup,” Proc. Provo meeting, p. 122
+(1990).
+102. F. Scaramuzzi, “Survey of gas loading experiments,” Proc. ICCF2, p. 445 (1991).
+103. M. Fleischmann, “An overview of cold fusion phenomena,” Proc. ICCF1, p. 344 (1990).
+104. D. Gozzi, P. L. Cignini, R. Caputo, M. Tomellini, G. Balducci, G. Gigli, E. Cisbani, S. Frullani, F. Garibaldi,
+M. Jodice, and G. M. Urciuoli, “Experiments with global detection of cold fusion byproducts,” Proc. ICCF3,
+p. 155 (1992).
+105. H. Ogawa, S. Yoshida, Y. Yoshinaga, M. Aida, and M. Okamoto, “Excess heat and neutron emission in
+Pd-Li-D electrolysis,” Proc. ICCF5, p. 116 (1995).
+106. A. Takahashi, T. Inokuchi, Y. Chimi, I. Ikegawa, N. Kaji, Y. Nitta, K. Kobayashi, and M. Tanaguchi,
+“Experimental correlation between heat and nuclear products,” Proc. ICCF5, p. 69 (1995).
+107. A. Takahashi, “Results of experimental studies on excess heat vs. nuclear products correlation and conceivable
+reaction model,” Proc. ICCF7, p. 378 (1998).
+108. Y. Oya, H. Ogawa, M. Aida, K. Iinuma, and M. Okamoto, “Material conditions to replicate the generation
+of excess energy and the emission of excess neutrons,” Proc. ICCF7, p. 285 (1998).
+109. H. Liu, Studies of nuclear reactions D-D, D-6Li, and D-10B at low energies and charged particle emission
+from deuterium-metal systems, PhD Thesis, Colorado School of Mines, 1992.
+110. A. G. Lipson, A.S. Roussetski, G.H. Miley, and E.I. Saunin, Proc. ICCF8, p. 231 (2000). A. G. Lipson,
+A.S. Roussetski, G.H. Miley, and C. H. Castano, Proc. ICCF9, p. 218 (2002).
+111. A. G. Lipson, A.S. Roussetski, G.H. Miley, and E.I. Saunin, “Phenomenon of an energetic charged particle
+emission from hydrogen/deuterium loaded metals,” Proc. ICCF10, (2004).
+112. J. Kasagi, T. Ohtsuki, K. Ishu and M. Hiraga, Phys. Soc. Japan 64, 777 (1995).
+113. E. K. Storms, ”A critical evaluation of the Pons-Fleischmann effect”,
+http://www.lenr-canr.org/acrobat/StormsEacriticale.pdf
+114. M. Fleischmann, ”Thermal and nuclear aspects of the Pd/D2O system; Volume 2”, SPAWAR System
+Center Report TR-1862 (2002).
+115. S. Pons and M. Fleischmann, ”Calorimetric measurements of the palladium/deuterium system: Fact and
+fiction”, Fusion Technol. 17 (1990) 669.
+116. S. E. Jones, L. D. Hansen, S. E. Jones, D. S. Shelton and J. M. Thorne, ”Faradaic efficiencies less than
+100% during electrolysis of water can account for reports of excess heat in ”cold fusion” cells”, J. Phys. Chem.
+99 (1995) 6973.
+117. F. G. Will ”Hydrogen + oxygen recombination and related heat generation in undivided electrolysis cells,”
+J. Electroanal. Chem. 426 (1997) 177.
+118. M.C.H. McKubre, F. L. Tanzella, P. Tripodi and P. L. Hagelstein, ”The emergence of a coherent explanation
+for anomalies observed in D/Pd and H/Pd systems: Evidence for 4He and 3He production,” Proc. ICCF8,
+p. 3 (2000).
+119. W. B. Clarke, Fusion Science and Technology, “Production of 4He in D2-loaded palladium-carbon catalyst
+I,” 43 (1) 122 (2003).
+120. W. B. Clarke, W. J. Jenkins and Z. Top, ”Determination of tritium by mass spectrometric measurement
+of 3He”, Int. J. of Appl. Radiat. Isot., 27, p. 515 (1976).
+121. Y. Arata and Y-C. Zhang, Proc. Japan Acad., 71(B), 98 (1995).
+122. Y. Arata and Y-C. Zhang, Proc. ICCF6, p. 129 (1996).
+123. Y. Arata and Y-C. Zhang, J. High Temperature Society, 23, 1 (1997).
+124. Y. Arata and Y-C. Zhang, Proc. Japan Acad. 78(B), 57 (2002).
+125. Y. Arata and Y-C. Zhang, “Anomalous difference between reaction energies generated within D2O-Cell
+and H2O-cell,” Jpn. J. Appl. Phys. 37, L1274 (1998).
+126. W. B. Clarke, B. M. Oliver, M.C.H. McKubre, F. L. Tanzella and P. Tripodi, ”Search for 3He and 4He in
+Arata-style palladium cathodes II; Evidence for tritium production”, Fusion Science and Technology, 40 (2)
+(2001).
+127. Y. Arata and Y-C. Zhang, “Deuterium nuclear reaction process within solid,” Proc. Japan Acad. 72(B),
+179 (1996).
+128. Y. Arata and Y-C. Zhang, “Presence of Helium (4He, 3He) confirmed in deuterated Pd-black by the ’vieffect’
+in a ’closed QMS’ environment,” Proc. Japan Acad. 73B, 62 (1997).
+129. Y. Arata and Y-C. Zhang, “Anomalous production of gaseous 4He at the inside of ’DS-cathode’ during
+D2O-electrolysis,” Proc. Japan Acad. 75B, 281 (1999).
+130. A. Farkas, “On the electrolytic separation of the hydrogen isotopes on a palladium eathode,” Trans. Faraday
+Soc. 33, 552 (1937).
+
+The conference proceedings cited in this bibliography are:
+Proc. Provo meeting (1990):
+Anomalous Nuclear Effects in Deuterium/Solid Systems, Provo, UT 1990, American Institute of Physics: Conference
+Proceedings, edited by S.E Jones, F. Scaramuzzi, and D.H. Worledge, 228.
+Proc. ICCF1 (1990):
+Proceedings of the First International Conference on Cold Fusion, Mar. 1990 Salt Lake City, UT, edited by F.
+Will.
+Proc. ICCF2 (1991):
+The Science of Cold Fusion, Proc. of the Second Annual Conference on Cold Fusion, Como, Italy, June 29-July
+4, 1991, edited by T. Bressani, E. Del Giudice and G. Preparata, Published by Societa Italiana di Fisica, 33.
+Proc. ICCF3 (1993):
+Frontiers of Cold Fusion, Proceedings of the Third International Conference on Cold Fusion, Oct. 1992 Nagoya,
+Japan, edited by H. Ikegami, Universal Academy Press, Tokyo.
+Proc. ICCF4 (1993):
+Proceedings of the Fourth International Conference on Cold Fusion, Dec. 1993 Maui, Hawaii, edited by T. O.
+Passell and M. C. H. McKubre.
+Proc. ICCF5 (1995):
+Proceedings of the Fifth International Conference on Cold Fusion, Monte Carlo, Monaco April 9-13, 1995, IMRA
+Europe, Sophia Antipolis Cedex, France (1995).

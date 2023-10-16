@@ -1,0 +1,196 @@
+1. Introduction
+
+A research and development project, "New Hydrogen Energy" project, was started in November 1993 under New Energy and Industrial Technology Development Organization (NEDO) in Japan. In the project, several experimental systems in which an excess heat had been detected were set up in our laboratory[ll. One of the systems, a fuel cell type electrolysis system[ZJ has pressurized cells with a reversible hydrogen anode based on fuel cell technology. In a few cases excess heat had been detected using the system by Apr. 1995 in our laboratory. Reproducibility of the excess heat was poor, probably because of the use of many kinds of Pd. However, useful information about Pd rod processing has been obtained[3l improving the ability to acquire higher loading ratio (D/Pd) than 0.85, which appears to be indispensable for excess heat generation. The main conclusions are that (1) Pd electrodes with higher purity and stable grains reach high D/Pd, (2) Grain size and/or grain boundaries may be significant for high D/Pd, and (3) Cracks on the Pd surface very likely inhibit high loading.
+In this study, Pd rods were fabricated of high purity "four nines" Pd, melted in vacuum, processed at room temperature, and surface machined, in keeping with protocols which have previously achieved positive results. In addition, samples with various pre-electrolysis treatments have been tested with the fuel cell type electrolysis system. The effects of pre-electrolysis treatments on the D/Pd and excess heat measured are discussed in this paper.
+
+
+2. Experimental
+
+2.1 Pd cathode 4
+A "standard" process to prepare Pd rods for electrolysis experiment was determined[ l based on the past experimental results131. The results indicate that high D/Pd loading can be achieved under
+thefollowingconditions: (1)PdelectrodeswithhigherpurityandstablegrainsreachhighD/Pd,(2) Grain size and/or grain boundaries may be significant for high D/Pd, and (3) Cracks on the Pd surface very likely inhibit high loading. Therefore, the Pd cathodes, which were 4 mm in diameter and 20 mm in length, were made of "four nines" Pd, melted in vacuum, processed in room temperature, and the surfaces were machined away to a depth of 0.2 mm by Tanaka Kikinzoku Kogyou (TKK).
+
+Fig. 1 Fuel cell type electrolysis system
+°
+Fundamental Session
+thefollowingconditions: (1)PdelectrodeswithhigherpurityandstablegrainsreachhighD/Pd,(2) Grain size and/or grain boundaries may be significant for high D/Pd, and (3) Cracks on the Pd surface very likely inhibit high loading. Therefore, the Pd cathodes, which were 4 mm in diameter and 20 mm in length, were made of "four nines" Pd, melted in vacuum, processed in room temperature, and the surfaces were machined away to a depth of 0.2 mm by Tanaka Kikinzoku Kogyou (TKK).
+in aqua regia was done before the vacuum annealing. Both the samples etched and not were prepared to examine the effect of the etching. The samples were etched for ten minutes in aqua regia. The annealing was performed for 1 or 10 hours at 850 or 1000 °C at a vacuum environment of 1 mPa. One untreated sample and eight variously treated samples described in Table 1 were used in the experiments. Sample#0,theuntreatedsample,hadgrainsranginginsizefrom100to300μmvaried by the rod processing. On the other hand, the heat-treated samples had non-stressed grains whose sizeswere50to100μmindiameter. However,therewasnodifferenceingrainsizeresultingfrom the treatment temperature or the treatment time,
+In addition, we attempted various pre-electrolysis treatments141 to the samples by the "standard" process described above to increase the D/Pd. The results of the attempt using a resistance measurement system, which could estimate D/Pd from a change in resistance of Pd during electrolysis, were presented by us in other paper151 • The major treatments were (1) a surface etching in aqua regia to remove surface defects and to clean the surface, and (2) a vacuum annealing to release the stress, to re-crystallize the grains, and to clean the surface by thermal etching. The etching as determined by observing the surface structure of the samples with an optical microscope.
+
+2.2 Measurement apparatus and method
+The fuel cell type electrolysis system is
+shown in Fig. 1. The system, developed by
+IMRA-Japan, had six pressurized cells with a
+reversible hydrogen anode based on fuel cell
+technology. ThePdsamplewassetatthecenter
+of a pressure vessel as a cathode electrode, and
+surrounded by a gas diffusion electrode, "fuel
+cell anode". The pressure vessel was filled with
+1 M LiOD electrolyte of 50 cm3 and D2 gas up to
+9 kg/cm2• Three Type K thermocouples were
+used to measure the temperatures of the Pd rod,
+the electrolyte, and the gas. The D2 gas pressure
+was measured by a pressure gauge (VALCOM VPRNPl7KA). The cells were set in a thermostatic water bath (ADVANTEC LF680) at l0°C constant temperature.
+
+n I
+A computer (NEC PC9801) controlled a power supply {KIKUSUI PAD16-10LP) to provide a constant electrolysis current and measured the cell pressure, the temperature at the three points, the cell voltage, and the electrolysis current through a scanner (ADVANTEST R7430), recording data at one minute intervals.
+Both the D/Pd and excess heat are estimated by monitoring the temperatures and D2 gas pressure during electrolysis. D/Pd was estimated by the following expression:
+., 40 �
+Excess heat
+Fundamental Session
+"' ...
+Calibration curve
+■ : Ni cathod 0 : Pd cathod
+� 30
+E a,
+_ 20 0
+:! 10
+a:
+Input Electric power
+0 -�---'--...__._-'--�----'--�_,_____L___J 46 10
+Input power (W)
+Fig.2 An example of calibration curve determined with Ni -= 0 1 (1) cathodeandexcessheatfromcalibrationcurve
+D 2(n-n)
+Pd Pdmol
+where no is the molarity of D2 gas before electrolysis; n is the molarity of D2 gas at the time of
+estimation; Pdm01, the molarity of Pd rod. Thus, no can be calculated from the gas pressure and gas temperature measured before electrolysis. Then n can be also be calculated during electrolysis.
+The excess heat was estimated by a rise of the cell temperature based on a calibration curve between input power and the cell temperature previously determined using a Ni cathode. Fig. 2 shows an example of calibration curve and excess heat (energy) estimated from the curve. The accuracy of excess heat estimation depends mainly on the accuracy of assembling the cell. We evaluated the deviation of the calibration curve using data of five experiment cases performed at a certain period, and concluded that the deviation
+from the calibration curve was within ±2%.
+Therefore, we assume that only a measurement
+larger than 5% could be attributed to excess heat
+generation.
+
+2.3 Electrolysis condition
+The electrolysis was performed under
+constant current control. A typical applied current profile is shown in Fig. 3. The current was maintained at 125 mA corresponding to 50 mNcm2 surface current density on Pd samples for 6 days after the start of electrolysis, and then the current was changed step by step after stable equilibriumwasreached. Thetemperatureofthe cathode became stable within three hours after a current change according to results of the calibration experiments. Therefore, the time constant of the system was about three hours, so the excess heat was estimated on the basis of the cathode temperature measured three hours after a step change in supply current.
+The current profile for 17 days after start was fixed as the same loading condition. Following that time, the profiles were varied. In all, the samples were electrolyzed in the system for more than one and a half months.
+
+Fig. 4 shows the heat of occlusion measured at the state of beginning of electrolysis. The excess heat estimated from the cathode temperature was not exact under transient conditions, as described above, but it showed that the system had sensitivity to detect the heat of occlusion. The heatofocclusionestimatedasintegrationoftheexcessheatwasofabout780J. Thecalculatedvalue was about 350 J. This difference in these values was probably caused by the lack of correction for the system response function.
+
+
+3. Results and discussion
+The experimental results on excess heat and D/Pd are shown in Table 2. The excess heat is the maximum during electrolysis. The percentage is the ratio of the measured excess heat to the input electric power. From the results, it seemed that (1) excess heat of 0.35-0.75 W (7-18 %) was measured in only four samples annealed for 10 h at the temperature both of 850 and 1000 °C, (2) the loading ratio of the samples with excess heat was 0.85-0.89, significantly higher than the 0.80 attained by the untreated sample (#0), and (3) the aqua regia etching before annealing was not effective in achieving D/Pd and excess heat in these experiments.
+
+ in achieving D/Pd and excess heat in these experiments.
+Two experimental results (sample #3 and #1) with and without excess heat are shown in Figs. 5 (a) and (b), respectively. The same current pattern was applied in both the experiments, but different results were measured. Sample #3 achieved D/Pd of 0.85 and generated 0.7 W of excess heat. On the other hand, #1 had lower D/Pd and no excess heat. The excess heat in Fig. 5(a) was continuously detected after 2 weeks from the electrolysis start. The excess heat observed in other samples also showed the same trend.
+
+The etching conditions of #1 and #3 were
+different from each other. Sample #3 was etched,
+0.87.--------------,
+but #1 was not etched. However the etching was
+0.86
+not effective for the generation of excess heat and
+0.85
+an increase of D/Pd, because the etched sample I::
+0.84
+Cl
+of #2, which had the same heat treatment as #1,
+also had no excess heat and the same low D/Pd as
+-
+---
+--- _
+Sample #1
+-
+#1. In other experimental pairs with etching or
+0.81
+--.-- - -i____ !
+--
+not (#3 & #4, #5 & 6, #7 & #8), their results on
+0.80
+--
+----
+-- excess heat were also unrelated to the etching
+0.2 o.3 o.• o.s o.6 0.1 o.8
+0.9
+1.0 treatment.
+The loading ratio as a function of current
+Current density (Nern 2)
+density supplied is shown in Fig. 6. To calculate Fig.6
+Loading ratio as a function of current density this relationship, the data from 2 weeks after the supplied, comparing the two samples; #1 without excess startofelectrolysisandinstableequilibrium(i.e., heatand#3withexcessheat.
+more than three hours following a step change in
+current) were used. The D/Pd ratio of sample #1 with no excess heat became lower at higher current density. The D/Pd of sample #3 with excess heat increased or did not declined at high current density supplied.
+
+Relationships between the loading ratio and the current density in all the experiments with or without excess heat are shown in Figs. 7(a) and (b), respectively. The electrolysis patterns in the
+o.90.------------r_-__-#70 0.88
+0.88
+..________ --- #1 -•- # 2 0.88
+0.86
+• -+--- #6 ------.-•-#5 .g0.84
+-0 0.84
+"-T
+�
+�
+1----T
+Cl 0.82
+o, 0.82
+-y C:C:
+'g 0.80
+� 0.80
+t::--- -:!.--i' ----.....
+...
+. ---
+..J 0.78
+_9 0.78
+~--�-
+0.76
+0.76
+0 7
+· t3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+0.74�������-����� 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+Current density (Ncr&J
+(b) Cases of samples with no excess heat
+Currrent density (Ne�
+(a) Cases of samples with excess heat
+Fig. 7 Experimental results of loading ratio as a function of current density supplied.
+experiments were not entirely identical to each other, but were the same for 17 days from the start, as previously described. D/Pd for cases in which excess heat was observed tended to increase or remain constant at higher current. On the other hand samples exhibiting no excess heat tended to decrease the loading at higher current. The relation between excess heat and loading ratio on the samples #1 and #3 are shown in Fig. 8. The measured data used were the same data for Fig. 5. In sample #1 the excess heat was within :!::2%, so we judged it to be no excess heat. However, sample #3 attained a higher D/Pd (up to 0.87) than #1, and generated over 5 % of excess heat.
+
+ ICCF-6 October 13-18, 1996 Japan
+Fundamental Session
+excess heat.
+Similar results were obtained for samples annealed at 1000 °C. Excess heat was only measured for sample annealed for ten hours. According to these results, the time of 10 hours for annealing was sufficient to re-crystallize the grain, and/or to clean the surface by thermal etching, but 1 hour was insufficient.
+Typical relationships between input l
+EX13C5
+0.8 ,----------------,, 20 power and excess heat in the experiments are
+shown in Fig. 9. The solid line is a quadratic fit 0.7
+16
+0.6
+using the least squares method. The excess heat
+[ 0.5
+increased quadratically as the input power
+12
+l I
+0.4
+f
+corresponding to the surface current density
+.c
+83Cl)
+0.3
+8Cl) increased. However, these results alone are not
+■ Elcess heat (W)
+�
+0.2
+sufficient to prove the existence of an anomalous
+• E,cess heat(%)
+4 source of excess thermal energy in this system.
+0.1
+oo. ���-���������o Although previously it had been estimated that
+0 2345
+the deviation of the calibration curve, which
+Input power CW)
+might cause a false positive excess heat, was less
+than 5%, it is not possible to rule out the Fig.9 An example of excess heat vs. Input power on the possibilitythatsomeotherunknownfactormight sample#7annealedat1000°cx10h.
+increase the deviation from the calibration curve
+for the system.
+A problem of the fuel cell type system is that it does not measure net excess heat directly. Therefore, the existence of the excess heat from Pd is not considered proven in these experiments. To measure the excess heat exactly, a flow calorimetry system141 has been manufactured which is compatible with the fuel cell type cell and which can directly measure the excess heat from the cell by measuring the input/output temperature and mass flow of coolant. It remains to confirm the existence of excess heat with the flow calorimetry system.
+
+
+4. Conclusions
+Experimental results on excess heat and D/Pd using a fuel cell type electrolysis system have beenpresented. Pdrodsweremadeofhighpurity"fournines"Pd,meltedinvacuum,processedin room temperature, and surface-ground. Samples with various pre-electrolysis treatments were tested to examine the effect of the treatments on the excess heat and the D/Pd.
+The pre-electrolysis treatments were (1) a surface etching in aqua regia to remove surface defects and to clean the surface, and (2) a vacuum annealing to release stress, to re-crystallize the grains, and to clean the surface by thermal etching. The annealing temperature have ranged from 850 to 1000 °C, and the annealing time varied from 1 to 10 hours.
+Excess heat has been observed in our experiments. Apparently, thermal treatment conditions ofthecathodesaffectedloadingratiosandexcessheat. Excessheathasbeenonlyobservedfromthe Pd samples which were annealed for 10 hours at a high temperature (850 or 1000 °C) in a high vacuum environment (1 mPa). Excess heat from the samples has been 7-18 % of the electric input power. However, the system was not able to measure the net excess heat directly. Therefore, it is recommended that excess heat from Pd be confirmed using a flow calorimetry system before concluding that the system does in fact produce excess energy.

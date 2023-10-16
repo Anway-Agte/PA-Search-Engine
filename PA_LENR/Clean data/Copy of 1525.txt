@@ -1,0 +1,562 @@
+1. Introduction
+
+Humankind has an urgent requirement for abundant, inex-
+pensive and clean energy. New sources are needed not only
+to secure energy supplies for the future, but also to reduce
+impacts of current sources, including global climate change
+and degradation of water supplies. Cold fusion (now widely
+referred to as low energy nuclear reaction, LENR) would, if
+its benefits could be realized, meet human needs for a secure
+and clean energy source for the foreseeable future.
+
+LENR was announced in March 1989 by Dr. Martin
+Fleischmann and Dr. Stanley Pons. Although it was rejected
+by mainstream science within a year, it continued to be pur-
+sued by many researchers worldwide. But because it is a pari-
+ah science, few new scientists have been attracted to the field.
+Many of the researchers who began their work soon after the
+announcement are now leaving the field because of retire-
+ment or health issues. The large volume of research records
+developed over the past 30 years is at risk of being lost.
+
+The LENR Research Documentation Initiative (LRDI) is
+underway to mitigate this potential loss. Its main objective
+is to help researchers make sure that their records are pre-
+served and kept available for additional analysis and inter-
+pretation as the LENR field continues to progress. The LRDI
+began as a pilot project with Dr. Edmund Storms and now
+includes 15 participants. Because the records have promise
+of helping realize the benefits of LENR, they represent a vital
+asset for humankind.
+
+
+2. Records Documentation Procedure
+
+Projects are set up under the LRDI umbrella for participating
+investigators. A procedure has been developed to capture,
+document and preserve the records (Figure 1). An LRDI proj-
+ect is initiated by making contact with the researcher, review-
+ing the objectives and procedure, encouraging participation,
+establishing communications and arranging a site visit.
+
+A professional resume (CV) is an important source of
+information and is requested during the initial contact.
+Research records are collected and interviews are conducted
+during the site visit. Photos are also taken of the participant
+and of the various records, which are also described individ-
+ually with a cover memo. The interviews are recorded, tran-
+scribed and similarly documented with a cover memo.
+
+Figure 1. LRDI procedure.
+
+Arrangements are also made during the visit for organizing
+and preserving the records. After the visit, the documented
+records and interview transcripts are reviewed, and a
+research timeline is usually developed. A draft report is pre-
+pared based on the memos and is submitted to the
+researcher for review. It includes additional work that may
+be performed after the report is submitted.
+
+Projects
+are
+conducted
+on
+an
+informal
+basis.
+Confidentiality is assured, and any results of a project are
+reviewed with the researcher before being released in public
+venues. Information covered by any nondisclosure agree-
+ments is not included unless permission is obtained. Early
+documentation typically addresses the entire record in a
+general way. Subsequent efforts may include more in-depth
+characterization.
+
+2.1. Components:
+For most long-term LENR researchers, a large record consist-
+ing of several components is available. The components are
+identified, described and collected during the site visit. They
+are different for each participant, depending on the type and
+amount of investigations, how the results were recorded and
+the methods of storage. Most researchers have six types of
+records.
+
+Publications and Unpublished Reports:
+Investigators often include a comprehensive list of their
+LENR publications in their professional resumes. Publicly-
+available reports, papers and presentations in several venues,
+including journals (e.g. Journal of Condensed Matter Nuclear
+Science) and magazines (e.g. Infinite Energy) are obtained.
+Many of the publications for the LENR field have been
+assembled in the LENR-CANR.org website.1 ResearchGate2 is
+another source of participants’ LENR publications. Items not
+found in public sources are usually available from the par-
+ticipant’s files. Unpublished reports typically include analy-
+sis of lab results, progress summaries (e.g. to sponsors) and
+communications with other LENR researchers. A memo is
+prepared with a list of the publications found, and copies are
+collected and included in the project where possible.
+
+Electronic Files:
+Nearly all researchers have a large assemblage of electronic
+files in different formats created by various kinds of software.
+The files are generally of two types—documents and data
+files from experiments. The initial emphasis in a project is
+collection and description of the documents followed by the
+data files. The electronic files are found on current comput-
+ers and external storage, such as hard drives, flash memory,
+servers or the Cloud. Long-term researchers often have files
+on legacy media, such as CDs, ZIP discs, retired hard drives
+and floppy disks. The files are included or referenced in the
+project. Their location and the storage media on which they
+were found are recorded in a series of memos.
+
+Hardcopy Files:
+LENR research began in the early years of the digital age, so
+paper files often comprise a major component, particularly
+for long-term investigators. These records are often found in
+file cabinets and in boxes or storage tubs. Memos are used to
+document the records, including an inventory, organization,
+type of storage and location. The storage containers are also
+photographed. The materials are prioritized for scanning,
+and PDF files are created as needed using an LRDI scanner.
+Scanning may be accomplished on site, or the materials may
+be borrowed, scanned at the LRDI location and returned to
+the participant.
+
+Laboratory and Experiments:
+The participant’s lab is characterized using any existing
+descriptions, including experimental methods, apparatus
+and equipment, materials, and data collection and analysis
+methods. Additional descriptions, including previous or
+legacy methods and equipment, are also prepared for the
+project as required. Photos of the lab and equipment are
+acquired—or new ones are taken—during the visit. Lab note-
+books are described when they are available, and electronic
+lab files are identified for inclusion in the project. Memos are
+prepared for the descriptions and photos of the lab, equip-
+ment and notebooks.
+
+Photos, Recordings and Other Media:
+Most participants have a collection of other types of media,
+such as photographs and images, audio and video recordings,
+and correspondence (e.g. emails, letters). The photos often
+include lab equipment and experiments as well as events like
+meetings and conferences. Many participants, for example,
+have pictures or video recordings of presentations and atten-
+dees taken at International Conferences on Cold Fusion
+(ICCF). Video recordings typically consist of purchased items
+(e.g. produced to describe or promote LENR), recorded televi-
+sion programs (e.g. news broadcasts covering the field) and
+self-made recordings of conferences and related events.
+
+LENR Library:
+Nearly all participants have a collection not only of their
+own
+work,
+but
+also
+items
+prepared
+by
+other
+LENR
+researchers. These items include books, published papers,
+conference proceedings (e.g. ICCFs), magazines (e.g. Infinite
+Energy), reports (e.g. SRI International) and related materials.
+They are found in both hardcopy and electronic (e.g. PDF)
+form. Some participants have reference management soft-
+ware such as Endnote for their collection of references.
+Copies of the electronic versions are obtained for the project,
+and photos are taken of the books and other hardcopy items.
+Memos are prepared listing the materials found and includ-
+ing the photographs taken.
+
+2.2. Interviews:
+Personal interviews with the participant are essential for
+LRDI projects. They provide the context for the research
+records and are principal sources for the timelines of investi-
+gation. The interviews are recorded using a hand-held
+device, such as a multi-function phone with a suitable app.
+The audio files are submitted to an online transcription serv-
+ice. When the transcripts are received, usually within 24 to
+48 hours, a cover memo describing the date, participants
+and location is added. The interviews may be done in person
+or by phone using another app that records the call and pro-
+duces the audio files.
+
+Generally two or more rounds of interviews are accom-
+plished covering the full range of LENR research as well as a
+summary of the investigator’s pre-LENR background. They
+are conducted free-form to encourage the researcher to relate
+what he or she feels is most memorable. Emphasis is placed
+on making the recollection an enjoyable experience. More
+than one round of interviews has the advantage that the
+descriptions of events may vary, resulting in a more com-
+plete yet consistent description of the research trajectory.
+
+2.3. Timeline:
+Documentation of an investigator’s research record is most
+complete when a timeline of experiments and results can be
+constructed. The timeline is determined by examining the
+records and, particularly, by reviewing the interview tran-
+scripts as well as conducting follow-up conversations. A
+researcher’s timeline consists of phases and milestones that
+reflect his or her journey of LENR investigations. The basis of
+the milestones or turning points varies for different investi-
+gators and typically consists of his or her own experimental
+findings and progress, new ideas or insights, changes in
+sponsors and events in the LENR field. A major goal of the
+research timeline is to integrate the interview transcripts
+with the research record.
+
+2.4. Preservation:
+A researcher’s records are secured after they have been
+obtained and documented. Keeping the records available for
+more analysis and interpretation based on progress by the
+researcher or by new developments in the LENR field (and
+with concurrence of the researcher) is a principal objective of
+the LRDI. Both the participant’s records and the project doc-
+uments (memos and reports) are shared between the LRDI
+and the participant. This sharing is accomplished by high-
+capacity flash memory (thumb drive) or in the Cloud using
+commercially available storage such as Google Drive or
+Dropbox. In both cases the files are backed up on a high-
+capacity external hard drive for the LRDI.
+
+2.5. Reporting:
+As noted, memos are used to document each component of
+the research record as well as with the interviews of the
+investigator. Attachments, such as photos or long tables, are
+included in the memos as required to document the materi-
+als found. Project reports are prepared based on the memos,
+and are typically organized as follows: 1) introduction; 2)
+research record components; 3) interviews; 4) timeline; 5)
+future opportunities; and 6) project methods. Future oppor-
+tunities typically set forth actions to obtain additional infor-
+mation and conduct more in-depth analysis, such as more
+extensive descriptions of the records or additional detail in
+the timeline. The methods section describes the LRDI proce-
+dure and a list of the memos prepared during the project.
+
+The project report is submitted to the participant for
+review and approval. The report and memos are added to the
+other project files in the selected storage medium. Where
+needed, the report is prepared in stages, such as information
+collection, organization (timeline) and documentation.
+Appendices are used in the reports for interview transcripts
+and voluminous descriptions of records, such as long lists of
+publications.
+
+2.6. Future Opportunities:
+Nearly all LRDI projects are documented with suggestions of
+more that can be accomplished. As noted, the initial focus of
+a project is on a general description of the entire research
+record. The information can then be characterized more
+completely and in more detail in subsequent work. More
+interviews may also be conducted, such as for particularly
+significant events or findings. Additional visits to the partic-
+ipant may be necessary for the added records and interviews.
+The reports and other accomplishments of the projects may
+be presented or published, with concurrence by the partici-
+pants, under LRDI sponsorship at conferences.
+
+
+3. Pilot Project: Edmund Storms’ LENR Career
+
+The LRDI began with a pilot project for Edmund Storms,
+who was one of the earliest researchers to follow up on the
+1989 announcement. He began his LENR investigations
+while at Los Alamos National Laboratory (LANL), where he
+already had a 35-year research career (since the mid-1950s)
+at the time of the LENR announcement. He had worked on
+high-temperature materials primarily for the nuclear rocket3
+(Rover) and space reactor4 (SP-100) programs. This work led
+to his report on the refractory nitrides and carbides5 as well
+as his book on refractory carbides.
+
+Dr. Storms has conducted investigations and developed
+explanations for the phenomenon in the 30 years since the
+announcement. His most prominent publications are his
+two books, published in 20077 and 2014.8 He was honored
+(along with Michael McKubre) by Wired Magazine9 in 1998
+as one of the 25 people in the U.S. making a significant con-
+tribution to new ideas. He was awarded the Preparata Medal,
+the most prestigious award in the LENR field, in 2005. He
+has also co-authored a report demonstrating that LENR is
+science and not pseudoscience.10
+
+Dr. Storms has developed a novel explanation for LENR,
+referred to as the “nanocrack and hydroton” hypothesis,
+which is explained at length in his 2014 book. He proposes
+that numerous narrow—approximately one nanometer—
+cracks are formed by stress in the host material, such as pal-
+ladium. The cracks become occupied by deuterium or pro-
+tium nuclei (hydrogen nuclei with or without a neutron)
+that are held in the crack by negative charges on the walls of
+the crack. The hydrogen nuclei become arranged in linear
+structures termed hydrotons and vibrate at high frequency.
+
+During the cycles of the vibration, the nuclei approach each
+other closely—so closely that fusion occurs and some of their
+mass is converted to energy in each cycle. The energy is con-
+veyed from the hydroton to the host material as photons
+and causes the lattice to increase in temperature. The fusion
+energy, detected by the temperature increase, is referred to as
+“excess heat”—energy above (sometimes far above) what can
+reasonably be attributed to chemical reactions.
+
+This hypothesis, like others in the LENR field, has not yet
+been verified by reproducible experiments.
+Dr. Storms’ LENR research record is extensive and goes
+back to his earliest work at LANL. He has produced about
+125 publications and over 110 unpublished reports. He has
+thousands of electronic files on his current computer, CDs
+and DVDs, ZIP discs, VHS tapes, a retired external hard drive
+and 3.5-inch floppy disks. His hardcopy records are in 14
+hanging-file storage tubs.
+
+Dr. Storms’ lab was set up to perform LENR experiments
+using the electrolytic cell, gas loading and gas discharge
+methods. Most of the experiments are described in ten lab
+notebooks. He reviewed the notebooks and prepared a
+INFINITE ENERGY • ISSUE 150 • MARCH/APRIL 2020
+“Work History” summary in a spreadsheet that has 2,750
+entries. His LENR library has 150 books on the subject and
+over 6,000 electronic and hardcopy papers authored by him-
+self and nearly all of the other researchers in the LENR field.
+He has a website, LENR Explained,11 to present his books
+and other works, and he helped Jed Rothwell establish the
+LENR-CANR.org website12 based initially on his private col-
+lection of publications.
+
+Three rounds of interviews totaling more than 22 hours
+were conducted and transcribed covering Dr. Storms’ entire
+range of LENR investigations. He attended nearly all of the
+ICCF conferences from ICCF1 to ICCF18, and he has a near-
+ly complete collection of their proceedings as well as a large
+number of photos of the conference attendees and events.
+
+A timeline has been prepared for Dr. Storms’ LENR
+research career based on the records and interviews. It has
+eight phases consisting of periods of support from sponsors
+interspersed with self-supported investigations:
+1. LENR Work at Los Alamos National Laboratory (3/1989-
+2. Independent Investigation 1 (9/1991-12/1993)
+3. ENECO Support (1/1994-2/1998)
+4. Independent Investigation 2 (3/1998-6/2000)
+5. Lattice Energy Support (7/2000-2/2006)
+6. Independent Investigation 3 (3/2006-2/3007)
+7. Kiva Labs (3/2007-3/2012)
+8. Independent Investigation 4 (4/2012-12/2015)
+
+Four reports have been prepared for the Storms pilot proj-
+ect: 1) information collection;13 2) organization (timeline);14
+3) documentation;15 and 4) summary report.16 The project
+was reported at ICCF21 in 2018 as a poster.17 The Storms
+LENR Research Documentation Project has also been
+described on his LENR Explained website. The project report-
+ed Dr. Storms’ work through 2015, so a supplemental project
+is underway to extend the coverage for 2016 to 2018.
+
+
+4. Participants and Projects
+
+Participants in the LRDI vary greatly in their LENR research
+experience and types and quantity of records. Other vari-
+ables are the methods of recording experiments, kinds of
+storage media and accessibility of the records. The LRDI pro-
+cedure is flexible and is readily adapted to the various
+researcher situations. As noted, a project is set up under the
+LRDI umbrella for each participant or organization.
+
+Candidates for participation are identified based on con-
+tributions to the LENR research, level of interest in the LRDI,
+proximity to leaving the field and potential risks of loss of
+the records. The 11 projects with 15 participants to date, in
+addition to the Storms pilot project, are shown below.
+• Tom Claytor and Malcolm Fowler (Los Alamos National
+Laboratory, retired)
+• Sidney Kimmel Institute for Nuclear Renaissance (SKINR):
+Dennis Pease, Arik El-Boher, Graham Hubler
+• David Nagel (The George Washington University; Naval
+Research Lab, retired)
+• Mahadeva Srinivasan (Bhabha Atomic Research Center, retired)
+• Dennis Letts (LettsLab)
+• Melvin Miles (Naval Air Warfare Center, China Lake, retired)
+• Naval Research Lab: David Nagel, Graham Hubler, Ashraf
+Imam (all retired)
+• George Miley (University of Illinois, professor emeritus)
+• Fran Tanzella (SRI International, retired)
+• EarthTech International: Scott Little, Marissa Little (former staff)
+• Lawrence Forsley (Global Energy Corporation, U.S. NASA,
+The University of Texas at Austin)
+As noted, a supplemental project to extend the coverage
+of the Storms Pilot Project for 2016 to 2018 is also being per-
+formed. The other 11 projects are in various stages of the
+LRDI procedure, from initial site visit to draft versions of the
+report. Records have been collected, and interviews have
+been accomplished with each of the participants. Nearly all
+of the investigators have published reports, electronic and
+hardcopy files, and a LENR library, and most of them have
+labs and associated experimental records.
+
+
+5. Summary and Future Directions
+
+Realization of LENR and its benefits may be critical for the
+future of humankind. Now 30 years after the LENR
+announcement, prominent researchers are leaving the field.
+Given the importance of LENR, loss of their research would
+be a tragedy both to the field and to humanity. The LRDI is
+underway to mitigate this loss. A sound procedure has been
+developed and has been proven many times. The records of
+15 researchers are being documented. An LRDI status report
+was presented at ICCF22.18 A number of candidates have
+been identified for future LRDI participation.
+
+Future possibilities for the LRDI include presentations,
+reports, website preparation and other outreach initiatives to
+help make the case for LENR. More in-depth analysis of the
+records of current investigators, such as more detailed time-
+lines, may also be accomplished. A central repository could
+be developed for improved protection of the LENR research
+records. It would need to be secured from outside penetra-
+tion (hacking), protect researcher interests with confiden-
+tiality and be readily accessible by the researcher and others
+whom he or she designates.
+
+Most importantly, the records of the investigators need to
+be systematically reviewed and analyzed to help understand
+LENR, achieve consistent reproducibility and realize its ener-
+gy and other benefits.
+
+
+6. Acknowledgments
+
+Thanks go to the LRDI participants for their willingness to be
+a part of the effort and for their full support in making their
+projects
+a
+success.
+Gratitude
+is
+expressed
+to
+the
+Anthropocene Institute19 for support for LRDI expenses. The
+Energy Institute20 at The University of Texas at Austin has
+provided facilities and administrative support.
+
+Ed Storms not only provided information, advice and
+resources for the pilot project, but also has been a supporter
+and collaborator for several years before and after the pilot.
+David Nagel has given generously in both moral and mate-
+rial support. Thanks also go to Chip Groat, formerly of the
+Energy Institute, for being a mentor and helping advance
+the cause of LENR research. Jed Rothwell’s LENR-CANR.org
+website of references for the field has been invaluable for the
+LRDI projects.
+
+
+References
+1. https://lenr-canr.org/
+2. https://www.researchgate.net/
+3. Fishbine, B. et al. 2011. “Nuclear Rockets: To Mars and
+Beyond,” Los Alamos National Laboratory, National Security
+Science, Space Science Special Edition.
+4. DeMuth, S. and Parker, M. 2000. “SP-100 Space Reactor
+Pictorial Design Introduction,” Rev. 0. Los Alamos National
+Laboratory Report LA-KUR-00-6011, December.
+5. Storms, E. 1964. “A Critical Review of Refractories,” Los
+Alamos National Laboratory, LA-2942, March.
+6. Storms, E., 1967. The Refractory Carbides, Academic Press.
+7. Storms, E. 2007. The Science of Low Energy Nuclear Reaction:
+A Comprehensive Compilation of Evidence and Explanations
+about Cold Fusion, World Scientific Publishing.
+8. Storms, E. 2014. The Explanation of Low Energy Nuclear
+Reaction:
+An
+Examination
+of
+the
+Relationship
+Between
+Observation and Explanation, Infinite Energy Press.
+9. Wired Staff. 1998. “The Wired 25,” Wired Magazine,
+November.
+10. Storms, E. and Grimshaw, T. 2010. “Judging the Validity
+of the Fleischmann-Pons Effect,” Journal of Condensed Matter
+Nuclear Science, 3, 9-30.
+11. https://lenrexplained.com
+12. Rothwell, J. and Storms, E. 2003. “The LENR-CANR
+Website, Its Past and Future,” Proceedings of the 10th
+International Conference on Cold Fusion, August 24-29,
+Cambridge, MA, 939-942.
+13. Grimshaw, T. and Storms, E. 2017. “Cold Fusion
+Experiments and Theory Development: Documentation of Dr.
+Edmund Storms’ LENR Research Career, Stage 1 (Information
+Collection) Report,” April 18, http://lenrexplained.com/wp-
+content/uploads/2019/01/Storms_Stage1_2ndDraft_170418.pdf
+14. Grimshaw, T. and Storms, E. 2017. “Cold Fusion
+Experiments and Theory Development: Documentation of Dr.
+Edmund
+Storms’
+LENR
+Research
+Career,
+Stage
+(Organization) Report,” June 3, http://lenrexplained.com/wp-
+content/uploads/2019/01/Storms_Stage2_2ndDraft_170603.pdf
+15. Grimshaw, T. and Storms, E. 2018. “Cold Fusion
+Experiments and Theory Development: Documentation of
+Dr.
+Edmund
+Storms’
+LENR
+Research
+Career,
+Stage
+(Documentation)
+Report,”
+February
+http://lenrexplained.com/wp-content/uploads/2019/01/
+Storms_Stage3_2ndDraft_180218.pdf
+16. Grimshaw, T. and Storms, E. 2018. “Documentation of Dr.
+Edmund
+Storms’
+Years
+of
+Cold
+Fusion
+Research:
+Experiments,
+Explanations,
+and
+Related
+Scientific
+Contributions.
+Draft
+Summary
+Report,”
+May
+http://lenrexplained.com/wp-content/uploads/2019/01/
+Storms_LRDP_Summary_180502.pdf
+17. Grimshaw, T. 2018. “Documentation of Dr. Edmund
+Storms’ 29 Years of CF Research: Lessons Learned for Long-
+Term LENR Researchers,” Poster at the 21st International
+Conference on Cold Fusion, June 3-8, Colorado State
+University, Fort Collins, CO.
+18. Grimshaw, T. 2019. “LENR Research Documentation
+Initiative:
+Progress
+in
+Methods
+and
+Participants,”
+Presentation at the 22nd International Conference on
+Condensed Matter Nuclear Science (ICCF22), September 8-
+13, Assisi, Italy.
+19. https://www.anthropoceneinstitute.com/
+20. https://energy.utexas.edu/
+

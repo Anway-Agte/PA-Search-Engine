@@ -1,0 +1,105 @@
+INTRODUCTION
+
+We have tried to find the reaction system which has strong neutron emission
+with adequate reproducibility using many shapes of Pd electrode in the heavy
+water electrolysis. Till today, more than 30 Pd electrodes of different shapes
+have been examined under the almost same electrolysis conditions, under which
+we have detected appreciable neutron bursts using thin Pd plates as the cathode
+in three times with good reproducibility. Including these, only 6 cases gave
+neutrons including large neutron burst with more than 10a from a spiral Pd wire
+electrode. Recently, we detected an anomalous neutron bursts occurred five times
+periodically in a 140 hours operation with strong neutron emissions. In the
+present paper, the details of the neutron burst are described.
+
+
+EXPERIMENTAL
+
+The Pd electrodes used for the experiments were treated before the electrolysis as reviously reported. 1 The electrolytic cell was same as the previous one
+in principle, but modified as shown in Fig.!. The electrode of size 5 mm¢ and
+40 mm long Pd lod which absorbed D2 gas under 10 atm for 24 hours prior to the
+electrolysis was placed in the electrolytic cell imediately after the gas
+loading, and the electrolysis was performed in the constant current manner. The
+electrolyte was 250 ml of heavy water:99. 7% and in which Li metal was dissolved
+to contain 0.1 mole/dm3 of LiOD. The conditions of electrolysis were as
+follows; the current density is 0.24 ----- 0.27 mA/cm2, voltage ......, 3V, in ambient
+temperature of an airconditioned room. 
+
+Fig. 1 The electrolytic cell 
+
+Fig. 2 Crossectional view of
+neutron detecting system 
+
+The sectional view of the neutron detecting system is shown in Fig.2. The
+system has 1 % detection efficiency of thermal neutron which was calibrated by
+use of a 25 2Cf source. The frontal part of the system is oppened for the access.
+The fresh heavy water was added into the cell during the electrolysis to keep
+the level of the heavy water.
+
+
+RESULTS AND DISCUSSION
+
+The neutron counts detected from the present electrolytic cell are shown in
+Fig.3. The first neutron burst event happened 22 h 40 min. after the start of
+electrolysis operation and gave 59 neutron/10 min. which corresponds 4. 7 a to
+the standard deviation of the background neutron. After this, four neutron burst
+events were detected alomost periodically in each 20 hours. All of the neutron
+burst events gave appreciable neutron counts more than 5 a. In these events,
+the second event continued for 40 min. and the last (fifth) event continued for
+50 min. The number of the evaluated source neutron are 30800/40 min. and 177900/
+50 min. for the second event and fifth event, respectively. The details of the
+neutron burst in the fifth event are shown in Fig.4 
+
+Fig. 3 The neutron counts in the peridical neutron bursts 
+
+Fig. 4 The details of neutron counts in the 5th. event 
+
+The neutron burst data are summarized in Table 1. Here, we used the average
+neutron counts detected in 10 hours before and after the events as the background for each event.
+
+The fifth event had occurred from 136 hours after start of electrolyis and
+continued for 50 min. with the many neutrons detected. The most strong neutron
+burst observed in the second 10 min. and give 811 neutrons which correspond
+135 a standard deviation. The number of the source neutron evaluated from the
+detection efficiency (ca. 1%) of the 3He neutron countors is 177900 n/50 min.
+
+Table 1 The details of the periodical neutron burst
+
+The present meutron bursts show an anomously even as the cold fusion evidence
+in preodically occurring of the events in relatively short operation time,
+gradual increase of the number of neutrons and very strong evidence as seen in
+the 5th event.
+
+The reproducibility of the present event has been tested three times using
+the same electrolytic system, however, any further event could not be found as
+same as the other previous experiences of our group since 1989. We have carried
+out more than 18 runs experiments by the same experimental procedures with 12
+different shapes of Pd electrodes in the recent 10 months including
+some cases of the reproducibility tests, only two runs gave the appreciable
+neutron burst but no reproducibility. Thus, we concluded that the shapes of Pd
+electrode is not essencial point for the neutron burst phenomenon, rather some
+kind of irregurality caused by the electrolytic process in the homogenity of the
+Pd electrodes seems to be essencial point.
+
+The fusion rate is estimated to be 10- 21 fusion/d-d/sec. for the 5th. event
+from the d/Pd ratio of ca. 0.2, the source neutron number and the weight of
+original Pd electrode.
+
+
+FUTURE WORK
+
+After this finding, we employed a NE-213 (5 X 5 inch) liquid scintilation
+detector with n-y pulse shape discrimination to check the energy of neutrons in
+the neutron detecting system. Four other 3He detectors were also equipped to the
+neutron detecting system to set up the two channels of the neutron detction, one
+channel consists of 6 3He detectors and the other of 3 3He detectors. The total
+neutron detecting efficiency become 1.6 %. The NE-213 detector has been examined
+to have adequate sensitivity for high energy neutrons and the resolution power
+to n-y discrimination for 2. 45 MeV neutron. Tri ti um monitoring system has been
+alos examined to show the perfect recovery of tirtium with enough sensitivity.
+Further experiments shall be carried out to elucidate the anomalous nuclear
+phenomena occurred in d-Pd systems. [ IL DADO E TRATTO : ALEA IACTA EST]
+
+Reference: 
+T. Sato, M. Okamoto, P. Kim , 0. Aizawa and Y. Fujii, Fusion Technol.
+19, 357-363, (1991). 
+

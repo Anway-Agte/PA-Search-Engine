@@ -1,0 +1,141 @@
+1. Introduction
+
+Recently, Kim and Zubarev1 developed a general and realistic barrier transmission model which can accommodate simultaneously both non-resonance and Coulomb barrier transmission resonance contributions. The derivations for both cases will be presented. The resonance analysis culminates in a reaction barrier transparency (RBT) which is due to the interaction of the transmitted and reflected waves yielding constructive interference in a narrow energy regime. Although RBT may have significant consequences for a wide variety of fusion problems, we will explore cold fusion applications here.
+
+
+2. Conventional Parameterization
+
+The conventional protocal for determining low-energy (< 20 keV) fusion cross-sections σ(E) is to extrapolate experimental values of σ(E) measured at high energies using the parameterization2
+where TG(E) = exp[–(EG/E)1/2], EG = (2παZ1Z2)2μc2/2 with the reduced mass μ = m1m2/( m1 + m2) and E is the center-of-mass (CM) kinetic energy. The transmission coefficient (“Gamow” factor) TG(E) results from the approximation E << B (Coulomb barrier height). This technique is used for nuclei in non-resonance reactions such as in standard solar model, and magnetic and inertial confinement calculations.
+
+In order to generalize the conventional Gamow transmission coefficient, we introduce for the fusing system the following potential which consists of an interior square-well nuclear potential and an exterior Coulomb repulsive potential,
+For the potential barrier given by eq. (2), an approximate S-wave (   0 ) solution for T(E) can be calculated in the Wentzel-Kramers-Brillouin (WKB) approximation as3
+where B is the Coulomb barrier height, B  Z1Z2e2 / R and ra is the classical turning point, ZZ e2 /r E.NotethatTWKB(E) isdefinedonlyfor EB andthatTWKB(E)1.The
+12aRR
+traditional Gamow transmission coefficient used in eq. (1) can be obtained from eq. (3) with R = 0 (or equivalently E << B):
+
+
+3. Kim-Zubarev Parameterization
+
+TG(E), eq. (4), represents the probability of bringing two particles to zero separation
+distance. This implies that the Coulomb barrier Z1Z2e2 /r also exists inside the nuclear
+surface of radius R, which is unphysical and unrealistic. In order to accommodate more realistic transmission coefficients. Kim and Zubarev1,4 have recently introduced a more general parameterization for σ(E) based on the P-matrix parameterization of the fusion reaction S-matrix.
+
+To obtain improved and more general transmission coefficients, we use partial wave solutions of the Schrodinger equation. For the potential described by eq. (2), a general solution of the radial Schrodinger equation for the exterior wave function in the exterior region (r ≥ R) is given by5
+where
+ c is the Coulomb phase shift and u() is the complex conjugate of u() . F and G are
+
+the regular and irregular Coulomb wave functions normalized asymptotically r   as
+where γ is the Sommerfeld parameter,   Z Z e2 / and k is related to E by 12
+E2k2 /2.
+In terms of the partial wave S-matrix, l , in eq. (5), the fusion reaction total cross-
+section  E is given by5 r
+
+To accommodate the statistical factor and to compensate the two-body approximation involved in deriving eq. (8), we introduce the partial wave S-factor, Sl E, which is expected to be nearly energy-independent or weakly energy-dependent, and rewrite
+where Sl E is the l-th partial wave S-factor and
+In order to determine the partial wave S-matrix l in eq. (5), we introduce the P-matrix as the logarithmic derivative of the interior wave function ulint r at r = R:
+where Pint and Pint  0 are the real and imaginary parts of Pint , respectively. For the lll
+exterior wave function, the P-matrix at r = R is defined as
+We introduce the P-matrix for u() as l
+where  and s are the real and imaginary parts of p() , respectively. By matching the lll
+logarithmic derivatives at r = R, i.e., Pint  Pext , we obtain1,4 ll
+In the Kim-Zubarev parameterization of T E, Pint and Pint are to be lll
+parameterized directly or in terms of a potential model wave function for the interior region (r < R).
+
+
+4. Reaction Barrier Transparency
+
+We note that the reaction barrier transparency (RBT), Tl E1, can occur when
+  Pint and s  Pint . For simplicity, our discussion in this paper will be limited to
+llll
+the S-wave case, l = 0, in the following. Generalization to the l  0 cases is straight forward.4
+For the potential given by eq. (2), a general solution for the interior (r ≤ R) wave function is
+where 2K2 /2V E with E2K2 /2.Weintroducetworealparameters and 00
+0 andwritec0ei001.
+If the lowest partial wave (l = 0) contribution is expected to be dominant for low energies (≤ 20 keV), then the total cross-section  E  is given by
+
+T KZ (E) , eq. (20), is described by four parameters, V , R,  and  . T KZ (E) contains 0 0000
+both non-resonance and resonance contributions, and also the interference term between them. The four parameters can be determined from the cross-section containing both a resonance part (resonance energy and width) and a non-resonance background.
+
+WenotethatTKZ(E)1whenRBTcondition, KRand s KR,issatisfied 0 0201
+in eq. (20). The resonance energy E (for T KZ (E )  1) and width  are determined by r0r
+the parameters  0 and 0 for fixed values of V0 and R. The resonance behavior of
+T KZ (E) , generated from fitting  E with particular values of parameters, is a reaction
+0
+barrier transparency (RBT) due to an interplay of Coulomb barrier and nuclear interaction, and is to be distinguished from conventional resonances such as narrow neutron(0 0)captureresonances,whichareprimarilyduetothenuclearinteraction.
+The resonances present in  E, which are shown by some related experiments to be of a
+non-RBT type, are to be treated by conventional methods. Very broad resonance behaviors for cross-sections observed in many nuclear reactions6 such as for reactions 2H(D,p)3He, 2H(D,n)3He, 3He(D,p)4He, and 3H(D,n)4He may correspond to RBT resonances and may yield different low-energy extrapolations from those obtained by the use of the conventional transmission coefficient, TG E, since the low-energy tail of the
+RBT resonance is expected to be different from that of the conventional case.
+
+For the case of a non-resonance cross-section,   0 , and T KZ (E) , eq. (20), reduces to
+the result given by Blatt and Weisskopf5,
+00
+ 
+It should be noted that TBW E, eq. (25), does not have a resonance structure while T KZ (E) does.
+
+In the previous parameterizations of  E  the resonance part of  E  is parameterized with the Breit-Wigner resonance formula to be subtracted from the experimental data2,3 or
+included in S(E) in eq. (1).6 The non-resonance formula, eq. (1), is then used to fit the resultant “data.” Our more general formula for T KZ (E) , eq. (20), with eq. (19), will allow
+us to parameterize the experimental data exhibiting the RBT resonance behavior by the
+same formula, eq. (19), thus avoiding separate use of the Breit-Wigner formula for subtracting the resonance contribution from  E. Furthermore, the interference term
+between the resonance and non-resonance contributions is automatically included in eqs. (19) and (20). The formulation described by eqs. (9), (15), (19), and (20) is a generalization of eq. (1) and thus can provide a more realistic and general parameterization method for low-energy nuclear fusion cross-sections needed for the solar neutrino and astrophysical calculations, magnetic and inertial confinement fusion calculations, and low-energy (cold) fusion rate calculations.
+
+
+5. Fusion Rate Estimates with Narrow RBT
+
+Since cos2KR0(ineqs.(23)and(24))and sin2KR0(ineq.(23))satisfies cos22KR sin22KR 1, canbeexpressedintermsof K, K and K as
+00012
+Forthecaseof K2R0 and K1RNs0 (RBTcondition)whereN>0isareal constant, we obtain using eq. (26)
+and
+After determining  0 from eq. (27), 0 can be determined from
+From eq. (20), the maximum value of t KZ E  is then given by 0
+whichyields Tmax(E)1 forN=1and Tmax(E)1otherwise. 00
+
+Assuming that T KZ (E) , eq. (20), has a Breit-Wigner resonance form with a width  at a 0
+resonance energy E  Er , the width  at low energies can be written as4
+  s E  K R107 eV. Since s E  0.3T E  and K R  Ns E , we obtain for 0r1 0rGr10r
+N >> 1
+using T KZ (E)  4 / N from eq. (30). Since T E  is very small near ambient 0Gr
+temperature, kT  Er  0.025 eV,  is also very narrow;  = 10-10 eV and  = 100-100 eV for TKZ (E )1017T (E )and TKZ (E )10107T (E ),respectively.Precisevaluesof
+0rGr0rGr
+ for different fusion reactions can only be determined by experiments at present.
+For the fusion cross-section  E S0T KZ E/ E SE S0= 53 keV-barns for 0
+D(D,p)T and D(D,n)3He, the fusion rate can be estimated as
+
+Since the conventional estimate is given bywe can conclude  new   conv for the equilibrium Maxwell-Boltzmann distribution
+f( ) at ambient temperature of kT ≈ 0.025 eV. However, non-equilibrium energy sweeping through the narrow RBT may result in a greatly enhanced fusion rate7 as in cold fusion experiments. Recent observations8-11 of anomalous neutron bursts during thermal cycling with deuterated high TC superconducting materials may be attributable to energy sweeping involving a non-equilibrium state during the superconducting phase transition.
+
+
+6. RBT Mechanism for Other Fusion Reactions
+
+InviewofournewresultTKZ(E),eq.(20)orT (E),eq.(15),itisappropriatetoask 0l
+whether some fusing systems can support an RBT at low energies near the fusion threshold. This can only be answered at present by experiments. It should be emphasized that RBT cold fusion is possible not only with deuterium but also with hydrogen since
+T KZ (E) , eq. (20), is applicable to both cases as long as the RBT exist in fusing systems 0
+involving deuterium or hydrogen, such as in nuclear fusion reactions with the entrance channels, D + D, D + Li, D + Pd, H + D, H + K, etc.
+
+Given the RBT mechanism for cold fusion the question remains why fusion products are observed in cold fusion experiments at a much lower level than commensurate with the observed excess heat. This question can only be addressed separately for each fusion reaction since the exit channels are different for each reaction. The anomalous excess heat and tritium production reported in many electrolysis or similar experiments may not be due to D - D fusion, but may include nuclear fusion with hydrogen and/or impurity
+nuclei which are always present. This scenario and others such as 6 Lid, p7 Li ,
+5
+Lid, He He , etc. may explain the results of excess heat, tritium and neutron
+production observed in heavy water(with Li) electrolysis experiments. Scenarios for other cases involving both deuterium and hydrogen may be possible and need to be investigated.
+
+
+7. Summary and Conclusion
+
+Our progressively more generalized parametric representation of Coulomb barrier tunneling yields significant improvements upon the conventionally used Gamow tunneling coefficient. This analysis yields RBT which is due to the interaction of the transmitted and reflected quantum waves yielding constructive interference in a narrow energy regime. RBT appears to have important ramifications for cold fusion.
+
+
+8. References
+
+1. Y. E. Kim and A. L. Zubarev, “Coulomb Barrier Transmission Resonance for Astrophysical Problems”, Purdue Nuclear Theory Group Report PNTG-93-8 (August 1993), to be published in Modern Physics Letters B.
+2. W. A. Fowler, G. R. Caughlan, and B. A. Zimmermann, “Thermonuclear Reaction Rates”, Annual Review of Astronomy and Astrophysics, 5, 525 (1967).
+3. Y. E. Kim, M. Rabinowitz, J.-H. Yoon, and R. A. Rice, International Journal of Theoretical Physics, 32, 301 (1993).
+4. Y. E. Kim and A. L. Zubarev, “P-Matrix Parameterization of S-Matrix for Fusion Reaction Cross-Section”, Purdue Nuclear Theory Group Report PNTG-94-8 (1994), to be published.
+5. J. M. Blatt and V. F. Weisskopf, Theoretical Nuclear Physics, Wiley, New York (1952), Chapter VIII.
+6. G. S. Chulick, Y. E. Kim, R. A. Rice, and M. Rabinowitz, “Extended Parameterization of Nuclear-Reaction Cross Section for Few-Nucleon Nuclei”, Nuclear Physics, A551, 255 (1993).
+
+7. Y. E. Kim, “Time-Delayed Apparent Excess Heat Generation in Electrolysis Fusion Experiments”, Mod. Phys. Lett. 6, 1053 (1991).
+8. F. Celani et al., “Search for Neutron Emission from Deuterated High Temperature Superconductors in a Very Low Background Environment”, Proc. of the Second International Conference on Cold Fusion, Como, Italy, June 6-July 4, 1991 (Italian Physical Society Conference Proceedings, Vol. 33), p. 113.
+9. F. Celani et al., “Measurements in the Gran Sasso Laboratory: Evidence for Nuclear Effects in Electrolysis with Pd/Ti and in Different Tests with Deuterated High Temperature Superconductors”, AIP Conf. Proc. No. 228 (1991), p. 62.
+10. G. Lipson et al., “Possible Cold Nuclear Fusion in Deuterated Ceramic YBa2Cu3O7x “, Sov. Phys. Dokl. 36, 849 (1991).
+11. G. Lipson et al., “Neutron Generation in YBa2Cu3O7 Dy High Temperature
+Superconductors Stimulated by a Superconducting Phase Transition”, Sov. Phys. Dokl. 38, 119 (1993).

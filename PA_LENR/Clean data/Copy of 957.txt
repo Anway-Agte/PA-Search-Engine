@@ -1,0 +1,137 @@
+1. Introduction
+
+Most of the Cold Fusion experimental work has been carried out without
+paying much attention to the physicochemical properties of the metal matrix. as they
+were usually run with commercial samples. However, the purity and structural
+properties of the matrix sample have a strong effect on its hydrogenation/deuteration
+behavior1,2. For example, gaseous impurities can reduce the maximum hydrogen
+uptake and influence the mobility of the hydrogen atoms. Therefore, we think that the
+lack of reproducibility in Cold Fusion experiments could be related to some non
+controlled characteristic of the metal matrix, as was evidenced by the dependence of
+reported results on the commercial batch production number3. Considering this scene,
+we have been working on the production of very pure titanium films of wellcontrolled characteristics to be used in Cold Fusion experiments.
+
+
+2.Film Growth and Characterization.
+
+Titanium films were grown by a modified Iodide Process. This technique is
+based on the thermal decomposition of Til<1 vapors according to the overall reaction
+Til4 +-+ Ti +4I. Its major success comes from the fact that the obtained material is
+nearly free of oxygen, nitrogen and carbon, as these gases do not react with iodine.
+
+In our experimental system, a ·flow of iodide vapors is passed over a tungsten
+ribbon filament ( 40x2x0.025 mm) electrically heated up to 1100-1500 °C and located
+in a Pyrex glass chamber. The quantity of titanium deposited mass is monitored on
+line by accurate measurements of the electrical resistance variations of the filament.
+The obtained samples have an average titanium mass of 60 mg to reach a final
+thickness about 200 µm. The films can be deposited at distinct filament temperatures
+and mass deposition rates, by suitable adjustment of the electrical current and TiI4
+vapor pressure. When the titanium deposition is finished, the filament chamber is
+sealed off. Thus, residual iodine and TiI4 arc taken away and the film is never exposed
+to the external atmosphere avoiding its superficial oxidation. A more detailed
+information about the sample preparation system is given clsewhere4.
+
+The obtained films were analyzed by EDAX (energy-dispersive analysis of Xrays) and XRD (X-Ray diffraction), and observed by SEM (scanning electron
+microscopy). Its hydrogenation behavior was also studied in an external system5
+,6. The main feature yielded by these analyses is the strong diffusion of the tungsten
+substrate into the deposited titanium films depending on the growth rate and
+temperature . Due to the tungsten diffusion the obtained films exhibit special
+physicochemical characteristics compared to pure titanium. It was determined by
+XRD that the high temperature crystallographic structure of titanium W-titanium
+phase, BCC) is stabilized when tungsten exceeds a certain concentration ( ~8 at%)
+whereas the common a-phase (HCP) is presented when tungsteri concentration is
+lower than this value. In relation to their hydrogenation behavior, a large hysteresis
+effect was observed in the �-8 plateau of the P-X diagram that increases as tungsten
+diffusion does. However, the hydrogenation kinetics of the films does not differ much
+from pure titanium as the diffusion coefficients of hydrogen in these films have been
+found to be, at most, an order of magnitude lower than that for pure titanium.
+
+Finally, it is worthy to comment that the titanium deposition rate has also a
+significant influence on the morphological characteristics of the films. Slow
+deposition rates produce a very compact bulk structure and high crystallinity, while
+fast deposition rates can even develop macroscopically cavities inside the films. 
+
+
+3.Cold Fusion experimental setup and features.
+
+Once the film has been grown, the filament chamber is joined to the "Cold
+Fusion" experimental setup, which is sketched in figure 1. Three different parts can
+be distinguished in this arrangement: the hydrogenation line, the neutron detection
+system, and the electrical control system of the sample.
+
+The hydrogenation line, constructed in S.S (316) and Pyrex glass, behaves as a
+Sieverts type apparatus. The entire system can be evacuated to 10-6 torr by means of a
+turbomolecular pump and it is equipped with Pirani, Penning and Piezoresistive
+gauges and a quadrupole mass spectrometer (Balzers QMG 064). In the Pyrex line, a
+magnetic striker is located to open the filament chamber after the system is evacuated. 
+Several valves allow the entry of hydrogen or deuterium in the chamber by doses. 
+
+The neutron detection system comprises two liquid scintillator detectors: a 
+BC501, properly shielded with a 10 cm thick wall of Pb, and a NE2 l 3. Far from the 
+experiment, we have installed a Br3 detector (22020 Alnor) to monitor possible
+variations of the neutron background. For the sample-detectors configuration our 
+neutron detection efficiency is equal to 0.5%. Neutron energy and time spectra are 
+eventually monitored in different MCA (Canberra). 
+
+The electrical control of the filament allows to pass an electrical DC current 
+through the film while two tungsten wires (25 µm OD), welded at its edges, serve as 
+two probes for determining the voltage drop in the film. This configuration constitutes 
+a four probe system. The electrical current is applied by a DC power supply 
+(Keenwood 2036D) which is operated manually or controlled by a function generator. 
+
+In addition, an electrically heated furnace or a liquid nitrogen container can be placed 
+around the filament chamber to attain temperatures from -196 to 300°C. All the 
+electrical and pressure parameters are finally monitored by a PC. 
+
+Figure 1. Sketch of the "Cold Fusion" setup. 
+
+This experimental system provides very interesting new highlights. Electrical 
+currents up to 12 A can be passed through the sample that is heated up, in this way, to 
+l 500°C. When using the external liquid nitrogen container, sample temperature is
+cooled down, at least, at -l 00°C. Hydrogen uptake is measured by the drop of the
+hydrogen pressure and is correlated with filament resistance variations. Besides,
+absorption and desorption cycles can be done under controlled rates by electrical
+heating of the samples. Nevertheless, as an electrical current can be passed through the
+sample during its hydrogenation, this system resembles an electrochemical Cold 
+Fusion experiment. This fact probably constitutes the principal highlight of this 
+arrangement. In addition, hydrogen/deuterium diffusion coefficient can be made very 
+similar to those attained in the Pd hydrogenation in electrochemical cells, by heating 
+the Ti samples at 3OO-5OO°C. Furthermore, both 0-Palladium hydride and 0-Titaniurn 
+hydride present the same crystallographic structure (FCC) at these circumstances. 
+
+Considering the well-known physicochemical properties of the films described 
+before it will be able to relate the possible nuclear reactions with their characteristics. 
+In addition, it should be remarked that the presence of the tungsten substrate will 
+proportionate good mechanical strength to the film during loading-unloading 
+hydrogenation cycles as tungsten does not absorb appreciably hydrogen. 
+
+
+4. Summary
+
+A novel experimental system for the production of titanium samples has been 
+developed and it can be adapted to Cold Fusion experiments. This system provides a 
+good control of the physicochemical properties of the metal matrix and produces films 
+with low content of gaseous impurities even at a superficial level. A wide field of Cold 
+Fusion experiments in the gas phase can be run with the described setup and, under 
+certain circumstances, deuterium loading can be done in a very similar way to that 
+used in electrochemical cells by applying electrical current to the films. We feel that 
+all this scheme will help to obtain interesting and reproducible results in the very next 
+future. 
+
+
+References 
+
+1. Alefeld and Volk!, Hydrogen in Metals 11. Application-Oriented Properties, p. 305,
+Springer Verlag, Berlin, Heidelberg, New York (I 978).
+2. Fukai, The Metal-Hydrogen System, Basic Bulk Properties. Springer Verlag, p.43,
+Berlin, Heidelberg (1993).
+3. Ikegami, Frontiers a/Cold Fusion ps 21,79. Universal Academy Press Icn., (1993).
+4. Cuevas, Fernandez, Alguer6 and Sanchez, "On the Necessary Experimental
+Conditions to Grow Titanium Films on Hot Tungsten Filaments Using Titanium
+Tetraiodide", to be published in J. Alloys and Compounds.
+5. Cuevas, Fernandez, Alguer6 and Sanchez, "The Influence of Tungsten Substrates
+on Hydrogen Absorption by Iodide Titanium Films", to be published in J. Alloys
+and Compounds.
+6. Fernandez, Cuevas, Alguer6 and Sanchez, "Influence of preparation conditions of
+titanium hydride/deuteride TiHx(Dx) (x ;:::;: 2.00) on the specific heat around the 8-£
+phase transition", to be published in J. Alloys and Compounds.

@@ -1,0 +1,123 @@
+1. Diagonosis of GD neutrons
+
+1.1 The characteristic spectra of the pulse height distribution (abbr. CSPHDs) for 10B (n,
+a. )7 Li# reaction:
+First we slowed part of the GD neutrons down to thermal neutrons. Thermal
+neutrons reacted with 10B in two channels as follows: 
+
+10B + n -> a. + 7U# +2.31 MeV (93.9% )
+
+10B + n -- a. + 7U +2.79 MeV ( 6.1%)
+
+So thermal neutrons would produce two kinds of CSPHD which expressed
+characteristic of the two said reaction channels. The CSPHDs of the GD neutrons and
+of the Am-Be source neutrons had been measured respectively with BF 3 neutron
+detectors, as shownin figure 1. 
+
+1.2 The filtering of thermal neutrons :
+The thermal neutrons slowed down from GD neutrons were measured by the au 
+thermoluminescence films. In order to differentiate this kind thermal neutrons, Cd films 
+mm 
+thickness) 
+were 
+used 
+as 
+thermal 
+neutron 
+filters 
+and 
+the 
+au 
+thermoluminescence films were irradiated both in the covering cadmium and in non­
+the covering cadmium. For estimating influence of -v rays, those thermoluminescence 
+films of au and 7U were irradiated simultaneously. The sensitivities of the au and 7U
+thermoluminescence films to -v rays were calibrated with -v source in advance. The 
+difference coefficient of the said two sensitivities, i.e. Nr(aU) / Nr(7U), was 1.13. 
+
+The thermoluminescence films were irradiated by the GD neutrons . Pb plate (5 mm 
+thickness) was used to eliminating X rays background from gas discharge process and 
+to increasing thermalization effect of polythene to GD neutrons. 
+
+The background counts of au thermoluminescence films originated from the 
+following two aspects. one was natural background counts, which could be cut with 
+the background counts of a set of thermoluminescence films that were not irradiated. 
+
+The other was -v background counts, which could be estimated with the counts of 7U 
+thermoluminescence films that were irraditated simultaneously. 
+
+The results of GD neutrons measurement were listed in table 1. The experimental 
+results showed: (1) the counts of au thermoluminescence films in non-the covering 
+cadmium were higher than those of 7U thermoluminescence films; (2) the counts of au
+thermoluminescence films in the covering cadmium were equal to that of 
+7U 
+thermoluminescence films within the range of experiment error. 
+
+1.3 n--v discrimination spectra :
+Neutrons were differentiated from -v rays by an n--v discrimination technique with 
+NE-213 organic liquid scintillation neutron pectrometer. This device was also used to 
+measuring the n- -v discrimination spectra from an Am-Be neutron source, an 22Na -v
+source and the gas discharge facility (here were the background -v rays). The results 
+of measurement were shown in figure 2. 
+
+1.4 Neutron energy spectra :
+The neutron energy spectra of GD neutrons have been measured with NE-213 
+organic liquid scintillation neutron spectrometer by a n--v discrimination technique . A 
+0.5 mm thick Cu film was placed in front of the spectrometer, for eliminating the :
+influence of strong X rays (27 keV) from the gas discharge facility. The recoil proton 
+Neutron energies were calibrated with 22Na source. The measurements of recoil
+proton spectra were shown in figure 3. 
+
+The neutron energy spectra, which were solved from the recoil proton spectra and 
+those relevant respond functions, were shown in figure 4. 
+
+The GD neutron energy measured in experiments and the D-D neutron (90 ° 
+direction) energy were both 2.38 ± 0.15 MeV, which agreed with the average energy 
+
+2.45 MeV of normal D-D reaction neutrons within the range of experiment error. :
+
+1.5 The comparative experiments of hydrogen discharge :
+There were not neutrons detected in hydrogen discharge under otherwise equal 
+conditions. 
+
+
+2. The measurement of GD neutron yield
+
+The GD neutron yield was measured by using BF3 counting devices. The counting
+mode of the BF3 counting devices was anticoincidence mode in order to eliminating 
+influence of electromagnetic disturbance and high voltage sparking. For this purpose, 
+a "simulating BF3 neutron detectors" system was designed to cooperate with the 
+"signal BF3 neutron detectors" system. The two system formed an anticoincidence 
+counting system. 
+
+The efficiency of the BF 3 neutron counting devices, which was calibrated with Am-
+Be neutron source, was 8.33 x 10-3. The time dependence of GD neutron yield was 
+shown in table 2. 
+
+
+Reference 
+
+1. Wang Dalun, Chen Suhe, Fu Yibei, et al. Chinese Joural of Atomic and
+Molecular Physics, 1993;10(3):2789.
+
+2. Wang Dalun, Chen Suhe, Fu Yibei,et al.High Power Laser and Particle
+Beams, 1993;5(3):333.
+
+3. Karabut A B,Kucherov Ya R,Sawatimova I B,Phys Lett, 1992;A170:265.
+
+4. Nobuhiko Wada,Kunihide Nishizawa,Jap J Appl Phys, 1989;28(11 ):2017.
+
+
+Fig I. Characteristic spectra of the pulse height 
+distribution for IOB (n,a )7Li* reaction 
+
+Fig 2. n--, discriminating spectra 
+of gas-discharge neutron 
+
+Fig 3. The recoil proton spectra produced 
+by gas-discharge 
+
+Fig 4. The neutrons spectrum produced by gas-discharge 
+
+Table 1. The measurable result of meutron detector for 6Li thcrmolaminesccnce 
+
+Table 2. Time dependence of gas-discharge neutrons 

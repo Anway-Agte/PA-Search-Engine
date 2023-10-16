@@ -1,0 +1,620 @@
+INTRODUCTION
+
+Calorimetric techniques have widely been used to
+study thermochemical properties of both static and
+reacting systems with great success. A great deal of
+attention has been drawn to this experimental method
+recently as a result of the announcement by
+Fleischmann and Pons last year [1] that they had
+observed the generation of large amounts of excess
+heat when deuterium is electrochemically inserted
+into palladium. This paper describes the design and
+performance characteristics of a new type of
+isoperibolic calorimeter that has been employed for
+heat flux measurements during the electrolysis of
+both light and heavy water upon palladium cathodes.
+
+The word "isoperibol" denotes uniform
+surroundings. So, isoperibolic calorimetry refers to
+methods in which thermal energy is transferred from
+a heat source to a surro unding heat sink that is
+maintained at a constant temperature. It is generally
+operated in a steady state power balance mode. When
+applied to electrolysis systems, heat is typically
+generated within the electrochemical cell and
+transferred through a intermediate thermallyconducting
+layer to a surrounding water bath held at
+constant temperature. Under steady state conditions,
+a temperature distribution is established in which the
+temperature difference across the thermally
+conducting layer transports heat at a rate that just
+balances the power generated within the
+electrochemical cell. Thus, in principle,
+measurement of the temperature difference between
+the cell and the surrounding bath provides
+information about the thermal power generated in the
+electrochemical cell, Ptherm- This can be simply
+expressed as
+Ptherm = K (T1 - T2) (1)
+where K is the calorimeter calibration constant, and
+T1 and T2 are the temperatures of the cell and bath.
+
+As will be shown below, if the electrical power
+applied to the cell causes a chemical or
+electrochemical reaction to occur that involves a
+change in the enthalpy of the system, the thermal
+power generated Ptherm is not equal to the applied
+electrical power Papp! . This is described as a
+thermodynamically "open system", and is the case if
+the gaseous products of the electrolysis reaction are
+allowed to escape. As a result, the temperature
+difference between the cell and the surrounding bath
+is less than it would be if the applied electrical power
+produced only Joule heating.
+
+On the other hand, if a thermodynamically "closed
+cell" design employing an in-cell recombination
+catalyst is used, so that no enthalpy is transported out
+of the system, Ptherm and Papp! will be equal if
+there is no other heat generation or absorption
+process present. This is thus a conceptually simpler
+situation, and any measured difference between the
+input and outpu t powers must have some other
+origin. One possibility is that it might be due to some
+additional power generation process taking place
+inside the electrochemical cell, as proposed by
+Fleischmann and Pons [ 1].
+
+
+CALORIMETER DESIGN 
+
+A new type of isoperibolic calorimeter has been 
+designed in which various issues such as the 
+influence of the physical locations at which heat is 
+produced and at which the temperatures are measured 
+during both calibration and operation, and the 
+magnitude of the stirring of the electrolyte fluid are 
+not relevant. 
+
+The new design consists of two concentric heavy 
+aluminum cylinders that are separated by a well 
+defined thermally conducting layer. 
+The 
+electrochemical cell fits snugly inside the axial hole 
+of the inner cylinder. Under steady state conditions, 
+essentially all the heat generated within the 
+electrochemical cell passes to the external 
+environment radially through the surrounding 
+cylinders. 
+
+Instead of relying upon measurement of the 
+temperature within the electrochemical cell itself, as 
+well as of the assumed homogeneous environment, 
+this design involves the measurement of the 
+temperatures of the two aluminum cylinders. 
+Because of their dimensions and excellent thermal 
+conductivity, the aluminum cylinders provide 
+temperature uniformity. Thus possible sources of 
+error related to issues such as the amount of stirring 
+and the locations of the heat sources and temperature 
+measurement within the electrochemical cell are 
+avoided. 
+
+The design of this new isoperibolic calorimeter is 
+shown schematically in Figure 1. The inner (T1) 
+aluminum cylinder has an outer diameter of 2 inches 
+and an inner diameter of 1.17 inches. It is 4 inches 
+long, and weighs about 365 g. The outer (T2) 
+aluminum cylinder is 7 inches long and weighs 958 
+g. Its inner diameter is 2.25 inches, and its outer
+diameter, 3.0 inches. Thus the gap across which the
+heat conduction takes place, and the temperature
+difference is measured, is 0.125 inches. The
+container for the electrochemical cell that fits snugly
+inside the (T1) cylinder is a quartz tube 1.14 inches
+(29 mm) in outside iliameter and 4 inches long.
+
+The inner (T1) cylinder housing the electrochemical 
+cell is mounted on Teflon supports and placed 
+concentrically inside the outer (T2) cylinder in such a 
+way that 1.5 inches of vertical space is left above and 
+below the inner cylinder. This vertical space above 
+and below as well as the 0.125 inch wide radial gap 
+between the two cylinders is packed with Al203 
+powder. This thick layer of Ah03 powder insulation 
+above and below the cell and inner cylinder forces 
+the heat to be transfered in the radial direction across 
+the gap between the two cylinders. The effective
+thermal conductivity of this Al203 powder, which 
+has a particle size range of 50-200 mm, was 
+experimentally determined to be about 1.6xI0-3 
+W/cm.°C. 
+
+Figure 1. Schematic design of the concentric cylinder 
+isoperibolic calorimeter with the external thin sheet 
+Joule heater wrapped around the electrochemical cell 
+and inserted inside the inner aluminum cylinder.
+ 
+Three small thermocouple holes 1/16 inches in 
+diameter were drilled vertically down to half-height 
+of each aluminum cylinder. The holes are located at 
+midpoints of the wall thickness of the cylinders and 
+are spaced 120° circumferentially from each other. 
+Copper-constantan (Type T) thermocouples were 
+firmly fixed into these holes so as to make good 
+physical contact with the aluminum. A few drops of 
+silicone oil were put at the bottom of these holes to 
+enhance the 
+thermal contact between the 
+thermocouples and the aluminum cylinders. The 
+thermocouples are used in a differential mode such 
+that each calorimeter contains four pairs of 
+thermocouples. In each case, the outer members are 
+copper, so as to avoid any thermoelectric effects 
+when they are joined to the measuring circuitry. Two 
+pairs are connected between the inner (T1) and outer 
+(T2) aluminum cylinders to sense the temperature 
+difference between the cylinders. The other two pairs 
+of thermocouples are connected between each 
+aluminum cylinder and the surrounding constant 
+temperature water bath. Thus all possible adverse 
+thermoelectric contributions from dissimilar contacts 
+are eliminated. The linear response of these T-type 
+thermocouples is 39 mV/°C. A 6 1/2 digit Keithley 
+Model 193A microvoltmeter is used for reading the 
+thermocouple output and it thus provides a resolution 
+of about 0.025 °c. 
+
+Eight such calorimeters have been built and tested. 
+Their 1/e time constants were determined from their 
+transient response to step changes in the level of the 
+input power, and were found to range between 13 
+and 15 minutes. 
+
+
+ELECTROCHEMICAL CELL DESIGN 
+
+The electrochemical cells used in this work are 
+thermodynamically "closed" cells, i.e., they contain 
+an internal recombination catalyst made of finely 
+divided Pt supported on Teflon with a nickel backing 
+to recombine the D2 and 02 formed by the 
+electrolysis and return it by gravity back into the 
+electrolyte. In contrast, the gaseous products of 
+electrolysis are vented off to the outside in "open" 
+cells. 
+
+The cells were connected externally to silicone oil 
+bubblers by plastic tubing. This served two 
+purposes. One is to prevent atmospheric moisture to 
+diffuse back into the electrolyte of the electrochemical 
+cells, which contain about 20 ml of 0.1 M LiOD in 
+D2O. This is an important consideration since D2O 
+attracts light water strongly, and hydrogen is 
+selectively absorbed into the Pd cathode.The other 
+reason for the bubbler is to allow the escape of gas in 
+the amount of uncombined oxygen. Observation of 
+the time behavior of the bubble evolution provided 
+information about this process, and showed that it 
+ceased as the Pd cathode became saturated with 
+deuterium. 
+
+The Pd cathodes were prepared by repeated arc 
+melting in a gettered argon atmosphere, followed by 
+mechanical deformation to produce a "fat dime" 
+shape. Earlier, thin Pt and Au wires were used to 
+make electrical connections to the Pd cathodes. 
+
+However, due to surface contamination problems, 
+the cathode current collector was changed to fine Pd 
+wire, which was shielded by a thin Teflon tube to 
+prevent appreciable electrolysis taking place on it, 
+rather than on the Pd cathode. 
+
+Three different cell designs have been studied. In the 
+first design, a static immersion heater shielded in J -
+shaped quartz tubing was used to provide the Joule 
+heating for calibration. The cell was sealed with a 
+rubber stopper, which housed the feed-throughs for 
+cathode and anode lead connections, the immersion 
+Joule heater, and the gas vent to the silicone bubbler. 
+The anode was about 200 cm of 0.010 inch thick Pt 
+wire spirally wound inside the cell. The anode to 
+cathode surf ace area ratios were between 10 and 15 
+to assure that most of the applied voltage drop was at 
+the Pd cathode. 
+
+Although this general design provided reproducible 
+calibration and stable electrochemical performance, 
+the problems associated with the cramped space 
+inside the cell as well as in the rubber stopper and the 
+occasional and unpredictable breakage of the quartz 
+shielding around the Joule heater led to a modified 
+design. 
+
+Energy dispersive spectroscopy studies of the 
+surf ace of the Pd cathodes indicated the presence of 
+substantial amounts of Pt coverage, which can block 
+deuterium insertion. Therefore, the fine wire Pt 
+anodes were replaced by large surface area thin Pd 
+ribbon anodes, produced by rolling 1/8 inch O.D. Pd 
+wire. This modification has the advantage of 
+continuously depositing fresh Pd upon the cathode 
+surface, which could cover up any potentially 
+blocking metallic or other impurities that might be 
+deposited during the electrolysis process. 
+
+The second design used a modified three-electrode 
+configuration, in which heat generated by electrolysis 
+upon an auxiliary Pt wire cathode centered within the 
+cell was utilized for calibration purposes. Passing 
+current between this Pt cathode (instead of the Pd 
+cathode) and the Pd anode caused only the generation 
+of Joule heat, so that measurement of the electrical 
+input to this configuration provided a simple 
+calibration method, with gas generation, bubble -
+driven stirring, and recombination similar to that 
+which takes place during electrolysis with the Pd 
+cathode. Of course, one had to be sure to open the Pt 
+cathode circuit during operation of the Pd cathode to 
+insure that there was no electrical cross talk between 
+the two cathodes. Again, rubber stoppers were used 
+to support the electrical feed-throughs and the gas 
+vent to the bubbler. 
+
+The third design used a simple Pd cathode and Pd 
+ribbon anode arrangement inside the cell. Joule 
+heater power for calibration was provided by a thin 
+film sheet heater which was snugly fitted between the 
+outside of the quartz cell and the inside of the inner 
+aluminum cylinder of the calorimeter. Rubber 
+stoppers were abandoned because of concern about 
+their possible contamination of the electrolyte, and 
+were replaced by cell caps machined out of Delrin. 
+
+
+EXPERIMENT AL PROCEDURES 
+
+Calorimeter Calibration Principles: 
+The basic equation for an isoperibolic calorimeter 
+was given earlier as equation (1), which relates the 
+thermal power output to the measured temperature 
+change through the calibration constant, K.ln the 
+current design, the value of K is determined by the 
+construction of the concentric cylinder calorimeter, 
+and is independent of the particular experiment being 
+performed within it. 
+
+The most common way of supplying the power for 
+calibration is by the use of an internal Joule heater. 
+Several levels of electrical power are applied, and the 
+corresponding increases in the steady state 
+temperature evaluated. A plot of (T1-T2) versus 
+applied electrical power gives a linear relation, whose 
+slope is the reciprocal of the calibration constant K. 
+
+However, it is often desirable to perform a 
+calibration of the calorimeter while electrolysis is also 
+taking place. In that_ case, the total applied t erm l 
+power introduced ts the sum of that . which 1s
+provided by the Joule heater and that contnbuted as a 
+result of the electrolytic process. In addition, we 
+must consider the possibility that there may also be 
+another phenomenon present that 
+introduces 
+additional thermal power, Pint• 
+
+In the absence of any other energy generating or 
+consuming effects, so that Pint is zero, electrolysis 
+conducted in a "closed" cell in which the gaseous 
+products of the electrolysis are internally 
+recombined, produces exactly the same results as a 
+simple Joule heater [2-4]. 
+
+This is not true in the case of an "open" cell, 
+however, as enthalpy is carried out of the system by 
+the escape of evolved gases. Therefore the 
+contribution to (T 1 -T2) due to the electrical power 
+applied to the electrolysis process will_be lowe  than 
+if the same amount of power were applied to a simple 
+Joule heater, and the apparent value of K would be 
+greater than the proper one. 
+
+There is an additional effect that must be considered 
+in order to obtain a proper calibration of a calorimeter 
+by adding Joule heat in the presence of electrolysis. 
+This is because changes in applied Joule heater 
+power cause changes in the temperature of the 
+electrolyte. This causes changes in electrolyte 
+resistance, and can thus influence the amount of 
+thermal power introduced in connection with the 
+electrolysis reaction. 
+
+As an example, if additional heater power t:\Phtr is 
+applied, the electrolyte temperature will increase. 
+Because of this increased temperature, the overall cell 
+resistance decreases. 
+
+If the electrolysis is being conducted under constant 
+voltage conditions, the electrolysis current will 
+increase. This increases the electrolysis thermal 
+power input by an amount t:\Pel• On the other hand, if 
+the electrolysis is conducted under constant current 
+conditions, the voltage and the thermal power 
+introduced by the applied electrolysis power will 
+both decrease. 
+
+Thus we see that the total change in thermal power 
+introduced into the calorimeter is the sum of two 
+factors, that simply due to the added calibration 
+heater power t:\Phtr, and that due to a change in the 
+electrolysis power t:\P el due to the concommitant 
+decreased electrolyte resistance. 
+
+Therefore, we can not merely compare the observed 
+value of (T1-T2) to the sum of the electrical power 
+applied to the heater and that applied to the 
+electrolysis reaction. We must separate these two 
+effects. The total power, Ptot , put into the cell 
+during calibration while electrolysis is also taking 
+place is 
+Ptot = Phtr + Pel + Pint 
+Additional Joule heater power increases the 
+temperature difference (T1-T2) by t:\Thtr such that the 
+total temperature rise, 6.Ttot , is given by 
+L\Ttot = t:\Thtr + L\T el + t:\Tint 
+where t:\ Tel is the change in (T 1 -T 2) due to the 
+change in the electrolysis power, and .1 Tint is the 
+change in (T1-T2) due to any related change in the 
+additional internal heat generation process, if one is 
+present. 
+
+
+We can also write 
+.1.Ttot = .1.Phtr 1K + .1.Pel IKel + .1.Pint /Kint (4) 
+if the values of K, Ke! and Kint are not the same. In 
+that case, we note that ( 4) is not the same as 
+.1.Ttot = (.1.Phtr + .1.Pel + .1.Pint ) / K 
+which would be the case if all the K values were the 
+same. 
+The apparent value of K that would result from this 
+experiment is given by 
+Kapparent = (.1.Phtr+.1.Pe1+.1.Pint)/(.1.Thtr+.1.Te1 +.1.Tint)
+which can be quite different from the real value 
+characteristic of the calorimeter, K. 
+
+This problem can be solved by assuming that .1.Pe1 
+and .1.Pint are coupled, and can be represented by a 
+single value of Kel, which can be found from the 
+values of (T1 -T2) and Pel in the absence of any 
+heater power. If the magnitude of Kel varies with 
+electrolysis power level, it can be determined over 
+any desired power range by performing an additional 
+experiment, in which the value of this composite Ke1 
+is determined by observing the change in temperature 
+difference (.1. Tel + .1. Tint) that results from a change 
+in the electrical power input .1.Pel applied to the 
+electrolysis process. For that case, 
+Thus if we have the value of Ke1 we can find the 
+proper value of K for the calorimeter from 
+K = .1.Phtrl (.1.Ttot - (.1.Tel + .1.TmJ) 
+= .1.Phtr / (.1. T tot - (.1.P el/ Ke1)) 
+
+An alternative strategy is to operate the cell in a 
+different mode, maintaining the electrolysis power 
+constant, with the computer, rather than keeping the 
+electrolysis voltage constant. If we did this, the 
+electrolysis power would not go up when the heater 
+power is introduced, and the observed temperature 
+rise would be due to the effect of the heater power 
+alone. This would allow direct evaluation of K 
+without the need for a separate experiment to evaluate 
+Ke1 and to separate out the two factors. 
+
+However, if the electrolyte temperature increases, 
+and thus its resistance decreases, as the result of the 
+addition of heater power, the relationship between 
+electrolysis voltage and current will change, even 
+under constant electrolysis power. 
+
+
+Calibration Procedure 
+
+Experiments were performed to determine the values 
+of K for the calorimeters using three different 
+methods of introducing power, an immersion Joule 
+heater within the electrochemical cell, internal 
+electrolysis, and a Joule heater placed between the 
+external wall of the electrochemical cell and the inside 
+surface of the inner cylinder of the calorimeter. Each 
+of these methods can be readily incorporated into the 
+electrochemical cell design, as discussed earlier. The 
+calibration procedure simply involved the 
+introduction of several levels of Joule heating power, 
+in both increasing and decreasing steps, and the 
+measurement of the temperature difference between 
+the two aluminum cylinders in each case. 
+Calibrations were carried out both with and without 
+concurrent "closed cell" electrolysis, and with the 
+electrolysis conducted in either the constant power 
+mode or the constant voltage mode. In the latter case, 
+the corrections discussed above were applied. 
+
+
+Measurement and Data Acquisition System 
+
+The power for both the electrolysis and the Joule 
+heater were supplied by Lambda LLS series power 
+supplies. In the case of constant electrolysis power, 
+the power supplies for the electrolysis process were 
+computer controlled. A Macintosh Ilx computer was 
+used for this purpose as well as for calorimeter data 
+acquisition, using a Keithley 193A microvoltmeter 
+and a Keithley 706 scanner. For each calorimeter, a 
+total of ten experimental parameters were monitored. 
+They included four differential and two absolute 
+thermocouple values, as well as two voltage and two 
+current (read as voltage across precision resistors) 
+values. They were measured sequentially, and each 
+point was averaged over ten readings and stored 
+every 5 to 15 seconds. The hardware allowed five 
+calorimeters to be monitored and controlled 
+simultaneously. Both the cell operation and the data 
+acquisition were controlled using the Lab View 
+software from National Instruments Co. 
+
+
+CALIBRATION RESULTS 
+
+As mentioned earlier, the temperature distribution 
+within the calorimeter is measured by the use of six 
+copper-constantan (Type T) thermocouples located 
+at different positions in the calorimeter. They were 
+configured in a differential mode such that only the 
+copper ends of each pair were connected to the 
+microvoltmeter, eliminating spurious thermoelectric 
+effects. Figure 2 shows the exceptional agreement 
+between three temperature difference measurements, 
+made at the six points in the calorimeter by the four
+pairs of differential thermocouples, and clearly 
+demonstrates the uniformity of the temperature 
+distribution within the calorimeter. This is an 
+important advantage. It eliminates any ambiguity 
+about the locations of the sources of heat and the 
+temperature probes within the electrochemical cell. 
+Hence the extent of stirring to distribute the heat 
+within the electrochemical cell becomes irrelevant.  
+ 
+Figure 2. The variation of temperature with time during a calibration 
+experiment at three levels of power input using an immersion Joule heater. 
+All three differential temperatures measured at different locations lie exactly 
+on top of each other indicating a uniform temperature distribution within the 
+inner aluminum cylinder in the calorimeter. 
+
+These data also illustrate the typical time - dependent 
+variation of the temperature during a calibration 
+carried out by the use of an immersion Joule heater. 
+
+A typical time variation of the two electrical power 
+inputs during a calibration experiment is shown in 
+Figure 3(a). The Joule heat for calibration was 
+supplied by a thin sheet heater external to the 
+electrochemical cell, and the electrolysis was 
+operated in the constant power mode in this case. 
+Note that all are very flat and steady with time. High 
+total power levels, sometimes in excess of 20 watts, 
+as was the case here, have been commonly used in 
+both our calibration and electrochemical insertion 
+experiments. 
+
+The time variation of the calibration constant 
+extracted from these data using equation (8) is shown 
+in Figure 3(b). The spikes on the graph are due to the 
+transient behavior of the calorimeter when the input 
+power level is varied abruptly. The steady state 
+behavior, however, clearly shows that the calibration 
+constant values are very consistent, lying in a band 
+less than 0.5 % wide, and independent of the input 
+power level as well as time. 
+
+The effect of different modes of Joule heating during 
+calibration experiments was also studied. It was 
+found that the value of the calibration constant was 
+independent of the manner in which power was 
+supplied to the calorimeter. This is illustrated in 
+Figure 4, which compares the results of experiments 
+using the external thin sheet Joule heater with those 
+using the electrolytic heater, both with and without 
+simultaneous electrolysis taking place. Over a wide 
+range of power levels the calibration constant was 
+independent of the type of calibration heat source, 
+and in this case was equal to 0.83 W/°C with a 
+precision to ±0.5 %. 
+
+Figure 3. (a) The variation of Joule heater, electrolysis and total input power 
+as a function of time during a calibration experiment using an external thin 
+sheet Joule heater. The electrolysis was operated in the constant power 
+mode. (b) The corresponding values of the calibration constant, K, as a 
+function of time and the input power level. It is clear that K is practically 
+independent of the input power level as well as time. 
+ 
+Figure 4. Calibration plot to compare two different ways of introducing 
+calibration heat using external thin sheet and electrolytic Joule heaters both 
+with and without electrolysis talcing place. 
+
+The variation of the calibration constant with the cell 
+temperature is also of interest. The data shown in 
+Figure 5 indicate that K is practically constant over a 
+wide range of temperature. 
+
+
+DISCUSSION AND CONCLUSIONS 
+
+It has been shown that the novel concentric cylinder 
+isoperibolic calorimeter design has consistent and 
+attractive features, providing reliable information 
+with a high degree of precision. The general design 
+feature whereby heat is uniformly distributed 
+throughout heavy aluminum cylinders, where the 
+temperature measurements are made, eliminates the 
+uncertainities associated with the exact nature and 
+location of the heat source and the temperature probe. 
+It also renders the issue of the adequacy of stirring 
+irrelevant, and thus makes these calorimeters 
+attractive for the study of the thermal characteristics 
+of the electrochemical insertion of deuterium into Pd, 
+as well as other electrochemical studies. 
+
+The major construction materials are aluminum and 
+alumina, both of which allow operation at quite high 
+temperatures, perhaps up to 600 °c. Materials used 
+for the construction of the electrochemical cell will be 
+the major factor limiting the maximum temperature of 
+operation. 
+
+Calibration has been conducted using three different 
+modes of introducing calibration heat. The calibration 
+constant was found to be independent of whether the 
+power was supplied by an immersed Joule heater, 
+internal electrolysis, or an external thin film Joule 
+heater. This provides flexibility in experiments using 
+this design. 
+
+Experiments on the time dependence of the response 
+to step changes in the input power level have 
+demonstrated 1/e times of about 15 minutes. This 
+enables one to observe relatively rapid changes in the 
+thermal behavior of electrochemical systems. 
+
+The calibration constants have been found to be 
+independent of both time, input power level, and cell 
+temperature over quite a wide ranges, with 
+uncenainities less than± 0.5 %. 
+
+This high level of precision makes it possible to 
+accurately study questions such as the thermal 
+behavior of Pd during the electrochemical insertion 
+of deuterium. 
+
+Figure 5. Temperature dependence of the calibration constant over a wide 
+range of cell temperatures. 
+
+
+REFERENCES 
+
+1. M. Fleischmann and S. Pons, Jour. Electroanal.
+Chem. 261, 301 (1989)
+2. Andreas Belzner, Ulrike Bischler, Steven Crouch­
+Baker, Turgut M. Giir, George Lucier, Martha
+Schreiber, and Robert A. Huggins, to be published
+in the Journal of Fusion Energy
+3. Andreas Belzner, Ulrike Bischler, Steven Crouch­
+Baker, Turgut M. Giir, George Lucier, Martha
+Schreiber, and Robert A. Huggins, to be published
+in Solid State Ionics
+4. Steven Crouch-Baker, Joseph A. Ferrante, Turgut
+M. Gtir, George Lucier, Martha Schreiber and
+Robert A. Huggins, to be published in the
+Proceedings of the NSF-EPRI Workshop on
+"Anomalous Effects in Deuterated Metals" that was
+held October 16-18, 1989.

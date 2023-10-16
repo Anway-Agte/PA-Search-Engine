@@ -1,0 +1,68 @@
+Introduction
+
+“Condensed Matter Nuclear Science” was suggested for the title of a new journal during an
+extended meeting held by ICCF-9 International Advisory Committee on May 21, 2002. It symbolized
+the new starting point of this research field after 13 years of world-wide continuous study.
+
+Three coherences were announced in Lerici, ITALY as the theme of ICCF-9, i.e. the coherence
+between CONDENSED MATTER PHYSICS and NUCLEAR PHYSICS; the coherence between “hot 
+fusion” and “cold fusion”; and the coherence between application and fundamental research. This
+conference is organized according to the theme.
+
+The first is the coherence between CONDENSED MATTER PHYSICS and NUCLEAR PHYSICS.
+
+Indeed Professor Martin Fleischmann has traced back to 1960’s for the historical motivation of this
+research [1]. Dr. Iwamura of Mitsubishi presented most convincible experimental results to show such a
+coherence: when a deuterium flux is induced by the multiple–layer thin-film structure on the surface of
+palladium, nuclear transmutation would happen reproducibly[2]. Professor Takahashi of Osaka
+University showed also that the 3-body nuclear reaction might be greatly enhanced if the highly
+deuterided titanium target is cooled during the beam-target experiments [3]. Both of these experiments
+clearly showed that the nuclear interactions might be affected by the condensed matter physics.
+
+Secondly, the coherence between “hot fusion” and “cold fusion” should be emphasized, because
+both are working for a clean and inexhaustible energy source. Most of the “hot fusion” scientists do not 
+realize that both of “hot fusion” and “cold fusion” need the resonant tunneling to enhance the fusion 
+cross-section. They always believe that the kinetic energy of hot fusion plasma is necessary to overcome
+the Coulomb barrier between positively charged deuteron and triton. This has been a great mistake for
+50 year fusion research [4]. Indeed the kinetic energy is effective only when there is a resonance energy
+level for deuteron-triton fusion. Only if they understand the importance of this resonance; then, they are
+able to understand why the “excess heat” in the low energy nuclear reaction are never accompanied by 
+the strong neutron or gamma radiation. Fortunately, the open mind fusion scientist, Dr. Thomas J. Dolan,
+started to assist fusion community for a better understanding between “hot fusion” and “cold fusion” 
+physics [5].
+
+Thirdly, the coherence between application and fundamental research is necessary to promote this
+research. This is almost the only way to break through the barrier between the main stream science and
+this research. If we look at the difficulties for the SCIENCE magazine to publish the “Bubble Fusion” 
+paper, we will understand the necessity of a demonstration device which will show the application of
+“Condensed Matter Nuclear Science”. Fortunately, the Great-Wall Ti-Gold Company made a big stride
+forwards in this direction.
+
+We emphasized 3 key factors for these 3 coherences as well, i.e. the deuterium(hydrogen) flux, the
+multiple-layer thin-film technique, and the infrared thermal imaging technology.
+
+Flux is more important than deuterium (hydrogen) loading ratio in metals. This has been recognized
+by more and more experimentalists. This should be important to solve the problem of reproducibility.
+
+Multiple-layer thin-film is an effective technique to enhance the flux. Dr. Wolf-Dieter MÜNZ,
+Materials Research Institute at Sheffield Hallam University, UK, showed his great interests in solving
+the flake-off problem in multiple-layer thin-film. This is important to establish a self-sustaining “excess 
+heat” device.
+
+Infrared thermal imaging technology has been proved to be a good diagnostic tool, which has
+enough time and space resolution and has no interference to the D(H)/Pd system, in order to search for
+the best set of the parameters.
+
+The Italian scientists at Frascati have shown that the power density of a D/Pd system might be as high
+as 600 kW/c.c[6]. This is very close to the theoretical limit ( MW/c.c.). What we have to do is to search
+the best set of the parameters, and scaling-up the device. Our mission is to put interesting, potentially
+important science into public view.
+
+
+References
+[1] M. Fleischmann, Proceedings of ICCF9.
+[2] Y. Iwamura, et al., Proceedings of ICCF9.
+[3] K. Ochiai, A. Takahashi, et al., Fusion Technology, 36, 315(1999).
+[4]X. Z. Li, et al., Physical Rev. C, 61, 024610 (2000).
+[5]T. J. Dolan, Proceedings of ICCF9.
+[6] E. Del Giudice, et al., Proceedings of ICCF9.

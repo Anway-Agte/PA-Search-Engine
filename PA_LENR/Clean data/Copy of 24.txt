@@ -1,0 +1,196 @@
+1. Introduction
+
+Our work consists of two parts. In the first stage, we carried out investigations of
+the influence of the deformation of titanium alloy samples saturated with deuterium
+on the occurrence of cold nuclear fusion.1 The basic results of these investigations
+were obtained in the years 1990–1992.
+
+In the beginning of this work, we started with the assumption that the structure of metals influences the processes proceeding in a solid phase. Obviously, the
+intrinsic properties of a metallic matrix are responsible not only for the ability of a
+material to accumulate deuterons but also for the possibility of deuterons to move
+and interact. That is why the processes occurring during the cold fusion should be
+sensitive to the structure of the metals and alloys used.
+
+As is known, plastic deformation changes the character of the distribution, and
+increases the density, of crystal lattice defects – dislocations, vacancies, stacking
+faults, and low and high angle grain boundaries.2 It is also well known3 that hydrogen isotopes, being interstitial atoms, interact with crystal lattice defects creating
+atmospheres of impurity atoms. One can expect that during plastic deformation
+the migration of these defects should influence the rate of the processes occurring
+during the fusion of deuteron nucleus.
+
+
+2. Neutron measurements
+
+In the initial stage of our investigations, we detected neutrons using a field monitor
+(RUP-1) with a fast-neutron counter. The radiation detected in this case correlated
+in time with processes occurring during the saturation by deuterium, or during
+the deformation of deuterium saturated samples. The titanium alloy VT9 (6.5Al–
+3.3Mo–1.5Zr–0.25Si) was used for the investigations. For these studies, we use
+cylindrical samples with dimensions 10× 15 mm, that were saturated by deuterium from a gas phase up to concentration 2–20 at.%. Deformation of the samples was
+carried out by compression uusing the scheme showed in Figure 1. Figure 1. Scheme of deformation of samples by successive three-step compression.
+
+The temperature of deformation was selected on the basis of differential thermal
+analysis (DTA) data (Fig. 2). At the temperature T ≈ 650 ◦C, the weight of a
+sample starts to reduce, and a bend is observed on the DTA curve that testifies
+an intense escape of deuterium from a sample in the argon atmosphere. In the
+process of deformation of titanium alloy samples (at a temperature T = 710 ◦C),
+preliminarily saturated by deuterium, radiation, which is not a neutron flux, was
+detected. Figure 3 shows the time dependence of the load during deformation of
+the samples. Figure 4 presents the (x-y) coordinate record of the emission detected
+by the field-effect monitor RUP-1. The break of deformation, or the increase in
+the strain rate by 10 times and more, resulted in a disappearance of the emission.
+In Fig. 3, the letters A and B indicate the time moments at which the traverse
+movement was stopped, and the same symbols indicate the periods of the absence
+of deformation in Fig. 4. Figure 2. Temperature dependence of (1) differential thermal analysis and (2) weight of VT9
+alloy sample, CD = 0, 26 at.%. Figure 3. Load (P) vs. elongation (l) curves for successive three-step compression of VT9 alloy
+sample, T = 710 ◦C, concentration of deuterium CD = 12, 3 at.%, V = 0, 264 mm/min, A and
+B—points of deformation stop. Figure 4. An experimental curve of the signal from a universal monitor RUP-1 with a neutron
+detector during the deformation of sample No. 2 in the third stage of deformation. T = 710 ◦C;
+CD = 12, 3 at.%; V = 0, 264 mm/min, A and B—points of deformation stop.
+
+Two batches of VT9 alloy samples were studied. The first batch of samples have
+a structure with the size of primary β grains 500 ± 100 µm, α plate thickness of
+6 ± 1 µm, and the amount of β phase about 20%. Deuterium saturation of these
+samples did not lead to any significant changes in the structure, except for the
+growth of the amount of β phase up to 50%. The microstructure of the second
+batch of samples was characterized by the absence of α plates at matrix β grain
+boundaries. Its α plates were bent and their thickness did not exceed 1 ± 0.1 µm
+
+Three samples from the first batch were deformed at the temperate T = 710 ◦C,
+and radiation was registered from two of them. The concentration of deuterium in
+these samples was CD = 11–12 at.%, while in the third sample it was considerably
+lower – CD = 8 at.%. The samples of the second batch possessed more fine structure,
+and the radiation in these samples was detected only after their structure became
+similar to that of the first batch samples.
+
+
+3. Tritium measurements
+
+To confirm the occurrence of cold nuclear fusion, the measurement of tritium concentration was performed by the scintillation method via layerwise grinding. It was
+found that in all samples in which emission was detected during deformation, the
+concentration of tritium in the surface layer was increased by 3–7 times as compared
+to the background value.1 The energy spectrum of these samples corresponded to
+tritium.
+
+We did not publish the results of this work in 1992 because the field monitor
+RUP-1 with a fast-neutron counter is not a reliable device to be used for scientific
+purposes. We have procured the radiometric device SRPS-2 having fast-neutron
+counters with a lamp SI-18H filled by 3He. Using this new device, we deformed
+about 50 samples but no appreciable neutron fluxes were registered.
+
+After that, we conducted a joint experiment with a group of scientists from
+Ekaterinburg, on neutron detection in the process of saturation of our samples by
+deuterium. Whereas MKS-01 (a device similar to RUP-1) registered neutrons, the
+device SRPS-2 (the sensitivity of which is 100 times higher than that of MKS-01)
+did not register. Having performed this experiment we assumed that we registered
+electromagnetic radiation with a spectrum in the radio frequency regime. The
+tritium concentration was increased by 50% as compared to the background level
+evenly throughout the volume of this sample. The uniform distribution of tritium
+within the sample interior after its saturation by deuterium does not contradict the
+previous conclusion about the nonuniformity of the distribution, since a sufficiently
+high temperature applied during the present experiment leads to a convectiondiffusion leveling of the deuterium concentration
+
+
+4. RF measurements
+
+In the second stage, we attempted the measurement of the (RF) radiation that we
+assumed was present during experiments in the first stage. In these experiments
+we attempted to measure radio-frequency radiation only during saturation of samples by deuterium, using various detection systems. Neutron detection with the
+radiometric device SRPS-2 was conducted during all our subsequent experiments.
+
+Electromagnetic emission in the range of radio frequencies was detected by using
+different measuring devices:
+(1) A magnetic antenna with one turn in a symmetric copper ring with a notch. A
+signal from the antenna was transmitted to a wide-band amplifier UZ-29, then to
+an amplifier with a gain factor of K = 104 (10 in a fourth degree), and after that
+to a ratemeter.
+(2) A field meter M20 of optoelectronics (USA) with a telescopic antenna, 10 cm in
+length.
+(3) An electron scheme comprising an antenna, 10 cm in length, a pulse amplifier with
+a gain factor of K = 5×103 (five increased on 10 in the third degree), discriminator
+and former drawing in a short signal for its recording.
+For visualization of the emission detected in all cases, the signal is transmitted
+to an x-y coordinate plotter.
+
+Electromagnetic emission in the range of radio frequencies was detected during
+the saturation of titanium alloy VT-9 samples by deuterium from the gas phase
+at the temperature T = 860 ± 10 ◦C. Prior to the saturation the samples were
+subjected to a bend strain at the room temperature in a three-point mode until the
+onset of plastic deformation.
+RF emission has been detected under the conditions of continuously increasing
+pressure of deuterium. The rate of deuterium pressure increase was dp
+dt ≈ 0.8 kPa/s. The signal appeared at a pressure of p ≈ 24 kPa and continued for 2–3 min. RF
+emission was detected by means of each scheme described above. However, while
+in the case of the third scheme, the plotter recorded separate temporal resolution
+signals analogous to the field monitors RUP-1 and MKS-01; in case of the first two
+schemes a wide enveloping maximum was recorded due to the inertia of measuring
+systems. The RF emission had a sporadic character; the same character was noted
+when detecting the neutron flows in the first years of cold nuclear fusion study.
+
+
+5. Probable mechanism
+
+The generation of tritium while neutron flows are absent suggests that cold nuclear
+fusion occurs through a tritium channel as has been assumed earlier.4 The nonuniform formation of tritium within the sample interior after deformation testifies that
+the process of cold nuclear fusion occurs only in a surface layer. The same conclusion was also made in the review of early papers.5 The presence of electromagnetic
+radiation also confirms this conclusion, since the radio waves can be radiated only
+from near surface layers of metallic materials.
+
+RF emission was detected only during the saturation of titanium alloy samples
+by deuterium, while during the saturation by conventional hydrogen it was not
+detected. We presume that the appearance of tritium in the samples where RF
+emission was detected points to the occurrence of cold nuclear fusion.
+
+We suggest that the most probable mechanism of the occurrence of RF emission,
+which accompanies cold nuclear fusion, is the interaction of products of nuclear
+reaction 2D + 2D → 1p+ + 3T+ + E(4.03 Mev),
+tritium and proton, with the metallic matrix. The movement of charged particles in
+the periodic field of the crystal lattice can result in the occurrence of RF emission.
+Unfortunately, we did not find articles about measurements of radiation within the
+range of radio frequencies when charged particles pass through the metallic matrix.
+The registration of such radiation can become indirect proof of the cold nuclear
+fusion occurrence along the tritium channel.
+
+
+6. Discussion
+
+Some authors account for the presence of tritium by the fact that its small amount
+is present in deuterium or in the metal under study. The preliminary preparation of
+samples in our experiments excluded the presence of tritium in the metal before its
+saturation by deuterium. During preliminary vacuum annealing up to T = 1200 ◦C
+for 1 h, the sample is completely clean from all hydrogen isotopes
+
+During the second stage of our work, we were not engaged in measurements of
+tritium. Now, we are trying to carry out new experiments to produce a significant
+amount of tritium. Only after successful termination of this experiment will we
+plan to start the measurement of heat effects
+
+The assumptions that have been presented in this work are not of a revolutionary nature. For their confirmation it is no need to create new physics. Simply
+this physics differs from the physics of hot nuclear fusion. In the former case, the
+processes occur in plasma. Cold nuclear fusion occurs in hard metal, under temperatures below 1000 ◦C.
+
+
+7. CONCLUSIONS
+
+(1) During successive three-step compression of preliminarily deuterium saturated VT9 alloy samples, an emission has been detected in the third stage of deformation,
+which is not a flow of neutrons or gamma quanta.
+(2) In the surface layer of the samples for which the emission was detected, the concentration of tritium exceeded the background level by 3–7 times.
+(3) The occurrence of emission and excess tritium concentration are associated with
+a specific structure of the samples, and observed only in the coarse-grained grosslamellar structure.
+(4) During the saturation of VT-9 alloy samples by deuterium, an electromagnetic
+emission has been detected in the range of radio frequencies. Evidently, it was
+a pulse emission in the range of radio frequencies that was detected as neutrons
+during cold nuclear fusion by neutron monitors in early works.
+
+
+References
+
+1. D. D. Afonichev and M. A. Murzinova, Int. J. Hydrogen Energy, 28(9), 1005–1010
+(2003).
+2. O. A. Kaibyshev, Superplasticity of Alloys, Intermetallides and Ceramics (SpringerVerlag, Berlin, 1992, 317 pp).
+3. Hydrogen in Metals, vol. 1, ed. G. Alefeld and I. V¨olkl (Springer, Berlin, Heidelberg,
+NY, 1978).
+4. BARC Stadies in Cold Fusion, eds. P. K. Iengar and M. Srinivasan (Bhabha Atomic
+Research Center, BARC 1500, Trombay, Bombay, India, November 1989).
+5. V. A. Tsarev, Sov. Phys. Usp., 35, 842 (1992).
+

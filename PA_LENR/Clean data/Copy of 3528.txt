@@ -1,0 +1,238 @@
+NUCLEAR REACTIONS IN CONDENSED MEDIA AND X-RAY
+Vitaliy Romodanov A .• Valeriy Savin I. ,*Yakov Skuratnik B .•
+tdtMichael Yuriev Z.
+StateSRI SPA"WI'CH", Zooleznodo:rozhnaya 24, Podolsk, Moscow reg. 142102J.
+RUSSIA. Tel. :095-137-9258. Fax. :095-137-9384. E-m. :l􀇛tis.kiae.su
+
+
+Abstract
+
+The study of tritium generation narure in seoood, sla,ed down stage is
+cx:nducted, and the registration of X-ray is executed, which can arise at
+interacti.an of hydrogen isotops in metals with thermal activation.
+
+It is shown, that seoood, sla,ed down stage of trititDD acr,mulation in
+gas at laig interaction of bydrogen isotops with heated up sample can be
+connected with nuclear reactions since is experimentally shown, that at interaction
+of heated up metal sanples with hYdrogen isotops the tri ti.um concentration
+in gas was decreases for .reasai of tritilBD transition in sample,
+stiptlated by isotops effects. It is established, that at laig interaction
+of hydrogen isotops with heated up metal sanple the tritium generation rate
+is increased of direct proportionally to increase of the hydrogen pressure,
+in contrast to thernv-activatian 􀇜. 􀇝 tritium generation rate
+which was registered an this stage has w
+4-lllf a:t/s. The darking of X-ray
+films, which was disposed inside of chamber, while should not wiequ:i vocally
+to be camected with X-ray radiation.
+
+
+1 Introduction
+
+At excitation of nuclear .reactions in condensed media betAeen of charge
+particles with low energy interacti.an (NROI), ooe of nein, registered pro­
+ducts is the tritium (1-3]. The ratio of generatian rates for various of
+reactioos products which generating in the sanple with hydrogen by means of
+bcnbardme:nts ions £.ran plasne of the poAlerful glow discharge has for neutralS/
+tri tium, about 10
+-9
+-10
+-7
+; for charge particle/tri ti.1.BD, about
+10􀇞 - 10􀇟 ; for ganma-ray/trit.i.um, about 10􀇠 - 10􀇡 [2,3]. It is th.is possib-
+le to ocnclude, that at occurrence NR01 an hYdrogen isotops, basically, can
+be generated and to be registered ally tri ti.lBD alooe. In [ 4, 5] was shown,
+that the tri ti.um generation £.ran metals is J:X)SSible not only at effect of
+accelerated ions, bit also in envirooment of ordinary bydrogen (proti.1.BD +
+0,015 % deuterium) and deuterium at thernel activatian. Two stages of such
+processes are revealed: first-fast and seoood-slowed down, which have the
+basic di.stinctian an properties.
+
+
+Such characteristic features of NR01 is renDYe, at present, the problem
+to study for 􀇢 generation of low energy charge particles and
+X-ray .radiation an first location. Ckt all visibi.licy-, for mentioned process
+X-ray radiatian is the unique kind of radiati.an, which can be safe-cy fixed
+in process NR01.
+
+The present work is devoted to study of tri ti.um genera.ti.an narure in se­
+cond, slowed down stage and approachs to .registration of X-ray .radiation at
+interacti.an of hydrogen isotops in metals by thmnal activatian.
+
+2. Experimental design and proceduer
+
+The experiments oo interactions of hydrogen isotops in metal sanple:s at
+t.mxmal activation was oanducted similarly to description in [5], bit with
+additi.alal, laig endurance of heated up metal sanples in envirooments of
+bydrogen isotops.
+
+The samples were made of alloy Fe-Cr-Ni-Ti ( 71-18-10-1 ) , in kind of
+plates with thickness of 0.5 mn, which were set up in section :fran 3 to 6
+pieces and developed as zigzag (Fig. 1). The size of coe piece nede 0,5
+x aE x 1'm nm3 . The maximal tesq;ierature of such sanple reached 900 K, and
+at rolling up its in spiral could be within the limits of ll.02J-laE K.
+
+The experiment oonducted as follORS. In the beginning the working clan­
+ber was i;unp out, heated up the sanple to given telq;lerature and caxlucted
+-3 gas out of working chamer at pressure P<10 Pa! _1durlng 1-2 h. Th:n in
+chamer fill up the 􀆕 to pressure (5-00) · w- Pa and enduranced the
+definite tine (0,1-50 h). Further the hydrogen pmp cut in rubber volume
+for subsequent bnn:ing, preparation of water tests and analysis by liquid,
+scintillation method. For these exper.i.ments used mbrure of hf'drogen isotops
+with ooocentration from 0,015 % deuterium in protium (ordinary hf'drogen),
+tritium ocntents in plasma-forming gas nede on fulfilled technique, with
+error which was not ex.oeed :!: 50 % [2, 3].
+
+After has becaue clearly, that the slnrt-tenn hlrsts of tri til.DD ooooentratiai
+an the first stages are stipulated, basically, by thermal activaticn
+early acam1lnted, began to conduct in additiai the loog endurance in byd.roge.!l
+of sanple heated up to working telq;lerature (DDre often maximal), with
+subsequent gradual selection of gas for analysis en the tritium in seoond
+stages. '.l'hJs the ini ti.al stage was oonducted as with cold, as with heated
+up sanple. The loog experiments oo seoond stages conducted as caitinuation
+of short-tenn experiments, as a:ftei:wards them, at total :[llllJp-OUt of gas
+with increased activity. The similar experiments with thermal activation
+were then conducted on short, cne plates sanples from titanium and niobium,
+where the teoparature reached 15'0-17021 K.
+
+X-ray films, which was wrap up in tNo-three layers of dark paper, disper­
+sed on distance of fi0-aE nm from sanples. Sanetimes in addition had estab­
+lishing attenuators from aluminium-10 mkm, 1W mkm or berillium-lW mkm.
+The films was enduranoed in chamber in duration of whole e:xperinent ( some tens of h:iurs) and afterwards its tenni.natian di.splayed the hidden image.
+
+3. RFSULTS
+
+The sbort-tenn effects of bydrogen isotops on heated up sa111>le permit to
+lONer to m:injnnm the initial activity in .sanple (quantity of tritium) befo­
+re subsequent laig experiments (first two points on Fig. 2). At subsequent, 
+laig endurances of sanples in envirooments of hydrogen isotops the activity 
+is gradually increased. 
+
+The oh5ervabl.e increase of rate is obviously con­
+nected with gradual reductian of quantity of gas in chaniJer at each probe 
+out ( Fig. 2). The construction fran given this experiment of specific cha­
+racteristics shows, that the tritium generatian rate was drops in due cour­
+se (Fig. 
+3; 1). This the absolute gain of activity versus to time (without 
+interaction of pressure ) even is increased ( Fig. 3; 2). The tritium gene­
+ration rate is close to di.:rect proportionality fran pressure of bydrogen 
+(Fig. 4), in against to htrsts of activity in slx>rt-term experiments [ 5 ] . 
+
+The results the 11K>St of characteristic experiments an tritium genera­
+tion are adduced in Tab. 1. 
+f,12 
+  2000 
+  1000 
+Time. h. 
+
+Fig. 2. The dependence of probe b,ydrogen activity fran t:iJDe at laig 
+experiments (alloy Fe-Cr-Ni-Ti (71-18-10--1), 3 secticns, T= 9m K. 
+
+3. The dependence of tritium generation rate and specific gain of
+
+activity fran time of experiment (alloy Fe-Cr-Ni-Ti (71-18-10--1), 
+!-tritium generation rate; 2-gain of probe specific activities. 
+Pressure  x1000 Pa. 
+
+Fig. 4. The dependence of tri ti.um generation rate f.ran pressure of hyd­
+rogeri (sanple-alloy Fe-Cr-Ni-Ti (71-18-10-1), 3 sections, T  K. 
+
+X-ray films, located en cooling bottan of chantier with d:istanoe
+abcut 2l1E nm to sanple, after laig exper:inelts ( sooe days) was not
+dark. The films located oo. di.stance abc:ut l.'20 11111 f.ran sanple was dark,
+however in this case should not to be excluded the influence of thernal
+heating, f.ran which the films also can was dark.
+
+
+4. DISCUSSION
+
+The second stages of triti.tn accuouJ ti.on in hydrogien isotops at inte­
+raction with heated up metal sanple, 
+representing in OOQllariscn, slow lif­
+ting of triti.tan concentration (Fig. 
+2) can be connected Jrlth nuclear reac­
+tions. 
+&ich opinion Re state becaiase. 
+in first, 
+as was established fran 
+slx>rt-tenn experiments that the tri timn corx,entrati.oo in gas which interact
+Jrl th heated up sanple is fast decreasing and reached of .minimJm equilibrum 
+ooooentration by given ocmdi ti.ems. 
+
+So is displ..a,,ed the effect isotops di­
+rect, when nnre heavy isotope heavier introdused in metal, hJwever it there 
+and better is kept, in coopariscn with nnre lights isotops. 
+
+Re.sul ts in 
+that, that the tri ti.um ooncentration in metal is :i.ncl'eaMng, 
+lowering its 
+ooooentration in envircOleita.l gas (Fig. 5 [6]). Stationazy ocmditicms have 
+not the reasoos for spontaneous allocation tri ti.um :fran metal, neverthe­
+less, at long endurances of heated up metal sanples in envi.rooments ordina­
+i:y hydrogen (protium + 0,015 % deuterium) or deuterium, the tri ti.um con­
+centration in gas by gradually is inoreasing. As far as in gas the tri ti.um 
+is not present, growth of tritium ccnoentration in gas can be only by con­
+sequence for increase of equilibrum oancentration tri ti.um in metal sanple. 
+
+Hence, growth of tri tit.ti ooncentration in gas and metal sanple, at long en­
+durances can happen only for reason of updating :fran nuclear reactions on 
+hYdrogen isotops in metal sanple. 
+
+In secood, in contrast to the first 
+short-term phases of the tritium generation rate on given stage was increa­
+sed of direct proportiana]Jy :fran hYdrogen pressure (Fig. 4 and [3]). 
+
+The researches with X-.rqy films are vei:y i.np:>rt;ant in scientific plan 
+for possible ackrialledgement of availabili -cy for nuclear reactions of low 
+energy. 
+
+These researches also can be first stage for begini.ng of study 
+X-ray radiation by spectroscopy methods. However it is acknowledgement of
+availabili 1:¥ X-ray radiation in low energy experiments tmtil was received
+and required the further researches on divisions of thermal and X-.rqy ef­
+fects on X-ray films.
+
+
+5. CXHilJSIOOS
+
+5 .1. The seccod, slOAed down stage of tri ti.um acx:unul ation in gas at
+
+long interaction of hydrogen isotops with heated up sanple can be camected 
+with nuclear reacti.<ms since is experimentally shoHn, that at interaction 
+of heated up metal .5a111:>les with   isotops the tri titn ooncentration 
+in gas decreases for reason of tritium transi ti.cm in sauple, stiptlated by 
+isotops effects. 
+
+It is established, that at long interaction of   
+isotops with heated up metal sanple the tri ti.um generation rate is increa­
+sed as di.l.'ect proportionally to increase of l\vdrogen pressm:e, in contrast 
+to thernn-activa:tion processes. Registered of the tritiDn  tion rate 
+on this stage has 1IBde w4 -uf' at/s.
+
+5.2. The darldng of X-ray films, which was placed inside of chcmi,er, :
+while it stntld not uaegui.vocally to ooonect with X-ray radia:ti<XIS. 
+  
+
+1. V.A.Raoodanov, V.I.Savin, M.V.Shakhirin et al. International Confe­
+
+rence on Radiative Material Science. Alushta, Kay 22-25,1990. Theses of the 
+:reports. Kharkov, 1990, 1-95, part II, p. 00 ( in Russian) . 
+
+2. V. A. Rcm:xianov, V. I. Savin, M. V. Shakwr:i.n et al.
+
+Zblrnal Tekhnicheskoy Fiziki, 1991, v.61, is.5, p.122-125 ( in Russian ) . 
+
+3. V. A. Rcm:xianov, V. I. Savin, Ya. B. Slmratnik.
+
+Progress In New Hydrogen Energy. Prooeed:i:ngs. IOCF-6, <xrtober 13-18, 1996, 
+Japan. Ed. by M.<Jmnnto. NKOO, IAE. Tokyo, Japan, 1996, V .2, p. 590 - 594. 
+
+4. V.A.Baoodannv, V.I.Savin, Ya.B.Skura:mi.k.. IbideuV/ V.2,p.585-589.
+
+5. V.A.Raoodanov, V.I.Savin, Ya.B.Slmratnik. Cold tbclear Fusion (Ma­
+
+terials of the 4-d Russian conference on cold fusion and  lei transm.rt.a­
+tion.  . Sochi. M.: SRC Pl'P "KRZiaf" ,(1997), p. 63-69. (In lbssian). 
+
+6. V.A.&mxianov, V.I.Savin, Ya.B.Slmratnik, V.N.Majorov.
+
+Tritium Generation in Meta.ls at Tmrne.l Activation.- Presented on I<ll-7. 

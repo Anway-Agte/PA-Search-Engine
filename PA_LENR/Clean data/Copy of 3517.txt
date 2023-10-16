@@ -1,0 +1,371 @@
+ANOMALIES IN THE SURFACE ANALYSIS OF DEUTERATED
+
+PALLADIUM
+
+Debra R. Rolison, William E. O’Grady, Robert J. Doyle, Jr.1, and Patricia P. Trzaskoma2
+Surface Chemistry Branch, Code 6170; 1Code 6110; 2Code 6320
+
+Naval Research Laboratory
+
+Washington, DC 20375-5000
+
+
+ABSTRACT
+
+The surface and near-surface analytical characterization of thin palladium foils after
+the electrolysis of H2O or D2O was performed with X-ray photoelectron spectroscopy
+(XPS), high resolution mass spectrometry, time-of-flight secondary ion mass
+spectrometry (TOF-SIMS), and scanning electron microscopy (SEM). These surface
+characterizations revealed a number of anomalous results, as summarized below.
+
+
+INTRODUCTION
+
+Our studies of the Pd-D2O system, precipitated by the announcement of the Fleischmann-Pons
+effect [1], have centered on the exploration of the surface character of thin palladium foils before
+and after electrolysis of pH-neutral solutions of D2O and H2O [2-4]. The importance of
+understanding and controlling the nature of the electrode surface, so as to understand and control
+electron-transfer reactions occurring at the electrode surface, underlies the field of
+electrochemistry and has previously been emphasized as critical for the successful hydrogen
+loading of Pd [5]. In light of the variability of observations made by the myriad researchers
+exploring the Pd-D2O system, the imperative need to determine the physical, chemical, and
+metallurgical nature of the palladium surface has recently been stressed [6,7].
+
+
+EXPERIMENTAL
+
+Electrochemistry and Chemicals
+
+All electrolyses were performed, with one exception, in 0.1F Li2S04/D2O or H2O, as
+appropriate. The one exception was a solution of 0.1F LiOD in D2O prepared by dissolving
+lithium metal in D2O. H2O was triply distilled from quartz, 99.9% D2O [MSD Isotopes for the
+preliminary experiments, Cambridge Isotope Laboratories for the majority of the experiments]
+was used as received. Li ribbon [Alfa] and Li2S04 [Alfa, anhydrous] were used as received.
+
+All electrolyses were performed with 99.9% Pd foil, 0.127-mm thick [historical supply of
+precious metals, Naval Research Laboratory]. X-ray diffraction analysis of this foil showed that
+it was preferentially oriented, primarily in the <200> direction [2]. The foils were acid etched in
+1:1 HC/:HN03 to remove surface oxide, rinsed well, and then sonicated in the appropriate solvent
+prior to use. The anode, with one exception described below, was 99.999% Pt wire [Alfa],
+wound around a glass-rod cage so as to concentrically surround the Pd cathode.
+
+The Pd foils were cathodically charged at 10 mA/cm2 using the galvanostatic mode of a EG&G
+PAR Model 173 potentiostat/galvanostat; higher current densities were then usually applied. The
+cells and experimental procedure have been described in greater detail elsewhere [2-4].
+
+
+Mass Spectrometric Measurements
+
+The mass/charge profile encompassing the Pd isotope range (m/z range 100-115) was
+measured using the static SIMS mode of a TOF-SIMS built in-house at the Naval Research
+Laboratory [8,9]. Positive-ion spectra were obtained by using primary ions of 14.0-keV cesium
+ions from a pulsed alkali-ion gun containing a thermionic emitter. Each reported spectrum is the
+average of two-to-three million spectra. Samples were argon-plasma cleaned, in situ, prior to
+analysis.
+
+High resolution (m/Δm > 50,000) analysis of m/z 3, 4, 5, and 6 of the gases emitted by 
+electrochemically loaded PdDx was made using a ZAB-2F double-focusing mass spectrometer.
+
+Slivers were cut from the Pd foil immediately after electrolysis and placed in glass capillaries;
+the capillaries were introduced into an electron ionization source via a standard solids probe.
+
+This experiment was performed for one sample only. Background pressure was 10-8 torr.
+
+The mass/charge region encompassing the Pd isotope window (m/z 102-110) was obtained by
+wrapping the foils (before and after electrolysis) around a solids probe and fast-atom bombarding
+with 8 keV Xe; resolution was m/Δm = 3300. 6-10 spectra were signal averaged to produce the
+obtained spectrum. To gauge the presence of interfering polyatomic species at m/z 106, the ions
+comprising m/z 106 were mass selected and collided with helium neutrals to induce dissociation
+of polyatomics.
+
+To obtain the ratio of m/z 7 to m/z 6, lithium salts were dissolved to ≈0.1F with H2O and
+aliquots of the solution were evaporated on the solids probe.
+
+
+Bulk and Surface Elemental Analysis
+
+Atomic emission spectrographic analysis of the stock Pd foil showed significant
+concentrations of the following metals [3]:
+
+Element
+
+Concentration/ppm
+Ni
+Pt
+Ag
+Rh
+Cu
+Si
+Elemental analysis of the Pd surface before and after electrolysis was performed with a
+Surface Sciences Instruments Model SSX-100-03 X-ray photoelectron spectrometer with a
+small-spot capability and equipped with an Al anode. Foils analyzed immediately after
+electrolysis outgassed so severely (> 10-7 torr background pressure) that ≈12 h were required to 
+reduce the pressure to the typical analysis pressure of < 5 x 10-9 torr [3]. Binding energies are
+referenced to the adventitious C1s line at 284.6 eV. Overlapping lines were deconvoluted with a
+graphics package using a χ2-minimization calculation.
+
+
+Scanning Electron Microscopy
+
+Scanning electron microscopy was performed with a Hitachi Model S-800 Field Emission
+Microscope. Photomicrographs were taken in the normal mode (using the secondary electrons
+emitted from the sample) and, to accentuate surface topography, in the differential mode.
+
+
+RESULTS and DISCUSSION
+
+X-ray Photoelectron Spectroscopic Analyses
+
+Survey scans of the etched Pd, an example of which is shown in Figure 1a, consist of the
+characteristic Pd lines with a trace amount of spectrometer-derived carbon. The small peak at
+≈50 eV is due to Pd5p3/2; the other platinum-group metals also have weak, higher valence lines
+in this area making any post-electrolysis assignment of Li1s, by XPS, ambiguous.
+
+After electrolysis of D2O for an accumulation of 1.9 x 105 Coulombs of charge, other
+elemental lines are now evident in the survey scan (Figure 1b), e.g., O1s (the small contribution
+seen for Pd3p1/2 at 560 eV shows that the line at 530 eV is predominantly Ols and not Pd3p3/2),
+Na1s (and a Na Auger line), Pt4f, a Mg Auger line, Zn2p, Si2p, S2p, and Cu2p. While elemental
+components derived from the glass cell (Si, Mg, Na) are present, as is Pt (electrodeposited at the
+surface as Pt metal from Pt ions generated by the oxidative dissolution of the anode), the surface
+retains a Pd signature.
+
+Although Rh and Ag are present in our Pd stock at a concentration below the limit of detection
+by XPS, after electrolysis of either D2O or H2O, Rh and Ag can be detected at the surface of the
+Pd by signal averaging tens of high resolution scans. The concentrations of Rh and Ag maximize
+at 3 and 1 atom%, respectively, relative to the Pd signal [3].
+
+Rh and Ag do not electrodeposit, but rather they concentrate towards the interface as a
+function of the long duration and high accumulated charge of the electrolysis. This was
+determined in two ways: (i) by the absence of Ag signals for the one sample electrolyzed in
+LiOD – this sample had no Pd signal and strong Pt signals due to electrodeposited Pt; and (ii) by
+using the small-spot capability of the spectrometer, the analysis was centered on a slight scratch
+made in the surface before placing the sample in the spectrometer – this procedure emphasizes
+bulk material brought to the surface; the Pt4d5/2 line was found to strongly decrease while the
+area due to the Rh3d3/2 line remained unchanged. Both of these results are consistent with a Pt
+signal dominated by Pt derived from electrodeposition and Ag and Rh signals derived from
+surface enrichment of Rh and Ag residing in the bulk Pd.
+
+The concentration of the Rh increased as a function of total accumulated charge, but plateaued
+at ≈3 atom% [3]. The magnitude of the surface enrichment can be gauged by estimating the 
+depth of the enriched layer assuming a uniform 3 atom% concentration. This layer would be
+≈0.1-μm thick – which is a serious degree of migration / segregation in a foil on the order of
+102-μm thick. As both Ag and Rh appear at the surface of Pd charged in either D2O or H2O, a
+mechanism based on surface segregation and forced diffusion as the Pd lattice is filled with H· or
+D· atoms seems more probable than one relying on known neutron activation reactions of Pd
+isotopes, some of which yield stable Ag and Rh isotopes [10]. Intriguing though this latter
+prospect may be, experiments with 99.999% Pd would be required before a physical transport
+mechanism could start to be discounted.
+
+Figure 1. X-ray photoelectron survey scans of Pd foil: (a) after etching in 1:1 HCl:HN03; and (b) after
+electrolysis in 0.1F Li2S04/D2O for a total accumulated cathodic charge of 1.9 x 105 C.
+
+
+Mass Spectrometric Analyses
+
+Pd
+
+TOF-SIMS measurements of the Pd blank (the Pd starting material prior to electrolysis) and Pd
+electrolyzed in H2O yielded mass-to-charge vs. amu intensities which mirrored the expected
+sequence for the stable Pd isotopes (neglecting the 1.02% abundant 102Pd). The ideal abundances
+are [11]:
+
+Isotope
+
+Natural Abundance/%
+104Pd
+105Pd
+106Pd
+108Pd
+110Pd
+Two samples electrolyzed in D2O exhibited greater than 20% enrichments in m/z 106 intensity
+and diminutions in m/z 105 intensity [2]. This result is provocative because of the implication
+that 105Pd obtained a neutron to generate 106Pd. The more startling 106Pd enrichment (≈100% over 
+ideal) was observed for the only sample electrolyzed in LiOD; an enrichment of ≈45% was 
+observed for one of the samples electrolyzed in Li2S04. It was shown using the Pd blanks and the
+sample used to electrolyze H2O that the conditions of the TOF-SIMS measurements, including
+in-situ plasma cleaning of the samples, were not responsible for the enrichment/ diminution
+phenomena [2].
+
+Subsequent fast-atom bombardment, high-resolution mass spectrometric measurements on the
+LiOD sample replicated the TOF-SIMS results, however, mass selecting the ions at m/z 106 and
+using collisional-induced dissociation showed a loss of oxygen atoms indicating that the intensity
+at m/z 106 was compromised by the presence of polyatomic ions. It was shown that the species
+was 90Zr16O, a species with a nearly coincident mass to 106Pd, 105.8992 and 105.9032,
+respectively. The zirconium isotopic distribution allows ZrO species to unfortunately overlap
+most of the Pd isotopic distribution (see Figure 2b), making high resolution measurements of this
+region (or the Pd dimer mass/charge region) necessary [12]. After 30 min of bombardment, the
+isotopic distribution reflected the expected abundances for Pd. The zirconium was present at the
+surface as Zr02 (confirmed by XPS), at trace levels, and it derived from the electrochemical (or
+post-electrolytic) conditions and not from a plasma-generated contaminant.
+
+The Li2S04-derived, 106Pd-enriched sample was Zr-free according to TOF-SIMS data, see
+Figure 2a; unfortunately, it no longer existed in a form compatible with surface-sensitive high
+resolution mass spectrometry (having earlier been dissolved in 1:1 HC/:HN03 to pursue other
+analytical chimera). Other Pd foils used to electrolyze D2O have shown, by high resolution mass
+spectrometry, a mass/charge distribution in this region which matches the expected Pd isotopic
+distribution, including a sample only mildly etched, so that the cold-worked overlayer remained.
+
+The source of the anomaly in the Pd isotopic distribution for the one Li2S04-derived sample
+remains unexplained. We have recently recognized that this sample was coincidentally
+contaminated with Cd due to an impurity in the Pt-gauze used as an anode while awaiting receipt
+of the 99.999% Pt wire. (106Cd is a stable isotope but has an abundance of 1.25% [11]; signals for
+the significantly more abundant 112Cd (24.13%) and 114Cd (28.72%) are absent in the TOF-SIMS
+spectrum.) Cd has a high overvoltage for the evolution of hydrogen [13], i.e., the back reaction
+of D· atoms recombining to form D2 gas is inhibited. Cd may have provided a serendipitous, low-
+level surface poison and it is conceivable that higher D:Pd levels were achieved in this one
+experiment than in subsequent experiments. Experiments to test this possibility are in progress.
+
+Figure 2. TOF-SIMS spectra obtained for Pd foil after electrolysis in (a) 0.1F Li2SO4/D2O for a total
+accumulated cathodic charge of > 8 x 103 C; and (b) 0.1F LiOD/D2O for a total accumulated cathodic charge
+of 1.4 x 106 C. The m/z range is chosen to encompass the Zr and Pd isotopic distributions.
+
+
+Li
+
+As has been pointed out by others, the natural abundance of Li isotopes (7Li, 92.5% abundant
+and 6Li, 7.5% abundant) is not necessarily found in commercial lithium salts due to the
+extraction of the neutron-scavenging 6Li isotope. Consequently, any determination of the 7Li-to-
+6Li ratio for Pd after electrolysis of Li+/D2O electrolytes needs to be balanced against the ratio of
+the starting lithium electrolyte salt. Sampling, via fast-atom bombardment mass spectrometric
+analysis, of some lithium salts stocked at our laboratory shows how variable the 7Li-to-6Li ratio
+can be, as summarized below:
+
+Li salt
+7Li-to-6Li ratio
+Source
+Natural Abundance
+Big Bang
+LiOD
+31 ± 1
+Li metal, Alfa
+LiB4O7
+Johnson Matthey
+LiI
+Alfa
+LiI
+Aldrich
+LiBO2
+Johnson Matthey
+
+
+H/D/T
+
+The copious explosion of gas that bursts from the surface of the Pd cathode when the
+electrochemical circuit is broken is followed by long-term outgassing, as can be observed by the
+gas bubbles that form when the Pd cathode is stored under water after electrolysis. Likewise,
+even slivers of material cut from the Pd after electrolysis provide ample gas to analyze by mass
+spectrometry. High resolution analysis of the gases emitted from one Pd foil after charging in
+Li2SO4/D2O showed that the m/z 3, 4, 5, and 6 peaks were composed of the dimers and readily
+formed trimers of hydrogen and deuterium with no detectable quantities of tritium-based species.
+
+
+Scanning Electron Microscopic Analyses
+
+SEM has been used to explore Pd foil before and after use as cathodes to electrolyze H2O and
+D2O [4]. After sufficient etching to leave visible crystal grains, the majority of the grains are
+roughened, but ≈20-30% of the grains remain smooth and unfeatured even at high magnification
+(> 15,000 x). The surface morphology changes after electrolysis, with the roughened grains
+restructuring to yield greater intragranular homogeneity and features of higher surface area,
+however, smooth and unfeatured grains persist after electrolysis of both D2O and H2O
+electrolytes.
+
+Three characteristic grains have been observed for PdDx from highly etched stock, the smooth,
+unstructured grains, and two structured morphologies. On the micrometer scale, as seen in Figure
+3, one structure consists of rugged, parallel, thin-edged ridges (Figure 3a), and the other is an
+intertwined structure (Figure 3b, lower half), which at higher magnification, might be the
+beginning of crystal faceting [4].
+
+The degree of the initial etch governs the development of the surface structures that form with
+electrolysis. SEM survey scans of Pd cathodes after electrolysis must be placed in the context of
+the initial microscopic morphology of a portion of the same piece of Pd. We attempted to control
+this by etching a large piece of Pd foil and then using portions of it for electrolytic preparation of
+PdHx and PdDx using comparable electrolytic histories.
+
+Three PdDx samples have been prepared, yielding comparable characteristic morphologies,
+and one PdHx sample has been prepared, electrolytically analogous to one of the three PdDx
+samples. The PdHx sample also produced restructured grains with greater intragranular
+homogeneity and higher surface area than the initial etch morphology, however the resulting
+restructured morphologies differed between H- and D-exposed Pd. The surface of the structured
+grains for PdHx appeared more polished and had features that were less deep and developed than
+those on the comparably treated PdDx. An additional series will be run to confirm this difference
+in morphology between electrolytically prepared PdHx and PdDx.
+
+Cracks and fissures do not appear to be part of the morphology after electrolysis for either
+system; this may be due to the well-defined grain boundaries, resulting from the etch, which
+provide non-catastrophic paths for gas release when the electrical circuit is broken.
+
+Photomicrographs taken in the differential mode indicated that intergranular elevational
+differences resulted between the smooth, unstructured grains and the roughened and structured
+grains, as seen in Figure 4a. Stereopairs made in 2-3 locations for PdHx, all three PdDx samples,
+and reserved samples of the initially etched Pd confirmed the intergranular elevational
+differences and showed that the structured grains are uplifted relative to the smooth, unstructured
+grains, but only for the PdDx samples. This topography is somewhat restricted to the nearsurface
+region in that all intergranular differences in elevation disappeared after a piece of the sample
+shown in Figure 3 was subjected to ~10 min of fast -atom bombardment, as seen in Figure 4b. In
+addition, the high surface area features are now absent. Quantifying the depth of the profile is not
+routinely done in this experiment, so the restructured layer can only be estimated as greater than
+nanometer, but less than micrometer in depth. We assign the process for uplifting to the premier,
+rapid episode of outgassing because (i) deformation, due solely to lattice expansion upon
+formation of the hydride or deuteride would have produced greater deformation for the PdHx
+sample since palladium hydride expands more than does palladium deuteride [5]; (ii) one of the
+three PdDx samples was subjected to multiple charge/outgassing cycles and showed a
+qualitatively similar degree of uplifting as singly outgassed samples; (iii) the smooth grains
+appear structurally indifferent to hydrogen or deuterium loading; and (iv) the outrush of gas is
+visibly more explosive for the PdDx system than it is for the PdHx system.
+
+Figure 3. Photomicrographs (normal mode) of the two characteristic restructured grains observed on highly
+etched Pd foil after electrolysis of 0.1F Li2SO4/D2O (total accumulated cathodic charge = 1.9 x 105 C): (a)
+morphology described as rugged, parallel thin-edged ridges (tilt = 30°, 5000x); and (b) morphology described
+as an intertwined structure, lower half (tilt = 22°, 8000x).
+
+Figure 4. Photomicrographs (differential mode) showing (a) the presence of intergranular elevational
+differences for the sample of Figure 3 (tilt = 30°, 170x); and (b) the absence of intergranular elevational
+differences after fast-atom bombardment of the surface (tilt = 30°, 200 x).
+
+
+CONCLUSIONS
+
+Our surface analytical characterizations of Pd-H2O and Pd-D2O systems have produced a
+number of unusual results involving: (i) a relative enrichment at m/z 106 that cannot be
+attributed to heretofore-identified plausible chemical interferents:
+(ii) segregation of metallic impurities (present in the bulk Pd at 102-ppm levels) to the surface of
+the more resistive, but still conductive PdDx or PdHx at atom-% levels; (iii) differently
+structured morphologies for PdDx and PdHx;
+(iv) grains which remain smooth and unstructured even after electrolysis of D2O or H2O
+solutions to 10° C of accumulated charge; and (v) intergranular uplift for the structured grains
+relative to the unstructured grains, but only for PdDx samples.
+
+Obviously the surface and near-surface characterization of electrolytically prepared PdDx
+systems requires great care and attention, but with the reward of unusual results.
+
+
+ACKNOWLEDGMENTS
+
+We are grateful to Dr. Steven M. Hues (NRL) for the TOF-SIMS measurements, to Mr. John
+Norris (National Institute of Standards and Technology) for the atomic emission analyses, and to
+Dr. Robert Jones (NRL) for the X-ray diffraction measurements. Funding for this research was
+provided through the Office of Naval Research.
+
+
+REFERENCES
+
+[1] M. Fleischmann, S. Pons, and M. Hawkins, J. Electroanal. Chem., 261 (1989) 301; errata,
+263 (1989) 187.
+[2] D. R. Rolison and W. E. O'Grady, Proc. NSF-EPRI Workshop on Anomalous Effects in
+Deuterated Metals, 16-18 October 1989, Washington, DC, (1990).
+[3] D. R. Rolison and W. E. O'Grady, Anal. Own., submitted.
+[4] D. R. Rolison and P. P. Trzaskoma, J. Electroanal. Chem., submitted.
+[5] F. A. Lewis, The Palladium Hydrogen System, Academic Press: London, 1967.
+[6] Panel Discussions, 1st Annu. Conf. on Cold Fusion, 28. 31 March 1990, Salt Lake City, UT.
+[7] L. E. Murr, Scripta Metallurg. Mater., 24 (1990) 783.
+[8] S. M. Hues, R. J. Colton, R. L. Mowery, K. J. McGrath, and J. R. Wyatt, Appl. Swf. Sci., 35
+(198889) 507.
+[9] S. M. Hues, R. J. Colton, J. R. Wyatt, and J. A. Schultz, Rev. Sci. Instmm., 60 (1989) 1239.
+[10] D. Taylor, Neutron Irradiation and Activation Analysis, Van Nostrand: Princeton, NJ, 1964.
+[11] J. Emsley, The Elements, Clarendon Press: Oxford, 1989.
+[12] We would like to emphasize, yet again, that we have always referred to this observation as a
+mass/charge anomaly and not as an isotopic anomaly. The result, while valid for this one sample,
+and certainly intriguing, can only legitimately be described as a mass/charge anomaly when
+using this experimental approach and the resolution of this experiment.
+[13] R. J. Latham and N. A. Hampson, Encyclopedia of Electrochemistry of the Elements, Vol.
+1, A. J. Bard, Ed., Marcel Dekker: New York, 1973, 155.

@@ -1,0 +1,358 @@
+Nuclear Fusion in Condensed Matter
+
+
+ABSTRACT
+
+On the basis of the analysis of the energy loss
+by a fast particle in a solid it is supposed that the
+most probable energy range for the reactions of nuclear
+fusion in condensed media is in the range of the
+reduced energy of the interacting particles from Eo
+to €2, (-(10-400)•1.6°10-19 J for D-D reactions).
+The tritium generation rate has increased by
+four orders of magnitude, while increasing the specific
+power by a factor of four, and it has reached the
+value of 109 atom•s- when the neutron-to-tritium
+yield ratio is in the range from 10-7 to 10-9.
+
+The possibility of performing the reactions of
+nuclear fusion in condensed media between deuterium
+and target atoms at low energies is shown on the basis
+of the high-energy fi -radiation recording, the isotopic
+targ
+
+
+1. Introduction
+
+Investigation of nuclear fusion in condensed
+matter (NFCM) was performed according to the following
+stages: from groundless hopes to systematic search
+for some effects published before and to detection of
+the conditions under which these effects take place.
+
+We were the first to use deuterium ion bombardment
+of different targets out of the powerful glow discharge
+medium for systematic investigation of the NFCM effects
+/1-3/.
+
+The aim of this work is to determine the optimal
+range of the NFCM energies when bombarding different the neutron-to-tritium yield ratio more exactly.
+
+2. Model concepts
+
+As a basis of the model of deuterons interaction
+in a solid it is supposed that the fusion reaction
+between them will be possible when two deuterons and
+one atom of the target matrix hit one intersite cell.
+In this case the reaction must be threshold (the energy
+of displacement of the crystalline matrix atom is
+(10-J0)•1.6•1Q-19 J for different materials) and the
+collisions of the deuterons between each other and
+the target atoms are studied in the energy range exceeding
+the threshold one on the basis of the analysis
+of the energy lost by fast particles in a solid. This
+is possible at be having correlation between local
+a(nnaulcylesairs) and integral (atoms) collisions. Such an is developed rather well for other fields of
+physics, in particular, for studying solid surface
+sputtering /4/.
+
+possible energy intervals for nuclear fusion is
+defined by the ratio of the elastic (nuclear) and nonelastic
+(electronic) losses when accelerated particles
+move in a solid.
+
+The energy trans!er from the moving ion to the
+target atoms as a result of the elastic collisions is
+called nuclear deceleration and as a result o! the
+nonelastic collisions - electronic deceleration. The
+dimensionless values of the current coordinate Rand
+energy E are used in the theory of ion path in amorphous
+substances, developed by J.Lindhard, M.Scharff,
+H.E.Schioett (LSS) /5/.where R - energy of the incident particle; M and M - masses of the incident particle and the targJt atom􀃰,
+Frespectively; z1 and Z? - atomic numbers; aTF - Thomasermi
+shielding distanoe; e - electron charge. 
+
+where R - energy of the incident particle; M and M - masses of the incident particle and the targJt atom􀃰,
+Frespectively; z1 and Z? - atomic numbers; aTF - Thomasermi
+shielding distanoe; e - electron charge. where Sn(E) - nuclear decelerative ability; N - avera ge number of atoms per target volume unit: Se (E) -
+electronic decelerative ability.
+
+for all ion-target combinations can be found by
+varying (de /dp ) n depending on £ (fig.1). The peak
+of the nuclear loss curve corresponds to Et z 0.35. 
+
+The values Ke for most of the deuterium ion -
+target combinations is in the range 0.1-3.
+
+For deuterium ions bombarding the condensed
+deuterium the calculated energy of the maximum nuclear
+losses corresponds to 30•1.6•10-19 J and the maximum
+ratio of nuclear-to-electronic losses according to
+P.Sigmund /4/ corresponds to the energy 7•1.6•10-19 J
+
+llisions is near the nuclear loss maximum corresponding
+to the energy (E; (see fig. 1) and the
+energy, absorbed when the plrticles collide, decreases
+considerably after the electronic losses exceed the
+nuclear ones, that corresponds to the energy E,2 (see
+fig. 1). In view of the above-mentioned we consider
+that the most probable range of the NFCM energy is from
+£0 up to £ 2, the calculated valuss of whieh for some Table one can see that depending on the used iontarget
+combination of the interacting elements the
+energy of the maximum nuclear losses can reach a few
+hundreds of keV. According to the accepted model th•
+nuclear interaction efficiency for moderate ion fluxes
+when using accelerated ions, can be estimated by the
+coefficient similar to the sputtering one. We called
+it the nuclear interaction coefficient which is the
+ratio of the amount of one of the nuclear reaction
+products to the number of the ions incident on the
+target made of the given material: 
+
+
+3. Experimental procedure and results
+
+procedure
+of recording neutrons and tritium, which are brought about when bombarding different targets by
+accelerated deuterium ions, are deseribed in /2/. The
+discharge unit of the plant is designed according to
+the diode circuit of the direct current in which the
+specimen o! the cathode is bombarded by the deuterium
+ions out o! the glow discharge plasma when the positive
+potential is applied to the anode. The lamellar
+specimens -130 mm in diameter and from 0.05 up to
+1 mm thick, located on the cooled substrate, as well as
+the cylindrical and rod ones having 5-20 mm in diameter
+were studied. The deuterium containing protium
+(up to 5% in atomic fractions) and tritium (up to
+(5-7)•10-10% ) and having the pressure within 10-5•104Ie.
+was used as a gas which generated plasma. The ion energy
+changed within (20-104)•1.6•10-19 J both at the
+expense of the supply voltage and at the expense of
+changing the plasma generating gas pressure in􀃁the plant chamber. The current deneity was 25-5•10J A•rn2
+and the speciment temperature was from JOO up to 2100K. 
+
+determined by two methods at the experimental unit the
+diagram of which is shown in fig.2. The h.eat flow
+obtained as a result of the supposed nuclear fusion
+reaction was determined by measuring the temperature
+difference both in the measurement section at the temperatures
+up to 1000K and along the both sides of the
+weld at the temperatures higher than 1300K by the pyrometer
+0MI>-54. The accuracy of such measurements didn't
+exceed :t:50%.
+
+Some results of measuring the tritium fluxes
+and their neutron ratio, when irradiating a number of
+elements by the accelerated deuterium ions out of the
+glow discharge plasma, are given in Table 2. In this
+table one can see ths.t J3-actj_vi ty of the plasmagenerating
+gas considerably exceeds the initial one
+after the gas exposure in the plant chamber under the
+above-mentioned experimental conditions. The most
+stable results on tritium generation were obtained
+when bombarding the erbium and molybdenum specimens by
+the accelerated deuterium ions and the maximum results
+were obtained for the niobium5speQimens. The recorded
+tritium fluxes were within 10 -10􀃂 atom•s-1• Tge unexpectedly
+high rate of tritium generation (-10 atom•s-1)
+was obtained when bombarding a material which doesn't
+generate any hydrides under normal conditions, e.g.
+when bombarding tungsten.
+
+-3 up to 10-9 and mainly depends on the recorded
+tritium fluxes. There!ore, one shouldn't consider
+it final.
+
+The tritium content in the near-sur!ace layer o! the specimens after the ion bombardment didn't correspond
+to its content in gas. The analysis made in the
+flow detector according to the procedure o! measuring
+the electron spectrum depending on the energy (MSU
+/6/) showed that after the deuterium ion bombardment  niobium layer was 107-108 atom•s-2 and in the nearsur!
+ace tungsten layer (the tritium concentration in
+gas phase was less by an order of magnitude) the tritium
+concentration was within 5•1oj-5•1Q10 atom•cm-2
+The ener􀃑y spectrum of the radiation from the niobium
+surface (fig.3) is close to the curve of the tritium
+J3-decay.
+
+The nuclear interaction coefficient when gene
+rating tritium (specific flux) versus the bombarding
+deuteron energy is shown in fig. 4. The feature of th
+dependence is a threshold availability in the range
+70-150•1.6-10-19 J. When increasing the bombarding io
+energy for the materials under investigation, the nuc
+lear interaction coefficient has increased from 10-14
+
+-10-13 atom•ion-1 up to 10-11 - 10-10 atom•ion-1. The
+average value of the threshold energy is by an arder of
+magnitude higher than the C.
+0 estimation made according
+to Sigmund and 2-5 times higher than the displacement
+threshold ((10-30)•1.6•10-19 J). One failed to determine
+explicit the energy corresponding to the maximum
+values of Yn• It is supposed to be in the range (200-
+400)•1.6•10-19 J. This energy is almost by an order of
+magnitude higher than €'.t(30•1.6•10-19 J) for the deuterium
+target, that may be caused by the metallic matrix
+effect. The obtained, rather low values of the
+energies of the maximum nuclear interaction can be
+also connected with the features of the experimental
+procedure, according to which the experiments with the
+deuteron energies exceeding 500•1.6•10-19 J were performed
+at lower pressures of the plasma-generating gas
+and, therebefore, at lower deuterium concentrations in
+a metalo
+
+an be most effectively obtained in the range ot
+the energies of the bombarding deuterium ions from
+100•1.6•10-19 J up to 500•1.6•10-19J.
+
+The availability of the radiation from the surface
+is also verified by the specimen radiography
+(fig.5). The radiogram with the total exposure of two
+emulsion layers 0.02-0.03 mm thick, located on the both a-starting film; b-the emulsion layer adjacent to the
+
+cpecimen is removed fig.5a),as well as with the exposure o! the same !ilm
+but with the removed emulsion layer directly adjaoent
+to the specimen (see fig.5b) is shown for yttrium.
+One can see that the !ilm is pointwise exposed from
+the outside, though the number of the points is less.
+The outer emulsion layer was probably exposed at the
+expense of availability of th& particles or radiation
+having a higher penetration rather than at the expense
+o:f the radiation caused by the tritium .ft-decay.
+
+en surface, with the gas detector the thereshold
+energy 160 keV and the efficiency 60%, allowed to record
+the count level excess over the background up to
+12% and to measure the time response of the decay
+(Table 3) •
+
+fl-radiation pulse count rate versus time for
+yttrium after ion bombardment (E=110•1.6•10-1􀃷J,
+I=O.J A, 7: =24 h) 
+
+According to the estimation the j􀀃Y generation
+rate is equal to 1-10-1 atom•s-1, that accounts for
+10-6 of the tritium generation rate.
+
+The results of the thermal balanee measurement
+(fig.6) are compared with the calculated temperature
+di!ference for the total power 1, for the supposedly
+maximum power dissipating at the specimen o! the cathod
+3 and accounting for 50% o:f the total one, for the minimun
+power dissipating at the specimen of the cathode
+4 and accounting for JO% of the total one and for the
+experimentally measured one 2. In comparison with the
+eetimations of the heat coming to the speoimen of the
+cathode the maximum excess for the total applied power
+70 W at the temperature - 600K was from 30% up to 100%
+supposedly as a result of the nuclear fu􀃸ion reaction. 
+
+The tungsten and niobium specimens were investigated
+before and after the deuterium ion bombardment
+at the device MS-720IM by the secindary ion mass-spectrometry
+(SIMS) method. The ratios of the intensities of the mass peaks of the specimens under study in the
+initial state and after the ion bombardment are given
+
+power; 2 - experimental dependence; 3 - estimation
+for the maximum power dissipated at the
+cathode; 4 - estimation for the minimum power
+dissipated at the anode
+
+The peak of the 94th mass in the niobium-spectrum
+has considerably increased after the deuterium ion bombardment.
+In this case the presence of the 95th mass
+(NbD) hasn' t been detected.
+Thus, the emulsion exposure
+
+the radio􀂼raphic experiments, availability of the
+high-energy )􀂽-radiation as well as the isotopic composition
+change registered by the SIMS mean that at
+relatively low energies the following NFCM reactions
+are possible not only bet ween the deuterium atoms but
+also between the deuterium and target atoms:
+
+
+4. Conclusion
+
+lear interaction rate on the energy of the bombarding
+deuterium ions has been detect ed in the NFCM
+reactions. When increasing the ion energy by a fact or
+of two (from 50•1.6•10-19 J up to 100·1.6·10-19 J), the
+tritium generation rate has increased by 2-4 orders of
+magnitude.
+
+2. The new energy range ((100-500)•1.6·10-19J)
+allowing to increase the reproducibility and reliability
+of the experirr,ents was determined for the NFCM investigation.
+
+interaction coefficients on the atomic number of the
+target element isn't monot onic. The highest values of
+the nuclear interaction coefficient were obtained for
+niobium ( -10-10 atorn•ion-1) and for tungsten and hafnium
+( -1 o-11 atom•ion-1).
+
+-1 o-11 atom•ion-1).
+4. The tritium fluxes reaching the value of
+109 atom•s-1 and the neutron fluxes close to the background
+ones don't allow yet to consider the neutronto-
+tritium flux ratio at the level 10-j-10-7 to be the
+final value.
+
+eted unambiguously yet because of the low sensitivit
+y and accuracy of the experiments. The subsequent
+increase in the measurement accuracy and matching
+between the generated heat and the other NFCM
+products is required.
+
+6. The data on radiography, high-energy )3-radiat
+ion recording as well as on changing in the isotopic
+composition of the target show that at relatively low
+energies the NFCM react ions bet ween the deuterium and
+target atoms, which are sim.ilar to the deuteriumdeuterium
+react ions, are possible.
+
+
+References
+
+1. V.A.Romodanov, V.I.Savin, M.V.Shakhurin, V.T.Chernyavsky,
+A.E.Pustovit.
+Nuclear fusion in a solid. -
+International Conference on Radiative Material
+Science. Alushta, May 22-25, 1990. Poster report
+1-100. Theses of the reports. Kharkov, 1990, 1-95,
+part II, p. 80 (in Russian).
+2. V.A.Romodanov, V.I.Savin, M.V.Shakhurin, V.T.Chernyavsky,
+A.E.Pustovit. Nuclear fusion in a solid.Zhurnal
+tekhnicheskoy fiziki, 1991, volume 61,
+issue 5, p. 122-125 (in Russian).
+3. V.A.Romodanov, V.I.Savin, Ya.B.Skuratnik, Yu.M.Timofeev.
+Reactions of nuclear fusion in condensed matter.Voprosy
+atomnoj nauki i tekhniki. Ser.: Radiation
+damage physics and radiation technology. 1992,
+Issue 1 (58), 2 (5-), p. 73-82. (in Russian).
+4. Sputtering by Particle Bombardment I.
+Physical sputtering of single-element solids. -
+Edited by Behrisch.
+Springer - Verlag.
+Berlin-Heidelberg-New York, 1981.
+5. D.Palmer. Ion implantation progress. -
+In: Ion implantation into semiconductors and other
+materials. Edited by V.S.Vavilov. Novosti fiziki
+tvyordogo tela.
+Issue 10. Moscow, Mir, 1980- 330 p. (in Russian).
+6. R.N.Kuz'min, E.M.Sakharov, B.N.Shvilkin, A.P.Kuprin,
+P.O.Revokatov.
+Observation of fast neutrons and tritium during
+electrolysis of heavy water. -
+Institute for Nuclear Physics, Moscow State University.
+Moscow, USSR. Preprint - 90 - 58%204, 1990, -
+12 p.
+
+
+
+
+
+

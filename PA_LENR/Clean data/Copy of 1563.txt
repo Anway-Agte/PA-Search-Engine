@@ -1,0 +1,116 @@
+1. INTRODUCTION
+
+We have examined mechanisms for the coherent neutron capture onto, and the
+coherent neutron removal, from nuclei in the presence of a lattice. Under fairly
+restrictive circumstances, it appears to be possible to satisfy both energy and momentum
+conservation requirements between the microscopic nuclear system and the
+macroscopic lattice such that coherent nuclear ,energy transfer to and from the lattice
+occurs.
+
+This mechanism enables coherent neutron donor and acceptor reactions to occur,
+with deuterium as the optimum donor nucleus. Coherent reaction pathways
+leading to heat, tritium, and helium generation are proposed: Heat generation in
+Pons-Fleischmann cells would result from coherent neutron capture onto 6Li in the
+lattice; tritium generation would result from coherent neutron capture onto deuterium;
+coherent neutron capture onto 7Li would lead to 8Li, which would beta
+decay to 8 Be, and ultimately alpha decay to form two 4 He nuclei.
+
+Semi-coherent reactions, in which the neutron capture part of the reaction would
+yield energetic products, are also proposed to account for fast triton production and
+secondary fast neutron generation .
+
+The present conference proceedings contains a very abreviated version of results
+and discussions that will appear elsewhere. For detailed references, extended
+discussions, further comments about notation, etc., the reader is referred to Ref. 1.
+
+2. Coherent Neutron Capture in the Presence of a Lattice
+
+The coherent transfer of a neutron to or from a nucleus in the presence of a lattice 
+in our model is mediated by an electromagnetic transition as depicted in Figure 1. 
+The initial state for coherent neutron removal would include a donor nucleus X and 
+an initial lattice Lx; the final state would include a product nucleus Y, a Bragg state 
+neutron, and a final state lattice Ly. The transition between the initial state and 
+final state is mediated through near-field d • E or µ • B hamiltonians, with the electric 
+or magnetic fields being long wavelength macroscopic fields imposed externally, or 
+in the case of electric fields, perhaps arising internally. 
+
+Figure 1. Feynmann-like diagram for a single coherent neutron transfer reaction. 
+
+The transition hamiltonian which corresponds to the magnetic version of this 
+process is described in second quantization through fLµ,B, which is
+where the nucleon field operators are defined elsewhere1; for example
+The center of mass position is determined as a function of the phonon mode ampli-
+tudes through Ri = R? + Lm CJmU m(i)
+Upon substituting in our expressions for the various operators which occur in
+the transition operator we obtain
+where the first magnetic dipole operator appearing in this equation is defined by 
+
+Some brief discussion of the physical content of this model is in order; the model
+describes a transfer of a neutron from X whose center of mass is located "at" Rf;, 
+resulting in the product nucleus Y whose center of mass is located "at" R.ri. The
+positions of the initial and final state nuclei are determined by the degree of lattice
+excitation and by the lattice displacement vectors, both of which will differ between
+the initial and final states due to the neutron transfer. The spatial overlap integral
+given in equation (2.4) ensures that a transfer occurs only when the initial and final
+center of mass coincide to within fermis; no transfer occurs for large separation.
+Hence, the magnetic dipole operator is a highly nonlinear function of the lattice
+phonon mode amplitudes; we have fou11d an approximate Gaussian dependence on 
+relative separation (µ ~ e-½BIRf-Iln2
+, with Bon the order of fermi-2)
+
+
+3. Energy and Momentum Transfer Between Nuclei and a Lattice
+
+The fundamental theoretical dilemma that presents itself is: how can a large 
+MeV nuclear energy quanta can be transferred to a lattice whose energy levels 
+are quantized on the meV scale? Our initial efforts were focussed on transferring 
+the energy one phonon quanta at a time; this approach, however, appears to be 
+unproductive. The only alternative is to transfer the nuclear quanta in a single 
+step, which requires a large nonperturbative nonlinearity on the part of the lattice 
+in order to accept the energy. 
+
+We may view the neutron transfer process as involving a collision between a 
+lattice and a nucleus; the hamiltonian for the lattice may be taken to be of the form 
+The lattice is composed of a large set of oscillators, each with mode amplitude qm and 
+momentum Pm· We may construct a large dimensional vector q from the individual 
+mode amplitudes q = Lm imqm which would represent the position of the lattice in 
+a N-dimensional space where N is the total number og phonon modes. The nucleus 
+exists in 3-space, but since the center of mass position coordinates are functions 
+of the phonon mode amplitudes, the nuclear scattering potential is mapped into 
+the N-dimensional space as indicated in the above hamiltonian. As a result, the 
+problem that we are interested in analyzing is basically of simple inelastic collisions 
+in q-space between the lattice and nucleus. 
+
+We know from an analysis of kinematics in 3-D that energy and momentum must 
+be separately conserved, and that the constraints imposed through conservation 
+determine the essential features of the reaction. We would like to understand how 
+energy and momentum conservation works in this case, especially since it is generally 
+believed that the low energy phonon modes of the lattice cannot accept a nuclear 
+energy quantum; the arguments against this ultimately have to do with whether 
+energy and momentum can be conserved simultaneously. 
+
+We may formulate the problem simply: we require that 
+and 
+be satisfied at the same time, where Ei and E1 are the total initial and final lattice 
+energies, and where Pi and p 1 are the total N-dimensional lattice momenta. The 
+nuclear energy transfer is  EN. The lattice may be thought of for the purposes of 
+the present argument as a wave incident on a time-dependent perturbation localized 
+around the origin in q-space; diffraction effects give rise to  P- We find that energy 
+and momentum can be matched simultaneously since 
+by the uncertainty principle. 
+
+The diffraction of the lattice off of the localized nuclear potential in q-space is re­
+sponsible for the momentum transfer, and we have argued here that this momentum 
+transfer can be consistent with the large energy transfer since the phonon mode am­
+plitudes must be localized to within fermis for a coherent neutron transfer reaction 
+to take place. The effect is purely quantum mechanical, since it is diffractive, with 
+no classical analog. The arguments given above can also give constraints on lattice 
+size and total lattice energy required for transitions to occur: these constraints entail 
+the requirement that many modes must be present so that the momentum transfer 
+to each is small, and that sufficient energy be present in each mode so that in an 
+endothermic reaction the energy is available for extraction. We shall discuss these 
+issues further elsewhere. 
+
+References 
+P. L. Hagelstein, "Coherent and Semi-Coherent Neutron Transfer reactions.
+I-IV," submitted to J. Fusion Tech. (1991).

@@ -1,0 +1,220 @@
+1. Introduction 
+
+Gas-loading has been applied (instead of electrolysis) to load deuterium into the palladium lattice at 
+Tsinghua laboratory since 1989[1-12]. There are four advantages to the gas-loading D/Pd system: safety, 
+sensitivity, low cost, and a higher operating temperature. Among these four advantages, the most important one 
+is that the operating temperature can be higher than 100ºC. Not only is Carnot efficiency higher, but the higher 
+temperature of working media led to discoveries about the reaction in the temperature domain above the boiling 
+point of heavy water, which could not have been made with unpressurized liquid systems. 
+
+In ICCF-9, a correlation between deuterium flux and heat flow was first reported [1] in the temperature 
+range of 140-150ºC after 16 repetitions in a high precision Calvet calorimeter (C-80D). After ICCF-9, based on 
+that correlation, a new gas-loading D/Pd system was built to make use of this discovery, with the ultimate goal 
+of developing a self-sustaining heat generator. Two improvements were made to keep the excess heat 
+continuous: 
+(1) A constant deuterium gas supply to keep the pressure difference across the Pd thin film. 
+(2) An electrical heater was used to heat the Pd film, and to calibrate the calorimeter. 
+
+The key issue has been the discovery of the anomalous behavior of the deuterium flux. Usually, the 
+deuterium flux permeating the Pd film was considered as a monotonic function of the temperature (TPd). The 
+deuterium flux was supposed to increase dramatically with the temperature. However, it was discovered that at 
+certain temperature, Tr, the deuterium flux reached a peak value and then declined. In other words, the 
+deuterium flux dropped in an anomalous way when temperature was just over Tr. This drop in deuterium flux 
+was accompanied by a drop in heat flow, conforming to the correlation between heat flow and the deuterium 
+flux that we observed previously [1]. Consequently, a negative feed-back mechanism was established in Pd film 
+when the temperature reached the higher temperature side of the flux peak at Tr, i.e. when TPd  > Tr , the heat 
+flow decreased when TPd increased; hence, TPd would decrease back until TPd reached a steady state. The new 
+apparatus was designed based on this concept in mind. 
+
+
+2. Apparatus
+
+Figure 1.  Calvet calorimeter confirmed the correlation between deuterium flux and heat flow 
+
+A schematic of the previous apparatus [1] is shown in Fig. 1 (right lower corner). The high precision Calvet 
+calorimeter was selected for excess heat measurement. It was sensitive to a heat flow in the order of micro-watt, 
+which is about the variation of metabolic heat of a singing insect. When the deuterium flux through the thin wall 
+of the Pd tube reached a peak at Tr (the thin solid line in the upper left corner of Fig. 1), the heat flow reached a 
+peak as well (shown by the thick dash-dot-dash line). The peak value was in the order of 2 milliwatts. The high 
+sensitivity of Calvet calorimeter was well suited to confirm the correlation between this heat flow and the 
+deuterium flux, but there was no direct measurement of temperature of the Pd tube. It was assumed that the 
+temperature of the Pd tube, TPd, was determined by the environment. (That is, the heater and the reaction vessel 
+were assumed to be isothermal). Indeed we knew nothing about the temperature distribution on the Pd tube, and 
+we did not know how to control this distribution of temperature in the Calvet calorimeter. 
+
+Figure 2. New apparatus to detect and control the temperature of Pd disk from edge 
+Thermocouple 
+
+Fig. 2 shows the schematics of the new apparatus designed to improve the detection and control of the 
+temperature of the Pd film. A palladium disk (φ20mm×0.1mm) was inserted between two stainless steel cells. An electrical heater was wound around the Pd disk to heat the disk from its edge. A thermocouple was attached 
+to the edge of the Pd disk to detect its temperature at edge. The left cell was filled with deuterium gas (about 1 
+atm.), and the right cell was evacuated by a mechanic pump to about 150 Pa. 
+
+
+3. Results 
+
+When only the circumference of a round Pd disk was heated, the temperature gradient pointed to the 
+direction of the radius; i.e. the temperature at edge was higher than that at the center of the Pd disk.  Once the 
+temperature approached Tr, a heat source appeared first at the edge of the palladium disk which “ignited” the Pd 
+disk from the edge to the center. As a result, the temperature gradient reversed its direction suddenly; i.e. the 
+temperature at center was higher than that at edge. Due to the abovementioned negative feed-back mechanism, 
+this new distribution of the temperature was quite persistent. Even if the heating power was reduced later to 
+lower the temperature at the edge of Pd disk, the temperature at center remained higher than Tr. 
+
+Fig. 3 shows schematically the temperature distribution of the Pd disk in the period of heating-up (lower 
+contours) and cooling-down (upper contours), respectively. When the heater started heating the edge of Pd disk, 
+the temperature distribution curve was of concave shape first (see the middle of Fig. 3). When the heating power 
+was increasing, the edge temperature was raised to the region of heat generation (the dotted line region where 
+Tlow < TPd < Tupper ); then, the heat flow would quickly raise the temperature of inner part of the Pd disk. This 
+resulted in an inversion of the temperature gradient. The concave curve turned into a convex curve as shown by 
+the two curves in the middle of Fig. 3.  
+
+This inversion appeared as a hysteresis in plot of TPd versus heating power in Fig. 4. When the electrical 
+heating power was raised, the temperature at the edge of Pd disk, TPd , 
+Figure 3. Temperature distribution on the Pd disk during the heating-up and cooling-down phase
+TPd 
+distribution 
+after
+gradient inversion 
+TPd distribution before
+gradient inversion
+Tupper
+Tlow 
+Cooling-Down 
+Heating-Up 
+Heat 
+peak 
+Tr
+appears in the range
+of Tlow to Tupper  
+increased also. A jump of TPd appeared at about 110ºC in Fig. 4. It implied that there was an inner heating power 
+in the Pd disk. When the external heating power was raised further, TPd curve went up smoothly again. When the 
+electrical heating power reached its maximum, and returned; the TPd decreased smoothly until the electrical 
+heating power reduced to zero where the TPd dropped with time. 
+
+In a comparison blank run, we replaced the Pd disk with a copper disk. Fig. 5 shows the plot of TPd versus 
+heating power for the case of copper disk (the black crosses). In order to show the temperature variation with 
+time, for each step of electrical heating power, the edge temperatures at each time step were shown by a series 
+of crosses aligned in a vertical line.  It approached its equilibrium value gradually. There was a distinct 
+difference between the Pd and Cu behavior. For the copper disk there was no temperature jump or wide 
+hysteresis behavior as that for Pd disk. For the Pd disk the cooling-down curve was far above the heating-up 
+curve when TPd is less than 80ºC. Nevertheless, for the copper disk the cooling-down curve was close to the 
+heating-up curve even if TPd is less than 80ºC. 
+
+Figure 4. Hysteresis in the plot of TPd versus heating power 
+
+
+4. Discussion  
+
+A quantitative analysis have been done as follows. Because the equilibrium time was very long for the 
+system, the heating and cooling process was a time-consuming if we waited to reach the equilibrium at every 
+power-step. Instead of waiting, we tried to analyze the experimental data when the system did not reach its 
+equilibrium with the environment. For this purpose an integration method was applied. 
+
+The basic calorimetric equation was  
+?Excess Heat
+Heating
+Joule
+Heat Transfer
+Heat Capacity
+x
+room
+
+Here CM is the heat capacity of the system in order to consider the non-equilibrium feature (i.e. dT/dt≠0). k is 
+the heat transfer coefficient; T and Troom are the temperature of the system and the room, respectively. I and V 
+are the electrical current and voltage of the heating power, respectively. Qx is the excess heat source (if any).  
+
+Usually, the derivative term on the left hand side of equation (dT/dt) would introduce the major error due to 
+the temperature fluctuation; hence, the integration form of equation was derived as 
+
+Here, Ti and Tf are the initial and final temperature of the system, respectively. In order to find the heat 
+transfer coefficient, k ; we may integrate all the data for the heating-up and cooling-down process. Then Ti = Tf 
+which will eliminate the unknown CM 
+first. For the copper disk, Qx is assumed to be zero also. Having integrated the joule heating power, we obtained
+
+Figure 6.  Excess power and input electrical power 
+
+Then, we select the maximum temperature as Tf , and the heat capacity of the system can be obtained from 
+the same integration equation for copper disk as 
+
+Indeed, the heating-up and cooling-down were two sets of independent data, and we can use them to 
+calculate the heat capacity independently. The difference of the heat capacity for heating-up and cooling-down 
+is less than 1 J/ºC. This is a good confirmation of our assumption on the constancy of k and CM. 
+
+Since the replacement of copper disk by palladium disk does not change the calorimetric feature of the 
+system much, we further assume that the heat transfer coefficient and the heat capacity are same for the Pd disk 
+and Cu disk system. We can estimate the power of the excess heat for the Pd disk system as   
+
+Here t1 and t2 are the starting and ending time of each power step. Fig. 6 shows the excess power as a function of 
+time. The excess power (open circles ) are about the same order of magnitude as that of the external electrical 
+heating power (triangles). The maximum excess power is more than 10 W while the electrical heating power is 
+less than 9 W. Indeed the excess power density in the Pd disk is more than 100W/cm3 which is greater than the 
+power density in a fuel rod of the thermal neutron fission reactor. 
+
+The total excess heat released in 9 hours was 192 kJ. Based on the total number of deuterium atoms 
+permeating the Pd disk (2.6×1020), we estimate the average energy released from each deuterium atom was 4.6 
+keV. Even if we average over all the palladium atoms (0.3 g. of Pd ~0.003 mole), it gives 0.44 keV per Pd atom. 
+In other words, this amount of excess heat is about 57 MJ/Mole for Pd which is much greater than any heat of 
+formation, heat of solution, and chemical bond energy. We conclude that there was a non-chemical origin for 
+such a large amount of excess heat. 
+
+Figure 7. Reproducibility of temperature jump in Pd film
+
+This hysteresis behavior of the system temperature versus heating power has been repeated in six different 
+configurations shown by Fig. 7. We changed the pressure difference across the Pd disk from 80 kPa (red open 
+circles) to 103 kPa (green open circles). We put varying layers of a thin coating on the surface of Pd disk, 
+including one layer of coating (light blue triangles), 3 layers of coating (dark blue triangles), and 5 layers of 
+coating (pink and dark green triangles). These layers are composed of titanium carbide (~2nm) and palladium 
+(~20nm) alternatively. The aluminum disk data (black open circles) are added as a control also, and it was very 
+close to the copper disk data (black crosses). Hence, the excess heat in Pd disk is confirmed, and reproducible. 
+
+Figure 8. New set of apparatus with bell jar for thermal insulation.
+
+
+5. The feasibility of a self-sustaining heat generator 
+
+This behavior implied that it might be possible to construct a self-sustaining heat generator, if we can 
+generate enough excess power in the Pd disk, with insulation good enough to maintain this temperature with 
+zero external heating power. 
+
+Fig. 8 shows schematics of a new set of apparatus provided by Dr. Schmidt at Institute for Engineering 
+Reach and Applications. The whole D/Pd system was installed in a bell jar which was evacuated by an ion pump 
+and a turbo-molecular pump. This vacuum greatly improved the thermal insulation of D/Pd system. 40 Watts of 
+electrical heating power would heat the D/Pd system to 400ºC, i.e. the heat transfer coefficient k ~ 0.1 W/ºC 
+which was less than 0.222W/ºC of present D/Pd system. The preliminary results in this new set of apparatus will 
+be reported later. 
+
+
+References 
+
+[1] Xing Z. Li, Bin Liu, et al.,’ “Super-Absorption”Correlation between Deuterium Flux and Excess Heat ’, 
+Condensed Matter Nuclear Science, Proceedings of ICCF-9, May 19-24, 2003, Beijing China, edited by 
+Xing Z. Li, (Tsinghua University Press 2004), p.202.  
+[2] Xing Z. Li, Bin Liu, et al., ‘”Pumping Effect” –Reproducible Excess Heat in a Gas-loading D/Pd System—‘, 
+ibid.  p.197. 
+[3]Xing Z. Li, et al. “Anomalous Nuclear Phenomena and Solid State Nuclear Track Detector,” Nucl. Tracks. 
+Radiat. Meas., 22, 599 (1993). See also: Shi.Y. Dong, Xing Z. Li, et al., “Precursor to ‘Cold Fusion’ 
+Phenomena and the Detection of Energetic Charged Particles in Deuterium/Solid System,” Fusion 
+Technology, 20, 330 (1991). 
+[4] Xing Z.Li, Wei Z.Yu, et al., “ ‘Excess Heat’ Measurement in Gas-loading D/Pd System,” Journal of New 
+Energy, Vol.1, no.4, Fall 1996, p.34.  
+[5] Xing Z.Li, Shu X.Zheng, Hai F.Huang, Gui S.Huang, Wei.Z.Yu, “New Measurement Of Excess Heat in a 
+Gas-Loading D/Pd System,” Proceedings of 7-th International Conference on Cold Fusion, April 19-24, 
+1998, Vancouver, Canada. Edited by ENECO, Inc. Salt Lake City, Utah USA, p.197.  
+[6] Feng S. Bu, Xing Z. Li, et al., “Loading Ratio Study in a Gas-loading System,” Proceedings of 6-th 
+International Conference on Cold Fusion, Vol.1, edited by M.Okamoto, October 13-18,1996, Japan, 
+(Published by New Energy and Technology Development Organization, and Institute of Applied Energy), 
+p187. 
+[7] Gui S. Huang, Xing Z. Li, “ A Possible Phase Transition in a Gas-loading D/Pd System,” ibid. Vol.1, 
+p198. 
+[8] Xing Z. Li, et al., “Super-Absorption—The Effect of Crystal Lattice on Enhancement of Nuclear 
+Reaction—”, Proceedings of 2001 Chinese Physical Society Fall Meeting, Sept. 20-23, 2001, Shanghai, 
+China. P.98 (in Chinese) 
+[9] Xing. Z. Li, J. Tian , M. Y. Mei and C. X. Li, “Sub-barrier Fusion and Selective Resonant Tunneling,” Phys. 
+Rev. ,C 61, 024610 (2000). 
+[10] Xing.Z.Li, "Nuclear Physics for Nuclear Fusion." Fusion Science and Technology, 41, 63 (2002). 
+[11] Jian Tian, Xing Z. Li, et al., "Anomalous Heat Flow and Correlation with Deuterium Flux in a D/Pd 
+Gas-loading System", Condensed Matter Nuclear Science, Proceedings of ICCF-9, May 19-24, 2003, 
+Beijing China, edited by Xing Z. Li, (Tsinghua University Press 2004), p.353. 
+[12] Wei Wu, Xing Z. Li, et al., “Anomalous Heat Effect during Permeation of Deuterium Gas through the 
+Palladium Tube, ” ibid. p.412. 

@@ -1,0 +1,162 @@
+Evidence for Nuclear Transmutations in Ni–H Electrolysis
+
+K.P. Rajeevand D. Gaur
+
+
+Abstract
+
+We report We report an easily reproducible Low Energy Nuclear Reactions (LENR) electrolysis experiment on an Ni–H system. An electrolytic
+cell with a Ni cathode and a Pt anode with an aqueous (H2O not D2O) solution of K2CO3 as electrolyte was used for the
+experiment. A dc-power supply capable of supplying up to 5 A current was used to drive the electrolysis with the typical current
+being around 4 A and the applied voltage about 100 V. After running the electrolysis for about two weeks with a daily run time of 8
+h on an average, a part of the nickel electrode, which by this time had become black, was taken for elemental analysis using Energy
+Dispersive Spectroscopy (EDS). The EDS analysis showed that a whole host of new elements had appeared on the cathode such as:
+K, Fe, Cu, O, Rh, Zr and Pb. The apparent concentration of the elements varied from just over a percent for K and Pb to about 10%
+for Rh and 20% for Cu. The sample was then taken to a Time of Flight Secondary Ion Mass Spectrometer (ToF-SIMS) for isotopic
+analysis. This analysis also showed that a set of new elements had appeared on the nickel wire which were: K, Si, Mg, Mn, Zn,
+O & Rh. The Ni itself was found to have the following isotopes: 58Ni, 60Ni and 62Ni with isotope concentration ratios differing
+significantly from the ratio found in naturally occurring Ni. It was clear that in the electrolyzed Ni the concentrations of 60Ni and
+62Ni had gone down compared to the concentration of 58Ni. This is a clear indication that nuclear reactions had taken place during
+electrolysis.
+
+
+1. Introduction
+
+Since the announcement of the discovery of low energy nuclear reactions (LENR) by Fleischmann and Pons in 1989,
+there has been a large number of attempts to replicate their results [1]. There have been many successful replications
+of excess heat in palladium–heavy water systems (Pd–D2O or Pd–D) even though the detection of excess heat is not
+always easy, especially if the effect is small [2]. On the other hand, finding transmutation products provide undeniable
+evidence of nuclear reactions and there has been large number of instances of this in the Pd–D and other systems [3].
+In the light of this it would be useful to find an easily reproducible experiment to convince any interested researcher of
+the truth of the LENR phenomena. The Ni–H2O (or Ni–H) system fits the bill, being very easy to set up and run and
+seems to work the first time unlike the Pd–D system which seems to require considerable coaxing before it will reveal
+the LENR phenomenon. There have been many reported studies on the Ni–H system that have reported excess heat as
+well as transmutation products [3].
+
+
+2. Experiment
+
+
+2.1. Experimental apparatus:
+A schematic of the electrolytic cell used is shown in Fig. 1. The experiments were done with a Ni (99.99%) cathode
+and a Pt (99.999%) anode in a 1 l glass beaker with the electrode diameters being 0.75 mm (Ni) and 0.5 mm (Pt).
+
+The electrolyte was K2CO3 (minimum purity 99%; the maximum limits of impurities were: iron: 0.001%, sodium:
+0.1%, chloride: 0.03%, nitrate: 0.01% and sulphate: 0.02%, the remaining being moisture) dissolved in about one
+liter of distilled water with an approximate 1/2 molar concentration to begin with. The molarity of the solution was
+maintained between 1/2 and 1 by adding distilled water to the beaker as needed. Metallic impurities in K2CO3 were
+less than 0.1%. To prevent accidental combustion within the electrolytic cell the evolving hydrogen and oxygen gases
+were allowed to escape from the cell through different vents.
+
+2.2. Experimental procedure:
+A dc current less than 5 A at voltages up to 100 V was used to drive the electrolysis. Because of the relatively large
+power dissipated in the electrolyte it would be boiling vigorously and losing water which was replenished by adding
+distilled water as required.
+
+A single Ni electrode was used for the electrolysis experiments. The tip of the electrode about 3–4 mm in length
+was cut-off at various stages of the experiment for EDS analysis to monitor the progress of the nuclear reactions. The
+duration of electrolysis was 100 h. Detailed analysis including both EDS and SIMS were done only on a piece of the
+Ni electrode subjected to the full 100 h of electrolysis and is reported here. EDS analyses were done on the pieces Ni
+electrode cut off at earlier stages to check whether LENR process had started and, if so, how it was progressing.
+
+We were unable to carry out a detailed elemental analysis of the electrolyte before and after the experiment for lack
+of suitable facilities.
+
+
+3. Analysis technique: EDS
+
+Energy Dispersive Spectroscopy (EDS) is a surface spectroscopic technique [4]. It is usually associated with electron
+microscopy. Some of the electrons used for imaging knock out core electrons from the surface atoms giving rise to
+characteristic X-ray emissions from the excited atoms. The X-rays are analyzed to determine the elements and their
+concentration.
+
+3.1. Analysis technique: ToF-SIMS:
+Secondary ion mass spectrometry (SIMS) is a technique used to analyze the composition of solid surfaces and thin
+ﬁlms by sputtering the surface of a specimen with a focused primary ion beam and collecting and analyzing the ejected
+secondary ions [5]. The mass/charge ratios of these secondary ions are measured with a mass spectrometer to determine
+the elemental, isotopic, or molecular composition of the surface to a depth of, typically, a few nanometers.
+
+For the determination of concentration of isotopes in a sample “multiple collector inductively coupled plasma
+spectrometry (MC-ICP-MS)” is a far more accurate technique than SIMS [6]. But SIMS has an advantage over MC-
+ICP-MS in that it determines the isotope ratios at the surface of a solid sample down to a few nanometers while MC-
+ICP-MS can only determine isotope ratios in a sample which is dissolved in some solvent. But of late spectrometers
+have started becoming popular which uses laser ablation (LA) to dislodge ions from the surface to be analyzed and
+thus can analyze isotopic concentration of surfaces very well. For lack of easy access to such an LA-MC-ICP-MS
+machine we decided to do our analysis on a SIMS machine.
+
+Time of Flight (ToF)-SIMS is a particular type of SIMS where the isotope determinations are done by measuring
+the transit time of ions which are accelerated according to their charge to mass ratio through a certain region of space
+
+
+4. Results and Discussion
+
+After a run of a total of about 100 h the Ni electrode was analyzed for new elements using EDS. See Fig. 2 for a
+typical spectrum. Evidence for a whole host of new elements can be seen with substantial amounts of new metals such
+as copper (20%), rhodium (10%) and zirconium (6%) and iron (2.5%). Interestingly Ni concentration is only 3.1% in
+this particular spectrum! It is to be pointed out that the spectra obtained from different regions of the sample differ
+in the observed elements and their concentrations. EDS data show that new elements have appeared on the cathode.
+
+To conﬁrm that nuclear transmutations have taken place in the Ni wire we carried out mass spectrometry on the Ni
+wire using a ToF-SIMS. Even though, inadvertently, the sample was cleaned lightly with an emery paper to expose
+the shining nickel metal underneath before being analyzed in the ToF-SIMS machine, the results turned out to be very
+signiﬁcant.
+
+The SIMS analysis found various elements on the wire surface as expected such as K, Si, Ca, Zn, Mg, Mn, Rh,
+Zr and Pb. We conﬁned our isotopic analysis to nickel for which we had a standard available as a piece of unused Ni
+wire. The isotopic concentrations of nickel found in its natural state are: 58Ni: 68%, 60Ni: 26%, 61Ni: 1.1%, 62Ni:
+3.6% and 64Ni: 0.9% [7]. For the electrolyzed Ni the isotope analysis was done only for 58Ni, 60Ni and 62Ni because
+we got clear signals from these isotopes only.
+
+The SIMS analysis was done on two regions (each 10 µm diameter) of the Ni sample. Figure 3 shows the SIMS
+signals from Ni isotopes from region I of the sample. In Table 1, we have shown the isotope ratios of Ni observed in
+nature as well as what we observed in our electrolyzed samples. It is clear that the isotopic ratio in the electrolyzed Ni
+is not what is found in the natural state of Ni. This fact strongly suggests that nuclear transmutation does take place
+during electrolysis. Isotopic ratio of Ni is modiﬁed by the electrolysis process with 60Ni and 62Ni being signiﬁcantly
+depleted with respect to the more abundant 58Ni.
+
+More work needs to be done to systematize the ﬁndings such as:
+(1) What happens if the electrolysis process is carried out at a different voltage? Is there a threshold voltage?
+Please note that this work was done at around 100 V.
+(2) What are the isotope numbers of the other elements found on the Ni cathode? Are they all stable nuclides? Are
+some of them radioactive?
+(3) How do the isotope ratios evolve with the duration of electrolysis?
+(4) Does the electrolyte have any effect on the transmutation process? Will the use of a different electrolyte result
+in different isotope ratios for Ni?
+(5) Would an external applied magnetic ﬁeld have any effect on the outcome?
+(6) Are there any hazardous neutron or γ-ray emissions during the process? No monitoring for such radiation was
+done during the experiments reported here as it is believed generally that LENR reactions do not produce any
+hazardous radiations. But still, this is a very important safety consideration and monitoring for such radiations
+should be done in LENR experiments as a matter of routine.
+
+One of the observations made during the course of this work was that Ni–H electrolysis always seem to produce new
+elements at the cathode. The transmutation process seems to start right away, without delay, once the electrolysis is
+started. We could see this from the EDS analysis of a piece of the Ni wire subjected to only a few hours of electrolysis,
+but not reported here. Thus Ni–H systems seem friendlier than the Pd–D systems in which the LENR processes start
+with a large time delay, if at all.
+
+Another strange observation is that the isotope 62Ni which has the highest binding energy per nucleon of all the
+nuclides got depleted during our experiment! This raises the question of whether we are dealing with an endothermic
+process here.
+
+
+5. Conclusion
+
+It is easy to reproducibly induce nuclear transmutations in Ni–H systems and a large number of transmutation prod-
+ucts are seen on the cathode on elemental analysis. Mass spectrometric analysis shows that isotope ratios of Ni are
+modiﬁed in the Ni cathode which is an undeniable indication that nuclear transmutations can be induced by low energy
+electrolytic processes.
+
+
+References
+
+M. Fleischmann and S. Pons, J. Electroanal. Chem. 261(2A) (1989) 301.
+K.P. Rajeev and D. Gaur / Journal of Condensed Matter Nuclear Science 24 (2017) 278–283
+E. Storms, The Science of Low Energy Nuclear Reaction: A Comprehensive Compilation of Evidence and Explanations
+About Cold Fusion, World Scientiﬁc, Singapore, 2007.
+M. Srinivasan, Current Sci. 108 (2015) 624 and the references therein.
+J. Goldstein, D.E. Newbury, P. Echlin, D.C. Joy, C.E. Lyman, E. Lifshin, L. Sawyer and J.R. Michael, Scanning Electron
+Microscopy and X-ray Microanalysis, 3rd Edition, Kluwer/Plenum, New York, 2003.
+A. M. Spool, The Practice of TOF-SIMS: Time of Flight Secondary Ion Mass Spectrometry, Momentum Press, New York,
+[6] F. Albarède, P. Telouk, J. Blichert-Toft, M. Boyet, A. Agranier and B. Nelson, Geochimica et Cosmochimica Acta 68
+(2004) 2725.
+IUPAC, Pure Appl. Chem. 70 (1998) 217.

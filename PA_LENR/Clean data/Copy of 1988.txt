@@ -1,0 +1,229 @@
+1. INTRODUCTION
+
+Experimental results on registration of Excess Heat power and impurity nuclides yield (nuclear reaction products) in the high-current Glow Discharge cathode solid prove that there exist certain conditions and mechanisms that lead to initiation of Low Energy Nuclear Reactions (LENR) in the condensed medium of the cathode solid. Overcoming the Columb’s barrier is prerequisite for initiation of the said nuclear reactions. Formation of excited levels with energies ranging 1.0- 3.0 keV and lifetime up to some ms is assumed as a necessary condition for LENR to proceed in the cathode solid medium (with the density up to 1027 atom/m3 ). This may be achieved by devising a mechanism for conversion of 0.5 – 3.0 keV plasma ions flux initial energy into 0.5 – 10.0 keV high-energetic excitation of a solid nuclear electronic system. Presumably such a conversion takes place in the cathode sample solid exposed to bombardment by the discharge plasma ions. This process is evidenced by intensive X-ray emission recorded during the Glow Discharge operation and after the Glow Discharge current switch off. The energetic and temporal characteristics of the X-rays are determined by the energy and lifetime of the excited energetic levels in the cathode solid medium.
+
+
+2. X-RAY EMISSION MEASUREMENT
+
+The measurements were carried out using the Glow Discharge device (GDD) consisting of a water-cooled vacuum chamber, the cathode and the anode assemblies. The cathode design allowed the placement of the cathode samples made of various materials onto the cooled surface. The cathode samples made of Pd and other metals were positioned on a cathode-holder, with a window for the output penetrating radiation being provided above it. The window was shielded by 15m-thick Be foil to protect the detectors from visual and ultraviolet radiation. The varied detectors were places near the window to measure the output penetrating radiation (Fig.1). The recording of the X-ray energetic and temporal characteristics was carried out by an X-ray pinhole provided with an X-ray film, TLD, and PM scintillating detectors. The energy spectrum of the X-ray emission was registered using a curved mica crystal spectrometer.
+
+Fig.1. Experimental Glow Discharge Device (continuous flow calorimeter). 1 – vacuum discharge chamber, 2 – cathode holder unit, 3 – cathode sample, 4 – anode unit, 5 – input and output of the water cooling system, 6 – X-ray emission output channel, 7 – 15 Be shield, 8 – X-ray detector of a particular kind, 9 – heat insulation cover, 10 – windows in the heat insulation cover.
+
+
+3. REGISTRATION BY OBSCURE CHAMBER
+
+The X-rays high intensity made it possible to obtain an optic image of the X-ray emission area. This was done by an obscure chamber with 0.3mm diameter hole as an optic lens. The image shows that the cathode area measuring 9mm diameter (Fig.2) and especially its central part is the most luminescent. The X-ray emission intensity grew with the increase in the Glow Discharge voltage (Fig.2a, Fig.2b).
+The authenticity of X-ray measurements was checked in experiments with a lateral magnetic field induced upon the emission flux. The obscure chamber used represented an X-ray spectrometer chamber with the curved mica crystal removed. The recording was done by a pinhole camera (with 2.0 mm diameter hole as an optic lens). The pinhole provided a spatial resolution of the X-ray emission. The X-ray emission registration by the pinhole was performed without any induced magnetic field, and, with lateral 0.3T magnetic field induced in front of the pinhole (to deflect the charged particles flux from the cathode). Absence of noticeable difference between the two images (Fig.3b) and (Fig.3c) shows that the pinhole recorded the X-ray emission (Fig.3a, Fig.3b).
+
+
+4. TLD MEASUREMENTS
+
+To estimate the intensity and evaluate the mean energy of the soft X-ray emission in the Glow Discharge, thermo-luminescent detectors (TLD) based on crystalline Al2O3 were used. The detectors allowed recording of penetrating radiation starting from the background values. To determine the mean energy of the X-rays a special cassette (seven-channel spectrometer) was used. Seven 5mm-diameter channels were bored inside the cylindrical body of the cassette. The detectors in the form of 5mm-diameter and 1mm-wide disks were incorporated into the above passages. Each channel was supplied with a Be foil ranging in width 15μm, 30μm, 60μm, 105μm, 165μm, 225μm, 225μm, 300μm, respectively. To register the background value of the emission dose two TLD detectors were positioned outside the camera.
+The change in intensity of the X-ray emission passing through a d – thick Be foil is determined by
+I I0 2d1/2
+Where: I0 represents the X-ray intensities at the Be foil input, I stands for the X-ray intensities at the Be foil output, d shows the Be foil thickness (width), d1/2 denotes Be half-thickness for the absorption of photons. The experiments were carried out with the cathode sample made of Pd and with Deuterium as a plasma- forming gas.
+
+Fig.2. The image of the X-ray cathode obtained by the obscure camera. 0.3 mm - diameter objective is closed by 15m-wide Be shield. The system used is Pd-D2, at the discharge current of 150mA, at the exposure time of 1000s, a - at voltage of 1350 V, b at voltage of 1850 V. The image is positive.
+Fig.3. The diagram of the X-ray image registration using the pinhole. 2.0 mm-diameter objective is closed by 15m-wide Be shield. The system used is Pd-D2, at the discharge current of 150mA, at voltage of 1850 V, with
+the exposure time of 10000s. a shows the X-ray image obtained without any induced lateral magnetic field; b shows the X-ray image obtained with induced lateral magnetic field of 0.3 T. The image is positive. 1 is the anode, 2 denotes the discharge plasma area, 3 shows the cathode.
+
+The results show that the doses obtained in using various detectors decrease exponentially with the increase in Be foil width. The main X-ray emission component ranges 1.3-1.8 keV, a component with higher energy being present too. Higher X-ray emission values were recorded when using thicker absorbing Be foils (Fig.4). This data confirms existence of a more prolonged X-ray emission energetic spectrum.
+
+
+5. SCINTILLATING DETECTOR - PHOTOMULTIPLIER MEASUREMENTS
+
+The X-ray emission energy was estimated in experiments using the scintillating - PM measurement system, and, 15m- and 30m-wide beryllium foil shields (See Fig.5a and Fig.5b, correspondingly).
+In case of PM scintillating detector the relative intensity of the X-rays was determined as the total of the amplitudes A1i and A2j of all the X-ray bursts within the time interval of 1 second (Fig.2a,b). The experiments with the scintillating – PM measurement system, and, 15m- and 30 m –wide Be foil shields allowedtoevaluatetheX-ray energyvalueasEX-ray 1.3–2.5keV(fordifferentcathodematerials).
+The change in intensity of the X-ray emission passing through a d- thick Be foil is described by the expression:
+  d A2j A1i 2d
+Where: A1i – represents the X-ray emission intensities at 15 m-wide Be foil input, A2j – stands for the X-ray emission intensities at 30 m-wide Be foil output, d – is the Be foil thickness (15 ), d1/2 – denotes Be half-thickness for the absorption of photons.
+The experiments were carried out using the following systems of cathode – plasma-forming gas (The relative intensity was reduced to a physical magnitude by the intensity value measured with the TLD detectors
+(EX-ray 1.5 – 1.8) keV):
+
+
+6. X-RAY SPECTRA REGISTRATION
+
+The X-ray spectra were recorded using the curved mica crystal X-ray spectrometer positioned ray film (Fig.6). The X-ray wave length was evaluated by the expression:
+on an X- where – is the X-ray emission wave length, d – stands for the distance between crystallographic planes of
+the mica crystal, 2d = 2nm; – represents Bregg divergence; m –stands for the diffraction order.
+The spectra pattern includes bands, dark and light spots (consisting of multiple tiny dark and light dots) and separate dark and light small spots. The bands and spots were located in spectral areas specific for a given cathode material used (Fig.7). The measured energy of the X-ray bands and spots (the energetic position of the bands and spots within the spectrum) was dependent upon the cathode material used and was similar to characteristic X-ray spectra. It was assumed that the diffusion component of the X-ray emission was registered on the spectrum as a series of bands. The energy of X-ray emission bands doesn’t correlated with L, M energy of electron levels (Fig.7). The X-ray spectra registered with different cathode materials include bands with energies exceeding by several times the energy of the ions flux (from plasma or electrolyte) bombarding the cathode surface (Fig.8, Fig.9). This data is assumed to confirm the existence of mechanism for conversion of the initial crystal lattice excitation energy by plasma ions into a much higher excitation energy (into the second, the third, and so on energetic modes). The theoretical interpretation of this mechanism was suggested by P.Hagelstain (P. Hagelstain phonon laser).
+
+The spectra were repeatedly recorded during the Glow Discharge operation and after the Glow Discharge current switch off (for up to 20 hours afterwards). This substantiates existence of excited energetic levels in the cathode solid medium after the Glow Discharge current switch off.
+
+
+7. EXCESS HEAT REGISTRATION IN GLOW DISCHARGE
+
+Measurements of Excess Heat power were carried out in experiments with high-current Glow Discharge proceeding from the assumption that occurrence of 0.5-10.0 keV excited energetic levels in the cathode solid medium triggers LERN leading to production of Excess Heat energy.
+The Excess Heat registration was carried out using the Glow Discharge Device (Fig.1). The pulse-periodic electric power supply was used. The thermal (signals from temperature sensor and the flow-meter) and the electric parameters (the GD current and voltage) were recorded using a data acquisition board. The values obtained were processed by a computer. The excess heat power PEH value was determined by
+PEH = (PHC + PHA + PHCh) - Pel Perror (4)
+where Pel is the Glow Discharg input electric power; PHC, PHA, PHCh represent the output heat power carried away by the cooling water from the cathode, anode and chamber, respectively; ΔPerror stands for the systematic error of the power measurement for the given measuring system.
+The heat power carried away through the anode, cathode and chamber cooling water channels, respectively, is determined in the following way:
+PHA = CwGWATA (5) PHC= CwGWCTC (6) PHCh = Cw GWCh TCh (7)
+
+Here Cw stands for the water specific heat; GWA, GWC, GWCh show the anode, cathode and chamber cooling water flow rate, respectively; TA, TC, TCh denote the difference between the anode, cathode and chamber input and output cooling water temperature readings. The water flow rate is measured by volume flow meters with 0.2% relative measurement error.
+Current (I) and voltage (U) values were multiplied digitally and the resulting file for electric power pulse was made, the electric power value having been obtained by the following expression:
+el
+T
+P 1 U(t)I(t)dt (8)
+T0
+In case of digital integration the integral was substituted for a sum and then the equation took the form of:
+iN  pp
+1
+Pi i1().(9)
+0.1%; pi, pi+1 representing electric power values for different temporal meanings (ti, ti+1). The number of partitions i =N was determined by the condition of the power correct linear approximation for each length ti, ti+1. The electric power was represented as an area within (under) a separate power pulse curve related to the power supply pulse-repetition period. Calibration of the measurement system was carried out in the following way: a water-cooled electric resistive heater wrapped into an insulating package was placed among the temperature sensors inside each thermal power measuring channel. The amount of the consumed cooling water corresponded to that inside the Glow Discharge Device. The resistive heater was powered by a pulse-periodic power supply. The heater electric parameters were identical to those of the Glow Discharge. The measured heat power of the resistive heater was equated to the heater measured electric power. The calibration relationship was estimated at different values of the input electric power.
+
+The Pd samples used in tests with Xe and Kr Glow Discharge were not deuterium pre-charged. The measurement system allowed to record the Glow Discharge input electric power and the thermal power output by the cooling water with accuracy of 0.6 W at the absolute value of the electrical power up to 120 W (relative error 0.5%,).
+In this set of the experiments the current density did not exceed 100 mA/cm2. At such values of the Glow Discharge current in D2 , a continuous loading of D2 into Pd ran up to saturation. The experiments were carried out with Pd cathode samples in D2 Glow Discharge, and with deuterium pre-charged Pd cathode samples in Xe and Kr discharges. The amount of the loaded D2 was estimated according to the pressure drop in the chamber. D2 was periodically supplied into the chamber to maintain the required pressure. The amount of deuterium loaded into palladium was determined by the volume of the gas absorbed from the discharge chamber. When saturation was achieved, the value of the D/Pd ratio was close to 1.
+
+Heat measurements were carried out for Pd cathode samples in Glow Discharge while changing the following parameters: Glow Discharge current density, voltage, duration of current pulses, and the time between current pulses (from the power supply). The absolute value of the Excess Heat power and thermal efficiency grew with the increase in the Glow Discharge input power. (Fig.10). Relatively high values of Excess Heat power, and thermal efficiency, were achieved for deuterium pre-charged cathode samples in Xe and Kr discharges. No Excess Heat power production was observed in the cathode samples made of pure Pd (not deuterium pre-charged) in Xe and Kr discharges (Fig.11, curve 3).
+The three-channel system of separate measurements of the output Heat power (for the anode, cathode and chamber) allowed to define the structure of the Glow Discharge output Heat power. Large efficiency values were achieved in experiments with high relative heat release on the cathode. This data prove that Excess Heat power was produced mainly on the cathode (Fig.12).
+Two typical sets of results can be singled out: relatively high values of Excess Heat power and Efficiency (curve 1) and the set with lower values of Excess Heat power and Efficiency (curve 2). The big values of Excess Heat power and Efficiency were observed in conditions when the Glow Discharge operational voltage ranged 1000 - 1300 V (Fig.13).
+
+Thus, it was experimentally shown, that the Excess Heat power production was determined by two processes: 1) deuterium should be loaded into the solid-state crystal lattice medium; 2) the crystal lattice should get initial excitation, so that high-energy long-lived excited levels were created in the cathode sample solid. These excited conditions could be created by an additional source (for example by a flux of inert gas ions).
+
+
+8. EXCESS HEAT MEASUREMENTS IN EXPERIMENTS WITH
+HIGH VOLTAGE ELECROLYSIS
+
+The Pd cathode emission spectrum shows that the most intensive radiation comes from the Pd excited level ranging 1.2 – 1.5 keV. The highest Excess Heat values in high-current Glow Discharge were registered at 1100 - 1300 V GD voltage (the energy of plasma deuterium ions bombarding the cathode surface). These results are in good agreement with Excess Heat measurements obtained in experiments with high-voltage electrolysis at cathode-anode voltage up to 1000 V. There were two sets of HVE experiments with different types of electrolytic cells.
+The first set of experiments involved an electrolytic cell designed as a heat capacity calorimeter. The cell designed as a water-cooled flow calorimeter was used in the second set of experiments.
+
+
+9. EXPERIMENTS WITH HVE DEVICE AS A HEAT CAPACITY CALORIMETER
+
+The high-voltage electrolysis device consisted of a quartz tube with an additional circuit for a working fluid (Fig.14). The anode and cathode units were placed inside the tube. To circulate the working fluid a mixer was installed inside the circuit. The quartz tube was also provided with a thermocouple.
+Four sets of experiments were carried out at the following HVE operating parameters:
+1) Electrolysis in light water (H2 O) with a Pd cathode.
+2) Electrolysis in light water (H2 O) with a Cu cathode.
+3) Electrolysis in heavy water (D2O) with a Pd cathode (not pre-treated Pd).
+4) Electrolysis in heavy water (D2O) with a Pd cathode (pre-treated Pd cathode by saturation in
+heavy water for a month).
+
+The experimental procedure used was the following:
+In all the experiments the electric power input into the cell was constantly maintained at the same level for
+all types of cathodes and working liquids. During electrolysis the working liquid was kept heated. The time and temperature parameters of the working liquid were repeatedly recorded during the experiment. The electrolysis was stopped when the electrolyte temperature ran up to 80 C. Four different tests involving particular discreet electric power values of 20 W; 40 W; 60 W and 80 W were carried out for each experimental system (specific cathode material and particular kind of electrolyte). The electrolyte temperature/time gradient (the electrolyte heating rate) was determined on the basis of experimentally established correlation between the electrolyte temperature versus time for each system and the cathode material versus kind of electrolyte and the electric power discreet value for a given experiment.
+
+The data shows that in case of two systems: heavy water (D2O) with Pd cathode and heavy water (D2O) with Pd cathode (pre-treated Pd cathode by saturation in heavy water for a month) the electrolyte heating rate was several times higher than the temperature/time gradient for other systems: light water (H2O) with Pd cathode and light water (H2O) with Cu cathode (Fig.15). Presumably, this difference (exceeding) of temperature gradient for heavy water (D2O) with Pd cathode is accounted for by the production of Excess Heat power in the cell.
+The following procedure was used to evaluate Excess Heat power and Heat Efficiency: the change in thermal energy of electrolytic cell (Qheat ) relative to time () occurs due to the input electric power (Pel )
+and the Excess Heat power (PEH ) produced in the cell.
+heat
+Q    
+p
+
+mc
+
+P
+el
+P
+EH
+(10)
+Here m stands for the effective mass of the cell-calorimeter; Cp represents the efficiency coefficient of the calorimeter mass thermal capacity; T shows the electrolyte temperature change relative to time .
+Let us denote the time/temperature gradient for each cathode/ electrolyte system as a coefficient “K”. Then:
+KPd-H20=(T/)Pd-H20;KPd-D20 =(T/)Pd-D20.
+Assuming that no Excess Heat power is produced in using light water (H2O) with Pd cathode system we
+arrive at PEH = 0.
+The change in electrolytic cell thermal energy for heavy water (D2O) with Pd cathode system may be
+represented as:
+K (11)
+
+The change in electrolytic cell thermal energy for light water (H2 O) with Pd cathode system may be termed as:
+K P d H 2 O The Excess Heat power value is equal to:
+mc
+el
+(12)
+P
+P PdD2O
+ (K 1) (13)
+EH
+K
+el
+PdH2O
+Thermal Efficiency (correlation of the thermal power produced in the system to the input electric power) is determined by the expression:
+K
+ PdD2O100% (14)
+P d H 2 O
+In experiments with a Cu cathode in light water the results obtained are similar to those recorded with the
+Pd cathode in light water. Considerable increase in Excess Heat power and Heat Efficiency is recorded for Pd cathode pre-treated by saturation in D2. Excess Heat power and Heat Efficiency values are lower in experiments with cell-calorimeter without thermal insulation (from the environment) (Fig.16, Fig.17).
+
+
+10. EXPERIMENTS WITH HVE DEVICE AS A FLOW CALORIMETER
+
+The HVE device as a water-cooled flow calorimeter consisted of a quartz tube with an additional circuit for a working fluid (Fig.18). The anode and cathode units were placed inside the tube. To circulate the working fluid a mixer was installed inside the circuit. One side of the flat cathode was washed by the working liquid, while the other side of it was cooled by the water flowing in a cooling tube. Thermocouples connected differentially were placed inside the water-cooling passage to take the difference in the cooling water temperature input and output. The cooling water consumption on the cathode was the same in all the experiments. High-voltage power supply (up to 5 kV at current values up to 100 mA) with a series-connected limiting resistor was used to feed the HVE device.
+The experiments were carried out using light and heavy water as a working liquid. By various techniques the voltage in the working liquid between the cathode and the anode was brought up to 800-1000 V. The electrolysis was effected without an electric discharge operating between the cathode and the anode. The electric power was measured by a power gage provided with an additional ammeter and voltmeter. The water temperature inside the cooling passage was additionally controlled by mercuric thermometers.
+
+Three sets of experiments were carried out at the following HVE device operating parameters:
+1) Electrolysis in light water (H2O) with a Pd cathode.
+2) Electrolysis in heavy water (D2O) with a Pd cathode.
+3) Electrolysis in heavy water (D2O) with a Pd cathode (pre-treated Pd cathode by saturation in heavy water for a month).
+
+The procedure used in experiments with pre-treated Pd cathode was the following. First electrolysis was carried out with a Pd cathode in D2O, then the Pd cathode was left for a month immersed into D2O. The electrolysis with thus pre-treated Pd cathode was carried out alongside with measurements of electric power, and the water temperature in the cathode cooling passage. In all four cases the cathode was cooled by the tap water. The water consumption in the cathode cooling passage was the same in all the experiments. The electric power of electrolysis used in experiments with the pre-treated Pd cathode was approximately by 2 – 2.5 times less. The relative value of the output power was determined by the difference between the input and output water temperature in the cathode water cooling passage.
+(15)
+H 2O
+Here t = (tout tin) represents water heat up in the cathode water cooling passage; Wel. stands for the electric
+power input into the electrolytic cell in the experiments with heavy and light water, respectively.
+The above experimental results may be represented in terms of Excess Heat power and Efficiency values. The term Heat Efficiency implies correlation between the heat power output into the cathode water cooling system and the electric power input into the electrolytic cell during electrolysis. It may be assumed that the electric power input into the electrolytic cell, and the heat power produced in the cell are carried away by the water of the cathode cooling system. Then the Excess Heat power produced in the electrolytic cell will be
+determined by the following expression:
+PE.H. = Pel.(k 1) (16) And the Heat Efficiency will be equal to
+Efficiency = k 100%
+Thus adapted experimental data is presented on the graphs (Fig.19 – Fig.21).
+
+
+11. DISCUSSION
+
+The results of experimentation allow to draw up the following basic conclusions:
+The energy and temporal characteristics of the X-ray emission from the cathode ranging 0.5 – 10.0 keV has been recorded in experiments with high-current Glow Discharge. The said X-ray emission is characterized by the following peculiarities:
+1) X-rays are observed as separate X-ray bursts (up to 5105 bursts a second and up to 106 X-ray quanta in a burst);
+2) The emission of X-rays occurs during the Glow Discharge operation, and, after the Glow Discharge current switch off (up to 100 ms and more).
+3) The X-ray emission is observed during the Glow Discharge operation in D2,H2 and in inert gases such as Ar, Kr and Xe.
+4) The X-ray emission spectra include bands and spots within 0.5 – 10.0 keV energy range.
+5)The emission spectrum consists of energetic bands specific for the cathode material used. The energy of spectral bands shows a considerable difference from M, L transition energies of electronic shells of a given cathode material.
+6) Spectral bands with energies exceeding by several times the energy of ions bombarding the cathode surface are registered.
+
+7) The X-ray emission temporal characteristics (the number of X-ray bursts, the number of X-ray quanta in a burst, the time interval between the bursts) are specific for each cathode material used in experiments.
+These experimental results show that the said X-ray emission is not a deceleration X-ray emission formed in cathode bombardment by plasma discharge ions. Presumably, some excited energetic levels are formed in the cathode solid when its surface is exposed to bombardment by the ions flux generated in plasma or electrolyte medium. The X-ray emission occurs as a result of de-excitation of these energetic levels. And as the energy of the said levels does not correlate with the energy of L,M transitions the physical nature of these phenomena remains unclear and requires additional investigation.
+It may be assumed that the availability of 0.5 – 10.0 keV excited energetic levels in the cathode solid medium triggers LERN resulting in production of Excess Heat energy and nuclear ash in the volume of solid- state cathode medium..
+8)The Excess Heat Power up to 10 –15 W and efficiency up to 150 % was recorded for Pd cathode samples pre -charged with deuterium in Xe and Kr Glow Discharges.
+9)The Excess Heat Power up to 200 –280 W and efficiency up to 800 % was recorded for Pd cathode samples pre-charged withdeuteriuminHighVoltageElectrolysis.
+10)The Excess Heat Power maximum values were recorded at the Glow Discharge and High Voltage Electrolysis operational voltage ranging 900 – 1300 V.
+11) Production of 4He and impurity nuclides was registered in the cathode in experiments with high-current Glow Discharge [3].
+12)The production of impurity nuclides occurs in the volume of the solid-state cathode medium.
+13)The impurity nuclides are produced with changed natural isotopic impurity ratio (up to several tens of times) (Ca, Ti, Fe, Ni, Ge and others) [3].
+14) Some basic isotopic impurities (with high natural abundance) not being observed. The absence of the following isotopes: 58Ni, 70Ge, 73Ge, 74Ge, 113Cd, 116Cd was noted. The production of large qualities of some isotopes, such as 13C, 57Fe, 48Ti is typically noted for these processes [3].
+15) The emission of high-energy heavy ions was not recorded in the experiments. This allows to assume, that the nuclear reactions energy was not released as a kinetic energy of the formed impurity nuclides. The impurity nuclides may be assumed to form as nuclear isomers (the nuclei being in the excited state). The experimental results show that relaxation of these excited nuclear levels through the gamma-radiation channel was strongly suppressed.
+
+The obtained experimental results allow to consider the possible mechanisms of energy production in the cathode solid material. The following processes may lead to initiation of Low Energy Nuclear Reactions: Acceleration of deuterium ions in the Glow Discharge near-cathode area to energies ranging several hundred eV up to a few thousand eV.
+Non-resilient processes of collision between deuterium ions and the Pd crystal lattice ions (Pd4ions for Palladium). These processes cross-section related to non-adiabatic transition are determined according to
+Massey criterion . For E 0.7-1.5 keV (the near-cathode discharge conditions) the Massey criterion 1 and the non-resilient processes cross-section for optic polar phonons formation becomes close to gaso-kinetic one. Under these conditions the electron frame is displaced relative to nucleus and a dipole or optic polar phonon is formed.Theinitialopticpolarphononsfrequencyisop.AtenergiesW=1keVop=0.951019sec-1 whichis higher than the plasma frequency p = (1.3-2.5) 1016 sec, plasmones are not produced and there is no compensation for the arising spatial division of charges.
+At big concentration of initial optic phonons (high charge current density) non-linear unharmonic processes start playing their essential part. Presumably, processes of the 3-rd and the 4-th order begin. (18)
+h1 in h2 in  h3 and 1 3 2 (17) h1in+h2in +h3in h4 and 142, 4 3 (18)
+These expressions mean that two (h1 in, h2 in) or three primary phonons are combined and formed into one h3 or h4. In this way out of a large number of primary phohons with energies of 0.7 - 1.5 keV a small
+number of high energy phonons (up to tens and hundreds keV) is formed. The primary phonons energy spectrum is displaced in the direction of bigger values.
+Presumably, some long-lived excited levels with energies up to several keV are formed in the cathode solid by the primary and secondary optic phonons energy. The excited energy levels for Pd are, correspondingly: 0.8 – 0.84 keV, 1.3 – 1.5 keV, 2.5 – 2.9 keV.
+
+The non-equillibrium excited energy states with the population density of n exit [cm-3] and a characteristic temperatureofTexit 1.0–3.0keV,andmore,areassumedtocreate conditionsfortheLowEnergyNuclear
+Reaction to proceed.
+Some additional research is required to determine the specific physical mechanism of the said reactions.
+Long-range (resonant) nuclear reactions may be assumed to constitute the reaction type leading to production of the impurity nuclides.
+The following types of nuclear reactions of transmutation resulting in formation of stable nuclides are possible:
+1) Pd + mD  PdmD*
+2) [PdmD*D* +4He+Heat
+3) PdmD* A* + B*  A + B + Heat
+4) [PdmD* C + Heat
+Where PdmD * is a short-lived intermediate compound nucleus; m-1,2,3 ...; A*, B* denote nuclear isomers of nuclides with masses less than that of Pd; A,B are stable nuclides; C stands for a nuclide with a mass bigger than that of Pd. At first a composite compound-nucleus in the excited state is formed. Then one of the three possible modes is realized:
+1) the compound nucleus may lose its excitation and form an exited Pd nucleus and 4 He.
+2) the compound nucleus may split into two nuclei fragments with masses less than that of Pd. In so doing the two nuclei should be in excited isomer state (experiments show that the nuclear reactions energy is not produced in the form of nuclear fragments kinetic energy).
+3) the compound nucleus may lose its excitation and form a stable nucleus of a heavier than Pd element.
+
+
+12. CONCLUSIONS
+
+The results obtained in experiments with the Glow Discharge Device (production of Excess Heat power up to 5 W/cm2 with Efficiency up to 150 %) and the High Voltage Electrolysis device (production Excess Heat power up to 280 W with Efficiency up to 800 %) allow the development of a demonstration source of heat power. New type of nuclear power engineering is possible based on non-equilibrium nuclear transmutation reactions in the solid-state medium. This type of engineering may be termed as "The third way" in nuclear power-engineering as compared to that which is based on uranium nuclear fission, and thermonuclear synthesis.
+
+
+13. REFERENCES
+
+1. A.B. Karabut, Ya.R. Kucherov, I.B. Savvatimova, “Nuclear Product Ratio for Glow Discharge in Deuterium”, Physics Letters A, 170, p.265,1992.
+2.A.Karabut, “Heat Energy Production Method”, Patent #2240612, 20 November, 2004, Russian Federation. 3. A.B.Karabut, “RESEARCH INTO LOW ENERGY NUCLEAR REACTIONS IN CATHODE SAMPLE SOLID WITH PRODUCTION OF EXCESS HEAT, STABLE AND RADIOACTIVE IMPURITY NUCLIDES”, Proceedings of the 12th International Conference on Cold Fusion, December 2 – 7, 2006, JAPAN.
+4. A.B.Karabut, “ STUDY OF ENERGETIC AND TEMPORAL CHARACTERISTICS OF X-RAY EMISSION FROM SOLID-STATE CATHODE MEDIUM OF HIGH-CURRENT GLOW DISCHARGE”, Proceedings of the 12th International Conference on Cold Fusion, December 2 – 7, 2006, JAPAN.
+5. G.Kazyonov , “Experiments of anomalous output heat registration by electrolysis in heavy water ”, PROCEEDINGS of the 10-th RUSSIAN CONFERENCE ON COLD NUCLEAR TRANSMUTATION OF CHEMICAL ELEMENTS AND BALL LIGHTNING, DAGOMYS, CITY OF SOCHI, September 29 – October 6, 2002, Russia, pp. 41 – 49.
+6. A.V.Yeremeyev, “ Experiments of anomalous output heat registration by high voltage electrolysis in heavy water (method detail)”, PROCEEDINGS of the 12-th RUSSIAN CONFERENCE on COLD NUCLEAR TRANSMUTATION of CHEMICAL ELEMENTS and BALL LIGHTNING, DAGOMYS, CITY OF SOCHI, September 19 –26, 2004, Russia, pp. 98 – 108.

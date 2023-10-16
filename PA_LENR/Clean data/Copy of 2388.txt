@@ -1,0 +1,259 @@
+INTRODUCTION
+
+Under the auspices of the Natural Science Foundation of China and the
+Science and Technology Commission of China, cold fusion research persists in
+China. During the past two years, more than 28 research groups were working
+on this fascinating topics. Several hundred man power and about one million
+fund were engaged in this controversial research. Having experienced the hot,
+quiet, and deep-going phases, we are at the point to review the past and foresee
+the future
+
+
+HOT PHASE 
+
+March 1989 was an unforgettable month in the history of science. The 
+aficionados of cold fusion set up quickly the equipments {whatever they had at 
+that time) and strived to reproduce the "excess heat" m or "anomalous neutron 
+emission". c 2) So many research groups in China were involved that a com­
+plete list of them is almost impossible. Because of the difficulties in reproducing 
+those sporadic phenomena, only a few groups published their results in the 
+newspaper rn and most groups stopped soon after the primary tests. Since the 
+conventional fusion theory tells that if the "excess heat" was so large, the 
+experimentalist should have been killed by neutron radiation already, people 
+would rather believe the neutron emission than the "excess heat". Even the 
+emission of neutron was attributed to anomaly or spurious signals, because 
+none of existing fusion theory could explain the amount of neutron emission 
+and its sporadic nature. Restrained by the conventional theory, people did miss 
+some opportunities to have a new discovery. For example, the scientists at 
+Southwestern Institute of Nuclear Physics and Chemistry discovered the anom­
+alous neutron emission in the discharge tube early in April 19, 1989. C4) They
+did not realize that it was a new approach different from Utah's electrolysis ap­
+proach or Frascati's gas-loading approach. They recorded 13250 neutron sig­
+nals in 45 minutes. The energy of neutron is about 2.2 MeV. When the current 
+of discharge increased, this signal increased also. When the current of discharge 
+switched off, this signal decayed gradually to the back ground level. When 
+palladium electrode was replaced by copper, or zirconium, this neutron signal 
+disappeared. The voltage of D.C. discharge is only 4 kV, it is impossible to ex­
+plain this neutron emission by beam-target interaction. Particularly, they saw a 
+strange bluish glow around the tip of palladium cathode. It is unusual also, 
+since the discharge glow in deuterium gas should be rose-like red. Maybe a 
+trace of Helium made its unannounced debut in the bluish glow. Half a year 
+later, Japanese scientists observed the anomalous neutron emission in an A.C. 
+discharge tube also. cs) Now, more scientists in the US, USSR, Japan, India, 
+China etc. are using various discharge technique to observe the anomalous nu­
+clear effects. It seems that the discharge tube experiment has the highest proba­
+bility in repetition, it gives the highest yield of neutron emission along with the 
+possible tritium production. Likely, it gives the signal of helium as well. 
+
+Another example was the neutron emission in an ion implantation experi­
+ment. c6l May-June, 1989, the fusion scientists at the Southwestern Institute
+of Physics observed the neutron emission from a titanium target immerged in 
+the plasma of a mirror machine (an experimental device for thermonuclear fu­
+sion research). Neutron emission was observed more than four times from a 
+negatively biased titanium target (-8kV to -llKV). The burst feature and the 
+independence of bias voltage excluded the beam-target model for this neutron 
+emission. Two counters, which were located at different distances from the 
+titanium target, monitored the neutron emission and recorded the signals 
+simultaneously. The counts in the closer counter is higher than that in the far­
+ther counter. Both of above-mentioned groups like most of other groups in 
+China stopped their experiments unfortunately due to various reasons. The qui­
+et period came soon after the Santa Fe workshop in Summer, 1989. 
+
+
+QUIET PHASE 
+
+'The heart would not stop beating until it reaches "Yellow River "'. This is 
+an idiom in long history to describe the Chinese characteristics. While the 
+unreproducibility of cold fusion phenomena became a prevailing trend in the 
+world, and the hot phase turned into quiet phase; we asked ourselves a 
+question: if the cold fusion phenomenon is true, what can we do to verify it. We 
+thought of the detection of energetic charged particles in stead of the 
+measurement of the "excess heat" or "neutron emission". The energetic charged 
+particles are the necessary products of any nuclear reaction, since two charged 
+nuclei must produce at least one charged particle after their reaction. On the 
+other hand the neutron is not a necessary product of a nuclear reaction. How­
+ever there was a good reason for selecting the neutron as an object of 
+measurement, because it is easy for neutron to penetrate the electrolyte and the 
+vessel. Besides, the chemical method, which was supposed to be used for tritium 
+detection, is not as sensitive as nuclear method for neutron detection. It was a 
+reasonable choice to detect the neutron for nuclear effects, although it requires 
+a set of sophisticated instruments and advanced technology. However, based on 
+the Frascati invention of gas-loading experiment, Tsinghua University team 
+proposed to use CR-39 (plastic track detector) to detect the energetic chaued 
+particles. CR-39 has high sensitivity and low background. CR-39 needs not 
+any high voltage power supply; therefore, it has low electronic noise and is par­
+ticularly suitable for Frascati type experiments in the high pressure vessel.  CR-39 has no dead time and has high efficiency; hence, it is good for the 
+measurement of bursts. By fortune, it turned out that the yield of tritium was 
+much higher than that of neutron. Consequently, we had better chance in detec­
+tion of any anomalous nuclear effects. c 7) Fig.1 is a typical photo of the CR-39 detector exposed in a Frascati type experiment using the palladium foil 
+imported from Russia in 1950's. In addition, we proposed the idea of "precur­
+sor of the cold fusion". c B) We believe that before the emission of nuclear 
+products there must be some electromagnetic radiations due to the transition of 
+the electrons from states to states. If we could find the correlation between these 
+precursor (electromagnetic radiations) and the nuclear products, we might en­
+hance the reliability of the measurement and improve the reproducibility.  Thermoluminescence detector was proposed to detect those electromagnetic ra­
+diations. We did observe some positive results of this precursor. 
+
+In the same time, international collaboration was developed between Los 
+Alamos Lab. in US and the Institute of Atomic Energy in China. Frascati type 
+experiment was reproduced in China using US instruments and samples. The 
+technique for treatment of sample was studied there also. 
+
+Professor Guo at Chengdu University of Science and Technology proposed 
+a model for cold fusion phenomena and suggested to measure the "excess heat" 
+and helium-4. Thermal couples, which were buried in the titanium or 
+palladium electrode, were used to monitor the "excess heat". A series of anoma­
+lous jumps in the readings of thermal couple were recorded. 
+
+
+DEEP-GOING PHASE 
+
+The conferences in 1990 ( I Annual Conference on Cold Fusion at Salt 
+Lake City in March, The National Symposium on Cold Fusion at Beijing in 
+May, The International Progress View on the Anomalous Nuclear Effect in 
+Deuterium / Solid System at Provo in October ) promoted the research for­
+ward continuously. After the DOE blue cover report c 9, more and more reproducible experimental results were published. Particularly, the detections of 
+random neutron emission and the neutron bursts from the gas-loading 
+(Frascati type) titanium samples are getting better and better. In the coal mine, 
+600 m. deep underground, the. team of Institute of Atomic Energy still detected 
+the random neutron emission and neutron bursts using the same He-3 
+detectors as that at Los Alamos Lab. Having improved the treatment of Ti 
+samples, they have obtained even higher repetition rate and higher intensity of 
+burst. This eliminates the suspicion of cosmic-ray-induced bursts. In addition, 
+they further studied the cooling effect on the helium-3 proportional counter. 
+
+They found that cooling by liquid nitrogen might have caused some spurious 
+signals like the neutron bursts,but it only happened under the condition that the 
+cooling effect should have been so strong that it had been far beyond the range 
+of interest. In positive side, they forged the Ti sample and obtained much higher 
+burst intensity with even higher repetition rate; they measured the time-behav­
+ior of the neutrons in each burst in order to compare with the calculation using 
+Fermi age theory of neutron diffusion in a slowing-down medium. 
+
+The team at Beijing Normal University, who first obtained a neutron spec­
+trum from electrolytic cell early in 1989, continued their study in various meth­
+ods ( electrolyzing, gas-loading, A.C. gas discharging etc.). They have used 
+CR-39 for detection of charged particles also. CR-39 plastic track detector be­
+comes a very popular tool now in China. It is not only used by the above-men­
+tioned team, but also by other teams at the University of Science and Technol­
+ogy of China, at the Beijing Institute of Physics, etc. The latter two teams used 
+CR-39 in gas-discharge tube experiments. The team of the University of Sci­
+ence and Technology of China found reproducible emission of energetic char­
+ged particles near the palladium cathode rod. The team of the Beijing Institute 
+of physics found the correlation between the bluish light and the anomalous nu­
+clear radiation in the discharge tube. 
+
+Tsinghua University team is heading towards two goals: (1) using energetic 
+charged particles as an object to study the anomalous nuclear effects; (2) using 
+precursor to improve the reliability and reproducibility. Some progresses have 
+been made in identifying the tracks of energetic charged particles in CR-39. Us­
+ing standard alpha particle sources ( Cf-252 and Am-241 ), we carefully cali­
+brated the CR-39 in collaboration with the scientists at Institute of High Ener­
+gy Physics. c to) The primary results indicate that the energy of the charged
+particles may be higher than 5 MeV, and the number of charge may be higher 
+than or equal to 2. An international collaboration between the Tsinghua Uni-
+versity team and the scientists from the National Cold Fusion Institute at Salt 
+Lake City is being arranged for joint research on the identification of these 
+tracks. 
+
+A new setup has been developed at the Institute of Nuclear Energy and 
+Technology at Tsinghua University to search for precursor in real time. cm A special gold-silicon surface barrier detector is used in gas-loading experiments 
+(Frascati type) to detect both the electromagnetic radiations and charged parti­
+cles. As expected, the low energy radiations appear as a burst in company with 
+the emission of energetic charged particles. Surprisingly enough, the energy of 
+these charged particles are mostly higher than 5MeV as well. The number of 
+these charged particles are close to the number of tracks in CR-39 (several 
+hundreds per cm2 per day). There are two points revealed by this setup of ex­
+periment: (1) The energy of the charged particles becomes lower and distributes 
+wider, when the temperature cycle runs once and once again. It implies that 
+those charged particles may be emitted in the layer deeper and deeper under the 
+palladium surface; (2) Twenty days after the experiment, the palladium foil 
+keeps emitting the energetic charged particles even in the air. It might imply that 
+the palladium be activated after the gas-loading experiment. 
+
+Tsinghua University team has used the CR-39 technique to scrutinize a 
+variety of materials for cold fusion research c 12) • Different materials such as
+palladium from USA, Russia, and from different sources in China; pure 
+titanium (in porous state), titanium alloys (e.g. V6-Al6-Sn2 etc.); zirconium; 
+nickel; lanthanum; and hydrogen-storage materials (e.g. LaNi5) are tested us­
+ing CR-39. Primary results show that: Among the various palladium foils 
+Russian palladium foil imported in 1950's gives the highest yield of charged 
+particles (greater than 103 I cm2 • day). The titanium alloy (Ti-662) is not as 
+good as Russian palladium (about several hundred tracks per cm2 per day), but 
+it still has high repetition rate. The other materials give no evident signal dis­
+tinct from background, which is less than 10 tracks per cm2 per day. The yield 
+becomes less and less after the first usage in the gas-loading experiment. 
+
+
+CONCLUDING REMARK 
+
+The detection of energetic charged particles has been proved to be a good 
+approach in searching the anomalous nuclear effects. As long as we can identify 
+the existence of energetic charged particles, there will be no doubt about the nu­
+clear effects. The experiments abroad cm and inland have shown that certain 
+deuterium/ solid system does emit the energetic charged particles. This is the 
+first anomaly-nuclear reaction at room temperature. 
+
+All these positive experiments showed that the energy of these charged par­
+ticles may be greater than 5MeV, and some of their charge number is definitely 
+greater than 1. This is the second anomaly-branch ratio is different from that 
+of conventional D-D reaction. 
+
+It seems that the charge number of these charged particle might be greater 
+than 2. This would radically change the whole picture of the reaction, since 
+D-D reaction could not produce any charged particle with charge number
+greater than 2. This would be the third anomaly-palladium or titanium might
+be no longer a bystander but a participant of the reaction. In fact the experi­
+ment at Naval Research Lab. has indicated the anomalous enrichment of  106P during electrolysis C14l is another evidence of this third anomaly.
+
+If the above-mentioned three anomalies are true; then one may ask how 
+the coulomb barrier of Pd is penetrated? It is reasonable to think of the neutral 
+unknown particles. Professor Yang of the Hunan Normal University proposed 
+the bi-neutron as a candidate for this unknown neutral particle. In fact other 
+foreign scientists had made similar suggestions also early in 1990 ml . I would 
+like to draw the attention to a Chinese experiment, which indicated the exist­ence of bineutron state. 06l 
+
+After two year struggle, now it is the time to be respectful to the new facts 
+and to renew our mind. A window has been opened towards the back yard of 
+the physics. A rose is there, although it is thorny. 
+
+
+REFERENCES 
+
+( 1) M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem. 261
+( 1989 ) 301.
+( 2) S. E. Jones, et al. Nature 338 ( 1989 ) 737.
+( 3) CHINA DAILY. April 24, 1989, P. 1.
+( 4) R. H. Xiong, et al. "Experimental Studies on Cold Fusion Using Ionized
+Deuterium Gas ", Proceedings of National Symposium on Cold Fusion
+( May 10, 1990. Beijing )
+( 5) N. Wada and K. Nishizawa, Japanese Journal of Applied Physics. 28
+( 1989 ) , 2017.
+( 6) S. Y. Duang, et al. "Cold Fusion Phenomena in a Mirror Confined
+Plasma", Proceedings of National Symposium on Cold Fusion ( May 10,
+1990, Beijing ).
+( 7) Tsinghua University team, "Search for Precursor of the Cold Fusion
+Phenomena", Ibid.
+( 8) X. Z. Li, et al. " Precursor of the Cold Fusion Phenomena in
+Deuterium/ Solid System" , Proceedings of the Progress View of the
+Anomalous Nuclear Effect in Deuterium/ Solid System, October 21-24,
+1990, Provo, USA.
+( 9) DOE/ S---0073, "Cold Fusion Research" , A report of the Energy Re­
+search Advisory Board to the United States Department of Energy, Nov.,
+(10) S. C. Wang, et al, "Identification of the Energetic Charged Particles in
+Gas-Loading Experiment of 'Cold Fusion' Using CR-39 Plastic Track
+Detector". This Meeting.
+(11) D. ·W. Mo, et al, "Search for Precursor and Charged Particles in 'Cold
+Fusion'". This Meeting.
+(12) K. L. Wang, et al, "Search for the Better Material for 'Cold Fusion' Us­
+ing CR-39". This Meeting.
+(13) S. E. Jones, Private Communication, Dec. 1990.
+(14) D. R. Rolison and W. E. O'Grady, Proc. NSF/ EPRI Workshop
+(15) G. Andermann, "A New Theoretical Model ( Nu-Q •) for Rationalizing
+Various Events of 'Cold Fusion' in Deuterium Loaded Palladium Cath-
+odes" , Proceedings of the First Annual Conference on Cold Fusion, 
+March 28-31, 1990, Salt Lake City, USA, P. 295. 
+(16) Y. Q. Zhang, et al, " 2H ( d, 2He ) 2n Reaction Induced by 15. 7 Me V
+Deuteron" Scientia Sinica, A, ( 1987 ), 286.
+
+Fig. I A typical picture for the signals of energetic charged particles in CR-39 

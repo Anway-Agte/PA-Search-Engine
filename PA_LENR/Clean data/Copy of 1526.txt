@@ -1,0 +1,442 @@
+1. Introduction
+
+Cold fusion (now widely referred to as low energy nuclear reactions, LENR) has the potential for immense benefit
+for society as a cheap, clean, and virtually unlimited source of energy. It would also almost certainly be a highly
+disruptive technology, at least in the short term, with adverse direct impacts on the existing energy infrastructure and
+indirect effects on associated components of society. Fortunately, policymaking procedures are available to deal with
+the “double-edged sword” of LENR.
+Rational policies have served the public interest for centuries. Evidence-based Policymaking (EBP) is a rational
+way to set – or reevaluate – policies for LENR research support to realize its energy benefits. Technology Assessment
+(TA), a rational method of evaluating and mitigating adverse effects of new technologies on the various components
+of society, may be readily applied to the LENR case. Policies for the beneﬁt of society are essential both for realizing
+energy from LENR and for dealing proactively with its disruptive secondary impacts.
+
+
+2. Background
+
+The potential beneﬁts of LENR as a new source of energy were well understood when it was announced by Martin
+Fleischmann and Stanley Pons in March 1989. Examples of LENR beneﬁts are:
+• Virtually unlimited energy source.
+• Low cost of materials.
+• Environmentally secure (no emissions or efﬂuents).
+• No harmful radiation or radioactive waste.
+• Deployable in centralized or dispersed conﬁgurations.
+• Energy source is available everywhere without transport or restriction.
+• Reduction of energy-related environmental contamination by replacing fossil fuels.
+• Decrease of carbon dioxide emissions and mitigation of global climate change.
+
+Nagel has listed no fewer than 40 potential advantages and impacts of LENR development for thermal and electri-
+cal power [1]. In addition to its promise as an energy source, LENR may have another beneﬁt, through elemental
+transmutation, of dealing with the nuclear waste problem.
+
+2.1. New technologies and society:
+Governments worldwide adopt policies, laws, and regulations to protect and enhance the public interest [2,3], includ-
+ing policies for developing new technologies. The beneﬁt to society from public support of research has long been
+recognized. This support is particularly important in the early stages of technology development when research costs
+may not be justiﬁed for private sector investment. Salient historical examples are the Manhattan Project, which brought
+World War II to an end, and the US space program, where research has yielded many beneﬁts beyond the immediate
+goals of the program. The public interest is well served by rational policies and methods like EBP.
+
+Governments also protect the public interest by addressing the disruptive impacts of new technologies. These
+impacts are both direct – on existing market solutions (e.g. current business) – and indirect – on sectors of society
+closely associated with current infrastructure (e.g. workforces, communities, local governments). These direct and
+indirect impacts are disruptive to both the private sector and elements of society [4].
+
+Because the social costs of new technologies are normally not included in expenditures for their development, these
+costs are viewed as “market externalities”. Public policies may thus be implemented to intervene in the free market
+to mitigate the adverse secondary impacts and increase the overall beneﬁt of a new technology. A premier example
+of such intervention is the suite of laws and regulations put in place to protect and clean up damages to the natural
+environment by market-driven activities such as industries. Government intervention using methods like TA is often
+necessary to protect the overall public interest.
+
+The opportunity for government intervention for support of beneﬁcial R&D not qualifying for private sector invest-
+ment and for mitigating adverse secondary impacts are the result of incomplete alignment of private sector interests
+and the public welfare, which is referred to as “market failure” [5].
+
+2.2. LENR policy status:
+Notwithstanding its potential beneﬁts, LENR was rejected by mainstream science within a year or so after the 1989
+announcement [6,7]. The processes and events that led to the rejection comprise an outstanding case for the ﬁeld
+of sociology of science – the social processes by which science is “done” [8,9]. The boundary work of science –
+determining what is accepted and what is rejected – is a major component of this sociology [10].
+
+A principal reason that LENR continues to be rejected is the challenge it faces as a new phenomenon. Reliable
+reproducibility remains elusive, and hypotheses to explain it are not yet converging to an adequate explanation. Exper-
+imental observations cannot yet be interpreted in terms that are consistent with the current understanding of nuclear
+physics.
+
+Unfortunately, in some cases skeptical researchers maintained that LENR does not exist because they did not
+observe it in their experiments; that is, not observing it means that a phenomenon is not legitimate. However, the
+failure up to obtain success may actually be the result of not achieving the required experimental conditions [11].
+
+Unlike most rejected scientiﬁc claims, LENR research did not die out. Instead, investigations have continued by
+many researchers at locations around the world. Because of its pariah status [12,13], the ﬁeld has developed a social
+science structure outside of mainstream science, including:
+• Professional organizations. For example, International Society of Condensed Matter Nuclear Sciencea, and
+Japan CF-Research Societyb.
+• International conferences. For example, International Conferences on LENR (ICCFs)c
+• Magazines and peer-reviewed professional journals. For example, Inﬁnite Energyd and Journal of Condensed
+Matter Nuclear Sciencee
+• Websites and blogsf. For example, Cold Fusion Now!g and New Energy Timesh.
+
+Public policy for support of LENR generally followed the scientiﬁc rejection of the ﬁeld, and public resources became
+very scarce. And, of course, no policies were pursued for dealing with its secondary impacts. Whether the rejection of
+LENR was a “proper” instance in the sociology of science, or if the public interest has been served by negative research
+support policies for the past 30 years, seems now to be almost a moot point. Particularly given the demonstrated vitality
+of the ﬁeld and the progress that has occurred, the time has come to reconsider these negative policies. In consideration
+of the public health beneﬁts of a locally available source of heat for cooking and water puriﬁcation, a strong case can
+also be made for an ethical mandate to pursue of LENR.
+
+
+3. Policies for Realizing Beneﬁts
+
+A large gap has emerged between the promise of CF as an energy source and the policies toward its support for
+realization of its beneﬁts. EBP is a rational and readily available approach for closing this gap [14].
+
+3.1. Evidence-based policymaking for LENR:
+EBP has its roots in evidence-based medicine [15,16], whose success led to the method being extended to other areas
+such as business management [17] and public policymaking [18–20]. EBP can help to guide policy decisions when
+(as is often the case) the best decision is uncertain. Policymakers often do not have a technical background and may
+be challenged in making complicated science or technology decisions. An evidence-based way to address this issue is
+to translate scientiﬁc evidence into levels of evidence (LOEs) that are used in the legal ﬁeld [21]. Policy responses can
+then be developed based on the readily understood LOE and associated probabilities [22]:
+• Preponderance of evidence (>50%).
+• Clear and convincing evidence (70–90%).
+• Beyond a reasonable doubt (>90%).
+
+Assignment of the LOE in the case of LENR decision-making involves uncertainty, but the process of making the
+assignment adds both clarity and rigor. For the LENR case, a preponderance of the evidence (POE) for LENR reality
+may be asserted by the research credentials and experience of Dr. Fleischmann (Fellow of the Royal Society in Britain)
+and Dr. Pons (chemistry department chairman), by the basic ﬁndings of their LENR experiments [23,24], and by the
+early conﬁrmations by other researchers. Four examples of early experiments that conﬁrm excess heat are described
+by Beaudette [25] – Richard Oriani (1990), Robert Huggins (1990), Melvin Miles (1990), and Michael McKubre
+Clear and convincing evidence (CCE) is indicated by the hundreds of additional conﬁrming experiments by many
+reputable researchers. For example, Storms conducted a review of reports of LENR for the period 1989 to 2004 and
+found 319 claims of success based on three signatures of the phenomenon: excess heat (184), elemental transmutation
+(80), and anomalous radiation (55) [26].
+
+CCE is also supported by Bayesian network analysis of LENR experiments. Cravens and Letts [27] conducted a
+review of 167 reports (1989–2007) and screened them to 122 “qualiﬁed reports” based on use of Fleischmann–Pons
+type electrolytic cells and several other criteria. Johnson and Melich [28] performed a Bayesian network analysis on
+eight of the qualiﬁed reports recommended by Cravens and Letts and found the likelihood ratio (that LENR is real)
+over 10. Johnson and Melich then added four more reports from the Cravens and Letts list (total of 12 reports) and
+found a likelihood ratio over 30.
+
+Grimshaw, with the assistance of Johnson and Letts [29,30], conducted a Bayesian network analysis on the ﬁrst
+10 experiments (six of which were considered successes) listed by Cravens and Letts. The analysis assumed “starting
+probabilities” (pre-analysis estimated probability that LENR is real) ranging from 0.05 to 0.50. With a starting proba-
+bility of 0.05, the probability of LENR reality increased to 0.59 after the ﬁrst 10 experiments. A starting probability of
+0.50 (50/50) led to a probability of 0.96 after the 10 experiments. Such high likelihood ratios and probabilities clearly:
+support an LOE at the level of CCE.
+
+CCE is further indicated by the strong interest of large and well-known private sector companies [31,32] that are
+currently funding the research. The development of prototype devices (e.g., Brillouin’s “Controlled Electron Capture
+Reaction approachi and JET Energy’s NANOR and PHUSOR devicesj) that may be producing LENR energy also
+supports a CCE level.
+
+It seems likely that an LOE of beyond a reasonable doubt (BRD) will have to await publication of a convincing
+hypothesis based on current (or extension of) understanding of nuclear physics or development of a readily reproducible
+experiment. Alternatively, BRD may be established upon announcement of a working LENR device such as a water
+heater or electric power generator.
+
+What are the appropriate LENR policy responses to the levels of the evidence? The answer is again a matter of
+opinion, but consideration of two relevant scenarios again increases clarity and rigor. The following are proposed as
+rational responses for a conservative scenario.
+• POE
+Reinstate LENR and pursue its development rigorously along with other emerging energy
+technologies.
+• CCE
+Accelerate LENR research in comparison to competing potential energy sources.
+• BRD
+Institute a crash program to achieve full understanding of LENR and realization of its beneﬁts, per-
+haps at a level comparable to the Manhattan Project.
+
+For a more liberal scenario and considering the immense potential beneﬁt (and ethical mandate) of LENR, a rational
+policy response to POE would be to enhance its research in relation to other emerging technologies. A response to
+CCE (as well as BRD) would be to undertake a crash program for LENR understanding and beneﬁts realization.
+
+3.2. Implementation of policies for realization:
+EBP-based strategies for LENR research must take into account several considerations:
+• Complexity of the chemistry aspects of the phenomenon.
+• Accommodation of nuclear physics for LENR observations.
+• Interplay of the issues of reproducibility and explanation.
+• Location, status, and capabilities of experienced researchers in the ﬁeld.
+• Collection, interpretation, and utilization of experimental results to date.
+• Research support in a centralized or dispersed manner.
+
+The chemical conditions required for LENR constitute a large number of variables (“parameter space”) that contributes
+to inadequate reproducibility of the phenomenon. The inability of current understanding of nuclear physics to account
+for LENR observations is one of the principal reasons for its early rejection and continuing pariah status. Research
+strategies must address the interrelated issues of explanation and reproducibility. A satisfactory explanation would
+lead to improved experiments and enhanced reproducibility, and more reliable reproducibility would lead to greater
+understanding and development of an adequate theory.
+
+A great deal of information, particularly experimental results, has been generated by many LENR researchers over
+the past 30 years and may provide a foundation for future research. Similarly, experience and insight gained on other
+LENR aspects, including research methods and current competing hypotheses, could be a resource for developing
+research plans and selecting investigators, locations, and facilities. Research strategies could involve dissemination of
+resources to individual researchers and labs to address various facets of the problem. Alternatively, the research may
+beneﬁt from a centralized approach (or two or three major locations) to help set priorities, share results, and enhance
+communication.
+
+
+4. Policies for Dealing with Disruptive Impacts
+
+Proactive planning for dealing with disruptive technologies like LENR is essential for achieving their overall beneﬁt
+to society.
+
+4.1. Technology assessment for adverse secondary effects:
+TA is a policy analysis approach for identifying and mitigating the adverse secondary impacts and unintended conse-
+quences of beneﬁcial new technologies on the existing infrastructure and associated elements of society [33–35]. TA
+was developed in about the same timeframe, generally in the 1970s and 1980s, as the major environmental laws and
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 32 (2020) 15–25
+regulations that were instituted to prevent future pollution and clean up past contamination [36]. Although both are ex-
+amples of government intervention in the free market to protect the public interest, the scopes of TA and environmental
+protection are different. In TA, overall society rather than the natural environment is emphasized. And TA’s focus is
+on the adverse impacts of innovative technologies rather than on the impacts of existing market-driven activities (such
+as manufacturing) on the environment. The TA generally includes the following elements [37,38]:
+• Development of the TA team and advisory group.
+• Statement of the problem and description of the technology.
+• Identiﬁcation of potential direct and indirect impacts.
+• Delineation of affected entities.
+• Determination of policy options for dealing with the impacts.
+• Description of the policymaking infrastructure and agencies.
+• Conclusions and policy recommendations.
+• Implementation of selected policies.
+
+The TA team and advisory group include both policy analysis professionals and knowledgeable persons from the
+entities (private sector and government) most directly involved with or impacted by LENR deployment.
+
+4.2. Implementation of LENR mitigation policies:
+TA has been applied successfully for energy-related issues previously, for example for broad-based development of
+energy resources [39] and for coal slurry pipelines [40], and it can be readily applied to the LENR case [41]. A speciﬁc
+procedure based on the above steps is shown below.
+
+4.2.1. Form project team and advisory group:
+Because of the broad range of energy infrastructure and social system impacts, a multidisciplinary team will be required
+for the TA. Participatory TA [42,43] will be emphasized, which will include both energy technology experts and
+policy analysis professionals. The team will perform most of the impact analysis and development of mitigation
+recommendations. The Advisory Group, including private sector and government representatives, will provide senior
+guidance as the TA is performed.
+
+4.2.2. Characterize LENR as disruptive technology:
+The energy (and perhaps other) technologies that will emerge from LENR will be described in detail to enable assess-
+ment of their direct and indirect impacts. Although considerable information is available, reasonable projections of the
+types of devices, the rates of deployment, and success in energy market penetration will be made.
+
+4.2.3. Reﬁne methodology for impact assessment and mitigative measures development:
+TA has a well-developed basic process that can be applied to speciﬁc technologies and social contexts. This method-
+ology will be reﬁned for the LENR case based on the detailed characterization of the preceding step. It will include
+clear identiﬁcation of the public and private entities that will be directly or indirectly impacted.
+
+4.2.4. Delineate direct impacts on energy infrastructure:
+Impacts on the components of the full cycle of energy production, transportation, storage, and consumption will
+be identiﬁed. Because LENR is likely to be deployed as both a centralized and dispersed energy source, different
+components will be affected differently. The rate of deployment and market penetration in the energy sectors will be
+included in the assessment. As the type, degree, and rate of direct impacts are delineated, mitigation alternatives will
+be identiﬁed.
+
+4.2.5. Assess indirect impact on social systems:
+A large portion of society is closely tied to the current energy infrastructure. The social elements that will be impacted
+can be determined from the components of the energy infrastructure identiﬁed above. Because social systems are likely
+to have limited ability to discern and deal with emerging disruptive impacts, they may be particularly vulnerable.
+Proactive planning is therefore particularly important to mitigate the social costs of LENR deployment. Mitigation
+strategies will be prepared for the various entities having similar types of indirect impacts, such as communities,
+non-energy businesses, workforces, governments, and ﬁnancial institutions.
+
+4.2.6. Prepare integrated mitigation plan:
+It is clear that the disruptive impacts of LENR on the energy infrastructure and social systems will be closely related.
+The mitigative measures developed for the direct and indirect impacts will be reviewed, and a coordinated plan will be
+prepared to take advantage of efﬁciencies and avoid measures having cross purposes. The agencies and other entities
+available to implement mitigative actions will be identiﬁed in the plan.
+
+
+5. Corollary Policy Considerations
+
+Several factors must be taken into account for LENR policymaking to be effective:
+• Opportunities for agencies to accomplish their energy-related missions by incorporating LENR in their scope.
+• Differences in the agencies involved in supporting research and dealing with adverse impacts.
+• Development of mitigation strategies in coordination with research support and LENR realization.
+• Integration of planning and implementation among agencies both nationally and worldwide.
+• Coordination of policies between the public and private sectors.
+• Overcoming inertia of LENR rejection and continuing pariah status.
+
+These factors will be addressed by exploring the opportunities and responsibilities of government agencies and the
+private sector as well as coordination and integration of their policies.
+
+5.1. Agency opportunities:
+Policymaking for LENR development and impact mitigation present opportunities for national and international agen-
+cies to realize their energy-related missions [44]. Given the importance of LENR realization and dealing with its
+anticipated impacts, it may reasonably be argued that agencies have strong obligations toward LENR.
+
+The types of agencies and their energy-related missions are quite different for LENR support and for mitigation
+of adverse impacts. For example, in the U.S. the Departments of Energy and Defense are entities having energy
+development interests. Examples of government entities having mandates for market intervention for the public interest
+are the Environmental Protection Agency and the Department of Health and Human Services.
+
+5.2. Role of the private sector:
+Whereas governments have the twin role of LENR support and impact mitigation, the focus of the private sector is
+mainly on development. Market force will be essential for realization of LENR beneﬁts, but it may be argued that
+the market cannot yet be fully engaged. Because of its challenges in reproducibility and adequate explanation, LENR
+continues to be a high risk for private sector investment. This risk is a principal argument for public support of research
+in its current early development stage. If the early-stage research is publicly funded, the private sector may then step
+in for applications and product development. At that point the power of market forces can be engaged to fully realize
+LENR beneﬁts.
+
+At the same time, it is noted that research is being funded by “angel investors” – not requiring a near-term reason-
+able rate of return – and (as noted above) by large companies (especially energy consumers) having large resources and
+a major stake in the success of LENR. A number of startups and other small companies are also pursuing LENR, par-
+ticularly through empirical efforts to develop useful devices (rather than fundamental research for basic understanding
+of the phenomenon). Efforts by the private sector to realize the beneﬁts of LENR will be enhanced by updating the
+current negative stances for intellectual property protection (patents, trademarks) by government entities, particularly
+in the US patent and Trade ofﬁce [45].
+
+5.3. Policy integration:
+Policymaking for dealing with the adverse secondary impacts of LENR energy must be coordinated with policies for
+its research support and for realization [46]. Timing of mitigation planning should follow the rate of development and
+anticipated market penetration. Such policy coordination will enhance efﬁciency and avoid plans having cross pur-
+poses. Coordination is also essential among agencies having similar responsibilities – support or mitigation planning
+– to meet their respective responsibilities (e.g. DOE and DOD, EPA and HHS). Policy coordination is also important
+among agencies at the international and national level and between the public and private sectors.
+
+5.4. Overcoming inertia of rejection:
+Policymaking for LENR is strongly affected by its status as a pariah science.
+
+In a sociology of science context of rationality, it may be asserted that the level of evidence of LENR must de-
+termine future policies for LENR research and realization as outlined above. However, LENR has a large inertia of
+negative perception. The importance of overcoming its pariah status cannot be overestimated. It is recognized that
+despite the advantages of translating scientiﬁc evidence into levels of evidence (POE, CCE, BRD) described above,
+the EBP approach may be constrained by the inertia of LENR’s negative perception and continuing pariah status.
+
+If ultimately LENR becomes understood as a new – or extended – branch of nuclear physics (as well as a source
+of energy), it will almost certainly be recognized as “revolutionary science”. Such revolutionary developments that
+expand the boundaries of scientiﬁc knowledge are often initially rejected by mainstream science [47,48].
+
+One scientist, a Nobel Laureate, disagrees with the way in which LENR was not accepted and has referred to the
+continued rejection as “pathological disbelief” [49].
+
+One possible way of lifting LENR out of rejection is to show that it is science rather that pseudoscience. This
+approach amounts to asserting that an error occurred in the boundary work of science in the LENR case. An analysis
+of criteria set forth by three prominent boundary workers (science skeptics) – Irving Langmuir [50], Carl Sagan [51],
+and Michael Shermer [52,53] – has been performed for LENR [54]. The 27 overlapping criteria of the three skeptics
+were phrased as questions, and each question was answered for LENR. It was concluded that the criteria were met and
+that LENR is science, not pseudoscience.
+
+
+6. Summary
+
+LENR has tremendous potential beneﬁts as a new source of abundant, cheap, and clean energy. But as it becomes
+widely deployed, it will also have major direct impacts on the energy infrastructure and indirect effects on associated
+elements of society.
+
+The ﬁeld was rejected as legitimate science within a year or so after it was announced by Fleischmann and Pons in
+1989. Negative public policies for research support soon followed. But the ﬁeld did not die out after rejection. It has
+continued to be pursued by researchers at many locations worldwide. Although much progress has been made in the
+past 30 years, it still has issues of insufﬁcient reproducibility and inadequate understanding.
+
+The time has come to reconsider negative policies toward LENR. Evidence-based policymaking is a rational ap-
+proach for making decisions for research support in the public interest. Decisions based on the level of evidence will
+enhance the prospect of realizing LENR beneﬁts. Because it will be a disruptive new technology, public policies are
+also needed to mitigate LENR’s direct and indirect impacts. Technology assessment is a good method for dealing with
+the secondary impacts of LENR.
+
+Private-sector entities will help LENR beneﬁts to be realized through the impetus of market forces. Government
+intervention in the free market for supporting new beneﬁcial technologies and for mitigating their disruptive impacts
+is also essential for the public welfare. Many agencies have a mission to develop new sources of energy. Others have
+a mandate to protect the public from adverse secondary impacts. Both types of agencies have the opportunity to help
+accomplish their missions by including LENR.
+
+Policies for impact mitigation must be coordinated with support policies for efﬁciency and to avoid cross purposes.
+Similarly, integration of policies among agencies – and between the public and private sector – is essential for the
+public interest. Regardless of whether policy is guided by the level of evidence, or the need for proactive planning for
+impact mitigation, LENR will continue to have challenges in emerging from its long-standing rejection and continuing
+pariah status.
+
+
+References
+D. Nagel, Potential advantages and impacts of LENR generators of thermal and electrical power and energy, Inﬁnite Energy
+103 (2012) 11–17.
+T. Birkland, An Introduction to the Policy Process – Theories, Concepts, and Models of Public Policy Making, M.E. Sharpe,
+J. Anderson, Public Policymaking, 6th edn., Houghton Mifﬂin, Boston, 2006.
+C. Christensen, The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail, Harvard Business School
+Press, Boston,1997.
+C. Winston, Government Failure Versus Market Failure, Brookings Institution Press, Washington, DC, 2006.
+E. Mallove, Fire from Ice: Searching for the Truth Behind the Cold Fusion Furor, Wiley, Hoboken, NJ, 1991.
+J. Huizenga, Cold Fusion: the Scientiﬁc Fiasco of the Century, University of Rochester Press, New Brunswick, NJ, 2002.
+R. Merton, The Sociology of Science – Theoretical and Empirical Investigations, The University of Chicago Press, Chicago,
+IL, 1968.
+M. Fleischmann, 2000, Reﬂections on the sociology of science and social responsibility in science in relationship to cold
+fusion, Accountability Res. 8(19) (2008) 19–54.
+B. Simon, Undead Science: Science Studies and the Afterlife of Cold Fusion, Rutgers University Press, New Brunswick, NJ,
+Altman and J. Bland, Absence of evidence is not evidence of absence, British Medical J. 311 (1995) 485.
+D. Goodstein, Whatever happened to cold fusion? American Scholar 63,64(4) (1994) 527.
+D. Goodstein, Whatever happened to cold fusion? Accountability Res. 8(19) (2008) 59.
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 32 (2020) 15–25
+T. Grimshaw, Evidence-based public policy for support of cold fusion (LENR) development, 17th Int. Conf. on Cold Fusion
+(ICCF-17), Poster (2012).
+A. Cochrane, Effectiveness and Efﬁciency: Random Reﬂections on Health Sciences, Nufﬁeld Provincial Hospitals Trust,
+London, 1972.
+[16] D. Sackett, W. Rosenberg, J. Gray, R Haynes and W. Richardson, Evidence based medicine: what it is and what it isn’t,
+British Medical J. (BMJ) 312(7023) (1996) 71–72.
+W. Cascio, Evidence-based management and the marketplace for ideas, Academy Management J. 50 (2007) 1009–1012.
+H. Davies, S. Nutley and P. Smith, What Works? Evidence-based Policy and Practice in Public Services, Bristol University
+Press, Bristol, England, 2000.
+I. Sanderson, Evaluation, policy learning and evidence-based policy making, Public Administration 89(1) (2002) 1–22.
+R. Pawson, Evidence-based Policy – a Realist Perspective, Sage, London, 2006.
+G. Garner, Black’s Law Dictionary, 8th edn., West Group, St Paul, MN, 2004.
+L. Loevinger, Standards of proof in science and law, Jurimetrics J. Law, Sci. Technol. 32 (1992) 323–344.
+M. Fleischmann and S. Pons, Electrochemically induced nuclear fusion of deuterium, J. Electroanal. Chem. 261,262 (1989)
+M. Fleischmann, S. Pons, M. Anderson, L. Li and M. Hawkins, Calorimetry of the palladium–deuterium–heavy water
+system, J. Electroanal. Chem. 287 (1990) 293–348.
+C. Beaudette, Excess Heat: Why Cold Fusion Prevailed, 2nd Edn., Oak Grove Press, South Bristol, ME, 2002.
+E. Storms, Science of Low Energy Nuclear Reaction: A Comprehensive Compilation of Evidence and Explanations about
+Cold Fusion, World Scientiﬁc, Singapore, 2007.
+D. Cravens and D. Letts, The enabling criteria of electrochemical heat: beyond reasonable doubt, 14th Int. Conf. on Con-
+densed Matter Nucl. Sci. (ICCF-14), Proceedings, 2008.
+R. Johnson and M. Melich, Weight of evidence for the Fleischmann–Pons effect, 14th Int. Conf. on Condensed Matter Nucl.
+Sci. (ICCF-14), Proceedings, 2008.
+T. Grimshaw, R. Johnson and D. Letts, Level of evidence of cold fusion existence: bayseian network analysis of early
+veriﬁcation attempts, Unpublished Manuscript, 2008.
+T. Grimshaw, Evidence-based public policy toward cold fusion: rational choices for a potential alternative energy source.
+Master of Public Affairs Professional, LBJ School of Public Affairs, The University of Texas at Austin, 2008.
+T. Sandle, Essential science: Google is running LENR experiments, Digital Sci., July 8, 2019.
+http://www.digitaljournal.com/tech-and-science/science/essential-science-google-is-running-cold-fusion-
+experiments/article/553511.
+K. Shubber, The Long-Shot Science That Attracted Brad Pitt and Neil Woodford: Promise of Abundant Nuclear Power
+Propelled ‘LENR’ Company to $918m Valuation, Financial Times, Energy Sector, June 13, 2019,
+https://www.ft.com/content/024cfc4a-8df6-11e9-a1c1-51bf8f989972.
+D. O’Brien and D. Marchand, The Politics of Technology Assessment – Institutions, Processes, and Policy Disputes, Lexing-
+ton Books, Lexington, MA, 1982.
+R. Rich, Systems of analysis, technology assessment, and bureaucratic power, American Behavioral Scientist 22,23 (1979)
+A. Lee and P. Bereano, Developing technology assessment methodology: some insights and experiences, Technol. Forecast-
+ing Social Change 19 (1) (1981) 15–31.
+Author Unknown, 1979, Closing the Environmental Decade - Assessment of the Seventies, CQ Researcher Archives, Novem-
+ber, Available from http://library.cqpress.com/cqresearcher/ document.php?id= cqresrre1979111600.
+G. Black, Technology Assessment – What Should it Be? George Washington University, Washington, DC, 1971.
+[38] A. Porter, F. Rossini, S. Carpenter, A. Roper, R. Larson and J. Tiller, A Guidebook for Technology Assessment and
+Impact Analysis, Vol. 4, Elsevier, New York, NY, 1980.
+M. Devine and M. Ballard, Energy from the West: a Technology Assessment of Western Energy Resource Development,
+University of Oklahoma Press, Norman, OK, 1981.
+L. Johns et al., A Technology Assessment of Coal Slurry Pipelines, Ofﬁce of Technology Assessment, Washington, DC, 1978.
+T. Grimshaw, Public policy planning for broad deployment of cold fusion (LENR) for energy production, 17th Int. Conf. on
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 32 (2020) 15–25
+Cold Fusion (ICCF-17), Paper FrM1-1, 2012.
+L. Hennen, Participatory technology assessment: a response to technical modernity? Sci. Public Policy 26(5) (1999) 303–
+J. Durant, 1999, Participatory technology assessment and the democratic model of the public understanding of science, Sci.
+Public Policy, 26(5) (1999) 313–319.
+T. Grimshaw and D. Nagel, 2016, Responsibilities of U.S. government agencies for support of low energy nuclear reactions,
+Presentation at the 20th Int. Conf. on LENR (ICCF-20).
+T. Grimshaw and D. Nagel, 2016, Responsibilities of US government agencies for support of low energy nuclear reactions,
+20th Int. Conf. on Cold Fusion (ICCF-20), Presentation and Paper, 2016.
+T. Grimshaw, Integrated policymaking for realizing beneﬁts and mitigating impacts of LENR, 19th Int. Conf. on Cold Fusion
+(ICCF-19), Presentation, 2015.
+T. Kuhn, The Structure of Scientiﬁc Revolutions, 2nd edn., Univ. of Chicago Press, Chicago, IL, 1970.
+W. Sharrock and R. Read, Kuhn: Philosopher of Scientiﬁc Revolutions, Blackwell, Cambridge, England, 2002.
+B. Josephson, Pathological Disbelief, Lecture Given at the Nobel Laureates’ Meeting, June 30, Available at:
+https://www.repository.cam.ac.uk/handle/1810/247336.
+I. Langmiur (ed.), Pathological Science, Colloquium at The Knolls Research Laboratory, Niskayuna, NY, 1953.
+C. Sagan, The Demon-Haunted World – Science as a Candle in the Dark, Random House, New York, NY, 1995.
+M. Shermer, The Borderlands of Science – Where Sense Meets Nonsense, Oxford Univ. Press, Oxford, 2001.
+M. Shermer, Baloney Detection – How to Draw Boundaries between Science and Pseudoscience, Part I, Scientiﬁc American
+285(5) (2001).
+E. Storms and T. Grimshaw, 2010, Judging the validity of the Fleischmann–Pons effect, J. Condensed Matter Nucl. Sci. 3(9)
+(2010) 9–30.

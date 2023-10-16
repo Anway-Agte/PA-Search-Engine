@@ -1,0 +1,158 @@
+1. INTRODUCTION  
+
+Ten years ago, we started gas-loading experiments to detect energetic charged particles from the D/Pd 
+system using CR-39 (solid state nuclear track detector)[1]. At that time we assumed that energetic charged particles 
+should be necessary nuclear products, but not neutrons. The gas-loaded system was selected for its compatibility 
+with CR-39. When we improved the gas-loading technique, the high-pressure, low-temperature loading system was 
+switched to a low-pressure, high-temperature system. That made it feasible to combine the calorimetric 
+measurement with the loading system. The distinction was evident between the H/Pd and D/Pd system in 
+calorimetric behavior [2]. There was up to 2 W/cc of “excess heat” in the D/Pd system. The highest excess heat 
+reached 100 W/cc in a burst [2]. To avoid uncertainties in heat transfer coefficient, a new scheme was developed to 
+avoid any power input inside the D/Pd system. After careful calibration, we showed that the temperature of the D/Pd 
+system might rise spontaneously while the temperature of the D/Pd system was higher than that of surrounding 
+medium.[3] Gradually, we realized that with the high temperature gas-loading system, the loading ratio was no longer 
+a unique criteria to generate excess heat. A pumping rate works effectively to trigger a sudden rise in the resistance 
+of palladium wire. It might be interpreted as a sudden jump in the loading ratio, if the loading ratio is calculated in 
+terms of resistance-loading curve [4]. A sudden jump in palladium temperature always accompanied this jump in 
+resistance when the electrical current in palladium wire was kept constant. In order to analyze the cause of this 
+resistance jump, we switched from the constant-current mode to the constant-temperature mode. The power input to 
+the palladium wire was controlled by a computer to keep the temperature of the palladium wire constant. It was 
+observed that the resistance jump remained in the temperature-constant mode as well; hence, it should be attributed 
+to a jump in loading ratio. Moreover, the temperature-constant mode provides additional evidence of excess heat, 
+because the reduction in power input is a direct measurement of the excess heat in the D/Pd system. This is true even 
+if you do not know the exact value of heat transfer coefficient, as long as the heat transfer coefficient is assumed 
+constant. We shall discuss this pumping effect first. 
+
+
+2. PUMPING EFFECT IN A GAS-LOADING D/PD SYSTEM  
+
+When we heat the palladium wire, we may anticipate that the loading ratio of D/Pd will drop if the 
+pressure is kept constant. However, the experiments show this is not the case. Absorption occurs at the high 
+temperature even if the pressure is lower than one atmosphere [5,6,7]. In our gas-loading experiments, a pumping 
+effect was reproducible. We observe the pumping effect in the same experiment at different points on the loading 
+curve, and we observed the same pumping effect in various experiments with different configurations (Pd wire, Pd 
+tube, or Pd film). When the palladium wire was heated by electrical current through this wire in the deuterium gas, 
+the resistance of the palladium wire was recorded to monitor the loading ratio. Fig. 1 shows a schematic of apparatus, 
+the details of which were described in Ref. [2] and [3]. As indicated by an early experiment [8,9], the resistance of a 
+palladium wire depends on both its loading ratio and its temperature. Figure 2 shows the resistance of the palladium 
+wire, R(Pd), as a function of its temperature and loading ratio (x=atomic number ratio of D/Pd). Each dotted line 
+shows the resistance as a function of its temperature (TPd) for a specific loading ratio (D/Pd). When we kept the 
+electrical current, I(Pd), in the Pd wire constant and changed the temperature of Dewar wall (Tw), the Pd wire 
+changed its temperature, TPd, to keep the thermal flow in balance with the electrical power input. The loading ratio 
+was not changed when the TPd dropped from point 1 (180ºC) to point 2 (157ºC) and rose from point 2 to point 3 
+gradually. Turning on the pump at point 3 introduced a jump in loading ratio from 0.3 to 0.45 (point 3 to point 4). 
+
+The time between two adjacent data points was 10 seconds only; hence, it was a quick jump. This jump was 
+followed by a temperature rise due to the enhancement of the electrical power input at constant I(Pd) (point 4 to 
+point 5). 
+
+Fig. 2. Pumping at 160ºC induced a jump in loading ratio 
+
+This kind of behavior appeared once and once again every time the pump was started. It was thought that 
+this jump in resistance was induced by a positive feed-back mechanism as follows. The pumping reduced the gas 
+pressure; hence, the heat conductivity through gases was reduced. Consequently, the temperature of palladium wire 
+(TPd) was enhanced because the heat transfer was reduced. The enhancement of TPd would cause the enhancement of 
+resistance; hence, the electrical power input would be enhanced and it would cause the TPd  to rise further. However, 
+this kind of positive feed-back mechanism is not supported by the time behavior of the resistance of the Pd wire, 
+because the resistance jumped up much faster than the temperature rose at the onset. The jump in the loading ratio 
+came first. Nevertheless, what we were most interested in was whether any excess heat accompanied this jump in 
+loading ratio.  
+
+
+3. CONSTANT-CURRENT MODE AND CONSTANT-TEMPERATURE MODE 
+
+When the electrical current in palladium wire, IPd, was kept constant by the power supply, the temperature 
+rising after pumping may be caused by two factors: the jump in power supply and the reduction in heat transfer 
+coefficient. Even if we may assume that the heat transfer coefficient does not change at the low pressure, we have to 
+distinguish the heat from the electrical power input and the “excess heat “ (if any). We may calculate the heat 
+transfer coefficient, which is defined as: 
+
+Here, VPd is the voltage applied on the palladium wire; Tw is the temperature of Dewar wall; MCp is the heat capacity 
+of palladium wire; Qex is the excess heat if any. If TPd reaches its steady state,
+If the value of k is known, we may use eq.(2) to calculate the excess heat, Qex , in terms of IPd, VPd, TPd, Tw and k. In 
+fact, we do not know the exact value of k. However, if there is any excess heat in the D/Pd system, we expect to see 
+a drop of the value k4, every time the Qex increases. k4 is defined as 
+
+This was observed at the onset of pumping. One might suspect that the sudden change in TPd might cause this jump 
+in k4; therefore, a further experiment was run in the constant-temperature mode. 
+
+Fig. 3. Power is not a function of P(3), but directly related to pumping rate (990711-0.xls) 
+
+A computer controlled power supply was used to keep the temperature of the palladium wire, TPd, constant. 
+A tiny Pt thermistor was attached on the palladium wire to closely monitor the temperature as a sensor for TPd. The 
+TPd could be preset to a fixed value in the computer software. In this way, we eliminated the temperature effect 
+during the pumping; however, we were still able to see this drop in k4. 
+
+When we started pumping the deuterium Dewar at 40,000 sec. in Fig. 3, the power necessary to keep the 
+constant TPd dropped quickly. One may suspect that the drop in deuterium gas pressure reduces the heat conductivity; 
+hence, the necessary electrical power is reduced. This interpretation is not correct. When the pressure in the Dewar 
+increased slowly from 200 Pa to 700 Pa. The k4 did not increase with the pressure at all. When we increased the 
+pumping rate again at 48,000 sec., k4 dropped suddenly again. It is clearly shown that the k4 is a function of 
+pumping rate but not the function of pressure in the Dewar. Particularly, when we stopped the pumping at 63,000 
+sec., the k4 jumped up quickly although the gas pressure was still very low in the Dewar. These data exclude the 
+possibility of explaining the jump of k4 as a jump in heat transfer coefficient. Indeed the jump in k4 is possibly 
+evidence of excess heat. Assuming a constant heat transfer, this jump of k4 corresponds to excess heat of 0.035W, 
+which is about 15% of the input power (0.24W). The volume of the Pd wire is about 0.237 cm3 ; hence, it is on the 
+order of 0.15 W/cc at the temperature of 50ºC. Based on the high temperature electrolysis experiments [7,10], We 
+might anticipate that the excess heat would be enhanced at higher temperature. Fig. 4 showed the similar data at 
+95ºC and 100ºC. When the temperature of the Pd, TPd, was kept constant, the pumping at 69,000 sec. introduced a 
+resistance jump and a power drop again. Since the TPd was kept constant, the change in resistance was attributed to 
+loading, and the change in power was due to the excess heat. When the electrical power dropped from 2.28W to 
+1.84W, the temperature of Pd was still kept at 95±0.5ºC . If the heat transfer coefficient did not change during the 
+pumping; then, the excess heat power was about 0.44W, which is 19% of the power input. When the pumping was 
+stopped at 160,000 sec., the necessary power jumped back to 2.3W. This effect was reproduced in the next day, at 
+218,000 sec. the necessary power dropped to 1.84W due to the pumping again. There were two jumps in power at 
+250,000 sec. and 297,000 sec., respectively. They were different in nature. The first power jump at 250,000 sec. was 
+due to the setting in computer. We required that TPd should jump from 95ºC to 100ºC at 250,000 sec.; then, the 
+computer increased the power input to meet this requirement. However, at 297,000 sec. we stopped pumping, and 
+the power jumped up instantly to keep TPd =100ºC. Fig. 4 shows that k4 does not change at 250,000 sec., but k4 
+jumps from 1.70×10-10 →2.15×10-10 W/K4 at 297,000 sec. It shows clearly that pumping causes the change in k4. In 
+other word, the pumping may introduce a kind of excess heat in parallel to the jump in loading ratio. The power 
+density for this excess heat near 95ºC is about 1.8 W/cc 
+
+Fig. 4. Excess heat under constant T(Pd), 1998,12,13--17. (5_days7.xls) 
+
+We have extended this experiment to TPd=120ºC, and kept pumping as long as 20 days. The k4 value was 
+kept low until the pumping was stopped after 20 days. The corresponding excess heat power was 0.6W at 120ºC 
+(greater than 2.5 W/cc). 
+
+
+4. DISCUSSION 
+
+Using the gas-loading method, we observed a power drop induced by pumping. This power drop may be 
+related to excess heat on the order of 2 W/cc It is reproducible, and it can last as long as 20 days. If this is excess 
+heat from the D/Pd system then it is of the order of 300 eV/atom. It is much greater than that from any conceivable 
+chemical energy source. However, we have to do two more experiments to make it compelling. Firstly, we should 
+put this whole gas loading system in a Seebeck calorimeter. We need an independent measurement of the heat flow, 
+which does not rely on any heat transfer coefficient on the surface of palladium wire. Secondly, we should strive to 
+reach a state which may keep the palladium wire warmer than the surrounding medium while the power input is 
+entirely eliminated (i.e. a kind of “heat after death” effect). 
+
+With data from these two additional experiments in hand we will be able to state with confidence that the 
+excess heat is reproducible and non-chemical origin.  
+
+
+REFERENCES 
+[1]Xing Z. Li, et al. “Anomalous Nuclear Phenomena and Solid State Nuclear Track Detector,” Nucl. Tracks. Radiat. 
+Meas., .22, 599 (1993). See also: Shi. Y. Dong, Xing Z. Li, et al., “Precursor to ‘Cold Fusion’ Phenomena and 
+the Detection of Energetic Charged Particles in Deuterium/Solid System,” Fusion Technology, 20, 330 (1991). 
+[2] Xing Z. Li, Wei Z. Yu, et al., “ ‘Excess Heat’ Measurement in Gas-loading D/Pd System,” Journal of New 
+Energy, Vol.1, no.4, Fall 1996, p.34.  
+[3] Xing Z.Li, Shu X. Zheng, Hai F.Huang, Gui S. Huang, Wei. Z. Yu, “New Measurement Of Excess Heat in a 
+Gas-Loading D/Pd System,” Proceedings of 7-th International Conference on Cold Fusion, April 19-24, 1998, 
+Vancouver, Canada. Edited by ENECO, Inc. Salt Lake City, Utah USA, p.197.  
+[4] J. Minato,T. Nakata, K. Kunimatsu, et al. “Materials/surface aspects of hydrogen/deuterium loading into Pd 
+cathode,” Proceedings of 5-th International Conference on Cold Fusion, April 9-13, 1995, Monte-Carlo, 
+Monaco, Edited by IMRA Europe, p.383. 
+[5] W.A. Oates, Ted B. Flanagan, “Formation of Nearly Stochiometric Palladium-Hydrogen Systems,” Nature 
+Physical Science, 231, 19 (1971). 
+[6] C. Manduchi, G. Mengoli, et al. “Anomalous Effects during the Interaction of Subatmospheric D2 (H2) with Pd 
+from 900ºC to Room Temperature,” IL NUOVO CIMENTO, 107 A, N.2, p.171 (1994). 
+[7] G. Mengoli, M. Bernadini, C. Manduchi, G. Zannoni, “Calorimetry close to the boiling temperature of the 
+D2O/Pd electrolytic system,” J. of Electroanal. Chem., 444, 55 (1998). 
+[8] Feng S. Bu, Xing Z. Li, et al., “Loading Ratio Study in a Gas-loading System,” Proceedings of 6-th International 
+Conference on Cold Fusion, Vol.1, edited by M. Okamoto, October 13-18,1996, Japan, (Published by New 
+Energy and Technology Development Organization, and Institute of Applied Energy), p187. 
+[9] Gui S. Huang, Xing Z. Li, “ A Possible Phase Transition in a Gas-loading D/Pd System,” ibid. Vol.1, p198. 
+[10] M. Fleischmann and S. Pons, “Calorimetry of the Pd-D2O system: from simplicity via complication to 
+simplicity,” Physics Letters A. 176, 118 (1993). 

@@ -1,0 +1,32 @@
+1. INTRODUCTION
+
+In 1989, Professors Pons and Fleischmann[1] created a media storm by announcing their success in causing fusion to take place in an ordinary electrolytic cell containing D2O. Even though these results remains debatable a number of laboratories are still researching this phenomena[2-4]. But non-reproduciblity has prevented a clear identification that also strongly influences the critical factor required to cause such low energy nuclear reactions. Studies at The University of Illinois have focused on high water reactions in thil film of Pd, Ni, Ti, etc. Hydrogen traveling in Pd-Ni thin films also effect electrical properties of the film, and such effects appear to be related to reaction phenomena. In order to increase electrical properties of thin films, good adhesion, and good lattice formation along with preferred crystal orientation are very important factors. According to basic concepts for the vacuum processes and thin films, the annealing process is a critical method to get good properties. Consequently, we investigated the characterization of Pd-Ni thin films on Al2O3 substrate using vacuum annealing methods such as inert gas and vacuum processing.
+
+
+2. EXPERIMENTS
+
+Ultrasonic cleaner is used for the A12O3 substrate cleaning,. The Pd-Ni thin film was fabricated using high purity Palladium and Nickel target, and the magnetron sputtering system shown in figure 1. The base vacuum was 1.9*10-7 torr. An initial glow discharge treatment was carried out by Oxygen glow discharge with a gas flow rate of 30 sccm, the system pressure of 20 mtorr was maintained for 3 minutes. The 8000 Å thick Palladium thin film was fabricated at a power of 250 W, the thickness, and a system pressure of 5 mtorr, with and an Argon gas flow rate of 20 sccm. A topcoat of 1000 Å Nickel thin film was sputtered at 250 w, at a system pressure of 5 mtorr, and an Argon gas flow rate of 20 sccm. For comparison purposes, the Pd-Ni thin films was treated with inert gas (Argon) and vacuum annealing methods up to 700  ̊C suing step temperature profile for both heating and cooling.
+The surface morphology of Pd-Ni thin film was investigated using secondary electron microscopy (SEM), atomic force microscopy (AFM). X-ray diffraction (XRD) was used to observe the crystal structure of Pd-Ni thin films. Figure 2 shows the flowchart of the overall process.
+
+
+3. RESULTS AND DISCUSSION
+
+Photo. 1 shows surface morphology and cross-sectional image of Pd-Ni thin films fabricated with Argon gas annealing and the vacuum annealing process using SEM. As seen from these photos, the gas annealed Pd-Ni thin films have poor adhesion and highly porous. This indicates that the gas or also air annealing processes were not suitable for the Pd-Ni thin films because both processed left a large density of bubbles and pores. However, the vacuum annealed Pd-Ni thin film formed a connected grain structure. This structure results are increased tensile strength of Pd-Ni thin films. Consequently, when sectioning for the SEM, the film did not fracture but instead curled up along the cut edge.
+Photo. 2 show the roughness analysis of vacuum annealed Pd-Ni thin film. The roughness of Pd-Ni thin film on A12O3 substrate was not changed. The RMS of Pd-Ni thin film was about 751 nm. A smoother surface is ultimately desired, and this will be the focus of future work. Pre-preparation of the substrate and/or use alternate substrate materials may be necessary.
+
+
+4, CONCLUSIONS
+
+As shown, the vacuum annealing process can provide thin-film properties such as adhesion, tensile strength and fewer pores because this process pull bubbles from pores in the thin film through the surface. Thus, the vacuum annealed samples result in a higher density thin film with improved strength and electrolytic performance.
+
+
+5. REFERENCES
+
+[1] M. Fleischmann, S. Pons. And M. Hawkins, J Electroanal. Chem.. 261, 301 and errata in Vo1. 263, (1998).
+[2] H. Yuki, J. Kasagi, A. G. Lipson, T. Noda, T, Ohtsuki, B. F. Lyakhov, N. Asami: “Anomalous enchancement of DD-reaction rate in Au/Pd/PdO heterostructure targets under low energy deuteron bombardement”, JETP
+Lett, 68(11), 785, (1998).
+[3] Sung-O Kim, C. H. Castano, A. G. Lipson, N. Luo, George H. Miley, “preparation of Pd-Ni Thin Film
+Electrodes using Margnetron Sputtering “, Bulletin of The American Physical Society, Vol 47, No. 1, pp.
+1220, (2002).
+[4] G. H. Miley, G. Selvaggi, A. Tate, M Okuniewski, M. Williams, D. Chicea, H. Hora, J. Kelly, “Advances in
+Thin-Film Electrode Experiments”, Proceedings, 8th International Conference on Cold Fusion, ICCF8, Villa Marigola, Lerici(La Spezia), Italy, may 21-26, (2000).

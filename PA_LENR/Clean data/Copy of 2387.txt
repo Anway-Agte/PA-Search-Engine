@@ -1,0 +1,141 @@
+INTRODUCTION
+
+This work was begun after the Workshop on Cold Fusion at Santa Fe in May, 1989
+(1) The failure to reproduce neutrons or "excess heat" (2) suppressed the surge of interest
+in the "Cold Fusion" effect at that time. We asked ourselves a question: If this anomalous
+phenomenon is not a mistake, how do we identify the phenomenon? The neutron was
+selected as a fusion product to identify the nuclear reaction in many cold fusion
+experiments. But the low level signal of neutrons in a -background was one of the
+difficulties. Sporadic bursts of signals coming in unpredictable times made it even more
+difficult to measure in a convincing way. This irreproducibility and unpredictability has
+mired "cold fusion" in a mist of illusion. We suggested that before the emission of the
+fusion products occurs, there must be some precursor reactions. If we can measure the
+precursors and find the correlation between the fusion products and the precursors, then the
+measurement of sporadic bursts would be more convincing. Besides, the precursor might
+also guide our approach to the cold fusion phenomena and make it easier to solve the
+problem of reproducibility.
+
+
+PRECURSORELECTROMAGNETIC RADIATION
+
+Among the possible precursors, we selected electromagnetic radiation as the first
+target. We believe that a nuclear fusion reaction is possible only if the Coulomb barrier is
+screened somehow. The experiment (3) proved that the muon is not the necessary a
+negative charge which screens the positive core of the Coulomb force. The only available
+candidate is the electron. Although the mass of the electron is too small to screen the
+Coulomb barrier in an effective way in a free atom, we still hope that there might be some
+mechanism in an atomic lattice that causes a screening effect. If this is true in a
+deuterium/solid system, the electrons must change their states before effective screening
+happens. Thus, we may expect to see certain electromagnetic radiation before the
+anomalous nuclear effect appears. The photon of this electromagnetic radiation should be
+in the range from 10 eV to 3 keV, since the electron should approach an orbit similar to that
+of a muon in order to screen the Coulomb barrier effectively. This electromagnetic
+radiation is ultra-violet or soft X-ray; hence, we have to measure them close to the source
+to avoid serious attenuation. The Frascati experiment (4) provided a good chance to detect
+this electromagnetic radiation.
+
+
+ENERGETIC CHARGED PARTICLES
+
+In order to identify the fusion reaction, we thought that energetic charged particle is
+a better identification than the neutron. However, energetic charged particles cannot
+penetrate the vessel the way the neutron does, so we have to detect it inside the vessel.
+
+The first step of the experiment was to determine whether there is any
+electromagnetic radiation and emission of the charged particles in a deuterium/solid
+system. This paper reports the result of this first step of the experiment to search the
+electromagnetic radiation and charged particle emission.
+
+A thermoluminescence detector (TLD) was selected to detect the electromagnetic
+radiation, because it is easy to use it to make a close-up measurement in a high pressure
+vessel, and because it has high sensitivity with low background. The TLD (CaF2) was
+selected for its high sensitivity in the range of interest. The plastic-track detector (CR-39)
+was selected for charged particle detection for the same reason. Pre-etching was used to
+discriminate the existing background tracks before starting the experiment. A control run
+was used to see the effects due to any -emitting nuclides in the palladium foils, or due to
+airborne radon or cosmic-rays.
+
+Palladium foil (0.02 cm × 0.5 cm × 2 cm), CR-39 and TLD are put together in
+a sandwich-like structure. The structure was heated to 500°C for 2 hours at 7  10-2
+torr, and then sealed in a stainless cell attached to a source of D2 gas. After
+evacuating the cell using a roughing pump (1.5 × 10-2 torr) we loaded D2 gas to a
+pressure of 9 atm, and immersed the cell in liquid nitrogen for 4 hours. Then the
+valve between cell and the D2 source was closed, and we let it warm to 20°C when
+the liquid nitrogen vaporized. The cooling and warming cycle was repeated several
+times. The entire experiment lasted about 2 days, after which we etched the CR-39
+film for 6 hours (6.25 mol NaOH 70°C) together with the CR-39 films from the
+blank run (in air) and control run (in H2+Pd cell). The TLD (CaF2) are measured by
+Thermoluminescence Dosimetry.
+
+
+RESULTS
+
+The results are shown in Table 1. Although the calibration for TLD (CaF2)
+is not available yet, the comparison between the sample runs and blank runs has
+shown that there is some electromagnetic radiation in the deuterium/palladium
+and hydrogen/palladium system. The interesting point is that although the H2 cell
+exhibits similar signal of electromagnetic radiation as D2 cell, it gives no charged
+particle tracks in CR-39 film. Fig. 1 shows a series of photos of CR-39, taken by
+differential interference microscopy.
+
+
+background
+
+Fig. la shows the photo of CR-39 from the D2+Pd cell. It is clear that there are
+some tracks of energetic charged particles. In order to estimate the energy and charge
+of these particles, we show the photo of CR-39 irradiated by a particle source (Am source with intensity of 4 x 105/min in 2 solid angle) in Fig. lb. The sizes of these
+tracks are comparable. In Fig. lc, the photo of CR-39 from an H2 cell is shown as a control
+run. The contrast between them is apparent. It hints that the signals in TLD (CaF2) are not
+caused by energetic charged particles. The electromagnetic radiation might originate from
+electrons which are transiting from state to state when palladium foils are filled with
+hydrogen or deuterium. In Fig. 1d, a photo of CR-39 from a cell with D2 only (no
+palladium). It proved that D2 alone cannot produce a charged particle signal. Fig. le and
+Fig. 1f show a kind of special signal, a group of tracks, at a different magnification (×300
+and ×600, respectively). This special signal might be caused by a burst of charged
+particles.
+
+In October, 1989, P.B. Price et al. published their results of experiments using
+CR-39. (5) They found only two tracks for charged particles in CR-39. This is quite
+different from our results. Having compared the experimental details we found an
+important difference: they cleaned the samples with aqua regia. We repeated our
+experiment with the sample cleaned with aqua regia. To our great surprise, the tracks in
+CR-39 disappeared (Fig. lg). We analyzed the surface of palladium cleaned by aqua regia,
+using the auger electron scanning probe. A clear peak of chlorine appeared (Fig. 2). Using
+the argon ion mill, we found that the chlorine penetrated into the palladium to a depth of a
+few hundred angstroms (Fig. 3). When we used the chlorine gas to contaminate palladium
+surface intentionally, we again found that the CR-39 tracks disappeared.
+
+
+SUMMARY
+
+To summarize our experimental results, we have three points:
+First, there is some sort of electromagnetic radiation which might be a precursor of
+the anomalous nuclear effect. Hence, we design the next step of experiment to diagnose the
+electromagnetic radiation in real time. The electromagnetic radiation is different from the
+electromagnetic radiation caused by energetic charged fusion products, which can not be
+taken as a precursor.
+
+Second, we have detected charged particle signals in a deuterium/palladium system
+repeatedly, as long as we use the palladium foil cut from the same sheet of palladium. Since
+the charged particles have a range of only a few microns in the palladium, this suggests that
+the anomalous nuclear effects are related to some surface phenomena.
+
+Third, surface contamination may suppress the anomalous nuclear effects. This
+may explain why many experiments failed in the past year.
+
+These three points together are consistent with the electron screening model, which
+has been suggested by the existing nuclear reaction data at low energy (6).
+
+
+REFERENCES
+
+1) Workshop on Cold Fusion Phenomena, sponsored by Los Alamos National Laboratory
+and U.S. Dept. of Energy, May 23-25, 1989, Santa Fe, New Mexico,USA.
+2) S. E. Jones, et al., Nature (London) 338, 737 (1989); M. Fleischmann, S. Pons, and M. Hawkins, J. Electroanal. Chem. 261, 301 (1989).
+3) K. Kagamine, et al. "Evidence Against Condensed Matter Fusion Induced by
+Cosmic-Ray Muons", Workshop on Cold Fusion Phenomena, sponsored by Los Alamos
+National Laboratory and U.S. Dept. of Energy, May 23-25, 1989, Santa Fe, New Mexico,
+USA.
+4) A. DeNinno, et al., Nuovo Cimento, 10lA, 841 (1989).
+5) P. B. Price, et al., Phys. Rev. Letts. 263, 1926 (1989).
+6) K. Langanke, et al., Modern Phys. Letts. A 4, 2101 (1989).

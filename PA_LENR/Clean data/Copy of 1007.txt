@@ -1,0 +1,163 @@
+1. INTRODUCTION 
+
+Our previous research compared the radiation output of uranium codeposited with hydrogen (by aqueous 
+electrolysis with nickel cathodes) to the output of the starting material, U3O8  
+[1, 2]. Radiation output was greater 
+for the electroplated uranium. For example, the rate of alpha radiation emitted by the electroplated uranium was 
+twice as great as the rate of alpha emission from the starting material, U3O8.  Subsequent to our reports[1,2], we 
+determined that the concentration of uranium in the electroplated material was 30% higher than in the starting 
+material. Therefore, the normalized rate of alpha emission from the electroplated uranium was about 30% 
+greater than that from the starting material. Similar results were also obtained for beta and gamma emissions. 
+
+The aim of our current research was to determine if similar effects occur in glow discharge experiments. 
+
+
+2. EXPERIMENTAL METHODS 
+
+ A schematic diagram of the glow discharge apparatus is shown in Fig. 1. Two quartz tubes concentric with the 
+stainless steel electrodes were sealed with gaskets against stainless steel end plates. The space between the 
+concentric quartz tubes allows for water cooling, and there is also provision for water cooling the electrodes. 
+
+Water cooling was not necessary in our experiments because the power input was very low. A molybdenum foil 
+was held against the face of the anode with a molybdenum nut. A 19 mm diameter disc made of natural uranium 
+(99.98% U, ~0.2 mm thick) was held against the face of the cathode with a molybdenum nut. The part of the 
+uranium disc which was exposed to the hydrogen isotope plasma had a diameter of 13 mm. Therefore, about 
+47% of the area was exposed to the plasma.  
+
+Two uranium discs were exposed to hydrogen plasma, and two others were exposed to deuterium plasma. The 
+mass of each disc was determined before and after these exposures. Before exposure the mass of each disc was 
+about 1 g. Erosion which occurred during glow discharge reduced the mass of each disc. Glow discharge was 
+performed with flowing gas at about 5 torr. The current during glow discharge was about 5 mA and the voltage 
+was about 500 volts. Alpha, beta, and gamma measurements were made on each of these samples after the 
+exposures, along with measurements on a control, which was a uranium disc from the same foil and of the same 
+size, but which had not been exposed to plasma in the glow discharge apparatus. The alpha measurements were 
+made with a Ludlum 43-5 alpha probe. The beta measurements were made with a Ludlum model 2000 GM 
+counter. By placing a one mm thick aluminum plate between the detector and the sample, it was possible to 
+detect the continuum of high energy gamma and x-rays. Gamma and x-ray spectra were obtained with an EG&G 
+ORTEC 92X gamma ray spectrometer. Radiation measurements were made periodically over a time span of 
+about one year. The uranium specimen with ~ 550 hour exposure to deuterium plasma and the control specimen 
+were examined with a scanning electron microscope (SEM) and analyzed with an energy dispersive spectrometer 
+(EDS). 
+
+Fig. 1. Glow discharge apparatus. The dimensions are in millimeters. 
+
+
+3. RESULTS  
+
+Alpha radiation emitted by the control, by two samples exposed to hydrogen plasmas, and by two samples 
+exposed to deuterium plasmas was measured on 5-2-02. The results are shown in Fig. 2, where H denotes 
+samples exposed to hydrogen plasma and D denotes samples exposed to deuterium plasmas. The results are 
+normalized to give counts per gram of uranium in order to take into account the differences in mass of the 
+samples. The times of exposure to glow discharge were 43 hours in hydrogen plasma for sample H1, 18 hours 
+in hydrogen plasma for sample H2, 100 hours in deuterium plasma for sample D1, and 550 hours in deuterium 
+plasma for sample D2. 
+
+Fig. 2.   Alpha Radiation after Exposure of Uranium 
+Samples to Hydrogen Isotope Plasmas
+
+Fig. 2 clearly shows that exposure of uranium to hydrogen isotope plasmas greatly increases the flux of alpha 
+radiation. The flux from three of the samples is almost the same and is more than twice the flux from the control. 
+Two of these samples were exposed to hydrogen plasma and one was exposed deuterium plasma. The flux from 
+the fourth sample, which was exposed to deuterium plasma for ~ 550 hours, is more than four times as great as 
+the alpha flux from the control.. 
+
+Fig. 3 shows the results of beta radiation measurements taken periodically over a span of about one year. The 
+beta emissions did not change with time for any of the samples during this period. All of the samples exposed to 
+hydrogen isotope plasmas had larger beta fluxes than the control. For H1 and H2, the increases were 9.6% and 
+7.7%, respectively. For D1 and D2, the increases were 15.4% and 45.4%, respectively. 
+
+Fig. 3. Beta Radiation from Uranium Samples after Exposure to 
+Hydrogen Isotope Plasmas
+
+The next data set was obtained by placing a one mm thick aluminum plate between the Geiger counter and the 
+specimen in order to block beta radiation. The results are given in Fig. 4. 
+
+Fig. 4. Gamma Radiation from Uranium Samples after Exposure 
+to Hydrogen Isotope Plasmas
+
+It is thought that the Fig. 4 differences in radiation obtained for each sample over the time span from August 01 
+to April 02 was caused by slight differences in geometry between the samples, the aluminum plate, and the 
+detector. Here again, all of the samples exposed to hydrogen isotope plasmas have greater fluxes of radiation 
+(high energy gamma and x-rays) than the control. The amounts of the increases are about 10% for H1, 5% for 
+H2, 14% for D1, and 59% for D2. 
+
+Eleven of the most prominent characteristic peaks in spectra obtained with the gamma ray spectrometer were 
+analyzed to determine possible correlations with the other data. The first peak in the gamma ray spectra, at 63.1 
+keV, was from thorium 234, which results from alpha decay of uranium 238. The second peak, at 84.1 keV, was 
+from thorium 231, which results from alpha decay of uranium 235. The third peak, at 92.4 keV, is also from the 
+decay of thorium 234. The intensities of these peaks obtained from the control and from the four reacted samples 
+are shown in Fig. 5. The net count for every peak from the reacted samples is greater than for the corresponding 
+peak from the control. These differences are most apparent for the 92.4 keV peaks. The intensity of this peak for 
+H1 was 18% greater than the control, for H2 it was 19% greater, for D1 it was 33% greater, and for D2 it was 
+39% greater.  
+
+Fig. 5. Th 231 and Th 234 Characteristic Gamma Ray 
+Peaks after Exposure to Hydrogen Isotope Plasmas
+
+The next four most intense peaks were identified as characteristic x-ray peaks from uranium, namely, Kα2 at 
+94.9 keV, Kα1 at 98.5 keV, Kβ1 at 111.1 keV, and Kβ4 at 114.8 keV. The intensities of these peaks for the :
+control and for the four reacted samples are shown in Fig. 6. Here it is seen that all of the Kα2 and Kβ4 peaks 
+for the reacted samples are less intense than the corresponding peaks for the control. The average reduction in 
+intensity is 13% for H1, 7% for H2, 24% for D1, and 37% for D2. In the case of Kα1, the reduction is 4% for 
+H1, but H2 has about 1% greater intensity than the corresponding control peak. It should be recalled that H2 was 
+exposed to glow discharge for only 18 hours, far less than the other samples. Both D1 and D2 have reduced Kα1 
+intensities, 8% and 28%, respectively, compared with the control. For the Kβ1 peak, the intensity of H1 is the 
+same as the control, H2 is 7% higher, D1 is 4% higher, but D2 is 26% lower. The varied results for Kβ1 may be 
+caused by overlap with some as yet unidentified peak. The uniformly large decreases in these characteristic x-ray 
+peaks of uranium for sample D2 suggests that this sample has less uranium per unit mass than the control. The 
+same conclusion may also apply to the other three reacted samples.  
+
+Fig. 6. Characteristic X-rays from Uranium after Exposure 
+to Hydrogen Isotope Plasmas
+
+At higher energy in the gamma ray spectra, the next four prominent peaks are gamma rays emitted by U235. Fig. 
+7 shows the intensities of these peaks for the four reacted samples and for the control. Although the differences 
+are not as great as those in Fig. 5, here again the gamma ray emissions are greater in every case for the reacted 
+samples H1, H2, D1, and D2 than for the control. Again, by far the largest increases in emission were from 
+sample D2 which was subjected to the glow discharge plasma much longer than the other samples.    
+
+Fig. 7. U235 Gamma Radiation after Exposure of 
+Uranium Samples to Hydrogen Isotope Plasmas
+
+Specimen D2 was characterized by SEM and EDS after cathodic bombardment with deuterium ions in the glow 
+discharge plasma. Fig. 8 is a low magnification photograph of a portion of this sample. On the left side, the 
+relatively smooth arc represents the area of the sample which was shielded from the plasma by the molybdenum 
+nut which held the uranium sample in contact with the stainless steel cathode. To the right of the protected area, 
+the topography is very rough and varied in contrast. A great deal of erosion occurred in the exposed area, 
+resulting in loss of nearly half the mass of the sample. The control sample was also examined in the same way. 
+The EDS spectra from the control sample did not contain evidence of thorium, but thorium was detected in many 
+spectra from D2. A typical analysis gave 1% thorium with a standard deviation of 0.3%. 
+
+Fig. 8. SEM photograph of uranium sample D2 after exposure to deuterium plasma for about 550 hours. The 
+relatively smooth rim on the left was protected from exposure to the plasma by a molybdenum nut which 
+fastened the sample against the cathode. 
+
+
+4. DISCUSSION 
+
+The alpha, beta, and gamma data presented above clearly indicate that the interaction of uranium with hydrogen 
+isotopes during glow discharge results in shortening of the decay time of uranium. The data in Fig. 2 show that 
+glow discharge for 18 hours with hydrogen plasma reduces decay time by more than a factor of two. Decay time 
+was reduced by more than a factor of four when uranium was exposed to deuterium plasma for 550 hours. It 
+should be emphasized that only about one-half of each sample was exposed to plasma and only on one side. It 
+should be expected that larger effects would have occurred if the entire surface of each sample had been exposed 
+to plasma on both sides. Similar results were obtained in our previous research on codeposition of hydrogen and 
+uranium from a light water electrolyte 1, 2.
+
+Bush 3 found evidence for beta decay of 40K to 40Ca. His results suggest that the half life of 40K was greatly 
+reduced from the normal 10 9 years. Change over a short time span in the quantity of 107Pd, which has a half life 
+of about 7 x10 6 years, has also been reported 4. This also suggests a great reduction in half life. 
+
+
+5. REFERENCES 
+
+1. G. Goddard and J. Dash, “Characterization of Uranium Codeposited with Hydrogen on Nickel Cathodes”   
+Trans. American Nuclear Soc. 83, 376 (2000). 
+
+2. G. Goddard, M.S. Thesis, Portland State University (2001). 
+
+3. R. T. Bush, “A Light Water Excess Heat Reaction Suggests that Cold Fusion May Be Alkali-Hydrogen 
+
+Fusion”, Fusion Technology 22, 301 (1992). 
+ 4.I. Savvatimova, “Transmutation Effects in the Cathode Exposed Glow Discharge. Nuclear Phenomena or   
+ Ion Irradiation Results?,” Proc. ICCF-7, p. 342, Vancouver (1998). 

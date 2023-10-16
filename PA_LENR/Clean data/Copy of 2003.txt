@@ -1,0 +1,97 @@
+1. Introduction
+
+The cross section of nuclear fusion reactions far below the Coulomb barrier is roughly represented by the Gamow factor;1,2) i.e., it drops nearly exponentially with decreasing energy, and the reaction rate becomes immeasurably low. Nevertheless, nuclear reactions with light nuclei have been studied down to very low energies with improved technique, and have revealed that there are significant cross section enhancements beyond the prediction with the barrier penetration.3–7) These enhancements are qualitatively under- stood as a screening effect due to bound electrons, since the prediction is based on an assumption that Coulomb potential of the target nucleus and projectile is that resulting from bare nuclei. The negative potential of the electron cloud cancels a part of the positive potential of the two nuclei, thereby increasing their relative kinetic energy and their reaction cross section. Thus the screening effect may be described quantitatively by a screening energy Us. The greater the value of Us, the greater the enhancement and vice versa. For the D+D reaction with a gas target, a value of Us 1⁄4 25  5 eV was deduced from the enhanced cross section.6)
+
+It is reasonable to expect a larger screening potential for the nuclear reaction if more electrons are present in the vicinity of the nuclei, as in metal.8 
+reactions in a stellar plasma might be
+where free electrons and ions build up
+clouds around the colliding nuclei.
+interesting to study nuclear reactions at energies far below the Coulomb barrier under various environments.
+
+We have started a series of measurements of the D+D reaction in which the target deuterons are embedded in metal.10–13) The screening energy in a solid was first deduced with Ti as the host and with protons detected from the D(d,p)T reaction.12) The result, Us 1⁄4 19  12 eV, is almost the same as for the gas target. In a subsequent measurement with Yb as the host, however, Us 1⁄4 81  10 eV was deduced,13) a value that is certainly larger than the 25eV for the D+D reaction with a gas target.6)
+
+To investigate the mechanism of the enhancement, we
+have measured the proton yield from the D(d,p)T reaction in Ti,Fe,Pd,AuandPdOfor2:5<Ed <10keV.Partofthe results has been published in ref. 14. In this work, we describe the experiments in more detail and show the results of other measurements including the second run for PdO, which indicated anomalously large value of the screening energy.14)
+
+
+2. Experimental Details
+
+The experiments were performed using a low-energy ion beam generator12) at the Laboratory of Nuclear Science of Tohoku University. It consists of a duoplasmatron ion source, an extraction lens, a bending magnet, focusing lenses, a deceleration electrode and a neutral beam filter magnet. A deuteron beam of several hundred A intensity was collimated by passing it through two apertures so as to fix the beam position and size (4 mm diameter).
+The targets were 99.9% pure Ti, Fe, Pd, Au foils of thickness of 0.2 to 1 mm and a PdO/Pd/Au sandwich. The metal targets were annealed in vacuum at about 800C for several hours. The PdO/Pd/Au sandwich was prepared by annealing a rolled Pd foil of 40–50m thickness in an oxygen flame at about 1000C. Gold was then electro- chemically deposited on one side of the foil. With the Secondary Ion Mass Spectrometry technique, the thickness of the PdO layer was found to be about 30 nm.
+In order to detect protons emitted in the D(d,p)T reactions, a E  E counter telescope consisting of 50- and 200-m- thick Si surface barrier detectors was used. The front face of the E detector was covered with a 15-m-thick Al foil to prevent electrons and scattered deuterons from hitting the detector. The telescope was placed 2 cm from the target and at 125 to the beam direction. Requiring a coincidence between the E and E detectors completely eliminated electrical noise and enabled unambiguous identification of protons from the D(d,p)T reaction.
+
+The proton yield is proportional not only to the reaction cross section, but to the number of projectiles and the density of target deuterons as well. The number of projectiles in a run was deduced from the electric current on the target, with a small correction for secondary electron emission. For the correction factor, measurements were made to compare the electric current on the target with the one measured directly by an electron-suppressed Faraday gauge placed behind the target. The measured ratio of the direct current to the target one for 3 < Ed < 10 keV shows no strong dependence on either the bombarding energy or the target material, and stays at the value 0:97  0:03, employed as the correction factor.
+
+With the target deuterons embedded in a host material, it is difficult to know their density. In this work, however, in which we measured relative yield, i.e., yield at energy Ed divided by yield at 10 keV, it is sufficient to know that the target density was constant during the measurements from 2.5 to 10keV. We deduced the dependence of the target deuteron density on the projectile deuteron fluence and on the target temperature by measuring the proton yield from the D(d,p)T reaction in our targets under various conditions; mostly bombarded at 10 keV with various beam intensities. For the Pd target, also examined was the condition with constant beam intensity at different temperatures controlled by a heater attached to the target. During the bombardments the targets were cooled by liquid nitrogen, and the temperature of the foil surface was continuously monitored by a thermocouple. The results of these studies are: (1) As bombardment of a fresh target proceeds, the density of target deuterons increases initially, and at a certain fluence reaches saturation. (2) The saturation value depends strongly on the temperature (and on the host material), as shown in Fig. 1, where the saturated deuteron densities are plotted versus target temperature.
+
+In order to keep the number of the target deuteron constant, the following procedure was used. Prior to the measurement, the target was bombarded by 10-keV deuterons with a beam current of 60A until the proton yield together with the temperature of the target rose to steady values. For a given host material, whether the target was a new one or a used one, the proton rate always converged to nearly the same value. At low bombarding energies, the beam current was increased so as to keep the input power and, hence, the temperature constant. In this way, the number of target deuterons should be reasonably constant during the complete measurement from 2.5 to 10 keV. Nevertheless, the proton yield at 10 keV was measured at frequent intervals to average out small fluctuations, and the yield at energy Ed was divided by the average yield at 10 keV measured just before and after each measurement at Ed . In one run on PdO at 2.5 keV, for example, before-and-after measurements were carried out more than ten times—a few minutes at 10 keV, a few hours at 2.5 keV, again and again.
+
+The degree of success we had in stabilizing the deuteron target density during the measurements may be judged from the histograms in Fig. 2, one for each of the five host materials. The data came from the frequent proton yield measurements made at 10 keV; 86, 48, 35, 57 and 22 times for PdO, Pd, Fe, Au and Ti, respectively. Solid circles plotted at the upper part show the most probable values with a one standard deviation error. The deviation varies from 5% in Au to 12% in PdO. The averaging described in the previous paragraph should be effective in making these small deviations unimportant. (The absolute values on the abscissa were obtained by using the cross section of the D(d,p)T reaction and assuming a constant depth density distribution for the target deuterons.) The present method of sampling the deuteron density is justified by the fact that the effective depth contributing to the D+D reaction is very small (5 nm for 2.5 keV and 15 nm for 10 keV, for Pd metal) and more than 70% of the yield at 10 keV originates in the first 5 nm of surface.
+
+Since the energy loss of deuteron at these low energies is
+proportional to the velocity, i.e., dE=dx 1⁄4 kE1=2 , the d
+intensity of the deuteron beam should be varied as proportional to 1=E1=2 in order to keep the same power
+d
+density at the local surface region. In the present experiment, however, the beam intensity was varied as proportional to 1=Ed to keep the input power constant. This means that the power density at the local surface region is probably larger for lower energies than for 10keV. Therefore, one might argue that the temperature of the local surface region during the bombardment at 10keV may be lower than the one bombarded at lower energies, and, thus, the deuteron density referred as normalization may be overestimated if density saturation reaches very quickly. During the short-time measurement at 10keV, it was difficult to check whether the counting rate of protons (i.e., the target deuteron density) decreases or not. Thus, the enhancement deduced in the present work should rather be treated as lower limit, especially for the Pd and PdO target, in which the temperature dependence of the equilibrium density is the largest.
+
+
+3. Results and Discussion
+
+In the upper sections of Fig. 3 are plotted the excitation functions of the D(d,p)T reaction in the five hosts relative to the yield with a bombarding energy Ed 1⁄4 10 keV. Fig. 3(a) shows results of two independent measurements for PdO, Fig. 3(b) the results for Pd and Fe, and Fig. 3(c) for Au and Ti. The yields decrease very rapidly as the bombarding energy decreases. Relative to the dotted curve, which is the same in each section (see next paragraph), it is clearly seen that the yield at the lower energies very much depends on the host material. The largest deviation from the dotted curve is observed in PdO followed by Pd, Fe, Au and Ti, in order.
+Since the projectile deuterons are slowed down in the host and the reactions can occur until the deuteron stops, the observed proton yield Yp ðEd Þ at the bombarding energy Ed (the thick target yield) is given by
+where NDðxÞ, ðEÞ and dE=dx are the number density of target deuterons as a function of depth beneath the surface, the reaction cross section and the energy dependent stopping power for the deuteron, respectively. The dotted line in Fig. 3 gives Yp ðEd Þ=Yp (10 keV), the calculated thick target relative yield for the bare D+D reaction. In the calculation, constant target density is assumed for NDðxÞ and the parameterization of Bosch and Hale15) is used for ðEÞ, being the cross section with the bare deuterons. Further, the graphs of dE=dx vs. E of Anderson and Ziegler16) are employed. Their assumption that the electronic stopping power is proportional to the projectile velocity at low energies has been confirmed down to deuteron energies as low as 1 keV for various metals.17) As seen in Fig. 3, the standard calculation without any enhancement completely fails to explain the data at the lower energies, especially for PdO, Pd and Fe.
+
+In the lower part of Fig. 3, we plot the ratio of the experimental yield to the standard calculation (bare deuterons) in order to make comparisons more clearly. As seen, the reaction rate in PdO is enhanced very much, about 50 times the standard at Ed 1⁄4 2:5 keV. On the other hand, the deduced enhancement is very small for Au and Ti. We calculated thick target yields using the enhanced cross section with a parameter of the screening energy Us as described in ref. 12 to fit the experimental relative yields in Fig. 3 and obtain values of Us. These fits are shown by the solid and dashed curves in both the upper and lower parts of Fig.3.TheresultsareUs 1⁄46002075,3102050, 2001545, 701040 and 651040eV, respec- tively, for PdO, Pd, Fe, Au and Ti. The errors shown are statistical and systematic ones. The systematic errors originate from various sources; uncertainty of the bombard- ing energy (13eV), fluctuation of the deuteron density (60 eV for PdO, 30 eV for Pd, 20 eV for Fe and Ti, and 10 eV for Au), uncertainty of the depth dependence of the deuteron density (þ20eV) and ambiguity of the stopping power (30 eV).
+
+Since the screening energy caused by electrons in metals is only several tens of eV,8) the presently deduced values of 600, 310 and 200eV, respectively, for PdO, Pd and Fe cannot be due to electron screening alone. A relevant correlation may be that between the screening energy and the deuteron density in the hosts during the bombardment, as shown in Fig. 4. We see there that a large screening energy goes with a small density (note that the abscissa is the inverse of the density). The density may be related to the diffusivity, or mobility of Dþ ions in the host; large mobility results in small density, because the deuterons with large mobility can escape more quickly from the spot where the deuterons are implanted.
+
+The inverse of density during the bombardment may be an index of a concept we will call the ‘‘fluidity’’ of the positively-charged target deuterons, and we propose that high fluidity in the host is responsible for the enhanced values of Us. Fluidity is not the same as diffusivity, but it should be related to it. For example, Fig. 4 shows that fluidity is much higher in Pd than in Ti, and deuteron diffusivity has been measured to be much higher in Pd than in Ti, 5 107 cm2/s in Pd and only 3 1013 cm2/s in Ti.18) Thus, it appears that high fluidity results in small density of the target deuterons and large screening energy.
+The fluid deuterons and conduction electrons might behave like a plasma in the host. In a plasma, both electrons and positive ions are fluid, and, hence, their electric charges can be distributed so as to satisfy simultaneously the Poisson equation and the statistical distribution. As a result, the Coulomb repulsion is reduced not only by electrons but also by positive ions. In an attempt to extend the above considerations to D+D fusion in Pd, a jellium model of electron–deuteron screening of the Coulomb barrier19) showed that the screening energy due to the fluid deuterons can be one order of magnitude larger than that due to the electrons because of the difference between Boson (deuter- on) and Fermion (electron) statistics. Thus, we suggest the possibility of such a dynamic screening mechanism during the deuteron bombardment and penetration into the host wherein the fluidity of deuterons must play a decisive role.
+
+
+4. Summary and Conclusion
+
+In the present work, thick target yields of protons emitted in the DD fusion reaction in Ti, Fe, Pd, PdO and Au were measured as a function of the bombarding energy for 2:5 < Ed < 10 keV. It was found that the reaction rate, which drops nearly exponentially with decreasing the bombarding energy, becomes larger at very low energies than that for the bare DD reaction.
+
+The enhancement of the reaction rate depends on the kind of host materials very strongly; the most enhanced reaction occurs in PdO, followed by Pd and Fe. We have introduced the screening energy (Us), which reduces the Coulomb barrier between two deuterons, to parameterize the amount of the enhancement for each host metal. The values of the deduced screening energy are 600, 310, 200, 70 and 65 eV for PdO, Pd, Fe, Au and Ti, respectively. Since the screening energy caused by electrons in metal is only several tens of eV, the large screening energies deduced for PdO, Pd and Fe clearly indicates the existence of a new mechanism to enhance the reaction rate.
+
+We have found a relevant correlation between the screening energy and the deuteron density; a large screening energy goes with a small density in the host during the bombardment. Based on the correlation, we have proposed that high fluidity of the deuteron in the host is responsible for the enhanced values of Us, because the density is related to the mobility of Dþ in the host and large mobility results in small density. In order to understand the mechanism of the enhanced screening, the theoretical treatment of the nuclear reaction including the surrounding environment is highly desirable.
+The present work reveals the normally irrelevant effect of the environment surrounding the nuclei. Thus, low-energy nuclear reactions at far below the Coulomb barrier should be explored more in various conditions, experimentally as well as theoretically.
+
+Note added after submission: Enhanced fusion reaction rates for the D+D reactions in Al, Zr and Ta were also reported in their recent works by Czerski et al.21) and Raiola et al.22) They reported that the screening energy of about 300eV was deduced for Ta as host metal; the value is smaller than the one for PdO in the present work, but is as large as for Pd and Fe.
+
+
+5. References
+
+1) G. Gamow: Z. Phys. 51 (1928) 204.
+2) R. W. Gurney and E. U. Condon: Phys. Rev. 33 (1929) 127.
+3) H. J. Assenbaum, K. Langanke and C. Rolfs: Z. Phys. A 327 (1987)
+461.
+4) S. Engstler, A. Krauss, K. Neldner, C. Rolfs, U. Schroder and K.
+Langanke: Phys. Lett. B 202 (1988) 179.
+5) S. Engstler, G. Rainmann, C. Angulo, U. Greife, C. Rolfs, U.
+Schroder, E. Somorjai, B. Kirch and K. Langanke: Z. Phys. A 342
+(1992) 471.
+6) U. Greife, F. Gorris, M. Junker, C. Rolfs and D. Zahnow: Z. Phys. A
+351 (1995) 107.
+7) D. Zahnow, C. Rolfs, S. Schmidt and H. P. Trautvetter: Z. Phys. A 359
+(1997) 211.
+8) S. Ichimaru: Rev. Mod. Phys. 65 (1993) 255.
+9) G. Shaviv and N. J. Shaviv: Astrophys. J. 529 (2000) 1054.
+10) J. Kasagi, T. Murakami, T. Yamaji, S. Kobayashi and M. Ogawa: J. Phys. Soc. Jpn. 64 (1995) 777.
+11) J. Kasagi, T. Ohtsuki, K. Ishii and M. Hiraga: J. Phys. Soc. Jpn. 64 (1995) 3718.
+12) H. Yuki, T. Sato, T. Ohtsuki, T. Yorita, Y. Aoki, H. Yamazaki, J. Kasagi and K. Ishii: J. Phys. Soc. Jpn. 66 (1997) 73.
+13) H. Yuki, T. Sato, T. Ohtsuki, T. Yorita, Y. Aoki, H. Yamazaki and J. Kasagi: J. Phys. G 23 (1997) 1459.
+14) H. Yuki, J. Kasagi, A. G. Lipson, T. Ohtsuki, T. Baba, T. Noda, B. F
+Lyakhov and N. Asami: JETP Lett. 68 (1998) 823.
+15) H. J. Assenbaum, K. Langanke and C. Rolfs: Z. Phys. A 327 (1987)
+461.
+16) H. S. Bosch and G. M. Hale: Nucl. Fusion 32 (1994) 611.
+17) H. H. Anderson and J. F. Ziegler: Hydrogen Stopping Powers and
+Ranges in All Elements (Pergamon, New York, 1977).
+18) J. E. Valdes, G. M. Tamayo, G. H. Lantschner, J. C. Eckardt and N. R.
+Arista: Nucl. Intrum. Methods B 73 (1993) 313.
+19) Y. Fukai and H. Sugimoto: Adv. Phys. 34 (1985) 263.
+20) S. N. Vaidya and Y. S. Mayya: Jpn. J. Appl. Phys. 28 (1989) L2258. 21) K. Czerski, A. Huke, A. Biller, P. Heide, M. Hoeft and G. Ruprecht:
+Europhys. Lett. 54 (2001) 449.
+22) F. Raiola et al.: Eur. Phys. J. A 13 (2002) 377.

@@ -1,0 +1,302 @@
+THE EFFECT OF VELOCITY DISTRIBUTION
+AND ELECTRON SCREENING ON COLD FUSION  Robert A. Rice, Gary S. Chulick, and Yeong E. Kim
+
+
+ABSTRACT
+
+
+It is demonstrated that electron screening, in
+combination with a particle velocity distribution,
+greatly enhances the cross sections and reaction rates
+for deuteron-deuteron (D-D) and proton-deuteron
+('Jr D) fusion for low kinetic energies ( E :S 20 e V,
+center of mass frame). 'Jr D fusion rates are shown to
+be comparable to D-D fusion rates for E ~ l0 eV, so
+that in electrolysis experiments with equal amounts
+of H and D, 'frD fusion should compete with D-D
+fusion as a reaction mechanism.
+
+
+I. INTRODUCTION
+
+Recently, the effect of a velocity distribution [l]
+in the context of a surface reaction mechanism [2,3]
+was shown to be very important in reducing the discrepancy
+between the electrolysis fusion results [4-9]
+and the conventional estimates [10-11] of cold fusion
+rates. More recently, it has been suggested [12] that
+the effect of electron screening may become significant
+at low energies and further reduce the discrepancy.
+In this paper, we present results of our detailed
+calculations of the deuterium-deuterium (DD)
+and proton-deuterium ('JrD) fusion rates including
+both a velocity distribution and electron screening.
+In section II, definitions and expressions for the
+Coulomb barrier penetration factor, fusion cross sections
+and fusion rates are described. In section III,
+the calculated results are presented and discussed.
+Finally, section IV contains conclusions.
+
+
+II. THEORETICAL FORMULATION
+
+Three dominant fusion reactions occurring at low
+energies are Reaction (la) is not a "real" fusion reaction but a
+neutron-transfer reaction, while reaction ( 1 b) is a. fusion
+reaction in which two protons are fused to form
+a 3 He nucleus. Because of the complexity of the
+four-nucleon system, no rigorous theoretical calculations
+of the D-D fusion rates and branching ratios
+and of the H-D fusion rates have been carried out
+at low positive energies. Since there are no direct
+measurements of the fusion cross sections, a(E), for
+reactions (la) and (lb), below ED 􀃜 4 keV (laboratory
+(LAB) frame), and for reaction (le) below
+EH 􀃜 24 keV (LAB), a(E) has to be extrapolated
+using the measured values of a( E) at higher energies
+as is conventionally done in astrophysical calculations
+[13,14] for kT 􀃝 1.5 keV. In our case, an
+extrapolation down to the order of 10 eV is required.
+We describe in the discussion below the extrapolation
+method used in the astrophysical calculations
+[13,14] which assumes equal branching ratios for reactions
+(la) and (lb). In the following, a theoretical
+formulation will be given in detail only for reactions
+(la) and (lb), as it is similar to that for reaction
+(le).
+
+
+II.I. Velocity Distribution
+
+Since the precise form of the D+ velocity distribution
+in electrolysis experiments is not known at
+present, we will assume a Maxwell-Boltzmann distribution
+with and without a cut-off for high velocity
+components. The temperature term, kBT, will be replaced
+by the "average" kinetic energy, Evv, in the
+center of mass (CM) D-D frame, which is related to
+the most probable velocity v (CM) by EvD = 􀀂 v2
+(CM) with the reduced mass M = Mv/2. 
+
+the D-D fusion rate, A (sec-1 / D-D pair), for reaction
+(la) or (lb) is given by [13,14] with where the cross section, a(E), has been parameterized
+as [13]
+a( which is the conventional form assuming (la), (lb),
+and (le) are non-resonant charged particle reactions.
+Ea is the "Gamow energy" given by Ea =
+(21raZvZv) 2 Mc2 /2 or Ea::::: 31.39 (keV) 1 l2 with
+the reduced mass M::::: Mv/2 for reactions (la) and
+(lb) and E::J2 = 25.64 (keV)1 12 for reaction (le)
+with the reduced mass M = mpMv/(mp + Mv):::::
+Mv/3. E is in units of keV in the center of mass
+(CM) reference frame. The S-factor, S(E), is extracted
+from the experimentally measured values
+[15,16] of the cross section, a(E), for E ;:, 4 keV
+and is nearly constant [13,16], S(E)::::: 52.9 keV - b,
+for both reactions (la) and ( 1 b) in the energy range
+of interest here, E :S 1 keV. For reaction (le),
+S(E) ::::: 2.50 x 10-4 keV - b [13]. The deuterium
+density nv is assumed to be ~ 6 x 1022 cm-3
+. Ee in
+eq. (3) is the upper integration limit beyond which
+the high velocity components are cut off. With a
+Taylor series expansion of S( E) [13]
+S(E)::::: S(O) + S'(O)E + 􀀇 S"(O)E2
+, (5)
+the integral in eq. (3) can be carried out numerically
+
+For a sharp velocity distribution, which has been used in the argument against the possibility of D- as D fusion at room temperature, the D-D fusion rate
+(sec-1 / D-D pair), A6, is given by  where E = Evv = Af v2 (CM) = 􀀆 v2(LAB) =
+½ Ev(LAB), and a(E) is from eq. (4).
+
+
+II.2. Electron Screening Effect
+
+In electrolysis fusion experiments and other fusion
+processes, D+ is incident on D, which is shielded by electron clouds and is electrically neutral outside
+the electron screening range, r., . The expression for
+a(E) given by eq. ( 4) is derived for the case in which
+one D+ is incident on another n + . Therefore, the
+Coulomb barrier penetration factor ( "Gamow factor")
+in eq. ( 4)
+Pa(E) = exp (-(Ea/ E)1 l2) (7)
+is appropriate only for the ( D+ + n+ ) reaction and
+needs to be modified for the case of ( D+ + D) in reactions
+(la) and (lb), and for the case of (D+ + H) in
+reaction (le). The modified Coulomb barrier penetration
+factor, Pa (E), is the probability of tunneling
+through the barrier to reach the nuclear surface and
+can be computed from solutions of the Schroedinger
+equation for a (D+ + D) system in which an attractive
+Coulomb potential Va ( r) due to the presence of
+shielding electrons is included with the original repulsive
+Coulomb potential between two D+ 's ( two
+protons).
+
+The modified Coulomb barrier penetration factor,
+P., (E), which includes the effect of Va (r),
+can be calculated in the Wentzel-Kramers-Brillouin
+(WKB) approximation as  where Ve ( r) is the repulsive Coulomb potential between
+two D+ 's, and Va ( r) is the potential due to the shielding electrons.
+The effective nuclear interaction range, TN :::::
+BF (twice the deuteron radius), can be set to zero in
+eq. (8) without loss of accuracy. The integral in eq.
+(8) cannot be carried out analytically in general, but can be written for an attractive potential, Va( r) < O, where E.,(E) is determined by carrying out the integral
+numerically for each value of E > 0. The
+modified penetration factor, P., (E), is then given by cWonhveenn Vti.o(nra) l= G 0a,m Eo.w(E f)a cvtaonri,s hPe.s(,E a)n d=: wPea r(eEco)v, egri vthene 
+
+termTihnee dc lbays sical turning point, Ta in eq. (8), is de(
+12)
+tFhraomt E e.q(Es. ) i(n1 0e)q sa. nd (12), it can be easily shown E.(E) < jV.(O)I [12(].1 0U) sainngd P(1.(1E) s)a, ttihsefi ense !wV .e(xrtar)aI p<o(
+llaet)i,o ann fod romthuelar fuapspiornop rreiaatcet iofonrs rceaanc tnioonws b(lea w),r (itltbe)n, as
+a.(E) = S􀃞) exp (-EY2 /(E + E.(E))1 !2)
+(13)
+cTahne aplsaora bmee tuesreizda tinio ne q[.1 3(] 1o3f) ,S s(iEnc)e u sed in eq. (4) S(E) is determenienregdie
+sfr oEm 􀃟th eE .m(Eea)s uwrheder ec rtohses seeleccttioronns asct reheignhinegr effect is negligible.
+
+tracTtehde frsocmre etnhien gm eeanseurgreyd tvearlmue sE [1.(5E,1)6 ]c oafn abe exexp(
+E)
+for reaction (la), D(D,p)3H. The values of E.(E) einxgt raeqct. ed( 1fr3)o mar ea e(x4p0( E < 4 keV(CM)) [15,16] usuncertainties.
+Therefo-re6,0 )i te Vis [i1m2p] oarntadn ht atvoe claarrgrye
+out precise measurements of aexp(E) with improved
+vaaccluuersa caies for E < 4 keV(CM). The experimental targets foexrp (wEh)ic h[1 5th,1e6 ]e lwecetrreo nm secarseuerneidn gw pitoht eDnt2i agl aiss gexenp eeclteecdtr oton bwei tahp proximately that of the ls hydroE
+,,for solid targets suc(hE a) s= e2 /a0 􀀁 27 eV. However, tron screening range couldT biDe a sa nsdm aPlld aDs , at theen tehle ocf
+the Bohr radius, a0tracted values of E/.10 􀃠 0.05 A [17]. Thus the extargets
+may be up t(oE t)e nfr otimm esso l(idE .m(Eet)a l􀃠 d e3u0t0e reiVde) lfarorgme rD t2h agnas vtaalrugeest s( E[1.5(,E16)] .
+
+F) or the case of the Yukawa screening potential, = ( ZnZ.e2 tential is given a/s r) Since the magnitude of V., ( r) decreases monotoni ilnlyc rfreaosmes afr momax Oimtuom T value of jV.,(O)I to jV.(ra)I as a, E.,(E) is bounded by 
+
+j0u.0st5i fiAed. arls.o 􀃠on 0p.h05y siAca lfo grr oTuinDds asnindc eP tdhDe ecleacnt robne 1n0umber density in the solid phase is expected to be 3 a radtiimuse ss claalreg esur cthh aans rth • aist einx ptehcet egda st op bhea s1e;0 htiemncees smaller.
+
+screSenininceg tphoet epnrteicails, e form of the effective electron mental conditions anVd. (i rs) ,n owti lyl edt ekpnenowd no, nw eex pshearilluse
+a simple potential of the form
+(16)
+ewffheiccthi vhe ase leocntero np arcahmaregtee r aznd./ rr.,., iws hethree zsc.r eies ntinhge
+radius. V.( r) given by eq.( 16) can be generated
+from a spherical shell charge distribution, Pe = (Z.e/41rr8is used in reaq). 6((8r)-, rtha)e- pWenheetnra Vti.o(rn) fagicvteonr bbye ceoqm. e(s1 6)
+where E., = ZnZse2 has previously been u/sre.d =fo Er .D(E). Equation (17) calculations [11] and for the analy2 sims oolfe cDular fusion 2 0 cluster
+fusion [19]. Finally, for the screening potential of eq.
+(16), eq. (13) becomes
+
+
+III. RESULTS
+
+(18)
+tionW raet ceas,l ccrulate the fusion cross sections and reac(
+18) and (2), nrens p(eEctnivne)l ya, nfodr Arenanct(iEonnsn ()l,a u) sainndg (elqbs).
+for E. = 0, 1, 4, and 10 e2 / ao. nn is assumed to be
+6 x 1022 cm-3 and the parametric values for S(E)
+
+given in reference 13 are used in eq. (18). The calculated
+results for ann(Env) and Ann(Evv) are
+plotted as functions of Evv :-:; 20 eV in Figs. 1
+and 2, respectively; Anv(Evn) is for the sum of
+reactions (la) and ( 1 b), assuming equal branching
+ratios. In evaluating Ann(Evn), the cut-off energy
+Ee in eq. (3) is assumed to be infinite. The case
+where Ea
+= 0 in Figs. 1 and 2 corresponds to the
+use of the conventional Gamow factor, eq. (7), as
+in eq. ( 4). As can be seen from Figs. 1 and 2, the
+electron screening effect ( E 6 i- 0) becomes increasingly
+significant for avv(Evv) and Avv(Evv) for
+reactions (la) and (lb), as Evv decreases below 20
+eV.
+
+distribution,
+we calculate the fusion rates A6(Evn) with
+a sharp ( delta function) velocity distribution using
+eq. ( 6) for reactions ( 1 a) and ( 1 b). The calculated
+results for A6( Env) with Ea = 0, 4, and 10 e2 / a0 are
+plotted and compared in Fig. 3 with the corresponding
+cases of Avn(Evv) with a Maxwell-Boltzmann
+velocity distribution. As can be seen from comparing
+A6 and Avv in Fig. 3, the effect of the velocity
+distribution becomes increasingly important as Evv
+decreases, but is less so as Ea increases for reactions
+(la) and (lb).
+
+To study the effect of introducing a high-energy
+cut-off (Ee in eq. (3)) for the Maxwell-Boltzmann
+velocity distribution, we calculate the fusion rates
+Avv(Evv) of eq. (2) for the sum of reactions (la)
+and (lb) as a function of Ee for the cases Evv = 5
+and 10 eV with Ea
+= 0, 4, and 10 e2 /ao in eq. (18).
+The calculated results are plotted in Fig. 4. As can
+be seen from Fig. 4, the effect of a cut-off in the
+velocity distribution is substantially less for the case
+of Ea
+= 10 e2 /ao than for the case of Ea
+= 0 (no
+electron screening effect).
+
+For reaction (le), we calculate the fusion cross
+section and rates, apv(Epn) and Apn(EpD), using
+eqs. (18) and (2), respectively, with the replacements
+of nn/2 in eq. (2) and M and Evv in eq.
+(3) by nH, M = mp Mv/(mp + Mn) ::::; Mn/3,
+and Ep v( CM), respectively. Parametric values of - 2 Ea = 0, 1, 4, and 10 e /ao are used. nH is assumed
+to be nH = nn = 6 x 1022 cm -3, and the
+parametric values for S(E) for reaction (le) given in
+reference 13 are used in eq. (18). Ee in eq. (3) is
+set to infinity. The calculated results for apv(Epn)
+and Apv( EpD) are plotted in Figs. 5 and 6, respectively.
+The Ea = 0 case in Figs. 5 and 6 corresponds
+to the use of the conventional Gamow factor, (la) and (lb) (Figs. 1 and 2), the electron screening
+effect (.it -:J 0) becomes substantial for CTpD(EpD)
+and ApD ( EpD) at very low energies.
+
+te
+with reactions (la) and ( 1 b) in electrolysis experiments,
+we compare ApD(EpD) and ADD(EDD)
+in Fig. 7 for the cases it = 0 and 10 e2 / a0. As
+can be seen from Fig. 7, ApD(EpD) is comparable to
+ADD(EDD) for the case (.E, -:J 0) and nH = nD ,
+Therefore, for a typical value of the H / D ratio,
+nH /nD 􀃭 10-3, in electrolysis experiments, reactions
+( 1 a) and ( 1 b) will dominate over reaction ( 1 c).
+However, reaction (le) can compete with reactions
+(la) and (lb) if nH 􀃭 nD is maintained in electrolysis
+experiments.
+
+
+IV. CONCLUSIONS
+
+It is shown that the effect of electron screening
+in conjunction with a particle velocity distribution
+greatly enhances the cross sections and reaction rates
+for D-D and p-D fusion at kinetic energies E 􀀍
+20 eV (CM).
+
+xp(la) 􀃭 10-19 sec-1, inferred by Fleischmann
+et al. [4] from the measurement of tritium production,
+and also the D-D fusion rate for reaction
+(lb), A􀃫xp(la) 􀃭 10-23 sec-1, obtained by Jones
+et al. [5] are often criticized as being impossible
+or incorrect when compared to estimates of A in
+bulk matter (an upper limit of A 􀃬 10-47 sec-1)
+[10] or to the result of A6 shown in Fig. 3 (lowest
+curve). Our results for A (upper curves) shown
+in Fig. 3 indicate A􀃫xp(lb) 􀃭 10-23 sec-1 [5] and
+A[xp(lb) 􀃭 10-19 sec-1 [4] are consistent with calculated
+values of ADD(EDD) 􀃭 10-23 sec-1 and
+ADD(EDD ) 􀃭 10-19 sec-1 for EDD 􀃭 10 eV and
+17 eV, respectively, with E, = 4e2jao. Therefore,
+the claimed values of A􀃫xp( lb) and Aexp( la) are physically
+acceptable values for the D-D fusion rate in
+electrolysis experiments if the applied potentials are
+20 V and 34 V, respectively.
+
+To match the D-D fusion rate ADD(EDD) from
+eq. (la) to the rate, A􀃮;;t(la) 􀃭 10-10 sec-1 (4] inferred
+from excess heat measurements [3,5,6], an "ave-
+rage" kinetic energy of EDD 􀃭 70 eV- is need2e d with E, = 4 e2 /a0, or EDD< 70 eV for E, > 4 e /ao.
+
+The calculated p-D fusion rates ApD( EpD) for reaction
+(le) are comparable to the D-D fusion rates
+for reactions (la) and (le) with E, = 10 e2 /a0 and EpD(and EDD)< 20 eV as shown in Fig. 7. Therefore,
+p-D fusion can compete with D-D fusion if an
+H / D ratio of nH /nD 􀃭 l can be maintained in both
+the H20-D20 mixture and the Pd cathode during
+electrolysis fusion experiments.

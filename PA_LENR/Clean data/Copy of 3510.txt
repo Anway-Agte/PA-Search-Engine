@@ -1,0 +1,322 @@
+UNUSUAL STRUCTURES ON THE MATERIAL SURFACES IRRADIATED BY LOW ENERGY IONS.
+
+B. RODIONOV
+Moscow Engineering & Physical Institute (State University), Kashirskoe shossse, 31, Moscow, 115407 Russia
+115407 Russia 
+
+I. SAVVATIMOVA
+  
+Federal State Unitarian Enterprise Scientific Research Institute “Luch”, 
+Zheleznodorozhnaya, 24, Podolsk, Moscow region, 142116, Russia 
+Some unusual structures on the surface of metals and films (various x-ray films and nuclear 
+emulsions ) caused by exposure to bombardment by low-energy ions in glow discharge plasma, in 
+electrolysis and other low-energy processes (when energy of particles doesn’t exceed several keV) 
+have been found. The mechanism and model of the strange tracks formations and explanation of 
+their structure change are suggested. 
+
+
+1 Introduction 
+
+For a number of years in various laboratories of the world physicists discover strange 
+tracks (which we call traces, whereas the objects that cause them are termed as tracers) 
+[1-5]. The traces, as a rule, are characterized by a microscopic width (usually about 10 
+micrometers), but their length is presumably unlimited (mm and more). Sometimes the 
+traces look like a repeated pattern, similar to the tread design of a motorcar tire or a 
+necklace (Fig.4).  Sometimes the pattern forms a continuous line  or a group of parallel 
+lines, differing from the standard tracks left by heavy charged particles in nuclear photo-
+emulsions by their angularity or enormous length (up to cm). Occasional flaws of the 
+samples containing traces (on the polished surface of metals or in photo-emulsions) do 
+not explain the connected occurrence of the traces at the places of local energy 
+generation: electrical discharges, particle accelerator targets, and the areas of natural 
+disasters or technogenic ones, which are caused by the human activity).  This feature of 
+the phenomenon in question may be used to predict or to avoid the technogenic disasters, 
+for example, the search of traces or tracers can help in analyzing the causes of the 
+Chernobyl Catastrophe.  
+
+
+2.  Experimental results and discussion. 
+
+We observed the unusual structures on the surfaces of metals after glow discharge 
+exposure (Fig.1) and on the films (various X-ray films, nuclear emulsions and others), 
+placed both on the inside and the outside of the glow discharge chamber (Fig.2). The 
+similar tracks formations (with periodical repeating structure) were found on the nuclear 
+emulsion films after the neutron generator exposure (Fig. 3). Such tracks structures as 
+demonstrated in Fig.1-3 (regular structures, spirals, chains, chains of voids and others) 
+need the comprehensible explanation from the viewpoint of material science and demand 
+special physical interpretation. 
+      However, the classical approach to the study of physical phenomena requires not only 
+substantiation of the principal possibility of the process in question, but also its detailed 
+description including illustrative examples. The latter may become possible on the basis 
+of a model of filiform (threadlike, filament) matter, i.e. fluxes. Some components of the 
+‘flux theory’ will be discussed below in application to the problem under discussion.  
+
+Along with traces (in metals to the depth of 1-2 cm), changes in physical and 
+chemical properties of underlying layers from the viewpoint of their composition and 
+structure are observed (see Table for Fig 4). Under the surface of previously monolithic 
+sample some micro-tunnels and “holes” appear (Fig. 1-4). On the surface of the samples 
+examined before the exposure without any distinctive properties,  not only traces, but also 
+some microscopic structures – films, hollow spheres and cylinders, threads, spirals, 
+complex spherical and cylindrical formations looking like “cabbages” or “sausages”- 
+were discovered after the exposure to low-energetic electrons, ions or ultrasound action 
+(Fig.1-4). Sometimes these structures remind bacteria or a colony of bacteria, which may 
+glow (fluoresce) in the dark. These objects move randomly and appear on the surface or 
+“plunge” back into the depth of the previously monolithic material. This activity of “live” 
+bacteria objects may continue for weeks after the energetic influence (after it has been 
+finished) [4].  
+
+Each of these objects is unusual in the shape, surface structure and the chemical 
+composition. The chemical composition in these formations is sharply distinguished from 
+the composition of the basic material on which these formations had arisen (tables to Fig. 
+
+
+4 with chemical composition). We shall take into account that all these objects have been 
+
+obtained under conditions of low-energy particles influence when the nuclear processes 
+in materials from the traditional point of view couldn’t exist. Therefore at present there is 
+no comprehensible hypothesis for the formation of such structures from the impurities. 
+
+We shall also take into account, that the majority of the chemical elements forming 
+unusual structures were not present in the initial material, and in the composition of the 
+surrounding medium or in constructive details of the experimental installations.  
+
+This 
+unusual concept, as well as their possible practical application requires further 
+examination of unusual structures. 
+a) “Melting “bubble” on X-ray 
+film (RT-2 type) after deuterium 
+glow   discharge with Pd. 
+b) The parallel tracks on X-ray film 
+(Kodak Bio Max) after deuterium 
+glow discharge with W-W cathodes.
+c) “Cylindroid” (like “sausage”) on 
+the nuclear emulsion after d
+glow discharge with W-W cathodes
+euterium 
+Fig.2 The structure on the films 
+placed 
+outside 
+of 
+the 
+glow 
+discharge chamber with stainless 
+steel wall (a, d) and quartz walls (b, 
+c, 
+e) 
+after 
+deuterium 
+glow  
+discharge with Pd (a, d), and with 
+Zr (e), with W (b, c). 
+d) Spiral structure on X-ray film 
+e) The  spiral with “conic” step on X-
+r. 
+
+Marks sides on Fig.2 are following: 
+(RT-2 type) after deuterium glow 
+discharge with Pd. 
+ray film (Kodak Bio Max) after 
+deuterium glow discharge with Z
+a), b), c), and e) are 100 µm; d)  -
+
+3. Explanation and possible mechanism 
+
+ We can offer two approaches to the explanation of the formation of such unusual 
+stru
+
+
+3.1. The integrated approach.  In the view of long-range action concept in which :
+deve
+o
+ctures: integrated and differential approaches. 
+lopment Feynman R.P., Yu.S.Vladimirov and others participated in the second half 
+of 20th century, formation of the complex objects, capable of leaving observable traces 
+with c mplex structures - TRACERS - can occur instantly and at once [6-9]. 
+
+   As from experimental researches in the end of 20th century, the traditional concept of 
+philosophical reductionism (occurrence of big object from small parts) in many cases 
+showed physically insolvent. 
+                                                                                                    surface after deuterium glow discharge.                                                                           
+  The vivid example of this is the detection of fractional quantum effect of Hall (the 
+Nobel Prize of 1998) and his theoretical interpretation by Robert Laughlin [10].  
+
+The observable fractional charge of current carriers in semiconductors appears as a 
+result of the certain condition of all semiconductors. Self-similarity as direct consequence 
+of long-range action explains any transformations of substance as quantum transitions in 
+the Universe.  
+
+So, occurrence of observable forms of life in the Universe or complex structures of 
+unusual chemical compound (such as  TRACERS) on surface of electrodes bombarded 
+by ions are the next state of the Universe. Self-similarity of objects of the Universe could 
+explain the process, but does not allow considering the dynamics of such quantum 
+transitions. 
+
+
+3.2. The differential approach. It is based on stage-by-stage formation of complex :
+objects from more simple ones and allows considering dynamics of transitions from 
+simple to complex. 
+
+This second approach from reductionism position is traditional methodology, but, as 
+against the first approach, in our case it does not allow "to skip" through the basic 
+difficulties. The possibility of "cold" transmutation of atomic nucleus is not simple to 
+explain from this position. We suggest overcoming these difficulties on the basis of 
+consideration of a new hypothetical filamentary structure of matter.  
+       The basis of using such extravagant assumption is the astrophysical data on presence 
+in cosmos of the so-called dark matter which makes the most part of mass of the 
+Universe.  
+
+The dark matter can have filamentary structure.  If diameter of filament is closed to 
+the diameter of atomic nucleus, they will easily pass through any dense substance of 
+usual nuclear-molecular structure (through any solids, planets or stars). 
+
+In the author’s model such filaments – fluxes - can be cylindrical atoms.   The 
+nucleus of such a cylindrical atom can represent a quark - gluon filament stabilized by 
+quanta of magnetic flux, and an electronic shell - an electronic Bose-liquid with 
+properties of super fluidity and superconductivity. The diameter of flux electronic shell 
+according to calculations is ~ 60 f [11]. 
+
+Fluxes can create an invisible grid, which wrap round not only far Cosmos, but also 
+all our planet, penetrating all bodies (solids) existing on the Earth (including us with you) 
+and influencing them in the various ways. Interaction of invisible fluxes with usual 
+nuclear-molecular substance could be in the various ways [11, 12]. 
+
+The huge gradient of a magnetic field promotes an attraction to magnetic poles of 
+particles with nonzero magnetic dipole moment (electrons, protons, neutrons, many 
+atomic nucleus, atoms and molecules, ions) which can enter in nuclear interaction.  
+
+Elementary calculation shows that frequency of nuclear processes on magnetic poles 
+of hypothetical filaments – fluxes should reach 1014 -15 s-1, which enables evolution of an 
+output power of 100 W. The approximate, rough estimation (rough guess) is given below. 
+
+Assuming the magnetic moment µ of the shell of paramagnetic atom (molecule, ion 
+with radius  ≈ 10-8 cm) to be of Bohr magneton and equivalent magnetic charge of the 
+flux end (magnetic pole) to be minimal Dirac’s magnetic charge em ≈ 70 e (e is electron 
+charge), one can estimate magnetic attracting force of the atomic particle to the flux end, 
+F = 2µem/a3 ≈ 10-3 dyne, and the time of flight of the captured atomic particle with mass 
+of ~10-23 g to the flux end to be about 10-14s. This magnetic attraction determines the 
+“self-aiming” of the atomic nucleus to the flux end. Besides, if the flux end is situated 
+inside or on the surface of the dense (solid or liquid) paramagnetic matter, there may 
+happen up to  A.1014 nuclear interactions per second, where A is the mass number of the 
+captured nucleus.  At the nuclear distance, rN
+ ≈ 10-12 
+cm, the attracting force of the 
+nuclear particle with a magnetic moment µN
+ nearly equal to the nuclear magneton (µ/µN~ 
+2000) to the flux end (magnetic pole) is FN
+ = 2µNem/r3N~ 5.105 
+dyne and the magnetic 
+energy of one nucleon capture is FNrN
+ ~ 1 MeV or A MeV per one captured nucleus 
+(atom). For A ~ 10 this corresponds to the power of approximately 100 W.   
+
+Nuclear reactions can also go on lateral surface of fluxes in an electronic Bose-
+liquid, which shields the electric charges of nuclei [11]. In the end, plenty atomic nuclei 
+in the usual nuclear-molecular substance forming lengthways ensembles of fluxes quanta 
+with the cross sizes about 100 microns [13, 14] can interact simultaneously. Thus, the 
+problem of cold nuclear fusion and nuclear transmutations in the fluxes model is 
+authorized by three ways: transformation of atomic nuclei on magnetic poles – ends of 
+fluxes, in electronic liquid on a lateral surface fluxes and in multinuclear reactions in 
+associates of fluxes nuclear ensembles.  
+
+Due to non-conservation of spatial parity in е-capture in the powerful magnetic field 
+of fluxes, the main flow of arising neutrino is directed against the force lines of a 
+magnetic flow. As the result of е-capture the filaments of neutrino at the northern 
+magnetic pole create jet traction which pulls the filament after North Pole (like a 
+locomotive pulling its cars). At the southern magnetic pole force of reaction of neutrino 
+pushes (compresses) the filament, because of which unstable movement of South Pole of 
+the filament is possible. 
+
+Due to output power of capacity during the nucleus transmutations, a part of "new" 
+nucleus is formed on fluxes, in particular, nucleus with zero spin and, hence, with zero 
+magnetic dipole moment. They should scatter, forming a "hot" shell of these "new" 
+nuclei near fluxes filament which are inside dense nuclear-molecular substance.  Due to 
+melting and evaporation of nuclear-molecular substance with its subsequent condensation 
+on cold parts of the sample, nuclear active fluxes leave their complex structured traces 
+both on the surface and inside samples in which they are formed (Fig.1). The nuclear 
+active fluxes or complex fluxes object (we name such an object TRACER) can move 
+along trace (trajectory) in the substance.  
+
+The filamentary tracer of the structure can leave the trace without moving at all or 
+moving, for example, in the perpendicular direction to a line. In Figure 5t the presumed 
+mechanism of formation of the various-shaped tracers is shown. The atom-molecular 
+quantum ensembles surrounding fluxes (the grey colored cylinder in Fig. 5t) push out the 
+fluxes (the white colored cylinder) to the periphery of the ensemble where the 
+temperature of ensemble substance is lower, the density of atoms is higher and 
+probability of polynuclear reactions is the highest,  too (Fig. 5t b). Such pushing-out 
+results in bending of flux and atomic-molecular ensemble surrounding it and interacting 
+with it (Fig. 5t с). In turn, the bend of ensemble with fluxes can lead to turning the 
+ensemble with fluxes into a ring or a spiral (Fig. 5t d, e). 
+
+Let's note that sometimes geologists found out such spirals of microscopic sizes, for 
+example, of refractory tungsten inside various compact samples (in rock) in reality. 
+
+Н2
+a   b  c     d         e     f                       g       h
+a                   b                   c                       d          e            f  
+Fig. 5. Flux model of strange tracks formation (5a – top row of Fig.5, 5b- bottom row of Fig.5 )  
+Geologist Elena Matveeva found tungsten spirals inside 200000 year-aged rock (Fig. 6). 
+
+Formation of more complicated bodies of cylindrical or spherical symmetry during 
+warming-up by nuclear reactions (Fig. 5b f, g) is also possible. The formation of hollow 
+cylinders and spheres is possible as a result of oozed gases in chemical and nuclear 
+reactions in environmental substance around fluxes (Fig. 5b h). Sometimes it is possible 
+that such elementary processes create hollow quasi sphere particles ("blobs") and 
+extensive hollow "cylindroids" on surfaces of a metal sample (Fig. 5b a, b, c). "Blobs" 
+and "cylindroids" can be broken off on the surface (or near surface) of the sample by 
+internal pressure of gases contained in them, leaving in the local zones of metal surface 
+the melt films formed near nuclear active fluxes. Helicoid atom-molecular shells of 
+nuclear active fluxes in projection to the flat surface of sample frequently give the sine 
+"paths"- "trajectory" with changed composition of the basic material (traces in Fig. 5b).  
+
+From known mathematical Fourier’s theorem it follows that the sum of sinusoids (or 
+cosinusoids) with different amplitude and period can give a track of any shape, the 
+geometrical pattern repeating periodically.  Such kind of double spiral object we found 
+on the X-ray film, exposed outside of glow discharge chamber after deuterium 
+experiment (Fig. 2d).2  
+Fig.6.The tungsten spirals 200 000 
+year-aged inside the bore pit rock was 
+found by geologist E. Matveeva.  
+
+In our opinion, the origin of mysterious periodic 
+patterns (chains and more complex trajectories, Fig. 1-
+4) on the surface of the samples (Fig. 5b d, e, and f) 
+can be explained by such kind of processes. Thus, 
+concentration of the fluxes earlier not participating in 
+the process of nuclear interaction with substance (Fig. 
+5b e and f), but activated by electromagnetic and 
+nuclear processes in various places of trace is 
+possible.  
+
+This secondary interaction of the fluxes can 
+considerably complicate the trace figure. Especially 
+the composite figure can arise from the cooperative 
+action (combined effect) of several nuclear active 
+fluxes which form, for example, enclosed spirals (Fig. 
+5b f), and from activation of earlier passive secondary 
+(tertiary) fluxes, transiting through a trace. 
+
+
+Conclusion 
+
+We hope that further investigations of these unusual strange formations on the 
+surfaces of various materials subjected to various low-energy exposures, will allow 
+establishing the true mechanism of unusual structures formation. Applied prospects of 
+such examinations will naturally be defined by physics of probable unusual processes the 
+examples of which we have considered. 
+ 
+
+References 
+
+ 1. T.Matsumoto. Steps to the Discovery of Electro-Nuclear... 060-0813, Japan 289(1999) 
+2. I.Savvatimova. Reproducibility of experimental in GD...ICCF8,  Italy, 277(2000) 
+3. M. Solin Experimental facts of СF initiation... 11-th Rus. Conf... Moscow, 90(2004)  
+  4. A.Agapov S., Urutskoev L.I. Proc.12-th Rus. Conf. On CF, Moscow 25(2005) 
+5. B.Bogdanovich. Applied physics, Moscow, MEPhI (2000). 
+6. J.Wheeler, R.Feynman. Rev. Mod. Phys., vol.24, 425(1949). 
+7. Yu.Vladimirov. Moscow University Press, 264 (1996). 
+ 8. Yu.Vladimirov. Theory of Phys. Interactions. Moscow Univ. Press, 448 (1998).  
+ 9. B. Rodionov. Proc. Of 12-th Rus. Conf. On CF, 2004, Moscow 2005, pp. 136]. 
+10. R. Laughlin. “The Quantum Hall Effect, ”Heidelberg : Springer, 233(1987) 
+11. B.Rodionov. Gravitation & Cosmology, v.8, Supplement, 214(2002) 
+12. B.Rodionov. CF of the10-th Rus. Conf., 2002. Moscow, 50(2003)  
+13. B.Rodionov.  Proc.11-th Rus.CF conf. Moscow 189(2004)  
+14. B. Rodionov. Proc.12-th Rus. CF Conf., Sochy,  2004, Moscow 110(2005) 

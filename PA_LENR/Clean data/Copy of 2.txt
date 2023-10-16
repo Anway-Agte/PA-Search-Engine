@@ -1,0 +1,394 @@
+1. Introduction 
+
+The solution of H (or D) severely changes the lattice dynamics of Pd. In neutron-scattering experiments, for example, new H(D)-induced optical phonons were observed
+with frequencies well above those of the original Pd-lattice modes, accompanied by a
+considerable softening of these lattice modes (Rowe et a1 1974, Rahman et al 1976,
+Drexel et al 1976, Springer 1978). In the present paper, we report on thermal expansion measurements in which we have studied the lattice anharmonicity of P-phase
+Pd-H and Pd-D in the temperature range between 80 and 270 K. We determine, for
+both the optical and acoustic phonon branches, an (average) Griineisen constant
+which describes the anharmonicity of these respective parts of the phonon spectrum.
+The Griineisen constant of the optical phonons is of particular importance in connection with the superconducting properties of Pd-H and Pd-D alloys (Ganguly 1973% b,
+1976, Stritzker and Wiihl 1978).
+
+The present experiments are the first thermal expansion measurements on Pd-H
+and Pd-D alloys: previous measurements (at room temperature and below 30K
+(Smith and White 1977)) were restricted to the isotope H. For two reasons we found it
+important to perform measurements on both H and D. Firstly, thermal expansion,
+isotopic differences in thermal expansion, and isotopic lattice-parameter differences
+are effects that allow a uniform description in terms of lattice anharmonicities
+(Leibfried and Ludwig 1961, Cowley 1968, Wipf 1975, 1976). We shall demonstrate
+that such a description is consistent with our thermal expansion data, and with
+previous measurements of isotopic lattice-parameter differences at 77 K (Shirber and 
+Morosin 1975). Our second reason for performing measurements on both Pd-H and
+Pd-D is that this combination allows the determination of two separate Gruneisen
+constants for the optical and acoustic phonons; such a determination is not possible
+from measurements made on only one hydrogen isotope. (In fact, the value given by
+Smith and White (1977) for the Gruneisen constant of the optical phonons is based on
+the assumption that the anharmonicity of the acoustic phonons does not change upon
+H doping; we shall find from the present study that such an assumption is not entirely
+correct.) 
+
+In $2, we discuss the theoretical basis of the present study, deriving the equations
+describing thermal expansion and isotopic lattice-parameter differences in the presence of lattice anharmonicities; we consider also to what extent these equations are
+applicable. In 93, we present our experimental results; in particular, we discuss the
+influence of the phase transformation below 80 K (‘SO K anomaly’ (Lewis 1967, Wicke
+et al 1978)). In $4, we determine the Gruneisen constant of the H(D)-induced optical
+phonons from the isotopic difference in thermal expansion, and we compare our result
+with previous measurements of the isotopic lattice-parameter difference between
+Pd-H and Pd-D alloys (Shirber and Morosin 1975). We discuss also the accuracy to
+which this Gruneisen constant is obtained. Finally, in $ 5, we determine the Gruneisen
+constant which describes the anharmonicity of the acoustic phonons. 
+
+
+2. Theoretical background
+
+Lattice anharmonicities cause thermal strain. For cubic systems, the thermal strain
+can be written as (Leibfried and Ludwig 1961, Cowley 1968) where B is the bulk modulus, and p the number of (all) atoms per unit volume. The
+brackets indicate an average over all phonon modes v. y” is the Gruneisen constant of
+the phonon v; it describes the dependence of the phonon frequency 0” on the volume
+I/ according to the equation u(w’, T) is the energy of the phonon mode $1 at the temperature T.
+The thermal strain describes the relative increase of sample length (or lattice parameter) against a hypothetical value observed for immobile crystal atoms fixed in
+positions which correspond to a minimum of the potential energy of the lattice.
+The thermal expansion coefficient is then the temperature derivative of the thermal
+strain. 
+
+Equation (1) is commonly simplified by introducing an overall Gruneisen constant
+y, defined by the weighted average . According to this definition, y can exhibit some temperature dependence. Using equation (4), equation (1) becomes. The above equations are derived using the so called quasiharmonic approximation
+which is well justified in describing the effects of anharmonicity on lattice parameter
+or sample length (Leibfried and Ludwig 1961, Cowley 1968). The physical content of
+the equations is characterised as follows. (a) Thermal strains exist also at T = 0 K; this is due to the non-zero kinetic energy
+of the vibrational ground states.
+(b) Within the present description, all isotopic lattice-parameter differences are due
+to isotopic differences in thermal strain. This results from the fact that the atom
+positions that correspond to a minimum of the potential energy are isotope independent. In 44, we shall use this isotopic behaviour in order to compare our thermal
+expansion data with previous results for the isotopic lattice-parameter difference
+between Pd-H and Pd-D alloys (Shirber and Morosin 1975).
+(c) The equations above are applicable to disordered and non-stoichiometric systems, as well as to systems with lattice defects (vacancies, interstitials, dislocations).
+This is an important fact which allows the application of these equations to Pd-H(D)
+alloys.
+(d) The equations above neglect thermal expansion effects due to electronic excitations. Electrons and phonons cause thermal expansion in a ratio given roughly by the
+respective specific heat contributions; therefore, the expansion due to electrons is
+comparable to that due to phonons only at very low temperatures (below about 10 K).
+In the present study, our data analysis is essentially restricted to results obtained
+above 80 K, i.e. in a temperature range where electronic expansion effects are entirely
+negligible in comparison with those due to phonons. Not to consider electronic expansion is, therefore, well justified. 
+(e) The equations above do not describe dimension changes that accompany phase
+transformations or ordering processes, Therefore, it seems doubtful that these equations can be applied to Pd-H(D) alloys in the temperature range below 80 K, in which
+a phase transformation is observed ('50 K anomaly' (Lewis 1967, Wicke et a1 1978,
+Anderson et a1 1978a,b, Blaschko et al 1978, C B Satterthwaite, private communication, Ellis et a1 1979)). Ordering processes can also occur without a phase transformation. For instance, a short-range repulsive H-H(D-D) interaction causes changes in
+the (short-range) spatial H-H(PD) correlation, if the temperature is varied. Another
+kind of ordering occurs if the H(D) atoms also occupy, with increasing temperature,
+energetically less favourable types of interstices (e.g. tetrahedral sitest). In principle,
+both of these effects can cause a dimension change that is not due to lattice anharmonicity. Therefore, to apply the above equations requires, in the following, the
+assumption that these effects have no noticeable influence on thermal strain.
+(f) For the present study, to apply the above equations it must be assumed that the
+diffusive jumps of the H(D) have no significant influence on thermal expansion. This
+does not seem to be a critical presupposition for the present measurements made
+below 270 K (the jump frequencies are smaller than lo9 s-l (Volkl and Alefeld 1975, 1978)); however, for jump frequencies that are considerably higher, it is certainly not
+possible to exclude a priori expansion effects of this origin. 
+
+The phonon spectrum of Pd-H(D) alloys consists of two energetically well-separated parts, one consisting of high-frequency optical and the other of low-frequency
+acoustic phonons (Rowe et a/ 1974, Rahman et a1 1976, Drexel et a/ 1976, Springer
+1978). The optical phonons represent vibrations of essentially only the (light) H or D
+atoms. Although there is, at higher H(D) concentrations, considerable dispersion in
+the optical modest, we shall, in the following, associate these modes with an average
+frequency oH and w, (for H and D, respectively). In $4, it will be shown that the
+precise value chosen for U,(%) has no significant influence on the results of our data
+analysis. In a unit volume with fid Pd atoms, there are 3fid acoustic phonons and
+3cfid optical phonons, c being the H(D)/Pd atom ratio. Accordingly, considering the
+contributions of the acoustic and optical phonons separately, we can write the thermal
+strain E$ and &' in the presence of H and D as . The first term on the right-hand side describes the thermal strain caused by the
+acoustic phonons (with frequencies mac). For these phonons, yac is the average Griineisen constant, with a similar definition to the one given in equation (4). The second
+term takes account of the optical phonons. The Griineisen constant yH(yD) of these
+phonons is again a (weighted) average over the Griineisen constants of all optical
+phonons. 
+
+From equation (6), the thermal expansion coefficient a&) in the presence of H(D)
+is found to be In this equation, C,, is the specific heat (per unit volume) due to acoustic phonons
+(Cat = 3fid(i?/8T)( u(waC, T))ac), and CH,D the specific heat due to optical phonons
+(CH,D = kfid(il/aT)U(O)H,D, T)). Finally, we introduce an overall Gruneisen constant y, 
+where C = C,, + CH,D is the total specific heat. The thermal expansion coefficient can
+then be written. In $44 and 5, the Griineisen constants introduced above will be determined from our
+measurements. 
+
+The fact that the optical-mode frequency oH is larger than wD introduces isotopic
+differences in thermal strain and thermal expansion. This can be realised by considering two limiting temperature regions. Under the condition that essentially only wH
+and wD are isotope dependent, we find, at zero temperature, a thermal strain (or lattice
+parameter) larger for Pd-H than for Pd-D alloys (equations (3) and (6)). This isotopic
+difference becomes smaller with increasing temperature, and it disappears in the hightemperature limit. Accordingly, in order to compensate for the low-temperature deficit
+in thermal strain, we can conclude that the thermal expansion is larger for Pd-D than for Pd-H. For Pd-H and Pd-D, an isotopic lattice-parameter difference in agreement
+with these considerations was observed at 77 K (Shirber and Morosin 1975); the
+present experiments will also show a corresponding behaviour in thermal expansion?. 
+
+
+3. Experimental details
+
+3.1 Samples and apparatus:
+The samples consisted of H(D)-doped Pd rods (1.5 mm in diameter, 20 mm long, with
+a Pd-purity of 99.5%). The H(D) doping was performed electrolytically (5%
+HzS04 (D2S04) in H20 (D20); the current density at the sample surface was
+5 A cm-2; the temperature of the electrolyte was 90°C; the loading times were of
+several hours). During doping, the samples underwent some plastic deformation due
+to stresses arising from inhomogeneous H(D) distribution (Lewis 1967). To inhibit
+H(D) desorption after doping, the samples were sealed in a solution of 1 g J and 3 g KJ
+in 100 ml HzOf; except for during the measurements, they were stored in liquid N2.
+The H(D) concentrations were determined from the weight increase during doping
+and by vacuum extraction from the amount of dissolved H(D) after the measurements
+were completed; the accuracy of the concentrations determined was 0.02 H(D)/Pd
+atom ratios.
+
+Measurements were made on seven samples with concentrations between 0.69 and
+0.82 H(D)/Pd atom ratios, and on pure Pd. The temperature range of the experiments
+was between 9 and 270 K. The measurements were made with a mechanical dilatometer in which a variation of sample length causes a (small) rotation of a mirror
+monitored via the deflection of a laser beam: the dilatometer was mounted in a
+He-cooled cryostat§. 
+
+3.2. Experimental results:
+The results of our measurements are compiled in figures 1 and 2 and in table 1. Figure 1
+shows, for four of our samples, the relative increase of sample length, AL/L,
+observed on heating from 9 K up to the temperature indicated on the abscissa (9 K
+was the lowest temperature of our measurements). Accordingly, the thermal expansion
+coefficient is given by the slope of the individual data curves. Figure 2 is a compilation
+of results obtained from all our samples. In this figure, the relative length increase
+measured at four (indicated) temperatures is plotted versus the H(D) concentration of
+the respective samples. Table 1 shows numerical results for the thermal expansion
+coefficient a of pure Pd, PdHo.7 and PdDo.7, determined at 250 K. The table shows
+also previous results for pure Pd (Johansson 1925, Bailey et a1 1969) and PdHo.7
+(Smith and White 1977).
+
+Our data were taken in heating cycles (heating speed 1 Kmin-I), and at least two
+runs were made for each sample to check reproducibility. The experimental error,
+6(AL’L). consists of two terms (6(ALIL) = k0.05 ALIL f 2 x lo-’). The first 5% error 
+term (it is nearly always much larger than the second term) results from calibration
+inaccuracies of the dilatometer. It is important to note that this error affects all the
+data points by the same percentage. Therefore, when discussing differences in thermal
+expansion between two samples (e.g. isotopic differences), the calibration error need
+only be considered for the difference and not for the data values from which the
+difference was taken. 
+
+A discussion of our data requires differentiation between the temperature ranges
+above and below about 80 K. Below this temperature, we find a relative increase of
+sample length (or a thermal expansion) for comparable concentrations larger for Pd
+doped with H than with D (the data of the D-doped samples are even smaller than
+those for pure Pd). Such a behaviour differs completely from what we expect, according to our discussion in 52. However, what we need to consider is that, below 80 K, a
+phase transformation is observed for Pd-H(D) alloys which is caused by ordering processes of the H(D) interstitialst ('50 K anomaly' (Lewis 1967, Wicke et al 1978,
+Anderson et al 1978a,b, Blaschko et al 1978, Ellis et al 1979)). The occurrence of a
+phase transformation implies that we do not know to what extent an observed thermal
+expansion is due to thermal strains, or to this transformation. In fact, the unexpected
+isotopic behaviour of the thermal expansion suggests strongly that this phase transformation is accompanied by isotope-dependent strains$ For this reason, it does not
+seem possible to describe our thermal expansion data below 80 K solely by anharmonic effects; these data will, therefore, not be considered within the analyses made in
+$54 and 5.
+
+Next, we consider the temperature range above 80 K, in which our samples were in
+pure p phase. In this temperature range, we observe a pronounced increase of thermal
+expansion in the presence of H and D. The isotope effect is as expected from our 
+considerations in $2; the thermal expansion is larger for Pd doped with D than with
+H, if we consider comparable concentrations. The data obtained above 80 K will be
+used for the quantitative analyses in the two following sections. 
+
+
+4. The Griineisen constant of the optical modes 
+
+4.1. Determination from the isotopic diflerence in thermal expansion:
+In this section, the Gruneisen constant yH(YD) of the optical phonon modes is
+determined from the isotopic difference in thermal expansion (figure 2), and for a H(D)
+conentration c = 0.7. At first, we assume that isotopic differences in thermal strain
+(equation (6)) are due only to different optical-mode frequencies oH and wD ; all other
+quantities (fid, B, yac, mac and yH = yD) are assumed to be independent of the respective hydrogen isotope. The adequacy of this assumption will be discussed quantitatively in $4.3. 
+
+Under the above conditions, the isotopic difference in thermal strain is calculated
+from equation (6) to be This difference in thermal strain is not identical with the isotopic difference
+(AL/L)H - (hL/L), in the relative increase of sample length shown in figure 2. Both
+quantities differ by an additive and (above 80 K) temperature-independent constant K 
+In the absence of the phase transformation below 80 K, K would simply be the
+isotopic difference in thermal strain at 9 K. 
+
+In figure 3, the two full curves A1 and A2 show plots of (AL/L), - (AL/L), versus
+u(w,, T) - U(%, T), with the temperature T as an implicit parameter (the values of
+(ALIL), - (AL/L), were obtained from figure 2). According to the above two equations, the slope of the curves yields the value of cfidyH/B. To demonstrate that the
+slope, and thus the value obtained for yH, does not depend sensitively on the precise
+value chosen for oH and wD, we show two plots A1 and A2 corresponding to two
+different frequency sets for wH and %. The frequency sets are listed in table 2, and in
+the caption of figure 3. These sets represent borderline estimates for the lower (Al) and
+upper (A2) limits of the average optical-mode frequencies determined for PdD0.63 by
+Rowe et a1 (1974), and for PdH0,63 by Rahman et al (1976). The ratio oH/wD is 15, as
+observed in these experiments. From the practically identical slopes of the two plots
+A1 and A2 (0.12 eV- '), we derive a value of 3.2 f 04 for the Gruneisen constant yH,
+using 4.045 a for the lattice parameter (Shirber and Morosin 1975, Peisl 1978), and
+1.81 x 10'l Nm-' for the bulk modulus Bt (Hoefsloot et a1 1980). As a result of the
+accuracy considerations in $4.3, this value will later be slightly modified to give
+yH = 3.0 0.7. 
+
+4.2. Comparison with lattice parameter measurements:
+As discussed in $ 2, isotopic lattice-parameter differences are caused by isotopic differences in thermal strain. From equation (lo), and using our result of 0.12 eV-' for
+ch,y,/B, we can calculate isotopic lattice-parameter differences at any temperature.
+At 77 K, we obtain for and 1.49 x lop3, using
+the lower and the upper frequency sets specified in table 2. This result is in excellent
+agreement with previous experiments in which, for 77 K and c = 0.7, the relative
+lattice-parameter difference was measured to be about 1.2 x (Shirber and Morosin
+1975). For comparison, at 300 K, we obtain a relative isotopic lattice-parameter difference between 0.6 x and 1.0 x again using the two frequency sets. For
+c = 0.7, the relative increase of the lattice parameter due to H doping is 4.4 x 10-2. (Peisl 1978); the corresponding value for D is, therefore, smaller by a value of between
+1.4 and 2.3%.
+
+4.3. Accuracy considerations:
+In $4.1, the Gruneisen constant yH was determined under the assumption that the
+quantities fid, B, yac, mac and yH(YD) in equation (6) are isotope independent. Such an
+assumption is certainly only approximately correct; for instance, for fid, we can
+immediately conclude that (small) isotopic differences occur as a consequence of isotopic differences in the lattice parameter. In this section, we shall discuss what
+influence we can expect on the value determined for yH(yD) due to isotopic differences
+in the above quantities. 
+
+At first, we consider isotopic differences between yH and yo, assuming the other
+quantities fid, B, etc. remain isotope independent. Defining 7 = (yH + yD)/2, and
+6 = (yH - yD)/(yH + yD), we can, from equation (6), write the isotopic difference in
+thermal strain as. This equation must describe correctly two independent experimental results; the first
+one being our thermal expansion data, and the second one the isotopic lattice-parameter difference observed at 77 K (Shirber and Morosin 1975). According to the two
+previous sections, both experimental results are excellently described in the case
+6 = 0; now, we show that such a satisfactory description disappears with increasing
+isotopic differences between yH and yD . Consider the (relatively extreme)
+case 6 = -0.1 (this means yH is about 20% smaller than yD). For this value of 6,
+we show two plots (broken curves B1, B2) of (MIL), - (M/L), versus
+(1 + 6)u(0,, T) - (1 - 6)u(%, T) in figure 3; B1 and B2 again specify the two limiting
+frequency sets for toH and co,, (table 2). From the slope of the plot curves, we derive
+now a value for y(7 = 2.4) which is 25% smaller than that obtained in $4.1. It is
+obvious that, from figure 3 alone, we cannot exclude the possibility of an isotopic
+difference 6 = -0.1. However, using the value obtained for cfidy/B (see figure 3), we
+calculate relative isotopic lattice-parameter differences from equation (12) of
+0.41 x (upper frequency set) at 77 K.
+These values are far from the experimental value of approximately 1.2 x lov3
+(Shirber and Morosin 1975); we can, therefore, conclude that an isotopic difference of
+the discussed size (6 = -0.1) cannot exist. In addition, from the above considerations,
+we can estimate an upper value of 5% for possible isotopic differences between yH and
+yD, in order to obtain reasonable agreement between the experimental results for
+thermal expansion and isotopic lattice-parameter differences. 
+
+In table 3, we show the results of a quantitative estimate that we made concerning
+the influence of possible isotopic differences in the other quantities above. The table
+shows how much (in per cent) the value yH = 3.2 determined in $4.1 needs to be
+modified in the case of isotopic differences (in per cent) in the quantities listed. Considering, for example, the bulk modulus B, table 3 indicates that a bulk modulus 1%
+larger for PdH,,., than for PdDo., is required to decrease the value determined for yH
+by 7.2%.
+
+Table 3 was calculated using the Debye approximation for the acoustic part of the
+phonon spectrum. For a given temperature, the average energy ( u(maC, T))ac (equation (6)) is then described by a single quantity, the Debye temperature e,,. Using this
+approximation, we can calculate, from equation (6), the thermal strain in terms of the parameters fid, B, yac, ea,, yH,D and CO,~. Within a linear expansion, we can
+additionally calculate how much the value yH = 3.2 determined in $4.1 differs from the
+true value if (small) isotopic differences exist in fid, B, yac and ea, . Table 3 shows the
+result of such a calculation made using yac = 3-0 (see $5) and ea, = 220 K. (This value
+is suggested from neutron-scattering experiments (Rowe et a1 1974) in which, for
+PdD0.63, acoustic-phonon energies were observed to be about 20% lower than those
+of pure Pd; accordingly, it seems reasonable to assume e,, to be 20% smaller than the
+Debye temperature of pure Pd (e&, = 275 K)). For fid, B, */H,D and oH,D, we used the
+values discussed in $4.1. We note that the results shown in table 3 are not very
+sensitive to the precise values chosen for these quantities.
+
+From the isotopic lattice-parameter differences discussed in $4.2, fid can be calculated to be about 0.3% larger for PdDo.7 than for PdHo.,, within the temperature
+range of our measurements. The bulk modulus B is possibly 0.5% larger for PdHo.7
+than for PdDo.7 ; such an estimate can be made from isotopic differences in force
+constants obtained in Born-von-Karman fits, given in the paper of Rahman et a1
+(1976). According to table 3, these isotopic differences mean a true value for yH about
+5% smaller (i.e. yH = 3.0) than that determined in $4.1. At present, it is not possible to
+give a quantitative estimate about isotopic differences in yac and ea, ; however, it seems
+reasonable to assume that these differences do not exceed the range of magnitude
+discussed for fid and B. 
+
+As a result of the present considerations, we conclude yH = yD = 3.0 f 0.7 to be
+the most reliable value for the Gruneisen constant of the optical phonons; yH and yD
+differ by less than 5%. The experimental error (k0.7) is increased compared to that
+given in $4.1, in order to take account of possible isotopic differences as discussed. We
+note that our previous conclusions about isotopic lattice-parameter differences ($4.2)
+are not affected by the present considerations, as long as isotopic differences in fid, B,
+yac and ea, do not exceed the range of magnitude discussed above.
+
+4.4. Previous results:
+From room temperature thermal expansion data measured on Pd-H alloys, a value of
+yH = 3.6 was estimated for the Gruneisen constant of the optical phonons (Smith and
+White 1977). This value was obtained under the assumption that the Gruneisen constant yac of the acoustic phonons is identical with that of pure Pd (ypd = 2.3). According to our results in $5 (yac = 3.0 & 0*5), this does not seem to be entirely correct. We
+note that the data of Smith and White yield a yH in better agreement with the present
+result, if the change of yac upon H doping is considered. 
+
+Using superconductivity data for Pd-H alloys, a YH(YH = 1.2) considerably smaller
+than our result was calculated by Ganguly (1973a). However, this value does not
+necessarily need to be comparable with our result since the superconducting properties were measured (a) at higher H concentrations than our data, and (b) in a temperature range where, at least for our concentrations, ordering processes of the H interstitials are observed (Anderson et a1 1978a,b, Blaschko et a1 1978, Ellis et a1 1979). 
+
+
+5. The anharmonicity of the acoustic modes 
+
+First, we determine the overall Gruneisen constant 7, according to equation (9). At
+250K, the specific heat (per unit volume) of PdHo., is calculated to be
+C = 3.20 x lo6 J(Km3)-'. using the specific heat data of Mitacek and Aston (1963)t
+and a lattice parameter of 4.045 A (Shirber and Morosin 1975, Peisl 1978). From our
+thermal expansion coefficient (table l), and with a bulk modulus B = 1.81 Nm-'
+(Hoefsloot et a1 1980), we then obtain 7 = 3.0 f 0.3. The experimental error of f0.3
+takes into account the inaccuracies in our thermal expansion coefficient, and the
+possibility of a 5% error in the value used for C and B. 
+
+The present value of y differs somewhat from that obtained previously (i' z 2.6) by
+Smith and White (1977). This difference is due only slightly to different values of the
+thermal expansion coefficients (actually, the values agree within the quoted experimental errors); for the most part, it is because the values used by Smith and White for
+the lattice parameter (4.009 A) and bulk modulus (1.71 x 10" Nm-'), differ from
+those of the present calculation:. 
+
+From equation (8), and from our results for yH and y, the Gruneisen constant of the
+acoustic phonons is calculated to be yac = 3.0 & 0.5. Since yH and y are (accidentally)
+equal, this calculation does not require knowledge of the fractions C,,jC and CHjC of
+specific heat caused by acoustic and optical phonons; however, in order to determine
+the experimental inaccuracy (f0.5), a rough estimate has been made for these fractions using the specific heat data of Mitacek and Aston (1963)s.
+Our result for ;'Jc is considerably higher than the Gruneisen constant of pure Pd
+(yPd = 2.3). We conclude, therefore, that the anharmonicity of the acoustic phonons
+increases in the presence of H. 
+
+
+6. Conclusions 
+
+We have made thermal expansion measurements on /I-phase Pd-H(D) alloys. The
+expansion is increased compared with that of pure Pd; it is larger for Pd-D than for
+Pd-H. The Gruneisen constant of the H(D)-induced optical phonons is given by
+3.0 .t 0.7; it is essentially isotope independent. The Gruneisen constant of the acoustic
+phonons is given by 3.0 f 0.5, which is larger than the Gruneisen constant of pure Pd.
+Thermal expansion and isotopic lattice-parameter differences can be described consistently by anharmonic effects. 
+
+
+References 
+
+Anderson I S, Carlile C J and Ross D K 1978a J. Phys. C: Solid St. Phys. 11 L3814
+Anderson I S, Ross D K and Carlile C J 1978b Phys. Lerr. 68A 249-51
+Bailey A C. Waterhouse N and Yates B 1969 J. Phys. C: Solid Sr. Phys. 2 769-76
+Bergsma J and Goedkoop J A 1960 Phrsicu 26 744-50
+Blaschko 0, Klemencic R and Weinzierl P 1978 Solid St. Commun. 27 1149-53
+Briickner W, Kleinstiick K and Schulze G E R 1966 Phys. Stat. Solidi 14 297-302
+Carlile C J and Ross D K 1974 Solid Sr. Commun. 15 1923-7
+Carstanjen H D, Diinstl J, Lob1 G and Sizmann R 1978 Phys. Stat. Solidi a 45 529-36
+Cowley R A 1968 Rep Prog. Phys. 31 123-66
+Drexel W, Murani A, Tocchetti D, Kley W, Sosnowska I and Ross D K 1976 J. Phys. Chem. Sdids 37
+Ellis T E, Satterthwaite C B, Mueller M H and Brun T 0 1979 Phys. Rec. Lett. 42 4568
+Ganguly B N 1973a Phys. Lett. 46A 234
+-1976 Phys. Rec. B 14 3848-52
+Ho N S and Manchester F D 1969 J. Chem. Phjs. 51 5437-9
+Hoefsloot B, Geerken B M and Griessen R 1980 to be published
+Hsu D K and Leisure R G 1979 Phj,s. Rec. B 20 1339-44
+Johansson C H 1925 Atin. P/ij,s. Lp:. 76 445-54
+Leibfried G and Ludwig W 1961 Solid St. Phys. 12 2754
+Lewis F A 1967 The Palladium-H!.rlrot/~ri Sj.stem (London-New York: Academic)
+Mackliet C A and Schindler A I 1966 J. Chem. Pliys. 45 1363-5
+Magerl A, Stump N, Teuchert W D. Wagner V and Alefeld G 1977a J. Phys. C: Solid St. Phys. 10 2783-9
+Magerl A, Stump N, Wipf H and Alefeld G 1977b J. Phys. Chem. Solids 38 6834
+Mitacek Jr P and Aston J G 1963 J. Am. Chem. Soc. 85 13741
+Nelin G and Skold K 1975 J. Phys. Chem. Solids 36 1175-82
+Peisl H 1978 Topics in Applied Physics, Hydrogen in Metals 1 vol 28, ed G Alefeld and J Volkl (Berlin,
+Heidelberg, New York: Springer Verlag) pp 53-74
+Rahman A, Skold K, Pelizzari C, Sinha S K and Flotow H 1976 Phys. Rec. B 14 363M
+Rowe J M, Rush J J, de Graaf L A and Ferguson G A 1972 Phys. Rev. Lett. 29 125G3
+Rowe J M, Rush J J, Smith H G, Mostoller M and Flotow H E 1974 Phys. Rev. Lett. 33 1297-300
+Seymour E F W, Cotts R M and Williams W D 1975 Phys. Rer. Lett. 35 165-7
+Shirber J E and Morosin B 1975 Phys. Rei. B 12 11 7-8
+Smith T F and White G K 1977 J. Php. F: Metd Phys. 7 1029-38
+Springer T 1978 Topics in Applied Phy.sics. Hydrogen in Metals 1 vol 28, ed G Alefeld and J Volkl (Berlin, Heidelberg, New York: Springer Verlag) pp 75-100 
+Stritzker B and Wiihl H 1978 Topics in Applied Physics. Hydrogen in Metals 11 vol 289, ed G Alefeld and J Volkl (Berlin, Heidelberg, New York: Springer Verlag) pp 243-72 
+Stump N, Alefeld G and Tocchetti D 1976 Solid St. Commun 19 805-7
+Volkl J and Alefeld G 1975 D!fusioti in Solids: Recenr Derelopmerirs ed A S Nowick and J J Burton (New York: Academic) pp 231-302 
+---~1978 Topics iri Applied P/i!..\ics. H~dro~p~i in .Merd.$ I \01 28, ed G Alefeld and J Volkl (Berlin, Heidelberg, New York: Springer Verlag) pp 32148 
+Wicke E, Brodowsky H and Ziichner H 1978 Topics in Applied Physics, Hydrogen in Metuls 11 vol 29, ed G Alefeld and J Volkl (Berlin, Heidelberg, New York: Springer Verlag) pp 73-155 
+Wipf H 1975 Fiz. Nizkikh Temp. 1 64550 
+-1976 Sot.. J. Low Temp. Phys. 1310-2 
+Worsham J E Jr, Wilkinson M K and Shul C G 1957 J. Phys. Chem. Solids 3 303-10

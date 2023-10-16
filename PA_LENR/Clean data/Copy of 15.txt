@@ -1,0 +1,373 @@
+1. Introduction
+
+The investigation of extreme states of matter under extremely high compression is
+one of the most important areas of fundamental science. Especially important and
+interesting is the search for ways to form “stellar” states of matter, with parameters
+close to those which occur in astrophysical objects such as white dwarfs and neutron
+stars, under the conditions of a terrestrial laboratory. Various theoretical models
+predict the anomalous properties of both the very process of supercompression and
+the synthesized superdense matter, including the possibility of great energy release
+accompanying the process of self-supporting matter compression, the neutralization
+of radioactive nuclei, and the formation of superheavy quasistable nuclei.
+
+The problems of formation of extreme states of matter, and its use in solving the
+applied tasks of nuclear physics, power engineering, and radiation ecology, are the
+priority directions of the activity of a specialized laboratory for electrodynamical
+studies of the “Proton-21” firm established in Kiev in 1999.
+
+
+2. Facilities, methods, and main results of experiments
+
+2.1. Facility
+In the course of creation of the experimental base of the laboratory, the best
+available methods for extremely strong matter compression were employed. At the
+same time, while designing the experimental setup, a special emphasis was put on
+the realization of scientific ideas developed by the creative staff and the laboratory
+administration.1 We posed the problem of creating a setup which is able to ensure a
+high energy concentration (from a coherent driver) in a solid target (with size of at
+most 10–100µm) in the first stage of the impulse process. At the second stage, the
+further self-supporting compression of this region up to a state of collapse on the
+subangstrom-scale, and the attainment of the “stellar” matter state should occur
+
+In the experimental setup (see Figure 1), an impulse electron beam with a total
+energy of at most 1 kJ was used as a coherent driver in each cycle of supercompression (a schematic of the basic experiment under discussion in this paper is shown in
+Figure 2). Both the compressed target, and the driver system ensuring the supercompression, were in a vacuum system. This guarantees maximum purity, control
+over experiments, their reproducibility.1,2
+
+The expected results concerning matter supercompression were derived on 24
+February 2000.
+The optimized structure of the experimental setup allows us to perform at least
+10 different experiments on the supercompression of different targets in a day. At
+present, the total number of experiments exceeds 5000. As target materials, we
+have used practically all chemical elements from which one can manufacture a solid target. The majority of the targets under study were produced from chemically pure
+elements, such as Cu (purity of 99.99%), Al(99.99%), Ta (99.97%), Pb (99.75%),
+and Ag (99.99%).
+
+The achieved understanding of the physical processes running during every experiment allows us to predict reliably (with a probability of about 100%) the results
+of experiments for all variations in the operation modes of the setup, and in the
+characteristics of targets under study.
+
+2.2. Measurement systems
+The results of action of a coherent driver in the experimental setup were investigated
+with the use of several independent measurement systems:
+After every experiment, the chemical, isotopic, radiometric, and structural analyses of the target materials were carried out; also analyses of the chamber walls and
+special accumulating screens with different forms, materials, and structures which
+were positioned in the vacuum region of the experimental setup, were carried out.
+We measured the spectra of electromagnetic radiation from the collapse zone in
+the microwave, visible, and gamma regimes.
+We analyzed the products emitted from the collapse zone (electrons, positrons,
+ions, charged and neutral nuclear particles and clusters) in real time.
+In the implementation of the element and isotope analyses, the following methods
+based on relevant facilities were used:
+Electron probe microanalysis (EPMA)—analyzer REMMA 102 (Ukraine).
+Auger-electron spectroscopy (AES)—Auger spectroscope JAMP-10S (JEON,
+Japan).
+Secondary ion mass-spectrometry (SIMS)—SIMS analyzer IMS 4f (Cameca,
+France).
+Laser mass-spectrometry (LMS).
+Integral thermal ion mass-spectrometry (TIMS)—thermal ion mass-spectroscope
+“Finnigan MAT-262.”
+Glow discharge mass-spectrometer VG 9000 (Thermo Elemental, UK).
+Rutherford backscattering of accelerated α-particles (RBS).
+All together, more than 15 000 element and isotope analyses were performed, including those listed in Table 1:
+
+2.3. Observations
+During the experiments (on solid target supercompression to the collapsed state),
+several anomalous phenomena were observed:
+In the process of the collapse formation, and during its subsequent evolution for
+100 ns, intense x-ray and gamma radiation (in the energy range from 2–3 keV to
+10 MeV, with a maximum near 30 keV). The total radiation dose in the range
+30–100 keV exceeded 50–100 krad at a distance of 10 cm from the active region
+Synthesis of light, medium, and heavy chemical elements and isotopes (with 1 ≤
+A ≤ 240); and fusion of superheavy transuranium elements (with 250 ≤ A ≤ 500)
+in the area near the collapse zone. Some of these results are considered below.
+All of the created elements and isotopes were stable (without alpha, beta, or
+gamma activities).
+Transformation of any radioactive nuclei to stable nuclei in the collapse zone. The
+utilization efficiency of radionuclides per 1 kJ of the driver energy corresponds to
+the transmutation of about 1018 target nuclei (e.g. 60Co) into nonradioactive
+isotopes of other nuclei.
+Unique spatial distribution of different chemical elements and isotopes (with
+1 ≤ A ≤ 240) in the volume of an accumulating screen, which was made of a
+chemically pure element and which was remote from the collapse zone (all the
+created elements and isotopes were situated in the same thin layer, or several thin
+layers, inside of the screen).
+
+2.4. Results due to a new physical process
+These results indicate that a previously unknown physical process, namely the
+artificially-induced collapse of part of the target material, was realized at our laboratory for the first time. In every experiment, the collapse is completed by both
+the full nuclear regeneration of a portion of the initial substance of the target with
+a mass of 0.5–1 mg and the formation of artificially derived chemical elements instead of the initial atoms, including the long-lived and stable isotopes of superheavy
+chemical elements which are not found on earth or in near space.
+
+These phenomena can be interpreted (with a high probability) on the basis of the
+idea of the creation and evolution of a self-organizing and self-supporting collapse
+state of the electron-nucleus plasma (of an initial solid substance); to a state of
+electron-nucleus clusters (with the density close to that of the nuclear substance)
+under the action of a coherent driver. During the evolution of such a collapse, the
+processes of fast fusion and creation of different isotopes (including trarnsuranium
+ones), take place. After the end of the collapse, synthesized isotopes were detected
+near the collapse zone, on the surface and in the volume of the remote accumulating
+screen.
+It was also suggested that, during the evolution of this cluster, the process of
+emission of superheavy neutral nuclear clusters with A > 3000–5000 takes place.
+
+
+3. Fusion of light, medium, and heavy nuclei
+
+By analyzing the results of all experiments, we found a great number of elemental
+and isotopic anomalies. The measurements were carried out at the institutes of the
+National Academy of Sciences of Ukraine; at the Taras Shevchenko Kiev National
+University; at one of the leading enterprises of the Ministry of Atomic Industry of
+the Russian Federation; and at specialized mass-spectrometric laboratory of United
+Metals Inc (USA).
+
+After the implementation of every experiment, many chemical elements (with
+atomic numbers both greater and smaller than those of initial chemically pure material) was measured on the target surface, and on the surface and in the volume of
+accumulating screens. This amount is much larger than that of admixtures in the
+initial materials of the target and accumulating screens (see, e.g. Table 2).
+
+For the majority of the synthesized chemical elements, we observed a significant
+deviation from the natural isotope ratio. For many elements, this ratio is changed
+by 5–100 times (it can increase or decrease). Fig. 3 shows an example of a change in
+the isotope ratio for certain elements registered after experiments. While analyzing
+the samples, we found many nonidentified atomic masses in the transuranium region
+with A > 250.
+
+3.1. Single ions and molecular clusters
+Performing the spectrometry of superheavy masses, we implemented special measures allowing us to prevent the appearance of molecular clusters:
+We carried out a complex study of the same sample on several mass-spectrometers
+of different types.
+We used a special operation mode, “offset,” in a SIMS analyzer IMS 4f which
+allowed us to highly efficiently separate molecular clusters and single ions.
+While using a mass-spectrometer, we used the operation mode with a high temperature (about 100 eV) at the laser focus on the surface of the samples under
+study. At this temperature, molecular complexes cannot exist and such a massspectrometer will register only single ions.
+The investigation of superhigh masses was performed with the use of Rutherford
+backscattering of accelerated alpha particles with an energy of 27.2 MeV derived
+on a U-120 cyclotron. This method allows one to register only single ions. The results of a measurement of the backscattering spectrum are presented in Fig. 4
+[Ref. 3].
+
+These precautions enable us to assert that we detected nonidentified stable
+atomic masses in the transuranium region with 250 <A< 500 on the samples
+located near the action zone of the coherent driver. After every experiment, about
+10–20 types of superhigh masses (superheavy nuclei) were measured; moreover, a
+representative number of superheavy nuclei of each type equaled 107 to 1010. The
+number of superheavy nuclei formed increases with use of a target made of heavy
+atoms (e.g. Pb). Most frequently are registered superheavy nuclei with A = 271,
+272, 330, 341, 343, 394, 433. The same superheavy nuclei were registered on the
+same samples during repeated measurements over time intervals of a few months.
+
+
+4. Spatial distribution
+
+4.1. Anomalous atom distributions
+While investigating the spatial distribution of products of the nucleosynthesis in the
+volume of accumulating screens made of chemically pure materials (mainly Cu), we
+found alien chemical elements (from H to Pb) in the amount which exceeded their
+initial total amount in the form of admixtures by several orders (Table 2). All these
+elements were positioned in several thin concentric layers. The first (superficial)
+layer, about 200 ˚A thick, contained about 3 × 1018 atoms of all elements. The
+second was located at a depth X ≈ 0.3 µm, and contained about 1018 atoms.
+And the third was at X ≈ 7 µm. At the same time, we found a decrease in the
+concentration of the initial material of a target in the volumes of these layers.
+
+Let us consider possible mechanisms for the formation of a thin layer (containing
+different elements and isotopes with the same spatial distribution) in the volume of
+an accumulating screen made of a chemically pure element (e.g. Cu), and remote
+from the action zone of a coherent driver in detail.4 A typical scheme of formation
+of this layer in experiments is presented in Fig. 5. Figure 5. The typical scheme of formation of thin layer in the volume of an accumulating screen.
+
+The depth profile shown in Fig. 6 was typical of all experiments. It was obtained by ionic etching the surface of an accumulating screen with an ion microprobe
+analyzer Cameca IMS 4f. One can see in Fig. 6 that different chemical elements
+(e.g. Au, Pr, La, I, Ce, W, and unidentified element 156A) are situated in the same
+thin layer (with relative thickness ∆R/R ≈ 0.25 and distance R = X cos θ from
+the surface into the depth of the accumulating screen in the direction outwards the
+collapse zone). The distance R and thickness ∆R are the same for the whole layer
+and all chemical elements for a single experiment. For different experiments, the
+values of R and ∆R may be different, but the ratio ∆R/R is the same. Figure 6. Depth profile of chemical elements in an accumulating screen
+
+The synthesized elements and isotopes were distributed over the layer surface
+as separate clusters. At the center of the screen, the clusters overlapped. Cluster
+distributions for Al, B, Si, and K on the layer surface are presented in Fig. 7. Note
+that the distributions are the same in all details. This result can be obtained only
+if all detected elements were born in each cluster during the nuclear transmutation
+of unknown particles. Figure 7. Distribution of clusters of chemical elements B, Al, Si, K on the same very small area
+on the surface of a thin layer.
+
+It is easy to make sure that such distributions over the surface and radius cannot
+be a result of the ordinary process of Coulomb deceleration for different fast ions.
+For such a Coulomb deceleration, the energy losses dE/dr and the deceleration
+distance R of an ion with mass M, charge Z, and energy E are
+Here, J is the averaged ionization potential of atoms of the screen. On the one hand,
+at the same deceleration distance R = 0.3 µm in a copper target, the values of the
+initial energies E are very different for different ions (e.g. we need EH ≈ 60 keV for
+H+ and EPb ≈ 60 MeV for Pb+). The same dispersion of Ei will hold for ions with different charges. On the other hand, for different ions at the same energy E, the
+ratio of deceleration distances Ri is also very high (e.g. for H+ and Pb+, we have
+RH/RPb > 20–30).
+
+The total number of alien atoms considerably exceeded that of the starting admixture; therefore, such a unique distribution cannot be created by the nonlinear
+waves of admixtures which are observed sometimes in nonequlibrium processes. In
+addition, the three-dimensional character of the anomalous distribution of synthesized chemical elements (different elements were located in small coincident regions
+on the surfaces of concentration layers) cannot be explained by the processes of
+transport or diffusion as well.
+
+The observed distribution of chemical elements (the fixed values of ∆R and R
+for different particles in each single experiment) in the layer may appear only in the
+case of deceleration in the depth of the screen of identical particles with the same
+charge and energy. But such a distribution is observed for different elements (from
+H to Pb)! So, we are faced with a paradox in this case. We suppose that such a distribution of different chemical elements and isotopes is
+possible only if the following conditions are met:
+(1) All initial (decelerated and stopped) particles must be the same (identical).
+(2) For the stability of the charge of particles, their velocities V must be lower relative
+to the velocity v0 = e2/h = 2.5 × 108 cm/s of valence electrons.
+(3) For a large distance of deceleration R at a low velocity V  v0, the mass M of an
+unknown particle must be very large.
+(4) Different chemical elements and isotopes observed in the screen layer are created
+by the nuclear transmutation of these identical particles after stopping at R.
+What is the nature of these unknown superheavy particles and the mechanism of
+the fast nuclear transmutation to different final stable nuclei? This problem will be
+discussed below.
+
+4.2. Deceleration of heavy particles by elastic scattering
+We have investigated the possible mechanism of elastic deceleration of these unknown particles, and we have calculated their parameters. The equation of motion
+of the unknown uncharged particles with mass M in the bulk of the screen is the
+following:
+is the mean force of elastic deceleration of the unknown heavy particle in the screen.
+The momentum change ∆p satisfies
+∆p is the deceleration of the particle momentum for ∆t  δt (during ∆N = ∆t/δt
+single collisions with ions of the target with mass M0), where the time between
+single collisions is
+and the distance l1 satisfies
+This distance is the interval between two subsequent collisions of the unknown heavy
+particle with ions of the target. In addition,
+is the deceleration momentum of a particle during a single collision.
+The solution of Eq. (2) is
+The deceleration terminates at a time t = τ when the kinetic energy of the particle
+(MV 2(τ ))/2) becomes equal to the thermal energy (M0v2
+T/2) of the atoms (ions)
+in the screen
+
+The duration of the deceleration is
+The deceleration distance is
+The mass of the unknown particle is
+Here, T = E(0) = MV (0)2/3 is the initial energy of the unknown particle after
+leaving the action zone of the coherent driver, and T0 = M0v2
+T/3 is the temperature
+of the screen.
+
+Let us make numerical estimates. For a screen made of chemically pure copper (A0 ≈ 63 − 65), the concentration and elastic scattering cross section are
+n ≈ 8×1022 cm−3 and σ ≈ 10−16 cm2, respectively. With an experimental value
+of the distance of deceleration R(τ ) ≈ 0.4 µm and at T0 = 300 K = 0.025 eV, and
+T= 35 keV, we have the very large mass of the unknown particle: M ≈ 91 M0, A ≈
+91A0 ≈ 5700. The initial velocity of these superheavy particles was low relative to
+the velocity of the valence electrons (v0 = e2/h = 2.5×108 cm/s), and was equal to
+V (0) = (3T /M)1/2 ≈ 3.7 × 106 cm/s. The total duration of particle deceleration is
+τ ≈ 0.8× 10−9 s. In a different case (e.g. for a layer situated at a different distance
+of deceleration R(τ ) ≈ 7 µm), we have M ≈ 1540M0 and A ≈ 1540A0 ≈ 100 000.
+The obtained parameters correspond to requirements (1–3).
+
+
+5. Possible model for evolution of neutralized superheavy nuclei
+
+We assume that these superheavy particles are similar to abnormal superheavy
+neutralized nuclei that were proposed by A. Migdal about 20 years ago.5,6 Migdal
+obtained the important result consisting in that the energy E/A of the nuclear substance has two minima (the first “ordinary” at A ≈ 60, and the second “abnormal”
+at Amax ≥ 2 × 105). Migdal suggested that the presence of the second “abnormal”
+minimum of energy E/A was a result of the Fermi condensation of pions in the
+volume of superheavy nucleus (e.g. during the action of a shock). These minima
+are separated by a high potential barrier at Z0 ≈ (hc/e2)3/2 ≈ 1600. The mechanism for the suppression of the action of that barrier will be discussed below. If this hypothesis is correct, then superheavy neutralized nuclei created in the active
+zone of a coherent driver can absorb environmental “ordinary” nuclei of the target
+(screen). This transmutation leads to a growth of these superheavy neutralized
+nuclei by nuclear fusion up to Amax.
+
+Very few electrons are outside the volume of these nuclei in a thin skin with
+thickness about 10−12 cm. The probability of such a synthesis is very high due to
+the high transparency of the Coulomb barrier. Energy is released during such a
+fusion reaction. Different channels are available for the release of the excess energy
+(gamma emission, the emission of neutrons and nuclear fragments, etc.). One of the
+channels is connected with the creation of different “normal” nuclei, and the mission
+of these nuclei from the volume of a growing superheavy nucleus. For example, after
+the absorption of several target nuclei with AT ≈ 50 − 200 in a short time, a high
+binding energy can lead to the emission of several light nuclei with AL < AT, or
+one heavy nucleus with AH ≈ 300 − −500 > AT (see Fig. 8). Figure 8. Evolution of superheavy nucleus – absorption of target nuclei and creation of different
+nuclei (from H up to stable transuranium nuclei)
+
+The process of nucleus emission competes with other ways for cooling the nuclear substance. In this case, usual even–even nuclei (like the alpha particle, and
+C12, O16, ..., Pb208) which already exist in the volume of a superheavy nucleus,
+are more likely to emerge and be emitted. In fact, every superheavy nucleus is a
+“specific microreactor” for the transmutation of “normal” target nuclei to different
+configurations of nucleons. In this microreactor, the transmutation process terminates after the utilization of all target nuclei, or after the evolution of a superheavy
+nucleus to the final stable state with Amax. How are such superheavy nuclei created?
+
+We have carried out an analysis of the evolution of nuclei in the action zone of the coherent driver. It follows from our calculation that for some usual (not
+superheavys) but “critical” nuclei (e.g. at Z>Zcr ≈ 92) at special parameters of
+the coherent driver, the process of fast and self-controlling change (decrease) of the
+energy of nucleons (an increase in the binding energy) takes place. The value Zcr
+depends on the driver parameters. For a more intense driver, Zcr will be less. It
+also follows that the minimum of this energy is changed in time from the initial
+(usual) value at Aopt ≈ 60 to Aopt ≥ 104. All “subcritical” nuclei with Z<Zcr
+have stable minimum of energy at Aopt ≈ 60. This effect is connected with the
+self-similar processes in the superdense degenerate electron-nucleon plasma with a
+suppressed influence of the Coulomb interaction between protons in the volume of
+a superheavy nucleus. The coherent driver should start this self-amplifying process
+of nuclear transformation for “critical” nuclei.
+
+We have calculated the energy change per nucleon (E/A) for different relations
+of the electron and proton concentrations for “critical” nuclei at 30<A< 2 × 105.
+During the initial phase of the process (at the shift of the minimum of the energy
+per nucleon E/A to Aopt ≈ 5000 − −10, 000), the role of pionic condensation is
+slight, but it becomes critical at Aopt ≥ 105. The degenerate electron-nucleus
+plasma initially includes a mixture of all nuclei (normal stable nuclei, and growing
+superheavy ones) and electrons, and is prevented from decaying due to the action
+(pressure) of the coherent driver. The description of such processes will be presented elsewhere.
+
+During such a change of the E/A ratio for superheavy nuclei, the fusion process
+for target nuclei (the absorption of target nuclei with “subcritical charge” Z<Zcr,
+and the growth of “critical” nuclei with Z>Zcr) in the action zone of the coherent
+driver becomes possible (see Fig. 9). This fusion leads to a fast growth of initial
+“critical” nuclei up to A ≈ 104 – 105 during the action time of the coherent driver
+(about ∆td ≤ 100 ns) with velocity (dA/dt)collapse ≈ A/∆td ≈ 1012 to 1013 s−1.
+This velocity is proportional to the concentration of nuclei in the target. This
+process may lead to the creation of nuclei with 1 <A< 300 − 500. The scheme of
+creation of these nuclei and the scheme reviewed above during the analysis of the
+processes occurring in the accumulating screen are the same.
+
+After the termination of the compressing action of a coherent driver, the process
+of decay of the degenerate electron-nucleus plasma, which includes the mixture of
+all nuclei (normal stable nuclei of the target, growing superheavy nuclei, and created
+nuclei) due to nuclear reactions, takes place. Some of these superheavy nuclei hit
+the remote accumulating screen and are decelerated there.
+
+The growth velocity of these nuclei in the volume of a solid accumulating screen
+is proportional to the concentration of nuclei nscreen and equals
+After the deceleration of these superheavy nuclei in the screen during τ ≈ 10−9 s,
+the process of growth proceeds for
+We suppose that the above scenario gives a quite full explanation for all the abnormal results obtained in the course of experiments. The full theory of formation of
+laboratory electron-nuclear collapse in volume of condensed target and the ways of
+transmutation of nuclear subsystem in such collapse area are presented in [7-9].
+
+
+References
+
+1. S. V. Adamenko, Bulletin of National Academy of Science of Ukraine, 2, 23 (2003).
+2. S. V. Adamenko and A. S. Adamenko, International Symposium “New Projects and
+Lines of Research in Nuclear Physics”, Abstracts of contributed papers, (Messina,
+Italy, October 2002), p. 19.
+3. S. V. Adamenko and A. A. Shvedov, International Symposium “New Projects and
+Lines of Research in Nuclear Physics”, Abstracts of contributed papers, (Messina,
+Italy, October 2002), p. 41.
+4. S. V. Adamenko and V. I. Vysotskii, International Symposium “New Projects and
+Lines of Research in Nuclear Physics”, Abstracts of contributed papers, (Messina,
+Italy, October 2002), p. 43.
+5. A. B. Migdal, Fermions and Bozons in Strong Fields, (Moscow, Nauka, 1978) [in Russian].
+6. A. B. Migdal, D. N. Voskresensky, E. K. Sapershtein and M. A. Troitsky, Pion Degrees
+of Freedom in Nuclear Matter, Moscow, Nauka, (1991). (In Russian).
+7. Adamenko S. V., Vysotskii V. I. “Mechanism of synthesis of superheavy nuclei via the
+process of controlled electron-nuclear collapse,” Foundations of Physics Letters, 17,
+203-233 (2004).
+8. Adamenko S. V., Vysotskii V. I. “Evolution of annular self-controlled electron-nucleus
+collapse in condensed targets,” Foundations of Physics, 34, 1801-1831 (2004).
+9. Adamenko S. V., Vysotskii V. I. “The problem of Coulomb collapse of electron-nucleus
+system in condensed targets,” Surface, p. 30-38 (2005). (In Russian)
+
+

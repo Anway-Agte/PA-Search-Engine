@@ -1,0 +1,366 @@
+1. Introduction
+
+LENR presents major opportunities to enhance the public interest as a potential new source of cheap and clean energy.
+Its improved prospects in recent years have resulted in a need for updates in LENR policies. Policymaking opportuni-
+ties are emerging in three main areas – supporting LENR to realize its potential beneﬁts, planning proactively to deal
+with its anticipated adverse secondary impacts, and integrating the updates in a comprehensive policy program. The
+objectives of this paper are to:
+– Review the changing landscape of LENR.
+– Describe opportunities for updating policies for support of LENR development.
+– Delineate potential policies for mitigating adverse secondary impacts.
+– Analyze opportunities for integrating LENR policies both nationally and internationally.
+– Summarize the beneﬁts and challenges of achieving updated and integrated policies.
+
+The case of cold fusion would perhaps be a curiosity in the history of science was the world not in such desperate need
+of new sources of clean and inexpensive energy.
+
+
+2. The Changing Landscape of LENR
+
+Improved LENR prospects are indicated by at least four lines of argument – the signiﬁcant numbers and varied loca-
+tions of researchers in several countries, the resulting large body of accumulated evidence, advances in theory devel-
+opment, and recent favorable events.
+
+2.1. Continued research worldwide:
+Unlike most claims of new phenomena that are not accepted by mainstream science, LENR research was not discon-
+tinued after it was rejected. On the contrary, many investigators have continued to work in the ﬁeld, resulting in a
+large body of evidence for LENR reality. For example, at least 50 investigators in nine countries (including the US,
+Italy, Japan, India, and China) have continued LENR research. An international LENR society, International Society
+of Condensed Matter Nuclear Science (ISCMNS), was formed a few years ago, and an afﬁliated journal dedicated to
+LENR research reporting (J. Condensed Matter Nucl. Sci.) is published quarterly. International conferences are held
+in countries around the world every 1–2 years, with a typical attendance of about 200. Nineteen conferences have been
+held since they were begun in 1990. Attendance at the latest conference in 2015, which took place in Italy, was nearly
+600 [1]. A substantial community of LENR researchers and other interested parties has emerged. Its size is indicated
+by the CMNS Google Group, which was formed about 10 years ago and currently has over 300 participants.
+
+Although the US Department of Energy has not provided leadership in LENR research, investigations continued
+at several other US agencies after the 1989 rejection. For example, the US National Aeronautics and Space Admin-
+istration (NASA) has conducted research at both the Glenn and Langley research centers [2,3]. Elements of the US
+Department of Defense (DoD) have also continued research and related interests. Several components of the US Navy
+have also had active LENR research efforts. The US Naval Research Laboratory (NRL), for example, has been work-
+ing on LENR since the ﬁeld started in 1989. Other Navy organizations that have pursued LENR research and related
+activities are the US Space and Naval Warfare Systems Command (SPAWAR), US Naval Air Weapons Station (China
+Lake), and the US Naval Postgraduate School.
+
+2.2. Large and growing body of evidence:
+The substantial research in LENR has resulted in a large accumulation of evidence for its reality. One indicator of
+this evidence is a website dedicated to collecting LENR publications (LENR-CANR.org), which has a bibliography
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 19 (2016) 88–97
+of more than 3500 journal papers and related items. As of January 2015, an estimated 3.2 million papers had been
+downloaded from the website [4].
+
+Storms [5] has documented 380 papers reporting LENR just up to about 2007 as indicated by four signatures
+– anomalous heat (184 reports), tritium (61), transmutation (80), and radiation (55). Many more reports have been
+prepared in the subsequent years. Storms and Grimshaw [6] examined the evidence for LENR in relation to published
+criteria for distinguishing science from pseudoscience by Langmuir [7], Sagan [8], and Shermer [9]. Twenty-seven
+criteria were compiled, and LENR was examined in relation to each criterion. It was found that the criteria were
+satisﬁed, and it was concluded that LENR research is science and not pseudoscience.
+
+2.3. Advances in theory development:
+Progress has also been made in developing an explanation of LENR. Many hypotheses have been advanced, but much
+remains to be done to converge on a full explanation. Two well-known examples are the hypotheses advanced by Peter
+Hagelstein of MIT and Edmund Storms, who is retired from Los Alamos National Laboratory.
+
+Hagelstein [10] notes that LENR is indicated by the large amount of energy produced, the absence of expected
+chemical products, and the presence of expected amounts of new helium-4 in palladium deuteride experiments where
+LENR is observed. He observes that there appears to be no other conclusion besides a nuclear origin for the observa-
+tions, but that there is a lack in LENR of the usual radiation signals that are used to study nuclear reactions. Hagelstein’s
+hypothesis includes both conventional and new physics. In palladium deuteride systems reactions occur in vacancies
+in the lattice. The reactions involve fractionation of a large nuclear quantum combined with a coupling mechanism
+involving vibration and nuclei. Hagelstein utilizes the fundamental relativistic Hamiltonian in the explanation. The
+approach thus uses new concepts on a foundation of established physics.
+
+Storms’ hypothesis [11] proposes small sites, termed “nuclear active environments” (NAEs), that are located at or
+close to the surface rather than in the lattice, as is postulated by Hagelstein. These NAEs form in microcracks that
+are typically caused by stress relief in the material. Hydrogen ions migrate into the NAEs and form linear structures
+called “hydrotons”. Vibration of the ions in the hydroton results in nuclear reactions, with release of energy as photons
+that are absorbed in the lattice. The mechanism of the nuclear reactions in the hydroton has not yet been explained but
+would almost certainly involve new physics.
+
+2.4. Recent developments:
+The case for LENR is strengthened by several recent occurrences in the ﬁeld. One of the most signiﬁcant of these
+was the emergence of research centers at several universities. The Sidney Kimmel Institute for Nuclear Renaissance
+(SKINR) was formed at the University of Missouri in 2012 to perform fundamental research aimed at discovery of the
+mechanisms of the anomalous heat effect, a term used for LENR. Experiments are performed in four areas – nuclear
+mechanism, general mechanism, solid state theory, and cathode development (for electrolytic cells) [12]. The Center
+for Emerging Energy Science (CEES) was founded at Texas Tech. University in 2015 to explore critical parameters in
+the observation of the anomalous heat effect [13]. The intent of its work is to gain fundamental understanding of the
+LENR mechanisms. A Condensed Matter Nuclear Reactions Division was also recently formed at Tohoku University
+in Sendai, Japan. Three purposes have been advanced for the Division – fundamental LENR research, development of
+a new energy generation method, and determination of a new approach for nuclear waste decontamination [14].
+
+Further indication that cold fusion potential may be realized is the signiﬁcant number of LENR-based devices that
+have been introduced in recent years. Although many of the claims have not been veriﬁed (and signiﬁcant issues have
+been identiﬁed in some cases), the devices represent a high level of interest and activity that may signify a need for
+policy updates. One major example is Andrea Rossi’s E-Cat (for “energy catalyzer”), which is apparently based on a
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 19 (2016) 88–97
+nickel–hydrogen setup. Several demonstrations of this device were held in 2011, culminating in a multiple-unit test
+in October 2011. About 2350 kWh of energy was reported for this test [15]. A three-part test of a high-temperature
+version of Rossi’s device (E-Cat HT or “Hot Cat”) was subsequently performed [16]. The ﬁrst part of the test was not
+considered successful because the reactor melted before meaningful data could be obtained. The second test reportedly
+produced 195 kWh of energy. The third part was indicated to produce 95 kWh.
+
+Another set of experiments, consisting of two phases, was subsequently performed with a different E-Cat design
+[17]. These experiments are frequently referred to as the “Lugano test” for the location in Switzerland where they were
+performed. During the 32-day test, 1.4 MWh of net energy was reported. The experiments also included analyses of
+the isotopes of in the energy-producing contents of the E-Cat. Observed shifts in the isotope composition before and
+after the tests were inferred to be the result of nuclear reactions. The large amounts of energy produced, high ratios
+of output to input power, and changes in isotope content were interpreted as evidence of LENR. It was announced in
+2014 that the ﬁrm Industrial Heat had acquired partial rights to Rossi’s E-Cat technology [18].
+
+Investigation of devices apparently similar in design to the E-Cat has continued, notably in Russia and China.
+Parkhomov [19,20], a retired researcher from Lomonosov Moscow State University, reported experiments performed
+with two different but related designs. Both devices were conﬁgured to approximate the Lugano test of Rossi’s E-
+Cat, but with signiﬁcant differences, including the method of heat measurement. A principal conclusion was that
+the devices, described as “similar to (the) high-temperature Rossi heat generator ... produce more energy than they
+consume” above temperatures above about 1100◦C. It was also concluded that the second device produced more than
+40 kWh of excess energy.
+
+Jiang is a retired researcher afﬁliated with the Ni–H Research Group at the China Institute of Atomic Energy in
+Beijing. His reactor design and materials are somewhat similar to those of Parkhomov with a setup approximating the
+Lugano test [21]. The experiment was apparently performed for over 12 h, during which 600 W of excess heat was
+observed for a portion of that time. The reported ratio of the 600 W to the input power of 780 W was 0.77. Jiang
+concluded that “the origin of excess heat cannot be explained by chemical energy”.
+
+JET Energy, Inc. has conducted LENR research with two types of devices called the NANOR and PHUSOR [22],
+both of which utilize deuterium. The PHUSOR is an aqueous conﬁguration that uses palladium or nickel with the
+deuterium. The NANOR is non-aqueous and uses nano-scale particles consisting mainly of palladium, zirconium, and
+nickel [23]. JET Energy maintains close collaboration with the Energy Production and Conversion Group at MIT [24].
+
+Brillouin Energy [25] has developed LENR-based technology for energy production using hydrogen and nickel
+(or other metal with appropriate properties). The technology is referred to as “Controlled Electron Capture Reaction”
+(CECR). Hydrogen is brought into contact with nickel, and reactions are stimulated with electromagnetic pulses. The
+energy is reported to be in the form of heat that is absorbed by the metal and captured for beneﬁcial use. An apparently
+updated version of the Brillouin approach and technology (HHTT M) was recently reported [26].
+
+None of these examples is yet a working device having practical applications or commercial production. However,
+particularly when considered in aggregate, they provide further evidence that cold fusion may yet fulﬁll its potential as
+a source of energy.
+
+In summary, a changing landscape for LENR is indicated by the substantial number of researchers, the accumulated
+body of research, and progress in developing theories. The recent emergence of academic research entities and the
+proposed LENR energy devices also seem to strengthen the cold fusion case. Three goals must be achieved for LENR
+and its beneﬁts to be realized - more consistent reproducibility, fuller explanation of the process, and demonstration of
+its ability to produce usable amounts of energy. These goals may be achieved with afﬁrmative policies for increased
+R&D support.
+
+3. Policy Updates for LENR Support
+
+The ﬁrst policymaking opportunity resulting from LENR’s changing landscape is revision of current policies for LENR
+support. Updates in these policies may best be accomplished in a framework of evidence-based policymaking [27,28].
+The policy options are:
+(1) Discontinue research entirely (unlikely given the continuing interest).
+(2) Business as usual – continued marginalization.
+(3) Reinstatement and development with other emerging energy technologies.
+(4) Enhanced support, perhaps on a par with hot fusion.
+(5) Crash program, possibly like the Manhattan Project during World War II, to realize LENR’s beneﬁts.
+
+Selecting the alternative that best serves the public interest may be challenging because of the history and continuing
+rejection of LENR. Policymaking is further complicated by a need for improved reproducibility and a better explana-
+tion of the LENR phenomenon. To deal with these complications, LENR policy may be analyzed and established in
+terms of level of evidence for its existence:
+(1) Preponderance of evidence (>50% probability).
+(2) Clear and convincing evidence (>70%).
+(3) Beyond a reasonable doubt (>90%).
+
+The level of evidence may then be further interpreted for decisions on appropriate policy responses. At least a prepon-
+derance of evidence may reasonably be inferred from the large number researchers, the major body of evidence that
+has been accumulated, and the progress in achieving LENR explanation. Clear and convincing evidence is indicated by
+the emergence of LENR-dedicated research centers at several universities and by the signiﬁcant number of proposed
+devices that purport to produce energy from LENR. When an adequate explanation is achieved (or reliable empirical
+devices emerge), it may be asserted that the evidence is sufﬁcient to demonstrate LENR beyond a reasonable doubt.
+
+Policy responses (PR) to these proposed levels of evidence may also be suggested. If LENR is indicated with a
+preponderance of evidence, it should be fully reinstated and pursued with other emerging energy technologies. If there
+is clear and convincing evidence, a higher level of support is needed, perhaps comparable to hot fusion support over the
+past ﬁve decades. If LENR is indicated beyond a reasonable doubt, it may be appropriate to institute a crash program
+similar to the Manhattan Project, which resulted in the atomic bomb in World War II.
+
+In summary, it appears based on the level of evidence that LENR should at a minimum be reinstated and researched
+fully. It may in fact warrant investigation and development at a level similar to hot fusion research. Figure 1 shows
+diagrammatically how the changing landscape of LENR leads to the need for policy updates for its support. The
+changing landscape began sometime after LENR’s 1989 announcement and rejection (AR). The four lines of argument
+(4L) for its improved prospects led to a need for policy updates (NPU). The updates are founded on evidence-based
+policymaking (EBP). The ﬁve policy options (PO) are evaluated by the level of evidence (LOE) for LENR existence,
+leading to the appropriate policy responses (PR) – reinstate and research fully or provide more enhanced support.
+
+
+4. Policies for Mitigating Adverse Secondary Impacts
+
+The second policymaking opportunity resulting from LENR’s changing landscape is to address potential adverse sec-
+ondary impacts (ASI) with proactive planning. Broad deployment of LENR for energy supply may be expected to have
+major secondary impacts as a disruptive technology. Direct impacts are anticipated for all phases of the energy chain
+– supply, transport, storage, and consumption. Indirect impacts will be felt most by the components of society that are
+closely tied to the energy cycle, such as the affected sectors of the workforce and the communities that rely on energy
+activities (e.g., coal mining towns).
+
+Figure 1. The Changing Landscape of LENR and Resulting Need for Policy Updates for Its Support. AR – Announcement and Rejection (1989);
+4L – Four Lines of Argument; NPU – Need for Policy Updates; EBP – Evidence-Based Policymaking Framework; PO – Five Policy Options; LOE
+– Level of Evidence for LENR; PR – Policy Responses (Updates).
+
+Technology Assessment (TA) is a mature and well-established method for addressing both direct and indirect
+secondary impacts and may readily be applied to cold fusion case [29,30]. The stages of a TA application are generally
+as follows:
+(1) Identify impacts.
+(2) Determined affected parties.
+(3) Develop mitigation strategy.
+(4) Deﬁne sources of assistance (e.g., agencies).
+(5) Engage representatives (e.g., advisory group).
+(6) Deﬁne mitigation measures (MM) for both direct and indirect impacts.
+(7) Develop and implement mitigation plan (MP).
+
+TA enables proactive planning to mitigate impacts and has ample precedent for application to energy-related issues
+[31,32]. Figure 2 summarizes how the changing LENR landscape leads to the need for policies for mitigating adverse
+secondary impacts in addition to required policy updates for supporting LENR development. Adverse secondary
+impacts (ASI) are addressed by technology assessment methodology (TA). Mitigating measures (MM) are deﬁned,
+leading to an overall mitigation plan (MP).
+
+Figure 2. Illustration of Need for Policies to Mitigate Adverse Secondary Impacts Resulting from the Changing LENR Landscape. ASI – Adverse
+Secondary Impacts; TA – Technology Assessment Methodology; MM – Mitigating Measures; MP – Overall Mitigation Plan.
+
+
+5. Opportunities for Integrating LENR Policies
+
+A third policymaking opportunity for LENR is to integrate the policy actions and updates. For example, policies for
+mitigation planning for secondary impacts can be coordinated with the pace of LENR development and deployment.
+Policies can also be integrated among agencies at the national level, between the public and private sectors, and among
+nations.
+
+5.1. Integration of mitigation planning with LENR development support:
+As LENR prospects improve as a result of increased support, mitigation planning can be adjusted for the changing
+imminence and rate of deployment. This adjustment would be necessary to achieve the objectives of proactive planning
+for mitigation. Figure 3 shows how the policy response for LENR development (PR) and resulting rate of deployment
+guides planning for mitigation (GP) as the overall plan (MP) is prepared.
+
+5.2. Integration of LENR policies among agencies, nations, and the private sector:
+A focus on integrated LENR policymaking results in opportunities in several other policy areas. Public agency policy
+integration (PA) may take place at the local, state, and national levels and requires alignment and effective communi-
+cation of the policymaking entities within the agencies. Formal arrangements, such as inter-agency agreements, may
+be used, or integration may be achieved by informal measures, such as regular inter-agency meetings. While these
+measures have been used to some extent by agencies for various issues in the past, they may become increasingly
+important as LENR deployment progresses.
+
+LENR development – and dealing with its impacts – may be enhanced with stronger integration between the public
+and private components of society (PP). For example, LENR may beneﬁt from government policies and measures to
+address “market failures”, in a similar vein to current laws and regulations for environmental protection. Existing
+programs, such as small-business research support and provisions for technology transfer from government labs to
+privately held companies, could increase in importance if the government becomes more active in LENR research.
+Public-private partnerships (PPPs) may provide another vehicle for supporting LENR development and realization.
+An improved stance among patent and trademark entities would also substantially enhance efforts in the private sector
+to realize the beneﬁts of LENR. Opportunities may be found for integrating these policy changes and updates in the
+public and private aspects of LENR development.
+
+Figure 3.
+The Pace of Mitigation Planning is Guided by Policies for LENR Development and the Resulting Rate of Its Deployment. GP –
+Guidance for Mitigation Planning.
+
+At the international level, programs may be established for supporting LENR research (IN). As LENR reaches
+the stage of worldwide deployment, bilateral and multi-lateral agreements may be made or updated to enhance its
+availability. For example, the United Nations may implement programs for making small LENR units available in a
+dispersed manner in Third World nations. World Bank loans may be made to nations needing support in acquiring
+LENR technology for the beneﬁt of human health and the environment. The World Trade Organization may consider
+LENR and its humanitarian beneﬁts for special rulemaking to enhance availability worldwide. Again, opportunities
+may be found for integration of policy changes or updates among these international entities.
+
+5.3. Summary path to updated and integrated LENR policies:
+As policies are updated for LENR support and for mitigating adverse secondary impacts, and as they are integrated
+at various levels, the public interest will be served for the humanitarian beneﬁts of LENR. Figure 4 illustrates the
+full path from the present situation of LENR’s changing landscape to the prospective future of fully updated and
+integrated LENR policies. Integrated policymaking (IPM) is the foundation for public agency (PA), public-private
+(PP), and international (IN) policy integration. The desired result is fully updated and integrated policies (UIP) for
+LENR support and impact mitigation.
+
+
+6. Beneﬁts and Challenges of LENR Policy Integration
+
+Achieving integration of LENR policies as updates are accomplished will have substantial public interest beneﬁts. But
+many challenges must be overcome as well. LENR policy integration will help avoid conﬂicts and actions that are at
+cross-purposes among interested parties. Correspondingly, there will be increased
+efﬁciency in achieving the policy objectives of the parties as well as increased cost effectiveness where entities
+have common interests. Policy integration may also achieve improved social equity, with more rational decisions and
+less inﬂuence of purely political considerations.
+
+A principal challenge for policy update and integration is the historical barrier to LENR acceptance after its initial
+rejection. This barrier seems likely to be surmounted as LENR continues to be investigated and the evidence continues
+to show that it is real – and that its potential beneﬁts are attainable. Another challenge is the sheer immensity of
+the expected direct and indirect secondary impacts. Proactive planning to address these impacts will be a major
+undertaking. The existence of the long-standing and well-established energy policy framework may also present a
+barrier to effective LENR policies and their integration. This framework includes many conﬂicting interests and
+agendas that will have to be considered as policies are updated and integrated.
+
+Figure 4.
+Path to Updated and Integrated LENR Policies. IPM – Integrated Policymaking Framework; PA – Integration among Public Agencies;
+PP – Policy Coordination between Public and Private Sectors; IN – Integration among Nations at the International Level; UIP – Updated and
+Integrated LENR Policies.
+
+
+7. Summary and Conclusions
+
+Despite being rejected not long after it was announced, LENR has continued to be pursued in many venues, resulting
+in improved prospects and the need for policy updates. Updates are needed both for support of LENR development
+and preparation to mitigate its anticipated adverse secondary impacts. As these updates are accomplished, there are
+opportunities to integrate the policies to support and realize LENR with mitigation planning for anticipated impacts.
+There are also policy integration opportunities among public and private entities and at many levels within nations and
+internationally. The beneﬁts of updating and integrating LENR policies are substantial, but the challenges for doing so
+are also very large. Opportunities for policy updates and integration may be set forth conceptually, but realization in
+the “real world” will be much more difﬁcult. Nevertheless, it is clear that the public interest will be served by updating
+LENR policies and achieving their integration.
+
+
+References
+International Society of Condensed Matter Nuclear Science. Date unknown. Online. Available: http://www. iscmns.org/
+S. Wrbanek et al., NASA Glenn Research Center Experience with “LENR Phenomenon”, Presentation at Interagency Ad-
+vanced Power Group (IAPG), Mechanical Working Group (MWG). May 2012.
+P. Douglas and D. Wells et al., Low Energy Nuclear Reaction Aircraft – 2013 ARMD Seedling Fund Phase I Project. Langley
+Research Center, Hampton, Virginia. NASA/TM – 2014-218283, 2013.
+LENR-CANR.org, a Library of Papers about Cold Fusion, Online, Available: http://lenr-canr.org/wordpress/ ?page_id=1213.
+E. Storms, Science of low energy nuclear reaction: a comprehensive compilation of evidence and explanations about cold
+fusion, World Scientiﬁc, Singapore, Tables 2, 6, 8, 11, 2007.
+E. Storms and T. Grimshaw, Judging the validity of the Fleischmann–Pons effect, J. Condensed Matter Nucl. Sci. 3 (2010)
+I. Langmiur, Colloquium on pathological science. held at the Knolls research laboratory, December 181953, Reproduced as
+“Pathological Science”, Phys. Today 42(10) (1989) 36–48.
+C. Sagan, The ﬁne art of baloney detection, Chapter 13 in The Demon-Haunted World: Science as a Candle in the Dark,
+Random House, New York, NY, 1995.
+M. Shermer, The Borderlands of Science – Where Sense Meets Nonsense, Oxford Univ. Press, Oxford, UK, 2001.
+[10] P. Hagelstein and I. Chaudhary, Phonon models for anomalies in condensed matter nuclear science, Current Sci. 108(4)
+(2015) 507–513.
+[11] E. Storms, The Evaluation of Low Energy Nuclear Reaction: an Explanation of the Relationship between Observation and
+Explanation, Inﬁnite Energy Press, Concord, NH, 2014.
+[12] G. Hubler, Sidney Kimmel institute for nuclear renaissance, Current Sci. 108(4) ( 2015) 562–564.
+[13] T. Scarbrough et al., The center to study the anomalous het effects, Poster Presented at ICCF-19, Padua, Italy, April. 2015.
+[14] Y. Iwamura et al., The launch of a new plan on condensed matter nuclear science at Tohoku University, Paper Presented at
+ICCF-19. Padua, Italy, April 2015.
+[15] D. Hambling, Success for Andrea Rossi’s E-Cat cold fusion system, but mysteries remain, Wired, October 29, 2011.
+[16] G. Levi et al., Indication of anomalous heat energy production in a reactor device containing hydrogen loaded nickel powder,
+Cornell University Library arXiv, 2013.
+[17] G. Levi et al., Observation of abundant heat production from a reactor device and of isotopic changes of fuel, Unpublished
+manuscript, October 2014.
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 19 (2016) 88–97
+[18] PRWire, PRNewswire, Industrial heat has acquired Andrea Rossi’s E-Cat technology, Research Triangle Park, January 24,
+[19] A. Parkhomov and E. Belousova, Researches of the heat generator similar to high temperature Rossi reactor, Poster Presented
+at ICCF-19. Padua, Italy, April 2015.
+[20] M. McKubre, A Russian experiment: high temperature, nickel, natural hydrogen, Inﬁnite Energy, Issue 120, March/April.
+9–11, 2015.
+[21] Jiang, S., 2015. New Result of Anomalous Heat Production in Hydrogen-Nickel Metals at High Temperature. Presentation
+Posted at E-Cat World. www.e-catworld. May 30.
+[22] D. Nagel, Scientiﬁc and commercial overview of ICCF18, Inﬁnite Energy, Issue 112, November/December 2013.
+[23] JET Energy Inc., undated. JET Energy NANOR c⃝-type LANR Technology. Online available:
+http://world.std.com/∼mica/nanortechnology.htm.
+[24] P. Hagelstein, On theory and science generally in connection with the Fleischmann–Pons experiment, Inﬁnite Energy, Issue
+108, . March/April 2013, pp. 5–12.
+[25] R. George et al., About Brillouin Corp, Online2014, a vailable:
+http://brillouinenergy.com/ ?page=home_page.
+[26] Brillouin Energy, HHTT M reactor and results, Poster at ICCf-19 Conference, Padua, Italy, April 2015.
+[27] T. Grimshaw, Evidence-based public policy toward cold fusion: rational choices for a potential alternative energy source,
+Austin, TX, Lyndon B. Johnson School of Public Afﬁars. Unpublished Professional Report, December 2008.
+[28] T. Grimshaw, Evidence-based public policy for support of cold fusion (LENR) development, Poster Presented at 17th Int.
+Conf. on Cold Fusion, Daejeon, South Korea, August 2012.
+[29] T. Grimshaw, Public policy planning for broad deployment of cold fusion (LENR) for energy production, Paper FrM1-1, 17th
+Int. Conf. on Cold Fusion, Daejeon, South Korea, August 2012.
+[30] T. Grimshaw, Cold fusion public policy: rational – and urgent – need for change, Presentation at 2014 Cold Fusion/LANR
+Colloquium at MIT, Cambridge, MA. March 2014.
+[31] White, L. Irvin et al., Energy from the West: summary report, US environmental protection agency, Prepared by Science and
+Public Policy Program, University of Oklahoma, Prepared for Ofﬁce of Research and Development, EPA (600/9-79-027),
+August 1979.
+[32] L. Johns et al., A technology assessment of coal slurry pipelines. ofﬁce of technology assessment, NTIS order #PB-278675,
+March 1978.

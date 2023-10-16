@@ -1,0 +1,75 @@
+1. INTRODUCTION
+
+One of the main problems of the "cold nuclear fusion" is the discrepancy between experimentally obtained amount of heat and amount of nuclear products. Let us summarize some known experimental facts [1,2]:
+1. Excessive heat is generated with the output a few times larger than input.
+2. Weak neutron signals with intensity 10-10 s
+3. Weak gamma-radiation with intensity <10 s
+4. Characteristic X-rays with intensity <10 s
+5. Tritium formation.
+7. Charged particles have high energy, up to 10 MeV and more.
+As we noted in [2], to explain excessive heat we must assume that either charged particles have small
+energy (E < 1 MeV), or they are heavy (heavier than He). This situation cannot be explained in terms of "hot" or "micro hot" fusion, because in this case cross-sections of nuclear reactions are well known and branching of nuclear reactions - neutrons to tritium and 14 MeV neutron group to 2.45 MeV group does not correspond to thermal d-d reaction.
+An interesting data appears with material science results. Earlier we considered only helium and tritium aspects of cold fusion, though we could see anomalies with other impurities for some time.
+
+
+2. INITIAL MATERIAL
+
+We used pure 99.99 grade palladium as a cathode material. The bulk impurities content was defined by spark mass-spectrometry for all the elements of the Periodic Table. The analyses were made in the mass-
+spectrometry laboratory of GIREDMET analytical center. The method resolution was 10 atomic %, with standard deviation 0.15 -0.30 for different elements.
+
+
+3. THE INVESTIGATION OF CATHODE MATERIAL COMPOSITION
+
+For cathode material element and isotopic composition investigation X-ray microprobe (SEM "Hitachi S-800"
+with Link Analytical "LZ-5" detector) was used (A.D. Senchukov's group, SIA "Luch"), and secondary ion
+mass-spectrometry (SIMS) in I.P. Chernov's group (Tomsk Polytechnical Institute) and in A.G. Lototski's
+group (GIREDMET). Impurities in discharge environment (Mo, SiO , Al2O3) which could be transported
+to the cathode in the discharge were also investigated.
+As a result such elements as Na; Mg; Al; Si; S; Ca; Ti; Cr; Fe; Ni; Zn; Ge; Br; Sr; Mo can be seen in the Pd after glow discharge experiments, sometimes up to 0.1% in the upper 1 micron layer of the cathode. Especially large is the contents of Na; Mg; Br; Zn; S; Mo; Si. The last two elements can appear due to sputtering. The appearance of other elements we can't explain. Wholly unexpected is the presence of germanium. The distribution of the impurities over the cathode surface was measured by the microprobe. The comparison of the distribution with SEM photos shows that most of the impurities are localized along
+the palladium crystalline boundaries. We must note that this method resolution is about 10 % and it
+doesn't show any impurities in the initial material. Adjacent to palladium Mo-cap only silicon can be seen.
+The data on isotopic composition obtained in different groups varies and we will discuss it in our next paper.
+
+
+4. DISCUSSION
+
+Let us look at a possible nuclear reactions which can lead to heavy charged particles (A>4) formation. We can extract reactions that do not contradict known data. Reactions can be written as follows:
+A1 + A2 + A3 + .... + An 9 B1 + B2 + ... + Bn (1)
+in the left side are the reacting particles and reaction products are in the right side. As sharp peaks can be seen on charged particles spectrum, the pulse of reaction products must be fixed and there are no more than two reaction products in each act. It means that (1) can be written as:
+A1 +A2 +...+An 9B1 +B2 (2) For the discharge in deuterium with palladium cathode left side can look like: d+d; d+d+d; nd; Pd; d+Pd;
+3
+2d+Pd; 3d+Pd etc. Variant d+d in form of d(d, He)n and d(d,t)p, judging from neutron and c.p. spectra
+is not the main reaction.
+
+For nuclear reaction to take place conservation laws must take place: energy, pulse, charge, barion charge, spin, isotopic spin, evenness. The deviation from these laws usually asks for too much energy and in case of "cold" reaction can be put aside. If we put aside Coulomb barrier problem, which is the main problem for "cold fusion," it appears that there are a rather limited number of nuclear reactions for which
+conservation laws are fulfilled. The amount of possible reactions goes down dramatically it we assume that only stable isotopes are formed. This statement must be true because palladium sample's radioactivity is very weak after the experiment. Than the list of possible reactions will look like:
+46Pd 9 (36Kr + 10Ne); (35Br + 11Na); (34Se + 12Mg);
+(32Ge + 14Si); (30Zn + 16S); (28Ni + 18Ar); (3)
+(26Fe + 20Ca); (24Cr + 22Ti)
+46Pd + d - all forbidden. (4)
+Pd + 2d 9 (87Sr + 22Ne); (73Ge + 36S) (5) Pd + 3d 9 (95, 97Mo + 19F); (98-104Ru + 10B) (6)
+46
+9 (
+view the following elements can be expected in palladium: Li; B; F; Ne; Na; Mg; Si; S; Ar; Ca; Ti;
+Cr; Fe; Ni; Zn; Ge; Se; Br; Sr; Mo; Ru.
+
+The order of the energy in these reactions ~1 MeV for group (3) - fission, ~20 MeV for group (5) and ~30-40 MeV for groups (6) and (7) - "fusion-fission." For excessive heat release in our experiments
+46
+Pd + 6Li)
+It should be noted that the only allowed "catalytic" reaction is with Li formation. From this point of
+46
+(7)
+(~10kJ) this corresponds to ~10 reactions in one experiment for the sample with the volume 10 cm ,
+-4 -3
+or 10 - 10 atomic %, which is higher than resolution threshold for the most analytical methods. If the reaction takes place in a thin layer this only increases the local impurities concentration. If this layer is about 1 micron thick, reaction product concentration can reach ~0.1%.
+
+
+5. CONCLUSION
+
+In the assumption that mechanisms exist allowing to overcome nuclear barriers, fusion and fission reactions for which conservation laws are fulfilled are taken into account. The analyses of the impurities, appeared in pure palladium after glow discharge experiments, give suspicious correlation with predicted elements. The given results are still difficult to call final, but if they will be confirmed on the basis of larger statistics they will suggest a new approach to the problem. The unique role of the deuterium will be questioned because the same thing can be constructed for other gases and metals. It will also initiate the search for long-living resonances of nuclear shell of Pd, excited by inelastic scattering of discharge ions (of the type of the laser effect).
+
+
+6. REFERENCES
+
+[1.] E. Storms, "Review of Experimental Observations About the Cold Fusion Effect," 1991, Fusion Technology, 20, 433.
+[2.] A. Karabut, Ya Kucherov, I. Savvatimova, "Nuclear Product Ratio for Glow Discharge in Deuterium," 1992, Physics Letters A, 170, 265.

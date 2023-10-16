@@ -1,0 +1,331 @@
+INTRODUCTION
+
+Fleischmann, Pons and Hawkins (1) and Jones et al. (2) have reported evidence for
+nuclear fusion of deuterium electro-chemically injected into palladium. Excess heat
+generation, neutron and γ-rays emission and tritium enhancement (1) were found by the
+first group and neutron emission (2) by the second group. These results have been met
+with much skepticism, especially after several reports of negative results by other
+workers (3-5). Subsequently there have been a number of reports of excess heat
+generation (6-8) and tritium enhancement (9, 10) or both (11)
+
+The present research was motivated by the necessity for experiments under well
+defined conditions. In order to verify excess heat generation calorimetric measurements
+were done with a modified (Fleischmann-Pons) type open cell and calorimetric
+measurements with a closed cell with internal D2/O2 recombination. Some excess heat
+generation was observed. The results, however, require further evaluation and will be
+reported at a future date. Careful determination of tritium was done in electrolytic
+solution and also in the water obtained from the recombined gases outside the cell.
+Surface analysis of Pd cathode was performed and the D/Pd ratio determined. Neutron
+radiation measurements were attempted, but difficulties in making background
+corrections interfered with the interpretation.
+
+
+EXPERIMENTAL
+
+Electrodes
+Pd from several sources was used for cathodes. The rods 0.2 × 10 cm were obtained
+from Engelhard Corporation. Wire of 0.5 mm diameter and 99.9% purity, was obtained
+from Johnson Matthey - Aesar. 1 mm wire (grade A) and 4 mm rod of 99.9% purity were
+obtained from Johnson-Matthey, England. The Engelhard Pd was also used by
+Westinghouse to prepare 2 mm rods by recasting, drawing or swaging. The pretreatments used with various samples are indicated in the tables.
+Anodes were made of Engelhard's Pt ribbon or wire cages of 99.9% purity Pt or Ni foil
+(99.9%), obtained from Fischer Scientific Co.
+
+Electrolytes
+0.1 M LiOD was used as the electrolyte in all glass cells, while 0.1 M and 1 M LiOD
+were used in Ni encased cells. LiOD attacks glass, which leads to a deposition of Si and
+other constituents of glass onto the Pd. The SIMS measurements showed that even in 0.1
+M LiOD after several weeks Si could be easily detected on the Pd surface. The
+electrolytes were prepared from once distilled Norell (99.5%) or Isotech (99.9%) D2O.
+1 M LiOD was prepared from Li20 (99.9%) Cerac, Inc. in a glove bag. Upon diluting this
+stock solution, 0.1 M LiOD was obtained. Time constants did not permit yet to run blank
+experiments with LiOH electrolyte solution.
+
+Tritium Measurements
+The analyses of the solution for tritium were performed by Westinghouse Electric
+Company using liquid scintillation counting on a Packard 4030 counter. The liquid
+scintillation cocktails were prepared with OPTI-FLOUR scintillator. Typically, four
+consecutive 60 min. counts were recorded and averaged. Another precaution against any
+possible complications caused by components in the electrolyte solution was a vacuum
+distillation of the solution before tritium measurements. While this procedure minimized
+the possibility of interference effects with some constituents of the electrolyte it causes
+some loss of dissolved T2 and DT. For this reason some experiments were done without
+distillation after neutralization of the alkaline electrolyte. The electrolytic solution from
+the cells with Ni anodes was neutralized, filtered and centrifuged to remove suspended
+nickel oxide particles. Distillation was also used with a centrifuged sample which showed
+high counts in order to ensure that solid particles within the electrolytic solution were not
+responsible for the high count rate.
+
+Neutron Radiation Measurements
+The neutron detection was attempted by using two BF3 counters coupled with a
+multichannel analyzer. The authors are not satisfied that the background was adequately
+taken into account with this experimental arrangement and hence the results are
+considered inconclusive. Solid state track recorders may prove attractive for the
+measurements in the future.
+
+
+RESULTS AND DISCUSSION
+
+Tritium
+Fleischmann and Pons (1) reported enhancement of tritium concentration in the
+electrolyte as one evidence for a cold fusion of deuterium. The enhancement factor (see
+Eq. 4) is, however, close to the deuterium/tritium separation SD,T ≈ 2, as recently
+determined by Corrigan and Schneider (12). Bockris et al. (13) and Wolf et al. (14)
+reported recently enhancements of 4 to 7 orders of magnitude over the background. In
+this work we have measured tritium concentrations in open F-P cells, closed cells with
+the Ni casing and in four open cells designed for studying the tritium enhancement.
+
+In open cells a change in tritium concentration will occur due to the addition of D2O
+containing T and due to removal by electrolysis. The isotopic separation factor of T to D
+is defined as S = (nD/nT)g/(nD/nT)s
+where nD and nT are numbers of deuterium and tritium atoms in the gas (g) and the
+solution (s) phases
+It can be shown (14) that the enhancement of tritium in a cell at time (t) obeys the
+following expression nT(t)/nT(o) - S-(S-1)exp(-t/T)
+Thus, at very long times the tritium concentration in the solution due to isotopic
+separation is S times the tritium concentration in the original solution.
+
+If the recombination of D2 and O2 is carried out in the cell or outside the cell and the
+D2O returned to the cell, the change in tritium concentration in the electrolyte could be
+brought about either by having substantial tritium in the palladium or other cell
+components or by a nuclear reaction. The palladium was stripped of hydrogen and its
+isotopes by electrochemical oxidation for 24 h in LiOD solution. This treatment has
+removed any tritium that might possibly be present in the Pd samples.
+
+In all our experiments, in which an enhancement of T was observed, a long time
+electrolysis of the order of several weeks was necessary before observation of the
+increase in tritium concentration. In two open cells with Pt anodes excess tritium was
+found. These cells also were the only ones out of five which generated excess heat.
+
+Table 1 gives the cell parameters for which enhancement of tritium concentration was
+observed. In four open cells, which were designed to study tritium accumulation and
+generation, were essentially test tubes 3 cm in diameter with a Teflon cell top. Cathodes
+were 5 cm long, spot welded to a nickel ribbon as an electrical contact; 0.25 cm thick Ni
+foil was used as anode. During a long term electrolysis a black residue, most probably
+nickel oxide, accumulated in the electrolyte in only two cells. The electrolyte was filtered
+and centrifuged to remove these particles and then neutralized by HCl before
+determination of T. When large tritium counts the solution was distilled and counted
+again. In some instances (cells 1, 2) the solution was vacuum distilled and only the distillate was added to the scintillating liquid to avoid possible complications with
+various species in the solution.
+
+The results are given in Table 2. All measurements were done in four runs during
+several to 24 h. The average of 4 counts is given with the standard deviation indicated.
+The decrease in the count rates for the distilled vs. neutralized samples was negligible.
+The samples were taken in intervals of 15-20 days. According to Bockris et al. (13) after
+reaching the maximum level, the tritium content considerably decreases after a few days,
+eventually down to the separation factor. If this is applicable to our measurements, it may
+mean that we have not observed the maximum amount of tritium probably due to a low
+frequency of sampling. The calculation of the tritium concentration was done in the
+following way:
+
+The number of disintegrations per minute per ml was calculated by dividing the net
+count rate with the efficiency factor, which is 0.224 c/d for this instrument. For cells number 1 and 2 for which some excess heat generation was observed, the
+tritium level amounted to 766.43 and 1730 dpm ml-1
+respectively. *
+
+Let us compare the excess heat generated in these open cells with the amount of T
+found. If all of the energy were coming from the tritium generating reaction, D + D → T + H + 4.03 MeV (6)
+this would produce 4.03 MeV = 4.03 • 106
+eV • 1.6022 • 10-19J/eV - 6.46 • 10-13
+J/reaction.
+If 1 mW of power is produced in a cold fusion reaction, per 1 cm3
+of Pd the
+corresponding number of T atoms would be 10-3 W/(6.46 × 1013 W s/reaction) = 1.55 ×
+109
+reactions/s; i.e. 1.55 × 109
+T atoms would need to be produced. Tritium decays by the
+reaction T → 3He + β- + ν-
+where β- is a beta particle and ν- is a antineutrino. Tritium decay is, as with all radioactive
+nuclei, first order. For N atoms of T, the decay rate is 
+The decay constant, related to the half life, is (17)
+λ = 1.782 × 10-19 s-1
+
+Therefore, the observed 766 and 1730 dpm ml-1
+can account only for ~4-10 mW. Much
+smaller, but still significant, enhancement of tritium was found in the gas phase for cells
+1 and 4 after recombination of O2 with D2 and TD. Based on the separation factor one
+would expect a lower concentration of tritium in the gas phase, if tritium originates from
+the solution phase. Smaller concentrations of T in the gas phase than in the liquid phase
+were found by Bockris et al. (13) for long electrolysis times. In certain short intervals,
+e.g., one day, however, a higher concentration in gas phase was observed. The frequency
+of our measurements was not sufficient to detect such short-lived changes.
+
+In an experiment of this importance one should address the question of the
+contamination by T of materials used in the experiments. The question can be ruled out
+on the grounds that the same materials have been used for the cells that gave zero tritium
+enhancement and the necessity for the long charging of Pd before observation of T.
+Electrochemical oxidation of H, D, or T, annealing and catalytic combustion, during the
+pretreatment make unlikely the possibility that tritium came from the palladium samples
+contaminated by tritium before the experiments.
+
+
+Coulometric Determination of D absorbed in Pd Cathodes
+Metallic Pd can absorb D to form a solid PdDx solution. For cathodes equilibrated with
+air at ambient temperature and pressure, a value of x of about 0.7 to 0.8 is widely
+accepted. The reactivity of D in Pd may vary considerably with x, particularly if x
+exceeds 0.8, and therefore a coulometric determination of x was made. The working
+electrode was a coil of Pd wire (diameter = 0.025 cm, area =1.86 cm2
+, mass = 0.12 g;
+99.997%, Puratronic grade, Johnson Matthey) crimped together with the end of a gold
+wire (d = 0.05 cm; 99.9985%, Puratronic, Johnson Matthey) which served as the lead to
+the potentiostat. A three compartment electrochemical cell was used. The electrolyte, 0.1
+M LiOD was continuously and vigorously degassed with N2 (99.995%, Ultrapure,
+Matheson). The counter electrode, a Pd coil (A = 2 cm2
+), was in a chamber connected to
+the working chamber by a glass tube filled with a glass wool plug. The reference
+electrode was a reversible deuterium electrode (RDE).
+
+The working electrode was rinsed with 0.1 M LiOD and D2O electrolyte solution and
+cycled between 0.25 and 1.35 V until the steady state voltammogram shown in Fig. 1
+(dashed line) was obtained. The cell was then rinsed and refilled with fresh electrolyte
+solution and sparged with N2 gas. When the cell was left at open circuit for several days,
+it came to rest at +0.83 V, and it always returned to +0.83 V at open circuit whether it
+was offset to positive or negative potentials. When the working electrode was potentiostated at 0.83 V, no current flowed.
+
+Figure 2 shows the chronoamperometry curves for the charging of Pd with D at -0.3 V
+and discharging of D from Pd at +0.83 V. During the charging at -0.3 V, there was no
+noticeable D2 gas evolution at the working electrode. This suggests that when D is
+formed on the Pd surface at -0.3 V, initially most of the D is absorbed into the bulk Pd.
+During charging at -0.3 V, the magnitude of the current was ~10 mA in the first minute,
+gradually dropped to ~1.5 mA after 10 hours, and finally stabilized at ~0.7 mA after 1
+day.
+
+There is an inflection in the chronocoulometry charging curve at ~0.3 V (Fig. 1, bottom
+curve) after 10 h. It was also noticed that after 10 or more hours that if the N2 bubbler
+was lifted over the electrolyte solution, D2 bubbles were visible and slowly nucleating at
+the Pd surface. These observations suggest that after 10 h the charging of the Pd with D is
+nearly completed. The linear diffusion law is stated as, <x>2
+= 2 D t, with <x> being the
+mean distance traveled in time, t, with diffusion coefficient, D. An effective diffusion
+coefficient of D through Pd for the charging process, Dcharging, can be calculated by using
+t = 10 hours and <x> = 0.0125 cm (the radius of the electrode), and the value for Dcharging
+is ~2 × 10-9 cm2 s-l. The transport of D into Pd wire is more complicated than that
+represented by simple linear diffusion because during D loading the electrode would be
+modeled better as a cylinder which is slowly expanding.
+
+The endpoint of the charging process was difficult to assign since PdDx formation and
+D2 evolution can occur simultaneously as discussed above. The discharging process at
++0.83 V was easily spotted because the current goes to zero when discharge is complete.
+Although the charging of D into Pd (bottom curves in Figs. 1 and 2) took over 10 h,
+discharging of D from Pd at +0.83 V (see top curves in Figs. 1 and 2) was completed
+after ~70 minutes. Using the linear diffusion law, this endpoint suggests an effective
+diffusion coefficient for discharging D from Pd, Ddischarging, of ~2 × 10-8 cm2s1. One
+analogous feature in the discharge chronoamperometry curve, not noticeable in Fig. 1, is
+a sinusoidal ripple in the curve between 1 1/2 and 8 minutes. This ripple is possibly due
+to a sudden phase transition in the cathode from the α to β phase as it loses ~40% of the
+total 106.5 C of charge in this time interval.
+
+Several other charging potentials were tried, but the optimal charging potential was
+~ -0.3 V vs. RDE. The rate of charging Pd with D was impractically slow at lower
+overpotentials (i.e., potentials more positive than -0.25 V). On the other hand, the rate of
+charging Pd with D was not noticeably increased at greater overpotentials (i.e., more
+negative than -0.3 V), although the rate of D2 evolution did appear to increase with
+increasing overpotential. Figure 6 shows the chronocoulometry curve for loading D into
+Pd at -0.35 V (see bottom curve). Comparing this and the analogous curve in Fig. 7 for
+loading at -0.3 V, one can see that at any given time there was more total negative charge
+for the loading of -0.35 V versus at -0.3 V. Furthermore, even though the total charge
+collected at -0.35 V (-255 C) was greater than the total charge collected at -0.3 V (-142
+C), both experiments gave roughly the same total value for discharge at +0.83 V, namely
++107 C. Similarly, the total charge collected at -0.4 V was -289 C (and was accompanied
+by even stronger D2 bubble evolution), but still discharging the Pd cathode loaded this
+way gave just +122 C.
+
+The mass of the Pd in the electrode was 0.12 g which corresponds to 1.1 × 10-3 moles
+of Pd. Assuming that the positive charge collected at +0.83 V is due only to the discharge
+of D from Pd, the moles of D in Pd can be calculated from Faraday's law, moles(D) =Q(discharge)/nF, in which n is 1 for the discharge of 1 D from Pd and F is Faraday's
+constant (9.65 × 104 C/equivalent). The results are summarized in Table 3. All three cases
+indicate that there was one D absorbed per Pd atom in the electrode over this range of
+loading potentials with 0.1 M LiOD and D2O as the electrolyte solution.
+
+The loading and discharging processes were essentially reversible when the loading
+potentials were more positive than -0.4 V. When larger overpotentials, e.g., -0.6 V vs.
+RDE, were used the value of the subsequent discharge fell to ~+90 C, i.e., the
+corresponding ratio of D to Pd in the charged electrode was ~0.8. This suggests that
+charging Pd cathodes at high over-potentials (or alternatively at high constant currents)
+may result in irreversible damage to the electrode, which may prevent attaining higher
+ratios of D to Pd.
+
+
+GENERAL DISCUSSION AND CONCLUSIONS
+
+The results reported here support, to a certain extent, the claims of tritium generated in
+the electrolysis of D2O on Pd of deuterium reported by Fleischmann, Pons and Hawkins
+(1). The following conclusions have been reached:
+1. Enhancement of tritium was found in two out of five open cells with Pt-anodes and
+four out of four cells with Ni-anodes. The largest enhancement factor with respect to
+D2O is ~50. The heat level is by three orders of magnitude larger than the heat
+corresponding to the observed tritium levels.
+2. The ratio of deuterium to palladium atoms was found to be 1 for 0.25 mm wire,
+charged at E = -0.3 - 0.65 V.
+3. The neutron radiation measurements were inconclusive due to the uncertainty in
+determining the background correction.
+
+In general, on the experimental side there are, however, many questions to be answered
+in order to increase the understanding of this phenomenon. These include the
+irreproducibility and sporadicity of the phenomenon, necessity for a prolonged
+electrolysis before the excess heat or tritium production occur, the role of the
+microstructure and of the trace impurities in palladium, the difference between the
+amount of excess heat in open and closed cell, the role of surface impurities and the role
+of lithium, if any.
+
+On the theoretical side the questions appear even more difficult. Table 4 lists possible
+fusion reaction of deuterium. According to the accepted theories the evidence for fusion
+of deuterium requires, besides the heat generation, a corresponding amount of neutrons,
+tritium and 3He. The branching ratio of reaction A and B (Table 3) is approximately one.
+The cross section for reaction C is on the order of 107
+lower than for A and B (1). γ-rays
+should be observed if the reaction C occurs in the electrochemical cell.
+
+No data on electrochemically induced fusion satisfies indisputably any of these
+requirements. In order to overcome these difficulties several new mechanisms of fusion
+have been proposed. These include the mechanisms in which the energy from the reaction
+C dissipates into the lattice as heat rather than γ-photon (17, 18), or in which two
+deuterons as bosons are squeezed together in a sphere of an octahedral site (19).
+Dendrites on Pd surface have been suggested as an explanation for tritium generation,
+due to increased electric fields around the dendrite tips (13). Fracto-fusion was also
+mentioned as a possible explanation in analogy with the explanation of neutron
+generation upon fracturing LiD single crystals (19). There is, obviously, a need for more
+work in order to estimate the merits of these explanations, as well as reach a complete
+understanding of the Fleischmann and Pons phenomenon.
+
+
+REFERENCES
+
+1. M. Fleischmann, S. Pons and M. Hawkins, J. Electroanol. Chem 261 (1989) and
+Errata 263 (1989) 187.
+2. S. E. Jones, E. P. Palmer, J. B. Czirr, D. L. Decfer, G. L. Jensen, J. Thorne and S. F.
+Taylor, Nature, 338, 737 (1989).
+3. M. Goi, S. L. Rugori, R. H. France, B. J. Lund, Z. Zhao, A. J. Davenport, H. S. Isaacs
+and K. G. Lyun, Nature, 340, 29 (1989).
+4. N. S. Lewis, et al. Nature, 340, 525 (1989).
+5. D. E. Williams, D. J. S. Findley, D. H. Creston, M. R. Sene', M. Bailey, S. Croft, B.
+W. Hooton, C. P. Jones, A. R. J. Kucernak, J. A. Mason and R. I. Taylor, Nature, 342,
+375 (1989).
+6. A. J. Appleby, S. Srinivasan, O. J. Murphy and C. R. Martin, Workshop on Cold
+Fusion Phenomena, Sante Fe, May 22-25, 1989.
+7. R. A. Huggins, Workshop on Cold Fusion Phenomena, Santa Fe, May 22-25, 1989.
+8. R. A. Oriani, J. C. Nelson, S. K. Lee and J. H. Broadhurst, The Electrochemical
+Society Meeting, October, 16-20, 1989, Hollywood, Florida.
+9. N. J. C. Packham, K. L. Wolf, J. C. Wass, R. C. Kainthle and J. O'M. Bockris, J.
+Electroanal. Chem., 270, 451 (1989).
+10. P. K. Iyengar, Fifth International Conference on Emerging Nuclear Energy Systems
+(ICENESV) Karlsruhe, West Germany, July 1989.
+11. U. Landau, The Electrochemical Society Meetings, October 16-20 Hollywood,
+Florida.
+12. D. A. Corrigan and E. W. Schneider, submitted to J. Electroanol. Chem.
+13. G. H. Lin, R. C. Kainthle, N. J. C. Packham, O. Velev and J. O'M. Bockris, p. 3.
+Manuscript submitted to J. Electrochem. Soc.
+14. K. L. Wolf, N. J. C. Packham, D. L. Lawson, J. Shoemaker, F. Cheng and J. C. Wass,
+Manuscript submitted to J. Fusion Energy.
+15. D. Albolgi, R. Ballinger, V. Commoroto, X. Chen, R. Crooks, C. Fiore, M. Gaudreau,
+I. Hwang, C. K. Li, P. Linsay, S. Luekhardt, R. R. Parker, R. Petrasso, M. Schoh, K.
+Wenzel and M. Wrighton Manuscript submitted to the Journal of Fusion Energy.
+16. P. Clark Souers, Hydrogen Properties for Fusion, Energy, University of California,
+Berkely 1986.
+17. P. L. Hagelstein, Proc. of the Cold Fusion Workshop, J. Fusion Energy, in press.
+18. J. Rafelski, M. Gaide, D. Harley and S. E. Jones, Unpublished results.
+19. B. V. Deryagin, V. A. Klyuev, A. G. Lipson and Yu. T. Toporov, Kolloiidnyi
+Zhurnal, 48, 12 (1986).
+
+
+

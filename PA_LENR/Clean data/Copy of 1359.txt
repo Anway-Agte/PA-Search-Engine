@@ -1,0 +1,352 @@
+1. Introduction
+
+In this model of lattice takes place within the Coherence Theory of Condensed Matter and represents a general theoretical
+framework accepted from most of scientists that work on cold fusion phenomena. In the coherence theory of condensed
+matter [5], it is assumed that the electromagnetic (e.m.) field due to elementary constituents of matter (i.e. ions and
+electrons) plays a very important role on system dynamics. In fact considering the coupling between (e.m.) equations,
+due to charged matter, and the Scrödinger equation of field matter operator, it is possible demonstrate that in proximity
+of e.m. frequency, ω0, the matter system shows a coherence dynamics. For this reason, it is possible to speak about
+coherence domains whose length is about λCD = 2π/ω0. Of course, the simplest model of matter with coherence domain
+is the plasma system. In the usual plasma theory, we must consider the plasma frequency ωp and the Debey length that
+measures the Coulomb force extension, i.e. the coherence domain length. For a system with N charge Q of m mass
+within a volume, V , the plasma frequency can be written as
+
+ωp = Q √m N V , (1)
+
+ωp ≈ 10 eV/h. ¯
+
+In this work, we study the “nuclear environment” that it is supposed existent within the palladium lattice D2-loaded and
+at room temperature as predicted by Coherence Theory. In fact when the palladium lattice is loaded with deuterium gas,
+some peoples declared that it is possible observe traces of nuclear reactions [1–3]. For this reason, many physicist speak
+about Low-energy Nuclear Reaction (LENR). The more robust experiments tell us that in the D2-loaded palladium case
+the nuclear reactions more frequent are [3,4]:
+
+D+D → 3H+p+4.03 MeV, D + D → 4He + 23.85 MeV. (2)
+
+Thus, an experimental analysis of this phenomenon requires neutron, proton and gamma rays detectors. A brief list
+follows of detectors that are most frequently quoted in the literature. Further (n = neutron, p = proton, in parenthesis the
+probabilities of the three final branches). The first step in the reaction is the creation of a 4He nucleus with an excess
+energy of 24 MeV.
+
+This reaction has been extensively studied, mostly, through experiments performed with the help of particle accelerators, which means in quasi-vacuum and with energetic particles (>105 eV). This is quite different from the CF
+experiments, which take place in condensed matter at room temperature (energies of the order of a small fraction of an
+eV).
+
+In this work, we also propose a ‘coherence’ model by means of which we can explain the occurrence of nuclear
+reactions and their probability according to the more reliable experiments. First, we will start from the analyze of
+environment, i.e., of plasmas present within palladium (d-electron, s-electron, Pd-ions and D-ions) using the coherence
+theory of matter; finally, we will use the effective potential reported in [7,8] adding the role of lattice perturbations by
+means of which we compute the d–d tunneling probability.
+
+
+2. The Plasmas Present within No Loaded Palladium
+
+According to Coherence Theory of Condensed Matter, in a Pd crystal at room temperature the electron shells are in
+a coherent regime within coherent domain. In fact, they oscillate in tune with a coherent e.m. field trapped in the
+coherent domains. For this reason, in order to describe the lattice environment, we must take into account the plasma
+of s-electron and d-electron.
+
+2.1. The plasma of the d-electrons:
+They are formed by electrons of palladium d-shell. We can start computing:
+
+ωd = e √m ndN V (3)
+
+as d-electrons plasma frequency. As already seen in the chapter about plasmas, this value must be increased by a 1.38
+factor in the case of a real plasma, due to distribution of neutralizing charges (Pd ions, in this case).
+
+\We can understand this correction observing that formula (??) is obtained assuming a uniform d-electron charge
+distribution. But of course the d-electron plasma is localized in a shell of radius R (that is about 1 Å), so the geometrical
+contribution is
+
+ 6 π R = 1.38. (4)
+
+Labeled with ωde the renormalized d-electron plasma frequency, we have [5]: 
+
+ωde = 41.5 eV/h¯ (5) 
+
+and the maximum oscillation amplitude ξd is about 0.5 Å.
+
+2.2. The plasma of delocalized s-electrons: 
+The s-electrons are those which in the lattice neutralize the adsorbed deuterons ions. They are delocalized and their
+plasma frequency depends on loading ratio (D/Pd percentage) by means of the following formula [5]: 
+
+ωse = e √m N V  x λa , (6) 
+
+where 
+
+λa = 1 − N V Vpd (7) 
+
+and Vpd is the volume effectively occupied by the Pd-atom. As reported in [5], we have 
+
+ωse ≈ x1/215.2 eV/h. ¯ (8) 
+
+For example for x = 0.5, we have ωse ∼ 10.7 eV/h¯. 
+
+2.3. The plasma of Pd-ions: 
+Finally, we must consider the plasma due to palladium ions that form the lattice structure. In this case, it is possible to 
+demonstrate that the frequency is [5] 
+
+ωpd = 0.1 eV/h. ¯ (9)
+
+
+3. The Plasmas Present within D2-loaded Palladium
+
+We know that the deuterium is adsorbed when is placed near to palladium surface. This loading can be enhanced using
+electrolytic cells or vacuum chambers working at opportune pressure [9,10]. By means theory of Condensed Matter,
+we are assumed that according to the ratio x = D/Pd, three phases concerning the D2–Pd system exist:
+
+(1) phase α for x < 0.1,
+
+(2) phase β for 0.1 <x< 0.7,
+
+(3) phase γ for x > 0.7.
+
+In the αtphase, the D2 is in a disordered and not coherent state (D2 is not charged!). Regarding the other phases, we
+start remembering that on surface, due to lattice e.m., takes place the following ionization reaction:
+
+Dlattice → D++ e−. (10)
+
+Then, according to the loading percentage x = D/Pd, the ions deuterium can take place on the octahedrical sites or in
+the tetrahedral in the (1,0,0)-plane. In the coherence theory it is called β-plasma the deuterons plasma in the octahedral
+site and γ -plasma which in tetrahedral. Regarding to β-plasma it is possible affirms that the plasma frequency is given
+by [5]:
+
+ωβ = ωβ0(x + 0.05)1/2, (11)
+
+where
+
+ωβ0 = e √mD N V 1/2 1 λ1/2 a = 0.15 λ1/2 a eV/h. ¯ (12)
+
+For example, if we use λa = 0.4 and x = 0.5 it is obtained ωβg 0.168 eV/h¯.
+
+In the tetrahedral sites, the D+ can occupy the thin disk which encompass two sites.
+
+They present to the D+ ions a barrier. Note that the electrons of the d-shell oscillate past the equilibrium distance
+y0 (about 1.4 Å ) thus embedding the ions in a static cloud of negative charge (whose can screen the Coulomb barrier).
+So, as reported in [5], we have
+
+ωγ =  4Zeffα mDy2 0 ≈ 0.65 eV/h. ¯ (13)
+
+Of course, this frequency depends also on chemical condition of palladium (impurities, temperature, etc.). Due to
+a large plasma oscillation of d-electrons, in the disk-like tetrahedral region (where the γ -phase D+’s are located) a
+high-density negative charge condenses giving rise to a screening potential W (t).
+We emphasize that the γ -phase depends on x value and that this new phase has been experimentally observed [11].
+
+
+4. The d–d Potential
+
+In [7], it was shown that the phenomenon of fusion between many body, i.e. nuclei of deuterium in the lattice of a metal
+is conditioned by the structural characteristics, by the dynamic conditions of the system, and also by the concentration
+of impurities present in the metal under examination. In fact, studying the curves of the potential of interaction between
+deuterons (including the deuteron–plasmon contribution) in this case typical metals Pd, a three-dimensional model
+showed that the height of the Coulomb barrier decreases on varying the total energy and the concentration of impurities
+present in the metal itself. The starting potential that links like-Morse attraction and like-Coulomb repulsion can be
+written in this way [7,8]:
+
+V (r) = k0 q2 r  V (r)M − A r  . (14)
+
+In (??), V (r)M is a like-Morse potential and is given by:
+
+V (r)M = D {exp ( − 2ϕ (r − r0)) 2 exp (−ϕ (r − r0))}, (15)
+
+Here, the parameters A, ϕ and r0 depend on model. In fact the potential (??) is an effective potential whose reliability
+is demonstrated from its ability to fit the Coulomb potential for r → 0 and the Morse potential in the attractive zone. In
+this way, following Siclen and Jones [12] define ρ the point where the Coulomb potential is linked by Morse trend, r
+0 the equilibrium distance and D the well. Of course, in the free space for a D2 molecular ρ is about 0.3 Å , r0 is about 0.7 Å and D is – 4.6 eV. But within the lattice the screening effect and the deuteron–deuteron interaction by means of
+phonon exchange modify very much these parameter values.
+
+Taking into account, the role of coupling between deuteron and plasmons, in [13] the authors have numerically
+evaluated a d–d potential having the features of potential (??) with D = −50 eV and r
+0 = 0.5 Å and ρ = 0.2 Å (in [13] the authors consider only two plasmon excitations at 7.5 and 26.5 eV).
+
+Since the screening effect can be modulated by donor atoms, we have considered in [7,8] the role on impurities and
+has been demonstrated that we can put:
+
+A = JKTR (16)
+
+and
+
+B = J/ς. (17)
+
+Here, J is the impurities concentration, KT the lattice temperature, R the nuclear radius and ζ a parameter to
+evaluate by fitting.
+
+Finally, we can write the effective d–d potential in this way:
+
+V (r) = k0 q2 r  V (r)M − JKTR r  . (18)
+
+In this work, according to coherence theory of condensed matter, we study the role of potential (??) in the three
+different phases: α, β and γ . Whereas regarding the second point, the question is more complicate. In fact, the lattice
+environment is a mixing of coherent plasmas (ion Pd, electron and deuterons plasma) at different temperature, due to
+different masses, thus describing a emerging potential is very hard office. The method that in this work we propose
+is the following: considering the total screening contribution of lattice environment at d–d interaction (i.e. Vtot) as
+random potential Q(t). So in this model we can write
+
+Vtot(t) = V (r) + Q(t). (19)
+
+Of course, we assume that:
+
+Q(t)t 	= 0 (20)
+
+that is, we suppose that Q(t)(a second-order potential contribution) is a periodic potential (the frequency will be labeled
+by ωQ) that oscillates between the maximum value Qmax and 0. More exactly, the charge oscillations of d-shell produce
+a screening potential having an harmonic features:
+
+eV(r) = −Zd ke2 2a0 r2. (21)
+
+In [5], putting Zd = 10/3 and a0 = 0.7 Å, it is evaluated a screening potential V0 of about 85 eV. In this way, we can
+compute ρg V0/26.9 and at last ρ = 0.165 Å.
+
+To summarize, we can have the following cases in a palladium lattice according to loading ratio.
+
+4.1. α-Phase:
+In phase αsghe deuterons are in a molecular state and the thermal motion is about:
+
+0.02 eV < hω¯ α < 0.1 eV.
+
+This phase takes places when x is less than 0.1, and since W (t) is zero, the d–d potential is
+
+V (r) = k q2 r  VM(r) − J hω¯ α R r  . (22)
+
+Expression (??) has been partially evaluated in a previous paper [7] but in that case we was interesting only to the
+dependence of tunneling probability on impurities present within lattice. In this work, we examine the correlation
+between potential features and loading ratio. In the paragraph 5 we will show some numerical results.
+
+4.2. β-Phase:
+When x is bigger than 0.1 but less than 0.7, the phase β happens. The interaction takes place between deuteron ions
+that oscillate by following energy values:
+
+0.1 eV < hω¯ β < 0.2 eV.
+
+In this case, W (t) is zero, so the potential is given expression (??):
+
+V (r) = k q2 r  VM(r) J hω¯ β R r  . (23)
+
+Comparing expressions (??) and (??) seems very clear that the weight of impurities is more important in the β-phase.
+Of course, this conclusion is in according to the previous papers [7,8], where we studied the role of temperature on
+tunneling effect.
+
+4.3. γ -Phase:
+Finally, when the loading ratio is higher than 0.7, the deuteron–palladium system is in the phase γ .
+
+This is the more interesting case. The deuterons undergo the screening due to d-electrons shell, so we suppose
+that the d–d potential must be computed assuming that the well present in potential 14, due to Morse contribution,
+disappears. In fact if we use a classical plasma model where are the D+ ions the positive charge and the d-electrons the
+negative, it is very reasonable suppose that we must use the following potential:
+
+V (r, t) = k q2 r  VM(r) J hω¯ γ R r  + Q(t). (24)
+
+We emphasize that Q(t) is a not known perturbative potential. About it we can only say that:
+
+Q(t)t ≈ Wmax√2 . (25)
+
+As said previously, we suppose that it is the screening potential due to d-electrons and its role is that to reduce the
+repulsive barrier, i.e. ρ and r0.
+
+In next evaluation, we put
+
+Q(t)t ≈ 85 eV. (26)
+
+
+5. Results and Discussions
+
+Now we present the d–d fusion probability normalized to number of events per second regarding the d–d interaction in all
+different phase. More exactly we compare the fusion probability in the phases α, β and γ at varying of energy between
+–50 and 50 eV. We also consider the role of d-electrons screening as perturbative lattice potential. This treatment, which
+interests only the case where Q(t) is different from zero, involves that we change the value of point on the x-axes where
+the Coulomb barrier takes place and, in this case, the final result is that the screening enhances the fusion probability.
+In order to evaluate the fusion rate (), we applied this formula:
+
+ = A. (27)
+
+In this case, the Morse potential will be
+
+V (r)M = D exp (−2 ϕ (r − r0)) 2 exp (ϕ (r − r0)),
+
+E1 = a few eV,
+
+E2 = −D  1 − γ h¯ √2µ D  ν + 1 2 2 , 
+
+E3 ∼  me MN  E1∼ 1 1000 eV, 
+
+E4 = D
+
+where γ is the constant of anharmonicity of the metal and ν is the vibrational constant. Another important quantity is
+D, which is the depth of the potential well: D this is Morse potential
+
+Now an energy tensor Eij can be built:
+
+E11 = E1, E22 = E2, E33 = E3, E44 = E4, Eij = Ei − Ej , Eij = −Ej i.
+
+Thus, a square quadratic energy value can be determined.
+
+For this case, we assumed a Morse potential as the most realistic.
+
+I ≈ e2πZaZX / 4πε0 h ν ¯
+
+is the Gamow factor and A is the nuclear reaction constant obtained from measured cross sections (value used
+was 1022 s−1).
+
+Figure 1. Features of V (r) and V (r) + Wmax/√2.
+
+The probability partial reaction that takes into account the factor penetration of the barrier, with  Gamow factor.
+Furthermore, the potential can be considered adiabatic to a very good approximation. In fact, the adiabatic parameter
+h(I/V (R))( ¯ dV(R)/dt) < 0.1 eV, which is much smaller than the plasmon energies (or other typical electron excitation
+energy).
+
+To have an estimate of the consequence of this result on the d–d fusion rate, let us model the deuterons inside
+palladium as a classical gas interacting through the total conservative potential depicted in Fig. 1 (full line), at a
+temperature T .
+
+From the point of experimental view, in the cold fusion phenomenology, it is possible to affirm that there are three
+typology of experiments [14]:
+
+(1) those that have given negative results,
+
+(2) those that have given some results (little detection signs with respect to background, fusion probability about
+10−23 using a very high loading ratio
+
+(3) those that have given clear positive results as Fleischmann and Pons experiments.
+
+Nevertheless, we think that the experiment like 3-point are few accurate from a point of experimental view. For
+this reason, we believe that a theoretical model of controversial phenomenon of cold fusion, must explain only the
+experiments like points 1 and 2. In this case need consider the role of loading ratio on the experimental results. Now,
+let us begin from α-phase. It is possible affirms that if we load the deuterium with a percentage x < 0.2 we do not
+observe any fusion event! The same absence of nuclear phenomenon is compatible for a loading ratio of about 0.7.
+Since in this case the predicted fusion probability is less than 10−42. These predictions, of course, are in agreement
+to the experimental results. But for x > 0.7 a set of valid experiments on cold fusion report some background spikes
+(e.g. see [6]). The remarkable result of our model is that in the γ -phase, as shown in Table 3, we can really observe
+some background fluctuations, since we predict a fusion probability about 10−22 due to a very high loading ratio. This
+represents a new result with respect to [7,8] since, in those cases, the fusion probability was independent on loading
+ratio. To conclude we shown that the model proposed in this paper (which unify nuclear physics with condensed matter)
+can explain some anomaly nuclear traces in the solids. Regarding the experiments at point 3 supposing that they could
+
+Figure 2. xxx.
+
+Figure 3. Interaction potentials in eV as a function of d–d distance R in Å
+
+be real, we would invocate other contribution as micro-deformation occurrence in order to explain the very high fusion
+rate. The role of micro-crack and of impurities linked by loading ratio will be explored in other speculative works. May
+be the nuclear physics within condensed matter will be a new very productive scientific topic.
+
+
+References
+
+[1] G. Preparata et al., Glasses: A New View from QED Coherence, MITH-98/9,
+http://arxiv.org/abs/cond-mat/9906395v1
+[2] G. Preparata, Bose–Einstein vs. Electrodynamic Condensates: The Question of Order and Coherence, MITH-98/8,
+http://arxiv.org/abs/cond-mat/9812018v1
+[3] G. Preparata, A Tale of Two Condensates: the Odd Bose–Einstein Condensation of
+atomic Hydrogen, MITH-98/10, http://arxiv.org/abs/cond-mat/9812011v1
+[4] Melvin H. Miles et al., Fusion Technol. 25 (1994) 478.
+[5] G. Preparata, QED Coherence in Matter, World Scientific, Singapore, 1995.
+[6] S. Aiello et al., Fusion Techno. 18 (1990).
+[7] F. Frisone, Fusion Technol. 39 (2001) 260.
+[8] F. Frisone, Fusion Technol. 40 (2001) 139.
+[9] M. Fleishmann and S. Pons, J. Electroanal. Chem. 261 (1989) 301–308.
+[10] A. De Ninno et al., Europhys. Lett. 9 (??) (1989) 221–224.
+[11] G. Mengoli et al., J. Electroanal. Chem. 350 (1989) 57.
+[12] C. DeW Van Siclen and S. E. Jones, J. Phys. G. Nucl. Phys. 12 (1986).
+[13] M. Baldo and R. Pucci, Fusion Technol. 18 (1990) 47.
+[14] D. Morrison, Physics World, 1990.
+

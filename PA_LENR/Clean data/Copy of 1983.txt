@@ -1,0 +1,72 @@
+1. Introduction
+
+Previous experiments were carried out to clarify possible mechanism involved in the initiation of nuclear transmutation reactions in the solid-state cathode of a high- current glow discharge. The experimental results showed that the character of the detected x-ray radiation differed essentially from known x-ray emission types. Such results are significant, and we have been motivated to pursue the problem further.
+
+
+2. Experiment scheme
+
+The experiments were carried out with a high-current glow discharge, using deu- terium and hydrogen. The cathode samples (made of Pd and other metals) were placed on the cathode holder below an output window for penetrating radiation. The window was covered by a 15 μm thick Be foil for protecting the detectors against optical and ultraviolet radiation. A pulse-periodic power supply with a rectangu- lar current pulse shape was used to drive the glow discharge. The duration of the discharge current pulses was 0.27–10.0ms, and the time between impulses was 1.0– 100ms. The discharge was carried out in D2, Xe, and Kr. X-ray recording was carried out using thermoluminescent detectors, x-ray film placed above the cathode at various distances, and scintillation detectors supplied with photomultipliers.
+
+We used scintillation detectors (with photomultipliers) to study the charac- teristics of the penetrating radiation in space and in time. The signal from the photomultiplier was transferred to a fast preamplifier (with an amplification con- stant of k = 7) and then to the two-channel computer digital oscilloscope (with a frequency resolution of 50 MHz per channel). Organic scintillators based on poly- methylmetacrelate (PMMA) (with a luminescence time of 3–5ns) were used. The time resolution of the entire path from the photomultiplier to the oscilloscope deter- mined experimentally to be 70–80ns. Electrical pickup was absent in all the path from the photomultiplier to the oscilloscope, as was checked during special experi- ments using a light-absorbing shield installed between the photomultiplier and the scintillator. Electrical noise was observed only when passing the leading edge and trailing edge of the rectangular current pulses feeding the glow discharge.
+
+Three different ways of assembling the discharge chamber (with a channel for extracting the radiation) were used as shown in Fig. 1. In the first variant (Fig. 1a), the scintillator detector (and photomultiplier) was placed at a distance of 21cm from the cathode surface. The channel diameter for extracting the radiation was 1.7 cm. In the second variant, the scintillator-photomultiplier detector was placed at a distance of 70cm from the cathode; in this case, the diameter of the channel for extracting the radiation was 3.2 cm (Fig. 1b). For determining the penetrating radiation type, a third variant of the experimental assembly (included a magnetic system consisting of a constant magnet and an elliptic iron magnetic circuit as shown in Fig. 1c) was used. The axis of the poles of the magnetic system was at a distance of 35cm from the cathode, perpendicular to the axes of the radiation extraction channel. The magnetic field strength in the gap between poles was 0.2 T.
+The intensity of the luminous flux from the scintillator in the mode of generating the x-ray laser beams was approximately 1000 times (and more) as much as the intensity of the luminous radiation of the scintillator in the mode of diffusion bursts. In this case, a light-absorbing filter attenuating the luminous flux by 50 times was installed between the scintillator and photomultiplier.
+
+
+3. Procedure and results for diffusion x-rays bursts
+
+Procedures for measuring and recording were developed and applied to the two modes of x-ray emission: diffuse radiation bursts, and x-ray generation as laser mi- crobeams. The intensity of the luminous flux from the scintillator in the beam mode was approximately 1000 times as much as the intensity of the luminous radiation of the scintillator for bursts in the diffusion mode. In this case, the amplification constant of the radiation recording system was changed by modifying the supply voltage of the photomultiplier, and by changing the amplification constant of the oscilloscope. During some experiments, the light-absorbing filter attenuating the luminous flux coming to photomultiplier was installed between the scintillator and photomultiplier. Two types of the filters attenuating the luminous flux (by 50 times, and by 2500 times) were used.
+
+The x-rays energy and intensity were determined in the case of the diffusion mode. The dependence (calibration) of the x-ray intensity (power associated with an exposure x-ray dosage) on the output signal of the scintillator-photomultiplier was determined during glow discharge experiments when both the scintillator- photomultiplier and thermoluminescence detectors were used.
+The thermoluminescence detectors, in the form of disks with a diameter of 5 mm and thickness of 1 mm, were arranged in the holes of the special housing cartridge at a distance of 11 cm from the cathode. A set of beryllium foils (with thickness of 15, 30, 60, 105, 165, 225 and 300 μm) was arranged in the housing holes on the side of the radiation input (where foils of different thickness were arranged in each hole). Two thermoluminescence detectors were placed outside the chamber for recording the background value of the radiation dose. The thermoluminescence detectors were exposed during the experiment (up to 2300s), and then the dose absorbed by each detector during exposure was determined. The x-ray associated power was determined by dividing the dose amount by the period of the experiment. The power per unit mass absorbed by the detector (in the solid angle in the direction from the cathode) was determined as the exposure dose power divided by the detector mass. The determination of the x-ray energy was made by changing the radiation dose absorbed by the thermoluminescence detectors with Be shields of various thickness.
+
+The x-ray intensity (number of photons per second) incident on the detector was determined by dividing the radiation energy absorbed by the detector by the energy of an x-ray photon. Further, the intensity falling on a detector was given to 2π solid angle. For the scintillator-photomultiplier detector, the relative intensity of the x- rays was defined as the sum total of the amplitudes ΣAi for all of the x-ray bursts within a time interval of 1 s (Fig. 2). Then the relative intensity was converted to a physical magnitude by the intensity value measured by the thermoluminescence detectors.
+
+Experiments made with the system of the scintillator-photomultiplier detector and shields made of beryllium foil (with thickness of 15 and 30 μm) gave an estimate of the x-ray energy value of Ex-ray ≈1.5keV, which was well matched the result from the thermoluminescence detectors. This is shown in Fig. 2.
+
+The dependence of the radiation intensity on the distance was determined using the experimental arrangements shown in Fig. 1a,b. An increase in the distance between the scintillator-photomultiplier detector and the cathode from 21cm to 70 cm resulted in a decrease in the radiation intensity faster than would be expected according to a 1/r2 law (Fig. 3). Such result could be explained by the fact that the radiation pattern of separate bursts had an elliptic shape with a narrow angular orientation.
+
+
+4. Results for x-ray laser beam bursts
+
+Generation of x-ray laser beams occurred under precise fixed discharge parameters and conditions:
+(1) Beam generation occurred only in the presence of a pulse-periodic current (there is no x-ray beam generation under direct current operation, whereas x-ray bursts of the diffusion radiation occured also with direct current).
+(2) Some critical parameters associated with beam generation were the gas pressure of PGD (in the discharge chamber) and the discharge voltage UGD. The x-ray beam generation occurred for PGD < PGDcrit, and UGD > UGDcrit. Minor changes in the discharge pressure, and in the discharge voltage, would result in beam generation (for example, the pressure the change was ∆PGD = 0.2–0.3 Torr, and the voltage change was ∆UGD = 30 to 50 V).
+(3) These (critical) parameters were different for various cathode materials (e.g. when using a Pd cathode, x-ray laser generation occurred at a pressure twice as high as when using a Ti cathode.
+(4) The parameters for the occurence of x-ray laser generation also depended on the (plasma-forming) gas.
+(5) During operation, the beam intensity decreased in due course (obviously because of a degradation of the cathode surface), and stopped completely in the course of time. This phenomenon was especially well observed for cathode materials with a large coefficient for material sputtering in the discharge plasma (e.g. Al, Pd, Pb).
+
+The x-rays as laser beams consisted of separate beams, presumably; each having a small diameter (up to 106–109 photons in a beam). These magnitudes were obtained in assumption that the scintillator-photomultiplier detector operated in a linear regime, taking into account the reduction in the magnitude of the amplifica- tion constant of the path when recording the x-ray laser radiation. The x-ray laser beam emission occurred during the discharge, and for 100 ms after the current was turned off. At the specific parameters of the discharge the generation of the x-ray laser beams was observed only some milliseconds later after turning off the discharge current (up to 20–30 beams after each current pulse). The time oscillograms type of the generated beams depended on the type of (plasma-forming) gas (Fig. 4), and on the cathode metal used (Fig. 5). In this case, the amplification constant of the recording path was enough large so that the upper part of pulses was cut off by the amplifier discriminator. The true form of the radiation pulses was observed using the light-absorbing filter, which reduced the luminous  flux from the scintillator to the photomultiplier a factor of 2500 (Fig. 6).
+
+Estimates for x-ray laser beam divergence was carried out in experiments that used experimental configurations as shown in Fig. 1a,b. An increase of the distance from the cathode to the scintillator-photomultiplier detector from 21 cm to 70 cm (Fig. 7) resulted in an insignificant reduction in the signal. These results proved to be true when using a 50× optical filter (attenuator) between the scintillator and photomultiplier (Fig. 8).
+Experiments carried out with a cross magnetic field showed that the radiation had two components (Fig. 1c). The x-ray laser beams did not diverge in the mag- netic field, and were recorded by the scintillator-photomultiplier detector. The other part of the radiation did not hit on the detector (in the presence of the magnetic field). Hypothetically, this part of the radiation was fast electrons with an energy of ≤0.5 MeV. The fast electron beams can be formed when primary x-ray laser beams interact with the walls of the channel for extracting the radiation.
+The track images of the x-ray laser beams were obtained using x-ray film placed above the cathode at various distances. The diameter of the laser beams tracks was 6–10μm at a distance of 100mm from the cathode; and up to 20–30μm at a distance of 210mm (Fig. 9). The high intensity of the radiation, and the process of photoemulsion solarization, gave the tracks a positive image. The angular di- vergence of each beam was estimated to be up to 10−4 (from the results of tracks diameter measurements at the various distances from the cathode).
+
+
+5. Discussion
+
+The features of the x-ray emission recorded during these experiments are the fol- lowing:
+• The x-rays leave the solid-state medium of the cathode material.
+• The intensity of the x-rays increases by 5–6 times when the discharge voltage is
+increased by 1.3–1.4 times.
+• The x-rays energy is not changed essentially in this case.
+• The x-ray emission occurs within 100 ms after turning off the discharge current.
+The results obtained constitute a direct experimental proof of the existence of ex- cited metastable energy levels, with the energies in the range of 1.5–2keV in the solid cathode sample. These excited metastable levels are presumably formed in the volume of separate crystallites. These excited metastable levels exist for a time of ∆τmst (up to 100 ms, and more). Then the destruction of these levels by relaxation takes place, accompanied with the emission of x-rays and fast electrons. Beams generation occurs in the solid-state cathode medium, presumably from a single pass of amplification. In this case, the duration of the beams should be on the order of 10−11–10−13 s.
+
+A clarification of the physical mechanism for the formation of these levels re-
+quires the additional research. The existence of one of the two following possible physical phenomena can be assumed:
+• Excitation of the interior L and M electronic shells without ionization of the outer electrons.
+• Vibrational deformation of the electron-nuclear system of the solid ions. The core of electronic shells is displaced relative to a nucleus, forming a dipole (an optical polar phonon). The frequency of this formed phonon is much greater than the plasma frequency in a metal.
+
+
+
+6. Conclusion
+
+The experimental research of this fundamental phenomenon has allowed to create an essentially new type of the device: “The x-ray solid-state laser,” with a wavelength of 0.6–0.8 nm, with a duration of individual pulses on the order of 10−11–10−13 s, and with a beam power in the pulses up to 107 W.
+
+
+7. References
+
+1. A.B. Karabut, Research into powerful solid x-ray laser (wavelength is 0.8–1.2 nm) with excitation of high current glow discharge ions, in Proceedings of the 11th International Conference on Emerging Nuclear Energy Systems, 29 September–4 October 2002, Al- buquerque, New Mexico, USA, pp. 374–381.
+2. Richard B. Firestone, Table of Isotopes, Eighth Edition, Vol. 2, Appendix G-1, John Wiley & Sons Inc., New York (1996).
+3. Raymond C. Elton, X-Ray Lasers, Academic Press Inc. (1990).

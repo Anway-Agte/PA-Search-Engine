@@ -1,0 +1,142 @@
+Objective
+
+The goal of this study is to explore in greater detail the publication patterns associated with unsuccessful or failed information epidemics, using the Polywater and Cold Nuclear Fusion research literatures as case studies. Of particular interest is identification and examination of the features or indicators that make these two failed epidemics different from the publication pattern of normal or non-epidemic science. In turn the findings will serve as a basis for making generalizations about the distinctive features of unsuccessful information epidemics beyond these two examples.
+
+It is important to note at this point what this study is not. It is not a citation analysis of the Polywater or Cold Nuclear Fusion literatures. It is not a history of Polywater or Cold Nuclear Fusion research and the controversy that surrounded each. The Polywater phenomena is analyzed by FRANKS (1981), while the Cold Fusion controversy is examined by many authors representing many different perspectives (e.g. MALLOVE, 1991; LEWENSTEIN, 1992; BEAUDETTE, 2000; SIMON, 2002). Neither is this study an evaluation or an assessment of the various truth claims made by the participants in these two controversies. Nor is it concerned with examining the existence and nature of pathological science, or its applicability to either the Polywater or Cold Nuclear Fusion phenomena.
+
+
+Literature review
+
+TABAH (1995a, 1995b, 1996) presents a model of information epidemics in physics that includes the features considered part of an unsuccessful information epidemic. These features are the presence of seminal publications that report an exciting or sudden discovery, a rapid influx of researchers who in turn publish prolifically, triggering the epidemic literature growth. When the seminal discovery is rejected, the flow of researchers and publications is reversed until it ceases altogether.
+
+FRANKS (1981) analyzes the communication patterns in his book on the Polywater controversy. He notes several features of the Polywater literature that makes it distinct from its normal scientific counterparts: seminal papers, rapid influx of researchers, research involving not one but “several very different disciplines” (p. 125; reported as well by MCALLISTER (1992) for Cold Nuclear Fusion), abnormally prolific or epidemic pattern of publication, and an overwhelming preference for the publication of short communications in rapid communication journals, such as multidisciplinary journals such as Nature or letter journals such as Physical Review Letters. These journals publish issues more quickly and frequently than other regular journals with a slower, less frequent publication schedules such as the Journal of Physical Chemistry and Applied Optics.
+
+BENNION & NEUTON (1976) report an epidemic growth pattern for the Polywater journal literature, similar to the one described by FRANKS (1981, Figure 9, p. 120 and Figure 10, p. 128). It also resembles the epidemic publication pattern reported by LEWENSTEIN (1992, especially Table 5, p.161) for selected technical publications (mainly journal articles) of the Cold Nuclear Fusion literature. LEWENSTEIN’s (1992) work is based in part on BRITZ’s (2004) ongoing bibliography of the Cold Nuclear Fusion literature, which includes a graph of the monthly publication rate (BRITZ, 2003). This later graph shows a period of rapid epidemic growth similar in shape to that reported by BENNION & NEUTON (1976), FRANKS (1981), and LEWENSTEIN (1992).
+
+MEADOWS & O’CONNOR (1971) studied the first two years of the pulsar literature (1968–1969), a period of initial rapid epidemic growth similar to an unsuccessful information epidemic. They reported distinctive features such as seminal papers, publication in journals noted for rapid publication (e.g., Nature), and an increase in multi-authorship per publication. The later facet was also reported by BUDD & HURT (1991), who concluded from their study that multiple authorship is one of the indicators of research at a fast moving research front.
+
+Taken together then, the following characteristics are identified as indicators of the publication patterns of unsuccessful information epidemics:
+1. Presence of one or a small group of seminal papers
+2. Rapid influx of numerous researchers who publish prolifically
+3. Several distinct disciplines represented
+4. Epidemic growth and decline of publications
+5. Predominance of short communications published in rapid communication journals 6. Increase in multi-authorship of publications
+
+
+Methods
+
+Each of information epidemics under study, Polywater and Cold Nuclear Fusion, are viewed as a research specialty or field, albeit short-lived ones. DE MAY (1992) suggests that the boundaries of a research field can be defined through the compilation of a bibliography of its literature by an expert or practicing scientist in the field, which bestows a certain amount of validity on the items included and hence on the delineation of the specialty’s boundaries. For this study then the boundary of the Polywater specialty is defined by the Composite Polywater Bibliography (ACKERMANN, 2003), while the Cold Nuclear Fusion field is defined by the Cold Nuclear Fusion Bibliography (BRITZ, 2004). The former is bibliography based on GINGOLD’s (1973) extensive review article, augmented where needed by publications listed in ALLEN (1971), PRION (1973), LEHMANN (1975), and HISTCITE (2003). The later bibliography is an ongoing work compiled by the German chemist BRITZ (2004).
+
+The level of analysis for this study is the research literature or publication record, using the individual journal publication as the unit of analysis. TABAH (1996) indicates that using only the journal literature one can track an information epidemic. This assumes that the journal publications will accurately represent those of the parent information epidemic. To determine how representative journal publications are of the information epidemics under study, the frequency of publications in the Polywater (ACKERMANN, 2003) and Cold Nuclear Fusion (BRITZ, 2004) bibliographies were analyzed by journal and non-journal publications. The results show that all journal publications account for 83% of the Polywater literature and 96% of the Cold Nuclear Fusion literature, while those in journals covered by the Science Citation Index (SCI) account for 67% and 69% of their respective literatures (see Table 1). For this study then the publications in SCI indexed journals are considered representative of their respective literatures, and will proved the data used for analysis, making it comparable to the comparative benchmark data drawn from the SCI.
+
+The time frame selected for each case study is based two factors. The first factor is the publication date of the earliest seminal paper(s), which determined the starting point for both failed information epidemics: for Polywater, 1962 (FRANKS, 1981), for Cold Nuclear Fusion, 1989 (LEWENSTEIN, 1992). The second factor is the point in time or year in which the information epidemic is considered to have run its course by failing to develop into a knowledge epidemic. For Polywater, the termination date is 1974, the last year any papers were published on the subject (ACKERMANN, 2003). For Cold Nuclear Fusion, the terminal date is less clear, as papers are still being published on the subject (now known as anomalous power (BEAUDETTE, 2000), low energy nuclear reactions or chemically assisted nuclear reactions (STORMS & ROTHWELL, 2004), though in gradually decreasing numbers (for more on this problem, see SIMON, 2002). The year 2001 is used as an arbitrary end date for the Cold Nuclear Fusion information epidemic in order to give both the epidemics a comparable length of time, thirteen years.
+
+The Composite Polywater Bibliography (ACKERMANN, 2003) and the Cold Nuclear Fusion Bibliography (BRITZ, 2004) serve as the source of journal publications for their respective literatures. Frequency counts were manually gathered and entered into a spreadsheet program. Any duplicate entries, works from the popular press (newspapers and magazines), and popular science magazines are excluded from the data set. Papers published in non-English journals and in their English language counterparts, such as KOLL ZH and COLLOID J R, are considered separate documents, each possessing an individual publication history. The names of journals indexed by the SCI are recorded
+by their SCI abbreviations, and any inconsistent abbreviations standardized. Other journal names were left as they appear in their respective bibliographies. Spellings of authors are standardized as well.
+
+Since the goal of this study is to determine which indicators make the failed information epidemic literatures distinctive from normal scientific ones, benchmark data will be required for comparative purposes where ever appropriate and available. The primary source of benchmark data for this study is the SCI. In each of the first volumes of the print edition, the SCI provides a “Comparative Statistical Summary” (e.g., INSTITUTE FOR SCIENTIFIC INFORMATION, 1998, pp. 58–64) that contains a variety of statistical data useful for creating analog benchmarks of normal science. The assumption here is that for this study the presence of both fast (epidemic) and normal literatures in the SCI will balance out, particularly since instances of epidemic growth are relatively rare (TABAH, 1996). This in turn produces an “average” overall view of the growth of scientific literatures.
+
+The data was gathered manually from the print version of the SCI covering 1962- 2001 and entered into a spreadsheet program (INSTITUTE FOR SCIENTIFIC INFORMATION, 1971, 1976, 1984, 1998). Unfortunately, the SCI statistical summaries are inconsistent in the use of data reporting categories. For example, the data for one of the SCI categories “Total Number of Source Authors” was unreported for the years 1966-1979, requiring the interpolation of the missing values (for more detail, see Table 2). Therefore any missing SCI benchmark data was interpolated or extrapolated as needed. While this may introduce some degree of error in the accuracy of the benchmark metric values, the results do not seem to vary from the extant data trends to warrant exclusion or omission.
+
+These metrics are designed to measure the indicators of an unsuccessful information epidemic uncovered in the literature review, applied to data from the Polywater and Cold Nuclear Fusion journal literatures (see Table 2). If possible, they will be measured for yearly values as well as for the period as a whole, in order to see if the pattern of yearly fluctuations reflects the epidemic growth well or not. Where possible, a metric or measure of normal scientific literature growth will be found against which to compare each metric of information epidemic.
+
+The data analysis will consist of descriptive statistics using tables and graphs to characterize the data and illustrate any patterns.
+
+
+Findings
+
+Indicator 1. Presence of seminal paper(s):
+Seminal papers are present for both the Polywater and Cold Nuclear Fusion information epidemics. Polywater has five seminal works: FEDYAKIN, 1962a, 1962b; DERY AGIN & FEDY AKIN, 1962a, 1962b; LIPPENCOTT et al., 1969 (FRANKS, 1981; ACKERMANN, 2003), and Cold Nuclear Fusion two: FLEISCHMANN et al., 1989a, 1989b (LEWENSTEIN, 1992; BEAUDETTE, 2000). The Polywater seminal papers include an initial group of four papers by Soviet scientists N.N. Fedyakin and B.V. Deryagin that experienced delayed recognition due to being published in non-English language (Russian) journals during the Cold War era of American–Soviet political rivalries. Only when the fourth paper was published by a group of American scientists (LIPPENCOTT et al., 1969) confirming the discovery of Polywater did the original Russian papers began to receive increased notice and the period of epidemic growth began (FRANKS, 1981). The seminal papers for Cold Nuclear Fusion, on the other hand, were widely publicized, causing an immediate epidemic growth in the literature (LEWENSTEIN, 1992).
+
+Indicator 2. Rapid growth/decline in the number of publishing researchers:
+This observation is confirmed for both information epidemics under study by an examination of Figure 1 and Figure 2. The growth of publishing researchers for both Polywater and Cold Nuclear Fusion is almost identical to the epidemic growth pattern for the journal publications.
+
+Indicator 3. Several distinct disciplines involved:
+Both the Polywater and the Cold Nuclear Fusion show the participation of more than one distinct discipline, with no one discipline dominating the research publication effort. Eighty-five percent of the Polywater journal publications fall into five subject areas (see Table 3), while five subject areas contain 71% of all the Cold Nuclear Fusion journal publications (see Table 4). In neither case does any one of these subject areas have more than 40% of the total journal publications.
+
+
+Indicator 4. Epidemic growth/decline in the number of publications:
+Both the Polywater and Cold Nuclear Fusion journal literatures exhibit episodes of epidemic growth and decline. The publication patterns seen for Polywater in Figure 1 and for Cold Nuclear Fusion in Figure 2 are very similar to those drawn by FRANKS (1981), BENNION & NEUTON (1976), LEWENSTEIN (1992), and BRITZ (2003.)
+
+Indicator 5. Predominance of publications in rapid communication journals:
+In neither the Polywater nor the Cold Nuclear Fusion journal literatures did the rapid communication journal publications dominate (see Figure 3 and Figure 4.) The frequency of rapid communication journal publications in the Polywater literature exceed regular journal publication by a narrow margin in only three of the thirteen years, 1965, 1969 and 1970. In the Cold Nuclear Fusion literature, the number of rapid communication journal publications provided a relatively small number of the total journal publications, and never came close to matching or exceeding the publication frequency of regular journals publications.
+
+Indicator 6. Increased multi-authorship:
+There was no overall increase in journal publication multi-authorship in either the Polywater or Cold Nuclear Fusion journal literatures (see Figure 5 and Figure 6.) Multi- authorship in the Polywater journal literature only exceeded the SCI benchmark values in three of the thirteen years, 1965, 1968, and 1973. As for the Cold Nuclear Fusion journal literature, multi-authorship exceeded the SCI values in five of the thirteen years under consideration: 1989, 1990, 1991, 1995, 1996.
+
+
+Conclusions and discussion
+
+It appears then that only indicators 1-4 are distinctive of failed information epidemics. Indicator 1 (Presence of seminal papers) is almost tautological. By definition, without them there is no interest and excitement to drive the frenetic pace of research and publication that creates the information epidemic. With them, there is. What is not clear, however, is how long the influence of the seminal papers remains in the literature of a failed information epidemic (or a knowledge epidemic for that matter. How soon does their influence fade over the course of an epidemic? Or does it?).
+A citation analysis of these papers, perhaps using the HistCite software (GARFIELD, 2004), would shed some light on the impact of seminal papers over time on the course of a failed (or successful) epidemic literature.
+
+In general Indicator 2 (Rapid growth/decline in the number of publishing researchers) and Indicator 4 (Epidemic growth/decline in the number of publications) appear to vary together, experiencing similar ups and downs over the life of the Polywater and Cold Nuclear Fusion literatures (see Figure 1 and Figure 2). Indicator 4 is the most strongly supported by the results of this study as well as those reported in the literature. Given this strength and its relationship with Indicator 2, it might be useful in future studies to consider using only Indicator 4 to represent them both.
+
+The utility of Indicator 3 (Several distinct disciplines involved) is supported by the results of this study as well (see Table 3 and Table 4). However, with no benchmark metric of normal scientific literature growth to compare it to, coupled with the well- known overall rise of interdisciplinary scientific research as the norm not the exception (e.g., BORDONS & GOMEZ, 2000), its usefulness as an indicator of failed epidemic literatures is still in doubt. More work will be needed before this point is clarified.
+
+Indicator 6 (Increased multi-authorship) seems to exhibit no distinctive pattern, either of failed epidemics as predicted by the literature review or of normal scientific publication patterns. Against the backdrop of rising multi-authorship as the norm in scientific publication (e.g., BUTLER, 2001), it can probably be safely dropped from any future consideration as an indicator unique to failed information epidemics.
+
+The findings for Indicator 5 (Predominance of publications in rapid communication journals) present a mixed picture. On the one hand, they were a minor part of the journal publications in the Cold Nuclear Fusion literature, which argues against Indicator 5’s utility. On the other hand, they were the majority of journal publications in three years of the Polywater literature as well as providing a significant portion of the overall yearly average. More importantly, publications in rapid communication journals were dominant in the first two years of the epidemic phase of the Polywater literature, the years of epidemic growth. In addition, though not dominant, the greatest frequency of rapid communication journal publications occurred in the first epidemic years of the Cold Nuclear Fusion journal literature. Perhaps then the importance of Indicator 5 lies in the growth years of an epidemic literature. Only further research in this area will tell.
+
+The bibliometric understanding of the literatures of failed information epidemics is still rudimentary. The identification and analysis of additional failed epidemics in the scientific literature will be required before their unique properties can be isolated and definitively identified. To this end, the results of this study are but the first steps towards this goal.
+
+
+References
+
+ACKERMANN, E. G. (Ed.) (2003), Composite Bibliography of Polywater Research Literature, 1962–1974, unpublished manuscript.
+ALLEN, L. C. (1971), An annotated bibliography for Anomalous Water. Journal of Colloid and Interface Science, 36 : 554–561.
+BEAUDETTE, C. (2000), Why Cold Fusion Research Prevailed, Oak Grove Press, South Bristol, ME. BENNION, B. C., NEUTON, L. A. (1976), The epidemiology of research on “anomalous water”, Journal of the
+American Society of Information Science, 27 : 53–56.
+BORDONS, M., GOMEZ, I. (2000), Collaboration networks in science. In: B. CRONIN, H. ATKINS (Eds), Web of
+Knowledge: A Festschrift in Honor of Eugene Garfield. Information Today, Inc., pp. 197–213.
+BRITZ, D. (2003), Cold fusion papers publications statistics, http://www.chem.au.dk/~db/fusion/stats.html BRITZ, D. (2004), Cold nuclear fusion bibliography, http://www.chem.au.dk/~db/fusion/biblio.html
+BUDD, J., HURT, C. D. (1991), Superstring theory: Information transfer in an emerging field, Scientometrics,
+21 : 87–98.
+BUTLER, L. (2001), What is behind Australia’s increased share of ISI publications? In: M. DAVIS, C. S.
+WILSON (Eds), Eighth International Conference on Scientometrics and Informetrics Proceedings, ISSI 2001, Sydney, 16-20 July 2001, pp. 89-101, Bibliometric & Informetric Research Group (BIRG), Sydney, Australia.
+CHEN, C. (2003), Mapping Scientific Frontiers, The Quest for Knowledge Visualization, Springer-Verlag, Berlin.
+CZERWON, H. J. (1990), Scientometric indicators for a specialty in theoretical high-energy physics: Monte Carlo methods in lattice field theory, Scientometrics, 18 : 5–20.
+DE MAY, M. (1992), The Cognitive Paradigm, An Integrated Understanding of Scientific Development, The University of Chicago Press, Chicago.
+DERYAGIN, B. V., FEDYAKIN, N. N. (1962a), Special properties and viscosity of liquids condensed in capillaries, Doklady Akademii Nauk SSSR, 47 : 403.
+DERYAGIN, B. V., FEDYAKIN, N. N. (1962b), Special properties and viscosity of liquids condensed in capillaries, Proceedings of the Academy of Science USSSR: Physical Chemistry, 147: 808. (English translation of the original).
+DUFOUR, C., TABAH, A. N. (1998), Information epidemics and the transformation of science, In: E. G. TOMS, D. G. CAMPBELL, J. DUNN (Eds), Proceedings of the 26th Annual Conference of the Canadian Association for Information Science, Ottawa, June 3-5, 1998, pp 143-154, CAIS, Toronto, Canada.
+FEDYAKIN, N. N. (1962a), Change in the structure of water during condensation in capillaries, Kolloid Zhurnal, 24 : 497.
+FEDYAKIN, N. N. (1962b), Change in the structure of water during condensation in capillaries, Colloid Journal USSR, 24 : 425–430. (English translation of the original.)
+FLEISCHMANN, M., PONS, S., HAWKINS, M. (1989a), Electrochemically induced nuclear fusion of deuterium, Journal of Electroanalytical Chemistry, 261 : 301.
+FLEISCHMANN, M., PONS, S., HAWKINS, M. (1989b), Errata, Journal of Electroanalytical Chemistry, 263 : 187.
+FRANKS, F. (1981), Polywater, The MIT Press, Cambridge, MA.
+GARFIELD, E. (1988), The 1987 Nobel Prize in Physics: Citations to K.A. Muler and J.G. Bednorz’s seminal
+work mirror developments in superconductivity. In: Essays of an Information Scientist: Science Literacy, Policy, Evaluation, and Other Essays, ISI Press, 11, pp. 129–135. http://www.Garfield.library.upenn.edu/essays/v11p129y1988
+GARFIELD, E. (2004), Historiographic mapping of knowledge domains literature, Journal of Information Science, 30 : 119–145.
+GARFIELD, E., MELINO, G. (1997), The growth of the cell death field: An analysis from the ISI-Science Citation Index, Cell Death and Differentiation, 4 : 352–361.
+GINGOLD, M. P. (1973), L’eau dite anormale: revue generale. Bulletin de la Societe Chimique de France, 5 : 1629–1644.
+HISTCITE (2003), One hundred and ninety-three papers on Polywater, An historiographic compilation of Polywater research using the HistCiteTM software. http://garfield.library.upenn.edu/histcomp/Polywater_1
+HURT, C. D., BUDD, J. (1992), Modeling the literature of superstring theory: A case of fast literature. Scientometrics, 24 : 471–480.
+INSTITUTE FOR SCIENTIFIC INFORMATION, INC. (1971), Science Citation Index, Five Year Cumulation, 1965- 1969, Institute for Scientific Information, Inc., Philadelphia.
+INSTITUTE FOR SCIENTIFIC INFORMATION, INC. (1976), Science Citation Index, Five Year Cumulation, 1970- 1974, Institute for Scientific Information, Inc., Philadelphia.
+INSTITUTE FOR SCIENTIFIC INFORMATION, INC. (1984), Science Citation Index, Ten Year Cumulation, 1955- 1964, Institute for Scientific Information, Inc., Philadelphia.
+INSTITUTE FOR SCIENTIFIC INFORMATION, INC. (1998), Comparative Statistical Summary, 1955-1997. Science Citation Index, Annual, 1997, Vol. 1., Institute for Scientific Information, Inc., Philadelphia.
+KUHN, T. S. (1962), The Structure of Scientific Revolutions, University of Chicago Press, Chicago. LEHMANN, E. J. (1975), Polywater, A bibliography with abstracts, (NTIS/PS-75/359), National Technical
+Information Service, Springfield, VA.
+LEWENSTEIN, B. V. (1992), Cold fusion and hot history, Osiris, 2nd Series, 7 : 135–163.
+LIPPINCOTT, E. R., STROMBERG, R. R., GRANT, W. H., CESSAC, G. L. (1969), Polywater, Science, 164 : 1482. MALLOVE, E. (1991), Fire from Ice, Searching for the Truth behind the Cold Fusion Furor, John Wiley and
+Sons, Inc., New York.
+MCALLISTER, J. W. (1992), Competition among scientific disciplines in Cold Nuclear Fusion research,
+Science in Context, 5 : 17–49.
+MEADOWS, A. J., O’CONNOR, J. G. (1971), Bibliographical statistics as a guide to growth points in science,
+Science Studies, 1 : 95–99.
+PRION, J. (1973), Anomalous Water, An Annotated Bibliography for the Period 1968–1972, (NCWTD-
+CNDST-Bib-5), Royal Library, Brussels, Belgium.
+SELF, PH. C., FILARDO, TH. W., LANCASTER, F. W. (1989), Acquired immunodeficiency syndrome (AIDS)
+and the epidemic growth of its literature, Scientometrics, 17 : 49–60.
+SIMON, B. (2002), Science Studies and the Afterlife of Cold Fusion, Rutgers University Press, New
+Brunswick, NJ.
+STORMS, E., ROTHWELL, J. (2004), LENR/CANR, http://lenr-canr.org
+TABAH, A. N. (1995a), Knowledge epidemics in the growth of physics. In: Proceedings of the Fifth
+International Conference of the International Society for Scientometrics and Informetrics, pp. 555–564,
+Information Today, Inc., Medford, NJ.
+TABAH, A. N. (1995b), Information epidemics and science collections. In: ASIS 95: Proceedings of the 58th
+American Society for Information Science Annual Meeting, Chicago, October 9-12, pp. 127–136,
+Information Today, Inc., Medford, NJ.
+TABAH, A. N. (1996), Information Epidemics and the Growth of Physics, unpublished dissertation, Graduate
+School of Library and Information Studies, McGill University, Montreal, Canada.

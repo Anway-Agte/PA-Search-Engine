@@ -1,0 +1,280 @@
+1. Introduction
+
+As a result of the numerical calculation performed for different metals, varying the temperature, the total
+energy and the concentration of impurities, it was possible to conclude that the probability of fusion was
+in effect substantially enhanced by increasing these parameters. In this paper, we wish to confirm the
+hypothesis regarding micro-cracks, by means of quantitative theoretical estimates of the coefficient of
+structural deformation of the perturbed2 crystalline lattice independent of time, obtained for different
+temperature values in the range 100-300 K. In particular, we calculated the probability of fusion within a
+micro-crack, comparing it with that calculated on the surface, to evidence a possible enhancing effect.
+
+Further, we also wish to observe, theoretically, any influence on the phenomenon produced by variation in
+temperature, which could favour the fusion of the deuterium nuclei as a consequence of the deformations
+and micro-cracks produced in the lattice. In fact these may be able to concentrate in their vicinity a
+relevant fraction of the deuterons present in the metal.
+
+The phenomenon hypothesised above could possess characteristics analogous to the formation of the
+Cottrell atmosphere in metals2, known for some time in solid state physics, which essentially consists of a
+redistribution of the impurities present in the metal around a dislocation of the ions making up the lattice.
+
+In these cases, the interaction between the dislocation and the impurities present can significantly modify
+the electrical properties of the material; further, some particular reactions can occur, incorporating the
+impurities in the nucleus of the dislocations, as a result of the different arrangement of the atoms with
+respect to that of the unperturbed lattice. This type of process has been extensively studied in the literature
+for the case of crystalline semiconductors at high temperature2 and for metals2. In the latter, for example,
+it is found that the concentration of interstitial impurities around a linear dislocation, with a point
+component, depends on the temperature according to a law of the type:
+
+
+
+
+
+
+
+
+Tkb
+cc
+
+0
+exp (1)
+
+where c0 is the concentration of impurities in the zone with zero internal pressure,
+b3 vi the volume of the ions constituting the lattice, while  is proportional to the difference
+vd - vi between the volume of the atoms of the impurities and that of the lattice ions.
+
+Our conjecture is that in a metal, such as Pd, a similar phenomena could occur between the atoms of
+deuterium penetrating the lattice as a result of deuterium loading and the micro-cracks produced by
+variations in temperature.
+
+In this case, the parameter  of the previous expression would be negative, determining an increase in
+the concentration of deuterons in the vicinity of the micro-crack, which would then catalyse the
+phenomenon of fusion.
+
+The procedures, such as deuterium loading within lattices3.
+
+In effect, it is found that with the appearance of micro-cracks, in agreement with the “chain reaction”
+hypothesis proposed in reference1, there is an increase in the rate of deuteron fusion within the lattice,
+obtained by evaluating the number of events per minute with a numerical simulation programme which
+employs the “WKB” method for the approximate solution of the wave equation. This calculation, which
+takes account of all the physical parameters, provides theoretical information, which we consider
+interesting, for “impure” metals at room temperature and for average deuteron energies.
+
+
+2. Three-dimensional model of spherical symmetry
+
+The numerical calculation, performed for three typical metals (Pd, Ti and Pt) on varying the temperature
+and total energy, in turn dependent within certain limits on the temperature, made it possible to conclude
+that the probability of fusion is in effect enhanced by increasing P, T and E.
+
+The following table refers to the probability of fusion calculated on the surface of Palladium1
+). It shows the trend of the probability of deuteron fusion in impure Pd (J = 0.75%) on varying T and E (Tab.1 in
+reference1). Palladium, which has CFC symmetry, shows higher values for the probability of fusion than
+Pt and Ti, for temperatures between 36.7 K and 63.7 K and energies between 140 eV and 240 eV. 
+
+An important effect on the reaction, due to the metal lattice, is represented by electronic screening. This
+effect, already studied by Rabinowitz et al.4, can be taken into account using a model in which the
+negative charge is distributed around the nucleon in a thin shell and can be schematised supposing the
+electric charge to be uniformly distributed with a thin spherical shell, with a radius R  r1 equal to the
+effective range of the interaction between the nucleons, describable in terms of a “shifted4” Coulomb
+potential. 
+
+/1 RrqkV 2    Rrr1 (2)
+
+where q is the charge of the deuton, r 1 is the nuclear radius, k  1 4 0 /   . Then V  0 for r R  . 
+The solution for the semi-classic tunnelling factor  is4 :
+
+exp 2 D   r (3) 
+      2/1 20 2 r2    q 4/22/  r (4)
+
+In equations (3) and (4), D is a numerical constant of the order of unity,  the effective reduced mass of
+the deuton, r2 the classic point of inversion, and  is the reduced Planck constant. To take account of the
+effect of the impurities present in the metal, we modify the constant D in (3) substituting the product J
+ , where J is the concentration of impurities and  a numerical constant,   1.
+
+The function  is proportional to the electrical charge of the nucleons and to the square root of the
+product  r2, where  is the reduced mass of the mass centre system for an interaction of two bodies,
+and r2 is the classic point of inversion.
+
+Of the three metals considered, Palladium seems to be the most effective in catalysing fusion, as a result of
+its structural characteristics: This can be understood from a qualitative point of view, observing that the
+curve of interaction potential, within the metal, has a trend which requires a lower quantity of total energy.
+The numerical calculation d-d in this case can be expressed as follows1:
+
+r RTkJ rVM r q krV d M 2 0 (5)r RTkJ rVM r q krV d M 2 0 (5)
+
+where V r  M is the Morse potential, 0 4/1 0 k   , q is the charge of the deuton and therefore q2/r is a
+potential, Md the reduced mass of the deuterium nuclei, T the absolute temperature at which the metal is
+experimentally placed, J the concentration of impurities in the crystalline lattice and
+R is the nuclear radius.
+
+
+3. Deformation in cubic lattices
+
+In this section we wish to establish whether, and within what limits, the rate of fusion within a micro-crack
+in a generic cubic lattice subjected to deuterium loading can be conditioned or influenced, as well as by
+extensive lattice defects and by the other characteristics and thermodynamic conditions, also by any
+“deformations” produced in the crystalline lattice by variations in the temperature.
+
+If this effectively occurs, it is not difficult to hypothesise that the energy produced by the microexplosions within the micro-cracks present, could favour the creation of new fractures, which in turn
+would, by the same mechanism, capture other deuterons, and so on.
+
+On the other hand, the formation of micro-cracks in Palladium electrodes produced by the energy released
+during long periods of electrolysis5 has already been observed experimentally for some time, but has until
+now been considered only a consequence of nuclear fusion. In fact, Heui Kyeong An, et al.6 an energy
+peak within micro-cracks during electrolysis.
+
+Our hypothesis is that deuterons are injected into the micro-crack with force during loading and are
+therefore more likely to emit energy in micro-explosions, which in turn produce further micro-cracks. In
+this way the phenomenon observed could favour the process, enhancing the probability of fusion of the
+deutons absorbed by the metal lattice.
+
+We wish to study the internal perturbations which can take place in the lattice following D2 loading and
+the consequent modifications in the properties of the metal. The loading does not, in fact, simply provide
+an increase in the percentage of deuterium present, with a resulting disequilibrium of the “d” band; rather
+this type of procedure also determines, according to our hypothesis, lattice deformations followed by
+dislocations which cause micro-cracks in the structure.
+
+It can happen then that the interaction between the impurities present and the dislocations produced in the
+metal during deformation, significantly modify the electrical properties of the material. Some particular
+reactions can then take place which incorporate the impurities in the nucleus of the dislocations7, as a
+result of the different arrangement of the atoms with respect to that of the unperturbed lattice. An adequate
+theoretical description of the loading can therefore be obtained, in our opinion, only by treating it as a
+perturbation independent of time.
+
+We must also consider the fact that, under conditions far from those of saturation, the rate of fusion,
+within the metal depends on the number of deuterium nuclei absorbed in unit time, which could also
+depend on the deformation of the lattice. It is necessary therefore to study both phenomena.
+It is known that in the presence of interaction between deuterium nuclei and collective plasmonic
+excitation in the metal, the number of fusions f in a gas consisting of  deuterons with density  is
+given by11:
+
+ d p f 14     (6)
+
+where  d is the reduced mass of the deuterium nuclei, p is their impulse, and where the parentheses   
+represent the thermal mean.
+
+For simplicity we can now consider a cubic lattice structure subjected to deformations and calculate the
+probability of fusion within a micro-crack, , on varying the temperature.
+
+Indicating the volume of a single cell by d , the deformation of the entire lattice is given by: 
+
+                          d kT U hR L J r)( 0 22 exp 2 b      (7) 
+
+where J is the concentration of impurities and  is a parameter which depends on the lattice and 
+electronic structure of the metal under consideration.
+
+In this study we have concentrated on the cubic structure of the lattice, in the specific case of Palladium,
+because it has an easily observable geometry and we have indicated by  the density of the mobile
+dislocation8 within the lattice at non constant lattice temperature, so that the thermodynamic stress of the
+deuterium nuclei per unit volume must be taken into consideration.
+
+Further, demonstrate this, approximate calculations were made in which the lattice7,8,9 deformation and
+the micro-crack depth were taken into account.
+
+Taking the centre of mass system as that of reference, the probability of fusion in a zone of the metal in
+which there is no micro-crack (e.g. on the surface) can be written1 as:
+
+P rdr  0 int 2 int 2exp (8) (12) 
+
+ is 0.15Å ,  r int is given by: 
+
+      2 int r 2  rV / (9) (13) 
+
+E is the total initial energy, principally thermal in nature;  is reduced mass of the deuteron ;  is 
+Plank’s constant.
+
+Equations (8) and (9) refer to the process of fusion within the crystalline lattice.
+
+The Coulomb potential V r , containing the temperature contribution, is given by the expression (5) :
+
+The symbols adopted here are the same as those used in (5). In (14), the Morse potential V r  M is given
+by:
+
+          M
+ JrV   rr 0
+exp22exp/   rr 0 
+ (10) (15)
+
+Here, J indicates the concentration of impurities present in the metal, while the parameters  and r0
+depend on the dynamic conditions of the system.
+
+ is a parameter depending on the structural characteristics of the lattice, the number of “d” band electrons
+and the type of lattice symmetry, and variable between 0.015 and 0.025.
+
+If we divide (8) by (6) and multiply by (7), it follows that:
+
+             p r dr d 14 2exp 0 int      (11) (16)
+
+Expression (11) represents the probability of deuteron fusion within a micro-crack: it is directly
+proportional to the number of deuterons absorbed by the metal until the target is saturated, thereafter the
+probability of fusion will be inversely proportional to the number of nuclei absorbed by the metal. In the
+context of the approximations made, the probability of fusion calculated in this way is equal to the edge
+deformation coefficient per unit of total deformation of the whole lattice.
+
+From (11), with K(r)int calculated adopting the Morse potential, a numerical simulation programme
+employing the “WKB” method was used to determine the probability of fusion, normalised to the number
+of events per minute.
+
+The results of Tab.1 can be compared with those of Tab.2, where the potential (5) was substituted by a
+“shell” potential of the (2) type, modified as followed:
+
+             RJ rqkV  /1 2  Rrr1 (12)
+
+where  is the mean kinetic energy of the gas,  is the vibrational energy which is typically of the
+order of some eV for the quantum states under consideration and q is the charge of a deuton.
+
+To confirm qualitatively the effect of enhancing the probability of fusion, the trend of the potential curve
+was obtained on varying the temperature12 in the range 100 - 300 K, in the case of Palladium. It can be
+seen that both the height and the thickness of the potential barrier are less in the impure metal (J  0.75%).
+Fig.1 shows an example of the potential curves obtained.
+
+Fig.1. - Comparison between the potentials (14) and (17), in the presence of D2 for J  0.75% and J  0.25%,
+respectively, at temperature T = 290 K. In the first case, both the height and the thickness of the potential barrier are
+reduced. 
+
+
+4. Conclusions
+
+The present study was to demonstrate if and how the deformation of the crystalline lattice and the
+formation of a micro-crack could influence the process of fusion at room temperature. More precisely, we
+calculated numerically the probability of fusion within a micro-crack, comparing it with that calculated on
+the surface to evidence a possible enhancement effect. The factors which most catalyse the fusion
+reactions remain however, in the three-dimensional case, the percentage of impurities J, the deformation
+of the lattice and the consequent formation of micro-cracks, as can be seen by comparing Tab.1 and 2.
+Further, tunnelling in the presence of deuterium loading was analysed, observing that, from the theoretical
+point of view, the phenomenon can be treated as an internal perturbation of the lattice. As shown in Fig. 1,
+it was found that in the presence of loading, the tunnelling appears enhanced due to the reduction1, in both
+height and thickness, of the barrier “K”. The loading seems therefore to be an important factor
+conditioning the phenomenon of fusion. One of these mechanisms essentially “consists” of a kind of chain
+reaction between deuterons and plasmons, catalysed by the deformations and micro-cracks which arise in
+the structure as a result of variations in the thermodynamic conditions and other causes, such as deuterium
+loading.
+
+This was hypothesised in the present paper and constitutes one of the principal motives of its inspiration.
+It is however possible to confirm that the initial results obtained so far validate the hypothesis presented
+here.
+
+
+5. References
+
+[1] F. Frisone: Can variations in temperature influence deuteron interaction within crystalline
+lattices?, Nuovo Cimento D, 18, (1996) p.1279.
+[2] K. Sumino: In Point and extended defects in semiconductors, Nato Asi ser. B, Vol. 202 (Plenum
+Publ. Corp.) (1988), pp. 77-83. J. Price Hirt and J. Lothe, Theory of dislocation (McGraw Hill)
+(1968), p.463, eqs. (14-46)
+[3] F. Frisone: Deuteron interaction within a micro-crack in a lattice at room temperature
+accepted for publication, june 13,2000; Fusion Tecnology Vol. 39 mar. 2001.
+[4] M. Rabinowitz: High temperature Superconductivity and cold fusion, Mod. Phys. Lett.
+B, 4, (1990) p.233.
+[5] M. Fleishmann and S. Pons: Electrochemically Induced Nuclear Fusion of Deuterium, J.
+Electroanal. Chem, 261, (1989) pp.301-316, and erratum, Vol. 263, (1989) pp.187.
+[6] Heui Kyeong An. et al.: Analysis of Deformed Palladium Cathodes Resulting From
+Heavy Water Electrolysis, Fusion Technology Vol. 27 (1995) pp. 408-415.
+[7] J. Price Hirt and J. Lothe: Theory of dislocation, McGraw Hill, Z. Phys., (1960) pp.156:457.
+[8] F. R. N. Nabarro: Proc. Roy. Soc. A 209, (1952) p.219, Adv. Physisc p. 1,271.
+[9] J. Friedel : Dislocations, Chapter V, (1960) pp.116 – 458.
+[10] M. Yu. Gutkin and I. A. Ovid’Ko: Disclinations, Amorphization and Micro-crack Generation at
+Grain Boundary Junctions in Polycrystalline solids, Philosophical Magazine A, Vol. 70, N° 4,
+(1994) pp. 561-575.
+[11] M. Baldo, R. Pucci, Plasmons Enhance Fusion, Conf. Proceed. Vol.24 undersatnding Cold Fusion
+Phenomena, Eds. R.A. Ricci, E. Sindoni and F. De Marco. SIF, Bologna (1989) p. 283.

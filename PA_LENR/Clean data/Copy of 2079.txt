@@ -1,0 +1,108 @@
+1. Introduction
+
+Since the 1989 announcements of nuclear fusion at room temperature in palladium (Pd) and titanium (Ti) electrolytic cells using heavy water (D O), there have been persistent claims of observing the cold fusion (CF) phenomena. Recently, there have been claims of observing also ultra low-energy nuclear transmutation (ULENT) phenomena. However, most of the reported experimental results are not reproducible at a desirable of 100%.
+
+Theoretical opposition to the phenomena of CF and ULENT is mostly based on as­ tronomically small values of Coulomb barrier penetration probability, "Gamow" factor (GF), between two charged nuclei. Effect of the presense of a third particle, an electron, has not been solved rigously, but has been treated in an effective two-body approxima­ tion as a simple correction to GF known as the electron screening effect. The electron screening effect is not sufficiently large enough to explain the observed claims of CF and ULENT phenomena. Exact quantum mechanical solutions for three charged parti­ cles (two nuclei and an electron) are needed to verify the accuracy of the conventional electron screening effect. There have been many other theoretical models proposed to explain the cold fusion phenomena. Most of those theoretical models claiming to have explained the phenomena appear far from accomplished their claims [l]. Therefore, we cannot justify nor rule out theoretically the possibility of CF and ULENT phenomena. In this paper, we examine open problems and uncertainties of the conventional theory for low-energy nuclear fusion reactions, and discuss several possible scenarios for the Gamow factor modification (GFM) based on plausible assumptions.
+
+
+2. Open Problems and Uncertainties of the Concentional theory
+
+For non-resonance reactions, it is customary to extract the S-factor, S(E), from the experimentally measured using the following formula
+where r,(E) = Z.;Zj e jnv, e-2,rr,(E) is the Gamow factor representing the probability of bringing two charged nuclei to zero separation distance, and S(E) is expected to be a slowly varying function of E. The energy dependence of the nuclear reaction cross­ section c;(E) cannot be obtained rigorously from first principles. Therefore, one must relay on physically reasonable nuclear reaction models, such as Eq. (1), or phenomeno­ logical microscopic models, which may not be reliable nor accurate at low energies for some cases. It should be emphasized that Eq. (1) is obtained using a semi-classical approximation. In the following section 3.1, a derivation of c;(E) based on the quantum scattering theory is given.
+
+The effect of electron screening is conventionally incorporated by replacing E with
+(E Esc) in Eq. (1) where Esc is a electron screening energy (Esc � for the
+deuterium atom, and E ;::;J for Thomas-Fermi model). With E � 14 eV or 43 sc - sc
+eV, the value of GF is ~ 10- or 10 respectively. In contrast, extracted values of G~F from the~earliest claimed results of Fleischmann and Pons, and of Jones et al. are 20 30
+
+Leggett and Baym (LB) [2] investigated an upper bound on barrier penetration probabilities in many-body systems and claimed to obtain the result that the rate of tunneling of nuclei to classically forbidden small relative separation, in a fully interacting quantum-mechanical many-body system in equilibrium, is rigorously bounded above by a value calculable in terms of the Born-Oppenheimer potential between the nuclei. Their upper bound corresponds approximately to GF of ~ 10-65 obtained with Esc = 43 eV. As LB cautioned in their paper, this potential can differ from conventional Born-Oppenheimer potential. Recently, it has been shown [3] that the exact upper bound given by LB [2] is not valid, (i) if many-body system (electrons, nuclei) does not form a stationary bound state, and also (ii) if the imaginary part of the effective nuclear interaction in the elastic channel has a very weak component with a finite long interaction-range [4], which is discussed in subsection 3.1.
+
+
+3. Improvements, Alternative Formulations and Mechanisms
+
+As discussed in the previous section, the conventional theory of nuclear fusion at low energies is not rigorous and based on theoretical models. In this section, we describe pos­ sible improvements, alternative theoretical formulations, and condensed matter mecha­ nisms based on possibility of the Bose-Einstein condensation.
+
+3.1 Optical theorem formulation and effective long-range interaction
+Recently, a new improved formulation [4] has been developed based on quantum scattering theory and the optical theorem [4], which eliminates some of the previous assumptions made in deriving the conventional formula, Eq. (1), for GF. Assuming that the imaginary part of the transition matrix (T-matrix) (or the effective potential) can be parameterized by a separable form with a form factor g(r) = e-13r, new s-wave cross-section formula is derived,
+where.
+
+The enhancement factor e4<1>TI can be applied to both light nuclei reactions (small Z; and Zj ) but also to heavy ion reactions (larger Z; and Zj ) such as sub-barrier heavy ion fusion where e4<1>11 can be very large. The enhancement factor e4<1>11 is obtained together with the Gamow factor from our quantum mechanical derivation and can be regarded as a modification of the Gamow factor affecting it only at low energies, or as a part of the S-factor if we still wish to keep the semi-classical formula Eq. (1). The new exponential factor is a new quantum effect derived from the quantum scattering theory, and may provide new physical insights for the low-energy behavior of the reaction cross-section.
+
+In the limit of /3 -+ 0 (a long-range limit), we have ¢ = tan-1 (k/(3) = 1r/2, and hence e4<1>11 given by Eq. (3) approaches to e which can cancel the Gamow factor e-2-rr,,., in Eq. (2) for a0(E). Therefore, a Gamow factor cancellation (GFC) can occur if the interaction range 13- is large (or (3 is small). If the imaginary part of the effective potential or g(r) has a form 3 Continuum electron catalyzed nuclear fusion (CECNF) with /3 < /31, the second term could be dominant over the first term even if A < < 1. In the limit of f3 -+ 0, ¢ = tan-1 (k//3) = 1r/2 and e41rl/> = e21r11 which can cancel the Gamow
+in Eq. (2). Therefore, it is important to investigate both theoretically and experimentally the possibility of the existence of the finite long range interaction for the imaginary part of the effective potential.
+
+3.2 Halo nuclear state fusion (HNSF)
+As discussed in the previous subsection, Gamow factor cancellation (GFC) can occur for nuclear fusion reactions if the imaginary part of the effective nuclear interaction in the elastic channel (ENIEC) has a small component of a finite long-range (FLR) interaction. Recently, we have obtained a rigorous derivation of a new type of FLR interaction in the imaginary part of ENIEC for the case in which one of the final­ state nuclei has an excited halo nuclear state [5]. The new FLR interaction behaves as cos(k0r - n£n2k0r + 8)'¢n (r)/r4 at large distances, where k0 , T/, 8, and '1/Jn (r) are the final state wave number, the Sommerfeld parameter, the phase shift, and the wave function for the excited p-wave halo nuclear state, respectively. This demonstrates that we cannot rule out theoretically possibility of the GFC, and that theoretical opposition to the cold fusion and low-energy nuclear transmutation phenomena based on Eq. (1) may be premature.
+
+The existence of the FLR interaction in the imaginary part of ENIEC, when one of the final-state nuclei has an halo excited state, leads to a selection rule for final nuclear products: nuclei with halo excited states are most likely observed in the final state, while production of nuclei without halo excited states is suppressed. This selection rule may be applicable to low-energy nuclear fusion reaction, nuclear fission, and nuclear trans­ mutation, induced by a charged nuclei (proton, deuteron, oxygen, etc.). The selection rule should be tested by future experiments.
+
+3.3 Continuum electron catalyzed nuclear fusion (CECNF)
+Recently, we have examined another possibility of the GFM due to a three-body ef­ fect involving an electron and two nuclei in continuum states, and have shown that the conventional adiabatic (or Born-Oppenheimer approximation) solution does not match with the exact asymptotic solution [6] if (Ee /EN ) < 10-3, where Ee and EN are ki­ netic energies of electron and nucleus, respectively, indicating that the conventionally used adiabatic approximation is not valid for (Ee/EN )< 10-3_ We have examined the possibility of the Gamow-factor cancellation (GFC) due to a three-body effect involving an electron and two nuclei, and developed a theoretical formulation for estimating the three-body effect for the reaction p(pe-,ve)d in neutrino and nuclear astrophysics [7,8]. Approximate solutions of the three-body equation for the initial pe-p state show [7,8] that GFC may occur between two protons for the energy sector, (Eep/Epp)< 10-3, where Eep an Epp are the relative kinetic energies between electron and proton and between two protons, respectively. Our estimate of the GFC effect indicates that the previous conventional estimate of the pe-p solar neutrino flux may be underestimated by at least of two. This has important implications for the solar neutrino problem, and also for resolving some of the other astrophysical and geophysical anomalies [7,8]. Tritium pro­ duction observed by Claytor et al. [9] may be due to a similar reaction p(de-,ve)3H.
+
+Experimental tests of CECNF mechanism for p(pe-ve)d reaction can be carried out by measuring both excess heat and deuteron concentration in light water electrolysis experiments such as nickel water electrolysis experiments by Swartz [10].
+It is shown [8] that a large enhancement of reaction rate may occur for nuclear fusion when catalyzed by low-energy continuum electrons. Approximate solutions of the three-body equation for the initial continuum state of two nuclei and an electron show that GFC may occur between two nuclei for the velocity sector, Ve < VN, where Ve and VN are the relative velocites between the electron and one of two nuclei, and between two nuclei, respectively. Our estimates [8] of the GFC effect for reactions D(de-,pe-)T, D(de-,ne-)3He, and D(de-,e-)4He yield the surprising new result that reaction rates of~ 104 - 106s-1cm-3 may be achieved at the ambient temperature with a deuteron density of 1022cm-3 compared with the claimed experimental results of Fleischmann and Pons, and Jones et al., ~ 1010s-1cm-3 and ~ 1.0s-1cm-3, respectively. Furthermore, the reaction rate for D(de-,e-) He is expected to be larger than those of D(de-, ne-)3He and D(de-,pe-)T, since the overlap integral between 't/Jdd and 'lp4He is expected to be larger than those between 1/Jdd and 'l/Jpt, and between 'l/Jdd and 'lp4He· Our theoretical formulation and results of continuum-electron catalyzed nuclear fusion(CECNF) may provide a consistent theoretical description of and mechanisms for some of the anomalous effects observed in deuterated and hydrated metals.
+
+Experimental tests of CECNF mechanism for D(de-, ne-)3He, D(de-,pe-)T, and D(de-, e-)4 He reactions can be carried out by measuring the reaction yield or cross­ section in laboratory two-beam experiments, using both deuteron beam and electron beam simultaneously incident on a deuterated target. By adjusting beam energies of electronanddeuteron,therequiredCECNFcondition(Eed/Edd)< 10- canbeachieved. If the reaction yield is measured as a function of Eed(or Eed/Edd), CECNF mechanism predicts that the yield has a maximum near Eed :::::: 0 (or (Eed/Edd) << 10- The above test can be done using either continous d+ and e- beams or using synchronized
+pulsed d+ and e- beams.
+
+3.4 bose-Einstein condensation nuclear fusion (BECNF)
+There have been persistent claims of observing He production with no accompanying ,-radiation for heavy water experiments [11-12]. Since the radiation-less fusion reaction, D + D --+ He is forbidden in free space, many theoretical explanations have becn pro­ posed based on condensed matter mechanisms [14-17]. In this section, we propose and describe an alternative mechanism based on possibility of Bose-Einstein condensation of deuterons trapped in cavities and cracks in the cathode metal.
+
+The concept of the Bose-Einstein condensation(BEC) [18] has been known for 73 years, and has been used to describe all physical scales, including liquid He, excitons in semiconductors, pions and kaons in dense nuclear matter (neutron stars, supernovae), and elementary particles [19]. It is only a few years ago that the BEC phenomenon was observed directly in dilute vapors of alkali atoms, such as rubidium [20], lithium [21], and sodium [22] confined in magnetic traps and cooled down to nanokelvin temperatures.
+If BEC occurs for deuterons trapped in cavities (μm -mm size) and cracks (μm -mm gap) in the cathode metal or in bubbles on the surface of the cathode during the electrolysis experiment and(2) D + D --+4He fusion occurs with two deuterons in the BEC, then the BEC and 4 He in the final state can share kinetic energy and momenta due to the Q-value of the fusion reaction, thus avoiding the need for accompanying
+gamma-ray radiation.
+
+It is known that electrolysis and ion implantation processes can create microcavities in(cathode or target) metal, which contain high density(~ 10 cm- (or high pressure) deuterium plasma (d+, e-,D 2 , etc). (At a much higher density, a deuterium metal may form.) Therefore, the microcavities in electrolysis and ion implantation are very efficient traps for deuterons. Such a high density has not been achieved in other laboratory systems.
+Two essential conditions for achieving the BEC of an interacting Bose system are (i) that the density of the Bose system is such that two-boson separation distance is comparable to the deuteron de Broglie wavelength, and (ii) that the temperature of the Bose system is very low. The condition (i) can be written as
+(5)
+where >.dB (= h/mv) is the deBroglie wavelength of deuteron and n is the deuteron density. Eq. (5) can be rewritten as
+V nc
+(6) c mc
+For n = 1021 cm-3 and mc2 = 1876 MeV for deuteron, Eq. (6) yield v � 12 m/sec and Erel = 1⁄2mv2 � 1.6 x 10-6eV. The small value of Ere1 leads to the condition (ii). The condition (ii) can be realized if deuterons in a cluster are moving with (nearly) the same velocity, i.e. relative velocities of deuterons are (nearly) zero. This condition may be achieved by applying a pulsed and/or alternating field.
+
+For the BECNF mechanism, both D(d,p)T and D(d, n)3He reactions can also occur in addition to DD -+ He reaction. However, the cross-section UBEC (DD -+ He) for D + D -+ He reaction in BEC is expected to be substantially larger than that of D(d, 1) He since the former is a strong-interaction transition while the later is a electromagnetic transition. Furthemore, we expect also that UBEC for D D -+ He is larger than that of D(d, p)T or D(d,n)3He since the overlap integral between the initial state 'I/Jdd and the final state '!p4He is expected to be larger than that between 'I/Jdd and 'I/Jpt or between 'lpdd and 'I/Jn3He·
+There are several possible mechanisms for reducing the Coulomb barrier of deuterons in the BEC. One is the CECNF mechanism described in subsection 3.3 involving a continuum e- imbedded in the deuteron BEC. The excess heat and 4He generation observed from collapse of accoustic bubbles [23] may be due to the BECNF mechanism.
+
+Recently, Kasagi et al. [24] has observed an anomalous enhancement of the yield for D(d,p)T reaction with deuterated PdO target at low energies (2keV - 10 keV). A cavity in the cathodic metal such as Pd cathode can provide an ideal trap for deuterons (D+). The metal oxide cathode (such as PdO) may be more effective in trapping deuterons in cavities because of lower diffusion rate of D in a metal oxide compared with that in a metal. Smaller numbers of continuum electrons may be carried among these trapped deuterons and may lead to CECNF, thus enhancing the reaction rate at low energies for D(d,p)T in PdO as recently observed by Kasagi et al. [24]. At much lower energies, the BECNF processes, D D -+4He in addition to D(d, p)T and D(d, n)3He may start and become a dominant process at ultra low-energies.
+
+
+4. Summary
+
+Since the claimed experimental results for CF and ULENT are not reproducible at a desired level of 100% reproducibility, they have often dismissed as erroneous results and/or artifacts, mostly based on theoretical opposition to these phenomena due to astronomically small values of GF. However, the GF is derived from a semiclassical model and is not rigorous. Three alternative formulations and mechanisms (HNSF, CECNF, and BECNF) are investigated for possibilities of GFM or GFC.
+
+An improved model based on quantum scattering theory and optical theorem shows possibilities that GFM or GFC may occur if the imaginary part of the effective interac­ tion in the elastic channel has a small component of a finite longe-range. This situation can occur when one of the final-state nuclei has an excited halo nuclear state, leading to HNSF.
+
+In the conventional approach, the electron screening is incorporated by adding a screening energy to the incident energy. Effect of the presence of a third particle (an electron) has not been solved rigorously. Approximate solutions of three-body continuum state (two nuclei and an electron) indicates possibilities of GFM or GFC, leading to the continuum electron catalyzed nuclear fusion. Specific experimental tests are suggested for CECNF mechanism.
+A Bose-Einstein condensation nuclear fusion mechanism is introduced to examine a possibility of radiation-less fusion DD -. He, which is expected to have a larger cross­ section than that for D(d,p)T or D(d,n)3He.
+Ultimately, reproducible experimental results in the future will decide whether we need alternative formulations and mechanisms such as those presented in this paper.
+
+
+5. References
+
+[1] V. A. Chechin, V. A. Tsarev, M. Rabinowitz, and Y. E. Kim, lnt'l. J. Theor. Phys. 33, 617 (1994).
+[2] A. J. Leggett and G. Baym, Phys. Rev. Lett. 63, 191 (1989).
+[3] Y. E. Kim and A. L. Zubarev, Proceedings of the Sixth International Conference on Cold Fusion (ICCF-6), October 13-18, 1996 Japan; edited by !vI. Okamoto, New En­ ergy and Industrial Technology Development Organization and the Institute of Applied Energy, p. 324.
+[4] Y. E. Kim and A. L. Zubarev, Nuovo Cimento 108A, 1009 (1996).
+[5] Y. E. Kim and A. L. Zubarev, Phys. Rev. C54, 1805 (1996).
+[6] Y. E. Kim and A. L. Zubarev, Phys. Rev. A56, 521 (1997).
+[7] Y. E. Kim and A. L. Zubarev, Neutrino '96, Proc. of the 17th International Con£. on Neutrino Physics and Astrophysics, Eds. Kari Enqvist, Katri Huitu and Jukka
+Maalampi (World Scientific, Singapore, 1997) pp. 120-126.
+[8] Y. E. Kim and A. L. Zubarev, "Continuum Electron Catalyzed Nuclear Fusion and Halo Nuclear State Fusion", Purdue Nuclear TheoryGroup Report PKTG-96-1 (January 1996).
+
+[9] T. N. Claytor et al., Abstract submitted to this conference (ICCF-7); Transactions of Fusion Technology 26, 221 (1994).
+[10] J. M. Swartz, Fusion Technology 31, 63-74 (1997).
+[11] Y. Arata and Y.-C. Zhang, ICCF-6 Proc. p. 129.
+[12] E. Botta, T. Bressani, D. Calvo, C. Fanara, and F. Iazzi, ICCF-6 Proc., p. 29.
+[13] B. F. Bush, ICCF-6 Proc. p. 622.
+[14] J. Schwinger, ICCF-1, March 28-31, 1990, Utah, p. 130; See M. Rabinowitz, Trans­ actions, of Fusion Technology, Vol. 26, No. 4T, part 2, (December 1994), (ICCF-4, December 6-9, 1993, Hawaii), p. ix for a complete list.
+[15] G. Preparata, Transactions of Fusion Technology 26, 397 (1994).
+[16] P. L. Hagelstein, ICCF-6 Proc. p. 382, and references therein.
+[17] S. R. Chubb and T. A. Chubb, ICCF-6 Proc. p. 315, and references therein.
+[18] S. N. Bose, Z. Phys. 26, 178 (1924); A. Einstein, Sitz. Preuss Akad. Wiss. 1924, 3 (1924).
+
+[19] A. Griffin, et al. Bose-Einstein Condensation (Cambridge, New York, 1995).
+[20] M. H. Anderson, et al., Science 269, 198 (1995).
+[21] C. C. Bradley, et al., Phys. Rev. Lett. Phys. Rev. Lett. 75, 1687 (1995).
+[22] K. B. Davis, et al., Phys. Rev. Lett. 75, 3669 (1995).
+[23] R. Stringham, "Cavitation in D 0 with Metal Targets Produces Predictable Excess Heat", Abstract submitted to this conference (ICCF-7).
+[24] J. Kasagi et al., "Anomalously Enhanced D(d,p)T Reaction in PdO Observed at Very Low Bombarding Energies", Abstract submitted to this conference (ICCF-7).

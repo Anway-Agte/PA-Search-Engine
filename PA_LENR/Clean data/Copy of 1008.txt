@@ -1,0 +1,258 @@
+1 Introduction 
+
+This paper describes five experiments that were performed to load hydrogen into natural (not enriched) 
+metallic uranium samples. All samples were taken from the same batch. One sample randomly selected was 
+considered the reference (control) sample and the other five were loaded with hydrogen. The electrolysis 
+parameters are presented in the next section. Non-spectrometric alpha, beta and gamma radioactivity of each 
+sample was measured using a Ludlum Model 3030 alpha-beta counter, and  gamma ray spectra were recorded 
+using an ORTEC gamma ray spectrometer. The results of the alpha, beta and gamma counting are presented in 
+section 3. The results of the gamma ray spectrometry are presented in section 4, and the changes in topography 
+and surface composition are given in section 5. These results  are discussed in section 6. 
+
+
+2 Hydrogen loading parameters 
+
+The cathode was natural uranium foil, 0.18 mm thick, of purity 99.98%. It was obtained from 
+Goodfellow Corp. The electrolyte was H2SO4, in deionized H2O. For S2, DC1 and DC2 the H2SO4 which was 
+used was obtained from Alfa Aesar, Stock number 11000, Lot B05119, and the electrolyte was 0.83M. For 
+experiments with cathodes DC3 and DC4 the H2SO4 was obtained from J.T. Baker, lot K10030 and the 
+electrolyte was 0.74M. The anode was made of platinum foil, 0.1 mm thick, 99.99% purity (metal basis), Lot 
+Number: 09119EU, obtained from the Aldrich Co. It was a circular platinum disc under the cathode for S2, DC1 
+and DC2, and had the shape presented in Fig. 1 for DC3 and DC4. 
+
+The uranium cathode foil was pierced and the platinum cathode lead wire was bent to make a small 
+hook which is then crimped against the uranium foil. After attaching the cathode to the cathode holder, the 
+electrical contacts for samples DC2, DC3, and DC4 were insulated with 732 Multi-Purpose Silicone Sealant, 
+(100% silicone rubber), to minimize electrolyte contact with the U-Pt contact. With this design the U-Pt contact 
+corrosion was minimized, thus enabling prolonged electrolysis. 
+
+Fig. 1. The electrolysis cell 
+
+The cell design is presented in Fig. 1 where the numbers represent: 
+
+1. Beaker (200 ml, Pyrex) 
+
+2. Electrolyte 
+
+3. Pt Anode 
+
+4. Anode Pt holder  
+
+5. Teflon cap 
+
+6. Pt cathode holder 
+
+7. Uranium foil cathode 
+
+8. Electrolyte level 
+
+With this cell five experiments were conducted. Experiments labelled as S2 and DC1 did not have 
+insulation covering the electric contact between the platinum cathode lead wire and the cathode, while DC2, 3 
+and 4 had the electrical contact insulated. The electrolysis parameters are summarized below.             
+
+Table 1. Current, voltage, current density and electrolysis time for the five experiments. 
+
+
+3  Non - spectrometric alpha, beta, and gamma radioactivity measurement 
+
+The samples were weighed and radioactivity was measured with a Ludlum Model 3030 Alpha-Beta 
+Sample Counter, having an organic scintillator in a shielded chamber and a pulse-height analyzer that provides 
+information to two independent counters. The counter has a RS232 interface that enables data acquisition and 
+operating parameters control and adjustment using a PC. The counter was used in the scaler mode. The count 
+accuracy of the detection system is 2%, as stated by the manufacturer. 
+
+Each sample was weighed before and after the experiment using a Mettler model H70 balance. After 
+that the samples were cut in such a manner that the parts that were above the electrolyte level were separated 
+from the parts that were below the electrolyte level. The parts that were above were labeled  with a trailing P1a 
+while those that were under the electrolyte during the experiment were labeled with a trailing P2u. In addition to 
+the α and β counts that the Ludlum Model 3030 counter provides, γ radioactivity was measured as well. In order 
+to do a γ radioactivity measurement the sample was completely covered with an aluminum plate 0.9 mm thick. 
+
+The aluminum plate completely absorbed α particles and statistically almost all of the β particles. Therefore the 
+counts on the β channel with the aluminum plate between sample and detector are proportional to the γ activity 
+of the sample. 
+
+For each sample the background on both alpha and beta channels was measured before the counting 
+and was subsequently subtracted, and the specific radioactivity, that is counts per second per gram, was 
+calculated. The results of the measurements performed with the Ludlum counter for the two parts of the sample 
+are presented in Table 2. Variation is defined as electrolyzed sample radiation minus control sample radiation 
+divided by control radiation. 
+
+Table 2. Alpha, beta and gamma radiation and variation for the five samples and control 
+
+The data presented in Table 2 is plotted in Figures 2 and 3. Examining Table 2 and Figures 2 and 3, we 
+notice that alpha variation is bigger than  beta, and beta is bigger than  gamma variation. We also notice that for 
+sample S2 and DC1 (no insulation on cathode contact), the part that was above the electrolyte has a bigger 
+increase of the specific radioactivity for all the three types of radioactivity than the part that was under 
+electrolyte, while for the samples DC2 through DC4 (insulated cathode contact) the results show the opposite.  
+
+Fig. 2. The variation of the specific alpha, beta and gamma radioactivity of the part that was above electrolyte, 
+compared with the reference sample S1. 
+
+Fig. 3. The  variation of the specific alpha, beta and gamma radioactivity of the part that was under 
+electrolyte, compared with the reference sample S1. 
+
+
+4 Gamma ray spectroscopy results 
+
+The gamma spectra were acquired using an ORTEC gamma ray spectrometer with 8000 channels and a 
+germanium detector cooled to liquid nitrogen temperature. The spectra were analyzed with Gammavission-32 
+software. Each sample was placed in a plastic dish and counted for one hour on each of the sides, and the data 
+was averaged. The data averaged for the two sides of each part of each sample, divided by the mass, therefore 
+expressed in gamma counts per gram - hour, are presented in Tables 3 and 4.  
+
+Table 3. Specific (counts per gram-hour) gamma and characteristic x-ray data for control and for the 
+portions of the samples above electrolyte. 
+
+Table 4. Specific (counts per gram-hour) gamma and characteristic x-ray data for control and for the portions 
+of the samples below electrolyte. 
+
+Among the gamma lines and the characteristic x-ray lines, the Th234 92.4 keV gamma line, U 98.5 keV 
+Kα1 x-ray, and U235 186 keV gamma line counts are measured with the smallest error. Therefore, they were 
+selected to be presented. The plots of specific counts for the samples, measured separately for the part that was 
+above electrolyte or under electrolyte, expressed in counts/gram*hour, are presented in Figures 4 through  6. 
+
+Fig. 4. 92.4 Th234 keV gamma ray specific intensity for the electrolysed uranium samples
+compared with the control 
+
+Examining Figure 4 we notice that for S2 and DC1, hydrogen loading produced a significant increase 
+of the specific 92.4 Th234 keV gamma ray emission and for the other three samples the variation is within the 
+experimental error, for the parts of the samples above electrolyte. Four of the parts that were under direct 
+hydrogen exposure, that is under electrolyte, present a significant increase of the specific 92.4 Th234 keV gamma 
+ray emission while one (DC4) has no significant variation. 
+
+Figure 5 shows that both parts of  samples S2, DC2, and DC3 present a decrease of the 98.5 keV 
+uranium Kα1 characteristic x-ray specific counts. The portion of DC1 above the electrolyte level has about 10% 
+lower intensity than the control, but the portion below has the same intensity as the control. Both parts of DC4 
+have about the same intensity as the control. Figure 6 reveals that U235 gamma ray specific radioactivity 
+increased as a result of hydrogen loading for both parts of S2 and DC1 and for the parts of DC2 and DC3 which 
+were below the electrolyte level. It was not modified for DC4.  
+
+Fig. 5. Kα1 98.5 keV uranium characteristic x-ray specific intensity for
+the electrolyzed uranium samples compared with the control 
+
+Fig. 6. 186 keV U235 gamma ray specific intensity for the electrolysed uranium
+samples compared with the control (S1). 
+
+
+5 Topography and surface composition 
+
+Changes in surface morphology which resulted from electrolysis were determined with a scanning 
+electron microscope (SEM), and changes in surface chemical composition were determined with an energy 
+dispersive spectrometer (EDS) attached to the SEM. 
+
+A typical image of the natural uranium surface before electrolysis is presented in Fig. 7. The 
+surface  is nonuniformly fissured and granulated, with granule sizes up to 3-4 µm. 
+
+Fig. 7. Magnified image of the unelectrolyzed natural uranium surface magnified image of the 
+unelectrolyzed natural uranium 
+
+Sample DC1 was electrolyzed and analyzed following the same procedure, that is taking a low 
+magnification image first, then high magnification images and spectra from several locations. A magnified 
+image of the surface of sample DC1,. after absorbing hydrogen, is presented in Fig. 8. Sample DC1 presents 
+evidence of pitting, which may have been caused by the formation of uranium hydride and erosion. The surface 
+is covered with pits having a typical size of about 1 µm. The main difference in the topography of the surface is 
+that on the unelectrolyzed natural uranium sample surface the granules  protrude above the surface while on the 
+electrolysed sample the surface is pitted. 
+
+Fig. 8. A  magnified image of the DC1 uranium surface after hydrogen loading by electrolysis. 
+
+The concentrations of thorium and carbon were measured on an as-received natural uranium sample 
+(the control) and on each sample after electrolytic loading  with hydrogen. The concentration data were obtained 
+with an Oxford Model 5565 EDS, attached to an ISI Model SS40 SEM. The data presented in the tables and the 
+standard deviations, hereafter sigma, are atomic concentrations.  
+
+First only thorium and uranium were selected on the list for the quantitative analysis. Table 5 presents 
+the average values of thorium concentrations and the average standard deviations (σ). 
+
+Table 5. Average thorium concentration and standard deviation for the control natural uranium sample 
+(S1) and for the samples that were loaded with hydrogen. 
+
+The averages are calculated for each sample separately. Table 5 shows that there is an increase of the 
+thorium concentration for the hydrogen-loaded  uranium samples compared with the control, but the increase is 
+smaller than one sigma. All of the  thorium concentrations in Table 5 exceed two standard deviations, so the 
+results are significant. 
+
+The carbon concentrations on the sample surfaces were also determined by EDS. Table 6 presents the 
+average values of the surface carbon content and the average standard deviations for each sample. Examining 
+Table 6, we notice first that the carbon concentrations are significantly larger than two standard deviations. All 
+of the electrolysed samples have significantly less carbon than the unelectrolyzed control. The origin of this 
+carbon is not known. 
+
+Table 6. Carbon average concentrations and standard deviations for the control natural uranium sample (S1) 
+and for the samples that were loaded with hydrogen. 
+
+The data presented in Tables 5 and 6 is plotted in Figures 9 and 10, respectively. 
+
+When examining the Tables 5 and 6, we should be aware that the concentrations that are written on 
+the SEM analysis sheet are not the absolute concentrations. For example, 1% Th means that the ratio 
+Th/U is 1/99,  and 50% C means that the ratio C/U is 50/50, etc. Another important point is that the 
+EDS analysis gives the composition of the surface to a depth of about 1 µm, since a 20 keV electron 
+beam is used. 
+
+Fig. 9. Thorium concentration for electrolyzed samples compared with the control (Unat). 
+
+Fig. 10. Surface carbon concentration for the electrolyzed samples compared with the 
+control,Unat contro 
+
+
+6 Discussion 
+
+The results of the experiments of loading hydrogen into natural uranium samples using electrolysis 
+reveal that the intensity of the alpha radioactivity of the samples increased after loading hydrogen, both for the 
+parts that were located under electrolyte and above electrolyte. The same result was found for the beta 
+radioactivity. The gamma radioactivity increased for the parts of the samples that were under electrolyte for all 
+the samples and for the parts that were above electrolyte for four out of five samples, and was not modified for 
+one of the samples. These results show with a precision that is well above the experimental errors that the alpha, 
+beta and gamma radioactivity of the natural uranium samples increased as a result of absorbing hydrogen. 
+
+Gamma ray spectrometry revealed that for the majority of the samples the intensity of the 92.4 keV 
+Th234 gamma line increased, the intensity of the 186 keV U235 increased and the intensity of the 98.5 keV 
+uranium Kα1characteristic x-ray peak decreased. The atomic electron excitations are produced primarily by the 
+alpha particles emitted by U238 decay. The alpha emission proved to be more intense but the uranium 
+characteristic x-ray intensity decreased. This suggests that the uranium concentration in the electrolyzed sample 
+decreased while the U235 and Th234 concentrations increased. Th234 follows U238 directly in the U238 decay chain, 
+as presented in equation 1. The half life is 24.10 days [1]. The increase of Th234 concentration suggests that the 
+U238 decay rate has been increased as a result of hydrogen absorption. 
+
+A set of nuclear reactions that might explain the increase of the U235 concentration, under the 
+assumption that the decay rate stated in equation 5 is increased, might be: 
+
+The half life of the isotopes in equations 2 through 5 are taken from [2 - 6]. The nuclear reaction in 
+equation (2) is suggested in [7] and the reaction mechanism in [8]. 
+
+These results are very similar to those reported in [9] and [10] where the gamma ray spectrometry and 
+thermal ionization mass spectrometry results reveal a 1% decrease of the uranium concentration in the samples 
+that were exposed to hydrogen isotope plasma. In order to verify that the U238 half life has been decreased,  
+measurements must be taken periodically over a time interval of years to check whether the alpha radioactivity 
+remains increased and whether the Th234 gamma activity remains higher than for the reference sample. Another 
+way to verify that the U238 decay rate has increased for all the isotopes in the U238 decay chain would be to 
+measure the Pb206 to Pb204 ratio by mass spectrometry in both the electrolysed samples and the reference sample. 
+If it is higher in the electrolyzed sample than in the reference sample, then the whole U238 chain decay rate has 
+been increased by hydrogen absorption. This result was already obtained for uranium exposed to hydrogen 
+isotope plasmas [10]. 
+
+
+References 
+
+[1] A.M.Sanchez, P.R.Montero , Simplifying Data Fitting using Branching Ratios as Constraints in Alpha 
+Spectrometry, Nucl.Instrum.Methods Phys.Res. A420, 481 (1999) 
+[2] A.Lorenz , Decay Data of the Transactinium Nuclides , IAEA Tech.Rept.Ser., No.261, 1986. 
+[3] S.A.Woods, D.H.Woods, M.J.Woods, S.M.Jerome, M.Burke, N.E.Bowles, S.E.M.Lucas, C.Paton Walsh, 
+Standardization and Measurement of the Decay Scheme Data of 243Am and 239Np, Nucl.Instrum.Methods 
+Phys.Res. A369, 1996, p. 472. 
+[4] D.Sardari, T.D.Mac Mahon, S.P.Holloway , 239U and 243Am Decay Data, Nucl.Instrum.Methods Phys.Res. 
+A369, 1996, p. 486.  
+[5] G.T.Ewan, J.S.Geiger, R.L.Graham, D.R.MacKenzie, Conversion Electron Spectrum of Np239 and Level 
+Scheme of Pu239, Phys.Rev. 116, 1959, p. 950. 
+[6] A.M.Sanchez, P.R.Montero , Simplifying Data Fitting using Branching Ratios as Constraints in Alpha 
+Spectrometry, Nucl.Instrum.Methods Phys.Res. A420, 1999, p. 481. 
+[7] J.J. Dufour, J.H. Foos, X.J.C Dufour, Formation and Properties of Hydrex and Deutex, Conf. Proce. Vol 64, 
+Anomalies in Hydrogen/Deuterium Loaded Metals, S.I.F., Bologna, 1999, p. 29. 
+[8] H. Kozima, K. Arai, Local Coherence, Condensation and Nuclear Reaction of Neutrons at Crystal Boundary 
+of Metal Hydrides and Deuterides, Int. J. Hydrogen Energy 25 (9), 2000, p. 845.  
+[9] J. Dash, I. Savvatimova, S. Frantz, E. Weis, and H. Kozima,  Effects of Glow Discharge with Hydrogen 
+Isotope Plasmas on Radioactivity of Uranium, Proc. of the 9th International Conference on Cold Fusion, Beijing, 
+p. 77, 2002.  
+[10] J. Dash, I. Savvatimova, S. Frantz, E. Weis, Effects of Glow Discharge with Hydrogen Isotope Plasmas on 
+Radioactivity of Uranium, submitted for publication. 

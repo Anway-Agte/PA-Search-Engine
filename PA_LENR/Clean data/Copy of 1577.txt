@@ -1,0 +1,287 @@
+1. Introduction
+
+Experiments over the past decade and a half have conﬁrmed the existence of an
+excess heat eﬀect in Pons-Fleischmann experiments as well as in related experiments
+involving metal deuterides. As the ﬁeld continues to evolve, there is interest in the
+development of self-sustaining experiments, in which the excess power output is
+used to produce electricity for powering the cell. The motivation for this is that
+such an experiment may be required ﬁnally to convince the mainstream scientiﬁc
+community, as well as the public in general and potential investors, that the basic
+heat eﬀect is both real and useful.
+
+This motivates a brief discussion of the basics of thermal to electric energy
+conversion. The community of scientists and inventors working on the excess heat
+eﬀect come from a wide range of backgrounds and disciplines, so that it seems to
+be of interest to try to develop a tutorial-level manuscript on this problem to help
+establish a common basis for discourse on the problem. For example, within the
+ﬁeld there has been a general sense of optimism that as the power gains rise, a
+self-sustaining device is not far oﬀ, which is true.
+However, there has been less
+agreement on precisely what power gain is needed to achieve that goal.
+
+There are, of course, a limit as to how eﬃciently thermal energy can be converted
+to electrical energy. Consequently, the place to begin our discussion is with the
+Carnot limit, and the reasons for this limit. If we could convert thermal to electrical
+energy with ideal eﬃciency as deﬁned by the Carnot limit, then we can deﬁne a
+power gain requirement for self-sustaining excess heat generation. This power gain
+is on the order of 4.7 for normal acqueous electrochemical experiments.
+
+Commercially available thermal to electric conversion systems do not achieve
+conversion eﬃciencies close to the Carnot limit.
+Consequently, the power gain
+required for practical self-sustaining operation are signiﬁcantly higher. We consider
+brieﬂy as an example thermal to electric conversion based on thermoelectrics. These
+arguments lead to the conclusion that we should focus on excess heat generation in
+metal deuteride systems that operate at elevated temperature, since the conversion
+eﬃciency improves signiﬁcantly.
+
+
+2. The Carnot Limit
+
+The maximum eﬃciency possible for thermal to electric conversion is given by the
+Carnot limita
+where Thot is the absolute temperature associated with the thermal source, and
+Tcold is absolute temperature associated with the heat sink. For example, if we
+consider a Pons-Fleischmann cell that produces excess heat near the boiling point
+(100o C), and consider the heat sink to be at room temperature (20o C), then the
+associated Carnot limit on eﬃciency is
+The power gain required for self-suﬃcient operation in this (hypothetical) case
+would be
+Power gains as large as this have been discussed in connection with excess heat ex-
+periments at ICCF10 and at previous conferences. Hence, self-sustaining operation
+would ve possible in principle at present if only we were able to convert thermal
+energy to electric energy at the Carnot limit.
+
+
+3. Entropy
+
+The Carnot limit derives from arguments about entropy conservation. The notion of
+entropy was introduced originally in the development of classical thermodynamics as
+an intrinsic property of thermodynamic systems.b The connection between entropy
+and the microscopic states of a physical system was given in a famous paper of
+Planck as2
+S = kB lnΩ
+where S is the entropy, kB is Boltzmann’s constant, and Ω is the number of accessi-
+ble microstates of the physical system under consideration. Although this may seem
+to be a bit like estimating how many angels can dance on the head of a pin, it is
+possible to perform this computation for many simple microscopic physical systems
+explicitly, either through analytic summations or integration, or using a computer
+to estimate the number of accessible microstates.
+
+The fundamental postulate of thermodynamics is that all accessible microstates
+are equally probable in thermodynamic equilibrium. The occupation probability of
+any single state is then 1/Ω. The determination of equilibrium conditions between
+diﬀerent thermodynamical systems ultimately boils down to establishing conditions
+under which this is true for all accessible microstates of the diﬀerent systems. If
+energy can be exchanged between two systems, then equilibrium is established when
+where the number of atoms or electrons, the volume and other parameters of each
+system are held constant. If the system is not in thermal equilibrium and this were
+not true, then the total entropy of both systems could increase by exchanging energy.
+
+The requirement that all accessible microstates be equally probable is consistent
+mathematically with the requirement that the two systems together on average be
+in states where the total entropy is maximized. Since the temperature is deﬁned in
+terms of the entropy through
+we ﬁnd that the fundamental postulate leads to conditions where the total entropy
+is maximized, which is equivalent to the temperatures of the two systems being the
+same.
+
+
+4. Carnot Limit and Entropy Conservation
+
+The Carnot limit can be interpreted as being the condition under which the ﬂow of
+entropy is conserved through a thermal to electric conversion system. We consider
+the situation illustrated in Figure 1, in which heat ﬂows through an idealized single-
+stage thermoelectric converter. The heat per unit area (heat ﬂux) entering into the
+converter at the hot side is Qhot, and the heat ﬂux per unit area that leaves the
+cold side is Qcold. The diﬀerence in the two heat ﬂows is assumed to be the power
+per unit area delivered to the electrical load
+
+Figure 1.
+Schematic of thermal to electric conversion system. Heat ﬂows through the converter,
+with Qhot entering on the hot side at temperature Thot, and Qcold at temperature Tcold leaves on
+the cold side.
+
+Qload = Qhot − Qcold
+In terms of these variables, the conversion eﬃciency is
+In association with heat ﬂow, there is an etropy ﬂow that is related to the heat
+ﬂow according to
+where s is the entropy per unit time and per unit area. The relation between entropy
+ﬂow and heat ﬂow depends on the details of the quantum system, states and state
+occupation, but for near-thermal distributions of electrons and holes this relation
+holds. Phononic heat conduction also satisﬁes this relation between heat ﬂux and
+entropy ﬂux.
+
+It is possible for a thermoelectric converter to add to the entropy ﬂowing through
+it. For example, if no thermal to electric conversion occurs, then the input heat ﬂow
+at high temperature will match the heat ﬂow leaving at low temperature. The same
+heat ﬂux at low temperature implies a higher entropy ﬂux than at high tempera-
+ture, due to the relationship between entropy ﬂux and heat ﬂux of Equation (9).
+
+Consequently, in this case the thermoelectric is increasing the entropy associated
+with the heat ﬂow.
+
+Let us suppose now that we have a hypothetical perfect thermoelectric that
+converts as much heat to electricity as possible, subject to the requirement that the
+entropy ﬂow cannot be reduced from the input value. In this case, the best that
+the converter can do is to maintain a constant entropy ﬂux. In this case the heat
+ﬂux is now a function of temperature in the thermoelectric
+Q(T) = Ts
+where s is assumed ﬁxed. Under these conditions, the conversion eﬃciency is
+Hence, the Carnot limit in this example is a statement of entropy conservation. The
+only way to improve on the Carnot limit from this perspective is to work with a
+system in which the ratio of heat ﬂow to entropy ﬂow has a diﬀerent dependence
+on absolute temperature.
+
+
+5. Thermoelectric Current and Voltage Relations
+
+The thermoelectric eﬀect, at least as far as is relevant to thermal to electric energy
+conversion, shows up as an open-circuit voltage when a temperature gradient is
+applied across a thermoelectric material. This basic eﬀect is accounted for in the
+Onsager current relation3
+where J is the current density, σ is the electrical conductivity, Σ is the thermopower,
+and ϵF is the Fermi level. Under open-circuit condition (such that J = 0), a voltage
+drop is induced in the presence of a small temperature diﬀerence (such that the
+thermopower is constant), we can write this as
+The induced voltage can be used to drive an electrical load.
+The current and voltage relation for the thermoelectric in this model is linear.
+
+The short circuit current density is given by the thermoelectric current density
+where L is the thickness of the thermoelectric. The voltage as a function of current
+density is given by
+The power delivered to the load per unit area is
+
+
+6. Eﬃciency of Conversion
+
+We are interested in estimating the eﬃciency of the thermal to electric conversion
+for this device. In the simplest relevant model, we assume that the heat ﬂow into
+the device is determined by the thermal conductivity
+In this case, the eﬃciency as a function of current density is
+The maximum eﬃciency is obtained in this model when the current density is half
+of the thermoelectric current density, which leads to
+This can be rewritten in terms of the Carnot limit as
+The goodness of the thermoelectric for energy conversion then is proportional
+to the material parameters in the ratio
+where Z is the Ioﬀe ﬁgure of merit. The product of this ﬁgure of merit and the
+absolute temperature produces a dimensionless ﬁgure of merit
+that is widely used to characterize thermoelectric materials.
+Within the simple
+model under consideration, the maximum eﬃciency in terms of the dimensionless
+ﬁgure of merit is
+
+Figure 2.
+Optimum eﬃciency in terms of dimensionless ﬁgure of merit ZT .
+
+This optimization is usually carried out with a better model for the heat ﬂow
+into the hot side of the thermoelectric. The simple model that we have examined
+leaves out two eﬀects that are import. There is a heat ﬂow associated with the
+current, which increases the input power and reduces the eﬃciency. There is also
+an incremental heat ﬂow out of the thermoelectric, that is often modeled as being
+half of the total power dissipated in the thermoelectric. Together, this leads to an
+improved estimate for the hot side heat ﬂux
+If we recalculate the optimum eﬃciency using this model, we obtain the results
+illustrated in Figure 2.
+
+
+7. Real Thermoelectric Converters
+
+From the previous section, we see that the attainable conversion eﬃciency of a ther-
+moelectric depends on the material parameters. The goal of many research programs
+over the past 40 years has been to ﬁnd thermoelectric materials with values of ther-
+mopower, electrical and thermal conductivity such that the dimensionless ﬁgure of
+merit ZT is maximized. The best thermoelectric materials presently available for
+applications have a ﬁgure of merit in the range
+ZT ∼ 2
+A thermoelectric converter with a dimensionless ﬁgure of merit of 2 would convert
+heat to electricity at roughly 28% of the Carnot limit.c The absolute conversion
+eﬃciency for such a thermoelectric converter for a Pons-Fleischmann cell operating
+near the boiling point is
+η = 0.060
+We see that the power gain required for self-sustaining operation is now
+The eﬃciency of excess heat production in Pons-Fleischmann cells will need to im-
+prove substantially in order to achieve self-sustaining operation with this technology.
+
+
+8. Discussion
+
+There are several general directions that one can proceed in light of the consider-
+ations outlined above. On the one hand, it may be appropriate to begin focusing
+greater eﬀort on excess heat conversion at higher temperature, since the Carnot limit
+permits higher conversion eﬃciencies when the temperature diﬀerence is greater.
+There are many diﬀerent approaches to this problem that have been discussed at
+the ICCF conferences and described in the literature:
+(1) Miles has proposed taking advantage of the increase in boiling point at
+ultrahigh concentration of salts in the electrolyte as a route to acqueous
+electrochemistry above 100o C
+(2) Nonacqueous electrochemistry in solvents with elevated boiling points
+(3) Electrochemistry in molten salts
+(4) Plasma discharge loading at elevated temperatures, as has been pursued at
+the Lutch Institute.
+For example, if we assume that a high temperature discharge experiment produces
+excess heat at 1000o C, then the associated Carnot eﬃciency is 70%, and one might
+expect conversion to electricity at close to 20%.
+
+There are ongoing research eﬀorts that have as a goal the development of new
+converters that have a higher conversion eﬃciency.
+New thermoelectric materi-
+als are being developed that take advantage of layered materials to hinder ther-
+mal conductivity, and reduced dimension to increase the thermopower. Solid-state
+thermionic conversion is being explored. Thermoelectric semiconductors with emit-
+ter layers and blocking layers have recently shown performance well beyond that
+of bulk semiconductors. Research in the area of thermophotovoltaics continues to
+show promise for achieving high conversion eﬃciency. Industrial electricity produc-
+tion at present is done primarily with gas and steam turbine technology. Absolute
+conversion eﬃciencies with these technologies are be in the range of 30%-40%, where
+the higher numbers correspond to systems with very high operating temperatures
+and regeneration.
+
+Figure 3.
+Carnot limit, and Carnot limit divided by 3, as a function of thermal source temperature
+assuming Tcold = 300K. The gray bubbles indicate approximate projected operating regimes for
+some of the diﬀerent approaches.
+
+This discussion motivates us to consider approaches to the excess heat problem
+that do not require electrical drives. Early observations of the “heat after death”
+eﬀect by Pons and Fleischmann indicated that electrolysis is probably not a pre-
+requisite for excess heat production. The Case cell is of interest in this discussion
+in that it operates without electrolysis or internal currents, and hence only requires
+heat to self-sustain. This is an important advantage in the eﬀort to develop self-
+sustaining excess heat producing systems.
+
+
+9. Summary and Conclusions
+
+We have considered in this paper very basic issues associated with thermal to elec-
+tric conversion, in a paper intended to be a tutorial on the topic. The Carnot limit
+is fundamental to the problem, and we view the Carnot limit as a thermodynamic
+limit of an ideal converter that does not generate entropy in association with the
+conversion process. Practical thermal to electric conversion at present achieves con-
+version eﬃciencies well below the Carnot limit in the case of small scale converters.
+
+The poor conversion eﬃciency associated with the Pons-Fleischmann cell leads
+one to the conclusion that the development of a self-sustaining system with this
+approach will be very diﬃcult, requiring a power gain of more than 15. This re-
+quirement is probably beyond the present capabilities of the most successful groups
+working in the area.
+
+The basic conclusion from this discussion is that other approaches need to be
+focused on as candidates for self-sustaining power generation, and ultimately for
+commercial applications. Excess power generation at elevated temperature should
+be a fundamental goal, as energy conversion can be more eﬃcient in this case. Excess
+power generation in systems that require either minimal or no electrical power input
+are clearly going to play a dominant role in eﬀorts to make self-sustaining devices
+due to the tremendous advantage of avoiding the conversion cycle completely. Such
+systems that operate at elevated temperature will have clear advantages in the
+conversion of thermal to electrical energy.
+
+
+References
+
+1. P. L. Hagelstein, S. D. Senturia, T. P. Orlando, Introductory Applied Quantum and
+Statistical Mechanics, Wiley Interscience, Hoboken, NJ (2004).
+2. M. Planck, “Distribution of Energy in the Natural Spectrum,” Deutsch. Phys. Gesell.
+2 237 (1900); also published in Ann. Physik 2 553 (1901).
+3. Johen E. Parrott, “Thermodynamic theory of transport processes in semiconductors,”
+IEEE Transactions on Electronic Devices, 43 809 (1996).

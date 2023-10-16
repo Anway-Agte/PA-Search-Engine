@@ -1,0 +1,182 @@
+1. Introduction
+
+According to our current understanding of Cold Fusion, we are faced with a paradox. On one hand, we
+get positive results for excess heat. But on the other hand, there is no theory to back it. The following is
+a short overview of SuperWave™ Reality, which clarifies this issue on two fronts: it is a new
+understanding of nature, and therefore a new approach of how to go about understanding nature in the
+first place. The production of excess heat becomes not an anomaly but something expected and natural.
+This is because SuperWaves™ reveals something new: an underlying truth about the details in science
+and in nature. It does not negate the findings of science but places them firmly in a new context. It is
+not an alternate view, but a way to imbed what we already know into an entirely new framework. It is
+the ultimate underlying reality of nature. And, it is exceedingly simple.
+
+I derived this new understanding from life. Life is the most complex thing that we know of, and it
+offers vastly different insights from what is considered to be simple, i.e. the reductionist, scientific
+approach to understanding physical reality. I had dealt with the problems of disease and death as a
+vascular surgeon, and dealt with life, human performance, and health as founding Chairman of the
+United States Olympic Sports Medicine Council. While working in these capacities, I discovered an
+entirely new approach for understanding the dynamics of biological systems in terms of their rhythms.
+First, we must understand that all motion and all processes in a living organism are rhythmic.
+
+Everything moves in waves: from the circadian rhythms of day and night to the behavioral cycles of
+exercise and recovery or anxiety and relaxation, to organ cycles such as the heart beating or the lungs
+breathing, to the cell cycle, to molecular oscillations and the metabolism. Everything in the human
+body is oscillatory. This simple, extraordinary discovery is that the heart beat itself cycles
+simultaneously within the exercise-recovery cycles of the entire organism --waves waving within
+waves. Thus, our familiar view of the heart rate, graphed as linear motion in an electrocardiogram,
+misrepresents nature. In nature, the heartbeat follows no line, but rather accelerates up and down,
+speeding/intensifying then slowing/relaxing, in synchrony with the whole body as it makes a larger
+cycle of exercise and recovery. That which we separate conceptually into two scales is inextricably
+joined in nature. The heart and blood vessels pulsate in cyclic patterns of waves of contraction and
+relaxation, which simultaneously nest as an inherent continuum within the exercise and recovery cycles
+of the organism as a whole. No boundaries separate the different modes of function – they merge into
+each other. I call this the HeartWave.
+
+
+2. Fractal properties of natural phenomena
+
+The concept of HeartWave incorporates many features of “fractal” dynamics. “Fractal” objects, in
+nature, are the same on different observation scales; in particular, properly fractal objects are the same
+if the scale changes are the same in all directions; intermediate fractal or “self-affine” objects are the
+same if the scale changes are different in each directions.
+
+ Fractal structure in the human body may be easily recognized by observing, for instance, the lungs and
+the circulatory system. A fractal motion shows similar patterns on different time scales, just as in the
+case of the heartbeat. The heart beat is a complex motion, made of an extended set of oscillations,
+whose amplitudes vary continuously over the full frequency scale. The measurement of such a kind of
+motion with a standard instrument inevitably fails to give a complete description of it, due to the
+limitations of scale and sensitivity of the instrument. The right approach to measure / describe such a
+“complex” (i.e. fractal) motion, is to extract from the single measurements, each on a limited scale, the
+scale-invariant relationship embedded in them.
+
+There are three major characteristics of the HeartWave, all properties of the inherent continuity of the
+cross-scalar relationships of waves waving: 
+
+1.  Frequency and amplitude are a continuum across scales. The standard approach of treating 
+waves using orthogonal dimensions including amplitude and frequency, allowing linear 
+deconvolution via Fourier transforms, are practical means of working with waves that 
+nonetheless fail to capture important ways in which waves interact.  A shift of frequency in 
+one scale simultaneously influences amplitude on the next scale, and vice versa, as an inherent 
+continuum across all scales.  Waves waving necessitates that these waves are ultimately not 
+linear on any scale; waves waving are responsible for what science has been calling the 
+ubiquity of non-linearity in nature 
+
+2.  Since waves waving within waves occurs simultaneously across scales, we have what 
+science calls non-locality or action-at-a-distance. The continuity of nested waves 
+simultaneously affects each other across scales, top-down and bottom-up as they move 
+forward, and change in time. They exhibit action-at-a-distance, at the same time that they 
+change causally. I call this “simulcausality”. 
+
+3.  This unremitting pattern of nested waves is an unbroken fractal phenomenon of order. The 
+sharper the slope of the carrier wave, the faster the inner waves accelerate, which 
+simultaneously increases frequency and amplitude of the inner waves, and thereby increases 
+their density as they climb the carrier wave. Therefore, within the peak of the carrier wave is 
+the highest density and motion, of inner waves – what we call attraction. Conversely, towards 
+the trough, the waves slow down, flatten, and disperse – what we call repulsion. All of this 
+arises from the cross-scale continuum of the fractal order of nature.   
+
+This powerfully constructive order of the HeartWave is present down through all levels of physiology, 
+chemistry, and molecular biology, and in particular, what we call energy metabolism. The same three 
+points outlined above: (1) frequency-amplitude as a continuum; (2) simulcausality; (3) the inherent 
+fractal order of waves waving. The fractal order of the HeartWave explains why Brownian motion in a 
+living organism exhibits highly elevated degree of order in its many levels of cybernetic feed-forward 
+and feed-back loops [1].  This motion becomes enfolded and constrained within all the rhythms of the 
+organism as a whole.  
+
+With the increased wave density and motion in the peak of exercise, the chemistry and metabolism 
+exhibit an increase of heat. In contrast, there is a cool down in the troughs of recovery. Where there is 
+motion, there is heat, therefore it can be understood that waves waving is the origin of temperature 
+differences throughout nature. 
+
+In summation, the HeartWave encompasses the whole organism, the organs, cells, the molecular 
+biology, and the metabolism. They all exhibit the same pattern of motion as waves waving within 
+waves. If we take this down another level of scientific investigation, we reach the world of the atom 
+and quantum physics. It is here that I concluded that all nature is, in reality, an inherent continuum of 
+waves waving. This is in sharp contrast to our current thinking. The HeartWave, when followed down 
+through all scales of nested oscillatory motion, tells us by logical extrapolation that the particle 
+recognized by science as a wave packet (or wavicle) is not boundaried independently in space but is 
+nested as an inherent continuum within a carrier wave.  
+
+Recently fractal waves have been involved in approaching and solving quantum mechanics  problems.  
+It has been demonstrated that fractal waves are fractal solution of the Shrodinger equation for a wide 
+class of quantum problems, including the infinite potential well, harmonic oscillator, linear potential 
+and free particle [1]. Fractal mathematics was also applied to other complex fields of physics, as, for 
+instance, in investigating the fractal structure of the universe [2] and the fractal structure of surfaces.  
+
+Fractal concepts apply also in chemistry, as for instance to the structure and chemistry of porous solids 
+and to the growth of polymers and colloids.  Fractal science is in progress and is extending across an 
+increasing number of disciplines.  
+
+We extend such a concept to fractal modulated electric currents applied to electrochemical and glow 
+discharge cells, since the signal can be traced back to a self similar shape. The signal is composed by 
+several nested waves (SuperWaves™ see Fig.1) characterized by the same amplitude frequency ratio 
+(the fractal dimension in this picture).  
+
+Fig. 1. - Showing nature and synthesis of fractally nested SuperWaves™. 
+
+The organization of fractal waves (SuperWaves™) in our electrochemical, glow discharge (and other) 
+experiments were intended to bring this principle to bear by stimulating cyclic processes across scales.    
+Peaking of SuperWaves™ is the natural origin of what is termed excess heat.  Clear evidence of the 
+SW effect in controlling the excess of power production during electrochemical loading of palladium 
+with deuterium is described in the appendix. 
+
+
+3. Appendix 
+
+An example of one of the ways that SuperWaves™ can contribute to enhancing LENR excess heat 
+effects can be demonstrated from the advantage of pulsatile (rather than dc) current or pressure driven 
+loading of hydrogen (and its isotopes) into metals that has been demonstrated to be a necessary 
+condition for the occurrence of the effect.  
+
+The dissolution of hydrogen isotopes into a metal lattice is not only a problem of thermodynamic 
+equilibrium between the hydrogen inside the lattice and the hydrogen in the external phase (gas or 
+liquid) it is also a problem of dis-equilibrium produced by mass transfer. Both aspects of the 
+phenomenon are correlated since the equilibrium concentration of the solute is achieved when the 
+chemical potentials of the hydrogen in both phases are equal. 
+
+The chemical potential of the hydrogen in solid solution in a metal lattice is strongly influenced by all 
+field force, like the stress field, modifying the free energy of the system [3].  Hydrogen isotopes 
+dissolved into a metal (i.e. palladium) occupy interstitial positions causing lattice expansion. This 
+process generates a stress field when remarkable concentration differences (strong gradients or 
+coexistence of different phases) are created.  
+
+Therefore the loading process can be inhibited by an opposing stress gradient, particularly adjacent to 
+the external surface.  When a stress field is created is the hydrogen chemical potential into the metal 
+lattice, increased by the product between the molar volume of the hydrogen in the lattice and the trace 
+of the stress tensor. 
+
+Also the flux equation modify : 
+Compared with Fick’s law there is an additional term involving the stress gradient.  Equation [2] shows 
+that a zero flux condition may occur even if the concentration gradient has a non zero value (if the two 
+terms into the brackets have the same value).  A mass transfer equation has been obtained to describe 
+the evolution of the hydrogen concentration profile during the loading of H into Pd [3]: 
+Appropriate metallurgical treatments may help in reducing the concentration gradients (i.e. the stress) 
+in loading palladium with deuterium.  In addition a proper loading dynamics can contribute to have a 
+better loading.   
+
+We may explain this with an example. Figure A1 shows the H concentration profile evolution when the 
+effective pressure is changing between two pressure levels arbitrarily labeled Hi and Low.  When the 
+pressure is high (Hi) a strong concentration gradient is created close to the surface of the sample to be 
+loaded. A reduction of the pressure followed by a further increasing, destroys the gradient close the 
+surface and move the region of high loading further into the sample, while relaxing the surface 
+condition. If we again repeat the same operation using a new period that is comparable with the 
+diffusion time required to move the hydrogen from the surface to the inside position were the gradient 
+exists we may destroy the gradient again moving it into further inside, and so on. 
+
+The problem is that the real systems we are working with are made up of polycrystalline materials with 
+distributed grain size. This requires many periods and amplitudes to make effective the process above 
+described across the whole domain. A fractal wave (SW) can perform this task and provide a strong 
+enhancement to both the loading and flux, both conditions that are known or believed to be important 
+preconditions for LENR excess heat in the Fleischmann-Pons Effect.  The experimental evidence of the 
+effect of Super Waves on Deuterium loading is shown in Figure A2 
+Fig. A1 - Concentration profile evolution under high-low pressure cycling 
+Fig. A2 - Experimental evidence of the SuperWave effect on loading. 
+
+
+4. References 
+
+[1] M. Haw, “From Steam Engines to Life?”, American Scientist, 95, p. 472, (2007). 
+[1] D. Wojcik, I.B. Birula, K. Zyczkowski, Phys. Rev. Lett. 85, N. 24 (2000) 5023. 
+[2] Pieronero, L. "The Fractal Structure of the Universe: Correlations of Galaxies and Clusters". 
+Physics A (144): 257., (1987). 
+[3] A. De Ninno, V. Violante, A. La Barbera, Phys. Rev. B. 56, N.5 (1997) 2417. 

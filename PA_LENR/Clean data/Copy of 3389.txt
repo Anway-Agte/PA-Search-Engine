@@ -1,0 +1,258 @@
+1. INTRODUCTION
+
+At the Fusion Research Laboratory at the University,
+of Missouri-Columbia, experiments to study a new
+potential method of initiating cold fusion in solid-state
+materials has begun. This method utilizes a Maxwellian
+plasma to load solid-state target materials such as palladium,
+nickel, tantalum, titanium, rhenium, and tithium
+with deuterium. To date, the necessary diagnostics to
+measure deuterium-loading factors have not been developed
+for this experiment. It will be assumed that this
+method will at least have loading factors of 0.7 (deuterium
+atoms/palladium atoms). A loading factor of 0.7 is
+obtainable by simply exposing the palladium to deuterium
+gas. (1)
+
+The target material was substituted for the collector
+in retarding potential ion energy analyzer. An ion energy
+analyzer was chosen because it mitigates the Debye
+shielding effect which prevents optimal ion collection.
+This ion energy analyzer was then placed into the point
+of a simple mirror machine called the Modified Missouri
+Magnetic Mirror Experiment (M4X). The Max was used
+as the ion source and as a vacuum vessel for sub-atmospheric
+deuterium tests.
+
+The M4X is a microwave heated plasma device ca-pane of generating a wide range of plasma conditions
+and is a recent upgrade of the Missouri Magnetic Mirror
+Prototype experiment (M3pX). The differences between
+the two devices is shown in Table I. (It should be noted
+that by varying microwave power the bulk electron temperature
+can vary from 1-10 eV and the bulk ion temperature
+from 0.5-10 eV.) This new experimental device,
+the MaX, uses water-cooled copper coils. The M4X device
+has incorporated an upgrade to the coil power sup-plies which allows electron cyclotron resonance heating
+with a 10.5-GHz, 10-kilowatt power supply obtained on
+surplus in addition to the 2.45-GHz, 2.5-kW power supply
+already being used. Some additional work has been
+done on the vacuum vessel of this device which improves
+the conductance to the vacuum pumps, and improves
+diagnostic accessibility. Additionally, a 10-kilowatt
+tuneable RF power supply (2-5 MHz) has been added
+for ion cyclotron resonance heating experiments. The
+availability of the electron cyclotron resonance heating
+and the ion cyclotron resonance heating will provide a
+variety of ion temperatures. Additionally, the vacuum
+vessel of the M4X has a gas manifold which will allow
+a choice of ion masses.
+
+The diagnostic package used for the cold fusion
+work included: (1) a 0.15-meter long by 0.025-meter
+diameter BF3 probe encased in a 0.15-meter diameter
+polyethylene moderator. The electronics package is contained
+in a Ludlum model 2200 digital counter for neutron
+counting, (2) sodium iodide detector with a Nucleus
+PC II MCA for gamma spectroscopy, (3) two geiger
+counters to measure gamma-rays, (4) gold foils for neutron
+detection, (5) Langmuir probes for electron temperature,
+density, and distribution function measurements,
+(6) variable energy analyzer for ion temperature, density,
+and distribution function measurements, (7) thermocouples
+on both the palladium sample and the BF3
+probe, (8) bolometer for charged particle measurements,
+(9) residual gas analyzer for gas analysis, and (10) helium
+leak detector for He detection.
+
+
+2. EXPERIMENTAL SET-UP
+
+The cold fusion target was designed to fit into the
+mirror field point of the M4X as shown in Fig. 1. The
+neutron detector was 0.45 m from the palladium target.
+
+Two types of targets were used in the experiments reported in this paper. The first target was designed to
+have the optimum capability to collect ions. Using a
+simple electrode or a Langmuir probe would lead to low
+ion currents due to Debye shielding effects. Therefore
+the Fusion Research Laboratory's expertise in ion energy
+analyzers was used to design a gridded target which collects
+several orders of magnitude greater current than a
+Langmuir probe or an electrode. The design is shown in
+Fig. 2.
+
+The second target was a simple Langmuir probe
+used primarily in the sub-atmospheric studies 
+
+
+3. THE M4X DATA-ACQUISITION SYSTEM
+
+
+The VEA, bolometer, Langmuir probe, thermocouples,
+and machine status (magnet current, microwave
+power, vacuum) were all taken on a digital data acquisition
+system (Fig. 4). Analog signals were channeled
+to a Bi Ra 5909 32 channel A/D converter in a CAMAC
+crate then loaded via GPIB to a Macintosh II. Data on
+the actual current to the probe was also taken in this
+fashion. Initial analysis and storage was accomplished
+with Labview software developed by National Instruments.
+All other data was taken manually and recorded
+in bound notebooks.
+
+
+4. EXPERIMENTS
+
+
+4.1. Experiment 1, 3/27 to 4/16/89
+
+
+A sample of palladium tubing was obtained for the
+initial experimental effort. The palladium tubing was
+crushed into the shape of a flat rectangular disk (7 mm
+by 7 mm by 0.25 ram). The crushed palladium was
+mounted in the ion energy analyzer configuration and
+was placed in the point of the M4X operating in the
+mirror mode.
+
+A base pressure of 9 x 10 -7 Torr was established
+in the M4X for 24 hrs. After this 24 hour period, a low
+Ar flow rate through the M4X was established. A plasma
+was formed with microwave heating and background
+neutron readings were taken. The background readings
+were 1 + 13 neutrons per 7 min counting period. Background
+counts were taken over 3 hours.
+
+A low D 2 flow rate was established in the M4X.
+Neutron and gamma-ray measurements were made at
+this point and readings of 3 + 1.73 neutrons per seven
+min counting period and 0.03 mR/hr were observed. A
+plasma was formed and the magnetic field and microwave
+power were varied during the experiment.
+
+When the deuterium plasma was formed, there was
+an increase in neutron counts and gamma-ray readings
+to 11 _+ 3.317 neutron counts per 7-min period and 0.07
+mR/hr, respectively. The ion density in this plasma was
+1 x 10 x~ deuterium ions per cm 3 with an ion temperature
+of 1.5 eV. Thermocouple, measurements indicated that
+the palladium temperature increased from 69-90~ during
+the 10-min run (see Fig. 5).
+
+The plasma was turned off and the neutron and gamma-ray readings dropped to 4 __ 2 neutron counts per
+7-min period and 0.02 mR/hr, respectively. When the
+plasma was re-started, the neutron counts increased to
+8 +_ 2.8 neutron counts per 7-min period and the gamma
+readings increased to 0.06 mR/hr. The plasma parameters
+were consistent with those of the first run, however
+the palladium temperature rose to ll0~ The duration
+of the exposure of palladium to the plasma was 30 min.
+
+After the plasma was turned off, the neutron counts
+and gamma-ray readings dropped to background levels
+for 10 min, and then they abruptly increased to 7-+2.6
+neutron counts per 7-min period and 0.1 mR/hr. It was
+noted that the palladium temperature started at 110~ and
+had dropped to about 80~ when the neutron and gammaray
+readings increased. We believe that the temperature
+of the palladium was an important factor in the increased
+neutron and gamma-ray activity. After 10 min, the palladium
+sample was taken out of the vacuum vessel and
+the neutron and gamma activity immediately dropped to
+background levels. The gold foil was taken out and examined
+for activity. There was no activity probably due
+to the low level of neutron production.
+
+
+4.2. Experiment 2, 4/17 to 4/27/89
+
+A new sample was made from crushed palladium
+tubing (7 mm by 7 mm by 0.25 mm). The M4X achieved
+a base pressure of 7 x 10 .7 for 48 hrs. Background readings
+were taken with Ar and D2 plasma while the sample
+was being built. These background readings were 40 -+ 6.3
+neutrons per 30-rain counting period. The sample of palladium
+was then placed into the ion energy analyzer
+target and the target was put in the point region of the
+M4X. Residual deuterium gas pressures of i x 10 -5 Torr were measured in the chamber. During that time neutron
+counts were observed. 
+
+Apparent production of neutrons at sub-atmospheric
+pressures was observed over a 9-hour period. The peak
+rate of neutron production was 297_ 17.2 counts per 30-
+rain period. After the 9-hour count, an experiment to
+evaluate temperature effects was initiated. The thermocouple
+wire was used as a resistive heating element. As
+the sample was being heated, the neutron counts abruptly
+dropped to background level when the temperature reached
+100~ (see Fig. 6). The gold foil did not have sufficient
+activation to indicate neutron production.
+
+
+4.3. Experiment 3, 5/12 to 5/20
+
+
+A 25.4-mm by 25.4-mm by 0.5-mm palladium foil
+was used in the configuration shown in Fig. 3. The target
+was placed in the point of the M4X. During the experiment,
+both plasma and pressure were used to initiate
+neutron counts. As seen in Fig. 7, neutron backgrounds
+were taken over a period of 140 hours. Neutron counts
+above background were observed at both relatively high
+D2 pressure and very low D 2 pressure.
+
+There appears to be a cyclic behavior in the neutron
+count rate (counts were staggered between day, evening,
+and early morning to eliminate the possibility of periodic
+noise). The peak neutron count rate was about 100 sigma
+above background.
+
+About 200 hours into the experiment, an unusual
+8.1 MeV (about 3 MeV broad) gamma peak was observed
+(see Fig. 8). Clearly the gamma-ray energy is too
+high to be associated with natural background and had
+to come from prompt gamma emission. The 3 MeV full
+width half maximum of the 8.1 MeV gamma peak is
+also unusual and not well understood at this time. The gold foil did not have sufficient activation to indicate
+neutron production.
+
+
+5. CONCLUSIONS
+
+The experiments conducted between March 27 and
+May 20, 1989 have had sufficiently interesting results
+which warrant further research. Apparent neutron and
+gamma-ray production was observed during our first experiment
+which utilized a Maxwellian plasma to load the
+palladium target. During the second experiment, subatmospheric
+concentrations of deuterium were sufficient
+to exhibit apparent neutron production. During the second
+experiment, the sample was heated while yet producing
+neutrons, and the neutron production abruptly
+ceased when the sample temperature exceeded 100~
+No gamma-ray production was observed during the second
+experiment however. During the third experiment,
+it took nearly 150 hours of pressure cycling before neutron
+production was observed. No significant gammaray
+output was evident until nearly 200 hours into the
+experiment when a mysterious broad 8.1 MeV peak was
+seen.
+
+There are many questions which remain to be resolved
+before these experiments can be explained. We
+are improving our neutron counting methods, for example,
+by implementing He 3 detectors and by actually
+examining each of the pulses generated by the detector. Also, gas samples will be taken from the exhaust of the
+roughing pumps and examined for tritium decay. (Our
+residual gas analyzer never yielded any useful data due
+to molecular complexes of deuterium and hydrogen which
+have mass readings of 3 (HD), 4 (D2), 5 (D2H), and 6
+(D3). Therefore, it was impossible to distinguish between
+these molecular complexes and the expected fusion
+products T, TD, T2, He 3, and He4).
+
+We believe that there are too many unknown variables
+which make it difficult to perform a good controlled
+experiment. For example, the role of sample
+preparation is an important issue. The different samples
+used in these experiments appear to behave differently.

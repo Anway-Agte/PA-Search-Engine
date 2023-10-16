@@ -1,0 +1,292 @@
+Introduction
+
+Claims of observations of anomalies in metal deuteride and metal hydride systems
+continue to be reported. These anomalies include the production of excess heat, tritium,
+helium, neutrons, MeV charged particles, x-rays, gamma rays, and induced radioactivity.
+To account for any of these anomalies, we require that there exists some route for a large
+quantum of energy to be transferred from the local microscopic scale of atoms and nuclei
+to the macroscopic scale of the surrounding lattice. As a prototypical example of this,
+we consider the initial Pons-Fleischmann conjecture that
+may account for excess heat production. From our point of view, the experimental
+evidence in support of this is suggestive but by no means conclusive. Our focus here is
+on the theoretical aspects of this kind of conjecture.
+
+If the energy from the d + d reaction could go into a single highly excited phonon
+mode directly with some efficiency, then the overall reaction would be Dicke enhanced
+( this was observed and presented by the author in April 1989; the possibility of Dicke
+enhanced fusion reactions is also a key part of Preparatta's theories). Assuming that the
+reaction were mediated by the strong force, the ratio of the rate of such a Dicke enhanced
+reaction to an incoherent channel such as the neutron branch would be
+where T/ is the efficiency of the coupling to the lattice ( as measured against the kinematic
+coupling associated with incoherent neutron production), and where N Dicke is essentially
+the number of reacting pairs that communicate with the highly excited phonon mode. 
+Within such a scenario, there is no branching ratio problem, and there is no longer any 
+need for an enhanced tunneling effect. In the experimental claims, the observed heat to 
+neutron ratios are consistent with Dicke numbers in excess of 1014. 
+
+Interestingly enough, we conclude that the major outstanding theoretical problem is 
+not how to elude the Coulomb barrier; and it is not how to account for anomalously low 
+neutron emission rates. The big issue is, and always has been, whether a large energy 
+quantum can be transferred efficiently from a nuclear reaction to new degrees of freedom 
+associated with the surrounding environment. This is true not just for heat production, 
+but also for tritium production, gamma emission, charged particle emission, and induced 
+radioactivity. Consequently, our interest must be focussed on the problem of anomalous 
+energy transfer. 
+
+
+Coupling between the Microscopic and Macroscopic 
+
+We wish to transfer a large energy quantum from the microscopic (atomic or nuclear) 
+level to the macroscopic (lattice) level. There is an issue as to what macroscopic degree of 
+freedom to couple to, as there are electronic, vibrational and electromagnetic degrees of 
+freedom. From our perspective, the coupling to the electric or electromagnetic degrees of 
+freedom is weak at best, and so we prefer phononic degrees of freedom. For the discussion 
+that follows, we imagine optical phonon modes, although high frequency acoustic modes 
+may also be relevant. 
+
+Intimate coupling between phonons and nuclei has not really been addressed previ­
+ously, although weak coupling between the two systems is well known (NMR lineshape 
+studies and nuclear acoustic resonance studies are relevant in this regard). We have re­
+cently proposed the use of a hybrid scheme to analyze local dynamics in a lattice with a 
+strongly excited phonon mode. This hybrid scheme is implemented using lattice position 
+operators 
+
+The phonon mode amplitude here is (j, and the effects of all of the other phonon mode 
+amplitudes are combined into Rj. We refer to this operator as a residual position opera­
+tor, which differs from the position operator on the LHS only in that it does not include 
+the contribution of the single highly excited mode. 
+
+This formulation allows us to address systematically a variety of quantum problems 
+in which one or more atoms or nuclei interact in the presence of a strong phonon field. 
+For example, strong excitation of a high-k optical longitudinal mode will act to bring 
+interstitial deuterons more closely together, which provides a handle for interactions 
+between the nuclei and the phonon mode. One interesting problem that immediately 
+presents itself is the effect of such a highly excited phonon mode on the fusion rate 
+within the lattice. A Born-Oppenheimer type approximation 
+is appropriate, as the mass associated with the phonon mode is many times the mass of 
+a single atom or nuclei. We can study the effect of phonon excitation on the atom-atom 
+overlap probability by solving the two-body Schrodinger equation 
+
+As the phonon excitation brings the atoms on average closer together, the atom-atom 
+overlap increases. As the phonon excitation moves the atoms on average further apart, the 
+atom-atom interaction decreases. This dependence of the close range nuclear interaction 
+on the phonon coordinate provides a basic coupling mechanism that is a prerequisite for 
+a possible anomalous energy transfer effect. Work is in progress seeking solutions to this 
+equation. 
+
+
+There is no first order anomalous energy transfer effect 
+
+We can use the hybrid description described briefly above to examine whether energy 
+can be transferred from the nucleus to the lattice under various assumptions. The sim­
+plest possible mechanism through which an energy transfer effect might operate is direct 
+first order coupling, mediated by the strong force. One example of this is to couple the 
+dd-fusion energy directly to the lattice. We consider a highly excited lattice in which
+the lattice excitation energy exceeds the nuclear binding energy by whatever factor is
+required, and then calculate rates according to Fermi's Golden rule
+where V represents the strong force interaction. The results are that the associated 
+reaction rate is very small, and we conclude that the lattice phonon mode is not able 
+to accept a large quantum through a first order interaction. The difficulty in conserving 
+energy and matching momentum at the same time lies at the heart of why first order 
+coupling doesn't work in this case. A large .6.E is to be transferred, but the corresponding 
+.6.p that can be coupled to the lattice is not commensurate. 
+
+We can develop some intuition as to what the underlying physical issue is by con­
+sidering a highly idealized version of the problem. The essential difficulty with a first 
+order anomalous energy transfer effect can be visualized in terms of a classical analog 
+in a reduced dimension space as illustrated in Figure 1. The axis associated with the 
+phonon amplitude is labeled q; in the absence of the nuclear interaction, the potential in 
+q is parabolic corresponding to an underlying harmonic lattice model. There are a very 
+large number of other axes, corresponding to the different mode amplitudes. The only 
+important variable contributed by all of these other modes in this problem is the relative 
+separation, which we have indicated schematically as a residual relative separation axis, 
+denoted by .6.r. Where the two nuclei come together in residual space is determined by 
+the mode amplitude; at zero phonon amplitude the two nuclei are normally far apart, 
+and at large phonon amplitude they are somewhat closer together. When deuterons ap­
+proach, there is an attractive nuclear potential and a repulsive Coulombic potential, both 
+of which are represented in the figure. 
+
+The dynamical problem of anomalous energy in this example is analogous to the 
+classical problem of launching a frictionless particle up the parabolic slope, and arranging 
+for it to come back down in the slot. For a very narrow and deep slot, there is just no 
+way to do it [we would need the particle to bounce off of some other potential in order to 
+scatter into the slot - however, no other potential appears in this idealized model]. That 
+this is so can be seen by considering microscopic reversibility. A particle launched within 
+a deep slot is not going to come out on account of the relatively weak force associated 
+with the parabolic potential. 
+
+Figure l: Schematic of classical lattice-nuclei dynamics. 
+
+The extension of this basic argument to higher dimensions does not solve the essential 
+problem. Replacing the classical problem by the equivalent quantum problem, which 
+introduces a tunneling effect, also does nothing to fix the problem. A nonlinearity in 
+the phonon mode potential, which is known for PdD, also is not helpful. We conclude 
+that anomalous energy transfer to a single phonon mode by first order coupling simply 
+doesn't work. Extending the argument to the case of several phonon modes does not 
+change this conclusion. 
+
+
+Discussion 
+
+The basic problem with a first order anomalous energy transfer effect for a fusion 
+process is that the energy quantum t::.E is extremely large, but the coupling is relatively 
+low order in q. For example, suppose that the coupling to the phonons were first order. 
+
+The lattice can respond in this case at ±wo ( where wo is the resonant frequency, a 
+few 10s of meV), with some additional spread in frequency due to damping. If the 
+lattice response off resonance by several Me V away were finite, then we would have 
+reason to expect a first order transition. However, phonon-phonon coupling and phonon­
+electron coupling processes dominate the damping of the phonon mode, and the frequency 
+response associated with these mechanisms is at the sub-e V level. 
+
+A higher order initial interaction certainly helps in this regard. For example, a fusion 
+. reaction coupled to a highly excited phonon mode could in principle couple exchang­
+ing 100 phonons. The lattice response would then occur at a correspondingly higher 
+frequency, and damping would induce a larger spread in the linewidth. Nevertheless, 
+the broadening due to phonon-phonon and electron-phonon coupling is still relatively 
+small on a per phonon basis. Consequently, even strongly nonlinear coupling with the 
+associated broadening effects, is not able to do the job. 
+
+What we need in this context is some dissipative mechanism that transfers a large 
+quantum with an associated low order coupling to the excited phonon mode. The conven­
+tional dissipative mechanisms of course do not work this way, but that does not address 
+the more interesting question as to whether there exist unconventional dissipation chan­
+nels with this property. Our initial difficulties arise because in coupling a fusion reaction 
+to a lattice phonon mode, the interaction involves large b..E with a noncommensurate 
+smaller b..p. Perhaps there exist other dissipative processes with similar characteristics. 
+For example, there are endothermic processes with low order phonon couplings and with 
+large b..E, such as alpha decay or recoil. If these processes are included, then the lattice 
+will exhibit high frequency fluctuations associated with low order matrix elements. In 
+this case, one would expect to see anomalous energy transfer effects. 
+
+
+Anomalous energy transfer with second order process 
+
+The discussion of the preceding section provides the key to what is required for models 
+that address anomalous energy transfer. A fusion reaction coupled to a highly excited 
+phonon mode that has very high frequency fluctuations can go. However, since the 
+requisite high frequency fluctuations have not been studied previously. we must include 
+them explicitly in our model. We then propose a second order model in order to describe 
+a first order anomalous energy transfer effect in the presence of anomalous fluctuations. 
+In this section, we outline the model; detailed computations are in progress. 
+
+Such a second order theory can be based on Fermi's Golden rule in the form 
+where Va might be the strong force interaction relevant to an exothermic fusion event, 
+and where ½ might be the Coulomb interaction relevant to an endothermic recoil event. 
+
+In light of our discussion above concerning fluctuations, we might also develop a 
+"lineshape" type of theory, based on using a rotation to replace the first order dissipative 
+coupling with an approximate second order "damping" term 
+In this case, we obtain a theory for reaction rates that is written in terms of an anomalous 
+In this case, the new dissipative terms appear explicitly as an anomalous line broadening 
+effect. 
+
+
+Overview of the new theory 
+
+We have specified in the previous sections a new second order theory for anomalous 
+energy transfer. It remains to evaluate reaction rates for specific processes to understand 
+the predictions of the model; work is currently in progress to do exactly this. However, 
+certain features of the theory are apparent and deserve comment. 
+
+Within the model, a highly excited phonon mode results in a coupling between an 
+exothermic reaction at one site, and one or more endothermic reactions at other sites. 
+There are three exothermic channels that appear to be most relevant: d + p -3 He, 
+d+d ---+ 4 He, and d+d ---+ t+ p. In all cases, the leading order microscopic interaction is 
+a strong force E2 phonon-nuclear coupling, where the notion of phonon-nuclear coupling 
+as used here is introduced earlier in this work. As the t + p channel must result in nearly 
+stationary protons and tritons, the final state channel is S-wave, which requires strong 
+force E2 coupling as the lowest order relevant interaction. There is no intermediate fusion 
+gamma production anywhere in this model. 
+
+The endothermic channels that are relevant (in the sense that they can dissipate a 
+large t::..E with a small phononic t::..p) include Coulomb-mediated alpha decay, neutron or 
+proton ejection, beta decay and atom-atom recoil processes ( other channels are possible, 
+but these appear to be the most relevant for the field). These processes can be accompa­
+nied by x-ray or gamma emission, and in some cases by either the creation or destruction 
+of radioactive species. 
+
+The model gives naturally Dicke superradiant enhancement factors for reactions that 
+couple to the same excited phonon mode. Optical longitudinal phonon modes with 
+high k have the strongest phonon-nuclear coupling, but non-trivial coupling exists for 
+other modes. We know that the relevant optical modes are strongly damped, so that 
+it is impossible to obtain Dicke factors on the order of 1014 in the absence of a gain 
+mechanism for the phonons. The new model is capable of providing phonon gain at low 
+levels, since a small fraction of the anomalous energy can be accepted by the phonon 
+mode. Such a mechanism is critical for addressing excess heat production within the 
+theoretical framework. 
+
+
+Limitations due to the uncertainty principle 
+
+Other issues are also of interest. One would expect that attempts to transfer a 
+large quantum of energy from one site to another might be exponentially damped. This 
+issue is often phrased in terms of a Heisenberg uncertainty argument: for a continuous 
+distribution of energy eigenstates, an energy transfer of t::..E is associated with a time 
+increment t
+Speed of light limitations then produces an upper limit of distance to which the energy 
+can be transferred 
+This argument is often given as effectively ruling out all theories that attempt to describe 
+a coupling of a large energy quantum (such as from a nuclear reaction) to the surrounding 
+environment. The basic argument is that there is not enough time available for the energy 
+to be transferred even to the nearest atom, much less to a delocalized mode. 
+
+The new model appears to be consistent with this, as long as we are careful to use 
+the relevant configuration space. The underlying hybrid lattice description is given in 
+terms of phonon mode amplitudes and residual position vectors. In this case, the relevant 
+spatial distance for the uncertainty principle argument is in the configuration space of 
+the excited phonon mode, and we require that 
+The phonon mode amplitude cannot change by very much between the exothermic and 
+endothermic parts of the overall process. The same phonon mode interacts with local 
+systems at different sites, so that the overall interaction is real space is nonlocal. 
+
+This does not address the more interesting question of the conditions under which the 
+hybrid description of phonon mode plus residual position operators is appropriate. For 
+example, we would expect exponential damping of these effects to occur in the thermal 
+limit, due to destructive interference between the different modes. We might expect 
+that as the phonon mode amplitude increases, the importance of the phonon mode as a 
+quantum system increases in the problem. At some highly elevated level of excitation, 
+we might expect that the lattice would be able to facilitate the transfer of an anomalous 
+energy quantum. This issue is a very important one for further study. 
+
+
+Energetic protons 
+
+Kasagi reported at ICCF6 the observation of energetic protons in accelerator experi­
+ments in which deuterons bombarded a metal deuteride sample. This effect is conjectured 
+to be due to a three-body ddd-fusion reaction. The probability that two deuterons are 
+sufficiently close in the lattice to give rise to such a large yield is many orders of magni­
+tude too low (in the absence of other new physics) to be consistent with the experimental 
+observations. Consequently, we offer here a speculation based on the model described 
+above. 
+
+If we assume that in these experiments that somehow a phonon mode is sufficiently 
+highly excited to allow anomalous energy transfer, then it may follow that a small frac­
+tion of the time the lattice can transfer energy from an energetic dd-fusion event. The 
+probability of this will likely depend on the momentum of the bound deuteron due to 
+the lattice excitation compared to the relative momentum between the two deuterons. 
+The predominant dissipation mechanism that would involve energetic protons within this 
+model would be ejection of protons from the host metal nuclei mediated by the Coulomb 
+interaction between the bound proton and nearby nuclei. Such a mechanism, if correct, 
+would be observable in noncommensurate mean neutron and proton energies, in a depen­
+dence of the mean energy on host metal, and on secondary gamma emission. This may 
+provide a route to clarify basic anomalous energy transfer mechanisms experimentally. 
+
+
+Atomic Recoil 
+
+Atomic recoil is proposed as an important dissipation mechanism for the second order 
+model discussed above. Energy transfer to a single atomic recoil event would require 
+Me V charged particles in large quantity associated with heat production, and this is 
+not consistent with the experimental claims. We speculate here that there exists within 
+the theory pathways in which multiple recoil events occur at lower energy as well. The 
+motivation for this is that the longitudinal phonon modes that are effective in bringing 
+deuterons close together to fuse are the same modes that can bring them together to 
+scatter. 
+
+We are considering that for excess heat production the predominant dissipation mech­
+anism is low energy recoil of a large number of deuterons from each other. Mathematical 
+details of this model in terms of relevant collective coordinates will appear later on else­
+where. The ability of a lattice to dissipate energy through such a mechanism will be a 
+strong function of the size of the phonon mode; larger modes will have access to lower 
+average energy recoils. 

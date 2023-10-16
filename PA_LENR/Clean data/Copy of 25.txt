@@ -1,0 +1,138 @@
+INTRODUCTION 
+
+In any field of investigations new ideas in combination with newly developed equipment
+can provide advance results. In view of arising interest to cold nuclear fusion (CNF) [1] and
+searches for consequences of its occurrence the study of the interaction of hydrogen with
+metals has coincided with the wide spread of the micro-probe X-ray spectrum analysis. This
+analysis is performed during measurements of alloying element concentration [1] with
+resolution of about 1x1 µm2.
+
+Savvotimova et al. [2] revealed the appearance of residual elements on the surface of a
+palladium cathode after electrolysis in the plasma of а glow discharge in deuterium medium
+and established that concentration of these elements increases by tens and thousands times.
+The authors ascribe the local concentration of elements (Ag, B, Ni, et al.) to transmutation
+resulted from nuclear reactions, though, according to the measurements made by the authors,
+the number of detected γ -quanta is 8-10 times less than it is required for the case of
+appearance of such amount of residual elements. The results of this paper in respect to
+accumulation of elements are confirmed in a number of publications relating to electrolysis
+on palladium cathodes [3,4] where the term “non-expected elements “ was introduced.
+The present paper ascribes the appearance of these clusters in titanium alloy samples to
+ascending diffusion of impurities.
+
+
+MATERIALS AND EXPERIMENTAL PROCEDURE 
+
+A sample of VT9 titanium alloy was saturated by hydrogen (1
+H) from a gas phase at the
+temperature T= 8500 C up to the concentration CH= 0, 57 wt. % using a Siverts type device.
+The sample was subjected to multiple steps forging in the air at the temperature T≈ 6000C
+with changing the axis of deformation through 900
+according to the technique described in [5].
+The analysis of its composition was made using an electron microscope Jeol JXA-6400
+with an X-ray-fluorescent adapter.
+
+
+EXPERIMENTAL RESULTS 
+
+In recent years we studied the formation of ultra fine-grained structure in titanium alloys
+during severe plastic deformation using reversible hydrogen alloying [5]. Prior to mechanical
+testing the samples was subjected to degassing. The samples with a total weight of 30 g and a
+minimum thickness of 2mm were installed into a special device. In the process of
+dehydrogenation annealing of the samples at the temperature 600°C one observed a semitransparent film of a metal with the dimensions ∅35x120 mm at the distance of 100 mm from
+the furnace. The metal observed was Zn, and its concentration was no less than 98 %. The spectrum analysis of the initial metal showed the presence of Zn with the concentration not
+exceeding 10-4 wt %. The rapid calculation showed that the available amount of Zn was
+sufficient for the formation of the film revealed. 
+
+
+DISCUSSION OF RESULTS 
+
+First of all it should be noted that the alloy was saturated by conventional hydrogen (1
+H),
+and one cannot speak about any transmutation of elements.
+One of the most advanced theories of solid-state physics is a notion of dislocations as
+microscopic defects of a crystal lattice. At present, on the basis of the theory of dislocations
+many experimental facts are explained including those connected with the interaction of
+hydrogen with metals. It is known that hydrogen interaction with dislocations creates
+atmospheres [6-8]. 
+
+A number of studies devoted to the formation of dislocations and their interaction with
+interstitial and substitutional impurities during deformation of metals are known. For
+example, it was concluded [9] that substitution atoms with an ion radius larger than the ion
+radius of the basic metal (R0) and all interstitial atoms are concentrated in the region of
+tension formed by the dislocation field, while atoms with the ion radius smaller than R0 tend
+to the region of compression
+
+It is also known that hydrogen atmospheres move at rather low strain rates since with
+increasing strain rates to some critical values, dislocations lose contact with atmospheres [6].
+That is why traditionally low strain rates are used for the formation of fine-grained structure
+[10]. The joint action of these processes is responsible for the formation of segregations of
+residual elements with hydrogen in the vicinity of the sample surface during multiple step
+forging. Further vacuum annealing of samples at the temperature T≈ 6000
+ C leads to intense
+release of hydrogen that leaves the sample together with zinc impurity.
+
+The elevated rate of diffusion in the presence of dislocation was noted in a number of
+studies devoted to self-diffusion [11, 12], and was explained as diffusion along dislocation
+tubes [13]. So, the extraction of zinc from samples can be explained by well known
+mechanisms of solid-state physics without applying additional ideas such as transmutation of
+elements.
+
+The process of saturation of samples by hydrogen isotopes at room temperature also leads
+to the processes analogous to the ones described above. However, this occurs not due to
+external deformation. As the hydrogen concentration in the metallic matrix increases the
+constant lattice grows [7, 8] and at room temperature this results in initiation and growth of
+internal stresses. These stresses generate dislocations that have their own non-symmetric
+stress fields. The region of tension created by these stresses is inhabited by interstitial and
+substitutional atoms the sizes of which are larger than the sizes of atoms of the basic metal,
+while the region of compression is inherited by substitutional atoms with sizes less than those
+of the basic metal. As a result, Kottrel atmospheres are created [9]. 
+
+It is rather easy to explain the formation of hydrogen atmospheres and segregation of
+metal ions in them during electrolysis in water solutions or saturation in the plasma of а glow
+discharge, the radius of metal ions being different from that of the titanium or palladium.
+Nobody doubts in the existence of atmospheres of hydrogen atoms at room temperature. That
+is why the creation of clusters of residual elements depends only on the duration time of
+hydrogen saturation that should be long because of the low rate of diffusion. Then, due to the
+movement of such clusters some impurity elements come to the surface
+
+From photos given in [3, 4] it is seen that segregations of unexpected elements have a
+local character. On the basis of general considerations it seems that exactly so must look the
+results of local diffusion along the dislocation tubes
+
+The influence of such atmospheres comprising deuterium and concentrated impurities on
+fusion of deuterium nuclei, i.e. cold nuclear fusion itself, is not yet clear. This issue requires
+additional studies
+
+The occurrence of such high concentrations of alloying elements in the vicinity of the
+surface of a metal can lead to the formation of new phases including the ordered ones. Due to
+their brittleness these phases can cause initiation of cracks and this might be one more reason
+for hydrogen brittleness. 
+
+Besides, this phenomenon has its own independent value, since after more thorough study
+it can be used for purification of hydrogen solvent metals from impurities. This can be
+implemented for processing articles out of pure and extremely pure metals such as palladium
+and titanium. 
+
+
+REFERENCES. 
+
+1. Fleischmann M., Pons S.- J.Electroanal, 1989, v. 261, p. 301.
+2. Karabut A.B., Kucherov Ya.R., Savvatimova I.B. Phys. Lett. A, 1992, v. 170, p. 265.
+3. Kopecek R., Dash J. J.New Energy, 1996, v. 1, No 3, p. 46.
+4. Dash, J. Miguet S., J. New Energy, 1996. v. 1, No 1, p. 23.
+5. Murzinova M.A., M.I. Mazurski, Salishchev G.A., Afonichev D.D. Int. J. Hydrogen
+Energy, 1997, v.22, No 2/3, pp. 201-204.
+6. Zwicker U. Titan und Titanlegierungen, Shringer-Verlag, Berlin-Heidenberg-New
+York, 1974.
+7. Kolachev B.A. Hydrogen brittleness of metals. M: Metallurgia, 1985, 217p.(in
+russian)
+8. Alefeld G, Völkl I, editors. Topics in applied physics. Hydrogen in metals, vol. 1.
+Berlin, Heidelberg, NY: Springer, 1978.
+9. Kan R. W. editor. Physical metallurgy, Amsterdam,North-Holland Publishing
+Company, 1965.
+10. Kaibyshev O.A. Superplasticity of Alloys, Intermetallides and Ceramics.- SpringerVerlag Berlin Heidelberg New York, 1992, 317 s.
+11. Gjostein N A Physicochemical Measurements in Metals Research ed R. A. Rapp and
+R. F. Bunshah (New York: Wiley) 1970, vol. 4, part 2 , p. 405.
+12. Balluffi R. W. Phys. Stat. Solidi 1970, vol. 42, p. 11.
+13. Kaur I, Gust W. Fundamentals of Grain and Interphase Boundary Diffusion, Stuttgart,
+Ziegler Press, 1989. 

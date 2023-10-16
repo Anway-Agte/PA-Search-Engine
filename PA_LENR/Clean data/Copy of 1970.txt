@@ -1,0 +1,121 @@
+1. Introduction
+
+After the known work of Fleishman and Pons on neutron and excess heat registration at heavy water electrolysis [1] many attempts to reproduce this result were reported [2].
+In our experiments we used a low voltage electric discharge at a low deuterium pressure. This approach is much more suitable for X-ray and charged particle registration because the detectors can be placed in the discharge chamber itself. In our previous work we saw excess heat, a correlation of the heat release values with the neutron flux change and we measured the neutron flux by various methods including silver foil activation [3]. By measuring the gamma spectrum we found a radioactive isotope formation, we measured the neutron spectrum in which neutrons with energy up to 17 MeV could be seen, and achieved reproducibility of the effect [4].
+
+Our next work was devoted to the prolongation of the nuclear reaction, an increase of the excess heat values and an increase of the measured parameters: X-ray and gamma-ray spatial distribution, charged particle registration, etc.
+As methods using electronics are not immune to electric pick-ups we tried to use independent methods wherever this was possible - activation, tracks, photoemulsion, for absolute nuclear product flux measurements. We also performed spectral measurements after the discharge switch-off, allowing one to improve the reliability of the results.
+Complex measurements of the fluxes and the energy spectra of the neutrons, gamma emission, X-rays and charged particles allowed us, putting aside the nature of the effect, to compare the heat release and the energy carried by the nuclear reaction products.
+
+
+2. Experimental
+
+The experimental device (fig. 1) consisted of vacuum chambers with diameters of 1.5 × 10-1 and 2 × 10-1 m and a volume of 10-2 m3. The vacuum system allowed a residual pressure of ~ 10- 3 Pa. The gas fill system was supplied with multi-stage gas purification cells. The cathode assembly consisted of a quartz insulated thin-walled stainless steel holder with a molybdenum heat collector at the end. The heat collector has channels for cathode thermocouples. The cathode sample is placed on the collector and fastened with an Al2O3-insulated cap. Usually the cathode sample (cathode) was in the form of a foil 10-4 – 10-3 m thick with an area of ~ 10-4 m2. As a cathode we used various materials, such as metals, alloys and ceramics. All excess heat results and the largest nuclear product fluxes were achieved with specially treated palladium. The anode assembly consisted of a quartz insulated thin-walled molybdenum tube holder with thermocouple channels and a massive molybdenum end. In the chamber’s upper flange an appendix was made for silicon surface barrier detectors (SSB). The chamber had a quartz inspection window. In separate experiments the insulating quartz tube or the calorimeter were inserted into the discharge chamber. X-ray films or photo-emulsion cassettes, CR-39 detectors and various screens could be inserted into the chamber. All other detectors for neutron and gamma-quantum registration were placed outside the chamber (see fig. 1).
+
+Fig. 1. Experimental device. (I) Calorimeter design. (1) Vacuum chamber, (2) inspection window, (3) heat collector, (4) insulator, (5) anode, (6) anode holder, (7) cathode sample, (8) cathode holder, (9) thin-walled holder, (10) quartz plate, (11) inspection window, (12) aluminium oxide insulation, (13) screening insulation, (14) thermocouples.
+The typical deuterium pressure in the chamber was 3-10 Torr, the discharge voltage 100-500 V and the discharge current 10-100 mA. We used both transformer-based and thyristor-based electric power stabilizers for the electric feed.
+
+
+3. Calorimetry
+
+We used the same heat-loss-type calorimeter as described in ref. [3]. The calorimetric insert is shown in fig. 1.
+We used W-Re thermocouples in the cathode and the anode and electrically insulated CC thermocouples in the heat collector. The thermocouples were the standard type used for nuclear reactor thermometry, providing a better than 1% accuracy. The signal from the thermocouples was registered with KCII-4 automatic registrators, providing a 0.5% accuracy and a reaction time of 0.1 s. The electric discharge current and voltage were registered with the same registrators, thus providing discharge power measurements with ~ 1% accuracy.
+
+The calorimeter calibration was done in hydrogen and in deuterium, using a “worn-out” palladium cathode (with no neutron or gamma emission). The latter approach allowed us to eliminate the difference in heat conductivity of hydrogen and deuterium. We used two approaches to measure the heat: the calorimeter integral efficiency and the heat loss curves for the calorimeter elements. The former is much easier to process and the latter is more accurate, but requires the use of three calibrations for every calorimeter element instead of one integral. For interesting cases we processed the results both ways.
+The amount of heat measured by the calorimeter consists of an input electric energy Qel=IVτ (I is the current, V the voltage, τ the discharge glow time) and an excess heat Qn. We measure this heat as a sum of elements: Qm=ΣQi, where
+Qi=CiMiΔTi.
+Here Ci, Mi, ΔTi are, respectively, the heat capacity, the mass and the temperature difference for
+the cathode, the anode and the heat collector.
+
+
+4. Integral efficiency method
+
+The heat release in the calorimeter consists of Qei, resulting from the electric discharge glow, and the excess heat from the nuclear reaction Qn (if such a thing exists). Then the measured heat Qm is
+Qm=(Qn+Qei)η(Q),
+where η(Q) is the calorimeter efficiency, depending on the measured heat. When Qn=0 we can
+write
+η(Q)= Qn/Qei.
+It is evident that η<1, because in the quasi-stationary regime Qei exceeds Qm by an amount equal to the conductive losses of the cathode and the anode holders and the convective losses. The thermal radiation losses are small due to the calorimeter design and the small heat collector temperature (T ≤ ~100°C).
+If we assume the heat registration to be independent of the physical nature of the heat source, which is quite reasonable because in our experiments the neutron and gamma emission which can leave the calorimeter is relatively small (usually less than 10-5 W), then by measuring η=η(Q), Qm and Qei we can determine Qn:
+Qn= Qm/η-Qei.
+So the calorimeter calibration consists of measuring η=η(Qm) with regimes close to real
+experiment.
+
+
+5. Heat loss method
+
+At every given moment for every calorimeter element (cathode, anode and heat collector) the input power is compensated by an element temperature change W  Q /  , where Q=CMΔT.
+When the discharge is switched off every element temperature has a corresponding heat loss power (conductive and convective losses). Thus by measuring the cooling curve one can define the heat loss power for each temperature and the calibration consists in measuring Wlosses = Wlosses(T) for each calorimeter element.
+
+A multiple calibration processing both methods showed a reproducibility of the calibration with an accuracy of ~ 4% in the interval of absorbed heat 100-1000 J and of 10% at 5 kJ. The degradation of the accuracy with temperature is supposedly related with the instability of the convective flows in the chamber with increasing heat gradient. These values by far exceed all other experimental errors and define the accuracy of the measurements.
+As an example fig. 2 shows the change of the electric energy Qei, the measured heat Qm and the real heat Q corrected for the time. Figure 3 shows the change of the electric power and the excess power with time. This curve is obtained by differentiating the curve in fig. 2.
+The best result of 78 calorimetric experiments is a 33 W excess power at a 500% efficiency ε, where
+Qm Qei/Qei.
+Without special means the average values for the excess heat time and the efficiency are 20 min
+and 50%. We solved the duration problem but high efficiency values are still sporadic.
+
+Fig. 2. Time dependence of the amount of heat in the calorimeter. Qei is the electric discharge heat, Qm the heat measured by the calorimeter, Qcor=Qm/η, with η the calorimeter efficiency.
+
+Fig. 3. Time dependence of the power released in the calorimeter. Wm is the power measured by the calorimeter, Qei the electric power.
+We must note that the excess heat correlates with the neutron flux change but not with its value. We also must note that most of the excess heat is released at the cathode, sometimes more than 90% of the total amount of heat.
+The amount of excess heat we can measure with a passable accuracy is about 6 kJ, which is much more than one can get from chemical reactions, even if one would burn all the deuterium in oxygen (a 106 times higher O2 concentration is needed for that), which would give only 800 J.
+
+
+6. Charged particle registration
+
+To measure charged particles we used a silicon surface barrier detector of DKD and DKP type with a thickness of 25 to 509 μ and an energy resolution of 25-50 keV. The efficiency of the counters in the used geometry was about 10-5. The cosmic and natural radioactivity background was less than one count per hour. We used various degrading foils, from 6 μ (C2H2)n to 50 μ beryllium. Earthed brass grids with 2 μ aluminium foils were used to protect the detectors from electric pick-ups. Still the results obtained during the discharge glow are disputable. But as we can often see a signal for a few minutes after the discharge switch-off, spectrometry at this time is much more reliable. 4.58 and 5.16 MeV alpha particles from 235U and 239Pu isotopes were used to calibrate the measuring channel, consisting of an AMUR amplifier and an AMA-3 multiscaler. The charged particle spectrum is shown in fig. 4. Energies up to 18 MeV can be seen. A degrading foil is not the best method for particle type definition, but the 3.5 MeV peak are alphas, the whole region with E> 10 MeV corresponds to particles with an atomic number A ≥ 4 and the 12 and 16 MeV peaks are probably alphas.
+Energetic alpha particles were probably observed in the first experiments with charged particle registration [5].
+
+In the first publication where CR-39 polycarbonate detectors were used to detect charged particles during deuterated metal thermocycling [6] a significant amount of charged particles was found though the type of particles was not defined.
+
+Fig. 4. Charged particle energy spectrum, measured after the discharge switch-off. Calibration was done with alpha particles.
+In collaboration with the team from the Moscow Physico-Engineering Institute, using 239Pu- calibrated CR-39 plates placed in the discharge chamber, alpha particle tracks with a density of 2 × 105 cm-2 were found, corresponding to a 105 s-1 emission from the cathode and roughly corresponding to the SSB results. The average energy (4-5 MeV) is also consistent with the average energy from the measured spectrum (2-4 MeV). The photographs of the 239Pu-treated and discharge treated standardly developed CR-39 plates are shown in fig. 5. About 102 neutrons per second were registered in this experiment.
+
+
+7. Gamma-quantum registration
+
+In the previous experiments [4] we used various scintillation detectors of various efficiencies but with low energy resolution. Later we used mainly a liquid-nitrogen cooled Ge-Li DGDK-50 detector with a 1.6 keV resolution at the 1332 keV gamma-line energy and a measuring range up to 10 MeV. The detector efficiency in our geometry was ~ 10-3 for the 511 keV gamma line.
+The measuring procedure consisted in a constant gamma-background monitoring before the experiment, measurements during the experiment and for about one week after the experiment. The spectrum goes back to its initial state in 3-5 days (for the Pd cathode). Numerous radioactive isotope lines can be seen. In accordance with previous measurements most of the rhodium isotopes can be seen at the palladium cathode. Some strange isotopes, such as 86mSr can also be seen. The experimental gamma spectrum for the Pd cathode is shown in fig. 6. We must note that the ≈ 5 MeV gamma-line intensity is very low, eliminating d-p reactions. An abbreviated list of gamma lines for the Pd cathode is given in table 1.
+
+To determine the spatial distribution of the gamma emission we used RT-1V X-ray films with lead screens. It appeared that gamma emission exists in the form of spatially uniform emission and narrow beams. Beams have two modifications, with smaller and larger angular divergence. A photo of these beams at a distance of 0.5 m is shown in fig. 7. Judging from the attenuation by lead films in most of the beams the gamma-quantum energy is about 200 keV, though some of them have a higher energy. Most of the beams can be found in the cone 45°-60° with the cone axis coinciding with the discharge chamber axis.
+Using the same X-ray film with aluminium and lead screens X-rays with diffraction spots can be seen (fig. 8). Most of this radiation lies in the range 5-20 keV. As the intensity of this radiation is rather high some of it can be detected with the same Ge-Li detector. The characteristic X-ray lines of palladium can be clearly seen around 20 keV. The X-ray intensity was evaluated by densitometry of the exposed films.
+
+Fig. 5. Scheme of the CR-39 detector plate placement in the discharge chamber. The left photo plate is irradiated with 239Pu alpha particles; the right photo plate is irradiated in the discharge chamber.
+Fig. 6. Energy spectrum of gamma radiation from the discharge chamber with a palladium cathode.
+Fig. 7. Photo of gamma beams on an X-ray film with a 2 mm lead screen.
+Fig. 8. X-ray diffraction spots on an X-ray film placed in the discharge chamber in a lead cassette with a 0.5 mm aluminium window.
+
+
+8. Nuclear product intensity ratio
+
+Using the above described methods, a table of the detector type, the detector efficiency, the sensitivity and the measuring error can be constructed. We must note that the measuring error has nothing to do with the physical error, which in the case of charged particles can be very high, depending on the type and the energy of the particle and the distance from the cathode surface to the reaction area. The average energy based on the spectrum measurements can also be placed in this table (table 2).
+
+The intensity ratios of the gamma quanta, neutrons, charged particles and X-rays averaged over a few experiments look like
+If we take the average energy from the table, the energy transfer ratio for the products will look like
+E:En:Ec.p.:Exr = 1:(10-3–1):(1–103):(1–10).
+If we take the extremal values in the last ratio the charged particles are transmitting 106 times more energy than the neutrons, still 3-4 orders short of the values allowing one to explain the calorimetric results.
+
+
+9. Cathode material change
+
+A more detailed paper on the material science aspects will follow this one but some of the results concerning the subjects of the present paper will be noted. The palladium cathode after the work in the discharge chamber at temperatures up to 400oC was etched from the back side and analyzed with a high resolution transmitting electron microscope. A lot of small size “bubbles” with dimensions of 100-1000 Å and density 1020 m-3 can be seen to a depth of 1000- 10000 Å. Such pictures (fig. 9) are characteristic of bombardment at temperatures higher than half of the melting point (750°C) with high-energy deuterons. Some of the cathodes together with the reference samples were analyzed at the Rockwell International Laboratory (Oliver’s group). A small increase in the 3He concentration and a large increase in the 4He (4-100 times) concentration was found in the discharge treated samples. This is the third independent evidence of 4He presence in the nuclear reaction.
+After the experiments the cathode samples were autoradiographed with degrading foils. Some tritium was found along with the high energy particle traces, equivalent to 0.5 MeV betas. The high-energy component disappears in about one week after the discharge switch-off.
+
+Fig. 9. Transmitting electron microscope photos of a palladium cathode at a distance of ~ 2000 Å from the cathode surface. (b) is in the central zone of (a).
+
+
+10. Conclusion
+
+Many new questions arise with the latest results. The trigger mechanism of the nuclear reaction still remains unclear. As we already pointed out charged particles with a good portion of alphas are found in quantities 3-4 orders short of those needed to explain the excess heat. We did not measure the electron flows in our work and this still leaves the possibility of K-electron capture with a radioactive isotope formation with a consequent beta decay with large energy release. A more plausible scenario is that the main mass of the charged particles does not leave the cathode. This leaves us with two possibilities: either they have a small energy or they are heavy. Judging from the transmitting microscopy results most of the cathode material damage takes place at a depth of 1000-10000 Å from the surface. If this is the region were the nuclear reaction takes place most of the alphas must have an energy less than 1 MeV. Palladium fission products even with a high energy will have small paths in the cathode material and the alphas can be by-products. Anyway, the calorimetric results are promising by themselves.
+
+
+11. References
+
+1. M. Fleishmann and S. Pons, J. Electroanal. Chem. 261 (1989) 301.
+2. E. Storms, Fusion Technol. 20 (1991) 433.
+3. A.B. Karabut, Ya.R. Kucherov and I.B. Sawatimova, Cold fusion observation at gas
+discharge device cathode, in: Nuclear Energy in Space Conference, Obnisk, USSR, 15-19
+May 1990.
+4. A.B. Karabut. Ya.R. Kucherov and I.B. Savvatimova, Fusion Technol. 20 (1991)924.
+5. F.E. Cecil and H. Liu, private communication.
+6. S.Y. Donget al., Fusion Technol. 20 (1991) 330.

@@ -1,0 +1,423 @@
+2 Introduction
+
+In the fall of 2011, the company Defkalion Green Technologies (DGT), a Greek company based in Athens,
+officially declared to possess a new technology at the pre-industrial level based on the phenomenology called
+LENR able to produce thermal energy in the range of kilowatts. In November 2012 an Italian company based
+in Milan and named Mose srl signed an exclusive contract for the european industrial development of this
+technology. This contract provides for the complete transfer of the DGT technology to Defkalion Europe (DE),
+an Italian company (50% DGT and 50% Mose and composed exclusively of Italian members of Mose) with the
+intention to develop industrial applications using the DGT technology. In December 2012 DGT moved its
+headquarters to Vancouver in Canada and transferred its laboratories in the campus of the University of
+British Coulmbia (UBC).
+
+As part of the mutual agreements, in January 2013 I went for two weeks in the DGT laboratories in Vancouver
+for acquiring the necessary know-how. I returned to Milan quite disappointed since I was not put in a position
+by the DGT engineers and scientists (namely John Hadjichristos (JH, CTO DGT) and Stavros Amaxas (SA, Chief
+Engineer)) to delve into the details of scientific and technological achievements of the technology.
+With my return in Italy, as requested by DGT, DE started the setup of the laboratory in Milan as a faithful
+replica of the laboratory in Vancouver. In a short time DE prepared the laboratory fully in line with the
+expectations of DGT.
+
+Only on June 17, 2013 SA came to Milan to start the first test of the DGT technology in the new laboratory in
+Milan. Very soon the demos for the European companies started, in line with the agreements reached
+between DE and DGT.
+
+In the first week of July 2013 DGT asked DE to organize a live stream of a demo to broadcast to the ICCF18
+conference scheduled in the United States from 21 to 27 July 2013 at the Missouri University, Columbia (MO).
+On July 23, 2013 the live streaming was broadcasted as scheduled from the DE laboratories in Milan.
+
+This challenging request by DGT has led DE to accelerate the clarification of some important technical aspects
+of the calorimetry which until then had been denied by DGT. To this end, overriding a gentlemen’s
+agreement, DE decided to undertake autonomous tests to identify any malfunctions of the calorimetry
+protocol. All these tests have been appropriately video-recorded and the results of these tests are described
+and detailed in the following paragraphs.
+
+
+3 Anomalous behavior
+
+I list below some anomalies related to the relationship between DGT and Mose :
+
+- During the setup of the laboratory in Milan various improvements were introduced by the DE technicians
+and scientists concerning the calorimetry measurement. In particular a method independent of the flow rate
+measurement has been developed based on the heating of a large amount of water contained in a large tank
+and circulated through a pump in a closed circuit. This measure is independent of the measurement of the
+flow through the coil and it would remove any doubt about the heat measurement. DGT did not allow DE to 
+use such measurement in any of the tests of their technology. As a further improvement we added a second
+flowmeter upstream of the water system in order to verify the behavior of the main flowmeter during the
+measurement of the excess power but also in this case the added flowmeter was readily removed by the DGT
+technicians forbidding us to make any verification.
+
+- In no case has DGT enabled DE engineers to attend the assembly phase of the active components in the
+reaction chamber of the reactor R5 (built by us according to the DGT diagrams) nor left the reactor R5
+complete with all the necessary elements for running the experiment in the DE laboratories without their
+physical presence.
+
+The total lack of cooperation from the part of DGT regarding both the technical information and crosschecks
+have made it necessary to carry out independent verification tests of the calorimetric measurements of
+excess power, especially to protect clients who were about to sign trade agreements and pay fees for the
+access to the DGT technology.
+
+
+4 Experimental DGT protocol
+
+In September 2012 DGT decided to release publicly its experimental results and to prepare to enter the
+industrial market. For this purpose DGT has defined an experimental protocoli
+to demonstrate to potential clients and to the scientific community that the DGT technology is able to produce an excess of thermal
+power compared to the electrical input powerii.
+
+It is therefore necessary to have a system for the calorimetric measurement of the thermal power produced
+and a system of measurement of the electrical power entering the system. The electrical input power is
+performed using a commercial power meter Carlo Gavazzi model EM21 and has been thoroughly verified by
+DE to be perfectly working and well performing. We will focus our attention on the calorimetric measurement
+in the next paragraphs.
+
+
+5 Description of the DGT calorimetric system
+
+The DGT experimental setup is based on a flow calorimetry, of which I give a brief description.
+
+The hydraulic system, shown schematically in Figure 1, is an open circuit connected to the city water supply
+from which it picks up a quantity of water controlled by a precision Pneumax valve model 01/08/81/5.
+Downstream of the Pneumax valve is mounted a 20 um sieve filter and a second filter in which the filter
+element has been removed. This component is used, according to DGT, to show that there are no air bubbles
+in the hydraulic system during the demo. Between the two filters an air vent valve is mounted, held closed
+during the tests. Downstream of the second filter an oval gear flowmeter is mounted, model Alpha Dynamic
+AM1 with digital output. Downstream of the flow meter is present a second valve FBP ¼ ". Downstream of
+the second valve is mounted a fitting fitted with a thermocouple for measuring the inlet temperature of the
+water in the reactor. The fitting is connected, via a flexible tube, to a coil welded to the surface of the central
+body of the reactor R5iii
+. The coil consists of a copper tube, 1/4 " (inner diameter 7 mm) wound on two layers
+of nine coils each and able to remove very efficiently the heat coming from the reactor. The coil is connected
+through a flexible tube to a second connector equipped with a second thermocouple for measuring the outlet
+temperature of the water/steam. Both the hoses that connect the thermocouples to the coil are
+approximately one meter long. Downstream of the second thermocouple is mounted a ½" copper tube
+having the shape of an inverted U about 5 m long as in Figure 1 and whose vertical parts are 1.5 m long.
+Finally, the terminal part of the copper pipe discharges the liquid water/steam in a water drain.
+
+Figure 1 diagram of the hydraulic circuit in the DGT protocol
+
+The counts of the flowmeter are acquired by a digital signal acquisition board National Instruments (NI)
+model PXI-6220 connected to a NI data logger model PXIe1073 and the signals of the thermocouples are
+acquired by a NI data acquisition card model TB4353 also connected to the NI data logger PXIe1073.
+
+The acquisition is controlled by a Labview program, fully developed and tested by DE technicians in its
+entirety and independently of DGT. In particular, it was verified that the system provides a very good
+calorimetric measurement of the thermal power generated by the heaters, in the absence of the reaction,
+with a loss of less than 5 % of the electrical power supplied to the heaters in a configuration with no boiling
+of the water.
+
+
+6 Calorimetric model
+
+The measurement of the power produced in the experimental DGT protocol is based on a flow calorimetry.
+In flow calorimetry without liquid/vapor phase change thermal power is given by
+
+P C T T heat p H O out in    (6.1)
+
+where 2 , 4.18 joule/cc liq Cp H O  is the heat capacity of liquid water, Tin and Tout are respectively the inlet 
+and outlet temperatures of the water and  is the flow of liquid water through the coil.
+
+Since the cooling water reaches the boiling point during the experimental test the heat extracted from the
+reactor cannot be simply calculated from (6.1) but the latent heat associated with the liquid/vapor phase
+transition must be considered. Assuming that all the water entering the coil undergoes a phase transition we
+can say that the thermal power is given by
+
+P C T T L heat p H O out in liq vap        (6.2)
+
+where / 2260 joule/gr Lliq vap  . Since the temperature difference T T out in  80 °C we have 
+  2 , / liq C T T L p H O out in liq vap  meaning that the contribution to evaporation is dominant compared to that of
+water heating. In the DGT Protocol the contribution of the vapor is not taken into account, leading to a 
+significant underestimation of the power measured. Even assuming conservatively that 50 % of the water 
+that passes through the coil does not reach the state of steam, part of the liquid being ejected from the coil 
+before it can reach the state of vapor, the thermal power can be (under-)estimated approximately with the formula.
+
+
+    2
+1
+, /
+1
+0.5 lt min
+24.4 kW lt min
+liq
+P C T T L k heat p H O out in liq vap
+k
+  
+
+         
+  
+(6.3)
+
+where
+ 
+1
+ lt min
+ is the water flow rate, expressed in liters per minute. Then, using the typical value of
+flow measurement obtained by DGT during the demos of
+ 
+1 1  lt min 0.5 0.7 lt min     
+we (under-
+)estimate a power of
+Pheat 12 17 kW  .
+
+
+7 Chaotic production of steam inside the coil
+
+The inability to perform independent tests despite our strong request has led DE to suspect that there might
+be an incorrect use of the flowmeter. The experimental anomalies that resulted from the observation of the
+demos performed by the DGT technicians in fact revealed a strange behavior of the inlet temperature of the
+reactor, as can be seen in Figure 2 (data from the demo of June 27, 2013 for one of the potential clients). This
+observation led us to suspect that some of the water entering the coil around the reactor in some way was
+returning towards the inlet thermocouple thus increasing its temperature slightly.
+
+Figure 2 Abnormal increase in the inlet temperature (in°C) in the coil during the demo of June 27, 2013 (blue: room, green: water
+in, red: water out)
+
+Figure 3 Flow rate (l/min, blue line), power input (watt, green line) and output (watt, red line) measured during a demonstration
+on 27 June 2013. Note the excess thermal power measured compared to the electrical power that would indicate that the demo
+has been successful. The test has been repeated two times over a period of about 4 hours (Tank calorimetry, indicated in the
+figure, has been actually disabled following a request from DGT, as explained in the text paragraph 3).
+
+Figure 4 Evolution of temperatures during the demo of June 27, 2013
+
+Figure 5 Overview of the temperature input, output and environment during the demo of June 27, 2013
+
+Furthermore, the amount of steam produced at the exit of the hydraulic system used to remove the heat
+produced by the reactor was markedly lower than the amount of steam one may expect by a thermal power
+of 7 kW, as stated by DGT. We now estimate the output speed of the steam from the exhaust pipe assuming
+a production of thermal power of
+dQ
+dt
+
+7 kW. The number
+n
+of moles of steam produced per unit of time
+from such a power is given by
+
+dn dQ L
+dt dt
+ , (7.1)
+
+where
+L
+is the molar latent heat of evaporation. Using the ideal gas law
+
+pV
+n
+RT
+
+(7.2)
+
+we derive the volume of steam produced at atmospheric pressure
+5
+10 Pa atm p 
+at a temperature of T =
+100 ° C as
+dV dn RT
+dt dt p
+ . (7.3)
+
+The output speed of the steam is given by
+2
+1 dV
+v
+ r dt
+
+, where r = 14 mm is the inner radius of the outlet
+pipe. The speed can be rewritten as :
+
+2 2 2
+1 1 1
+atm atm
+dV dn RT dQ RT
+v
+   r dt dt r p dt r L p
+   . (7.4)
+
+Introducing the numerical values : L = 40.58 kJ/mol, p = 10 ^ 5 Pa, r = 7 mm, R = 8.31 J mol^-1 K^-1, T=373 °K,
+we obtain the (underestimated) speed
+
+ 
+3
+2
+3 3 5
+7 10 8.31 373 m/sec 34 m/sec 130 km/h
+7 10 40.58 10 10
+v
+
+
+  
+  
+    
+, (7.5)
+
+that, even considering the possible re-condensation of the steam, is very high compared to what you can also
+visually observe in the videos taken during the tests performed by the DGT technicians (see stream of 23 July
+2013 ICCF18iv). The situation gets even worse if we consider an estimate of the thermal output of 15-17 kW,
+as calculated in paragraph 6.
+
+These observations have prompted DE to perform independent testing to verify the correct operation of the
+flowmeter during the test. To this end DE decided to check the operation of the flowmeter by performing a
+test using Ar in place of hydrogen and avoiding the use of the high voltage activation circuit. If the measure
+of the flow meter is correct, itshould provide a measure of the thermal power lower than the electrical power
+sent to the heaters, in agreement with the principle of energy conservation.
+
+The test was performed by replicating as closely as possible the thermal variations observed during the tests
+carried out by the DGT technicians (see for example Figure 4). The goal of the test was to verify the behavior
+of the flowmeter during the strong boiling of the water inside the coil that surrounds the reactor. We verified
+that, by suitably selecting the adjustment of the valves upstream and downstream of the flowmeter, the
+production of steam at low flow regime produces turbulence and induces a regurgitation of the inlet water
+able to temporarily reverse the direction of flow within the flowmeter itself.
+
+Below is a description of the sequential processes that lead to an erroneous measurement of the flow of
+water passing through the cooling coil of the reactor:
+
+1 - At very reduced flow the water remains in the coil for a time sufficient to reach the boiling inside the coil
+
+2 - The volume increase resulting by the production of steam produces a pressure increase which tends to
+push the fluid upstream
+
+3 - The compression of the water contained in the filters is of the order of 1 cc when the pressure exceeds 5
+bar. In fact, the liquid water compressibility is K = 2.2 GPa. A change in pressure of one atmosphere thus
+involves a relative change of volume of liquid water of
+
+5
+5
+9
+10 4.5 10 45 ppm
+2.2 10
+V p
+V K
+  
+        
+
+(7.6)
+
+If we assume an overpressure of 5 bar1 on a volume of 4 liters (the volume contained in the filters upstream
+of the flow meter and the valve between the upstream and downstream), we obtain a change in volume of
+6 V 45 10 4000 5 1 cc         .
+
+4 - The overpressure can build up for short periods of time because the outlet tube of the coil is connected
+to a vertical condensation column of about 1.5 m long (see setup, Figure 1) that contains liquid water as well
+as steam and then produces a barrier to vent the steam. The time required for the vaporization of the water
+is much shorter than the time needed to push the liquid water out of the condensation column. A barrier is
+generated by the inertia of the water inside the vertical condensation column allowing for impulsive buildup
+of the pressure.
+
+5 – During the short period of time associated with the compression of the water inside the filters the gears
+of the flowmeter rotate in the direction opposite to the normal motion (negative rotation).
+
+6 - Since the gears of the flowmeter make a full turn for each cc of fluid that passes through it (see datasheet),
+the flow meter sends pulse counts even when the gears rotate in the opposite direction (the valve
+downstream of the flowmeter is completely open, the valve upstream of the filters almost completely closed
+in this mode of operation)
+
+7 - When the overpressure is sufficient to expel the liquid water from the condensation column downstream
+of the reactor the pressure is lowered again and the compression of the water inside of the filters cancels,
+again by rotating the gears of the flowmeter in a positive direction and generating another count of flow.
+Since the flowmeter is not able to distinguish the negative from the positive rotations, it will consider all
+counts as a positive flow. Such oscillation of the counting pulses of the flowmeter has been verified by a
+direct observation on the oscilloscope (see Figure 6 and Figure 7).
+
+8 – Some of the liquid water contained in the condensation column returns into the coil in the liquid state or,
+alternatively, a small amount of fresh water enters the coil from the inlet hose.
+
+9 - The water heated by the coil boils up, starting the process again. The ability of the DGT technicians in
+handling the valves has allowed them to make this process stable for the time required (a few hours) to
+demonstrate the appearance of thermal energy in excess of the electrical energy input2
+.
+
+10 - In this way, the flowmeter will produce a series of counts arising from the alternating clockwise and
+counterclockwise motion of the gears that do not correspond to a real flow of liquid water. One can get an
+erroneous measurement of flow as large as 1 lt/min (close to the flow rate measurement obtained by SA
+during demonstrations of the reaction) while having the upstream valve completely closed (thus
+corresponding to a null real flow) and this has been actually observed by us.
+
+11 - When the alleged reaction has to be switched off, since it would not be sufficient to remove the power
+supply to the heaters to shut down the reaction because the heat stored in the metal of the reactor would
+continue to evaporate the water for at least another 10 minutes, the two valves (one upstream and one 
+downstream) are operated simultaneously so that the upstream valve is set entirely open and the
+downstream valve almost completely closed. By doing so the correct operation of the flowmeter is set back
+(because now the flowmeter is not subjected to any back stream) and the calorimetric measurements are
+again correct and show a thermal power lower than the electrical power input.
+
+Figure 6 Trace of the digital output signal of the flowmeter during the regurgitation of the inlet water. Note the very irregular
+pulse in time
+
+Figure 7 Trace of the digital output signal of the flowmeter during the phase previous to boiling of water in the coil. Note the
+regular pattern of the pulses in time
+
+
+8 Experimental results
+
+Figure 8 shows the plot of the thermal power measured using the standard DGT protocol in the verification
+test conducted by DE using Ar in place of H2 and using the procedure that induces the pressure variations
+due to water boiling, as described in Parargph 7. It is clearly noted that, while using Ar (considered by DGT
+an inert element for prompting the reaction and used as a reference gas to show that the reaction does not
+occur using Ar) in place of H2 and without making use of the high voltage excitation circuit, we get a
+significant increase in the measured thermal power up to about 17 kW, well above that of the electrical
+power input of about 2.5 kW. This proves beyond any doubt that the test, as conceived by DGT, does not
+measure correctly the thermal power produced which in this case would have to be less than or at most
+equal to the electrical power input.
+
+Figure 8 Screenshot of the test performed by DE using Ar and without using the HV excitation 
+
+Also the power of recondensation of the outlet steam from the exhaust pipe has been measured during the
+test. The steam output was bubbled into a container containing 5.1 liters of water and a temperature
+variation of the water contained in the container has been observed from 22° C to 31.6° C in a time of 180
+seconds. The calculation of the thermal power required to achieve this change corresponds to 1 kW + - 10%.
+During this measurement the flow calorimeter indicated a power of 3 kW and an electrical input power of
+1.5 kW. Taking into consideration the heat losses between the reactor and the exhaust pipes and the
+environment the measurement of 1 kW of thermal output at the exhaust pipe is compatible with the
+electrical power input of 1.5 kW but incompatible with the flow calorimetric measurement of 3 kW.
+
+
+9 Discussion
+
+After several tests performed by DE to validate the DGT calorimetry we must conclude that in the most
+benevolent case we are faced with a gross measurement error that has lasted nearly two years and has
+misled esteemed researchers who have personally witnessed demos of the DGT technology in Greece, in
+Canada and more recently in Italy.
+
+DE has not been put in a position to carry out independent tests on the technology outside of a strict protocol
+defined by DGT and all the tests that DE has witnessed, even in its laboratories, have always been performed
+entirely by technicians from DGT (HJ and AS). During the periods when the DGT staff was not present at the
+DE site some component considered essential for obtaining the reaction was removed in order to prevent
+DE from making independent tests. Since this procedure is not consistent with established contractual
+agreements, DE had the need to perform independent testing taking the opportunity to have the complete
+and certainly working system in their laboratories during the days (and nights) just after the streaming of 23
+July 2013, whose results are contained in this document.
+
+Following the results obtained DE has formally requested technical clarifications to DGT to demonstrate that
+the results obtained by DE could be explained without questioning the existence of the declared
+phenomenology.
+
+On the commercial side DE immediately stopped/froze all negotiations with both Italian and foreign
+companies to protect their clients.
+
+
+10 Conclusions
+
+Despite the importance of the findings, DE has decided to give DGT some time to provide unequivocal
+evidence that the DGT technology was immune to the criticisms raised by DE. However after several months
+and despite continuous and constant request to provide the relevant documentation and/or to repeat the
+experiment, no answer has been given so far. DE has now been put out of business. Consequently, I decided
+to make public the results obtained on the DGT technology stating that the experimental protocol proposed
+by DGT is not trustworthy.
+
+Following the above results it can be concluded that the measurement setup in the DE laboratories in Milan,
+in the mode used by DGT technicians to perform DGT official demos to potential clients and during the
+streaming of the 07/23/2013 at ICCF18, does not correctly measure the heat output from the reactor R5 and
+the overestimation of the power produced is compatible with the non-functioning of the DGT technology
+itself.
+
+The results described in this report, concerning only the methods used by DGT to measure the thermal power
+output, have nothing to do with LENR research and technology that remains a powerful and important
+research field that I believe is worthy of serious study and research and to which I am committed.
+
+
+11 References
+
+i http://iccf18.research.missouri.edu/files/day2/Protocol_and_test_results.pdf
+ii http://coldfusionnow.org/wp-content/uploads/2013/04/2012-08-13-ICCF-17__Paper_DGTGx.pdf
+iii http://www.scribd.com/doc/172213719/Heat-Energy-from-Hydrogen-Metal-Nuclear-Interactions
+iv http://vimeo.com/album/2471728

@@ -1,0 +1,236 @@
+  
+.,J 1. 7· 10
+ca .. -5 
+ca 1.2· 10 
+  . t i
+. 0.7·106 
+.,J ..... 
+t;= 
+Pressure, x:1000 Pa. 
+
+Vitaliy Ronl>danov A., Valeriy Savin I. ,•Yakov Slruratnik B.,
+...eoris Kostenko F., **Vladilen Barashenkov S.,
+**11111ichael Yw-iev Z.
+StateSRI SPA"Wl'CJI"', ZbelezoocbJ:ozma;ya 24, Pock>l.sk, lb9oow ,:eg. 1421.ffl.
+RmSIA. Tel. :m5--137-9258. Fax. :m5--137-9384. K-m. :l.tdAltis.ki.ae.su
+
+
+Abstract
+
+The research of tri ti.um generatial was oooducted at radiatial of rotating
+metal sanples Qr' plasma of IJ()1Nerful. gla, discharge al 􀇐 iso-­
+tops. The new pbeoamnm of shift for maxim• teapnature in directi.al of
+rotatial al metal sanple, al relatial to discharge axis al b,droeen isotops
+is foond out. This shift testifies about excess heat at .increased tenperatures,
+which can be oc •mected with in:eversible processes ( for 􀇑le Qr'
+.nuclear react.i.ais or reactioos with formatioos of heavy oa11>leJreS) .
+
+The lllf'M :banism of la, energy .nuclear reactiais in ocl'W'05ed media (Nlllf)
+is offered, one of certificates for existence which shlul.d be the .registra­
+tial of X-ray- radiatial.
+
+
+Introduction
+
+Karly Qr' us is .revealed, that one of the mast sigr,ifi.cant, al quanticy,
+proclxrt;s of nuclear reacticms in ooodensed DBlia (HID!), arising at la,
+energy interactial for charse particles of }vdrogai .isotops in .radiaticm
+ocmditioos w aocelerated ioos at high tall)erawres of t.ar,Jet, is the tritium
+[1-3] . Tri ti.um pl.a7s the role of indicator, describing availabili 1¥ of
+NIOI. If is p.reseot the sufficient quanti 1¥ of tri ti.um for sure registratial
+in process experiment-means is possible to be assumed the availabilicy
+of ahxmnal. nuclear reactioos, and if is not present of sure registraticm
+for tritium-means and is not present menti.ooed reacticms.
+
+The registratial cm1J, of hlgb--energy neutnms, game;--􀇒radiatiaisand
+charse particles for identificatial of gi'ftD -cypes reactims is obri.ously
+1U)!Q1fficleot, as far as can characterize the lmoRn bigb-eoergy processes,
+it is cas,aJ arising ciJring experiment.
+
+Last experiments al tri ti.um generaticms from metal smples, located in
+enri.n:nnents of l\,droeerl .isotops, at thenal. acti:vatial receive the experimental
+depenienoes for tritian generati.cm rate fram .re-tum tenperature
+(Fig. 1), proporti<mal depenieooe al .i.ocrease of tritium generaticm .rate
+from pressme of gas in lcmg experiments ( Fig. 2 [7]), and is sh.Jim, that optinum on tritium generation rate is in .regicn 10 % deuterium for mixes of
+proti.lD-deuterium ( Fig. 3 [ 4)). At the same time, at present all proofs of
+availabili t.Y NRo.l have the statistical nature, and resu1. ts of separate experiments
+is not identical. Therefore, cme of main tasks, is the search and
+developnent of new experimental techniques, the .Dait total accounting reve­
+aled features of low energy .reactions and admi. tting unequivocal interpretati.cn
+of the resu1. ts. The present work is devoted to .research of new techni -
+que of experiment with rotati.cn of sanple and discussion of the theoretical
+JOOdels, enabling to explain above the menti.aoed features NRo.l and gi. ve the
+direction of :further researches and perspective searches
+
+
+2. EXPERIMm'I'AL Dl!SIGN AND PROCEOORE
+
+The technique of experiments an triti.tBD generations and .registration is
+described early in [ 5,6 ] . 
+
+In experiments with rotations of sanples (Fig. 
+4) were used plates and cylinders :fran zirconium and niobium, thickness of
+Tma 
+Fig. 4. The she.me of experiment with rotation sanple. 
+1-sanple-catlxxi; 2:-anod; '3-discharge regi.on.
+
+0,8 DID and diameter of·MD-182J DID. The speed of rotatioo. set in limits £ran 
+0,5 to 40 rot/minuts. At .rotatioo of sanple the heating happened oo.ly for 
+effect of plasma glow- discharge oo. ordinary bYdrogen (p.rotium + 0,015 % de­
+ut.eri.um). 
+
+The p,ressure of p)asmaformi.ng gas was supported in limits 
+(20-60)·w3Pa. The current of glow- discharge made 2-2.5 A, and voltage 
+a!D-lim V. The t.eq,arature of sanple, in location of discharge ocooentra­
+tion oould reach the 't.enl>erature of melting point, that oould result in the 
+instability in control and destruction of saaples. The caitrol of tri titun 
+contents in plasma.forming gas was made on fulfilled technique, with error 
+not exceed ::!: 50 % [5]. 
+
+
+3. RHSults
+
+The experiments an .rotating sanples oooducted, exclusively in plasna of
+glow discharge oo. ordinary bYdrogen and mixes with deuterium. Not oo. enough 
+large pressure,  tores and densiey- of currents, to reach of the lai:ge 
+tritium generation rate, was not managed. It is possible when cyclic hea­
+ting happens the tri ti.um to primar:y was &>lution in saaple, that requires 
+the addi ti.anal researches. Experiments on pure deuterium with .rotation 
+sanples until caiducted. The results of the JIKllSt characteristic experiments 
+on tritium generation are adduced in Tab. 1. 
+
+At execution of experiments with .rotatioo.s of sanple, in envi.ralment of 
+ord.:inar.y hydrogen, the phenanenoo. of 't.enl>erature maxim.Jm displacement ahead 
+on course of .rotatioo is found out. The size of this displacement is incre­
+ased at increase of .rotation speed and at given parameters of glow dischar­
+ge was about 5-10 mn. This displacement indicates on ocan-renoe of excess 
+heat at increase of sanple teoperature and hydrogen desorption. 
+
+Wootber is 
+this excess heat by consequence of delay for convertible PI."00e5ses or this 
+certificate to appearance of excess heat, arising for :reasai of irreversib­
+le processes ( for exanple of :mJClear :r:eactioo.s), will be possible to found 
+out afterwards neasurenerts of lEat balance installati<Xl. 
+
+
+4. Discussion
+
+The shift for area of nax:i.ml 't.enl>erature £ran heating area glow disc-
+ICCF-7 
+
+barge an appreciable size is testifies abart existence of additional pro­
+cesses with allcx:atian of heat at increased tenperatures. 'Ibis can be the 
+nuclear :reactions, proceeding in :zones of increased t.e:nperatm:es and suffi­
+cient ocncent.rat.i.an of hydrogen. At furtrer increase of talperature the so­
+lubili-cy of hydrogen decreases and reaction ceases. Early the conduct.ed ex­
+per:i:nents was slDJed, that the maximal quanti-cy of tritium is formed at use 
+of mixes protium-deuretium, indicates an primaey t.ri tium formation not from 
+reactian D + D, and from react.ian: 
+P + e + D - T (-6 keV) + v (~5,98 MeV). 
+
+Such :record :reflects the known propert;y of hydrogen isotops to deep of 
+penetrate in elect.ronic srell of CXJDnect.ed at.ans for a solid [6]. As far as 
+the DBin energy in such react.ian go art. by neutrino, clearly, wl\Y to heavy 
+was registered of aocoopaeying heat, ganma-radiation or neutroos. ObviaJSly 
+also, the energy can be transformed in heat an]y from tritons, which, app­
+roximately, 
+an three order less, than is allocated in majority of thermo-­
+nuclear reactions. It is possible it explains the reason of difficulties in 
+receiptioos of stable the:rne.l effects. 
+
+Fran said the i.nportant CXXJSeqUeDOe follows vezy. At work with con­
+centration of deuterium in proti.um less than 10 % the main react.ian, an an­
+opinion, can be the interacti.an: 
+P + e + P - D (~2 keV) + v (~1,95 MeV). 
+
+This reaction is :remarkable by theme, that the wastes are aAaY' radioac­
+ti ve. 'lbe power :regi.stered of this reactian also. approxiDately will an 
+three orders below. versus majority of thernoBlclear react.ions. 'lbe speed 
+proceeding of such :react:i.an will be possible precisely to be det:erm:i.ned on 
+aocxmpanying of tritium generati<m. rate or mass-spect.raEter nethxi, 
+an 
+cliange of peaks size of 3-6 nesses [2]. 
+
+If such reactions are possible, 
+then the definite probabi.li-cy of :reactions proceeding in oonderised. ned:ia 
+and with relium fornatian is not excluded: 
+p + e + T - 411 (-15 keV) + V (-19,8 lleV) 
+-it.e (~15 eV) + p- (~15 keV)
+ICCF-7 
+Thls, fian features of procbrt.s received in NIDf, 
+it is possible to as­
+Sllllle, 
+that the DBin problElll of rnclear reactions in oc:ndensed media ocm­
+si.sts not in searohes energy sufficient for interact:i.cn of particles on 
+knoMn mechanism ( is not p.resent of hanl radiatioo.). 
+and in searohes of ap­
+portunizy for radical decrease of the Caul.alb barrier in a solid, for inte­
+racting of b.Ydm8en i.sotops. The offerred mechanism of fonmt:i.oo. for excess 
+heat can be and not '&rln, 
+IDJeYer on given staee of :researches is very im­
+port.ant to be ocufi.rmed the ava:ilabili.zy for exoess hea:t Qr' calorienetry 
+and to prt. oo. :reoom X-ray radiaticn. 
+
+The reg:ist.ration of X-ray radiation 
+is o:mpd smy oooditicn for proof of existence of similar mechanism NIDt. 
+
+
+5. Conclusion
+
+5.1. 'l'be new :(DDWBiat of shift far teaperatme mximn in di.recti.ai of:
+.rotatiai .aetal saople, an relatiai ro ax.is of glow discharge an h,drQOeD 
+isotops is .feud out. This .shift testifies about excess heat at increased 
+ b.m!:s. 
+which can be ocmnected Ai th i..r.reversible processes (for 
+exa111Ple by nuclear reactions or reactions Ai th .funmtions of heavy cxapl  
+.x.es). 
+
+5.2. The .mechani.sm of low energy  is offerred, ooe of certificates :
+of exi.steooe .fur Nb.i.ch should be the .registratiai X-  .radiati<D. 
+
+REP»<l!Jl!RS 
+1. V .A.lba>danov. V. I. Savin, M. V. Shakhirin et al.
+
+Intematicmal Conference 
+ai 
+Radiative Mat.erlal Science. Alusbta,  , 
+22-25,1990. 'Iheses of the reports. Kharlwv,1993, 1-95, part II, p.tlJ (in
+Russian).
+
+2. V.A.Raoodanov, V.I.Sa.vin, M.V Sbakhtrin et al.
+
+Zhnnal. Tekhni.ches1soy Fi.ziki, 1991, v.61, is.5, p.122-125 ( in &tssian). 
+
+3. V.A. Rancdann\r, V. Savin, Ya. Skuratnik et al.
+
+F.rcntiers of Cold Fusi.an. Prooeerlir)g'; of the I<X>'-3. Cbtober 21-25, 1992, 
+Nagoya, 
+Japan. Ed. by H.   lm.versal Acaden.,- Press Inc., T . Ja­
+pan, 1993, p. 3'J7-319. 
+
+4. V .A.Raoodanov, V. I.Savin, Ya.B.Skuratnik.
+
+Cold Jb:::l.ear Fusi.an (Materials of the 4-d &.Issi.an <Xlllference cm cold fusicm 
+and nuclei transnutaticm.  . 
+
+Soehl., D.tssi.a, 19-26.05.96) M. :SRC Pl'P 
+"ERZI<Jf", (1997), p. 63-69. (In Russian). 
+
+5. V. Raoodanov, V. Savin, Ya. Skuratnik, V. Elksnin.
+
+Proceedings. ICX!F-4, 
+Deceni>er 
+Labaina, 
+Maui, 
+Hawaii. 
+
+TR-104188-V3, EPRI, 1994, p. 15 ( 1-15 ) . 
+
+6. V.A.Raoodanov, V.I.Savin, Ya.B.Skuratnik et al.
+
+Proceedings. 1 '96, June 24-28, 1996, Cbrinsk, Russia. F.d. By A.V.Zrod­
+nikov. IfflE, Oh:tirudt, Kal.uga Region, Russia, 1997, v.2, p.504-511. 
+
+7. V.A.Raoodanov, V.I.Sa.vin, Ya.B.Skuratnik, M.Z.Yuriev.
+
+tbclear Reactioos in Caidensed Media and X- .-P.resented cm ICX!F-7. 

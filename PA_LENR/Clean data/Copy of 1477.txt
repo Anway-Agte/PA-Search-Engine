@@ -1,0 +1,651 @@
+1. Introduction
+
+The aim of the present paper is to report recent results obtained in a new ten­
+electrochemical cell experiment carried out in order to confirm the previous results (1-2) and 
+try to understand the key role of some experimental parameters, if any, in triggering the cold 
+fusion events. 
+
+Our approach to the cold fusion experimentation was and still is to search time­
+correlation among independent measured parameters, both to give a stronger evidence that we 
+are not dealing with instrumental artifacts and to obtain useful information on the related 
+mechanisms. Due to a permanent skepticism of a part of the scientific community, we believe 
+useful that the people still working on this field must continue to show that a big amount of 
+reliable experimental data give results which are not explained with conventional theoretical 
+approaches and therefore we are concerned in a new frontier of the scientific knowledge. 
+
+The experiment was designed to detect: a) excess heat; b) loading factor by in situ 
+measurement of the cathode displacement; c) nuclear products: neutrons, tritium in the 
+electrolytic solution and in the recombined heavy water, y-ray; d) effect of the palladium 
+electrode preparation. The main difference between the present experiment and the previous 
+one (2), is constituted by excess heat measurements, a more efficient neutron counting system 
+based on the pulse shape discrimination and in situ measurement of the cathode swelling due 
+to the absorption of the electrochemically generated deuterium. 
+
+
+2. Experimental
+
+We shall only report those parts of the our experimental set-up and procedures which 
+have been added with respect to the previous experiments which can be found in the literature 
+(2). Just to facilitate the understanding, we can summarize the features of the experiment as 
+follows: 
+• Ten egual cells connected in series operating in galvanostatic conditions;
+• The only difference among them is in the preparation and/or shape and/or dimensions of the
+Pd cathode;
+• All the cells are placed in a torus-shaped thermostated bath at (24.5 ± 0.1) °C. They are
+simmetrically located in the bath. Five K-type thermocouples are placed along the torus.
+Room temperature is kept constant at (20 ±1) °C;
+• Before to fill the cells with the solution, a D2 stream was maintained for some time;
+• All the cells have a separate gas recombiner for tritium (T) monitoring in the gases;
+• All the cells are provided with a device to maintain a constant level of solution by adding
+D20 when consumed;
+• Each cell is monitored for:
+- Temperature of the cathode
+- Temperature of the solution
+- Voltage of the cell
+- T in solution and in gas phase externally recombined
+• Two cells out of ten have a displacement transducer to monitor the cathode swelling during
+D-loading;
+• One 3He proportional counter for neutron detection is placed in the centre of the torus and
+two y-ray detectors (Nal and HPGe) are properly located around the bath.
+
+2.1 Excess heat Measurements :
+Because our torus-shaped multicell apparatus is not a calorimeter, but it is an 
+isothermal device, accurately thermostated, which allows to keep at constant temperature the 
+external wall of each of the ten electrochemical cells, the variation cell to cell of the heat flux 
+crossing each glass tube only depends from the temperature of the electrolyte solution since 
+all the parameters influencing the heat transport (electrolytic solution and its volume, 
+geometry of the cell and materials by which it is made of, exchange surface area, etc.) are 
+equal for all the cells. Thus, at a fixed input power imposed to the cell, a stationary thermal 
+gradient will be established between the inner solution and the thermostated bath. If the 
+stationary values of the temperature of the electrolyte solution are reported as a function of the 
+respective input power applied to the cell, we have a calibration curve which provides the 
+excess heat data when well-defined deviations from it occur during the real experiment
+ 
+2.1.1 Calibration procedure: 
+Few points are necessary to explain the procedure we adopted in making the 
+calibration curves 
+- Two cells (by dimensions, shape, materials, etc.) equal to those used in the experiment
+have been calibrated in the same experimental arrangement previously described;
+- Two types of calibration for each cell were carried out both in LiOD + D20 solution:
+• Thermal (by an electric heater);
+• Electrochemical (as in the experiment) by using gold plated Pd cathodes. Each electrode
+was carefully controlled by SEM microprobe mapping of Pd to be sure that Pd was not
+detected;
+• In both the cases each stationary temperature of LiOD solution at fixed input power was kept
+as a point of the respective calibration curve;
+• It can be shown that the stationary temperature at constant input power does not depend on
+the electrode mass. This can influence the time constant only. Thus, the calibration curve
+obtained is valid throughout our system.
+
+The choice of this procedure was based on the fundamental concept that, in absence of 
+processes other than the D20 electrolysis, the two calibration curves must be found 
+superimposed due to equality: 
+[IYI x llh = [(IYI-Y0) x Ile, 
+where IYI, I and Y0 are, respectively, the voltage at Joule heater or electrode leads, the current 
+crossing the respective systems and the thermoneutral voltage given by -Mf0 /D20,1)/2:F' 
+being Mf0 /D20,1) and :F', respectively, the enthalpy of formation of liquid D20 and the 
+Faraday's constant. Y0 has been taken equal to 1.5367 Y(3). The subscripts h and e stand for, 
+respectively, by-heater and electrochemical calibrations. Furthermore, we used as blank for 
+the calibrations heavy water solutions and Pd gold-plated cathodes because we believe that 
+both these conditions allow to be closer to the real experimental situation. In fact, the use of 
+light water solution instead of the heavy water solution as blank, though so widely adopted to 
+guarantee the reliability of the cold fusion findings, is quite imprecise from the calorimetric 
+point of view because heat capacity and thermal conductivity of the solution, enthalpy of 
+vaporization of D20 as well as thermal conductivity of H2 and D2 are all appreciably 
+different. The gold-plating of Pd cathode avoids the process: 
+while the processes 
+and/or 
+Dads ➔ Dbulk (Pd) 
+remain the same as in the case of Pd only. The ads subscript stands for the chemisorbed 
+status of the deuterium atom onto the cathode surface. Obviously, if the process 2 is 
+completely forbidden, we can be sure that neither cold fusion phenomena nor chemical 
+process occur. 
+
+Figure 1 shows some stationary steps used to build the calibration curves by making 
+use of both an electric heater (Fig. lA and lB) and the electrolysis (Fig. l C and 1D). Figures 
+l B and 1 D display a portion corresponding to a single step of the respective A and C curves.
+
+2.1.2 Electrodes and cells:
+Gold-plated Pd cathodes were prepared starting from Johnson & Mattey 6 mm 
+diameter rod, cut in 25 mm long pieces, machined at one end for encasing the thermocouple 
+and then accurately polished before the electrochemical plating. The gold layer thickness was
+about 4 µm. To improve the electrical contact also the shield of the all K-type thermocouples 
+used in this experiment was gold plated. Since the shields are electrically insulated from the 
+inner thermoelements, they also work as current leads for the cathodes. To obtain this, the 
+shields were soldered on the top of each cathode. The space around the junction 
+cathode/thermocouple were filled with epoxy resin and then covered by a piece of 
+thermoplastic tube to avoid the direct contact with the alkaline solution. All the materials used 
+were tested for long time to be inert in LiOD alkaline solutions.
+
+Figure 1. Typical trends of the temperature of the LiOD solution vs input power in the 
+thermochemical and electrochemical calibration mode
+
+Anode and cell geometry and dimensions were given elsewhere (2). Here it is just sufficient 
+to mention the characteristic of the heater. This was a 50 W resistor obtained by winding 
+Kamal wire on a capillary alumina tube. The whole diameter was 3.2 mm. It was placed in a 
+NMR-type test tube filled with silicon oil and inserted in the proper hole of the cell teflon cap. 
+
+2.2 Furber details on the electrolytic cells :
+2.2.1 Cathode swelling measurement: 
+Two cells out of ten were modified in the bottom part to allow the insertion of a L VDT 
+(Linear Voltage Displacement Transducer) by Penny+Gilles, U.K. mod.1354. This kind of 
+transducers have an infinite resolution and ·the sensitivity is given better than 1 mV/µm 
+practically depending on both the electronics of the d.c. power supply and voltmeter used for 
+the readings. By our apparatuses, we can measure displacements greater than 0.1 µm and up 
+to 5 mm in both the directions. The L VDT was placed in a teflon cylinder fitted to the bottom 
+of the glass cell. To seal the L VDT from the alkaline solution and to allow the spring loaded 
+probe to move free, a very thin plastic membrane was used. Due to the type of assembly, we 
+can measure the electrode swelling only in the z-axis (major dimension) direction. The 
+voltages were read by two of the 60 analogic input channels of the data logger and directly 
+converted in µm according to the linear calibration curves previously found. L VDT data as 
+well as the other ones coming from the entire apparatus are transferred through the data logger 
+to a Macintosh II f x running on a home-made acquisition program written on Lab VIEW 2.1 
+(National Instruments, Austin, TX).
+
+2.2.2 Cathodes:
+The ten Pd cathodes used were prepared in different ways as reported in Table I 
+below. The cathode and thermocouple assembly was done by the same procedure as reported 
+in section 2.1.2. 
+
+2.2.3 Electrolytic solution:
+It was a 0.2 M LiOD solution prepared in the usual way by using D2O (Fluorochem 
+Ltd., England) at 99.91 wt% in the isotopic content. The nominal T activity was 60 nCi/kg 
+corresponding to 147 dpm/ml. In the first part of the experiment D2O at higher T content (254 
+dpm/ml) was used. 
+
+The Li concentration in the electrolytic solution of each cell was systematically 
+analysed during the experiment by plasma absorption spectroscopy. If the Li concentration 
+was found less than the initial value, this was restored by a proper addition of a more 
+concentrated LiOD solution. Li concentration generally decreases much more at high current 
+densities due to the increased action of the evolving gases in carrying microbubbles of 
+solution out of the cell and, as it will show in the results section, it decreases also because of 
+the absorption by the Pd cathode. 
+
+2.3 Nuclear measurements :
+2.3.1 Neutron detection: 
+With respect to the previous experiments (1-2), we improved our counting system by 
+storing the analog signals from 3He proportional counter and off-line discrimination based on 
+the characteristic pulse shape produced by a thermalized neutron interacting with 3He gas. 
+
+According to the scheme reported in Fig. 2, the logic signal from the neutron counter, 
+through the look-at-me channel of the data logger, drew the computer to read the digitized 
+pulse shape produced by the oscilloscope in 1024 byte string. The minimum interval of time 
+between two acquired shapes was determined by the time resolution of the look-at-me channel 
+which was 2 ms. Each stored shape was written together the event date in the format dd-mm­
+yy:hh-mm-ss.sss. The whole stored file of each run was constituted by an appended binary 
+text file which can be segmented and converted in the voltage vs time original curves by a 
+suitable home-made Lab VIEW program. 
+
+Figure 2. Scheme of the dated pulse shape acquisition from the 3He neutron counter 
+
+The pulse shape associated to a thennalized neutron displays a negative voltage value 
+without any positive component all along its length (see Fig 3A of ref.2) while a pulse 
+produced by spurious electromagnetic signals picked-up by the counter shows both positive 
+and negative values (see Fig. 3B of ref.2). Due to the characteristics of the signals, a suitable 
+filter has been put in the off-line analysis. The program labels as neutrons only the events that 
+go through the filter. Funher check of the reliability of the adopted procedure was done. We 
+calculated by integration of each filtered pulse the corresponding collected charge and, for 
+each run, a spectrum was obtained (see Fig.3) which was always in agreement with the 
+spectrum obtained by the calibration with an Am-Be source. 
+
+Figure 3. Pulse charge spectrum as given by the filtered neutron signals in a typical run. The 
+peak value is at= 765 keV as obtained when calibrating with Am-Be source 
+
+For each run the total counting and the counting rate were given only by filtered 
+signals. The dating of the signals allowed to perform the counting choosing the proper time 
+gate. 
+
+The signals which did not pass through the filter were stored in a separate file for 
+further analyses. In fact, there are scattered evidences (2,4) that the electrochemical system 
+itself could be source of electromagnetic signals. We are looking for some correlations, for 
+instance, between the frequency of those spurious signals and applied current density.
+ 
+2.3.2 Tritium measurements:
+The sampling for the tritium analysis both in the solution and in recombined gases was 
+done at fixed values of the electrical charge passed through the cells. This is necessary to 
+facilitate the control of the tritium mass balance. The external catalytic recombiner is 
+constituted by porous Pt supported on alumina tube and heated at 400 °C. The D20 
+recombined vapours are condensed on a water-cooled glass surf ace. 
+
+The tritium measurements were carried out by the procedure already reponed (2). 
+
+2.3.3 y measurements:
+Seven energy windows of the HPGe y detector spectrum spanning between 350 ke V 
+and 2.8 Me V were monitored during the experiment. Lower energy windows were centered 
+in the region where the emissions from the Pd nuclei levels occur due to the Coulomb 
+excitation induced by 3.0 Me V protons generated in the d + d reaction. Energy window 
+around 2.204 MeV was used to monitor the natural background due to 214Bi. A window
+around 2.224 Me V was used to monitor the y emitted in the radiative capture of neutron by 
+proton. 
+
+Seven energy windows of the Nal y detector spectrum spanning between 2.1 and 27.0 
+Me V were at the same time monitored. The lower energy window was again used to detect 
+the radiative capture reaction, an energy window around 2.6 Me V was set to measure the 
+natural background, an energy window around 23.8 MeV to monitor the d(d,y) 4He reaction. 
+
+
+3. RESULTS and DISCUSSION
+
+3.1 Excess heat :
+3.1.1 Calibration curves:
+Figure 4 shows sequences of steady-states of the solution temperature when the 
+heating occurred by the heater (h) or electrolysis (e) mode. The input power values, Ip, were 
+calculated in both the cases according to the left and right side, respectively, of Eqn. 1. The 
+calibrations were made at the same time on two identical cells containing, as shown before, 
+gold-plated cathodes likely prepared in the same way. After each calibration the LiOD solution 
+was analysed for the Li content and replaced in the cells by a fresh one having same volume 
+and concentration. Figure 4 clearly shows that the calibration curve obtained in the 
+electrolysis mode on cell #2 is quite anomalous with respect to the other calibrations which 
+are satisfactorily represented by the best fitting line: 
+Ts = (25.3 ± 0.1) + (0.477 ± 0.002) Ip 
+which was then assumed to evaluate the behaviour of all the cells during the ten-cells 
+experiment. 
+
+To try for an explanation, at the end of the calibration measurements, we examined by 
+SEM microprobe mapping the surfaces of both the cathodes to check the status of the gold 
+layer. In the cathode of cell #2, we found two zones along the lateral surface of the cylinder 
+clearly not covered by gold. The molar Li concentration, [Li], was found 0.184 and 0.075, 
+respectively, for the cells labeled #1 and #2. If we compare these values with the initial value 
+of 0.187 (equal for both the cells), changes are found in the Li concentration equal to -1.6% 
+and -59.9%, respectively. Assuming that all the Li concentration change,  [Li] depends on 
+the reduction and bulk-diffusion into the cathode, the final composition of the cathode has to 
+be considered equal to MLi]VoMpd/l000Wc = 0.05, i.e., Pd.Li0_05, being Vo= volume of 
+LiOD solution = 35 ml, Mpd = atomic weight of Pd and W c = weight of the cathode of cell #2 
+= 8.55 g. Therefore, the decrease of [Li] is consistent both with the surface microprobe 
+analysis and with the well-known fact that at high current densities, that is, high cathodic 
+overvoltages, alkaline metals can be reduced in acqueous solution, even if, in an unstable 
+state, except for in the case where a concurrent process does exist. 
+
+Figure 4. Thermal and electrochemical calibration curves obtained for two identical cells.The 
+error bar length is comparable with the dimension of the points 
+
+By interstitial diffusion and a favourable chemical potential gradient, as in the case of 
+hydrogen and its isotopes, Li penetrates into the Pd bulk producing solid solutions without 
+going back into the aqueous solution because of the reaction with water. The difference 
+observed in the case of cell #2 roughly means that the solution can be, for instance, heated at 
+40 °C by using an input power equal to == 77% of that one necessary if the Pd cathode did not 
+absorbe deuterium (cell #1). In terms of specific excess power, this  eans 10 W/cm3 about if 
+we consider all the volume of the cathode #2 subjected to deuterium absorption. 
+
+If we consider the right term of eqn.1, we realize that this is representative of a 
+particular aspect of a more general treatment. In fact, only one electrochemical process was 
+there considered (D20 electrolysis) and no chemical process. In general, we would have to 
+write the eqn. 1 in the form: 
+where the summations run over the all possible electrochemical and chemical processes. In 
+eqn. 5, vi is the reaction rate of the i-th chemical reaction which could be also current
+dependenL Obviously, if the input power axis of the calibration plot is recalculated by taking 
+into account the right-side of eqn. 5, the slope of the curve can change and, in principle, the 
+equality with the left-side term should be satisfied. All the tentatives made so far to lower, 
+through eqn. 5, the slope of the electrochemical calibration curve of cell #2, plotted on Fig. 4, 
+were unsuccessful. Work is still in progress to improve this calculation.
+ 
+3.1.2 Ten-cell experiment:
+Concerning the experiment which started on May 6, 1991 and lasted 50 days 
+approximately, we show on Figure 5 two quite different trends of the excess heat as recorded 
+throughout the experiment. 
+
+Figure 5. Specific heat power excess for cells #1 and #9 and applied current profile 
+throughout the experiment
+
+To compare correctly the excess heat data for all the electrodes, we used to normalize 
+the excess heat power with respect to the cathode weight instead of its volume being this, for 
+certain electrodes, difficult to measure due to their irregular shape. The applied current (all the 
+cells are connected in series) is reported on the right ordinate of fig. 5. We can see that cell #1 
+does not show throughout the experiment appreciable excess heat values and they are not 
+current dependent. A very different behaviour is shown by cell #9 where the excess heat has 
+been found above any reasonable experimental error and the correlation with the current 
+seems to be very close. 
+
+Figure 6 gives a bird-view, for all the cells, of the specific excess power results as function 
+of the applied current density. We divided the curves of figure 6 in three categories chosen 
+according to the preparation of the cathodes, as reported in Table I. We can focus our 
+attention to some points emerging from inspection of fig. 6. These are: 
+- Except for cells #1, #3 and, for opposite reasons (see below), #8, all the cells show a
+threshold in the current density which is located around 100 mA/cm2;
+- While cell #1 and #3, as already mentioned, did not give any excess heat whichever was the
+current density, cell #8 started to produce excess heat at a lower current density value,
+below 50 mA/cm2. This could be consistent with the fact that the whole cathodic surface
+area was not equal to the calculated value, given by mt0(h + 0/4), but, reasonably, it was
+less than that value because of the partial shielding of the innermost wires toward the
+electrolytic solution, caused by the outermost wires. n, 0 and h are, respectively. the 
+number of the wires, their diameter and length (see Table I). A similar reasoning could be 
+done for cell #7 due to a possible not precise evaluation of the whole cathodic surface area;
+
+Figure 6. Trend of the specific excess power vs current density as found for the ten cells. Cell 
+#3 has not be reponed because its trend is very similar to cell #1 (see Table II) 
+
+- The cathodes, in categories SINTERED and 0 6mm RODS, can be considered sufficiently
+comparable among them since at least the shape, dimensions and starting materials are in
+common for the cathodes belonging to the same category;
+- By comparing the categories, it clearly appears that the cathodes made of 6 mm diameter
+rods show the lowest power excess but there is not a significant difference between as
+received and quenched cathodes ;
+- On going from the cathode #1 to cathode #8, we pass from a practically undislocated
+material to highly dislocated one, whereas, in .the SINTERED category, the concentration
+and distribution of dislocations probably remains unaffected by the type of preparation. In
+fact, it is reasonable that the cathodes maintain the same propenies of the grains of the
+starting powder of the Pd sponge which is highly dislocated, as expected by itself nature;
+- It is interesting to observe the very unlike behaviour between the two RFHQ cathodes (#6
+and #9) which were different only by diameter. We believe that this has to be connected to
+the dynamics of the high compressive stress which is established in the rod in the direction
+from the surface toward the bulk when fast cooling occurs. Because the rate at which
+cooling proceeds into the bulk, all the other conditions fixed, depends on the diameter, the
+magnitude of the compressive stress, which can dislocate the rod in an ordered way, 
+becomes consequently a function of the diameter. 
+
+In Table II below it is reported the specific integral excess heat as calculated for all the 
+cells. 
+
+Figure 7. Specific power excess dependence on the current density compared with data in 
+Ref. 5
+ 
+Though our slope is less steep than the slope found by F.&P., it is important to observe that 
+both the trends are linear and the difference in the slope and intercept can be reasonably 
+attributed to the nature of the cathode. 
+
+3.2 Cathode swelling measurements :
+Before to show some preliminary results of cathode swelling measurements, 
+performed in order to obtain in situ the loading factor [D/Pd], let us consider briefly some 
+basic points related to this kind of measurements. According to the literature (6-7), in an 
+unstrained Pd specimen, Di absorption produces a relative swelling, AV N, given by: 
+AV N = 3 M../L = (0.20 ± 0.01)[0/Pd] 
+Due to the fee structure of Pd, the swelling is an isotropic process producing the same relative 
+elongation, AL/L, along each of the x,y,z axis. Probably, only cathode #1 is in this quite­
+ideal situation due to the particular heat treatment that allowed it to loose all the internal 
+stresses of the material reaching the state of internal thermodynamic equilibrium. In a cold­
+drawn rod having diameter 0: 
+AV N = (Ax/x) + (Ay/y) + (Aziz) = 2(A0/0) + (A'Z/z) 
+due to the fact that there is a tensile strain along z-axis and compressive strain on the x,y 
+plane. In this case, we cannot use the above relationship 6 for determining [D/Pd]. In a 
+sintered specimen, eqn. 6 is still approximately satisfied but it is necessary to consider that the 
+expected expansion, due to the deuterium absorption, occurs for a certain fraction, 6, in the 
+free volume, VP' of the pores. Thus, the eqri. 6 becomes:
+(AV- 6V p)N = 3 ALmea.JL 
+where V p = W s(PPd - p5)/PsPPd· W s and Ps are, respectively, the weight and density of the 
+sample s. In this case, the measured expansion, ALmeas• allows to measure 6 by eqn. 8 
+through eqn . 6 as: 
+6 = {0.20 [D/Pd] - 3 ALmeaJLHl/(1 - 0] 
+if at least one [D/Pd] value is known and f = Ps / PPd . 
+
+In our experiment, we measure the expansion along the major axis of the cathode, that 
+is, ALmeasfL (#4-sintered) and Aziz (#3-06mm rod as received). In figure 8, we repon the 
+recordings of the cathode swelling and the electrode temperature for the two cells equipped 
+with the L VDT at the beginning of the experiment when, before to fill the cells with the 
+electrolyte solution, a stream of D2(g) was allowed to circulate in the cells for conditioning the 
+Pd cathodes. As it was already found (2,8), the response to the D2(g) exposure of the 
+sintered cathode was completely different with respect to the rod and, as it will be shown, this 
+difference will continue throughout the experiment. 
+
+Figure 8. Behaviour of the cathodes monitored by the L VDTs when exposed both to D2 
+stream, at atmospheric pressure, and D2 electrochemically generated. Temperature 
+of the cathodes is also shown 
+
+As shown in fig. 8, in the same experimental conditions, the swelling of the sintered cathode 
+#4 was about 70 times greater than the swelling of the cathode #3. This could be easily 
+explained by considering the respective porosity of the two materials which allows to the gas, 
+in the case of the sintered cathode, to be in contact with a larger surface. Thermogravimetric 
+measurements (9), carried out on sintered specimens, like #4, showed that at 101.3 kPa of 
+D2(g) and at room temperature, the weight gain was such that an equilibrium [D/Pd] value of 
+0.67, as expected, was reached in a time interval of about 20 min which is comparable with 
+that reported on fig. 8. Therefore, we can associate the &meast'L to [D/Pd] and, through eqn.
+9, we can calculate b = 0.114. This means that at least 11 % of the expected swelling does not 
+contribute to expand the cathode, provided that its density is assumed isotropic. Due to the 
+unidirectional pressing applied in the preparation and subsequent short sintering, the density 
+could be higher along the z-direction increasing f in the eqn. 9 and, accordingly, the value of 
+o. Previous calculations (8) made on the integration of the temperature vs time curve were and
+still are in satisfactory agreement with the heat expected to be produced by the exothermic 
+reaction which yields [D/Pd] = 0.67 producing. 
+
+In fig. 8 the behaviour of the cathode just after the beginning of the electrolysis at 10 
+rnA/cm2 is also reported. The L VDT of cathode #4 did not detect any appreciable variation 
+while cathode #3 L VDT showed a well-defined increasing trend which continued as ·shown in 
+figure 9 below. 
+
+Figure 9. Behaviour of cathodes #3 and #4 observed in a long step-changing current density 
+profile 
+
+If we take into account the different AL ordinates of the two plots above, we realize 
+that the cathode #4 swelling was practically independent from the current density, maintaining 
+quite constant the value which was reached during the exposure to D2(g) stream. For cathode 
+#3, AL was found to be strictly current density dependent. We observed that to maintain a 
+certain swelling value it was necessary to continue to increase the current density otherwise a 
+contraction of the cathode occurred. 
+
+Though the dilatation measurements did not allow us to obtain an absolute value of 
+[D/Pd], we believe the relative changes with respect to the current density are very interesting, 
+when compared with the very low changes observed, simultaneously, on the sintered 
+cathode. In fact, these findings go in the direction of our precedent work (10), based on the 
+assumption that [D/Pd] values out far from the thermodynamic equilibrium can be achieved if 
+some structural and morphological conditions are present in the material. Particular structured 
+domains, where the continuity of the chemical potential does exist, could be sites where high 
+[D/Pd] values might be reached because of the effect of high local current densities on the 
+low-ionic conductor PdDx. This effect, as shown in literature (10), increases with the ionic 
+transport number. To make this phenomenon macroscopically evident, it is necessary to have 
+in the material a high concentration of large ionic-conductor domains satisfying particular 
+structural arrangements able to set, locally, very high current densities. Due to the above 
+considerations, we can only evaluate the lowest values of [D/Pd] for both the cathodes #3 and 
+#4 which are, respectively, 0.26 (if eqn. 6 is calculated at the maximum measured value of 
+M., see Fig. 9) and 0.67. In this context, the respective excess heat data of Table II could be 
+considered consistent. 
+
+3.3 Nuclear Measurements :
+3.3.1 Tritium measurements :
+As mentioned in the experimental section, we carried out systematically (roughly at 
+fixed electrical charge passed through the ten-cell system) tritium measurements by 1 ml 
+sampling both in each cell and in the respective catalytic recombinator. In figure 10, the trends
+vs the integral charge passed both for tritium in solution and in recombined heavy water are 
+given. The plots reported are considered typical and they refer to cells #1, #10 and #8, 
+respectively, one for each category of cathodes. Detailed information on the procedure used to 
+evaluate the tritium mass balance is reported elesewhere (2). Here it is sufficient to point out 
+that the shape of the trends is due to the mixing, at the point marked by the arrow, of a new 
+heavy water feed, at lower T content, [T]0 t , with the solution at higher T content, [T]0 h: In
+fact, the final T enrichment was always within the expected enrichments from== 2[T]0 t to ==
+2[T]0 fa. , roughly. As a consequence of this, the trends for the recombined gases were
+influenced accordingly. However, no significant evidence of T excess was found throughout 
+the experiment in any of the ten cells.  
+
+Figure l 0. Typical tritium activity as found in solution and in recombined gases for three 
+cells. Abscissa is quoted as (JI dt)/F where Fis the Faraday's constant. Arrows 
+show the heavy water refilling from a new batch at lower T content 
+
+From data like those reported in fig. 10, it is possible to calculate the enrichment factor 
+defined as the ratio, at a certain charge passed, between the tritium concentration in the 
+solution and tritium concentration in the gas phase, i.e., aE = [T]801/[T]gas· The knowledge
+of this term is important to evaluate, after prolonged electrolysis, the final content of T, [T]r, 
+in a D2O electrolytic solution having an initial concentration of tritium [T]0• In fact, as it can
+be shown (11), [T]r== aE (T]0
+• 
+Figure 11 shows a typical trend of the enrichment factor for cell #9 throughout the 
+experiment. 
+
+Figure 11. Typical trend of the enrichment factor. Here cell #9 is reported 
+It is important to observe that throughout this long experiment, aE was found 
+practically constant. Some authors reported (13) different results and explained the variations 
+of the enrichment factor as due to co-deposition onto the cathode surface of impurities which 
+change the nature of the electrode/electrolyte interface and, consequently, the relative rate of 
+the charge transfer of the hydrogen isotopes. 
+
+The sensitivity of our measurements to detect an anomalous tritium content on the 
+sample can be estimated to be of the order of 100 dpm/ml (effective value was 30 dpm/ml) 
+that means a content of tritium of 109 atoms in one milliliter. By analysing the excess heat 
+reported in table II, we can compute that all the cathodes, except to #1 and #3, have shown an 
+integral excess heat of the order of 10 MJ. If this excess heat is to be attributed only to fusion 
+reactions having tritium as final product, the number of reactions needed is of the order of 
+1019_ Even considering that the process lasted for all the length of the experiment (50 days) 
+one would expect in the solution+ gas phase a production of :::=1017 tritium atoms every day 
+and, by taking into account the volume of the solution, 1015-1016 atoms of tritium would 
+have been in 1 ml solution sampled. This number is 106-107 higher than the level of 
+sensitivity of our measurements and it is hard to think an artifact responsible for a negative 
+result. 
+
+3.3.2. Neutron measurements:
+The frequency of neutron counting was analysed using variable time integration 
+intervals. In figure 12 the frequency as counts per hour is reported for all the runs. No 
+evidence of any neutron signal different from background was found. 
+
+Figure 12. Average neutron counts per hour measured in all the acquisition runs
+ 
+The analysis has been repeated for each run with several choices of time integration 
+intervals (from 10 minutes to 1 hour) by comparing each of the obtained distributions with the 
+relative Poisson distribution expected according to the measured count mean value. In figure 
+13 the result of this analysis is shown for one particular run which is representative of the 
+results obtained in all the runs. The experimental data are shown as well as the expected 
+values. These are reponed with an error bar indicating their possible variability when the 
+mean value of the Poisson distribution is changed within the measured value of the standard 
+deviation. In all the cases the mean value is compatible with the background value and the 
+count distributions follow the statistics expected proving, in this way, the background nature 
+of the neutrons detected. 
+
+Figure 13. Frequency count of neutrons as observed in 542 intervals of ten minutes 
+acquisitions and as expected in a Poisson distribution. The variability of the 
+expected values obtained allowing the measured mean value to vary between µ-o 
+=0.32 and µ+CJ= 0.37 counts/IO min. is also reponed. 
+
+Being one cell (#3) operated for a cenain time with pulsed current, a special test has 
+been made by analysing the time sequence of neutron counts with respect to the current value. 
+No correlation has been found, being the count distributions during the l=IMax and I=O time 
+intervals described by the same Poisson distribution with an acceptable statistical significance. 
+
+According to the discussion at the end of the previous section 3.3.1 on the comparison 
+between excess heat and nuclear products, a number of 10 19 reactions is needed again to 
+explain the heat found with the only fusion reaction having neutron and 3He as final products. 
+
+Under the same assumptions already made and taking into account the efficiency of 
+the neutron counter a counting rate greater than 1010 times the normal background would 
+have been detected. 
+
+3.3.3y measurements:
+Gamma spectra from HPGe and Nal (11) counters, respectively, in t_he energy ranges 
+of 0.30 - 2.83 Me V and 2.0 - 27 .0 Me V, were sequentially acquired for living time intervals 
+of eight minutes. For each measurement the integral count of selected energy windows 
+reported in tables III and IV were stored. For the spectra of both counters an energy window 
+was reserved to monitor natural background, being the e channel of the Ge counter centered 
+on the energy of a y emitted by the 214Bi (a daughter radioisotope of 238U) and the b channel
+of the Nal counter centered on the energy of y emitted by 208n (a daughter radioisotope of
+232To). 
+
+For each run the analysis of the measurements was made by checking the fluctuation of the 
+ratio of the counts in a given channel against that of the background channel. In figures 14 
+and 15 we report an example of measurements with Ge and Nal counters, respectively. The 
+counting ratios fluctuate around the mean value. The upper dotted lines indicate the deviations 
+from the mean of three times the maximum value of the error of the ratio on a single 
+integration interval within the run. These levels can be considered as the threshold that 
+indicates a statistically significant deviation. In all the measurements no significant deviation 
+from background has been detected. 
+a/e 
+b/e 
+d/e 
+Figure 14. Ratio of the counts of different energy windows over natural background. Ge 
+detector. a, b, c, etc. are the energy windows (see table IIO 
+The sensitivity of the different channels to detect a possible fusion reaction is very different 
+due to the several factors that affect the possibility to detect gammas of given energy coming 
+from a fusion channel. Gammas of low energy 0.35 - 0.55 MeV are expected to be a signal of 
+the reaction chain: 
+d+d ➔ 3H+p , p+Pd ➔ p+Pd* , Pd* ➔ y+Pd 
+Taking into account the reaction yield and the counter efficiency the threshold sensitivity was 
+about 1011 fusion reaction in 3H+p channel in the time integration of eight minutes. 
+
+Photons coming from the radiative capture of neutrons by protons of materials containing 
+hydrogen are expected in the energy window centered around 2.22 MeV. 
+
+Figure 15. Ratio of the counts of different energy windows over natural background. Nal 
+detector. a, b, c, etc. are the energy windows (see table IV)
+ 
+This spectrum channel is a monitor of the reaction chain 
+d+d ➔ 3He+n , n+p ➔ d+-y 
+The threshold sensitivity both for Ge and Nal counters was about 1()6 fusion reactions in the 
+3He+n channel in a time interval of eight minutes. 
+
+From the results shown in figure 6, by computing the power excess of different 
+cathodes and taking into account the palladium mass, a maximum value of about 13 W is 
+found. Considering fusion reactions in the two classical channels (p + T and n + 3He) as 
+source of the power excess measured, a number of 1012 reactions per second are needed, that 
+is 5x1014 if we consider that the phenomena lasted along all the eight minutes of the time 
+interval integration. By comparing this value with the sensitivity threshold, we conclude that 
+in the low energy window the sensitivity was not sufficient to detect the p + T channel 
+through the y measurements. On the contrary, in the windows selected to monitor the y 
+emitted by the radiative capture, the expected signal from n + 3He reaction was 108 times 
+higher than the sensitivity. 
+
+Gammas in the upper windows of the Nal spectrum would monitor the fusion channel 
+d+d -> 4He+y (23.8 MeV) 
+This reaction, on the contrary to the case in which the energy (and not only the momentum) is 
+absorbed by the crystal lattice, does not release locally heat and should not give contribution 
+to an observed excess heat generated in the cathode. The threshold sensitivity for this fusion 
+channel was about 107 fusion reactions in the used integration time. To explain the heat 
+excess measured in this experiment as generated by nuclear phenomena, a reaction not 
+monitored by our instrumentation (for instance the 4He production with the energy absorbed 
+locally by the lattice) must be called .
+
+ 
+4. Conclusions 
+
+The following conclusions can be drawn: 
+- Excess heat and cathode swelling were found strongly dependent from the preparation of
+the Pd cathodes;
+- Sintered and bulk cathodes behave in different way with respect to the absorption of
+deuterium as shown by the displacement measurements. In the case of bulk cathode, the
+D/Pd ratio seems to be greatly influenced by the applied current density showing a real non­
+equilibrium condition. The sintered cathode absorbs deuterium without any correlation with
+the current density like in a state of thermodynamic equilibrium;
+- The highest specific excess heat and power were found to be, respectively, 130 MJ/cm3 and
+96W/cm3;
+- Specific power excess displays a linear dependence on the applied current density with a
+possible threshold effect according to the literature;
+- From the double calibration procedure adopted (thermal and electrochemical) an intriguing
+evidence arises which is, by itself, the most important feature of the cold fusion nature to
+which a clear answer is still lacking;
+- Though neutron, tritium and gamma measurements were taken throughout the experiment,
+no statistically significant evidence of release of these nuclear products was found;
+- Evaluation of the sensitivity of the respective nuclear measurements gives confidence th"c if
+the energy were released through channels involving the generation of the monitored
+nuclear products they would be detected at a statistically significant level;
+- To explain the heat excess measured in this experiment as generated by nuclear phenomena,
+a reaction not monitored by our instrumentation (for instance the 4He production with the
+energy absorbed locally by the lattice) must be called;
+- Also the findings here reported go into the direction of the scattered results still coming from
+cold fusion experiments which even more require a complete set of independent parameters
+to be controlled and nuclear products to be measured (4He for instance) both to exclude the
+chemical nature of the heat generated and possible other sources of error.
+
+
+5. Acknowledgements
+
+Work was carried out with the financial support of the National Research Council 
+(CNR), National Institute of Nuclear Physics (INFN-sezione Sanita) and Laboratory of 
+Physics of the Istituto Superiore di Sanita, Roma. 
+
+The first author wish to thank Prof. E. Cardarelli and P. Porta of the Department of 
+Chemistry of the Universita "La Sapienza", Roma for their contribution in Plasma Absorption 
+Spectroscopy analyses of lithium and XRD of palladium cathodes, respectively. He is also 
+indebted with Dr. G.P. Bardi and D. Ferro both of the CNR-Centro di Tennodinamica 
+Chi mica alle Alte Temperature for their support in making, respectively, TG measurements 
+and SEM microprobe determinations. 
+
+The authors wish to thank Prof. G. Balducci for his assistance in preparing this 
+manuscript. 
+
+
+6. References
+
+I. D. Gozzi et al., Nuovo Cimento, 103A, 143 (1990)
+2. D. Gozzi et al., Fusion Technology, 21 (1992) in press; AIP Conference Proceedings
+228, Anomalous Nuclear Effects in Deuteriwn!Solid Systems, Provo, UT, October 22-
+24, 1990 (Eds. S. Jones, F. Scaramuzzi and D.Worledge), American Institute of Physics
+(New York) 1991, p. 481-493
+3. J. Balej and J. Divisek, J.Electroanal.Chem., 278 (1989) 85
+4. G.H. Lin, R.C. Kainthla, N.J.C. Packham and J. O'M. Bockris, J. Electroanal. Chem.
+280, 207 (1990)
+5. M. Fleishmann and S. Pons, J.Electroanal.Chem., 287 (1990) 293
+6. H. Peisl, in Hydrogen in Metals vol. I, ch.3, edited by G. Alefeld and J. Volkl , Springer­
+Verlag (1978)
+7. F.A. Lewis, Palladium Hydrogen System, Ac. Press (1967)
+8. D. Gozzi et al., unpublished results
+9. G.P. Bardi and D. Gozzi, paper in preparation
+10. M. Tomellini and D. Gozzi, J. Mat. Science Lett. 9,836 (1990)
+11. S.K. Malhotra, M.S. Krishnan and-H.K. Sadhukhan, "Material Balance of Tritium in
+Electrolysis of Heavy Water," P.K. Iyengar & M. Srinivasan (Eds.), BARC Studies on
+Cold Fusion (April-September 1989), Report BARC-1500 (1989)
+12. D.E. Williams et al., Nature 342 (1989) 375; Conf. Proc. 24 of the Societa Italiana di
+Fisica, Understanding Cold Fusion Phenomena, Varenna, September 15-16, 1989, (Eds.
+by R.A. Ricci, F. De Marco and E. Sindoni)

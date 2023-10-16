@@ -1,0 +1,237 @@
+1. Introduction
+In some recent meetings in mid-2009 on excess heat in the Fleischmann–Pons experiment, a review of experimental
+results was presented for scientists outside of the field. In general, the response was one of astonishment, as might
+have been predicted. When the discussion turned to the question of mechanism, it quickly became clear how some very
+good physicists from outside the field viewed the theoretical possibilities. The only possibility worthy of consideration
+according to them were scenarios in which two deuterons somehow managed to come together to form an alpha particle,
+which carried of a significant fraction of the reaction energy. If the process were assumed to happen sufficiently deep
+within the cathode, then they would not make it out of the cathode since the mean free path is relatively short. As a
+result, these energetic alpha particles would be “hidden”.
+
+The difficulty with this kind of proposal was recognized previously by Takahashi and coworkers [1], who noted
+that energetic alpha particles would give rise to secondary radiation such as neutrons and X-rays. As such, it becomes
+difficult to “hide” a large number of energetic alpha particles.
+
+We are interested in this work in the quantification of this argument. Fast alpha particles can collide with deuterons
+and produce neutrons through the inelastic 4He(d,np)4He reaction. To be observable, the alpha energy must be above
+7 MeV. Much more likely is secondary neutron production which occurs after an energetic alpha particle collides with
+a deuteron, producing a less energetic deuteron which can then produce a neutron through the 2H(2H,n)3He reaction.
+In order to understand quantitatively the yield of neutrons due to energetic alpha particles, one ﬁrst has to understand
+the yield of energetic deuterons. Then, one needs the neutron yield as a function of energy for energetic deuterons. We
+describe below computations leading to the determination of the secondary neutron yield for energetic alpha particles
+through this mechanism.
+
+Accurate values for the stopping power of alpha particles are readily available, and we are able to compute the
+energy loss over the range numerically. Given results for the incremental alpha particle energy along its trajectory, all
+that we need is an estimate for the scattering cross section between the alpha particle and a deuteron, from which we
+can estimate the yield of secondary neutrons from deuteron-deuteron fusion reactions. In a previous manuscript [2] we
+have computed the yield of energetic deuterons in PdD and in D2O, which we can use for the computations discussed
+here.
+
+
+2. Impact parameter model for scattering
+
+To proceed, we consider the calculation of the secondary neutron production cross section in a classical impact parameter
+approximation. We assume that an alpha particle is incident on a deuteron with an energy E in the lab frame. The cross
+section in this model is expressed as
+
+Here, b is the impact parameter, which can take on all values between 0 and ∞. The contribution to the secondary
+neutron production cross section is weighted by the secondary neutron yield Y given the scattered deuteron energy Ed.
+The scattered deuteron energy is a function of the initial alpha particle energy E and the impact parameter b. If we have
+a parameterization for the neutron yield Y, then it is possible to estimate this cross section by doing a set of classical
+path calculations at each alpha particle energy. This is the approach that we have used.
+
+2.1. Potential model:
+For the classical path calculation, we have used a combination of a screened Coulomb potential and a hard core
+Woods–Saxon potential
+
+We have used one of the Woods–Saxon potentials from Kambara et al. [3], which is deﬁned by
+V0 = 84.5 MeV − Er,
+r0 = 1.15 fm,
+a0 = 0.7 fm,
+where Er is the relative energy in MeV.
+
+2.2. Screening:
+From low-energy beam experiments, we know that screening is important for deuteron–deuteron fusion reactions [4].
+Consequently, we would also expect that screening should also be important for alpha–deuteron scattering. Unfortu-
+nately, we are not aware of any experimental observations that would be helpful in the selection of a screening energy
+relevant for alpha–deuteron elastic scattering. There are some beam experiments for reactions with 3He and deuterons
+[5,6] which show some increase in the screening energy, but these experiments did not make use of metal deuteride
+targets which show large screening effects in other experiments.
+
+We decided to match the screening length to the deuteron–deuteron case using the screening energy (Ue = 800 eV)
+of Raiola et al. [4] (note that there is some spread in the experimental results for the screening energy for PdD
+samples [7]). A screening energy Ue of 1600 eV for energetic alpha particles in PdD leads to a screening length for
+alpha–deuteron collisions that is matched to the deuteron-deuteron experimental results in PdD.
+
+Note also that this relatively large screening energy results for alpha–deuteron collisions results in a reduction in
+the in the Rutherford scattering cross section, and an increase in the deuteron–deuteron fusion yield. We were not able
+to ﬁnd an experimental result on the screening energy for D2O, so we used 25 eV.
+
+2.3. Classical path calculation:
+The trajectories are computed in the lab frame according to
+We used a simple second-order discretization (the Störmer–Verlet method [8])
+with a ﬁxed (small) timestep  t. Below 1 MeV, the computations are “easy” since the scattering is primarily Rutherford
+scattering with a relatively weak Coulomb potential. Above 1 MeV, the Coulomb barrier can be penetrated in the classical
+problem, so that the full force of the Woods–Saxon potential is felt. In this region, a shorter timestep needs to be used.
+Rather than put in the effort to make use of a more sophisticated numerical approach, we just used more timesteps. In
+all cases, energy conservation could be veriﬁed to at least six digits in the numerical solutions.
+
+2.4. Integration over the impact parameter:
+We used cubic interpolation combined with local Gaussian integration to obtain a reliable numerical integration over
+the impact parameter. While Rutherford scattering can produce an increase in the deuteron energy at large impact
+parameter, the associated yield function may not be large. As a result, the contributions from large b are damped
+exponentially.
+
+
+3. Parameterization of the yield functions
+
+In order to compute the secondary neutron yield following elastic scattering with an alpha particle, we require a
+computation of the yield function for the different deuteron energies. We considered this problem previously [2]. It is
+convenient to ﬁt the resulting neutron yield as a function of deuteron energy, in order to facilitate the calculation of the
+secondary neutron cross section.
+
+Figure 1.
+Secondary neutron cross section as a function of alpha particle energy (eV) for alpha particles in PdD and in D2O.
+
+3.1. Deuteron yield in PdD:
+In the case of energetic deuterons in PdD, we ﬁt the neutron yield function according to
+with
+and
+w = − 537226.0,
+y = 355399.0,
+z = − 94344.8,
+a = 12753.2,
+b = − 937.761,
+c = 35.5573,
+d = − 0.546338.
+
+3.2. Deuteron yield in D2O:
+In the case of energetic deuterons in D2O, we ﬁt the neutron yield to the same function using
+w = − 117361.0,
+y = 88477.9,
+z = − 28527.9,
+
+Figure 2.
+Stopping power for alpha particles in in Pd (black) and in PdD (blue) from SRIM2008.
+
+a = 4502.29,
+b = − 375.23,
+c = 15.7547,
+d = − 0.262152.
+
+These ﬁts were constructed using data between 500 eV and 10 MeV.
+
+
+4. Cross section for secondary neutron emission
+
+The cross section that results from the impact parameter calculation is shown in Fig. 1 for alpha particles in PdD and in
+D2O. Three different regions are apparent in the cross section. Below about 1 MeV, Rutherford scattering is dominant,
+which when combined with the deuteron-deuteron fusion yield function produces a gently sloping cross section which
+decreases at lower energy. Above about 1.5 MeV, the alpha–deuteron scattering becomes increasingly dominated by
+the nuclear interaction potential at small impact parameter, which is favored in the impact parameter integration since
+hard core scattering produces more energetic deuterons with a higher yield function. Finally, between 1 and 1.5 MeV
+there is a dip in the cross section. This is a consequence of the presence of trajectories at small impact parameter where
+the pushing of the Coulomb potential is balanced by the pulling of the nuclear potential, which gives rise to a region
+where the deuteron energy is too small to cause signiﬁcant fusion reactions.
+
+The cross section for alpha particles in D2O is larger at high alpha particle energy because the yield function for
+secondary neutron production is greater, due to the larger range of deuterons in heavy water as compared to PdD. The
+cross section for alpha particles in PdD is larger at low energy due to the much stronger screening effects in PdD as
+compared to D2O.
+
+
+5. Stopping power and range of alpha particles in PdD and in D2O
+
+We have used the SRIM-2008 code of J. F. Ziegler, J. P. Biersack and U. Littmark to compute the stopping power of
+energetic alpha particles in PdD and in D2O (see Figs. 2 and 3). The stopping power can be used to compute the alpha
+particle range using
+
+Figure 3.
+Stopping power for energetic alpha particles in D2O from SRIM2008.
+
+We show the resulting alpha particle range in Fig. 4.
+
+
+6. Yield of secondary neutrons
+
+We can use the secondary neutron cross section and the stopping power to calculate the yield of secondary neutrons,
+by integrating the incremental yield over the alpha particle trajectory
+The results for alpha particles in PdD and in D2O are shown in Fig. 5. We see that the yield is higher in D2O at high
+energies, due to the weaker stopping power of D2O.
+
+In order to compare with experiment, we require the quantity Y/E. This is shown in units of n/J in Fig. 6. At the
+lower energies one sees that the number of secondary neutrons per unit energy is higher in PdD due to the screening.
+
+
+7. Sensitivity of yield to screening energies
+
+Of interest in the interpretation of experimental results is the question of the sensitivity of the secondary neutron yield
+to the model used. In our case, we have two screening parameters with varying degrees of uncertainty. In the case of
+deuteron-deuteron collisions, measurements of the screening energy has yielded values between about 300 and 800 eV.
+
+Figure 4.
+Range of energetic alpha particles in PdD (lower curve) and in D2O (upper curve).
+
+As mentioned above, we do not have results for the screening energy for alpha–deuteron collisions. As a result, it
+makes sense to explore the sensitivity of the secondary neutron yield to different assumptions about the two screening
+energies.
+
+In Fig. 7, we show a close up of results where we have used different values for the two screening energies. In
+this ﬁgure, we see three bands of three curves each. The black, blue, and red curves use deuteron–deuteron screening
+energies Ue(dd) of 0, 400 and 800 eV, respectively. The three different curves within each band have alpha–deuteron
+screening energies Ue(αd) of 0, 800 and 1600 eV, where increasing screening energy reduces the yield. We see that
+the yield is most sensitive to the deuteron–deuteron screening energy, and that the spread in the experimental values
+leads to about a factor of 2 difference in yield at 10 keV. The Rutherford scattering cross section is logarithmic in the
+alpha–deuteron screening distance, which accounts for weaker dependence on this screening parameter.
+
+Figure 5.
+Yield of secondary neutrons in PdD (lower curve) and in D2O (upper curve).
+
+Figure 6.
+Number of secondary neutrons per joule in PdD (lower curve) and in D2O (upper curve).
+
+Figure 7.
+Secondary neutrons per alpha energy as a function of alpha energy. In the three top red curves, we have used Ue(dd) = 800 eV; for the
+middle three blue curves, we have used Ue(dd) = 400 eV; and for the bottom three black curves, we have used Ue(dd) = 0 eV. In each case, we
+have run three cases with Ue(αd) = 0, 800, 1600 eV. The highest curve for each set of three corresponds to zero screening, and the lowest curve for
+each set corresponds to 1600 eV.
+
+
+8. Discussion
+
+As mentioned above, we were motivated to examine the secondary neutron yield due to energetic alpha particles due
+to the insistance of some of our colleagues, who are very good physicists, that energetic alpha particles can remain
+hidden in PdD. We can take advantage of the calculations presented above in order to estimate the upper limit on the
+alpha particle energy if it remains in PdD (or if it were to go into the D2O electrolyte). From the experiments of
+Gozzi et al. [9], Takahashi et al. [10], and Scott et al. [11], we can extract upper limits on the number of neutrons per
+unit energy of excess heat produced to be 0.021, 0.01 and 0.008 n/J, respectively. The corresponding upper limit on the
+alpha particle energy is between 6200 and 7700 eV using a deuteron–deuteron screening energy of 800 eV. Assuming
+a deuteron–deuteron screening energy of 400 eV, the upper limit on the alpha energy is between 8200 and 9800 eV.
+
+The experimental upper limits on the relative absence of neutrons, combined with the secondary neutron yields
+presented here, produces a very low upper limit on the alpha particle energy relative to the Q value from experiments
+(near 24 MeV). The simplistic proposals put forth by our physics colleagues are clearly inconsistent with experiment,
+since they would involve alpha particle energies well in excess of 1 MeV.
+
+A preliminary version of these results and others appear in [12].
+
+
+References
+
+[1] A. Takahashi, T. Inokuchi, Y. Chimi, T. Ikegawa, N. Kaji, Y. Nitta, K. Kobayashi and M. Taniguchi, Proc. ICCF5, p. 69 (1995).
+[2] P. L. Hagelstein, J. Cond. Mat. Nucl. Phys. 3 (2010) 35.
+[3] T. Kambara, M. Takai, M. Nakamura and S. Kobayashi, J. Phys. Soc. Japan 44 (1978) 704.
+[4] F. Raiola, L. Gang, C. Bonomo, G. Gyurky, M. Aliotta, H.W.Becker, R. Bonetti, C. Broggini, P. Corvisiero, A. D’Onofrio, Z.
+Fulop, G. Gervino, L. Gialanella, M. Junker, P. Prati, V. Roca, C. Rolfs, M. Romano, E. Somorjai, F. Streider, F. Terrasi, G.
+Fiorentini, K. Langanke and J. Winter, Eur. Phys. J. A 19 (2004) 283.
+[5] F. C. Barker, Nucl. Phys. A 707 (2002) 277.
+[6] M. La Cognata, A. Musumarra, C. Spitaleri, A. Tumino, C. Bonomo, S. Cherubini, P. Figuera, L. Lamia, M. G. Pellegriti, A.
+Rinolo, R. G. Pizzoni, C. Rolfs, S. Romano, D. Schürmann, F. Strieder, S. Tudisco and S. Typel, Nucl. Phys. A 758 (2005) 98c.
+[7] K. Czerski, A. Huke, P. Heide and G. Ruprecht, Eur. Phys. J. A 27 (2006) 83.
+[8] M. Griebel, S. Knapek and G. Zumbusch, Numerical Simulation in Molecular Dynamics, Springer, Berlin, 2000.
+[9] D. Gozzi, R. Caputo, P. L. Cignini, M. Tomellini, G. Gigli, G. Balducci, E. Cisbani, S. Frullani, F. Garibaldi, M. Jodice and G.
+M. Urciuoli, Proc. ICCF4, Vol. 1, p. 2-1 (1994).
+[10] A. Takahashi, A. Mega and T. Takeuchi, Proc. ICCF3, p.79 (1993).
+[11] C. D. Scott, J. E. Mrochek, T. C. Scott, G. E. Michaels, E. Newman and M. Petek M, Fusion Technol. 18 (1990) 103.
+[12] P. L. Hagelstein, Naturwissenschaften 97 (2010) 345.

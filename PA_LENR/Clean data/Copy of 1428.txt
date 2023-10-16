@@ -1,0 +1,203 @@
+1. Background
+
+A small research groupa has been investigating different methods for producing
+excess heat for several years now. We are now starting to see some success in
+our research. We use plasma, lasers, electromagnetic fields, contaminate defects,
+etc. in attempts to stimulate excess heat from cathodic reactions. The author
+researches in the area of creating defects or sites that may create excess heat in
+metal films. Generally, the cathodes are small and surrounded by a large anode.
+Surface contaminants and conditions, surface areas and perimeters, geometries, etc.
+are considered important in producing an efficient cell. Then scaling up through
+the replication of the cell unit into a plurality is done to produce larger quantities
+of power. These embodiments are documented in a recent patent application.1
+
+A growing body of experimental evidence in this last decade has shown that
+some types of low-energy-induced nuclear (LEIN) reactionsb are possible. These
+could be, and are thought to be by the group, the reactions referred to as non-Joule
+heating. One series of electrolytic experiments by Dr. Tadhiko Mizuno emitted
+
+Figure 1. Non-Joule heating efficiency versus input current.
+
+
+bursts of 105–106 neutrons at the cathode lasting up to 200 s.2 Such experiments
+confirm the existence of the new reactions. Better theories may be developed that
+explain the non-Joule heating phenomena that have been observed but this does
+not change the results, embodiments, and claims documented within the patent
+application.
+
+Unfortunately, most attempts to increase power yields have faltered when increasing input power or increasing the size and configuration of the cell. This is
+because increasingly disproportional amounts of the input power went into Joule
+heating of the cell and not into cathode boundary layers where the desired reactions occur. Joule-heating losses increase to the square of the applied voltage as
+shown in Fig. 1. Several designs and scale-up attempts have failed because the
+non-productive Joule heating quickly grew into overshadow the cathodic reactions.
+
+Through the research of the group and others, we have concluded that further
+developments of and improvements in energy power systems utilizing electrolysis of
+liquid, plasma, or gas fluids are hampered by:
+
+• an inability to scale-up because Joule-heating of the electrolyte (or proton/deuteron conductive media) becomes increasing dominant to the desired non-Joule heating processes;
+
+• a lack of increased fluxes to heighten chances of non-Joule reaction at the
+cathode, and especially, in the cathode boundary layers where the desired
+non-Joule reactions take place;
+
+• a lack of increased overpotential that drives the desired non-Joule reactions
+at the cathode, and especially, in the cathode boundary layers where the
+non-Joule reactions take place.
+
+Figure 2. Basic MultiCell unit design.
+
+
+2. Basic Design
+
+The MultiCell is a small electrochemical cell designed to increase desired cathodic
+reactions in the electrolytic system/reactor and decreased Joule heating of electrolyte. The reactor’s basic design involves a small unit, called a MultiCell unit.
+The MultiCell unit increases non-Joule heating efficiencies due its small size and a
+unique electrode construction having: a small cathode, a large anode, small gap,
+large cathode perimeter-to-surface area ratio, and symmetrical designs that synergistically increase the overpotential and desired cathodic reactions near the surface
+of the cathode while decreasing the less desired Joule-heating processes. The simplest MultiCell design is shown in Fig. 2. The MultiCell unit’s unique design allows
+repetitive replication of the unit (much like a component on a circuit board or computer chip) to acquire the desired power output while still maintaining the efficiency
+of the small MultiCell unit. MultiCells have been immersed in an electrolyte bath
+to produce boiling water.
+
+
+3. Object of the MultiCell Unit
+
+The MultiCell design promotes a larger portion of the voltage drop to happen at
+or near the surface of cathodes. Focusing electrons and ions (protons/deuterons)
+into small areas and forcing them to flow through thin layers increases the flux,
+but it also increases the overvoltage (voltage drop) at and in the cathode surface
+boundary layers. Tafel’s law (Eq. (1)) quantifies the relationship between flux and
+overpotential.
+
+η = a + b loge I, (1)
+
+Figure 3. Replication of the MultiCell unit to increase power (actual photo).
+
+where η is the overpotential in volts i the current density (electron flux, e−/m2 s)
+or proton/deuteron flux (H+/m2 s or D+/m2 s), and a and b are constants.
+
+Unfortunately, this shows that overvoltage is less than proportional to the applied flux. This makes focusing the fluxes even more important, as the MultiCell
+does.
+
+
+4. Cathode Materials and Morphology
+
+A cathode substrate that can withstand the environment in the cell needs to be used.
+It is also felt that it should prevent leakage of hydrogen into the understructure,
+for example gold, copper, silver or platinum. A cathode size of less than 1 cm2 is
+generally used.
+
+We believe that “desired” heat-producing cathodic reactions happen in the surface of the cathode and not in the bulk of the cathode. We further believe that
+defects or sites in or on that surface are important in producing the desired reactions. The described embodiments were designed to validate these concepts, for
+example, they may use thin layers of palladium metal plated on a gold substrate
+cathode. Defects are formed on surface from the use of uranium, rhodium, and other
+elements. These give sites where hydrogen/deuterium can pair up and increase their
+chances to interact with themselves or atoms of the host electrode and environment.
+The sites are envisioned to provide areas where the hydrogen-recombination overpotential is high, which is considered important by some. Rare earth metals (e.g.
+cerium and lanthanum) are often used because they may provide a counter nuclear
+spin that helps in the coupling of hydrogen/deuterium.
+
+Figure 4. MultiCell non-circular pattern.
+
+Palladium metal is often used as the anode. Using palladium limits the number
+of contaminates entering the electrolyte. Also, dissolution of the palladium from
+the anode can slowly plate out onto the cathode. This appears to be useful in the
+production of excess heat because it felt that it is the small crystal structures and
+contaminants and/or in the surface cathode are big contributors to the production
+of excess heat.
+
+Cathode surfaces with corrugations, crevices, or large perimeter-to-surface area
+ratios are envisioned to increase edge-boundary layer reaction sites. Deposits of
+alternating thin layers of dissimilar electrically conductive materials, e.g. palladium
+and nickel, are being investigated.
+
+
+5. Configurations
+
+Figures 2 and 3 show the basic circular design. These designs can be constructed
+from plate stock or films onto a substrate. However, they tend to be more difficult construct than non-circular designs because they require construction in different planes to facilitate separation of the cathodes and anode(s). Whereas, the
+non-circular designs can be constructed form materials in the same plane. Figures 4 and 5(a) (taken from the patent application) show non-circular designs. The
+components of these are similar to the circular designs, except the cathode is long
+and slender. In Fig. 5(a) the cathode is constructed of connected dots in a row to
+increase the perimeter-to-surface area ratio.
+
+Figure 5. (a) MultiCell non-circular pattern; (b) an actual MultiCell (actual size).
+
+
+6. Plasma Configuration
+
+During operation of a MultiCell shown in Fig. 6 a blue glow or discharge can occur
+around the cathode (item 30 of Fig. 6). Notice the design is patterned after the
+non-circular MultiCell embodiment in where the cathode is smaller than the anode
+(see Fig. 4, envelope A). The blue glow does not happen until 50–100 V are applied.
+The exact voltage depends on configuration, electrolyte concentration, etc. While
+increasing voltage from zero, the current continues to increase until the blue glow
+or corona appears. Then the current sharply drops indicating a sharp increase in
+resistance. This marked decrease in resistance, when the plasma forms, implies that
+a significant voltage drop at the cathode surface boundary layers where the plasma
+forms. Figure 6 shows the operation and data collection of a plasma MultiCell unit
+as cited in the Patent Application. Unlike the other cells mentioned in this paper,
+this cell usually used light water instead of heavy water.
+
+Experiments were run with this unit where high excess heat (>30%) were measured. Others have tried to measure its heat in flow-through calorimeters but it
+does not perform as well in such systems. This is because such systems require the
+cell to be run in at an enclosed cell with bath temperature around 50 ◦C. Whereas,
+the cell seems to performed best at higher, even boiling, temperatures.
+
+Others, such as Tadahiko Mizuno, have also experimented with plasma. His
+original cell used larger plate cathodes. His latest cell now also uses a smaller cathode and larger anode design. The amount of hydrogen generated by an electrolytic
+cell is generally calculated by using Faraday’s law. However, this is not correct
+for a plasma cell. The high temperatures and energies at the cathode break down
+water in disproportional amounts. Mizuno has measured where the excess hydrogen
+generation reaches more than 30% of energy input.3
+
+Figure 6. Process control, testing, and calorimetry apparatus for plasma MultiCell unit enbodiment.
+
+
+7. Methods of Producing MultiCell Electrically Conductive
+Patterns
+
+The patent application also discloses developed and demonstrated methods to efficiently and accurately produce metal patterns on electrically non-conductive materials with the use of an ink-jet printer device. The technique uses an ink-jet
+printer with special inks containing soluble palladium (or other catalyzing metal)
+compounds to produce the desired patterns or pictures on paper or other materials. Then the palladium compounds are reduced to metallic palladium (see Fig. 7).
+Finally, electroless (e.g. nickel, cobalt, copper, gold, platinum and palladium) plating solutions are used to deposit metal films over the metallic palladium patterns
+(see Fig. 8). Even though the palladium metal (or other similar material) is in low
+concentration, it acts as a catalyst and provides the sites needed for the electroless
+metal process to begin. The deposited metal then acts as its own catalyst and continues the plating process. Other layers of different metals can then be deposited on
+
+Figure 7. Palladium metal pattern produced by ink-jet printer (actual size).
+
+the metal patterns using standard electrolytic and/or electroless metal depositing
+techniques.
+
+Using different metal solutions applied as different “colored inks” can make
+alloys and contaminants of varying composition. One of the “colored inks” can be a
+reductant that develops the sprayed pattern. This can be repeated until the desired
+thickness is obtained.
+
+Figure 8. Nickel plated onto palladium pattern.
+
+There are manufactured glass and ceramic glazes that contain palladium, copper,
+silver, gold, and platinum, etc. compounds that can be applied like paint. When
+heated, the organic compounds in these paints reduce the compounds to elemental
+metals. Hand applying, silk-screening, or other methods can be used to apply
+the paints in the desired patterns to the substrate. Appling a thinned solution
+of palladium paint can produce a catalyzed pattern like the above-cited technique
+prior to performing electroless plating.
+
+
+8. Conclusion
+MultiCell concepts have yielded good results and further developments appear
+promising and will continue. However, development is slow because of the shoestring
+budgets of the group. Most of the funds come from the “day jobs” salaries of the
+group.
+
+
+References
+
+1. R.F. Gimpel, D.J. Cravens, J.S. Frick, V.F. Golubic and D.G. Letts, MultiCell Reactors,
+20 June 2000, US Patent Office Patent Application Serial No. 09/597,650.
+2. T. Mizuno et al., Jpn. J. Appl. Sci. Phys. 40, L989–L991 (2001).
+3. T. Mizuno, T. Akimoto and T. Ohmori, in Generation of Heat and Products During Plasma Electrolysis, Paper and Presentation, Proceedings of the 10th International
+Conference on Cold Fusion, Cambridge, Massachusetts, USA, 24–29 August 2003.

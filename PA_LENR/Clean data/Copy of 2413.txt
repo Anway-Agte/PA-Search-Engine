@@ -1,0 +1,200 @@
+1. Introduction
+
+Palladium tubes have normally been used as ﬁlters of
+hydrogen (deuterium) gas to attain the highest purity
+because hydrogen (deuterium) gas has a greater diffusion
+coefﬁcient through palladium than that of any other gas [1, 2].
+
+This diffusion coefﬁcient dramatically increases when the
+temperature of the palladium increases [3, 4]. Hence, the
+palladium tube is usually heated to red heat in order to switch on
+an instant source of pure hydrogen (deuterium) in experiments
+(such as gas discharge devices, ion sources for accelerators,
+etc). Hence temperature variation was not examined when the
+hydrogen (deuterium) was passing through the thin ﬁlm of the
+palladium tube. However, when we studied the calorimetric
+behaviour of the deuterium/palladium system, an unexpected
+phenomenon was observed of temperature rising unexpectedly
+when the hydrogen (deuterium) gas was pumped out from the
+palladium wire. As the hydrogen (deuterium) leaving from
+the palladium wire was believed to be an endothermic process,
+we expected to observe a temperature drop when the hydrogen
+(deuterium) gas started to leave the palladium wire. In one
+series of experiments, the palladium wire was heated by an
+electrical current ﬂow inside the palladium wire; hence, the
+temperature rise might have been caused by several effects
+such as the change in the electrical resistance of the Pd wire,
+and/or variation of the heat transfer coefﬁcients. We therefore
+decided to use a Calvet calorimeter to detect this exothermic
+effect because the Calvet calorimeter is based on the Seebeck
+effect, which does not rely on heat transfer coefﬁcients. In this
+new series of experiments, not only was this exothermic effect
+conﬁrmed, but it was also correlated with the deuterium ﬂux
+permeation of the thin ﬁlm of palladium.
+
+
+2. Apparatus
+
+Figure 1. Schematic view of the high-precision calorimeter (Calvet
+C-80 D).
+
+Figure 1 shows a schematic view of the apparatus in this
+experiment with a thin palladium tube plugged into the reaction
+vessel of a Calvet calorimeter, which is composed of a series
+of thermal couples and by two reaction vessels (only one of
+which is shown in ﬁgure 1). These thermocouples encircle
+the reaction vessel in order to detect any heat ﬂow from any heat sources within the reaction vessel. In order to increase
+precision, two identical vessels are arranged symmetrically
+and are connected electrically in series in reversed polarity in
+order to cancel the effect of the environment due to ﬂuctuation
+in the ambient temperature. This palladium tube (26 mm × 0.1 mm × ⊘4 mm) is sealed at one end, and deuterium gas:
+is fed through the other end. The reaction vessel is pumped
+by a vacuum pump through the co-axial tube at the top of the
+reaction vessel in order to generate a pressure difference across
+the thin wall of the palladium tube. The deuterium ﬂux through
+the thin wall is very low because the diffusion coefﬁcient of
+hydrogen (deuterium) gas in palladium at room temperature is
+quite low. The Calvet calorimeter has been designed to heat
+the two vessels homogeneously using heaters embedded in the
+insulator surrounding the two vessels. This Calvet calorimeter
+(C-80D) was imported from a French company (Setaram), and
+it is designed to be sensitive to a heat ﬂow of 1 µW, and it
+has been calibrated with a standardized vessel equipped with
+a standard electrical heater. When we heated the vessels and
+the tube, the deuterium ﬂux across the thin wall of the Pd tube
+gradually increased. This deuterium ﬂux was monitored by
+the pressure in the reaction vessel while the pump still kept
+running. All data for pressure, heat ﬂow, and temperature
+were recorded by a data acquisition system controlled by
+a computer. When the electrical heaters embedded in the
+insulator were switched off, the temperature of the system
+decreased gradually. Since the C-80 Calvet calorimeter is well
+insulated in a big cylindrical insulator, the cooling process was
+very slow. It usually took about 10 h to cool the system from
+250˚C to 70˚C.
+
+
+3. Results
+
+Figure 2. Correlation between deuterium ﬂux and heat ﬂow;
+
+Figure 2 shows the results of one of the experiments. The
+Calvet calorimeter (C-80D) was ﬁrst uniformly heated to
+200˚Cbytheheater. Deuteriumwasthenfedintothepalladium
+tube inside the reaction vessel. After half an hour, the heater
+was switched off. While the reaction vessel was cooling down,
+the vacuum pump was working continuously in order to pump
+out the permeating deuterium gas. The D2 pressure inside
+the Pd tube was about 1.4 atm. The permeation rate was low;
+hence, the pressure in the vessel was about 150 Pa. When
+the temperature approached ∼150˚C (see the lower plot in
+ﬁgure 2), the pressure in the reaction vessel started increasing
+quickly although the pump was still working continuously. At
+the same time the Calvet calorimeter recorded a heat ﬂow
+(shown by the thick dash-dot-dash line in the upper plot of
+ﬁgure 2). We then calculated the derivative of the pressure
+with respect to time (dP/dt) in order to monitor the deuterium
+ﬂux permeating the thin wall of the Pd tube. When thisdeuterium ﬂux reached a peak (shown by the thin solid line
+in the upper plot of ﬁgure 2), the heat ﬂow also showed a
+peak. When the temperature decreased further, the deuterium
+ﬂux decreased to a valley while the heat ﬂow also showed
+a valley. After the ﬁrst peak of deuterium ﬂux, there was a
+second peak before 140˚C, and the heat ﬂow reached its second
+peak in parallel. We carefully calculated the deuterium ﬂux in
+order to consider the effect of the continuous pumping, and
+we obtained the two peaks of the deuterium ﬂux as shown by
+the thin solid curve in the upper plot of ﬁgure 2. There was a small time delay between the two sets of peaks. The peaks
+of the deuterium ﬂux appeared a little earlier than the peaks
+of the heat ﬂow. The time delay is about 240 s, and the time
+constant of the Calvet calorimeter is just about 250 s. When
+the temperature was lower than 140˚C, the deuterium pressure
+inside the vessel started dropping because the deuterium ﬂux
+diminished. The negative value of the heat ﬂow in ﬁgure 2
+indicated an endothermic effect just after the deuterium ﬂux
+had stopped. Probably, it had been caused by a desorption
+process in the reaction vessel due to the dropping of D2 pressure
+inside the vessel. This correlation between deuterium ﬂux and
+the heat ﬂow was conﬁrmed 16 times with the same palladium
+tube under various D2 pressure differences.
+
+
+4. Discussion
+
+(1) Permeation of deuterium through the thin wall of a
+palladium tube has been supposed to be a diffusion process,
+and the deuterium ﬂux assumed to be a monotonic function
+of temperature, with the diffusion coefﬁcient of deuterium
+gas inside the palladium decreasing when the temperature
+decreases. However, what we observed was a different, up
+and down trend. Moreover, it showed a double peak structure
+that is not expected if the diffusion coefﬁcient, D, had followed
+the conventional expression as in [5]:
+Here, D0 and Ea, are two constants; T is the temperature
+in Kelvin. It seems that there may have been some kind
+Abnormal deuterium ﬂux and heat ﬂow in D/Pd system
+of resonant process involved in the abnormal double peak
+structure.
+
+(2) This abnormal deuterium ﬂux with a double peak
+structure seemed correlated with an exothermic process. We
+might think of solution of deuterium into the palladium, and the
+formation of deuteride inside the palladium, because both these
+processes are exothermic. In order to check if this was true,
+deuterium gas was fed into both sides of the Pd wall (i.e. the
+reaction vessel and the palladium tube) and the experiment
+run again. In this case, heat ﬂow was not observed when the
+temperature of the palladium tube passed through the particular
+temperature region. Hence, the deuterium ﬂux permeating the
+thin wall of the palladium tube must be an important factor
+for this heat ﬂow. We might assume that this resonant process
+enhances the concentration of the deuterium atoms inside the
+palladium lattice, where it enhances the ﬂux permeating the
+thin wall of the palladium tube. Such a plausible assumption
+seems supported by the dip after the double peak structure
+of heat ﬂow in ﬁgure 2. After 52 500 s, the deuterium ﬂux
+entering inner surface of the Pd tube approached zero; hence,
+the continuous pumping in the reaction vessel was no longer
+balanced by the inﬂux of the deuterium. Thus the density of
+deuterons inside the wall of the palladium tube was decreasing.
+Consequently, dissolution and desorption on the outer surface
+of the Pd tube at the reaction vessel side could not be balanced
+by the absorption and solution on the inner surface of the Pd
+tube. Both the dissolution and the desorption are endothermic
+processes that would cause the dip after 52 500 s.
+
+(3) Joule–Thomson effect? When we tried to ﬁnd the
+source of this heat ﬂow, at ﬁrst glance, there was a possibility
+of the Joule–Thomson effect because the thin wall of the
+palladium tube might be considered as a porous partition, and
+the inversion temperature for hydrogen is 205 K. However,
+this seemed impossible after qualitative consideration.
+
+The Joule–Thomson effect is important only for high-pressure
+and low-temperature gases that are far away from an ideal
+gas. In our experiment the gas pressure was less than 2 atm, and 
+the temperature was higher than 393 K, so that the Joule–Thomson effect is negligible.
+In particular, the
+deuterium ﬂux is very low (of the order of milliamperes),
+so that based on the Joule–Thomson coefﬁcient for hydrogen
+(−0.023 31 K atm−1), we may show that the heating power
+due to the Joule–Thomson effect for our case is much less than 1 µW, which is negligible.
+
+(4) Self-sustaining. It would be interesting if we were able
+to maintain the temperature of the D/Pd system at a speciﬁc
+point, say 150˚C, by the heat ﬂow itself. We might then keep
+this exothermic process in a self-sustaining steady state. A new
+system has been designed to test this idea, and preliminary
+results are encouraging.
+
+
+References
+
+[1] Graham T 1866 Phil. Trans. R. Soc. 156 415
+[2] Lewis F A 1966 Palladium/Hydrogen System (New York:
+Academic) p 3
+[3] Alefeld G and Volkl J 1978 Hydrogen in Metals, I, Basic
+Properties (Berlin: Springer) p 325
+[4] Alefeld G and Volkl J 1978 Hydrogen in Metals, II,
+Application-Oriented Properties (Berlin: Springer) p 73
+[5] Fukai Y 1993 The Metal–Hydrogen System, Basic Bulk
+Properties (Berlin: Springer) p 230

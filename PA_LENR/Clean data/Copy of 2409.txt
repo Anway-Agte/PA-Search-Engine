@@ -1,0 +1,185 @@
+1. INTRODUCTION 
+
+When we discuss the nuclear science in condensed matter, the first issue would be how the nuclear 
+reaction rate is affected by the crystal lattice. In other words, we may ask how the wave nature of injected 
+projectile is affected by the crystal lattice of the host metal. This research started from an analogy to optical 
+waves in a crystal lattice. 
+
+In optics, super-radiation[1] due to 
+the coherence between several optical sources 
+has been proved (Fig. 1a). The total intensity 
+of the light is proportional to 4×Amplitude of 
+single light2 instead of  4×Amplitude of 
+single light2 for the case of super-radiation.  
+
+On the other hand, we might ask what happens 
+if there is coherence between several optical 
+absorbers (Fig. 1b), because any nuclear 
+reaction may be considered as an absorption of 
+the injected wave. When the injected wave hits 
+several absorbers in the lattice, there will be A
+the scattered wave and absorbed wave, the 
+phases of the scattered waves may be in coherence which might result in constructive interference or 
+destructive interference. The constructive interference will enhance the amplitude of the scattered wave 
+inside the lattice; then, it will enhance the absorption when the scattered wave hits the next absorber. The 
+destructive interference will be important when it reduce the amplitude of the total reflected wave because 
+the total reflected wave outside the crystal is the superposition of all reflected waves from all absorbers.  
+“SUPER RADIATION”
+ABSORPTION enhanced by Crystal Lattice ?
+∣4× Amplitude∣2   instead of 4× ∣Amplitude∣2   
+(a)
+(b)
+Fig. 1  Super-Radiation and Super-Absorption
+
+
+2. SUPER-ABSORPTION IN ONE-DIMENSIONAL MODEL 
+
+A series of potential wells and barriers in one dimension are used to illustrate this coherent effect 
+(Fig. 2). The narrow-deep well is the absorber, and the wide-shallow well is the space between absorbers. 
+
+When the injected wave is coming from the left, we may calculate how much is absorbed, how much is 
+reflected, and how much penetrates this array of lattice well and barrier. Using quantum mechanics[2], for a 
+single cell of barrier-well-barrier array we may calculate the matrix, M(1), which connects the outgoing wave 
+function, Ψout(1) , and the incoming wave function, Ψin(1) as: 
+out in M. This matrix is written in the plane—wave representation. For example in the case of outgoing wave only (see 
+right-hand-side of Fig.2), 
+
+Fig.2 The reflection, penetration and absorption in case of an array of coherent cells with barrier-well-barrier  
+An Array of Coherent Absorbers inside the Lattice Tunneling  When the array is increased to a set of N cells of barrier-well-barrier (Fig. 2a), the matrix equation should be 
+written as If we keep the outgoing wave function same as before; then, out (N)
+
+The reflection rate, R, penetration rate, T, and the absorption rate, A, may be written as the function of the 
+elements of the connection matrix: 
+The similar definition is valid for an array of N set of barrier-well-barrier 
+
+An important conclusion may be drawn from this very general relationship between M(N)21 and 
+M(1)21 (equation (9): when the reflection rate for single cell is not zero; the total reflection rate for N cell 
+might be zero as long as 
+In physics, this is the result of destructive interference among all the reflected waves. At the same time 
+R(N)=0 implies T(N)→1 when there is no absorption(Fig. 2b). It means a constructive interference among all 
+the propagating waves inside the array of barrier-well-barrier region which enhances the penetration rate 
+greatly. The conservation of the probability guarantees the eventual penetration after all the reflection and 
+penetration in each cell. 
+
+Now we may find another important conclusion from this relationship: when a small imaginary 
+potential is introduced in the well region of the absorbers; then, there will be an absorption rate (Fig. 2c): 
+It is proportional to the product of imaginary part of the potential and the square of the amplitude of the wave 
+function, Im(U1)×Ψ1(N)2, which has been greatly enhanced due to the constructive interference among all 
+the propagating waves inside the array of cells. It is a kind of resonant tunneling. Here, Im(U1) is the 
+imaginary part of the potential in the absorber region; Ψ1(N) is the average amplitude of the wave function 
+in that region. This resonant tunneling predicts that the peak of the penetration rate will be accompanied with 
+a peak of the absorption peak. i.e. the correlation between the flux and the reaction rate. 
+
+In analogy to the selective resonant tunneling model[3,4,5], we may anticipate that the imaginary 
+potential can not be too large or too small. It is evident that the absorption rate A(N)→0 if this imaginary 
+potential Im(U1) →0. On the other hand if this imaginary potential is too large; then, it will damp the 
+resonance such that the product of Im(U1)×Ψ1(N)2→0. Thus there must be a maximum for a certain value 
+of Im(U1) in between. This selectivity will explain why only certain channel of reaction is open to the 
+resonant tunneling. In other words, the absorption peak will reach its maximum when the imaginary part of 
+the potential reaches a certain intermediate value. Indeed, it implies that only the nuclear reaction without 
+strong neutron and gamma radiation would be selected by this resonant tunneling mechanism. 
+
+
+3. EXPERIMENTAL EVIDENCE FOR THIS CORRELATION. 
+
+The first evidence was from the “pumping effect” in the gas loading system[6] Every time we 
+started pumping out the gas, the temperature of the deuterium-loaded Pd wire will jump up. It is quite 
+stubborn and reproducible. However, there were two items which have to be improved: (1) we need an 
+independent calorimeter to measure the heat flow from the D/Pd system, because the temperature jump of 
+D/Pd wire might be induced by the change of heat transfer coefficient during the pumping; (2) we have to 
+find the direct evidence which shows a deuterium flux through the Pd crystal.  A Calvet calorimeter(C-80D, 
+Setaram) has been used as the independent calorimeter. It measures the heat flow through the surface which 
+enclosed the reaction cell. It does not depend on the heat transfer coefficient of the D/Pd system, and it does 
+not require a thermal equilibrium of D/Pd system. A thin wall Pd tube is inserted in to the reaction cell 
+(Fig.3b). One end of the Pd tube is sealed, and the other end is connected to a deuterium gas bottle. At room 
+temperature when we pump out the gas in the reaction cell, the deuterium gas permeating through the 
+Correlation between D2 Flux & Heat Flow
+
+Fig. 3 Schematics of Calvet calorimeter and the curves showing correlation between deuterium flux(smooth line, right scale) and heat 
+flow (zigzag line, left scale) 
+thin-wall of Pd tube is negligible. When we enhance the temperature of Pd tube; then, stop the heating and let 
+it cooling down gradually, there will be a flux through the thin-wall of Pd tube at certain temperature. The 
+gas pressure inside the Pd tube decreases quickly, and the pressure outside the Pd tube increases quickly even 
+if the vacuum pump is working continuously to pump out the gas in the reaction cell. In the meanwhile a heat 
+flow is detected by this Calvet calorimeter. The precision of this Calvet calorimeter is in the order of 20 
+microwatts; however, the heat flow detected is in the order of 4 milliwatts. The deuterium flux may decrease 
+and increase again when the temperature of D/Pd system is decreasing, and the heat flow will decrease and 
+increase correspondingly (Fig. 3a). It is evident that the higher deuterium flux corresponds to the higher heat 
+flow, and the peak position of the heat flow is a little delayed with respect to the peak of deuterium flux due 
+to the time constant of C-80D (100-250 seconds). This heat flow experiment has been repeated 16 times. It is 
+backed up by the nitrogen gas experiment (no flux and no heat flow), and the calibration with a standard 
+electrical heater(error bar is less than 20 µW).. 
+
+
+4. DISCUSSION 
+
+(1) The nature of the deuterium flux is not diffusive only. For a long time we believe that the permeation of 
+deuterium gas through the palladium is a diffusion process in nature[7]. Usually the diffusion coefficient 
+decreases quickly when the temperature is decreasing ; however, it is clearly shown that the flux might be 
+enhanced when the temperature of Pd is decreasing (Fig.3a). This part of flux is apparently related to a 
+resonant process. It implies that a single deuteron wave function might be applied to the whole D/Pd 
+system as suggested by Professor M. Fleischmann[8] who has searched this multi-body feature in 
+condensed phase for more than 4 decades. Indeed this is the basic assumption in the above-mentioned 
+calculation.  An indirect evidence might be drawn from the Cold Neutron experiment carried out at NIST 
+in US[9]. When cold neutron was injected to a heavy-water-ice target, the absorption rate shows clear 
+dependence on the wave length of the cold neutron (5Å to 9Å), and a clear dependence on the temperature 
+of the target (25o to –7oC). These peak-wise dependences disappear when the target is switched to light-
+water-ice.  As we know, the crystal structure is almost same for both heavy-water-ice and light-water-ice. 
+The difference is in the nuclear reaction for neutron absorption. The neutron absorption reaction in the 
+heavy-water-ice is much more weaker than that in the light-water-ice. The long mean free path is 
+necessary for the resonant tunneling in the heavy-water-ice, and it results in the peak-wise absorption rate 
+in the heavy-water-ice. 
+
+(2) Super-Absorption versus super-radiation.  In optics, the super-radiation means that the intensity of the 
+light would be proportional to the square of the number of the individual light sources; then, what happens 
+to the super-absorption? We found that in the case of super-absorption the minimum value of the escaping 
+rate would be proportional to 1xN. Here, 1< x < 2, N is the number of the coherent absorbers. The 
+escaping rate is defined as the sum of reflection rate and the penetration rate, i.e. 
+min. In comparison, for the non-coherent absorption the minimum value of the escaping rate would be still 
+proportional to , but 0 < x < 1. It implies that in case of non-coherent absorption the absorption rate 
+will increase with the number of the absorbers, but it is not as fast as that in the case of coherent 
+absorption. In physics, in the case of non-coherent absorbers, the absorbers on the surface will shade the 
+absorbers in the bulk; hence, x <1. In contrary, the coherent absorbers in the bulk will produce the 
+reflecting wave to interfere with the reflecting wave on the surface such that the total reflection is reduced; 
+hence, x > 1.  x can not be greater than 2, because the shading effect is still there even if in the case of 
+coherent absorbers. 
+
+(3) The nuclear nature of the heat flow.  What is the origin of this heat sources? Was it the energy of 
+solution? No, because it was a flux, the energy of solution must be balanced with the energy of dissolution. 
+Was it the Joule-Thomson effect? No, because the J-T effect is very small. It is detectable only if the 
+pressure difference is in the order of several hundred atm.  In our experiments, the pressure difference 
+across the thin wall of Pd tube is less than 2 atm. The J-T effect is in the order of microwatt. In order to 
+find the nuclear nature of the heat flow, TLD (Thermoluminescence detector) was placed inside the 
+reaction cell just next to the Pd tube. It will record any nuclear radiation inside the reaction cell during the 
+whole process. It was found that the recorded radiation in foreground was always a little higher than the 
+background.[10] Since TLD is only sensitive to the radiation with energy greater than 20 keV. It is an 
+evidence of the nuclear nature of this heat flow. 
+(4) The feasibility of self-sustaining heat flow  If we are able to keep this heat flow as long as one year, then, 
+the total amount of heat energy released will be so great that only the nuclear energy is comparable. 
+
+However, in our experiments the heat flow lasted only several tens of minutes. If we are able to enhance 
+the heat flow by a factor of 100; then, it is feasible to balance the heat transfer with the heat flow 
+generated. Then we may be able to realize the self-sustaining heat flow. Hopefully, we shall be able to do 
+it with multiple-layer thin-film technique. Indeed we have reached several hundred milliwatts of excess 
+heat in a same size of Pd tube already in terms of a current heating.[11]  
+
+
+REFERENCES 
+[1] R.H. Dicke, “Coherence in Spontaneous Radiation Processes,” Phys. Rev. 93, 99 (1954). 
+[2] Xing Z. Li, et al., “Super-Absorption—The Effect of Crystal Lattice on Enhancement of Nuclear 
+Reaction—”, Proceedings of 2001 Chinese Physical Society Fall Meeting, Sept. 20-23, 2001, Shanghai, 
+China. P.98.(in Chinese) 
+[3] Xing. Z. Li, J. Tian , M. Y. Mei and C. X. Li, “Sub-barrier Fusion and Selective Resonant Tunneling,” 
+Phys. Rev. ,C 61, 024610 (2000). 
+[4] Xing.Z.Li, "Nuclear Physics for Nuclear Fusion." Fusion Science and Technology, 41, 63 (2002). 
+[5] Xing Z. Li, et al., "Study Of Nuclear Physics For Nuclear Fusion," Journal of Fusion Energy ,19, 163 
+[6] Xing Z. Li, et al., “ Pumping Effect—Reproducible Excess Heat in a Gas-loading D/Pd System—,” 
+Presentation in ICCF9 (2002). 
+[7]Y. Fukai, “The Metal-Hydrogen System,” Springer-Verlag, Berlin Heidelberg (1993), p.214. 
+[8]M. Fleischmann, “Searching for the Consequences of Many-Body Effects in Condensed Phase Systems,” 
+Presentation in ICCF9 (2002). 
+[9] Derek L. Ho, Private communication (2001). 
+[10] Jian Tian, Xing Z. Li, et al., "Reproducible Heat and Correlation with Deuterium Flux in a D/Pd Gas-
+loading System", Presentation in ICCF9 (2002). 
+[11] Wei Wu, Xing Z. Li, et al., “Experimental Study of Anomalous Heat using Deuterium Flux through the 
+Thin Wall of a Palladium Tube, ”Presentation in ICCF9 (2002). 

@@ -1,0 +1,301 @@
+1. INTRODUCTION
+
+This talk will not be a summary of the theoretical contributions to this Conference: I think
+that the individual papers that this book collects can give a much better representation of the
+work that is now going on in the field than I can possibly attempt to give in a short talk. As a
+partial excuse I may quote a recent review article of mine[l1, where I try to discuss the most
+significant theories of cold fusion, and the fact that nothing much new has happened in the last
+few months. Nor will I discuss cold fusion in the non-equilibrium conditions prevailing in
+Titanium[2J, fracto-emission[3J and 'lukewarm' fusion[4)_
+
+I shall rather try to examine first the strange facts of hydrogen incorporation into
+Palladium, and then I shall discuss the phenomena of cold fusion in relation to those facts. In
+the light of the known experimental data I will then discuss the general features of what we
+might call 'possible' and 'impossible' theories of cold fusion, somehow drawing a demarcation
+line between which theoretical ideas can and cannot explain those observations, given the well
+established and accepted general laws of condensed matter (Quantum Electro Dynamics, QED)
+and nuclear physics (Quantum Chromo Dynamics, QCD).
+
+My discussion will follow quite closely a paper recently completed in collaboration with
+M. Fleischmann and S. Pons[5)_
+
+
+2. FACTS
+
+As Martin Fleischmann and Stanley Pons have explained us time and again they were
+induced to undertake a work « ... that was initiated on the strength of a calculation that no
+moderately intelligent graduate student, let alone experienced electrochemists, ought to take
+seriously ... »[6] by their being puzzled by the odd behaviour of Hydrogen - and its isotopes -
+when inserted in a host metal lattice, like Palladium. Let me try to briefly list and describe the
+strange facts that captured the imagination of our friends.
+
+- High concentration of Hydrogen in Pd
+When a piece of Pd is put in an atmosphere of gaseous Hydrogen at normal pressure it
+soakes a large quantity of the gas spontaneously and exothermally up to a ratio
+x = H Pd ::: 0.6. In order to get much higher x one needs very large pressures; in any case with accessible
+pressures one cannot reach from gaseous Hydrogen the apparently relevant 'threshold' x= 1
+(see later)C71.
+
+- High Hydrogen mobility
+The anomalously high mobility of Hydrogen in Pd, in particular its being accelerated by
+electric fields shows that Hydrogen and its isotopes (D and T) in Pd exist in their nuclear (not
+atomic) state, immersed in a very dense plasma of d-electrons[8J. And the natural question is:
+why highly compressed Hydrogen does not form?
+
+- High HID separation factor at equilibrium
+In equilibrium conditions H and D exhibit a high separation factor, completely consistent
+with a statistical mechanics model based on delocalized classical oscillators showing high
+affinity for Pd.
+In order to appreciate the latter statement let us consider two possible Born-Haber cycles
+
+FIG. I - Two possible Born-Haber cycles for p Pd-H. 
+
+One sees that one obtains solvation potentials of Hydrogen in Pd of the order of several 
+e V's, a most noteworthy physical phenomenon. 
+- Large diffusion coefficients - Inverse isotope effect
+Transport measurements show that the diffusion coefficients D of Hydrogen in Palladium 
+are of the order of 10-7 cm2 sec-I - a very large value - and are ordered as[9] 
+The inversion of the diffusion coefficients of D and T, that runs contrary to what one 
+would have expected from their masses, is a kind of 'inverse isotope effect', which is also 
+observed for the critical temperatures of the superconducting Pd - hydrides (To> T H)[IOl. 
+- High chemical potential of dissolved Hydrogen
+All these facts can be assembled to build the 'Scenario' reported in Table I. 
+
+Let us now turn our attention to the facts of Cold Fusion (CF) as we have learned them in 
+the last two years. 
+• Sporadicity, variability, metallurgical factors
+The phenomenology that has accumulated so far shows that the 'irreproducibility' of the 
+CF phenomena is most likely tied to the large number of relevant parameters and even to path­
+dependences in the space of parameters. 
+• Low T-levels, n/y«l, absence of y-rays and secondary n's
+The nuclear physics of CF has been since the beginningU 11 (March 1989) a tremendous
+puzzle, why the outgoing channels are not 3T + I H and 3He + in 1 : 1 proportion, like it 
+happens in the vacuum? Indeed this dramatic discrepancy has convinced the majority of 
+· physicists that CF phenomena must be a bogus.
+• Bursts in T, n production
+Are they due to non-equilibrium conditions?[12] 
+• High energy T, n and protons[13]
+Unconventional nuclear physics? 
+• Soft X-rays
+As shown by Szpak's (14) and Miles' (15) dental films.
+• 4He unaccompanied by high energy y rays
+As shown by the beautiful experiments of Melvin Miles and collaborators[15l. 
+• Excess enthalpy production far above that corresponding to T + n production
+In particular the new results of Fleischmann and Pons[16], that have been corroborated 
+by Wilford Hansen's independent analysis[17l, indicate powers of kW/cm3. 
+
+The scenario that originates from assembling these facts together is reported in Table II. 
+
+
+3. - POSSIBLE AND IMPOSSIBLE THEORIES
+
+We shall now try to bring the 'facts' and the scenarios of the preceding Section to bear 
+upon the key question of this talk, namely which of the the proposed theories are possible, and 
+which among them, on the other hand, are impossible. But before going into the specifics, it is 
+important to set down a clear demarcation between possible and impossible theories, which 
+might run as follows: 
+Any ' possible' theory must explain the new phenomena (facts) without 'unexplaining' 
+the old 
+To this we may add the corollary: the old theory (ies) which does not explain the new 
+phenomena cannot be used against the new theory in the realm where the old theory 'worked'. 
+
+Or, said differently, the 'successes' of the old theory cannot be·taken as evidence that there is 
+no need of different explanations of those successes. 
+3a - Hydrogen and its Isotopes in Pd 
+According to the scenario of Table I inside and at the surface of Pd there must exist very 
+strong electrostatic fields.We realize at once that these fields must be able to polarize the 
+Hydrogen molecule so strongly as to break it into its elementary components - p, d, T and 
+electrons -, thus piercing through an energy barrier which is as high as.:: 30 eV. The 'deep 
+potential holes' that are created by such fields, however, cannot have gradients that exceed ~ 
+70eV / 0.5 A, for otherwise 4He would also exist in the form of an a-particle, and this is 
+contradicted by observations. This fact nicely disposes of the arguments, embodied in the 
+Baym-Leggett TheoremC181, that were made against CF. Indeed, in the Pd lattice the observed 
+behaviour of 4He is completely different from that of pairs of D's, contrary to the 'reasonable' 
+assumptions of Ref. [ 18]. 
+
+From the very existence of the  -phase the number of 'deep holes' (with electric fields 30 eV /A< IE I <140 eV / A ) must exceed x  = 0.6, and the well known difficulty -of charging the Pd electrodes above x .:: 1 makes it plausible that the number of such holes equals 
+just the number of Pd-nuclei. Here, however, a severe difficulty shows up: how can we 
+reconcile the existence of such 'deep holes' with the fact that Hydrogen is delocalized? The 
+oddity of this fact puts all the generally accepted theories, based on two-body electrostatic 
+forces between matter constituents, in the category of IMPOSSIBLE THEORIES. 
+
+Also the magnitudes and the inverted ordering (Do+ >DH + >DJ+) of diffusion constants 
+speak against" the usual theorie , for they appear to require the existence of collective 
+bosonic/fermionic states for the Hydrogen 'plasma'. 
+
+We may thus draw a fundamental demarcation between POSSIBLE AND IMPOSSIBLE 
+THEORIES of Hydrogen in Pd in their allowance for collective many-body phenomena. 
+
+In models invoking explicity the existence of collective phenomena[l,I91 the 'deep holes' 
+that must form in roughly 1 : 1 proportion originate from coherent plasma oscillations of d­
+electrons. The difficult problem of 'delocal zation' can be solved by imagining that the 
+collective dynamics makes the Hydrogen state deep in the potential wells unstable. This can 
+ nly happen if there are interactions other than electrostatic which provide the necessary 
+negative interaction energy that allows the Hydrogen to occupy highly excited (delocalized) 
+states in the potential well. 
+
+The only theoretical proposal, known to me, that achieves just that is the simplified model 
+of plasma that is discussed in Ref. [20]. According to this model, as long as the charged 
+particle of a plasma moves in a harmonic potential, its coupling to the e.m. quantum modes 
+with the frequency co= COp (COp is the plasma frequency) will lift it up indefinitely, its excitation 
+stopping when strong non-harmonicities appear. 
+
+This means that the Hydrogen nuclei will go to band states of the deep ( ~ 100 e V) 
+potential that are highly delocalized, and in such circumstances all other properties discussed in 
+the preceding Section appear to find a natural explanation. 
+3b - Nuclear Fusion Processes in Pd
+As discussed in Ref. [I] the difficult problems that must be dealt with by any theory of 
+these phenomena are two: 
+(i) How can the Coulomb barrier be penetrated at such large rates?
+(ii) How can the process avoid the restrictions posed by 'Asymptotic Freedom' (AF)?
+
+As for problem (i), all simple evaluations of 'tunnelling' probabilities lead to estimates 
+that are 50-60 orders of magnitude much too small! Regarding problem (ii) one must notice 
+that, even if the former severe difficulty could be resolved, there remains the even more severe 
+difficulty that fusion in the lattice does not proceed experimentally in the same way as in hot­
+fusion processes. 
+
+In particular, the discoveries of high excess enthalpy uncorrelated to T-production and of 
+the large T/n ratio imply that the lattice must play a fundamental role and, consequently, AF, 
+with its implications of independence of nuclear processes from lattice dynamics, must be 
+violated in a fundamental way. Besides a deep reason for the violation of AF, a good theory 
+should also give some explanation of variability, dependence on x, bursts in T and n and 
+generation of high energy n, p and T. 
+
+Getting now to the proposed theories of the penetration of the Coulomb banier, I note 
+that a simple application of the Gamow-formula (which contains essentially all the 'juice' of the 
+problem of the penetration of the Coulomb barrier) requires the existence of a screening 
+potential of about 100 e V, just in order to enhance the naive estimates of fusion rates by the 50 
+orders of magnitude necessary to account for the relatively rare neutron emission processes. 
+
+All POSSIBLE theories must thus include at least a semiquantitative explanation and 
+estimate of screening potentials of such size. IMPOSSIBLE are those theories which do not 
+consider explicitly this problem[22J. 
+
+Among IMPOSSIBLE theories, I note those which try to avoid the banier either by 
+having 'off-shell' neutrons to initiate the fusion process[IJ, or 'on-shell' neutrons that originate 
+from an incoherent exchange of energy with the latticef23J. Equally IMPOSSIBLE is to have 
+tight De bound states up to 300 F (Hydrons)f24J, which appear in clear conflict with known 
+phenomenology. 
+
+On the other hand the superradiant plasmas considered in Ref. [20] do provide for such 
+screening in a natural wayl25]_ 
+The necessary violation of AF puts all theories based on the usual, electrostatic view of 
+condensed matter interactions among the IMPOSSIBLE theories. For in a lattice governed by 
+short-range forces no room for such striking phenomenon can be found: indeed, with such 
+forces there is absolutely no way in which the space-times of a lattice oo-8 cm and 10-15 sec) 
+can influence the space-times of a fusion process 00-12 cm, 10-21 sec). I note in passing that 
+similar mismatches occur in the physics of the Mossbauer effect, putting this well known 
+phenomenon in the category of natural mysteries - at least within the conventioned picture of 
+condensed matterl26J. POSSIBLE theories of CF must take due account of these odd collective 
+phenomena, which the theory of superradiant plasmas explains naturally. 
+
+Recall, in fact, that the theoretical analysis based on superradiant behaviourf19] explicitly 
+violates AF and provides estimates of the rates of 4He (plus excess heat), T and n-production in 
+reasonable agreement with known phenomenology. In particular, the production of 4He 
+unaccompanied by y-rays demands a very fast (~lQ-21 sec) energy transfer to the lattice 
+electrons (which then will release it away in various ways: heat, ultraviolet light, x-rays ... ). 
+
+Without a macroscopic quantum behaviour the impossibility of any theoretical description is 
+clearly seen by computing the velocity u of such transfer from the site of fusion (somewhere
+inside the lattice) to the nearest atom(~ 3 A away), one has 
+3A
+I 
+u -
+10-21 sec =
+c . 
+
+Remember the EPR paradox? Something like it seems to be occurring here£27]. 
+
+Getting now to the sporadicity of some CF phenomena I would like to note that the theory 
+which invokes the existence of heavy charged particle showering the earth from outer space[28J, 
+though a logical possibility, appears rather unlikely. On the other hand the existence of a 
+threshold at x::: 1, as discussed in Ref. [29], seems a more likely explanation. Furthermore 
+lattice defects, dislocations etc. interfering with the basic electron cooling mechanism 
+responsible for the production of y-less 4He[l,l9J, might naturally explain T-production. It is 
+clear, however, that along these lines a lot of work needs to be done. 
+
+
+4 - CONCLUSIONS AND OUTLOOK 
+
+I would like to end this talk with a few 'lapidary' statements, that try to capture the 
+essence of my analysis. 
+• CF exists, its phenomenology is diverse but coherent, and reproduced by many different
+groups in different conditions.
+• No previously known law of nature (QED and QCD) appear to be violated by CF
+phenomena.
+• Deductions from these laws of nature, based on the generally accepted notion of AF, belong
+to the class of IMPOSSIBLE THEORIES.
+• The key ingredient to construct POSSIBLE THEORIES is
+MACROSCOPIC QUANTUM MECHANICS (Macro QM)
+which originates from Quantum Field Theory (QFf) as applied to complex systems.
+
+Let me note that a demarcation is seen to be emerging between simple (micro QM) and 
+complex (Macro QM) systems and of their theoretical description. It appears that a powerful, 
+detailed, correct theory of CF must be constructed along the lines of a macroscopic Quantum 
+Mechanics, induced by long-range electromagnetic (radiative) interactionsf20l, i.e. according to 
+QFf of Superradiance. 
+
+I hope that the next few years will see a lot of work along these lines. CF will then be 
+looked upon not only as a magnificent gift to energy-hungry mankind, but as an essential 
+window to the deep and subtle behaviours of condensed muier, which have remained hidden 
+for such a long time. 
+
+
+REFERENCES AND FOOTNOTES 
+
+[1) G. Preparata, Some theories of Cold Fusion: A review, Fusion Tech. 20 .(1991) 82.
+
+A De Ninno et al., Europhys. Lett. 2., (1989) 221; H.O. Menlove et al., J. Fusion Energy
+2., (1990) 495  for a nice review see M. Srinivasan, 'Current Science' (1991).
+
+V .A. Kluyev et al., Sov. Tech. Phys. Lett. .U (1986) 551.
+
+R. J. Buehler et al., Phys. Rev. Lett. 63 (1989) 1292.
+[5] M. Fleischmann, S. Pons and G. Preparata, Possible and impossible theories of Cold
+Fusion, preprint MITH 91/23 (1991).
+
+B. Pippard, Nature 350 (1991) 29.
+
+For a recent discussion of the many aspects of Hydrogen in Pd see L. Schlapbach (ed.)
+'Hydrogen in Intermetallic Compounds' Vol. 1 in Topics in Applied Physics Vol 63'
+Springer Verlag, Berlin Heidelberg (1988).
+
+The best evidence for this behaviour comes from the Hall effect, see A. H. Verbraggen,
+R. Griessen and J. H. Rector, Phys. Rev. Lett. 52 (1986) 1625.
+
+See for instance J. Volkl and G. Alefeld, in Hydrogen in Metals I, eds. G. Alefeld and
+J. Volkl; Springer: Topics Appl. Phys. 28, 1978 Berlin, p. 321.
+[10] T. Soskiewicz, Phys. Status Solidi All (1972) k123; B. Stritzker and W. Buckl,
+Z. Phys. 257 (1972) 1.
+[11] M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem 261 (1989) 301; for
+some corrections ibid 263 (1989) 187.
+[12] J. O'M. Bockris, G. H. Liu and N. J. Packham, Fusion Tech . .IB (1990) 11.
+[13] T. N. Claytor et al., Proc. Anomalous Nucl. Effects in Deuterium Systems, Provo, Utah,
+October 1990; A. Takahashi et al., Fusion Tech., 12 (1991).
+[14] S. Szpak et al. J. Electroanal. Chem., 302 (1991) 255; and S. Szpak's contribution in
+these Proceedings.
+[15) B. F. Bush et al., J. Electroanal. Chem., 304 (1991) 271; and M. Miles' contribution in 
+these Proceedings. 
+[16] S. Pons, these Proceedings.
+[17) W. Hansen, these Proceedings.
+[18) A. J. Leggett and G. Baym, Nature 340 (1989) 45.
+[19) T. Bressani, E. Del Giudice and G. Preparata, Nuovo Cimento 101A (1989) 845;
+G. Preparata, First Annual Conference on Cold Fusion, Conference Proceedings
+National Cold Fusion Institute, Salt Lake City (USA), 1990, p. 91.
+[20] G. Preparata, Quantum Field Theory of Superradiance, in Problem of Foundamental
+Modem Physics, Ed. by R. Cherubini, P. Dal Piaz and B. Minetti (World Scientific,
+Singapore) 1990.
+[21] J. Schwinger, First Annual Conference on Cold Fusion, Conference Proceedings,
+National Cold Fusion Institute, Salt Lake City (USA); 1990, p. 130.
+[22) A discussion of typical theories of this sort can be found in Ref. 1, see also Ref. [21]. 
+[23] P. Hagelstein, these Proceedings.
+[24] F. Meyer, these Proceedings.
+[25] M. Baldo in these Proceedings appears to be thinking along these lines.
+[26] T. Bressani, E. Del Giudice and G. Preparata, What makes a crystal stiff enough for the
+Mossbauer effect? Preprint MITH 90/6 (to be published).
+[27] Nevertheless, notes are being circulated by S.E. Jones who on the basis of such
+'paradox' pretends to prove that excess enthalphy generation a la Fleischmann Pons is
+impossible, hence wrong.
+[28] J. Rafelski et al., Fusion Tech.18. (1990) 136.
+[29] M. Mc. Kubre, these Proceedings.

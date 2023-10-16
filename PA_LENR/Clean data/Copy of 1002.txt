@@ -1,0 +1,125 @@
+INTRODUCTION
+
+Previously we reported finding concentrations of unexpected elements on palladium cathodes after
+electrolysis in an electrolyte containing H2SO4 and D2O (1,2).  We report here the results of analysis of
+palladium 0.315 mm thick used as a cathode for 25 hours and then inadvertently as an anode for 170
+minutes.
+
+
+EXPERIMENTAL METHODS AND RESULTS
+
+The electrolysis experiments have been carried out, first, for about 5 hours during summer 1993, and then
+for about 23 hours during summer 1994.
+
+For the first 5 hours of operation, the experimental setup consisted of two cells in series, one (light water
+control cell) containing 0.06 mol fraction H2SO4 (analytical reagent) in deionized H2O, the other (heavy
+water cell) contained 0.06 mol fraction H2SO4 in D2O (99% D2) and both containing a cold-rolled Pd
+cathode and a Pt anode.  The anodes were made from 99.9% platinum and the cathodes were made from
+99.9% palladium.  Chemical analyses of the palladium and platinum were provided by the supplier.  The
+palladium foils were produced by cold rolling from the initial 0.5 mm thickness to 0.315 mm.
+
+For the next 20 hours of operation, a new setup was used.  Two cells were connected in series but, this
+time, the control cell contained two Pt electrodes, and the experimental cell contained the previous Pd
+cathode and Pt anode of the heavy water cell.  Both contained acidified heavy water (0.06 mol fraction
+H2SO4 ).
+
+In the last experiment, the palladium was used inadvertently as an anode.  After electrolysis for 170
+minutes, the cell current rapidly dropped to zero.  When the cell was opened, we found that the lower part
+of the palladium had dissolved.  The electrolyte, originally a clear liquid, was now a black powdery solid.
+
+Some of this black solid was attached to the platinum anode but the platinum was not damaged.
+
+In this series of experiments, a recombination catalyst consisting of a substrate coated with platinum black
+(Los Alamos type electrode, 20% Pt on carbon) was utilized to recombine the off-gases in a closed system.
+
+Electrolysis was performed at current densities ranging from 0.75 to 1.5 A per cm2.
+
+Dash, J. and S. Miguet, Microanalysis of Pd Cathodes after Electrolysis in Aqueous Acids. J. New Energy, 1996. 
+1(1): p. 23. 
+
+Excess heat compared with the control was observed during both the 1993 and the 1994 experiments.
+
+Surface chemical analyses of the palladium cathode were performed with a LINK AN10,000 Energy
+Dispersive Spectrometer (EDS) attached to an ISI-SS40 Scanning Electron Microscope (SEM).  The thin
+window of the EDS detector was in place, thus allowing detection of atomic number six and above.  The
+cathode was titled 45 degrees along the longitudinal axis for efficient X-ray detection and enhancement of
+the surface relief.
+
+We report here the results of analyses of the concave side and the edges of the palladium cathode.
+
+Fig. 1 shows the lower part of the concave side of the palladium cathode after the last electrolysis
+experiment during which anodic dissolution occurred.  The smooth, rounded features near the bottom are
+believed to be the result of electropolishing; although localized melting might also produce similar features.
+
+Comparison of the crystal size in the upper and lower parts of this electrode may be helpful in deciding
+this question.  This has not yet been done.
+
+Microchemical analyses were obtained from the bottom of the electrode and from the areas indicated by
+the letters k and s in Fig. 1.  Unexpected elements observed on the bottom edge include aluminum and
+titanium.
+
+Fig. 1 Lower part of the concave side of the palladium cathode.  This side faced the counter electrode
+during all of the electrolysis experiments.  The region indicated by the letter k is approximately at the
+electrolyte level.
+
+An example of the location of titanium is shown by the region labeled j in Fig. 2a, which is enlarged in
+Fig. 2b.  The spot labeled J1 has no titanium (Fig. 3a), whereas the spot labeled J2 contains about 25%
+titanium (Fig. 3b).
+
+Fig. 2(a) Portion of the lower edge of the palladium electrode.  (b) Enlargement of the region J in Fig.
+2a.
+
+Fig. 3a EDS spectrum of spot J1 in Fig. 2a
+Fig. 3b EDS spectrum of spot J2 in
+Fig. 2a.
+
+A black blob appeared on the palladium electrode, near the electrolyte level, after 10 hours of electrolysis,
+in June 1994.  This persisted for 15 more hours of electrolysis and through numerous washings with
+deionized water.  The portion of the blob in region k of Fig.1 is shown in Fig. 4a as it appeared on Dec.
+1, 1994.  Here it is obvious that fibers protrude from the blob.  Apparently, changes occurred in both the
+blob and the fibers, either while the lower part of the electrode was being examined in the SEM or during
+storage between successive SEM examinations.  For example, Fig. 4b shows that bulges occurred along the
+fibers.
+
+Fig. 4 Enlarged view of region k in Fig. 1 (a) 12-1-94. (b)1-17-95
+The fibers are composed mainly of palladium, sulfur, carbon, and oxygen, but the proportions of these
+elements are quite variable.  The bulges also have variable composition, which appears to change with time.
+
+This can be seen in Fig. 5.  The bulge labeled E1 in Fig. 5b gave the spectrum shown in Fig. 5d, in
+which peaks for silver Lû and silver Lù are labeled.  The ratio of the intensities of these two peaks is
+0.57.  About one month later, the bulge changed in appearance (point E2 in Fig. 5c), and the ratio of the
+two silver peaks increased to 0.82 (Fig. 5e).  Because the silver Lù peak coincides with the cadmium Lû
+peak, a possible explanation for the change in peak ratio is that silver has been slowly changing to
+cadmium.  This is consistent with our observation on another palladium cathode which had been
+electrolyzed in heavy water.  Silver was observed in high, localized concentrations shortly after electrolysis.
+
+Examination 15 months later showed the presence of cadmium in addition to silver.
+
+
+DISCUSSION OF RESULTS
+
+The results presented here for a palladium cathode after electrolysis in heavy water are consistent with
+those presented previously in that localized concentrations of elements not expected from impurities in the
+system have been observed.  Whereas we previously found gold and silver on the surface, we here report
+aluminum and titanium concentrated inside the palladium, in addition to silver on the surface.  A new
+finding is the appearance of fibers on the surface, whose composition appears to change with time.  Similar
+fibers have been observed by others after electrolysis of palladium in heavy water (3).
+
+Fig. 5  Changes in morphology and EDS spectra
+of the features in the square shown in Fig. 4a.  These
+changes occurred during storage at room temperature with
+no further electrolysis.
+
+
+REFERENCES
+
+1.  D.S. Silver, J. Dash, and P.S. Keefe, "Surface
+Topography of a Palladium Cathode After Electrolysis in Heavy
+Water", Fusion Technology, vol 24, 423 (1993).
+2.  J. Dash, G. Noble, and D. Diman, "Surface
+Morphology and Microcomposition of Palladium Cathodes
+after Electrolysis in Acidified Light and Heavy Water:
+Correlation with Excess Heat", Trans. Fusion Technology,
+vol 26, # 4T, 299 (1994).
+3.  T. Okmori, Hokkaido Univ., Private Communication
+

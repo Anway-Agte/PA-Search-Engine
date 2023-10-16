@@ -1,0 +1,119 @@
+Introduction
+
+In our previous work [1,2] we have presented the results of observation and investigation of
+interaction of unknown magneto-charged particles (hypothetical magnetic monopoles) with
+surface of MDS (Al-SiO2-Si) structure. We have observed the traces of ordered thermomechanical impact on the surfaces (Fig. 1). The length of trace was L  2 mm. These results
+were observed during experiments in Kiev Electrodynamics Laboratory “Proton-21” on
+achieving the superdense state of matter by using the high-current electron driver [3]. In the
+experimental setup an impulse electron flux with a total energy about 100...200 J and duration
+50 ns was used as a coherent driver in every cycle of supercompression. The energy of each
+electron in different experiments is about 300...400 kV, the total current - 50...70 kA . Figure 1. The general view and details of MDS-structure with the tracks
+
+It was shown that the source of a great specific energy release, dQtot/dl  -106 GeV/cm, spent
+on the formation of these traces, may be the processes of nuclear synthesis reactions
+Al27+C12 = K39, Al27+C13 = K40, which are running with the participation of MDS-structure
+surface nuclei and are stimulated by the action of magnetic monopoles [1,2].
+
+In the present work the parameters of these monopoles and the mechanisms of their creation in
+Earth laboratory are discussed and calculated.
+
+
+1. Parameters of magneto-charged particle
+
+In our previous work [1,2] it was shown that the process of formation of periodic tracks is
+connected with a magnetic interaction of magneto-charged particle with both magnetic field of
+anode current and multilayer MDS structure, which is the combination of diamagnetics (Si, SiO
+and melted ionized Al) and paramagnetic (solid Al) layers. In view of the form of a macrotrack
+(involving the great number of strictly periodic oscillations [1,2]), we may conclude that the
+controlling magnetic field is approximately the same along the entire trajectory. This
+corresponds to the fact that formation duration of mentioned track part is significantly less than
+the total duration 50 ns of the current pulse. If this duration was comparable with , then the
+period of oscillations at the beginning and at the end of the track would be essentially different.
+
+This result allows us to assume that the duration of the formation of this part of the track with
+the length , and the mean longitudinal velocity of motion of the
+hypothetical magneto-charged particle <vg> is greater than 4.107
+cm/s. The maximal longitudinal velocity (in view of periodical stopping and periodical stimulation
+of fusion reactions along the trace [1,2]) is vg 108
+cm/s
+
+During detailed SIMS-researches it was shown that the area of unknown particle "point of
+reflection" (Fig. 2) is the foreign small-size (about 10 microns) object made of Fe56, Fe57 and
+Co59 isotopes and situated on the MDS structure. Figure 2. General view and the details of unknown particle reflection area on MDS surface. 
+
+This object is made of iron-cobalt alloy and it is probably multi-domain magnetic material
+with the typical internal magnetic field H0 6...8 kOe . The typical size of domain wall is about
+ microns. The same size has the area of magnetic field outside
+the magnetic material. If the magnetic charge of the particle equals g e  (137...68) than the
+magnitude of magnetic potential barrier in the area of «point of reflection» equals (see Fig. 3) Figure 3. The scheme of reflection of magnetic charge from magnetic domain
+From these results the upper estimation of unknown magneto-charged particle mass can be
+made: The upper limit of magnetic monopole mass is less than Mg=10-23 gram, that is by 1016 times
+less than previous well known cosmological estimations (10-7 gram) based on the grand unified
+theory! So with a high probability the unknown particle is a light magnetic monopole that was
+introduced by George Lochak [4], and that is the magneto-excited neutrino.
+
+There are two possible ways for generation (creation) of such particles during the experiments
+in “Proton-21” Lab:
+1. These monopoles were created during nuclear processes of protonization and neutronization
+in collapse zone with the presence of very strong squeezed nonuniform magnetic field in the
+experimental setup of "Proton21" Lab. Fundamental nuclear transformation in this setup
+during the formation (shock implosion) and explosion of this zone is described in [3, 5-7]. A
+specific mechanism of the generation of magnetic charge can be related with the topological
+features of the collapse zone.
+2. Generation of these monopoles took place during the break of stable monopole-antimonopole
+pair of cosmological origin in very strong squeezed magnetic field.
+
+Let us consider the parameters of such processes.
+Parameters of such pair can be calculated with the use of conservation law for its total energy
+In this case the minimal meansquare size of monopole-antimonopole pair and maximal
+meansquare impulse of relative motion are following
+From (5) it follows that rmin  10-12 cm (if monopole mass Mg equals proton mass
+mp =1.6.10-24 g) and rmin  10-9 cm if monopole mass equals electron mass.
+The potential energy of monopole-antimonopole pair with the size of rmin is
+The maximal kinetic energy for relativistic and nonrelativistic motion of monopole and
+antimonopole inside the pair is described by the equations
+Here / 2 g g  M is the reduced mass of monopole. From last two equations it follows that the
+motion of monopole (antimonopole) inside the pair is nonrelativistic:
+From formulas (7-9) it also follows that the ratio of kinetic and potential energies in each pair
+is very small both in nonrelativistic and relativistic cases
+This result proves that monopole-antimonopole pair is very stable neutral system.
+The total mass of such system in stable bound state is very small.
+In fact such pair is an invisible electro- and magneto- uncharged and extremely light object. It
+is possible that such objects have existed (unnoticed) in the universe from the moment of the Big
+Bang
+
+
+2. Break of monopole-antimonopol pair in a strong magnetic field
+
+In Fig. 4 the structure of the potential hole of monopole-antimonopole bounded pair in the
+cases of presence and absence of external locally homogeneous magnetic field H0 is presented. Figure 4. The structure of the potential hole of bounded monopole-antimonopole pair in the cases of presence
+and absence of external magnetic field.
+
+The resulting expression for the probability of such tunneling effect is the following
+Here mp
+- proton mass.
+For light Lochak's monopole with Mg=mp and H0 1015 Oe we have H 10230 years.
+For light monopole with Mg=me and H0  1010 Oe, H 0.1 s.
+For very light "Lochak's" monopole with Mgс
+2
+1 keV at H0 107 Oe,  s. Formation
+of such (and much more strong) magnetic field takes place in "Proton21" Lab experimental setup
+during fast pinch-effect of hard-current electron beam [3].
+
+
+References
+
+1. Adamenko S.V., Vysotskii V.I.// 12th CMNS Proceedings, Japan, p. 356-366.
+2. Adamenko S.V., Vysotskii V.I.// Surface, #3 (2006), p. 84-92.
+3. Controlled Nucleosynthesis. Breakthroughs in Experiment and Theory, (Editors:
+S.V.Adamenko, F.Selleri, A.van der Merwe), Series: Fundamental theories in Physics, v.156,
+Springer, 2007, 773 p.
+4. Lochak G. Z.Naturforsch., v.62b (2007) p.231-246.
+5. Adamenko S.V., Vysotskii V.I. Foundations of Physics Letters, v. 17, No. 3 (2004), p. 203-
+233.
+6. Adamenko S.V., Vysotskii V.I. Foundations of Physics, v. 34, No. 11 (2004), p. 1801-1831.
+7. Adamenko S.V., Vysotskii V.I. Foundations of Phys. Letters, v.19, No. 1 (2006), p. 21-36.
+
+
+
+

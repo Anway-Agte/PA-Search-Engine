@@ -1,0 +1,173 @@
+1. Introduction
+
+In 1995, it was reported by Arata and Zhang that after D2O electrolysis, they had detected large amounts of 4He, ~1016 to 1017 atoms/mg, in Pd-black powder sealed under vacuum in specially prepared hollow Pd cathodes, and that the results were “fully repeatable [1]. In 1996, it was reported that they had confirmed the aforementioned 4He observation, that they had also detected 3He with 3He/4He ~ 0.25, and that 3He and 4He were not detected in comparable electrolysis experiments using H2O instead of D2O [2]. In subsequent papers, Arata and Zhang [3-8] reported additional data and restated their claims regarding production of excess 3He and 4He in Pd-black from the interior of Pd cathodes during D2O electrolysis.
+
+Most recently, Clarke [9] has described a recent search for 3He and 4He in four Pd-black samples that had been provided by Arata and Zhang. This search revealed no evidence for the very high 3He and 4He concentrations found by Arata and Zhang in similar specimens for Pd-black. However, in a recent paper [10], McKubre et al. have reported observations of significant excess heat generated during D2O electrolysis using an Arata-style hollow palladium cathode.
+
+Most recent measurements [11] have been made of 3He, 4He, and 3H in a sample containing 2.7% of the gas from the interior of an Arata-style hollow palladium electrode charged with ~5g Pd-black that had undergone electrolysis in D2O as a cathode for 90 days and then as an anode for a further 83 days. There is no evidence for the much larger amounts of 4He observed by Arata and Zhang in similar experiments. However, a very large concentration has been found of 3He, 2.3±0.5×1012 atoms/cm3, at standard temperature and pressure that apparently can all be attributed to the decay of tritium produced during electrolysis. No indirect production of 3He can be specified, a result that is also different from the conclusion of Arata and Zhang.
+
+Although there appears to be some difficulties in understanding the details of the 3He and 4He observations of Arata and Zhang, that does not diminish their profound significance if the observations are confirmed. Furthermore, the evidence of tritrium production of ~1015 atoms observed by Clarke et al. [9] has a profound significance.
+In order to understand and explain anomalous nuclear phenoma such as the results of Arata and Zhang [1-11], Bose-Einstein condensation of integer-spin nuclei was suggested as a possible mechanism for ultra low-energy nuclear reaction in 1998 [12]. Recently, theoretical studies of the Bose-Einstein condensation mechanism have been carried out by solving approximately many-body Schroedinger equation for a system of N identical charged integer-spin nuclei (“Bose” nuclei) confined in ion traps [13-15]. The solution is used to obtain theoretical formulae for estimating the probabilities and rates of nuclear fusion for N identical Bose nuclei confined in an ion trap or an atomic cluster.
+
+These theoretical formulae yield two main predictions. The first prediction is that the Coulomb interaction between two charged bosons is suppressed for the large N case and hence the conventional Gamow factor is absent. This is consistent with the conjecture made by Dirac [16] that each interacting neutral boson behaves as an independent particle in a common average background for the large N case. The second prediction is that the fusion rate depends on the probability of the Bose-Einstein condensate (BEC) ground state instead of the conventional Gamow factor. This implies that the fusion rate will increase as the temperature of the system is lowered since the probability of the BEC state is larger at lower temperatures.
+To test these theoretical predictions, a series of experiments have been devised and performed with the intention of detecting low energy nuclear reactions at both room temperature and liquid nitrogen temperature under similar conditions used by Arata and Zhang [1-11]. After we describe the BEC mechanism, experimental procedure and preliminary results of the experiment will be presented.
+
+
+2. Bose-Einstein Condensation Mechanism
+
+2.1 Ground-State Solution
+In this section, we consider N identical charged Bose nuclei confined in an ion trap or in an atomic cluster. For simplicity, we assume an isotropic harmonic potential for the ion trap to obtain order of magnitude estimates of fusion reaction rates. The hamilton for the system is then
+H=−
+h2N1Ne2 ∑∆+ mω2∑r2+∑       ,
+(1)
+i
+2mi=1 2 i=1 i<j ri−rj
+i
+where m is the rest mass of the nucleus. In order to obtain the ground-state solution, we will use the recently developed method of equivalent linear two-body (ELTB) equations for many-body systems [15,17,18].
+For the ground-state wave function Ψ, we use the following approximation [17]
+
+In reference [17] it has been shown that approximation (2) yields good results for the case of large N.
+% %∗%
+By requiring that Ψ must satisfy a variational principle δ ∫ Ψ H Ψdτ = 0 with a
+%∗%
+subsidiary condition ∫Ψ Ψdτ =1, we obtain the following Schrödinger equation for the
+ground state wave function Φ(ρ)
+
+ForV (r)=e2/r,V(ρ)reducesto[16]
+Instead of the variable ρ in the Schrödinger equation (4), we introduce a new quantity ρ% defined as
+Substitution of Eq. (6) into Eq. (4) leads to the following equation
+with α = e2 /(hc) ≈ 1/137. The ground state solution of Eq. (8) has been obtained in the following form
+where ci are determined from Eq. (8) [13].
+
+2.2 Short-Range Nuclear Interaction
+(10)
+In order to calculate the nuclear fusion rate, we need to specify the short-range nuclear interaction between two deuterons. For the dominant contribution of only s-wave at low energies, we use the optical theorem formulation of nuclear reactions [19,20] to write
+Imfn(el) ≈ k σr,
+(11)
+0
+where f0n(el ) is the s-wave nuclear elastic scattering amplitude and σ r is the nuclear fusion
+4π
+cross-section. σ r is conventionally parameterized as
+σr =Se−2πη, whereη=2kr , rB =2μe2 , μ=m/2, e
+B
+istheGamowfactor,andSistheS-factorfor the nuclear fusion reaction between two deuterons. For D(d,p)t and D(d,n)3He reactions, S ≅
+55keV-barn for each case.
+
+In terms of the partial s-wave t-matrix, the elastic scattering amplitude, writtenas fn(el) = 2μ <ψc t ψc >,
+f n ( el ) , 0
+can be
+(13)
+0 h2k2 000
+where ψ0c is the Coulomb wave function.
+For our case of N Bose nuclei (deuterons) to account for a short range nature of nuclear forcesbetweentwonuclei,weintroducethefollowingFermipseudo-potential VF(r),
+r Ah r Imt0 =ImVF(r)=− 2 δ(r),
+(14) where the nuclear rate constant A is determined from Eqs. (11), (12), and (13) and given by
+A=2SrB .
+
+2.3 Fusion Probability and Rates
+For N identical Bose nuclei (deuterons) confined in a bubble, the nucleus-nucleus (deuteron-deuteron) fusion rate is determined from the ground state wave function Ψ for trapped deuterons as
+ij
+probability of the ground state occupation. The substitution of Eq. (2) into Eq. (16) yields
+For large N, we use an approximate solution for Φ(ρ) (see Eq. (10)) Φ ( ρ ) ≈ ρ% 3 N − 1 e − ( ρ% / α t ) 2 / 2
+2 where
+Σ <ΨImVF Ψ> Rb =−2Ω i<j ij
+, (16) where ImV F is the imaginary part of the Fermi potential, given by Eq. (14), and Ω is the
+h <ΨΨ>
+α=(ς/3)1/3, ς≈ mc2 αN, and ρ%= mωρ.
+(17)
+( 1 8 )
+(19)
+(20)
+t
+We can rewrite Eq. (19) as Rb =ΩBNω2.
+where.
+
+The average size < r > of the ground-state for Bose nuclei confined in an atomic cluster can be calculated using the ground-state wave function, Eq. (18), and is related to ω by the following relation for the case of large N,
+where α=e2 /hc, and n =N/<r>3 is Bose nuclei density in an atomic cluster. Interms of nB we can write Rb , Eq. (20), as
+
+2.4 Total Fusion Rate and Theoretical Predictions
+To estimate the total fusion rate, we consider multiple atomic clusters. For the case of multiple atomic clusters with each cluster containing N Bose nuclei, we define a cluster number density nb (number of clusters per unit volume) as
+where Nb is the total number of Bose nuclei in clusters per unit volume and N is the average number of Bose nuclei in a cluster. For this case, the total nuclear fusion rate R per unit
+volume per unit time is (R=nbRb)
+
+We note a very important fact that both Rb and R do not depend on the Gamow factor in contrast to the conventional theory for nuclei fusion in free space. This is consistent with the conjecture noted by Dirac [16] and used by Bogolubov [21] that boson creation and annihilation operators can be treated simply as numbers when the ground state occupation number is large. This implies that for large N each charged boson behaves as an independent particle in a common average background potential and the Coulomb interaction between two charged bosons is suppressed. Furthermore, the reaction rates Rb and R are proportional to Ω which is expected to increase as the operating temperature decreases.
+Using S = 110keV-barn for both deuteron-deuteron fusion reactions, we find from Eq. (15) the nuclear rate constant to be
+A≈1.5×10−16cm3 /sec.
+and from Eqs. (21) and (26), we have
+B = 2.6×10−22 sec.
+
+With B given by Eq. (27), the total nuclear fusion rate R per unit time per unit volume, Eq. can be written as
+where C ≈ 1.2 ×10−15 cm3 / sec, nb is the bubble number density, nB is the average number
+density of deuterons in an atomic cluster, and N is the average number of deuterons in an atomic cluster. Only unknown parameter in Eq. (28) is the probability of the BEC ground- state occupation, Ω.
+
+Our theoretical formula for the total nuclear fusion rate R per unit time per unit volume given by Eq. (23) or Eq. (28) gives the following three predictions.
+Prediction 1: R does not depend on the Gamow factor in contrast to the conventional theory for nuclear fusion in free space. This is consistent with Dirac’s conjecture [10].
+Prediction 2: R increases as the temperature decreases since Ω increases as the temperature decreases.
+Prediction 3: R is proportional to nb NnB = nb N 2 < r >−3 where N is the average number of Bose nuclei in a single atomic cluster and 〈r〉 is the average size of atomic clusters.
+The above predictions 1 and 2 imply that the acoustic cavitation nuclear fusion may be achievable at lower temperatures. These theoretical predictions can be tested experimentally.
+
+
+3. Experimental Procedure
+
+Experiments have thus far been performed in two different temperature regimes: room temperature and liquid nitrogen temperature. For both types of experiment, the active cell was prepared following the same procedure, but measurements were performed using different types of temperature transducers to maximize sensitivity and reduce experimental error at the different ranges of absolute temperature that were measured. The housings for the active cells were different in the two types of experiment as well. While for room temperature experiments, we attempted only to minimize fluctuations in ambient temperature with simple insulation, the low temperature experiments prompted the construction of a more sophisticated calorimeter using vacuum insulation. These setups will be discussed in more detail later in this section.
+
+In all experiments, palladium and deuterium loading were performed under the same procedure. Stainless steel cells were loaded with palladium nanoparticles in the range of 80 nm to 180 nm in diameter [22] as shown in Figure 1. Loading was performed in a clean box under a nitrogen atmosphere. Once loaded, the cells were placed under vacuum on the order of 0.1 – 1.0 mTorr and baked out to reduce nanoparticle clumping caused by the presence of water vapor.
+The cells were then attached to a Haskel AGT-62/152 dual stage gas booster and pressurized with research grade deuterium gas at pressures ranging from 1,000 p.s.i. to 20,000 p.s.i. After the loading was complete, the cells were removed from the gas booster and equipped with temperature measuring sensors. The heat of deuterium absorption into the palladium nanoparticles was observed in each experiment.
+
+In the room temperature experiments, a YSI 44031 precision thermistor was mounted to the outside of the cell. A control cell was prepared which contained neither palladium nor deuterium. A 1000 Ω resistor was inserted into the control cell as a heating element to calibrate the system. A thermistor was also mounted to the outside of the control cell. The thermistors have an absolute error of 0.3 Kelvin individually, but using them in a comparative mode with corrections, a temperature difference resolution of 0.027 Kelvin was achieved. Both the control cell and the active cell were isolated and placed in an insulating foam enclosure. Leads from the thermistors were connected to Tektronix TX3 multimeters which recorded the temperatures every two seconds and logged the data with Tektronix WaveStar software. The room temperature experiments were done blindly so that we did not know which was the active cell and which the control until after the conclusion of the experiment.
+In the low temperature experiments, a Lakeshore model DT-470-SD-12 silicon diode was used to measure temperature. The diodes were mounted to the outside of the active cell and the control cell. In these experiments, a 1 M Ω resistor was used as the heating element in the control cell, which again lacked both palladium and deuterium. Each cell was placed into a calorimeter consisting of a vacuum chamber and an interior support.
+
+Figure 1. (A) scanning electron microscope picture of the palladium nanoparticles before installation into the pressure cell. (B) The Liquid Nitrogen dewar containing the control and test cell vacuum housing. Two stainless steel lines, one containing the electrical readout lines feed through steel wool plugs held at LN2 temperature and a vacuum line with light
+and molecular baffle system held at LN2 temperature. (C) View of the high pressure cell and valve in lower part of the picture. The valve is connected to the top of the vacuum chamber by thin nylon string.
+
+element to prevent direct contact between the cell and the inner wall of the vacuum chamber. The cell was supported with a framework of thermally insulating G10 fiberglass, and the vacuum was held at pressures on the order of 10 mTorr. The entire vacuum chamber was immersed in liquid nitrogen. The leads from the Lakeshore diodes were carried out with low resistance wire through a stainless steel tube and then fed outside the vacuum environment to a Lakeshore 330 Temperature control box. This electronics tube was then packed with steel wool to eliminate warm black body radiation from traveling down the tube into the insulated chamber. The thermal diodes have a sensitivity of 0.03 Kelvin. The temperatures of both the active cell and the control were read into Labview and recorded every ten seconds for typical times on the order of 105 – 107 seconds.
+
+Data Analysis on room temperature and low temperature experiments was performed with Igor Pro. For each experiment we collected data in the form of temperature read from the sensors mounted to the outer surface of the cells. Prior to each experiment, the calorimeter was calibrated to determine the dominant type of heat loss, which in these experiments was some combination of conduction and convection. In the conductive/convective regime, the heat lost is linearly proportional to the temperature difference. By sending a pulse of a known power through the resistive heating element in the control cell and measuring the temperature change, we were then able to map the temperature vs. time data into power vs. time and thus determine the experimental upper limit of heat production expressed in units of power per gram of palladium.
+Figure 2. A typical histogram of the difference data between control and test cells. A 10milliwatt heat pulse was placed into the control cell in order to measure the sensitivity of the experiment.
+
+
+4. Experimental Results
+
+Two experiments have been completed at room temperature, and one experiment has been completed at liquid nitrogen temperature. In the second room temperature experiment, the setup was moved to an interior room so as to minimize weather-based temperature fluctuations, and the foam enclosure was remodeled to eliminate line of sight cracks that could potentially cause data error. Typical experimental data collected over a period of approximately 107 seconds is shown in Figure 2. The experimental values for deuterium pressure, grams of palladium used, duration of the experiment, and calculated experimental limits are given in the Table 1 below.
+
+Since the completion of the first low temperature experiment, further improvements have been made to the setup of the low temperature calorimeter. The G10 fiberglass support assembly was found to cause a significant conductive heat loss and has been replaced with a nylon wire suspension system. The vacuum system has also been improved so that the calorimeter can now be evacuated to a pressure of 1.0 μTorr. This has effectively eliminated heat loss from the cell due to convection. Radiation shields have also been inserted around the cell in order to reduce radiative heat loss. At this time, however, the main contributor of heat loss appears to be conduction through the diffuse gas and/or the nylon suspension. Currently, we have calibrated our setup to a resolution of 8.0μW for a single control cell. In future experiments, we intend to measure the heat production with increased sensitivity using this improved calorimeter.
+
+Another issue we are considering for future experimentation is the effect that deuterium pressure has on the absorption of deuterium into palladium. Examination of the phase diagram for hydrogen has indicated that at the high pressures that were used, it was probable that the deuterium was forced into the liquid phase upon pumping in the first room temperature experiment and the solid phase in the latter two experiments. In the future, we intend to perform further experiments at lower deuterium pressure, so as to keep the deuterium in the gaseous phase.
+
+
+5. References
+
+1. Y. Arata and Y.-C. Zhang, Achievement of Solid-State Plasma Fusion (‘Cold- Fusion’)”, Proc. Jpn. Acad., 71B, 304 (1995).
+2. Y. Arata and Y.-C. Zhang, “Deuterium Nuclear Reaction Process Within Solid”, Proc. Jpn. Acad., 72B, 179 (1996).
+3. Y. Arata and Y.-C. Zhang, “Helium (4He, 3He) Within Deuterated Pd-Black”, Proc. Jpn. Acad., 73B, 1 (1997).
+4. Y. Arata and Y.-C. Zhang, “Presence of Helium (4He, 3He) Confirmed in Deuterated Pd-Black by the Vi-Effect in a ‘Closed QMS’ Environment”, Proc. Jpn. Acad., 73B, 62 (1997).
+5. Y.Arata adn Y.-C. Zhang, “Solid-Sate Plasma Fusion (‘Cold Fusion’)”, High Temp. Soc., Jpn., 23 1 (1997).
+6. Y. Arata and Y.-C. Zhang, Jpn. J. Appl. Phys. 37, L1274 (1998).
+7. Y. Arata and Y.-C. Zhang, “ Observation of Anomalous Heat Release and Helium-4 Production from Highly Deuterated Palladium Fine Particles”, Jpn. J. Appl. Phys.,
+38, 774 (1999).
+8. Y. Arata and Y.-C. Zhang, “Anomalous Production of Gaseous 4He at the Inside of ‘DS-Cathode’ During D2O-electrolysis”, Proc. Jpn. Acad., 75B, 281 (1999).
+9. W.B. Clarke, “Search for 3He and 4He in Arata-Style Palladium Cathodes I: A Negative Result”, Fusion Sci. Technol., 40, 147 (2001).
+10. M.C.H. McKubre, F.L. Tanzella, P. Tripodi, and P. Hagelstein, “The Emergence of a Coherent Explanation for Anomalies Observed in D/Pd and H/Pd Systems: Evidence for 4HE and 3He Production”, Proc. 8th Int. Conf. Cold Fusion (ICCF-8), Lereci, Italy, May 21-26, 2000, F. Scaramuzzi, Ed., Italian Physical Society (2001).
+11. W.B. Clarke, et al., “Search for 3He and 4He in Arata-Style Palladium Cathodes II: Evidence of Tritium Production”, Fusion Science and Technology 40, 152 (2001), and references therein.
+12. Y.E. Kim and A.L. Zubarev, Proceedings of ICCF-7, 1998, pp. 186-191.
+13. Y.E. Kim and A.L. Zubarev, “Nuclear Fusion for Bose Nuclei Confined in Ion
+Traps”, Fusion Technology 37, 151 (2000).
+14. Y.E. Kim and A.L. Zubarev, “Ultra Low-Energy Nuclear Fusion of Bose Nuclei in
+Nano-Scale Ion Traps”, Italian Physical Society Proceedings 70, 375 (2000) for
+ICCF-8, 2000, Lerici (LaSpezia), Italy.
+15. Y.E. Kim and A.L. Zubarev, “Ground-State of Charged Bosons Confined in a
+Harmonic Trap”, Physical Review A64, 013603 (2001).
+16. P.A.M. Dirac, “The Principles of Quantum Mechanics” (second edition), Clarendon
+Press, Oxford 1935, Chapter XI, Section 62.
+17. Y.E. Kim and A.L. Zubarev, “Equivalent Linear Two-Body Method for Many-Body
+Problems”, Journal of Physics B: Atomic, Molecular and Optical Physics 33, 3905
+(2000).
+18. Y.E. Kim and A.L. Zubarev, “Equivalent Linear Two-Body Method for Bose-Einstein
+Condensates in Time-Dependent Harmonic Traps”, Physical Review A66, 053602
+(2002), and references therein.
+19. Y.E. Kim and A.L. Zubarev, Few-Body Sys. Suppl. 8, 332 (1995).
+20. Y.E. Kim, Y.J. Kim, A.L. Zubarev, and J.-H. Yoon, “Optical Theorem Formulation of
+Low-Energy Nuclear Reactions”, Physical Review C 55, 801 (1997).
+21. N. Bogolubov, “On the Theory of Superfluidity”, Journal of Physics 11, 23, 1966.
+22. Goodfellow Cambridge Limited, Huntingdom PE29 6WR, England; PD006021/1.
+

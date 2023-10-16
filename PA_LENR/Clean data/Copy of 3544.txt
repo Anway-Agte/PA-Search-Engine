@@ -1,0 +1,534 @@
+EPRI TR-104195, Research Project 3170-01, Final
+Report, August 1994, 128 pages, plus 342 pages on
+microfiche. 
+Review by Jed Rothwell
+
+
+Comprehensive, Meticulous and Definitive
+
+This is one of the most comprehensive descriptions of a set of cold fusion experiments ever
+published. The only reports I know of that rival it are from F.G. Will et al.,1,2 and M. H. Miles et
+al.3 This EPRI book describes the research paid for by EPRI and performed at SRI International
+between 1989 and 1994 by M. McKubre, S. Crouch-Baker, F. Tanzella and eight other principal
+investigators. These are among the most careful cold fusion experiments ever done. The results
+are unequivocal. They were first described in 1991, and summarized in McKubre’s 1992 lecture
+notice at MIT:
+Unaccounted, and statistically significant heat excesses have been observed on more than
+40 occasions. The excess energies of these observations are larger than can be accounted
+for by known chemical or mechanical energy storage processes. Observations of excess
+power and energy are strongly correlated with the measured D/Pd ratio, to the imposed
+cathodic current density, and to a third process of unknown origin, with an extended time
+constant.
+
+There is no room for doubt about these results. They are far above noise levels and potential
+errors, which were established with almost fanatical precision. (See the sidebar “Fifty Sigma
+Results.”) Figure 1 shows an example in which total uncertainty from noise and potential errors
+was established at less than 0.1 watts, total electrolysis input (not shown here) was ten watts, and
+the excess ranged from 0.9 to 1.0 watts for 192 hours (8 days). While this is ‘only’ 10% excess,
+the Uncertainty line is far below Excess Power. This was established with exhaustive procedures
+described in detail in the text. For example, inlet and outlet temperatures were measured with
+two thermocouples at the inlet, and two at the outlet, with an accuracy of ± 0.001K. Here is how
+the flow rate was maintained and measured in experiments P12 through P16:
+The heat transfer fluid was pumped from the bath and past the cell inside the calorimeter
+volume by Fluid Metering, Inc. (Oyster Bay, NY), mode QV-OSSY constant
+displacement pumps. The mass flow rate was determined by pumping the flow to an
+auto-siphon device placed on a Setra model 5000L digital balance. Precautions were
+taken to ensure that fluid was not lost following its transit through the cell and before
+flow rate determination.
+
+This method allows accuracy of better than 0.01%; that is, 200 ± 0.01g per 240 ± 0.01 seconds.
+
+In a number of experiments rotometers were also employed.
+
+Great effort was devoted to quantifying and reducing already-small errors, like the heat loss from
+conduction of the electrode and thermocouple lead wires going into the cell. Most workers
+ignore such factors because they are so small compared to the excess heat.
+
+SRI has an interesting approach to doing control or blank experiments, in addition to the usual
+use of platinum electrodes:
+In general, two different experiments were performed simultaneously in the same bath
+the electrochemical cells were connected electrically in series, but the calorimetric
+systems were hydraulically in parallel. Separate pumps were provided for each
+calorimeter, and the flows from the two cells were multiplexed to a single mass balance.
+
+All measurements were multiplexed to a single multimeter that was periodically
+interchanged with another precalibrated meter. In this way, one series cell effectively
+acted as a standard for the other: if Pexcess was observed not to be zero in one cell while it
+was zero in another, this difference was unlikely to be an artifact due to current source of
+voltmeter miscalibration. Further, the current-measuring resistors were interchanged,
+replaced, and removed and recalibrated during periods of excess power production, a
+procedure that reduced the likelihood that errors were associated with the measurement
+of current.
+
+These details give you a sense of how much effort went into the experiments.
+
+The tone of the writing is conservative, emphasizing how much we do not know. It is painfully
+honest in places. Difficulties and equipment failures are described in detail. You get a sense you
+are watching over someone’s shoulder in the lab, or leafing through a lab notebook. The authors
+take nothing for granted. Most people simply state the cold fusion reaction must be beyond
+chemistry because it produces so much heat from such a small mass. In this book they
+quantitatively prove that assertion, by listing an inventory of chemicals in the cell, every possible
+chemical reaction, and the mass of all reactants in the cell. (See sidebar “Overkill Example.)
+They compute total joules from the reactants and show that only 2 to 3% of the excess heat could
+have come from chemistry. This is overkill; it is proving the obvious in meticulous detail. It
+seems a little silly. But it is good to see the authors bulldoze away all possible arguments.
+
+When the authors do not have definitive evidence for something, and they extrapolate, they
+always say so:
+At very high fugacities . . . a distinct change in the slopes of the resistance/fugacity
+curves is apparent. This change of slope has been interpreted in terms of the occupation
+of tetrahedral sites at very high loadings. Firm crystallographic evidence, which has not
+yet been obtained, is required to substantiate this interpretation. [p. 2-8]
+So much care has been taken, and so many doubts have been expressed and then laid to rest, that
+when they finally get around to making definitive claims you feel they must be on solid ground.
+
+
+A Triumph, Yet Flawed
+
+In spite the overall technical excellence of this work, it is flawed, for several reasons:
+Since 1989 SRI has made little progress. The cells do not produce more excess heat.
+Reliability and reproducibility have not improved. SRI is no closer to practical
+technology than they were in 1989. They do not appear to have made much progress
+solving the scientific problems either.
+SRI has been slow to try new techniques and materials like nickel or thin film and wire
+palladium. They have used bulk palladium and heavy water almost exclusively. (They
+tested loading with wire palladium.)
+These results are definitive, but they are not as dramatic as the boil-off experiments
+reported by Pons and Fleischmann in 1993.4
+The calorimeter has taken so many resources that other aspects of the research, like
+material sciences, have apparently been shortchanged.
+C
+In a sense, the calorimeter is too good. It is finicky, and difficult to use. It takes a great
+deal of effort to set up an experiment with it. This does not encourage a spur-of-the-
+moment test of a new idea. A scientist who once worked with the calorimeter calls it “the
+great white elephant.” The complexity precludes many interesting experiments. For
+example, in about five minutes, Storms can turn off an experiment, open up his
+calorimeter, remove the cathode, weigh it and test it in various ways before it degases
+significantly or changes in other ways. Some spots in the cathode may even still be
+reacting after ten minutes, in heat-after-death reaction. Removing the cathode from the
+complex SRI calorimeter take an hour or more. By the time the cathode can be placed on
+a scale or in a detection instrument, its composition and properties may change
+drastically. Any lingering heat-after-death reactions will surely stop.
+
+C
+As McKubre said in his closing remarks at ICCF6, this calorimeter is designed to
+maintain a steady state, yet most people think it is essential to jolt the cold fusion cell
+with rapidly changing conditions. 5 McKubre now questions whether this was a “wise”
+choice of designs. Other scientists expressed these doubts years ago.
+
+C
+After the tragic, fatal accident in 1992, the laboratory was arranged with the calorimeter
+and all instruments in a locked area surrounded by bulletproof glass. During an
+experimental run, the workers are not allowed to go near the experiment. Scientists from
+outside of SRI have told me this is impossibly restrictive. Hands-on contact with the
+instruments is vital.
+
+Some other cold fusion scientists express dissatisfaction and resentment toward SRI. They feel
+that with all of the resources and talent at SRI, more progress should have been made. They say
+the research has been misguided, the wrong goals have been set, mistakes like the calorimeter
+design have been left in place too long. The calorimeter should have been simplified and
+changed to allow rapid changes. New, more innovative techniques and materials like nickel
+should have been tried. More attention should have been paid to materials, techniques, and the
+operating temperature, and less to improving the calorimetry.
+
+Edmund Storms described the root of the problem. He thinks that SRI’s research has been too
+much influenced by the opposition. Skeptical doubts and objections should not be ignored, but 
+they should not be elevated to become the overwhelming design criteria for the experiment.
+
+Storms warns of “falling into the tarpit of other people’s expectations” in “a research agenda
+driven by skeptics.” The skeptics claimed that extreme precision is needed to prove the cold
+fusion effect exists. In fact, says Storms, such precision is not needed, and it adds no statistically
+meaningful confidence to the data. Fifty sigma results are not “more convincing” than 25 sigma
+ones. He feels that McKubre went too far when he did things like track heat losses via the
+thermocouple leads. He also believes that it is better to boost the signal by improving cathode
+materials than it is to relentlessly reduce the noise the way SRI has done. McKubre, upon
+hearing Storms’ comments, protested that they have been trying to do both. It is a question of
+emphasis, and deciding which should be given a higher priority. Storms and I lean toward
+boosting the signal. McKubre has not sufficiently explored the kinds of techniques Storms
+describes. (Or if he has explored them, he did not describe the work here.) In the end, at ICCF6,
+McKubre agreed that the concerns of the skeptics may have interfered with good experiment
+design. He said:
+What we have done in part, partly in response to our critics, is to make calorimeters in
+such a way as to improve the data quality.  You improve the data quality by averaging
+things for a long time, never changing anything . . . In doing that, of course, you maintain
+the system as closely as possible in a steady state. We have engineered and designed our
+systems to do that. That is what flow calorimeters do well. I question, now, whether that
+is wise. 5
+
+
+The Establishment Not Convinced
+
+The biggest problem with the SRI results is that they have not convinced the wider scientific
+community and the scientific establishment that cold fusion is real and important. This, of
+course, is establishment’s fault, not SRI’s. These results were duly published in major, peer
+reviewed scientific journals long ago.6 The work was described in articles in the Wall Street
+Journal, on ABC, National Public Radio, and in lectures at MIT, at the International
+Conferences, and elsewhere. The establishment should have taken notice years ago. But it did
+not. To say the least, this calls into question the traditional model of scientific progress.
+
+EPRI and SRI have followed the rules. They have done what scientists are supposed to do: they
+published impeccable, utterly convincing research in top-ranking, peer-reviewed journals. Then
+they stood quietly aside, politely waiting for applause and recognition. The applause never came,
+and by now it is obvious that it never will come. McKubre feels that cold fusion will only attract
+attention when it can be demonstrated as a viable technology. He regrets that he has not been
+able to do that. In June 1996, during an interview on National Public Radio, he said:
+People’s attention needs to be grabbed by something that’s simple, unarguable, concrete
+and rugged, and it has to be simple enough to explain it to the average person or average
+politician. And it really has to be a lot more robust than anything that we have generated
+so far.
+
+He is right. We probably do need simple and rugged machines. That is a shame and it is unfair to
+McKubre and other cold fusion scientists. McKubre’s experiment is unarguable.  It should not
+have to be simple, concrete or rugged. These have never been held as standards for believability
+in science. Things like the Fermilab top quark machine and hot fusion reactors are as far from
+being “simple and rugged” as anything can be.
+
+SRI could have done more to convince the public with what they have already. Neither SRI nor
+EPRI has made efforts to publicize the result beyond the usual methods of publishing in
+technical journals and lecturing at conferences. They have not held press conferences, or gone
+out of their way to attract media attention. They have made no effort to “explain it to the average
+person or average politician.” SRI’s scientific papers are models of clarity and good expository
+writing, but they are challenging to read. I could easily explain SRI’s experiments, their results,
+and the significance of the results in language that an average person or politician would
+understand. Anyone with experience writing computer manuals could do it. SRI has never tried.
+
+Why has SRI shied away from press conferences and Sunday Supplement simplified
+explanations of their research? Part of the reason may be because cold fusion scientists have
+been attacked because of the perceived fiasco of the 1989 University of Utah press conference.
+
+Critics say that cold fusion is “science by press conference.” McKubre and others have been
+careful to avoid that stigma. In fact, the “science by press conference” accusation is gross
+hypocrisy. Science is always done by press conference, and it always has been. Major
+experiments at the hot fusion Tokamak reactors are featured on the seven o’clock news and the
+front pages months before scientific papers are published.7 Things like the Hubble Telescope;
+possible traces of  life on Mars in Arctic rocks that might have come from Mars; progress in
+AIDS, and other major science stories are orchestrated and hyped every day in the media and in
+Congress. There was nothing wrong with holding a press conference in 1989, and certainly
+nothing unusual about it. They should have held a dozen more press conferences. The only
+problem with the Utah announcement was that preprints of the Pons and Fleischmann paper were
+not made available that day, in the auditorium.
+
+Internal politics may be another reason SRI has kept this work obscure. There is a great deal of
+hostile opposition to cold fusion within EPRI, from people like T. Schneider, as expressed in his
+Introduction to Hoffman’s book A Dialog on Chemically Induced Nuclear Effects. 8,9 This
+internal opposition eventually led EPRI to stop funding most of the research at SRI. The
+Japanese NHE program is now funding it instead. The supporters of cold fusion within EPRI and
+SRI should change their political strategy. They have stuck with it long after flaws were
+revealed, just as they stuck with the calorimeter design and experimental protocols for too long.
+
+
+Nuclear Evidence
+
+The book contains a short section on the search for evidence of a nuclear reaction. They found
+no significant helium or transmutations of the host metal, but they did find evidence of radiation
+in an autoradiograph (Fig. 2).
+
+Clear evidence of some type of ionizing radiation is observed. The points of light with
+diffuse halo exposure suggest that some type of radiation may be coming from point
+sources within the metal and being scattered by the lattice structure. p. 3-19
+Approximately 10% of the total mass of some cathodes, including parts of the surface and bulk,
+where analyzed by Rockwell International for helium. No significant levels of helium were
+found. Based on the work of Miles and others, it seems likely that if helium was generated by the
+reaction, it would have escaped into the electrolyte. The surface and near surface were subjected
+to laser ionization (SALI) to look for evidence of fission transmutation: changes in isotopic
+composition and expected elements. None were found. It is a shame they did not look more
+deeply, where Mizuno and Minevski found transmuted metal. The authors do not think they can
+confirm or deny the nuclear hypothesis. They write:
+We can conclude that if a nuclear process gives rise to the heat, it does so largely by the
+production of stable nuclei which so far have not been detected but have not yet been
+seriously sought.
+
+According to Tom Passell of EPRI, not “seriously sought” means that helium has been detected
+but sources of contamination, like helium leaking in from the air, have not yet been rigorously
+excluded.
+
+After the book was published, Passell began a series of experiments looking for transmutations
+in the used SRI cathodes, using prompt gamma activation analysis (PGAA). He believes he has
+found an ~18% reduction in the ratio of boron-10 to palladium-105 in a cathode that generated
+excess heat at SRI.10 This work is still underway.
+
+The Report Summary makes a bold claim about nuclear evidence:
+Although nuclear reaction products commensurate with the excess heat have not yet been
+observed, small but definite evidence of nuclear reactions have been detected at levels
+some 40 orders of magnitude greater than predicted by conventional nuclear theory.
+
+Passell explained that the “40 orders of magnitude” refers to research in other labs, particularly
+in neutron detection.
+
+
+Confusion about Percentages and Electron Volts Per Atom
+
+In two or three places, the book repeats a statement summarizing results. This was also included
+in the 1991 ICCF2 paper:
+For the thermodynamically closed and intentionally isothermal systems described here,
+output power was observed to be as much as 300% in excess of the electrochemical input
+power or 24% above the known total input power. When excess power was present, it
+was more typically in the range 5%-10%, in a calorimeter that was accurate to better than
++0.5%. The largest excess energy observed corresponded to 1.08 MJ, or 45.1 MJ/mol, or
+~450 eV/atom normalized to the Pd lattice or to the deuterium in the palladium at a
+loading of ~1. 
+
+Variations of this 5% to 10% number appear. A table (3.1, p. 3-3) shows Total Energy Excess in
+megajoules and percent for 15 experiments. The percent numbers range from 0.24 to 3.88%.
+
+These are meaningless averages. The 0.24% represents the total excess heat generated by the
+cathode compared to all sources of energy that went into the cell during the entire experimental
+run, including the initial incubation period, which sometimes lasted for weeks, starting with one
+week preparation at low current. Unfortunately, Morrison and other members of the opposition
+frequently quote these averages out of context, spreading doubts and confusion. They say that a
+mere 0.24, or 3.88 or 5% excess must be close to the noise. This like asserting that I drive 10
+miles per day, so my car goes an average of 0.42 miles per hour during the 24-hour day, so it
+would be faster to walk. When the car is moving, it goes much faster than 0.42 mph. When the
+SRI cells produce excess heat, they usually produce much more than 0.24%.
+
+The average is much lower than it would be in most cold fusion experiments, because of the
+design of the SRI calorimeter. SRI employs a compensation heater to keep the temperature in the
+cell the same throughout the experiment. When the experiment begins, the compensation heater
+is turned on high; power from electrolysis and excess heat is zero. When electrolysis goes on, the
+compensation heater automatically decreases to balance. Heater plus electrolysis power together
+keep the cell at the same temperature as the heater alone did at the beginning. When excess heat
+turns on, the heater power decreases again. When excess heat fades away, the compensation
+heater turns back up. The point is, this 0.24% excess represents of the excess energy compared to
+all of the energy input into the cell from all sources, including the compensation heater. In most
+other experiments, there is no compensation heater; cell temperature is allowed to increase and
+decrease freely.
+
+This confusion about percentages is compounded by another pernicious “skeptical” argument:
+the stored energy hypothesis. It has often been asserted, even by distinguished scientists like
+Frank Close, that a cold fusion cell is some kind of energy storage battery. The idea is that the
+electrical energy input during electrolysis is stored in chemical bonds (electron bonds), and then
+released later in the form of heat. David Williams, Professor of Chemistry at University College
+London, believes in the battery hypothesis. He calls cold fusion “an inefficient, unreliable,
+dangerous and expensive energy storage method.” If cold fusion is anything like a battery
+storage system, it must be millions of times more efficient than any other form of chemical
+storage, and it violates the established laws of chemistry.
+
+McKubre specifies the order-of-magnitude energy release per atom of the cathode material as
+240 eV (electron volts) per atom of cathode material. Pons and Fleischmann and others also use
+this standard. They have seen much higher energy releases, thousands and even hundreds of
+thousands of eV per atom. McKubre’s statement “~450 eV/atom normalized to the Pd lattice”
+should make all skeptics realize that chemical energy storage is impossible, but even after six
+years the arguments continue, so I will point out some basic physics that McKubre does not spell
+out.
+
+The largest amount energy that can be stored in any electron bond has long been established by
+both theory and experiment. Most high energy density reactions, like burning coal, release 2 to 4
+electron volts (eV) per atom. Some exotic reactions might theoretically produce as much as 18
+eV per atom, but this has not been observed.11 Therefore, a release of hundreds or thousands of
+eV per atom is far beyond the limits of chemistry.
+
+Some skeptics have said that the energy release should be normalized against all of the hydrogen
+atoms in the system, not just those in the palladium lattice. There is far more hydrogen in the
+water than in the lattice. This makes no sense. The heat originates inside the cathode. The
+hydrogen in the water is chemically inert; water does not burn. Some new hydrogen from the
+water is pushed into the cathode from electrolysis, but the cathode is already supersaturated. The
+new hydrogen merely displaces some of the old hydrogen, which bubbles out, rises to the
+surface, and is recombined with free oxygen. This mechanism alone would not produce any
+excess heat. When an atom is pushed into a lattice and it displaces another, there is no net gain or
+loss of chemical energy, because no new chemicals are formed. Some skeptics have suggested
+that the new hydrogen atoms entering the lattice “surrender their energy,” whatever that might
+mean. Then they leave, to be replaced with others, which surrender more energy. No known
+mechanism would allow this to happen, and even if it did happen, it would only act as a heat
+pump, cooling the electrolyte and warming the cathode, with no net excess heat from the cell.
+
+Finally, it should be noted that energy is not stored up during periods when there is no excess
+heat. Except for the initial loading period when the palladium hydride is formed in a few hours,
+input is balanced by output as closely as can be measured. If energy was being stored up in a
+battery, the reaction would be endothermic: the heat energy output would be less than the
+electrical energy input. But when a cold fusion cell does not produce excess heat, all of the
+electrical energy that goes in comes right out again in the form of heat. Some energy is first
+converted to chemical energy in the form of free oxygen and deuterium gas, but in the closed
+SRI calorimeter, the gas is recombined back into heavy water, and the energy is released in the
+form of heat. The skeptics counter that perhaps the energy is stored up very slowly, at tiny power
+levels that cannot be detected. During the two-week incubation period that proceeds the onset of
+excess heat, the skeptics claim that the cell is absorbing a few milliwatts of heat, at power levels
+too small to be detected by the calorimeter. This might be the case with ordinary calorimeters,
+but the SRI calorimeter is so sensitive it would detect the imbalance. The negative (endothermic)
+power levels preceding the largest bursts would be well above the noise level.
+
+
+Current Reversal Technique
+
+The book describes an interesting technique which has not been highlighted in other publications
+or lectures. To help keep the cathode clean, the workers periodically “strip” the cathode by
+reversing the current and making the cathode into the anode and vice versa. (That is, they make
+the palladium electrode positively charged, instead of negative, so that it attracts oxygen instead
+of hydrogen.) This was described in a paragraph that gives the reader a sense he is looking over
+someone’s shoulder, watching a group of skilled people make mistakes that lead to fruitful
+discoveries.
+Unaware of the possible existence of excess power within the calorimeter, the operators
+prepared to anodically strip the cathode surface at a low current density by first reducing
+the current to 30 mA (~10 mA cm-2) and then reversing the current. This sequence led to
+extraordinary observations of resistance and thermal anomalies, shown respectively in
+Figures 3A-4B and 3A-4f.
+Passell explained that by making the anode a cathode for a while, you dissolve some of the metal
+surface. He describes this as a “major technique” to boost loading.
+
+
+Heat Promotes the Cold Fusion Reaction
+
+The book ends with an all-too-brief discussion of the role of heat in promoting the reaction, a
+topic critical to the science of cold fusion:
+The apparent discrepancy between our observation of a roughly linear dependence of
+excess power on current density and that of Fleischmann and Pons of a roughly
+second-order dependence may be resolved by understanding the influence of temperature.
+
+We have designed our experiments, as closely as possible, to decouple the influences of
+temperature and current density; calorimetric experiments are performed under constant
+input power conditions, approaching the steady state. Our calorimeters also have large
+heat conduction so that, even in the condition of substantial excess power, the cathode
+temperature is not raised appreciably. Under these conditions, we observe an
+approximately linear response of excess power with current density.
+
+In the experiments of Pons and Fleischmann, the current density is raised without
+reducing the power in a compensatory heater, in a calorimeter with very low heat
+conduction. For this reason, the cell temperature rises markedly with increasing current
+density, and the temperature increase is exacerbated by the onset of any excess power
+production. Under these conditions, Fleischmann and Pons observed a second-order or
+higher power dependence of excess power on current density, with no observed
+maximum.
+
+Taken together, these results suggest that the rate of excess enthalpy production increases
+at least transiently, with increasing temperature. Such a degree of autocatalysis would be
+useful in achieving large power gain; the apparent positive derivative with temperature
+suggests that it may be possible to produce heat efficiently at a usefully elevated
+temperature.
+
+McKubre did not always succeed in decoupling the influence of temperature. In my review of
+ICCF6, 12 I described an incident cited by McKubre in which a heat burst was caused when the
+flow was accidentally blocked and the cathode temperature rose higher than planned. The event
+was shown in two graphs from the ICCF4 proceedings (Fig 3, 4). 13 The flow was blocked just
+before hour 1952 for four hours, when a piece of black electrical tape got into the pipe. This was
+discovered just before hour 1956, the problem was corrected, and the excess heat began to drop,
+fading an hour later. Total energy from the burst was 368 kilojoules. If I had been in charge of
+the research, I would have immediately throttled the flow again to see if that caused another heat
+burst. Many important scientific discoveries have been made by following up such fortuitous
+accidents. Yet this incident is not described in the Final Report. I see no evidence that the people
+at SRI followed up on it. As far as I know, nobody working with the flow calorimeters IMRA or
+the NHE lab has tried throttling the flow.
+
+
+Fifty Sigma Results
+
+The introduction to this volume leaves no doubt that authors believe they have fully reproduced
+and confirmed the cold fusion effect. This is an unequivocal endorsement of the claims of Pons
+and Fleischmann.
+
+EPRI PERSPECTIVE This work confirms the claims of Fleischmann, Pons, and
+Hawkins of the production of excess heat in deuterium-loaded palladium cathodes at
+levels too large for chemical transformation. However, the phenomena were obtained in
+only about half the cells. From the conditions of loading, initiation time, and current
+density on the successful observations of excess heat, it is understood why the
+phenomena are so difficult to attain. The conditions in the successful cells were not
+entirely under experimental control because the closed cells slowly leach silica and other
+materials from the anode and its supports as well as from the cell walls . . .
+
+The primary objective of further work on this subject will be to demonstrate which
+nuclear reactions, if any, are generating the excess heat. The only way to do this is to
+observe in at least roughly quantitative fashion the nuclear reaction products or "ashes."
+At this time, it is thought that the most likely ashes will be helium of mass 4 observable
+in the vapor phase of closed cells. The reaction producing helium needs to be known in
+order to maximize this excess heat phenomena for practical uses in the nuclear power
+industry. 
+- Introduction
+
+We do not claim to have examined all possible sources of systematic error in our
+calorimetry. However, highly instrumented and monitored experiments, using
+calorimeters of considerably different design and principle, have resulted in qualitatively
+and quantitatively similar results, i.e., apparent excess heat bursts outside the standard
+deviation of the random errors by factors up to 50. 
+
+
+Contents of Book
+
+This book consists of ten major sections; seven printed on paper, three on microfiche. It is too
+bad the entire book was not produced on CD-ROM and made available via the Internet World
+Wide Web. It would be much easier to use in electronic form; the page number is confusing, and
+there is no index. It includes 60 illustrations, graphs, charts and schematics; and five tables. This
+is a comprehensive, expensive book. It is somewhat repetitive. Much of the text was previously
+published in conference proceedings and peer-reviewed papers. The text not as repetitive as it
+first appears. The equipment was modified and improved before each set of tests. It is described
+again in each section, using text that has been copied and modified.
+
+This book does not cover all of the SRI work on cold fusion. It does not include anything about
+the loading studies with palladium wire and other topics covered in some of McKubre’s lectures.
+
+This work will be covered in another volume, Research Project 3170-01.
+
+For a shorter look at the SRI experiments, see the article in the Journal of Electroanalytical
+
+
+Chemistry. 6
+
+Here are the section numbers and titles:
+1. Introduction
+2. Degree-of-loading Studies
+3. Calorimetric Studies
+3A. Experiment P19: A Comprehensive Data Compilation
+3B. Experiment P1b
+4. Nuclear Detection Experiments
+5. Summary and Discussion
+APPENDICES (Microfiche)
+A. Lockheed Report - Nuclear Detector Experiments
+B. Patents Disclosure
+C. Accident Investigation Report
+Item C. refers to the tragic accident on January 2, 1992, in which Dr. Andrew Riley was killed.
+
+This was also described in: S.I. Smedley et al., “The January 2, 1992, Explosion in a Deuterium /
+Palladium Electrolytic System at SRI International,” Frontiers of Cold Fusion; Proc. 3rd Int.
+
+Conf. Cold Fusion, Nagoya, 1992, Universal Academy Press, Tokyo, 1993
+
+
+Overkill Example
+
+When a cold fusion cell produces megajoules of energy per mole of cathode material, most
+scientists consider that proof of excess heat “beyond the limits of chemistry,” like a match that
+burns for an hour. The authors of other cold fusion papers have never bothered to quantify this
+assertion; they merely list the total energy output and leave to the reader to draw the obvious
+conclusion. In the SRI book, no assertion is left uncorroborated, even one as indisputable as this.
+
+They take the “skeptical” argument seriously, long enough to dispose of it. Experiment P19
+produced 790 kJ of excess energy, mainly in three bursts. An inventory of chemicals in the cell;
+all known chemical reactions; and the total energy these reactions could produce are shown on
+pages p. 3A-14 through 3A-16. Here is the inventory:
+
+* A footnote here shows the level of detail taken into account: “Other solid parts are Al2O3, SiO2
+and PTFE, which are considered in this analysis to be nonreactive.
+
+Reactions and (approximate) energy releases are:
+
+An in-depth discussion of these reactions shows they are extremely unlikely because, for
+example, there is no “unlimited supply of oxygen” in the cell. If we assume oxygen does
+1. F. G. Will, National Cold Fusion Inst., U. of Utah, Investigation of Cold Fusion Phenomena in
+Deuterated Metals, Final Report
+2. Fritz G. Will, Krystyna Cedzynska and Denton C. Linton (National Cold Fusion Inst., Salt
+Lake City, UT), "Reproducible Tritium Generation in Electrochemical Cells Employing
+Palladium Cathodes with High Deuterium Loading," J. Electroanalytical Chem., vol. 360, no
+1-2,1993, pp 161-176
+3. M. H. Miles, “Anomalous Effects in Deuterated Systems,” Naval Air Weapons Center
+(NAWCWPNS TP 8302), 95 pages
+4. M. Fleischmann (Univ. Southampton), S. Pons (IMRA Europe), “Calorimetry of the Pd-D2O system:
+from simplicity via complications to simplicity,” Physics Letters A, 176 (1993) 118-129
+5. M.C.H. McKubre, J. O’M. Bockris, “ICCF6 Summary and Reviews,” Infinite Energy #10, p.
+6. M. C. H. McKubre et al., “Isothermal flow calorimetric investigations of the D/Pd and H/Pd
+systems,” J. Electroanalytical Chem., 386 (1994) 55-66
+7. For example: J. D. Strachan et al., “Fusion Power Production From TFTR Plasma Fueled with
+Deuterium and Tritium,” PPPL-2978, March 1994. The experiment was trumpeted in the mass
+media when it was performed, five months before this first short paper was published.
+8. N. Hoffman, A Dialog on Chemically Induced Nuclear Effects, American Nuclear Society
+9. J. Rothwell, “REVIEW ‘A Dialogue on Chemically Induced Nuclear Effects,’ Infinite Energy
+No.3, July/August 1995
+10. T. Passell, “Search for Nuclear Reaction Products in Heat Producing Pd,” 6th Internat. Conf.
+on Cold Fusion, paper O-035
+11. R. Forward, “Alternate Propulsion Energy Sources,” Air Force Rocket Propulsion
+Laboratory TR-83-039, May 1983
+somehow get in, the four reactions would produce a total of 7 kJ, less than 1% of the total, or 3%
+of the energy produced by the larger continuous heat bursts.
+
+
+Footnotes
+
+12. J. Rothwell, “Review of ICCF6,” Infinite Energy #10, p. 13
+13. M. McKubre, “Loading, Calorimetric and Nuclear Investigation of the D/Pd System,” Proc.
+4th Int. Conf. on Cold Fusion, Lahaina, Maui, EPRI TR-104188, Vol. 1, p. 5-22 - 5-23

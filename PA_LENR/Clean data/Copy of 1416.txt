@@ -1,0 +1,275 @@
+Introduction
+
+Having received, at short notice, the invitation to attend the second international conference on cold fusion as a sceptical observer, I began to study some
+of the papers which have appeared since the fall of 1989 after which I had
+stopped following the publications in this area. Being sceptical from the beginning, the many negative reports from renowned laboratories seemed to confirm that the disputed claims of cold fusion occurring in a solid were, unfortunately, based on the erroneous interpretation of ill-defined experiments. I now
+realize that in the meantime many new positive results have been published
+which can not be pushed aside quite so easily. Two reviews, currently in the
+course of publication, were very helpful and yielded much information on the
+present situation. These are the reviews of M. Srinivasan [1] and E. Storms [2)*.
+Together with my reading and the lectures given on the first days of the conference, I eventually felt able to present my impressions in a lecture on the last
+day of the conference, as the organizers had requested. I am aware that all the
+arguments pro and contra the reality of cold fusion have been pointed out by
+others before. The first part of my contribution to the report of this conference
+is therefore mainly a reminder of the problems. In the second part I raise some
+questions seen with the eyes of a physical chemist being specially experienced
+in electrochemistry. 
+
+
+Arguments pro and contra
+
+1. Anomalous phenomena:
+
+Pro: Anomalous phenomena have been observed in several laboratories
+(excess neutrons, excess tritium, excess heat) during the electrolytic reduction of D2O at Pd or Ti electrodes or after loading of the metals with
+D2 at high pressure. No comparable effects have been found with H20
+orH2
+.
+
+Contra: Many laboratories could not reproduce these results. Even groups publishing positive findings concede that they cannot reproduce these effects at will. Checks with H2O for comparison are often missing in reports.
+
+2. Neutron generation:
+
+Pro: Neutrons have been found during electrolysis of D2O at Pd and during
+heating of Ti loaded with D2 at low temperatures. They appear in
+bursts.
+
+Contra: The measured neutron level is often hardly above background. In
+many experiments no effects at all were found. The intensity bears no
+relation to the claims of excess heat production.
+
+3. Tritium generation:
+
+Pro: An increase in T concentration was found in the electrolyte during
+electrolysis with D2O and Pd cathodes at several places. Such events are
+unpredictable and occur sporadically, but the increase is far above the
+well-known separation factor in electrolysis.
+
+Contra: Irreproducibility of the T production. Contamination with T2O suspected from the D2O which has to be added continuously in order to
+compensate the loss by electrolytic decomposition of the water in open
+cells. Instead of the 1 : 1 relation between neutron and tritium genera466 
+tion found in hot or myon catalyzed cold fusion and in accordance
+with the theory of D + D fusion reactions, a relation n: T of 1: 106 - 109
+has been reported.
+
+4. Excess heat generation:
+
+Pro: Several groups have reported excess heat generation for hours between
+10 - 600 % of the electric energy input during electrolysis of D20 at Pd
+electrodes. Calorimetry has been improved since the first announcement and was applied in some cases to closed systems where no gas can
+escape and carry off energy.
+
+Contra: Besides the unpredictability of the effect, many attempts to reproduce
+the heat effect have failed. The products of nuclear reactions which
+could produce such amounts of heat have not yet been found. The tritium generation rate is by far too small. 4He production has been suggested as the source of the heat and has recently been found by one
+group in the D2 gas produced by electrolysis [3], but has not yet been
+confirmed by independent measurements. From well-established
+theory and experiments of fusion in hot plasmas, the process D + D ➔
+4He + y (23.5 MeV) is the least probable one. The accompanying y radiation has not been observed.
+
+
+Open questions from an electrochemical point of view
+
+It appears that the most pronounced anomalous effects have been reported in the electrolytic experiments, particularly the generation of excess
+heat, of tritium and maybe of 4He. The reason might be that the concentration
+of deuterium in the solid during electrolysis is much higher than it can be obtained under equilibrium conditions from the gas phase. This can be related to
+the kinetics of the cathodic reduction of water.
+
+Reaction kinetics:
+
+This process occurs in two steps with the intermediate formation of adsorbed deuterium atoms on the metal surface. The following equations describe the electrolytic D2 generation from a basic solution where the primary
+reagent is D20. 
+
+I D20 + e ➔ D.d + oo- VI 
+Ila D.d + D.d ➔ D2 V11a 
+Ilb D.d + D20 + e ➔ D2 + oo- Vllb 
+Ile D.d ---t +- Dbullt Vue
+
+Reactions I, Ila and lib can be considered as irreversible at high current densities. 
+Vi are the rates of the individual reactions which depend on the following parameters: 
+
+( 1 ) ( 2 ) ( 3 ) ( 4 ) 
+VI Vu. Vllb Vue F, 
+(1-,n exp(-/3, :".;.1 J G ( 62 ) F2 ( t1 ) · exp ( -/32 ; .;1 J S ( 1J ) - B ( X0 )
+
+In these equations the parameter 'i} represents the coverage of the metal surface
+with adsorbed D atoms. The activity of the vacant surface sites which are available for reaction I varies with (1-1'}) in a way which depends on the local structure and on the chemical composition of the surface. This is represented by the
+function F (1-1'}) which can hardly be predicted, particularly not on a polycrystalline surface.
+
+For the formation of D2 molecules there exist two competing reactions,
+Ila and lib. The rate of both depends on 'i}, again in a complex way which is represented by the functions G (1'}2) and F2 ('(}). The term 1'}2 in the function G shall
+indicate that this step is a bimolecular reaction in which two adsorbed D atoms
+take part. All these functions will be non-linear in� but G will increase much
+steeper with � than F2
+. Only reactions I and lib are influenced by the electric
+bias applied to the electrodes. The bias is here expressed by the overvoltage 11
+for the water reduction which is negative. 11 is the voltage difference i::\<l>H in
+the Helmholtz double layer at the interface between equilibrium for the
+overall reaction, 2 D2O + 2 e- : D2 + 2 OD- with i::\<l>H = i::\<l>o and the voltage at a
+given current density, i, i\<l>H (i): 11 = i::\<l>H ( i) - i::\<l>o < 0. Pt and p2 are the socalled charge transfer coefficients. They are usually in the range of 0.4 - 0.6.
+
+The rate of diffusion of D atoms into the bulk will equally depend on the
+activity of adsorbed D atoms which is expressed by the function S (�). Here,
+however, the reverse process depending on the activity of the deuterium in
+the lattice, represented by the relation x = D /Pd in the solid, will eventually
+compensate the rate of D uptake that Vnc ➔ 0 in the steady state. One can only
+conclude that the higher� and with it S(�), the higher will be the D content x
+in the steady state.
+
+All experiments where anomalous effects have been observed are performed after saturation of the bulk with deuterium or at least under
+conditions where Vue became very small because the diffusion into the depth
+of the bulk had slowed down further uptake. It is therefore sufficient to discuss
+the steady state situations. In this state:
+
+( 5 ) Va. + 2 vllb ·and Vue =
+0
+
+The current voltage curves for hydrogen evolution at palladium
+indicate that at low current densities the recombination Ila is rate determining.
+This should result in a slope of the current voltage curve of di,/ d log i = - kT /
+2 e0 = -0.029 V, if the metal surface were uniform in adsorption sites for
+deuterium. The real slope on inhomogeneous surfaces will be larger.
+
+At higher current densities where the coverage of the surface with
+deuterium atoms becomes high, the rate determining step changes. Because
+the rate of the electrochemical desorption, reaction lib, increases with the bias,
+this process will become faster than reaction Ila. This is seen in a decrease of
+the slope of the current voltage curve which should approach d11 / d log i =
+- kT / p2 e0 for a surface with uniform adsorption sites for deuterium. Again,
+for inhomogeneous surfaces the slope will be larger than the ideal slope of
+- 0.12 V, if P2 = 0.5.
+
+The most important consequence for the present discussion is that, if the
+reaction lib becomes rate determining, the surface activity of adsorbed D atoms
+can only increase slowly. In this situation
+
+( 6 ) 2 Vllb >>
+( 7 ) =:,
+V Db , therefore,
+
+If P2 = P1
+, this relationship will remain constant. For P1 > p2
+, F2
+(t}) can still increase with increasing bias (negative 11), this being more pronounced for larger
+<P1 - P2
+), However, F1 will also grow with t}, and therefore the increase of the
+activity of adsorb�d D atoms can only be small in the range of these current
+densities. The opposite could occur if p1 < p2
+. This is in sharp contrast to the region of low overvoltages where the activity of adsorbed D atoms would on a
+uniform surface increase quadratically with the current density as long as reaction Ila was rate determining.
+
+Reproducibility:
+The relative rates of all three reactions I, Ila and IIb will depend very critically on the surface properties of the solid and can be affected by all substances
+which may be adsorbed on the surface or electrolytically deposited. This is par
+ticularly critical in experiments of very long duration in which even minute
+amounts of impurities can be collected at the electrode. They can also influence
+the structural changes of the Pd electrodes when they are transformed from the
+o:- to the P-phase of the deuteride which occurs during the heavy loading with
+deuterium. Such factors will limit the reproducibility if they are not strictly
+controlled.
+
+An instructive example can be found in a recent publication of M. Ulmann et al. [4] where current voltage curves for Pd cathodes in LlOD /D2O solution are represented. One sees a change in the slope of d Tl/ d log i from very
+low values (not exactly given in the paper) to values of 0.18 V and more, above
+current densities of 3 mA cm-2. The overvoltage is substantially higher if the
+electrolyte has not been pre-electrolyzed for removal of impurities prior to the
+use in the experiment. Surface composition analysis by XPS after electrolysis
+has shown how much foreign metals were deposited on the surface in these
+experiments after long periods of electrolysis. Even in pre-electrolyzed electrolytes large amounts of platinum were found on the palladium surface. The
+source was obviously the Pt counter electrode which corroded somewhat during anodic oxygen evolution. This has also been reported by Bockris [5].
+
+Bulk or surface reaction:
+There are different opinions as to whether the anomalous effects occur
+in the bulk or at the interface. The first is frequently assumed when the excess
+heat generation measured with small electrodes is extrapolated to heat per unit
+volume. On the other hand, there are several arguments for a process occurring on or very close to the surface. The tritium is found in open cells in the
+electrolyte where it is present as DTO or OT-. Any tritium generated by the process: D + D ➔ T + H can only enter the solution by an exchange reaction from
+the adsorbed state on the surface:
+
+III + .....
+f- + TDO
+
+If T would be generated in the bulk it has to reach the surface by diffusion prior
+to this exchange reaction. This could hardly result in the rather fast concentration increase in the solution during short periods as reported by several authors [6,7,8].
+
+4He has also been found in the gas phase, not in the palladium bulk, if
+the reported experiments are correct [3]. This would support the latter conclusion since He is immobile in Pd at room temperature.
+
+If the anomalous effects require a high oversaturation of the lattice with
+deuterium, a composition of x > 0.8 [9], one would expect that this first occurs
+near the surface. The diffusion coefficient of Din Pd decreases at large x values
+[10]. If the activity of Dad should suddenly increase by some reason, this would
+quickly let x increase next to the surface, but extend only slowly into the bulk.
+These arguments support the assumption that the processes in question
+should primarily occur close to or on the surface.
+
+Role of lithium:
+Li+ ions in the electro! yte seem to be essential for the occurrence of the
+anomalous effects [11]. It is striking that in the current voltage curves of
+M. Ulmann et al. [4], mentioned previously, the slope d Tl/ d log i increases
+dramatically to 0.5 - 1.0 V at current densities above 100 mA cm-2. This cannot
+be explained by any normal mechanism of the reactions I, Ila and Ilb. Li can be
+alloying Pd [12]. This large slope indicates that an additional charge transfer resistance is created on the Pd surface in this current density region. One is reminded of the phenomenon of "undervoltage deposition" [13]. In the case of Li
+deposition from non-aqueous electrolytes containing some water, the formation of lithium hydride was observed as the result of underpotential
+deposition [14]. A similar process could occur in aqueous electrolytes at high
+current densities and drastically modify the D2 evolution kinetics.
+
+Can it become a source of energy?
+If excess heat generation requires electrolysis, this heat does not only
+nave to compensate the energy input but also the energy conversion losses in
+the electric power station. H the conversion efficiency there would be 40 %, the
+excess heat should be 150 % of the electric energy input, in order to reach the
+break-even point. As a practical source of energy a much higher excess would
+be required. As a development to a source of free energy (electric power) the
+Carnot restriction has to be taken into account. More valuable would be a system generating excess heat at elevated temperatures. However, if heat generation requires a high concentration of D in palladium, then the decrease of the
+equilibrium capacity for hydrogen of all metallic hydrides [10] plus the increase
+in the rate of all electrochemical reactions with temperature (corresponding to
+a decrease in overvoltage) makes it very questionable that such conditions can
+be reached at elevated temperatures.
+
+
+Conclusions
+
+The primary goal in the present situation should be to demonstrate that
+fusion reactions occur in metal deuterides. A convincing proof would be finding the reaction products which can generate the excess heat in the corresponding amount. The search for T and 4He should be performed in closed cells
+where no products can escape. Parallel test runs with normal water are mandatory for any proof.
+
+With regard to reproducibility, the electrochemical parameters have to
+be investigated much more carefully than have been to date. Excess heat
+should always be reported in relation to the energy input per surface area; the
+extrapolation to unit volume is misleading. The analysis of the kinetics indi473 
+cates that one should try to find conditions where the rate constants for the recombination steps Ila and lib are as low as possible in relation to the rate constant for step I. Any impurity deposition which catalyzes recombination like
+platinum, should be prevented.
+
+The question of economic applications can be postponed until a definite
+proof is available and the decisive parameters have been clarified. The
+publicity of this research area and of unjustified· claims for practical
+applications have not been helpful towards finding the truth. Only systematic
+and critically analyzed experiments will pave the way to a true understanding
+of the phenomena and to consensus in the scientific community.
+
+
+References
+
+1. M. Srinivasan, Current Science 60 (1991), 417.
+2. E. Storms, Fusion Techn., submitted.
+3. B.F. Bush, J.J. Lagowski, M.H. Miles and G.S. Ostrom, J. Electroanal.
+Chem. 304 (1991), 271.
+4. M. Ulmann, J. Liu, J. Augustynski, F. Meli and L. Schlapbach,
+J. Electroanal. Chem. 286 (1990), 257.
+5. J.O'M. Bockris, lecture on this conference.
+6. N. Packham, KL. Wolf, J.C. Wass, RC. Kainthla and J.O'M. Bockris,
+J. Electroanal. Chem. 270 (1989), 451.
+i. E. Storms and C. Talcott, Fusion Techn. 17 (1990), 680.
+8. P.K. Iyengar, M. Srinivasan et al., Fusion Techn. 18 (1990), 32.
+9. F. Will, lecture on this conference.
+10. B. Baranowski, in Topics in Applied Physics (eds. G. Alefeld and J. Volkl),
+Vol. 29, pp. 157. Springer, Berlin 1978.
+11. A.J. Appleby, Y.J. Kim, O.J. Murphy and M. Srinivasan, Proc. 1st Ann.
+Conf. Cold Fusion, Salt Lake City 1990, p. 32.
+12. Landolt-Bornstein, Numerical Data and Functional Relations in Science
+and Technology, New Series, Group III, Vol. 19, p. 285. Springer, Berlin
+1988.
+13. E.g. D. M. Kolb, in Advances in Electrochemistry and Electrochemical
+Engineering (eds. H. Gerischer and Ch.W. Tobias), Vol. 11, pp. 125. Wiley,
+New York 1978.
+14. H. Gerischer and D. Wagner, Ber. Bunsenges. Phys. Chem. 92 (1988), 1325.

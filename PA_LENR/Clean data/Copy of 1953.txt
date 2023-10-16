@@ -1,0 +1,71 @@
+1. Introduction
+
+The experiment reported here contains the two new findings: The first is the observation of H-H fusion reaction, which has been elaborated theoretically by Bethe and Critchfield. The second is the fusion reaction which occurs in Al metal. Both were observed on the electron bombardment of the implanted molecular hydrogen isotopes(H2 or D2) embedded in Al metal.
+In this experiment, hydrogen or deuteron implantation was employed, since it forms coagulation of molecules in Al, then the bombardment with electrons of energies 200 or 400 keV was followed.
+
+
+2. Experiment
+In this experiment, H3+ or D+s ions with energy of 90 keV were implanted at room temperature into Al thin films up to the fluence of more than 10' 7 H+ 1 or n+ 1 /cm2 using Cockcroft Walton type accelerator.
+After the implantation, the Al specimen, thin enough to pass through for 200 keV electron, was installed into the diffraction chamber of the electron microscope, HITACHI HU-500, and was bombarded with the electron beam with the energies of 200 or 400 keV. The electron beam current was about 300 to 400 nA with the beam size of about 4 x 10-�cm2, giving roughly 4 - 6 x 10'0 electrons/cm2/s as the flux ¢ e of the electron beam on the target.
+
+For the detection of the high energy emitted particles, the author employed the plastic detector made of CR-39 polymer, supplied by Tokuyama Soda Co. Ltd. The detector size was 10 mm x 15 mm x 1 mm. All detectors were made from the same lot of the plastics, and have been kept with thin plastic films attached on their both sides in a Rn free atmosphere filled with air which has been reserved for several months in an airtight cylinder. Two detectors in the backward side of the electron beam were set parallel to the Al specimen at 20 mm from it with 1 mm slit between them, through which the electron beam comes down to the target. Another two detectors were able to be set parallel to the electron beam at 20 mm from the target. The arrangements of the detectors are shown schematically in Fig.l(X=Z=20 mm). Immediately after the electron bombardment, the vacuum of the electron microscope was broken with the Rn free air, and the detectors were immersed into a salt water to discharge the detector surface which was presumed to have negatively charged with
+reflected electrons during the bombardment. Then the detectors were etched in 6N KOH solution at 70 ° c· for 2h. The bulk etching rate of the CR-39 in this condition was 2.7μ m/h. The particle traces thus formed on the target facing surface of the detectors were counted with optical microscope. Further etching was performed for the determinations of both particle species and energies. In exactly the same way,non-implanted Al specimens were also bombarded with the electron beam, and particle traces were counted for the background measurement.
+
+
+3. Experimental results and discussions
+
+The etching reveals the
+particle traces on the detector surface as etch pits. Figure 2 shows six typical examples of the etch pits after the two hours' etching of a detector, which was exposed to emitted particles during 200 keV electron bombardment onto H3+ implanted Al specimen. All observed pits were able to be sorted with these 6 examples. Particle species and energies were determined by measuring the growth curves of their pits' radii against the bulk etching. They were furtherconfirmed by referring to the sizes of standard etch+ pits produced by bombardments of p and 4He+ of known energies onto other CR-39 detectors.
+
+Experimental results are shown in Fig. 3, in which the observed number of the2particle traces on a CR-39 detector with the surface area of 1.5cm was plotted against the electron energy<•. •,.a.). Also plotted is the background number of traces (o), which was measured with the non-implanted Al specimens. Here, the author would like to note that the pit numbers on the backsides of the detectors, which have not been facing to the Al targets, were also in the background level. This means that the surplus pits observed on the front sides of the detectors were due to the energetic particles from the Al specimens. And also it should be added that the pit numbers of the virgin detectors of the same lot, and of the same treatment, were also within the background level shown in Fig. 3.
+
+It is seen in this figure that the numbers of the particle traces on the both H+ and D+ implantation are more than twice, on the average, of the background level at both energies. Reproducibility of the experiment was confirmed in the 200 keV electron bombardment case, in which the four successive experiments gave always the surplus number of traces over the background level.
+
+he reproducibility of the experiment was controlled by two factors. The first was the brightness of the electron beam, namely the number of bombarding electrons per unit area of the beam cross-section. Unfortunately, the brightness was rather hard to be controlled with the electron microscope used in this experiment, specially at the specimen position employed. From the measurement of the beam size on the target surface, more than 3 x 1015 electrons/cm2/s of the brightness was necessary to observe the particle emission. The second factor which controlled the particle
+emissio•
+l.6•
+n was the amount of implantation. It was requisite to have
+2MeV a
+lMoV a formed the so-called tunnel like
+Me a V
+0
+structure in the subsurface layer of
+Al specimen. The bubble structure >6MeV u. which precedes the formation of the
+�
+tunnel like structure was not
+responsible for the particle emissions. Additionally, the author would like to mention that surface contamination of the Al specimen have not affected the particle emission at all. Since the Alspecimens have chemically etched before the implantation, only source of the contamination was that of oxidation during the implantation, due to the water molecules being collected on the Al surface.
+
+10- Torr, the particle trace remained within the background level when the implantation were not enough to produce the tunnel like
+5
++
+structure.
+5 300 �
+N
+Number of traces on each detector with the same solid angle was
+not necessarily the same. For example, in Da implantation case at 400 keV, 470 and 170 traces were observed on the detectors 1 and 2, respectively. Similar inhomogeneity, but to a less extent, was also observed in H3+ implantation case. However, when particle number is relatively low, like those points with slashes shown in Fig. 3 at 200 keV, the particle emission seems rather homogeneous. The reason is not clear at present.
+It is also seen ier with the number of traces, this point
+shows a sharp contrast against the high energy collisional fusion
+soo
+which gives only 10- to 10-
+400
+l
+25 12
+times smaller fusion rates than j the present results as shown in Table 1. The solid angle t:. w of the detector 1 or 2 in Fig 1 was evaluated numerically obtainin g 0.936 each. Using this value and taking roughly 100 as the homogeneous increase of the particle trace over the background level for each detector, total
+�,,. "·
+l
+Electron Energy keV
+0 020 .0a3
+number of the particle emission N in whole space becomes
+Fig. 3 Number of traces
+     the
+   taken
+particle
+E (keV)
+200 262 400 611
+2.8X 10-18 9.4X 10-l
+R'
+4X 10-23 l.4X 10-9
+N =100x4 1r It:. w =1340 0
+z 100
+O� - 02 �0_____4_.00_ ___, inhomogeneous emission was
+for the H-H reaction case, w

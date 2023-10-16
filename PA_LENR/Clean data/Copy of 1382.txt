@@ -1,0 +1,205 @@
+1. Maximum Temperature of Hot Spot
+
+As ,vell known, a supersonic pressure field applied to a liquicl induces the
+forced oscillation of cavities. In the contraction phase of the oscillation the gas
+content is greatly, adiabatically compressed and as a result a small region of high
+temperature and density is transiently created in the liquid. The direct evidence
+for the hot spot is provided through the sonoluminescence phenomenon.
+
+Many experimentalists1 ,2) succeeded in directly measuring the hot-spot
+temperature and nowadays it is widely believed that the temperature may reach
+one hundred thousand Kelvin. On the other hand, ,ve had been interested in the
+possibility of other catalyzers of nuclear fusion than muon particles. After socalled cold fusion1 we have focused on the question of what exrerne states could
+be realized under ambient conditions and liavc engaged in tlie determination of
+the upper bound of hot-spot temperatures.3-5)
+
+1.1 Zeroth Order Approxoimation:
+At first we assumed a gas-filled, splierical bubble and incompressible liquid. Moreover, the gas content ,vas assumed to adiabatically respond to the
+motion of bubble wall. The time-evolution of the bubble radius R is, therefore1
+subjected to the Rayleigh-Plesset equatio1/i
+-B)
+
+where
+
+PL= Pc - 2CJ/R,
+
+The p and CJ are the density of liquid and surface tension. The P0 is the ambient
+pressure of liquid, PL, Pc and P 00 being pressures of liquid and gas at the bubble
+wall and pressure of liquid at a remote point from the bubble center, respectively.
+The gas is assumed to obey van der \Vaals' equation of states. The second term
+on the right hand side of the second equation stands for an applied supersonic
+field with amplitude PA and frequency J A·
+
+The initial condition is
+
+R(0) = Ro, .R(O) = 0.
+
+That is, at t = 0, the bubble with radius Ro is assumed to be in a dynamical
+equilibrium with the ambient pressure P0 . 
+
+Fig. 1
+
+We numerically solved the Raylcigh-Plcssct. equation and obtained the
+ressult depicted in Fig. 1 by a broken line. The values of supersonic parameters
+employed arc also iuclicatcd. It was surprising that. the maximum temperature
+Tmnx of hot spot exceeded 108 I(clvin when Ro ,vas less than 10 microns. This
+fact suggest eel the occurrence of hot fusion within a supersonic cavity if the gas
+content is D2. The preliminary calculation was so successful that 1.
+ve turned to
+a more realistic model.
+
+1.2 Compressible Liquid:
+In the present paper we treat the compressible liquid, whose equation of
+states is assumed to take the form of
+
+where
+
+P+B
+Po+B
+
+B = 3,000 atm, n ~ 7.0.
+
+N amcly, the liquid behaves like an incompressible one when P « B. The index
+n is choseu so as to reproduce the sound 1:elocity of ,vat.er, 1.45 km/s.
+By use of the equations of continuity ancl of motion, and assuming the
+Kirkwood-Bethe hypothesis
+
+( :t + ( c + u) :,. ) ( u22 + h) = 0'
+
+where c and u are velocities of sound and liquid particle, respectively, and h is
+the enthalpy defined as
+
+p
+h = J dP/p,
+
+we can derive the Gilmore equation6 -s)
+
+R(1 - u) U + � (1 - �)
+U
+2 = (1 + U + R (1 - U) !!_) (H - H )
+G 2 3G C C C dt 00 •
+
+The C, U and H are, respectively, values at the bubble ·wall of corresponding
+quantities c, u and h. The H00 is
+
+J
+P=
+H= = dP/p.
+
+By numerically solving the above equation, we obtained t\rn solid curves 
+as shown in Fig. 1. In the contraction phase of bubble oscillation, the gas-content 
+may surely be subjected to adiabatic compression because of the swift contraction
+of the bubble. The expansion, 011 the other hand, may occur isothermally or
+adiabatically, depending on the rapidness of the process. The upper solid curve
+corrcspoucls to the isothermal expansion, the lower one to the adiabatic process.
+The reality may lie between two curves.
+
+One of the most striking features of Fig. 1 is that at the transition from
+incompressible liquid to compressible one Tmax decreases by a fc,v orders of
+magnitude. This fact unveils that our zeroth order calculation is meaningless.
+Secondly, there is a great discrepancy between the isothermal limit and adiabatic
+one, that is, the diffenencc of two to three orders of magnitude over the indicated
+span of R0 . It is noteworthy here that the isothermal curve still lies around 107 J(
+when R0 is a few microns. After all, the isothermal expansion is found to be
+indeed the one of neccessary conditions for getting high enough Tnwx to provoke
+the hot fusion.
+
+1.3 Optimization of Parameters:
+Remind that there exist three adjustable parameters in the present problem, that is, the initial radius of bubble, R0 , and the amplitude and frequency of
+applied supersonic field, PA and f A· It is IJoteworthy here that the smaller the
+frequency f A is, the more probable the occurrence of isothermal expansion is. 
+
+Fig. 2
+
+Fig. 2 depicts T111
+r1x against. Ro for three fixed values of the product fAxR0,
+,vhere the isothermal expansion is postulated. Remarkable points of Fig. 2 arc
+as follows: Three curves arc almost parallel to the R0-axis, which means that
+Tmax depends on fA and Ro only through the product JAX Ro. The second point
+is that, with decreasing product f Ax R0 , Tma ::r increases without the tendency of
+saturation. In short, the smaller frequency f.-1 which assures, on the one hand,
+the isothermal expansion of bubble supports the higher Tnwx simultaneously.
+That is unexpectedly fortunate situations for us.
+
+The Tmu.x also depends on the amplitude PA. Fig. 3 depicts Tmax versus
+Ro for various values of PA. \Vith increasing PA, 1:,iax increases, but there can
+be seen the apparent tendency of saturation. 
+
+Fig. 3
+
+
+2. Stability of Spherical Cavity
+
+In this section ,ve examine the time-evolution of a small deviation from
+the spherical symmetry of the bubble wall. This problem was investigated in
+detail by Plesset8
+). Let. the distance between the bubble center and the bubble
+wall be Rs (0, ¢, t), which can be written as
+
+Rs R+ Lalmllm,
+l>l
+
+where R is the radius of a spherical bubble and the last term ou the right haud
+side describes a small deviation from the spherical symmetry. The lt rn is the
+spherical harmonics. Up to the first order of the deviation paramct.cr 01 m , we
+can get the Gilmore equation for R and so-called Plesset equation
+
+R l-l(
+•· a
+a+ 3 Ra=� R - ) (l + l
+)(l + 2
+) pR2 a
+
+Fig. 4
+
+Fig. 4 illustrates the timc-evolutiou of R and aim over a period of supersonic field. That is, R st.arts from R0 and goes up to the maximum value
+of about 10 times R0. IL the11 rapidly goes down Lo the miuimum of alJOuL 0.1
+times R0. On the other hand, the deviation starts ,vith its initial ,·aluc a0, oscillates for a ,vhile and then reduces to very small values. At the fi11al stage of
+the coutraction, it suddenly increases up to about 2.4 times u 0. In any way, the
+deviation remains finite and therefore the bubble is proven to be stable against
+a small deviation from the spherical symmetry.
+
+In Fig. 4, only the l = 2 case is depicted. General case ,vill be given in
+another place. In addition the spacial uniforrnit.y of the pressure field is assumed
+in our calculation. On the other band, it is well-known experimentally that
+the cavity is unstable near solid surface, that is, in the presence of spatial nonuniformity of pressure field. It is interesting, therefore, to exami11e the stability
+of cavities against a small spatial variation of the pressure field.
+
+
+3. Conclusion and Discussions
+
+We calculated the maximum temperature Tmax of a hot spot which is
+induced by an applied supersonic field. It is proven that the smaller the frequency JA of the supersonic field is, the higher T mu:r can be obtained, which is
+indeed high enough for the occurrence of hot fusion. Especially without apparent tendency of saturation. Furthermore, with increasing amplitude PA of the
+supersonic field the Tmu.r: increases with apparent saturation tendency. Finally,
+the stability of spherical cavity is verified.
+
+In our calculation, however, a lot of simplifications are made and thereby
+our conclusion is still tentative and should not be laterally accepted. The following is the list of simplifying assumptions we have made: '·We considered a
+gas-filled cavity but completely neglected (1) the evaporation and condensation
+of vapor. Next in spite of the formation of a hot spot of high temperature and
+density, (2) the thermal irradiation, (3) heat conduction and (4) mass diffusion
+from the hot spot to surrounding liquid are not taken into account. Furlhermore,
+the gas-content of a supersonic cavity should undergo (5) the phase transition
+and execute (G) the nonadiabatic response such as the formation of shock wave.
+
+In order for getting quantitatively acceptable results, we should engage
+ourself in the calculation of Tmax by taking account of the above effects and then
+we should identify the optimum experimental conditions for realizing the upper
+bound of Tmax , 
+
+
+References
+
+1) E. B. Flint and K. S. Suslick, Science, 253, 1397 (1991).
+2) R. Hiller, S. J. Putterman and B. P. Barber, Phys. Rev. Letts., 69, 1182
+(1992).
+3) K. Fukushima, Frontiers of Cold Fusion, edited by H. Il{€gami, p609, Universal Academy press, Tokyo, (1992).
+4) K. Fukushima and T. Yamamoto, Cold Fusion Source Book, edited by Hal
+Fox, Fusion Information Center, Salt Lake City, (1994).
+5) K. Fukushima and T. Yamamoto, Proceedings of International Symposium
+on Cold Fusion and Advanced Energy Sources, p197, Belarusian State
+University, Minsk, Belarus, (1994).
+6) E. A. Neppiras, Physics Reports, 61, 159 (1980).
+7) A. J. \Valton and G. T. Reynolds, Advances in Physics, 33, 595 (1984).
+8) Robert T. Knapp, James \V. Daily and Frederick G. Hammitt, "Cavitation", pl 40, McGraw-Hill, New York, (1970).

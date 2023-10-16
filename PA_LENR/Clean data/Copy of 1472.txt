@@ -1,0 +1,56 @@
+Extended Abstract
+Based on our concept of thermodynamic prediction of microbial interaction with radionuclides and toxic metals,
+we developed novel environmental biotechnologies based on microbial pellets. The main properties of the pellets are
+the following:
+ high stability of pellets (due to their structure) in water solutions,
+ diversified microbial communities (natural and artificial),
+ compounds necessary for active microbial metabolism,
+ presence of Regulators of Microbial Metabolism (RMM),
+ high concentration of living microorganisms (95–98% weight of pellets).
+Due to these properties, the microbial communities of pellets carry out many types of interaction with radionuclides.
+The interactions are divided into three groups. The first group is outside the cell, the second is on the cell
+membrane of microorganisms, and the third is inside the cell. When radionuclides are added into a metabolically active
+culture radionuclides-oxidizers are reduced by microbial exometabolites-reducers to insoluble compounds (51CrO2􀀀
+4
+to insoluble 51Cr(OH)3 nH2O# or 238UO2OH+ to insoluble 238UO2 #). Simultaneously the precipitation of radionuclides
+with exometabolites takes place, e.g.
+
+Table 1. Efﬁciency of extraction of radionuclides by microbial pellets from liquid radioactive waste
+(LRW).
+
+*Indicates less than sensibility of spectrometer (1.0× 10−12 Ki/kg).
+** Radioactive wastewater of the Institute for Nuclear Research (the National Academy of Sciences of
+Ukraine) measured by Valeriy Shevel.
+
+194Hg2+ + CO2−
+=194 HgCO2−
+↓
+and
+60Co2+ + S2− →60 CoS ↓ .
+
+It is also possible to bind radionuclides with exopolysaccharides, which are excreted by cells into the external
+space. Furthermore, the following process occurs on the external cellular structures. Radionuclides substitute stere-
+ochemical analogues in the cell wall. Thus, 90Sr2+ and Ca2+ have equal ionic radii (IR), 0.11 nm. Similarly, ionic
+radii of 239Pu6+ and Mg2+ are equal 0.075 nm that is why 239Pu6+ substitutes Mg2+ in the cell wall. Additional ra-
+dionuclides are actively transported into cells also due to stereochemical analogy of radionuclides and macroelements.
+The acceptor and transport systems of microorganisms are activated to transfer radionuclides together with macroele-
+ments inside cells. For example, since 51CrO2−
+and SO2−
+has equal ionic radii 0.300 nm radioactive chromium is
+actively transported in cells. Ions of 90Sr2+ are transported in the same way, since they have the same ionic radii with
+Ca2+. After transfer into cells, radionuclides-oxidizers are reduced by redox enzymes to insoluble compounds, and
+also precipitated by metabolites.
+
+Table 2. Types of interaction of microorganisms with radionuclides.
+
+We were able to effectively extract radionuclides using microbial pellets, from liquid radioactive waste obtained
+from the Institute for Nuclear Research of the National Academy of Sciences of Ukraine. The efﬁciency of extraction
+of radionuclides was high. Within three days, the activity of the solution decreased on average by 4–5 orders due to
+the accumulation of radionuclides in microbial pellets (Table 1).
+
+Based on the thermodynamic predictive method, it is possible to explain the high efﬁciency of radionuclides ex-
+traction by microorganisms as follows (Table 2).
+
+Thus, we have shown the possibility of using the thermodynamic predictive method to develop effective, novel
+biotechnologies for puriﬁcation of liquid radioactive waste from a wide range of radionuclides. Obviously, the method
+developed by us will be effective for biotechnologies for puriﬁcation of any types of liquid radioactive waste.

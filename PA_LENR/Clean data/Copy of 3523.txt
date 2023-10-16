@@ -1,0 +1,142 @@
+THE NUCLEAR REACTIONS IN CONDENSED MEDIA FOR INTERACTION OF CHARGED PARTICLES IN ENERGY
+REGION IS FORMING BY MAXIMUM ELASTIC LOSSES
+V. A. ROMODANOV, V. I. SAVIN, * Ya. B. SKURATNIK, ** V. N. MAJOROV
+StateSRI SPA “LUTCH”, Zheleznodorozhnaya 24, Podolsk, Moscow reg. 142100. RUSSIA.
+T. :095-137-9258. F. :095-137-9384. E-m.: luch@adis.msk.su
+* StateSC RF “Karpov SRPCI”, Vorontsov pole 10, Moscow, 103064. RUSSIA.
+** RSC “Kurchatov Institute”, sq. Kurchatov 1, Moscow, 123292. RUSSIA
+
+
+Abstract
+
+The main requirements to reproduce the generation of nuclear reactions in
+condensed media (NRCM), have been identified which appear to influence the
+interaction of fast hydrogen ions with a solid target in a powerful plasma glow
+discharge. Phenomenon of three branches of physics have contributed to this
+work: nuclear physics, solid state physics and low energy plasma physics, and
+have in turn opened a new direction of fundamental research. The essence of
+this new direction is the ability of a low-energy plasma to interact with a
+solid target, creating nuclear reactions at a rate several orders of magnitude
+than predicted by calculations for the some conditions.
+The experimental results are presented which validation the formation of a new
+direction for nuclear research.
+
+
+1. Introduction
+
+ulate NRCM at low energies of interacting particles, excess energy can be
+created. These reactions arise at bombardment of a solid specimens by
+accelerated of a hydrogen isotopes, besides the quantity of generated energy
+can be registered on such products of the nuclear reactions, as for example,
+tritium. The set of experimental results is already sufficient as for formation
+of scientific problems, as main directions of use NRCM.
+
+The present work is devoted to formulating this new field of nuclear
+phenomena and assessing the prospects of their practical use power systems.
+
+
+2. Equipment and Methodology
+
+Experiments to study excess heat, production of transportation elements
+and generation of neutrons and tritium, helium-3 and helium-4, charged
+particles, and gamma and x-ray radiation were carried out primarily by using DC
+glow discharge in the upgraded installation UVN-84R-1 [4].
+
+The 250-1 vacuum chamber included a heater for outgassing the chamber.
+The discharge unit consisted of a sample-cathode, anode, ceramic insulators and
+thermocouples. The vacuum system consisted of two turbo-molecular pumps TMN-200
+and TMN-500, trap by nitrogen, a mechanical pump and control valves. The
+plasma-forming gas was filled into the chamber through a system of filtering
+and control valves. The pressure was controlled by thermo-coupling, ionization,
+mechanical and oil pressure gauges in a range from 10-6 Pa up to 105 Pa.
+
+The essence of our experiments [4-7] consisted that ions of hydrogen
+isotopes were bombarded the sample-cathode of plasma glow discharge at
+submission of negative potential on the sample. For sample use plates, tubes
+with thickness of walls of 0.2-5 mm and rods by a diameter of 2-20 mm. Samples
+were made from diverse metals, predominantly from hydride-formation and
+refractory. The basis of a plasma-formation gas was deuterium with the contents
+protean in atomic fractions up to 5% and tritium up to (6-8)*10-10% pressure
+which supported in limits (1-1.5*105) Pa.
+
+The energy of ions, depending on pressure, was evaluated within the
+limits of 0.7-0.01 from voltage of the glow discharge, which changed from 200 V
+up to 10,000 V. The current density made 5.102 – 105 A/m2. The sample
+temperature during researchers set of 700 K for 3600 K.
+
+Registration of slow neutrons executed by a system RTM from 60 gauges
+SNM-12 on the basis helium-3. The registration of fast neutrons was executed in
+addition by a shield the device RUP-one with scintillator on the basis of a
+zinc sulfide activated by silver. The sensitivity of measurement a flow of
+neutrons reached 1 neutrons/S, and the air was limits within of the order from
+measured magnitude.
+
+Analysis of the deuterium on tritium, assembled before and after ions
+bombardment, conducted on beta-activity by a liquid scintillation method on the
+equipment Beta-2. The error of measurement of the contents tritium in tests
+made 10-50%.
+
+
+3. Main results
+
+Researches on measurement of flow neutrons, conducted at bombardment of
+various elements by accelerated deuterium ions from a plasma of glow discharge
+with energy up to 10 keV have shown, that the excess of background level on
+fast neutrons reaches not more double excess even for a tritium-titanium target
+[4].
+
+The most significant results are received by us at registration NRCM on a
+tritium generation. The initial level tritium in deuterium, measured on beta
+activity, is exceeded on four-five orders, and the tritium generation rate
+reached 109 Atom/s four glow discharge and 1015 Atom/s for a device on the
+basis Z-pinch. Thus the coefficient of nuclear interaction has about 10-10
+Atom/ion.
+
+Measurements of tritium in a gas confirmed by duplication of measurements
+on flowing beta-recorder from a surface sample, at simultaneous registration of
+a spectrum energy, radiography of a surface at the x-ray films as well as
+control of the tritium contents in the material sample.
+
+It is fixed tritium transmutation in zirconium on high-energy betaactivity
+of radiated samples, with zirconium-to-tritium flux ratio at the level
+10-7 – 10-6. The main experimental results, which permit to declare formation of
+a new direction of nuclear researchers, can be grouped in the following order:
+
+1. The rate NRCM in the energy range of ions 10 - 10,000 eV, determined
+on the tritium generation rate, exceeded of the calculation for thermonuclear
+channel on a some orders.
+
+ed 10-9 - 10-7, which while it is impossible to consider final of in
+comparison, small flows of neutrons [4]. These results will be well agreed
+other researchers, for example, with [8]. Usually, at high-energy interaction,
+this ratio is close unit.
+
+aterial and concentration of a hydrogen in the material. According to
+experimental results, the rate NRCM was increased with increasing concentration
+of the hydrogen and increasing nuclear number of the target material and
+maximum results, up to the present time, are received on zirconium, niobium and
+tungsten [2, 4]. However, for heavy materials, located higher in the middle
+Mendeleev table, unequivocal results to receive has not managed. While it is
+not known, whether it is connected with insufficient optimization regimes of
+ion bombardment or with new law.
+
+Dependence of efficiency NRCM from energy of ions is present by self
+threshold dependence (about 100 eV) and is weak varying at energy higher
+threshold.
+
+Four processes NRCM the dependence of a tritium generation efficiency
+from current density is close to linear [1]. It give a opportunity to select
+parameters of ion bombardment for maintenance of necessary speed of nuclear
+reactions.
+
+The dependence of efficiency t.ri tium ge.neration from pressLu-e of the
+plasma-forming gas has maximum in the range 1f􀡰􀡱􀡲t1 Pa and has no analogues
+in usuaJ. processe:=; [ 􀡳, J .
+
+TI1e subm.i tted cler::,endences are received i.n a plenty of experirrents, the ge-neral
+number c,f which exceeds thousand, that m..-=tlms resuJ. t:=:: stat.ist.ically determined
+and conclus.ion--safety.
+
+
+4. Discussion
+

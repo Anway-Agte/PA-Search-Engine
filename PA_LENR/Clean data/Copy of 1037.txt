@@ -1,0 +1,262 @@
+INTRODUCTION
+
+The search for neutron emission due to the interaction between deuterium gas
+and titanium in non-equilibrium thermodynamic conditions was first proposed by the
+Frascati Group of ENEA, and preliminary results, obtained in April 1989, were
+published 0). The same results, enriched with new data, were presented at the Santa
+Fe Workshop on Cold Fusion Phenomena in May (2) and at the Workshop Understanding
+Cold Fusion Phenomena, held in Varenna in September 1989 (3). These data, as well as
+all the others in the field, were characterized by lack of reproducibility.
+
+The first results were obtained by having titanium chips (produced with a lathe)
+to interact with deuterium gas at pressures up to 60 bars. The system was then cycled
+between liquid nitrogen temperature (77 K) and room temperature. The neutrons were
+detected, during warm-up, by a single BF3 moderated neutron detector, having a very
+low efficiency (in the order of 10-4). The time structure of the neutron emission
+appeared to be in "bursts", by burst meaning the emission of many neutrons in a time
+comparable with the die-away time of the neutrons in the detector-moderator system
+(typically a few tens of microseconds). We will refer to these first measurements as
+to the first generation measurements.
+
+At the Santa Fe Meeting similar results were presented by a Los Alamos Group,
+led by H. Menlove (4), with two main improvements in the detection system. A much
+higher efficiency was obtained (up to 45%) by using many 3He tubes in a cylindrical
+geometry, and a peculiar technique was used to analyse the time structure of the
+neutron emission. The latter can be shortly summarized (in a simplified way) as
+follows: when a neutron is detected by the system, it is added in a register called
+totals; at the same time, a time window (typically 128 µs) is opened, and the neutrons
+detected in this window are summed up in a register called reals. The reals detected
+give information about the neutrons emitted all together in a short time interval, i.e.,
+the bursts. It can be easily shown that there is a simple relation between the number
+of reals, R, and the corresponding number of neutrons detected in the burst, n: 
+
+R = kn(n-1 )/2 
+
+where k is an instrumental parameter of order 1. 
+
+In the Autumn of 1989, in the light of the many contradictory results presented 
+at the Santa Fe Meeting, we faced the dilemma of whether to try ta measure the 
+energy of the neutrons, or to concentrate our efforts on the study of the time 
+structure of the neutron emission, and possibly of the correlation between the neutron 
+emission and the thermodynamic parameters of the system. The first route would 
+have made impractical to study these two features. We decided to follow the second 
+route, adopting the improvements to the instrumentation suggested by the Los 
+Alamos Group. We ordered an ad hoc detector from Jomar (5), and in the meanwhile
+we were able to borrow a standard Jomar detector (normally used for nuclear 
+safeguard activities), with 15 active 3He tubes and an efficiency of about 15%. With
+this instrument we performed a series of experiments, still in the Frascati Laboratory 
+(FL), in the period November 1989-February 1990. In addition, in collaboration with 
+the Ispra Center of Euratom, we started to look for tritium in titanium samples that 
+had been treated with deuterium. The positive and encouraging results obtained in 
+both types of measurements (neutron and tritium) were presented at the First Annual
+Conference on Cold Fusion (b) in March 1990. We will refer to these measurements as to
+the second generation experiments. 
+
+In the Autumn 1990 we received our new detector. Furthermore we had become 
+aware of the importance of reducing the neutron background in our measurements. 
+Thus we had asked, and obtained, the hospitality of the INFN (Istituto Nazionale di 
+Fisica Nucleare) in its underground laboratory under the Gran Sasso massif near 
+L'Aquila [Laboratorio Nazionale del Gran Sasso (LNGS)]. After the first calibrations 
+at Frascati, we moved at LNGS in Autumn, and started our measurements towards 
+the end of the year. Preliminary data about the system and its calibration, and about 
+the neutron background at LNGS, were presented at the Workshop on Anomalous Nuclear 
+Effects in Deuterium-Solid Systems (7), held in Provo, Utah, USA in October 1990. Here
+we are presenting the results of the first months of measurements performed with the 
+new detector at LNGS, up to June 1991. We will refer to them as to the third 
+generation experiments. We want to point out that the difficulties connected with the 
+logistics of the experiment (LNGS is about 150 km from FL) had as a consequence a 
+limited number of runs, meaning by runs the thermal cycles of deuterium gas­
+titanium samples. Furthermore the first three to four months were dedicated to the 
+search for a reproducible pretreatment of the samples, trying also procedures 
+suggested (at the Provo Meeting) by other groups, in particular by the Los Alamos 
+Group (M. Paciotti) (8) and a Beijing group (Prof. Zhu) (9). All the data referring to
+these measurements will be reported here. We continued also the search for tritium in 
+titanium-deuterium samples, with some positive results. 
+
+
+THE NEUTRON MEASUREMENTS 
+
+We refer to the communication presented at the Provo. Meeting (7) for the
+details on the detector and its calibration, both at FL and at LNGS. Here we want 
+only to remember that the detector is composed of an inner ring (IR) with 20 3He
+tubes (efficiency 27%) and an outer ring (OR) with 8 3He tubes, all the tubes being
+immersed in high density polyethylene; a veto counter (VC), permits to discard signals 
+due to noise in the electric feed line. Another feature that we want to remember is 
+the background of reals, which was about one per hour at FL, with values of R 
+centred about 6; at LNGS, it was of one real, with R = 1, per week. 
+
+Table 1 shows the list of tests on 18 samples, starting November 1990 and 
+ending June 1991. After trying the Zhu's and the Paciotti's methods for pretreating 
+the samples, without positive results, a method devised by us was chosen and used 
+starting February 1991. We used the titanium alloy called 662 (6% vanadium, 6% 
+aluminium, 2% tin), worked at the lathe in long threads 50 µm thick and 1 mm large. 
+During the lathe cutting a flow of pure 4He gas was sent onto the contact point
+between the tool and the metal, in order to favour the cooling down of the thread 
+with as low as possible oxidation. The sample ( == 120 g) was then put into the 
+experimental cell, and heated under vacuum up to about 100 'C for a couple of hours, 
+and then let under vacuum while cooling down. Next day the cell was brought to 
+LNGS. Here it was charged with Dz gas up to 20 bars, and then closed. The cell was 
+then heated in an oven, while controlling pressure and temperature, until Dz gas was 
+
+Table 1 Data on the tests performed on 18 samples,starting November 1990 till June 1991 
+
+absorbed, with a controlled rate of absorption, up to an average stoichiometric 
+composition of the order of a few percent D atoms per Ti atom. Figure I shows the 
+behaviour of a parameter indicating the absorption of deuterium as a function of time 
+during this phase for samples C 10, C 12, C20 and Cl I, which were the only four for 
+which the D2-charging procedure was rather comparable. The parameter is the ratio
+between temperature (absolute) and pressure (in bars), normalized to the starting 
+point. The steep part of the curves represents the absorption phase. When the desired 
+
+Fig. 1 The ratio between temperature (in K) and pressure (in bars), normalized to the starting 
+point (room temperature, 20 bars), in the cell, as a function of time, during the D absorption 
+procedure. D2 is absorbed during the steep part of the curves; then the sample is takJn out of the 
+oven, and the ratio decreases. Only samples C10, C12, C20 and C21, for which the absorbing 
+procedure was similar, are considered.
+
+amount of Dz had been absorbed, the cell was taken out of the oven, and the 
+parameter started to decrease. The maximum temperatures reached were between 
+180 and 300 °C. At this point the sample was let to cool down to room temperature; 
+then more Dz gas was added, bringing up the pressure typically to 30 bars, and the 
+cell, closed, was immersed in liquid nitrogen, bringing it in a few minutes at 77 K. 
+The last step was to put the cell immersed in a dewar full of liquid nitrogen in the 
+sample well of the detector, leaving it alone for the next days, while the nitrogen 
+evaporated and the sample's temperature increased; the neutron emission and the 
+temperature were recorded. In order to reduce the dead time due to the transmission 
+of data from the Jomar system to the memory of the computer, we decided to use a 
+quite long measurement time interval, 1000 s. On Table 1 it is indicated that in three 
+out of these four runs, and precisely for the samples ClO, Cl 2 and C21, a big burst 
+was seen on the IR: the values of R are respectively 994, 2032 and 1134. The 
+corresponding values of the totals were coherent with the equation quoted before; for 
+
+
+Fig. 2 The time evolution of the neutron countings (upper curve) and of the cell temperature 
+(in °(), during warm up. The counts reported are the totals recorded in each 1000 s time interval, 
+for the samples quoted in Fig.1. For samples C10, C12 and C21 a burst could be detected, both on 
+the totals and on the reals: the value of R is reported. 
+
+sample Cl2 the value of 2032 could be better explained with two bursts of R :::: 1000 
+taking place in the same time interval. The veto counter showed no anomalies in 
+these measurement intervals, confirming thus that the bursts could not be attributed 
+to electric disturbance in the electric feed line. The only incoherent feature is the 
+absence of corresponding reals in the OR; taking for good the calibration performed 
+with the 252cf source (see (7)), one should have expected a value of R in the order of
+10, but the value measured in correspondence with the IR bursts was always zero. In 
+Fig. 2 the time evolution of the neutron emission (totals) and of the temperature of 
+the sample is shown. The values of the reals for the three bursts are written close to 
+the totals' bursts. The two changes in slope of the temperature curves presumably 
+represent the instant in which the cell is no more in contact with liquid nitrogen, and 
+then the moment in which all liquid nitrogen is evaporated. 
+
+Concluding, we have presented an experiment performed in particularly clean 
+conditions, both for the good quality of the detector and for the particularly low level 
+of the neutron background (note that in the LNGS the ambient conditions are 
+outstanding: temperature is constant at about 20 °C and humidity is quite low, less 
+than 40%). We have found three events (bursts) in four runs which were characterized 
+by quite similar procedures in preparing the sample. The bursts corresponded to about 
+200 source neutrons, but the absence of countings on the OR sets a doubt on this 
+evidence. In order to explain it, one should imagine that the neutrons detected are of 
+energy much lower than the 2.5 MeV expected from a D-D fusion reaction: in this 
+case the calibration with 252cf would be no more valid. On the other side it is
+striking that the three bursts are characterized by very similar experimental 
+features, such as: 
+
+- similar pretreatment of the sample
+
+- similar temperature range of the event (-160 to -120 °C, while warming up)
+
+- coherent relation between totals and reals
+
+- negative signature of the VC, excluding electric noise.
+
+Experiments on this line will continue, trying to optimize the pretreatment of 
+the sample, and to increase the frequency of the runs. 
+
+Another improvement will consist in adding, in parallel to the Jomar shift-register, 
+another system for collecting the countings, which will record each of them with its 
+date, i.e., the indication of the absolute time of arrival of the detected neutron, with 
+the accuracy of 0.5 µs (10). The comparison between the two registrations will permit 
+a more thorough comprehension of the events (reals). 
+
+
+SEARCH FOR TRITIUM 
+
+The technique used to look for tritium absorbed in the titanium samples has 
+been described elsewhere (11). Here we will recall the main features. The titanium
+sample, on which deuterium, and presumably tritium, is absorbed, is put in an oven at 
+1000 °C under a flow of 4He gas, so that all the hydrogen isotopes are desorbed. The
+flowing gas passes through a CuO catalyst at 400 °C, where the hydrogen isotopes are 
+transformed in water vapours. Then it passes through two water scrubbers (containers 
+with distilled water), set in series and kept at the temperature of 4 °C, where the 
+vapours are condensed and mixed up with the water of the scrubbers. Part of the 
+content of the scrubbers is then examined with a scintillation spectrometer, and the 
+presence of tritium is detected. 
+
+Part of the samples of the third generation of experiments have been partially 
+examined (not all the � 120 g of titanium used for the neutron experiments have been 
+subjected to the procedure described above). The amount of tritium contained 
+
+Table 2 The amount of tritium found in titanium samples Cl­
+C 13, expressed in Bq/g (becquerel per gram of 
+deuterium desorbed from the sample). The amount of 
+tritium contained in the original deuterium gas (9.3 
+Bq/g) has been subtracted. Only part of each sample 
+has been subjected to this measurement. The error in 
+the measurement is 0.5 Bq/g. 
+
+originally in the Dz gas was accurately measured, and, for the two bottles used in the 
+measurements quoted, it was "" 9 Bq/g of deuterium. The results of the third 
+generation measurements are reported in Table 2 (the value of the tritium contained 
+originally in the gas has been subtracted). The values are not high, but the accuracy 
+of the measurements is quite good; thus they can be considered meaningful. 
+
+
+OTHER EXPERIMENTS 
+
+The experiments described here, from the first to the third generation, show 
+clearly the difficulty of defining accurately the parameters that characterize the 
+material used and its treatment, including Dz absorption. The need for a better 
+characterized system is strongly felt. Thus, while still continuing the measurements 
+described here, we decided to start a new line, inspired by the work of Zelensky, 
+Rybalko et al. (12), i.e., the study of titanium thin layers on which deuterium has been 
+implanted at low temperature (typically 77 °K), thus creating locally a very high 
+concentration of deuterium, then heating up the sample, in order to create non­
+equilibrium conditions, while looking for the emission of neutrons and charged 
+particles. We hope to perform this experiment at LNGS, where the very low neutron 
+background _ should permit quite favourable experimental conditions for neutron 
+detection. The main aim of such an experiment is to be able to obtain an 
+experimental procedure with a much better reproducibility. Preliminary tests for this 
+kind of experiment have been started. 
+
+
+REFERENCES 
+
+A. De Ninno, A. Frattolillo, G. Lollobattista, L. Martinis, M. Martone, L.
+Mori, S. Podda, F. Scaramuzzi, Europhysicsletters, 9,221 (1989)
+Workshop on Cold Fusion Phenomena, Santa Fe, NM, USA, May 23-25, 1989
+A. De Ninno, A. Frattolillo, F. Scaramuzzi, Proceedings of the Workshop
+"Understanding Cold Fusion Phenomena", Varenna, Como, Italy, September 15-
+16, 1989; edited by R. Ricci, F. De Marco and E. Sindoni, The Italian
+Physical Society (SIF), p. 41 (1990)
+H. Menlove et al., Workshop on Cold Fusion Phenomena, Santa Fe, NM, USA,
+May 23-25, 1989, and Proceedings of the First Annual Conference on Cold Fusion,
+Salt Lake City, March 28-31, 1990, edited by the National Cold Fusion
+Institute, p. 250 ( 1990)
+Jomar Systems, 110 Eastgate Drive, Los Alamos, NM. 87544, USA
+F. D'Amato, A. De Ninno, F. Lanza, C. Pontorieri, F. Scaramuzzi, P.
+Zeppa, Proceedings of the First Annual Conference on Cold Fusion, Salt Lake City,
+March 28-31, 1990, edited by the National Cold Fusion Institute, p. 170
+A. De Ninno, C. Pontorieri, F. Scaramuzzi, P. Zeppa, Proceedings of the
+Conference on Anomalous Nuclear Effects in Deuterium/Solid Systems, Provo, UT,
+USA, October 1990, edited by AIP, pag. 122 (1991)
+M. Paciotti, presented at · the Conference on Anomalous Nuclear Effects in
+Deuterium/Solid Systems, Provo, UT, USA, October 1990, unpublished
+Zhu Rongbao et al., presented at the Conference on Anomalous Nuclear Effects
+in Deuterium/Solid Systems, Provo, UT, USA, October 1990, unpublished
+F .V. Frazzoli, R. Renetti, P. Zeppa, private communication
+F. Lanza, C. Ronsecco, Technical Note 1.90.08, Joint Research Centre,
+Ispra site, Italy
+V.F. Zelensky, V.F. Rybalko, A.N. Morozov, G.D. Tolstolutskaya, V.G.
+Kulish, S.V. Pistyak, L.S. Martinov, Report of the Physical-Technical
+Institute of the Ukrainian SSR Academy of Sciences, Kharkov, preprint
+KhFTI 89-61 (1989)

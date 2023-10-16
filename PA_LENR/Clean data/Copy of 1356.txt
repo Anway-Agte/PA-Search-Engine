@@ -1,0 +1,215 @@
+1. Introduction
+
+This study has the aim of analyzing the possible influence, which variations in temperature and energy could have on
+the phenomenon of deuterium fusion because of microdeformations or microcracks produced in the lattice. These could
+in fact be able to concentrate in their vicinity a significant fraction of the deuterons present in the metal. In particular,
+the author has suggested [1] that deuteron–plasmon coupling could increase the rate of fusion by acting as an effective
+interaction attractive to deuterium nuclei, reducing the distance at which Coulomb repulsion becomes dominant. With
+this in mind, a study was made of crystalline lattices with certain structural characteristics: in particular, the analysis
+focused on lattices with ten or more electrons in the “d” band. The present work will concentrate on palladium because,
+when subjected to thermodynamic stress, this metal has been seen to give results which are interesting from both the
+theoretical and experimental points of view.
+
+Further, it is hypothesized that the phenomenon of fusion is not only conditioned by structural characteristics and
+the thermodynamic conditions of the system, but also by the concentration of impurities present in the metal, correlated
+with the deuterium loading within the lattice itself.
+
+The analysis will attempt to determine whether, in the case of the three-dimensional isotrope, D2 loading can lead to
+the formation of microcracks in an analogous manner to that suggested for temperature variation in [1]. This would
+constitute an ulterior verification of the hypotheses proposed.
+
+
+2. Three-dimensional Model
+
+The aim is to determine whether, and within what limits, deuterium loading can condition the rate of fusion within a
+generic cubic lattice, trying to isolate the D2 contribution from any other possible effects caused by lattice defects, or by
+other characteristics or thermodynamic conditions, or even by any “microdeformations” of the crystalline lattice caused
+by temperature variations. This type of phenomenon can be considered as a perturbation “external” to the system [2]
+and should be distinguished from “internal” perturbations.
+
+In the case of external perturbations, the interaction between the impurities present and the dislocations [4] produced
+in the metal during microdeformation can distinctly modify the electrical properties of the material. Because of the
+different arrangement of the atoms with respect to the unperturbed lattice, some particular reactions can then occur so
+that the impurities become incorporated in the nucleus of the dislocations.
+
+The results presented here were obtained using a numerical simulation to determine the trend of the barrier penetration
+factor, K, as a function of the temperature and the concentration of impurities present in the metal under examination.
+
+In a three-dimensional model, the probability of fusion between not-free deuterium nuclei within the crystalline
+lattice is equal to the probability of penetrating a Coulomb potential barrier V (r), given by
+
+|P| 2 int = exp 2 α 0 K (r)int dr , (1)
+
+where α is 0.11 Å and K(r)int is given by
+
+K (r)int =  2µ[E − V (r)] /h¯ 2 (2) 
+
+E is the initial total energy (in eV), principally thermal in nature; µ is reduced mass of the deuteron and h¯ is the Plank’s 
+constant. 
+
+The interaction potential can then be further extended to the three-dimensional isotrope case. 
+
+The potential V (r)int will then be expressed in the following way: 
+
+V (r)int = k q2 r  V (r)M − J ξkT R r  , (3)
+
+where k = 1/4πε0, q is the deuteron charge, R the nuclear radius, ξ a parameter which depends on the structural
+characteristics of the lattice (number of “d” band electrons and type of lattice symmetry), varying between 0.015 and
+0.025, T the absolute temperature of the metal under experimental conditions and J is the percentage of impurities in
+the crystalline lattice.
+
+In this case the Morse potential will be:
+
+V (r)M = (J/ς) exp (−2ϕ (r − r0)) − 2 exp (−ϕ (r − r0)). (4)
+
+In this equation, the parameters ς and ϕ depend on the dynamic conditions of the system, while r0 is the classic point
+of inversion.
+
+Equations (1) and (2) refer to the process of “not free” fusion, i.e. fusion within the crystalline lattice.
+
+The “catalyzing” effect of the lattice has been studied from the theoretical point of view: in particular, it was shown
+[1] that, considering the interaction between deuterium nuclei and collective plasmonic excitation in the metal, fusion
+rate λf in a gas consisting of λ deuterons with densityρ is given by
+
+λf = λ 4πρh¯ µd 1/p, (5)
+
+where µd is the mass of the deuterium nuclei, p is their impulse, and where the parentheses  represent the thermal
+mean.
+
+The aim of this work is to demonstrate the possibility of a further effect enhancing the probability of fusion,
+principally due to the presence of impurities in the metal.
+
+The effect of vibrational energy, which is typically of the order of some eV for the quantum states under consideration,
+will be ignored here.
+
+Electronic screening, a result of the metallic lattice, represents an important effect on the fusion reaction. Already
+studied by Rabinowitz et al. [3], this effect can be taken into account using a model in which the negative charge is
+distributed over a thin shell of radius R.
+
+Because of the interaction potential within the metal, the “shifted” Coulomb potential can be written as:
+
+V = kq2 [(1/r) − (1/R)] , r1 ≤ r ≤ R, (6)
+
+where q is the charge of the deuteron, r1 is the nuclear radius and k = 1/4πε0.
+
+This gives V = 0 per r>R.
+
+Figure 1. Semi-classic tunneling appears increased for those metals that have a concentration of impurity J ≈ 0.75%. The Morse potential was
+calculated at T = 290 K. The Coulomb barrier seems very high in the case of pure metals with J ≈ 0.25%. The “shell” potential was calculated at
+T = 290 K.
+
+The solution for the semi-classic tunneling factor 	 is [3]: 
+
+A = D exp {−2γ (r1)}, (7) 
+γ (r1) = (π/2h¯)  (2q2/4πε0)µr2  1/2. (8)
+
+In Eq. (7), D is a numerical constant of the order of unity, µ the effective reduced mass of the deuteron, r2 the classical
+turning point of d–d Coulomb collision process and h¯ is the Plank’s constant. To take into account the effect of the
+impurities present, the product Jη is substituted for D in Eq. (7), where J represents the concentration of impurities
+and η is a numerical constant.
+
+It is now possible to consider a cubic lattice structure subjected to microdeformations and calculate the probability
+of fusion within a microcrack, , on varying the temperature.
+
+Indicating the volume of a single cell by d, the deformation of the entire lattice is given by
+
+DL = ω J ρl2νb2 α2hR exp − U0 kT dω, (9)
+
+where ρ is the density of the mobile dislocation within the lattice at a non-constant lattice temperature, l
+2 the area between
+the lines of separation between two adjacent dislocations, caused by a curving of the lattice [4], R is a coefficient whose
+value depends on the stress within the lattice, α is proportional to the thermal increment and represents the effect of the
+sudden variations in temperature to which the lattice is subjected and which lead to the formation of microcracks, ν2
+is the vibration frequency of the deuterons in the metal, considered constant here, b2 the stress line which dampens the
+transformation of the crystalline lattice and U0 = 2Uj − Dbd (σ − σi)ε0 is the activation energy.
+
+In this last expression, σ − σi is the stress applied to the small dislocations to a good approximation σi  µb/2π
+and  has the dimensions of a wavelength, while µ is an elastic constant which depends on the characteristics of the
+lattice. ε0 = εβ − β tm where β depends on the temperature and m is a variable which depends on the lattice (in this
+case it is equal to 1/3). 2Uj  kTc ln (X/ε)˙ is obtained from the comparison of two curves with deformation velocity
+
+Table 1. For “impure” Pd J ≈ 0.75%, using the Morse potential, the probability of fusion
+within a microcrack in the presence of D2 loading, normalized to the number of events per minute,
+was calculated for different values of temperature (varying from 100 to 300 K) and energy (vary
+ing from 150 to 250 eV). It should be noted that the probability generally increases with T and
+E, and is systematically several orders greater than the probability of surface fusion P (Palladium
+J ≈ 0.75%, T(range) ≈ 100–300 K, α ≈ 0.34 Å, λ = 10−3 eV/min, MPd/µg)
+
+ε˙, Tc is the “critical temperature” for the formation of the microcracks and X  105 in the CGS system. d indicates the
+distance between dislocations which have not undergone internal splitting, b can be associated with the inter-atomic
+distance and D depends on the time of movement of the dislocations. The aim here is to determine the probability of
+fusion within a deuterium loaded metal.
+
+Further, the same problem will be treated from the aspect of the concentration of impurities contained in the metal.
+
+If Eq. (1) is divided by Eq. (5) and multiplied by Eq. (9), it follows that
+
+≈ exp −2 α 0 K(r)intdr λ4πρh¯ µd 1/p DL. (10)
+
+Equation (10) represents the probability of deuteron fusion within a microcrack: it is inversely proportional to the
+number of nuclei absorbed by the metal.
+
+Using Eq. (10) and adopting the Morse potential to calculate K(r)int, the probability of fusion, normalized to the
+number of events per minute, was obtained by means of a numerical simulation program which utilizes the “WKB”
+method. The results are reported in Table 1. Within the metal, the probability of fusion given by Eq. (1) was evaluated
+numerically, making use of Eqs. (3) and (4) and taking the center of mass system as the reference system [1]. In the
+particular case of impure palladium with:
+
+α  0.15 Å, E ≈ 237.2 eV, J = 0.75%, T = 250.2 K.
+
+The result is pd ≈ 10−41, Pint ≈ 10−46.
+
+For this result, and also for those obtained using the WKB method incorporated in numerical simulation programs,
+a range of temperatures between 100 and 300 K were considered.
+
+The potential, Eq. (3), for Pd pure to 0.25%, was substituted by the “shell” potential, as follows:
+
+V = kq2  (1/r) − KT JεR , r1 ≤ r ≤ R, (11)
+
+Table 2. For “pure” Pd (J ≈ 0.25%), adopting the “shell” potential, the probability of fusion within a
+microcrack, normalized to the number of events per minute, was calculated under the same dynamic conditions
+ as in Table 1. Also here is systematically several orders of magnitude greater than the probability of
+fusion on the surface P, but the values are systematically lower than those of the previous case (Palladium
+J ≈ 0.25%, T(range) ≈ 100–300 K, α ≈ 0.34 Å, λ = 10−3 eV/min, MPd/µg)
+
+dove KT is the mean kinetic energy of the gas, ε is the vibrational energy (typically of the order of some eV for the
+quantum states considered) and q is the deuteron charge. Under these particular dynamic conditions, the probability
+of fusion normalized to a number of events per minute was obtained for palladium. The probability of fusion within
+“pure” palladium, under the same dynamic conditions as the previous example, is then given by:
+
+α  0.15 Å, E ≈ 237.2 eV, J = 0.25%, T = 250.2 K.
+
+The result is Pd ≈ 10−45, Pint ≈ 10−48.
+
+Other values of T , , and P are reported in Tables 1 and 2.
+
+
+3. Conclusions
+
+The present work has shown that microcracks and deuterium loading in the lattice at room temperature have a significant
+influence on the probability of fusion.
+
+In fact, calculating the probability of interaction within a microcrack, an increase of at least 2–3 orders of magnitude
+are found compared to the probability of fusion on the surface. Further, with the theoretical analysis developed it is
+possible to obtain relatively high values for the probability of fusion for D2 loaded impure metals at room temperature.
+
+On the other hand, results very close to the experimental data have already been obtained without imposing the D2
+loading (e.g. for J ≈ 0.75%, E ≈ 250 eV, T = 300 K,  = 10−21, and P ≈ 10−25) [5]. Judging by the comparison
+between the two theoretical calculations, it would seem that the experimental procedure reduces the rate of fusion
+rather than enhances it. To verify the influence of the concentration of impurities on the process from another point
+of view, the trend of the potential within the pure lattice (J ≈ 0.25) was evaluated and a very high curve obtained.
+Therefore, crossing the barrier would require a total energy greater than the potential, as shown in Fig. 1 for palladium.
+If the potential barrier is evaluated for the same metal with a higher level of impurity (J ≈ 0.75%), under the same
+thermodynamic conditions of the system, it is seen that the probability of fusion may be greater than that observed for
+pure metals, with a total energy lower than the potential so that the tunneling effect is amplified.
+
+
+References
+
+[1] F. Frisone, Can variations in temperature influence deuteron interaction within crystalline lattices? Il Nuovo Cimento D 20 (10)
+(1998) 1567–1580.
+[2] G. Chambers, Evidence for MeV particle emission from Ti charged with low-energy deuterium ions, NRL Memorandum Report
+6927, 18 Dec. 1991, Naval Research Laboratory, Washington, D.C. 20375–5321.
+[3] C.J. Horowitz, Cold fusion in metallic hydrogen and normal metals, Phys. Rev. C 40 (4) (1989) 1555–1558.
+[4] J. Price Hirt and J. Lothe, Theory of dislocation, Z. Phys. (1960) 116–129.
+[5] F. Frisone, Deuteron interaction within a microcrack in a lattice at room temperature, Fusion Technol. 39 (2001) 260–265.

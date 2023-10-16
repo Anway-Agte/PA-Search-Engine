@@ -1,0 +1,399 @@
+INTRODUCTION
+
+High hydrogen gas fugacities or gas pressures at the cathode surfaces during aqueous
+electrolysis is not new to electrochemists or metallurgists, but the idea of Pons and
+Fleischmann [1] that such electro-chemically imposed pressures can be utilised to create
+conditions for fusion in the metal lattice was revolutionary. This appealing concept and
+the apparent simplicity of the experiment, resulted in the feverish international activity to
+replicate and as well as to provide explanations for their observations. Despite many
+negative claims, a significant number of laboratories report excess heat either at low
+continuous level or large short duration heat bursts [1-11], tritium at levels as high as 106
+times the background [2,6,7,12,13], neutron bursts at levels of 10-8 times tritium level
+[6,7,12] and 3 MeV proton emissions [14] in electrolytic cells. These provide signals that
+nuclear processes may be occurring in these deuterated metals as suggested by Pons and
+Fleischmann. However there has been no consistent pattern in observations and the
+reproducibilty of experiments have been very poor. These may be attributed to the large
+number of metallurgical and electrochemical variables involved in these experiments as
+listed in Table 1.
+
+Excited by the prospects of cold fusion and the key role metallurgists may play in this
+technology, an experimental program was initiated to determine metallurgical changes,
+structural integrity of the electrodes and possible alternate metals and alloys. After
+several weeks of charging 4 mm diameter Pd cathodes with deuterium by electrolysis in
+0.1 M LiOD solution at high overvoltages, modest to large heat releases were observed.
+
+The deuterated electrodes have been examined for changes in metallurgical structure and
+surface chemistry. The extent of loading under typical electrolysis conditions has been
+determined using dilatometry and gravimetric techniques. Metallurgical factors
+influencing D/Pd loading, problems involved in measuring D/Pd ratio by various
+techniques are discussed. Current efforts are aimed at monitoring in-situ changes in the
+Pd electrode characteristics, electrochemical conditions, preparation of Pd electrodes with
+controlled impurities and additives to enable a better understanding of processes occuring
+in these cells.
+
+
+CELL CONFIGURATION AND OPERATION
+
+Different designs of large cells used in our study are shown in figures 1 a, b & c. Large
+4 mm diameter × 10 cm long Pd rod cathodes and Pt windings or mesh or sheet supported
+by a glass rod cage anodes are used in these cells. Continuous heavy water addition to the
+cell is done using syringe pumps. The first cell design (Figure 1a) had one thermocouple
+to measure the cell temperature. To have redundancy in temperature measurement, three
+temperature sensors, one at the top, one at the middle and one at the bottom section of the
+cells, were used in the latter designs. Internal / external recombination of deuterium and
+oxygen from the electrolysis was done in most of our cells. The cells were operated
+mostly in a constant current mode. The cell operation is automated both in D2O addition
+and data recording. Temperature, voltage, current and other signals are sampled every 10
+seconds and recorded every 1 minute. When sudden changes in cell operating conditions
+were sensed, recording then occurs every 10 seconds. The temperatures inside the cell
+and the temperature of the bath in conjunction with calibration curves are used to
+measure the power output level. Bath temperature is maintained within 0.01°C. Thermal
+calibration is done by performing electrolysis at different power levels as well as by using
+an internal heater. Laser Doppler measurement of bubble velocities in the cell (Figure 1d)
+showed excellent stirring by the evolved gas bubbles resulting in very uniform
+temperature distribution, within 1°C over most regions of the cell. Flow patterns in the
+cell were studied by measuring velocities of the gas bubbles using a Laser. Lithium
+concentration, electrolyte conductivity and pH are monitored periodically. Li
+concentration is measured using DCP analysis. The cathode metals tested were
+palladium, titanium and zirconium. However most of the attention was focused on
+palladium. Platinum and nickel wire, gauze and sheets have been used as anodes. The
+experimental variables tested included the form of the platinum anode, anode to cathode
+surface area, anode to cathode distance, separation of deuterium and oxygen using a
+Nafion membrane that allows deuterium ion to pass through but not the anion, preloading
+of deuterium under high pressure deuterium gas, and variation in the heat and surface
+treatment of the palladium cathode.
+
+
+TEMPERATURE EXCURSIONS SHOWING EXCESS POWER GENERATION
+
+During the first week of May, 1989, frequent explosive popping of the cells (Figure 2a)
+were observed, some with minimal damage and some with the destruction of the
+assembly. The temperature excursions were associated with some of these events which
+were initially dismissed as being due to deuterium and oxygen recombination. Again in
+the third week of May, a large temperature excursion of about 12°C was observed, the
+cell temperature rise lasting about 90 minutes (Figure 2a). The temperature-time profiles
+showed a similar pattern to an earlier temperature excursion (Figure 2b). This particular
+cell was operating at constant current mode at current setting of 0.95 amperes during the
+heat excursion shown in Figure 2a. The voltage was recorded continuously while the
+current was manually recorded. The temperature excursion was interrupted by the make
+up D2O addition. During the burst shown in Figure 2b, the cell was being operated in a
+constant voltage mode and the voltage and current readings were manually recorded.
+Explosive popping of the cell interrupted the large heat burst and dislodged the
+electrodes. The cell was put back together immediately and the cell temperature remained
+at a level well above the normal values corresponding to the gross power input to the cell
+(about 9.6 Watts). Thermal calibration curves showed that excess heat generated during
+these two events were about 240,000 Joules during the 91 minute burst and around 1 MJ
+during the 40 minute burst followed by a 30 hour excess heat generation at a lower level.
+During the bursts the power outputs were as high as 6-7 times the input power which was
+less than 10 Watts. This level of energy output could not be explained by burning of all
+the deuterium stored in the Pd cathode, the heat of solution of deuterium in palladium, or
+the heat of formation of PdDx. We also checked the possibility of storing energy in the
+solution in the form of peroxide. Analysis of electrolyte samples from all the operating
+cells showed peroxide concentration was less than 10-4 moles/cm3 as expected from the
+instability of peroxide under high cathodic overvoltage conditions. The tritium level in
+the electrolyte after degassing of the electrode that showed the 90 minute heat burst and
+the starting solutions were checked by 3 different laboratories. The level of tritium was
+found to have increased by a factor of 3-4 which is more than can be accounted for by
+separation during electrolysis. The electrode (JM 2) involved in the above two large heat
+bursts was the same and had been obtained from Johnson Matthey and had a purity of
+99.95%. The heat treatment involved annealing at 600°C in ultra high purity argon
+atmosphere. Figures 2c and 2d show two consecutive bursts in a same cell using a high
+purity Pd rod, (Electrode #5), from Metalor, USA. In all the above heat excursions cell
+design shown in figure 1a had been used. A single thermocouple was used to monitor the
+cell temperatures.
+
+Figure 2e shows operating cell data for Cell 9 (Figure 1b). Each point corresponds to
+an average temperature and power input data for a period during which the cell was
+operated at a given current level. During a period when the cell was operated at a current
+level of 2.0 Amperes, the temperature of the cell was about 1.8°C (about 7.6 excess
+Watts) above the expected value suggesting excess power production during this period.
+No excess tritium was seen in this cell. On 11 different occasions, we have seen events
+which seem to have generated excess heat.
+
+Our earlier cells were designed to use large cathodes to provide enough material for
+subsequent metallurgical characterisation and therefore limited to detect only large excess
+heats. But these cells had rapid thermal response times of about 90 seconds. Our recent
+cell design with an external acrylic jacket (Figure 1c) has a cell constant of about
+0.5 W/°C and a nearly linear response. Excess power of the order of 200-300 mW can be
+detected in these new cells. The relaxation time is less than 10 minutes and the size of the
+electrode / maximum power input to the cells is lower.
+
+
+METALLURGICAL EXAMINATION OF ELECTRODES THAT SHOWED HEAT BURSTS 
+
+BULK ANALYSIS:
+A single palladium electrode has shown heat bursts illustrated in Figures 2a and 2b.
+This electrode was degassed and the electrolyte was sent for tritium analysis. The
+electrode was cleaned with distilled water and dried. Resistance measurement by four
+probe technique showed a two fold increase in resistivity. The electrode was then
+examined by positron annihilation technique.
+
+The Doppler line broadening of the electron-positron annihilation peak at 512 keV
+showed a 6% change in the Peak/Width ratio which is rather large indicative of a large
+increase in defect density. The surface hardness along the length was first measured using
+a Vickers indentor at 1 kg load. Soft and hard spots at adjacent locations were observed.
+This is likely to be due to subsurface cracks and to hardness measurements on a curved
+surface. Smaller lengths of the electrode were cut from the lower half of the electrode and
+hardness measurements were made on the cut section. The hardness values obtained were
+very uniform showing values of 102 ±5 VHN. The hardness value for this material before
+the cell exposure was 69 VHN.
+
+While the above electrode JM2 did not show visual cracking, another electrode from
+the same batch showed after more than 11 months of operation showed a high density of
+visual cracks on the surface. A 99.995 purity Pd rod from a different source deuterated
+for nearly 11 months showed extensive visual damage as shown in Figure 3. The surface
+contains a high density of fine cracks. Hardness measurements on the cross section show
+wide variation from 110 VHN to 180 VHN due to extensive microcracking in the sample.
+The optical microscopy image of the cross section shows extensive cracking and surface
+relief associated with subsurface cracks. Extensive cracking was also observed in
+electrode 17 which is a 0.5 mm wire subjected to current densities from 1000 -
+3000 mA/cm2 over a period of about 3 months.
+
+TRANSMISSION ELECTRON MICROSCOPY:
+Thin slices cut from electrode JM2 were mechanically polished and then electro-
+chemically thinned for observation of the internal structure. The diffraction pattern
+confirmed the presence of β hydride phase which is a metastable phase. The electrode 
+after the cell operation, showed extensive deformation and much larger dislocation
+density compared to the annealed starting material as can be seen from Figures 4 a & b.
+The damage observed may be due to large strain associated with β hydride phase 
+formation and/or the deformation resulting from high pressure hydrogen bubbles. In the
+future it will be very important to make a comparison of the internal damage for identical
+rods, one of which has experienced excess heat generation.
+
+Figure 4c shows a TEM micrograph of electrode 5 after about 11 months of
+electrolysis. Specimen preparation of this sample was particularly difficult and image is
+less clear due to extensive strain, high dislocation density and micro-cracks.
+
+X-RAY DIFFRACTION:
+An X-ray diffraction pattern showed that the major phase was β hydride. Only minor 
+amounts of α phase were observed. The D/Pd ratio in the sample was estimated to be 
+around 0.7.
+
+SURFACE ANALYSIS:
+Surface chemical analysis was done using different techniques. A quick examination of
+the near surface region was performed using the state of the art CAMECA 50 SX electron
+microprobe. This showed only palladium with trace amounts of Rh and Br. Possible
+rhodium contamination from the platinum anode is possible. Sampling volume in this
+technique is 1 μm3 and light elements below carbon and trace elements may not be
+detected by this technique. XPS, Auger electron spectroscopy and SIMS analysis were
+performed at the Battelle Nothwest laboratories. Perkin-Elmer Physical Electronics 550
+multiprobe surface analysis system was used. AES analysis was done using 5 kV electron
+beam. XPS data was generated using Mg Kα X-rays. The SIMS analysis was performed
+using a 5 KV Ar ion beam to detect trace impurities. The quantitative estimates of
+different elements present in the first few nanometers of the surface region using XPS
+and Auger analysis are shown in Tables 2 and 3. Both XPS and AES data shows that the
+surface is highly contaminated with O and C contaminants that come from handling.
+Other minor contaminants are expected, except probably Co, from the electrolyte, anode,
+quartz glass vessel or from handling. SIMS profile over a depth of about 600 nm is
+shown in Figure 5 (sputtering rate of about 6 nm/mt) and Li signal amplitudes at different
+depths ratioed to Pd signal are summarised in Table 4. High surface enrichment of Li and
+a surprisingly very small amount of Pd. Surface is covered with elements such as Al27,
+Na23, Li7, Ca40, Fe56, Li6, C12, Pd106 and Cd113. Of these Cd is an impurity that was
+unexpected.
+
+EPMA on the electrode 5 surface and cross section showed no extensive contamination
+and predominantly Pd. The near surface composition examination by SIMS and Auger is
+currently underway. EPMA on electrode 17, a 0.5 mm wire, run at extremely high current
+densities of greater than 3000 mA/cm2 shows extensive Pt transfer from anode to
+cathode. Pt concentration on the surface observed range from 30-40% with the remainder
+being predominantly Pd.
+
+BULK ISOTOPIC ANALYSIS:
+SIMS analysis of the palladium cathode JM2 and a reference pure palladium sample
+were analysed using a primary beam of 10.5 keV O2
++ and positive spectrometry. Small
+deviations of isotopic abundance compared to pure Pd reference is noted but considered
+not significant.
+
+ROOM TEMPERATURE MASS SPECTROMETRY:
+H, H2, HD and D2 were found but no evidence of He4 was found.
+
+SCANNING ELECTRON MICROSCOPY:
+Scanning electron microscopy on the electrode JM2 showed half the surface covered
+with pits. Whether it was present prior to testing is not known. Pits were covered with a
+thin oxide layer. Evidence of S and Ca on the surface were found. Grain boundaries were
+deeply etched but no apparent composition difference across the boundary was observed.
+Electrode 5 as mentioned earlier, showed extensive micro and macro cracks.
+
+DIFFERENTIAL SCANNING CALORIMETRY OF DEUTERATED CATHODES:
+DSC was done on small pieces of electrode 5 and electrode 17 in an argon atmosphere
+at a scannning rate of 10°/minute. Figures 6 show the DSC data for electrode 5. The
+initial endothermic peak corresponds to D desorption. The amount of D desorbed is small
+indicating that in this extensively cracked electrode the bulk of the deuterium had already
+desorbed prior to the DSC run. The exothermic peaks around 350°C from points 2-4
+correspond to recovery and recrystallization processes.
+
+DETERMINATION OF D/Pd RATIO:
+Monitoring the D/Pd ratio may be done by measuring the resistivity change, dilation,
+shift in rest potential, or gravimetry. All methods have certain drawbacks, making
+estimation of D/Pd ratio difficult. Most of these measurements are most likely to
+overestimate the measured D/Pd ratio when there is cracking or deformation and any data
+presented must be used with caution. While gravimetry is direct, in-situ measurement is
+difficult due to bubble evolution, and density change due to internal cracks. Defects
+introduced during charging can influence resistivity values. Cracks or fissures and plastic
+deformation can influence D/Pd estimation. In-situ dilatometry was adopted in this work
+for the D/Pd ratio estimation because of the relative ease of the technique. Use of
+intermittent diameter measurements and gravimetry to correlate dilation to D/Pd ratio
+allows reasonable prediction of D/Pd ratio. Errors due to internal and external cracks and
+bending of the rods can introduce errors. However, this technique allows one to evaluate
+effects of different variables such as poisons, current density, surface treatments and
+microstructure on the D uptake of the electrode with relative ease. Figure 7 shows the
+length change as a function of charging time of 99.995 Pd cathode with no surface
+treatments at a current density of 100 mA/cm2 in a 0.1 molar LiOD. In about 4-5 days, a
+plateau in the loading versus time curve was reached. Weight and diametral
+measurements of the electrode were done immediately after the electrolysis was stopped
+and were used in conjunction with the axial dilation value to determine the D/Pd loading.
+Loading beyond a D/Pd ratio of 0.93 has been observed using 100 mA/cm2 current
+density in LiOD. Higher loadings may be possible with increase in current density, lower
+temperatures, change electrolyte pH or with the addition of poisons. Figure 7 shows
+change in dilation in an annealed Pd rod initially at a current density of 100 mA/cm2, then
+increased to 200 mA/cm2, then with the addition of arsenic poison in the form of arsenate
+to the electrolyte, the power switch off and finally anodic discharge. The original length
+is not regained after the entire cycle. Change due to increase in current density is small
+and includes the small length change due to change in cell temperature. Addition of the
+poison did not have much effect. Turning the power off results in a rapid length change in
+the first two hours. In another experiment, even after several weeks, we find no change in
+length until the anodic discharge is done, indicating the metastable nature of the
+deuteride. These studies are continuing at the present time.
+
+The hydrogen pressures vary exponentially with overvoltage (deviation from the
+equilibrium voltage at which the forward and reverse rates for this reaction are equal) and
+astronomical pressures can exist at the cathode/electrolyte interface. Such high surface
+pressures and favorable surface conditions can increase the uptake of D or H in the metal.
+D atoms absorbed into the metal occupy octahedral sites, first forming the random solid
+solution and at higher pressures forming an ordered β phase. The β phase can reach 
+stoichiometry at high pressures such as that obtained during electrolysis at high
+overvoltages. In this PdDx interstitial metallic alloy, deuterium has a metallic behavior.
+This hydride phase has metallic character and D in PdD is considered a deuteron. No
+clear picture of the behavior of the stoichiometry phase exists at this time. The hydrogen
+/deuterium loading level in Pons-Fleischmann type cells is much larger than that
+normally encountered in electroplating, hydrogen storage or conventional metals
+processing situations. Even in those conventional levels of H or D in metals,
+understanding of the behavior of H or D is still far from complete.
+
+
+NUCLEAR RADIATON MONITORING
+
+The nuclear monitoring capabilities of the Physics group at NCFI include (a) A 4" × 8"
+diameter sodium iodide crystal with associated electronics giving the capability of
+sensitive measurements of all gamma rays with energies in the range 0.5 MeV to 25
+MeV, (b) A HP Ge detector with associated power supplies, amplifiers and multichannel
+analyzer, giving the capability of giving high resolution measurement of gamma rays in
+the range from 5 keV to 10 MeV. This system complements the sodium iodide detector,
+having a lower efficiency and a higher resolution, (c) A Si(Li) detector with the
+capability of measuring x-rays with energies between 1 keV and 60 keV and (d) A
+neutron spectrometer with large-area cosmic-ray veto counters to make low-level neutron
+study possible. Beckman scintillation unit capable of automatic measurement of several
+hundred samples per day is used for routine tritium monitoring of the cells.
+
+
+REPRODUCIBITY AND FUTURE OF COLD FUSION RESEARCH
+
+Table 1 lists the different variables that we currently feel are involved in these
+experiments. Questions about the electrode material, probable involvement of a third
+element in the nuclear process, contaminants from the electrolyte or cell wall that may
+influence the surface reaction are currently being asked and are being examined.
+
+Palladium rods during routine casting and drawing are likely to pick up carbon from
+the molds of the extrusion die. Also trace amounts of O, N, and H are likely to be picked
+up during fabrication and handling. The levels of these interstitial impurities is likely to
+be different in electrodes used by different investigators. All these interstitials will
+compete for the octahedral sites and will reduce the maximum Pd/D ratio. Also these
+elements may likely block potential defect sites that may be involved as they normally
+segregate to these defect sites. Unique atomic configurations are possible at special grain
+boundaries which may likely assist the D-D fusion in the palladium lattice.
+
+Other critical variables include critical loading ratios of deuterium/Pd, surface
+chemistry of the palladium electrode, the electrolyte composition, temperature, role of
+lithium, role of deuterium recombination poisons, and rapid variations in operating
+conditions such as current density required to initiate the heat bursts.
+
+This large number of variables require statistically large numbers of experiments to
+isolate the conditions under which fusion at room temperature may occur. The fact that a
+significant but a small number of well established research groups have been able to
+reproduce some aspects of this effect, requires that research in cold fusion continue on a
+larger accelerated scale. Currently work is in progress to systematically examine some of
+the key metallurgical and electrochemical variables.
+
+
+REFERENCES
+
+[1] M. Fleischmann, S. Pons, and M. Hawkins, J. Electroanal. Chem., 261 (1989) 301.
+[2] R.C. Kainthla, O. Velev, N.J.C. Packham, L. Kaba, and J. ‘O.M. Bockris, Proc. of
+NSF/EPRI conf. on Cold Fusion, Washington, D.C., October, 1989.
+[3] S. Srinivasan and A.J. Appleby, Proc. of NSF/EPRI conference on Cold Fusion,
+Washington, D.C., October, 1989.
+[4] M. McKubre, Proc. of NSF/EPRI Conf. on Cold Fusion, Washington, D.C., October
+[5] A. Azdic, D. Gervasio, I. Bae, B. Cahan and E. Yeager, Personal Communication,
+Feb., 1990.
+[6] P.K. Iyengar, Fifth Intl. Conf. on Emerging nuclear Systems, Karlsruhe, FRG, July,
+[7] Government of India, Atomic Energy Commision Report BARC-1500, P.K. Iyengar
+and M. Srinivasan, Eds., Dec, 1989.
+[8] A. Belzner, U. Bischler, S. Crouch-Baker, T. Gur, G. Lucier, M. Schreiber and R.
+Huggins, Proc. of Workshop on Cold Fusion Phenomenon, Santa Fe, New Mexico, May
+[9] C.D. Scott, J.E. Mrochek,
+E. Newman, T.C. Scott, G.E. Michaels and M. Petek, DOE Report ORNL/TM-11322,
+November, 1989.
+[10] D. Hutchinson, Personal Communication, Feb., 1990.
+[11] R.A. Oriani, J.C. Nelson, S.K. Lee and J.H. Broadhurst, Submitted to Nature (1989).
+[12] K. Wolf, D.E. Lawson, J.C. Wass and N.J.C. Packham, Proc. of the NSF/EPRI Conf.
+on Cold Fusion, Washington, D.C., October, 1989.
+[13] E. Storms and C. Talcott, J. Fusion Tech., in Press (1990).
+[14] R. Taniguchi, T. Yamamoto, and S. Irie, Jap. J. Appl. Phy., 28 (1989) 2021.
+
+Table 1. Some of the known variables involved in electrolytic cold fusion experiments.
+
+1. EXPERIMENTAL CONDITIONS
+CURRENT DENSITY
+TEMPERATURE
+ELECTROLYTE COMPOSITION
+POISONS IN ELECTROLYTE
+NEED FOR INITIATION (ELECTRICAL, MAGNETIC, THERMAL or
+ULTRASONIC SHOCK)
+H, CO2 PICK UP
+CELL DESIGN
+
+2. ELECTRODE PURITY
+SUBSTITUTIONAL IMPURITIES
+PRIMARY Pd (Cu, Ni, Fe, Zr, Te, As, Sb, Cd, Mg, Ca, Li...)
+RECYCLED Pd (LARGE NO. OF ALLOYING ELEMENTS)
+INTERSTITIAL IMPURITIES
+PICKED UP DURING PROCESSING & HANDLING (C, O, N, H)
+
+3. IMPURITIES IN ELECTROLYTE
+IMPURITIES FROM PROCESSING & HANDLING (C, S, Cu, Zr...)
+
+4. ELECTRODE MICROSTRUCTURE
+GRAIN SIZE, DISLOCATION DENSITY & DISTRIBUTION
+5. POSSIBLE ROLE OF A THIRD ELEMENT IN THE NUCLEAR REACTION
+6. CELL DESIGN: ELECTRODE GEOMETRY, ELECTRODE SPACING, ETC.
+
+Figure 1. (a, b & c) Different electrolytic cell configurations used and (d) Laser Doppler measurement of gas
+bubble velocities in the electrolyte under typical operating conditions of cell 1a.
+
+Figure 2. Temperature excursions observed during
+electrolytic D loading of Pd cathode, (a and b) Cell 3,
+cathode JM2; (c and d) Cell 5, cathode PD5; and (e) Cell
+9, cathode JM1.
+
+Figure 3. Scanning electron micrographs showing extensive cracking in palladium cathode 5 after 11 months
+of D charging, (a and b) Surface region; and (c) interior region of the cathode.
+
+Figure 4. TEM micrographs of palladium cathodes. (a) After annealing at 600°C for 1 hour (Electrode JM2);
+(b) after deuterium loading for 3 weeks (Electrode JM2); and (c) after 11 months of deuterium loading
+(Electrode 5).
+
+Table 2. AES analysis of the near surface region of Pd cathode JM2 after the heat burst shown in figure 2a.
+
+Table 3. XPS analysis of the near surface region of Pd cathode JM2 after heat burst in figure 2a.
+
+Table 4. Ratio of Li and Pd signals as a function of sputtering time of the surface of Pd cathode JM2 after
+heat burst shown in figure 2a.
+
+Figure 5. SIMS profile of palladium cathode JM2 after heat burst shown in figure 2a.
+
+Figure 6. DSC scan of Pd cathode 5 after 11 months of electrolytic charging and three temperature excursion
+events.
+
+Figure 7. Electrode elongation measured in-situ during (a) loading at 100 mA/cm2, (b) after current density
+change to 200 mA/cm2, (c) after power was turned off and (d) during anodic D discharge.

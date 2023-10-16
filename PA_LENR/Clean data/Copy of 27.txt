@@ -1,0 +1,64 @@
+Background
+
+While planning our experiment we proceeded
+from the following :
+1. cold nucleus fusion should be uninterrupted,
+2. experiment should be performed at high
+temperature to increase a rate of deuterium
+diffusion in metal,
+3. deuterium flow should be orientated in one
+direction.
+The performance of the experiment in
+deuterium gas phase provides all these
+conditions. Since the process occurs on the
+metal surface the reaction displays more
+evidently at diffusion of deuterium through
+a membrane. Glow discharge on one side of
+the membrane creates orientated deuterium
+flow.
+
+
+Scheme of a device
+
+The Pd foil with prepared structure is
+positioned hermetically in a tube out of
+stainless steel which is installed in a furnace
+providing heating up to T= 1000 C.
+
+After vacuumization the balloon was filled
+by deuterium P<0,07 MPa. Discharge I=40 ma, U=350 v was
+energized.
+
+
+EXPERIMENT
+
+Discharge was off in 42 hours after the onset.
+Gas in a steel balloon (100 ml) was used for making
+a mass spectrometric analysis.
+The amount of 4He is on the background level.
+Ti powder 3 g in weight absorbs the remaining gas
+to analyze tritium.
+Tritium was measured by scintillation method, the
+total concentration was N>109 units.
+No threshold crossing of neutron and gamma quanta
+has been registered during the experiment. 
+Change in temperature nearby of Pd membrane
+Temperature fluctuation in 36 hours after
+discharge on.
+Energy distribution of tritium solution
+
+
+CONCLUSION 
+
+The device for generating heat and tritium is proposed.
+Heat fluctuation has been registered (ΔT=4-5
+0 C).
+The increase in tritium concentration has been registered,
+N>109 units .
+Low energy reaction in deuterium medium occurs via the
+tritium channel.
+
+
+
+
+

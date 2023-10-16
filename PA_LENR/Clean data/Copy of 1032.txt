@@ -1,0 +1,279 @@
+1. INTRODUCTION
+
+Starting in 1992, the ENEA Group of Frascati has concentrated its attention on the
+phenomenon of heat excess production in electrolytic cells working with a Palladium cathode in
+heavy water, with LiOD as the electrolyte. Due to the substantial lack of reproducibility in the
+results reported up to then, a feature common to all laboratories, and to the consequent skepticism
+of the traditional scientific community, it was clear that the accuracy of the calorimetry was
+paramount, and this has been the aspect to which the Group has dedicated most of its attention in
+the first years. A flow calorimeter was developed, reaching a very high degree of reliability, with a
+high sensitivity, which permitted to keep the experimental errors in the measurement of excess
+power well within 100 mW for time durations up to the order of months. Since then a series of
+experiments has been performed, some of which with relevant figures as far as heat excess is
+concerned, with the addition of some very stimulating side features: all of them have been presented
+at the International Conferences on Cold Fusion and published in their Proceedings and in other
+journals (1-4). In Table 1 the most relevant events of heat excess production measured by the Group
+are listed, in order of time, with the indication of the most meaningful parameters. Note that at least
+in two of the quoted experiments it was possible to exclude, by an accurate energy balance of the
+whole run, the hypothesis, claimed by many skeptics, that the excess heat could be attributed to the
+accumulation in the system, by an unknown mechanism, of chemical energy, the successive libera
+tion of which could justify the production of heat. Thus, the conviction was reached in the Group 
+that the heat excess production in deuterated Palladium was a reality and could not be attributed to 
+known chemical processes. 
+
+Table 1. The most relevant events of heat excess production obtained by the ENEA Frascati Group
+from 1992 to 1995. 
+
+A feature that has been increasingly clear, since the 2nd International Conference on Cold 
+Fusion, in Como in 1991, is the correlation between the heat excess production and the amount of 
+Deuterium absorbed within the Palladium lattice, usually measured as the D/Pd ratio (atomic). It has 
+been demonstrated that a threshold in the D/Pd ratio has to be exceeded, in order to obtain the 
+production of heat excess: the value of this threshold is of about 0.9, at least at the normal operation 
+temperatures (around 300 K). Whether this condition is also sufficient has still to be proved. 
+However, reaching such high ratios is not at all straightforward, and can depend on many 
+parameters of the experiment, first among which the characteristics of the Palladium used. [We 
+experienced very neatly this feature. After the first two positive results reported in Table 1, obtained 
+with Palladium foils already present in the laboratory, we had to get more Palladium, and we did so, 
+buying it from the same firm, with the same nominal characteristics; with it we made more 
+experiments, but did not succeed in obtaining heat production. An analysis a posteriori of samples 
+of the two stocks showed a different "texture" in the metal, a different hydrogen solubility and a 
+different surface morphology.] 
+This feature has had the effect of shifting the search for 
+reproducibility from the whole experiment to the ability to obtain high D/Pd ratios. In the last two 
+Conferences of this series we have witnessed the strong effort performed by many groups to face 
+this problem. 
+
+The ENEA Frascati Group has dedicated most of its resources in the last year to the study 
+and to the solution of this problem. The first step was to master the measurement of the D/Pd ratio, 
+through the measurement of the electrical resistance of the cathode. Then a fundamental approach 
+was chosen, which consisted in the attempt to analyse rationally the mechanisms responsible for the 
+absorption of Hydrogen ( or Deuterium) in Palladium, trying to single out features that could be 
+responsible for the difficulty in absorption above D/Pd = 0.7. The stress field created by the 
+concentration gradients during absorption has been investigated, with the aim of finding ways to 
+overcome its negative effects. This will be described in next chapter. 
+
+Other two activities of the Group are worth mentioning, but will not be considered any more 
+in the following:
+
+the development of a quantum mechanical approach, with a model aimed to explain possible 
+mechanisms that justify cold fusion (5); 
+
+the development of a circuit for the detection of 4He as a nuclear ash of the process, which is in 
+progress. 
+
+
+2. STRESS FIELD EFFECTS ON THE LOADING OF HYDROGEN ISOTOPES IN PALLADIUM CATHODES 
+
+The dissolution of hydrogen isotopes into a metal lattice is not only a problem of 
+thermodynamic equilibrium between the hydrogen inside the lattice and the hydrogen in the 
+external phase, but is also a problem of non- equilibrium in the metal, because of the occurrence of 
+a transport process. Both aspects of the phenomenon are correlated, since the equilibrium 
+concentration of the solute is achieved when the chemical potentials of the hydrogen in both 
+phases are equal and the transport process inside the metal lattice is driven by the gradient of the 
+chemical potential. On the other side, the chemical potential of the hydrogen in solid solution in a 
+metal lattice is strongly influenced by all field forces, such as the stress field, which modify the free 
+energy of the system. The hydrogen isotopes dissolving into a metal ( e.g. palladium) occupy 
+interstitial positions and expand the lattice. This process generates a stress field when remarkable 
+concentration differences (strong gradients or coexistence of different phases) are created. This 
+stress field can inhibit the diffusion process. In the presence of a stress field the chemical potential 
+of the hydrogen in the palladium is modified: 
+
+µ= µ -Vcrh 
+
+whereµ 0 is the chemical potential in the system without stress, Vis the molar volume of the solute 
+and cr h the trace of the stress tensor. In the presence of a stress field the flux equation becomes: 
+
+CP"" 
+J= -D(VC- RT Va) 
+
+where C is the hydrogen concentration, R the gas constant, T the temperature, and CJ the local stress. 
+
+The diffusive flux becomes zero if: 
+
+L1cr 
+RT 
+L1C = CP"" 
+
+It is easy to evaluate that, for Pd, /).CJ is less than CJ around a dislocation (6). From the previous 
+consideration it is clear that, during the loading process, the stress field can strongly affect the 
+equilibrium concentration of the hydrogen in the lattice. 
+
+In Palladium, during the loading procedure, regions of higher lattice parameter (� phase) 
+grow within regions of lower lattice parameter (a phase). In the region of coexistence ( a + P 
+phases), see fig.1 a, the lattice parameter mismatch at the border between the two phases generates a 
+very strong localised stress field, which is unfavourable for diffusion (coherent stress). If internal 
+stresses can be removed, either by plastic deformation or by dislocation slipping, such stress-free 
+strained crystals become "incoherent": see fig.lb. We have suggested that the negative effects due 
+to the coexistence of a and p phases can be avoided during the loading process, by selecting an 
+appropriate path on the pressure-concentration phase diagram: a detailed explanation of such a 
+procedure is exposed in another paper presented at this Conference, together with the encouraging 
+results obtained (7). 
+
+The loading process can be inhibited also by a stress gradient behind the external surface. 
+The stress field effect behind the metal surface is similar, in terms of stress production, to the effect 
+of a strong temperature gradient. The zone at higher temperature ( concentration) is forced to 
+expand, but is bound to a zone at lower temperature (concentration) that doesn't expand or expands 
+
+Figure I. Coherent (a) and incoherent (b) stress in a crystal. 
+
+Figure 2. The effect of the Hydrogen concentration profile on the stress field. 
+
+Figure 3. Sketch of the grain/grain boundary system. 
+
+much less. Thus, in the zone at high concentration, compressed by the zone at low concentration, 
+the chemical potential of the solute increases and the loading can be inhibited: see fig.2. This 
+condition can be modified by creating a metallurgical structure in the sample able to minimize the 
+gradients of concentration. Now we can study, in the case of an ideal system, the effect of some 
+metallurgical parameters, like the boundary grain size and the diffusivity, on the mass transport 
+process taking place during the loading (8). The grain/grain-boundary system is sketched in fig.3; a 
+simple diffusive mass balance across the grain-boundary and across the grain gives the following 
+system of differential equations (9): 
+
+Figure 4. Concentration profile within a grain with a boundary grain size of 0.1 µm. 
+
+Figure 5. Concentration profile within a grain with a boundary grain size of 1 µm. 
+
+with boundary conditions: y=O, t=O, C=C0; y>O, t=O, C=O; x=O, Cg
+=Cb,, where the indexes g and b 
+refer to the grain and the grain-boundary respectively; c is the grain-boundary size, D the diffusion 
+coefficient and C the solute concentration. 
+
+In fig. 4 and 5 the surface plots of the concentration profile in a grain are reported for two 
+different cases, after the same loading time. In fig. 4 the size of the grain boundary is O. lµm while 
+in fig.5 it is 1 µm. In the former the resulting concentration gradient in the grain is larger than in 
+the latter. This result has been obtained under the hypothesis of an ideal system, without impurity 
+at the grain boundary. When impurities are present at the grain-boundary, the grain-boundary 
+diffusion coefficient generally is smaller. If, in our simulation, we consider two different situations, 
+with the same grain boundary size, but with a different grain-boundary diffusion coefficient, the 
+outcome is that the concentration gradient in the grain is larger in the system where the diffusion 
+coefficient at grain-boundary is lower: in other words, the presence of impurities can increase the 
+concentration gradient. 
+
+Let us now consider the effect of the stress-field produced by the concentration gradient 
+during loading, in terms of equilibrium loading. By using the well known stress (cr) vs strain (E) 
+relationship, c:r-&: (where E is the Young module), and the relationship between strain and 
+concentration for the Pd beta phase ( I 0): 
+
+E (C) = [1 + 0.044(C- C13 minJ] 
+
+the following transport equation is carried out: 
+
+where T\ is the percentage of relaxed stresses. 
+
+Figure 6 shows the result of the calculations: when the percentage of the relaxed stresses is 
+sufficiently high (rf�0.85), the behaviour is substantially Fickian and the asymptotic loading value 
+is H(D)/Pd=l; but, if the system is not able to relax more than 70% of the stresses produced by the 
+loading, the asymptotic evolution changes. A further reduction of T] produces a spontaneous 
+deloading and the equilibrium concentration can be modified. The sample considered here is 
+supposed to have been gas pre-loaded according to the technique described in (7). 
+
+Figure 6. Effect of the unrelaxed stresses, produced by the diffusing Hydrogen, on the H/Pd value. 
+
+Thus, a further increase of the loading can be obtained if the stresses are allowed to relax. 
+The value of the yield stress gives us useful information on the ability of the material to relax 
+stresses, on the basis of its initial metallurgical properties. Hence, the initial state of the sample is 
+very important in reducing the blocking force arising from the stress field. We measured the yield 
+stress for Pd-H samples submitted to gas pre-loading. Samples where the coexistence of the a and� 
+phases was avoided show a yield stress 50% lower. Higher values were obtained for cold worked 
+samples, see Table 2. 
+
+Table 2. The correlation between the yield stress values and the different 
+treatments of Palladium. 
+
+
+3. EXPERIMENT AL RESULTS IN ELECTROLYSIS
+
+On the basis of these considerations, we decided to perform some metallurgical treatments 
+on the Pd samples, then submitting them to electrolytic charging of Hydrogen or Deuterium, 
+looking for maximum loading. The description of the tests performed with this purpose, including 
+cold working and annealing at different temperatures for different times, is exposed in detail in the 
+paper already mentioned, presented at this Conference (7). This allowed us to select the structure 
+that better fits the afore mentioned characteristics. In particular, by varying the thermal treatment 
+temperature from 700 to 1100°C, we found that the grain dimension and the dislocation slipping 
+form a kind of percolative network for samples conditioned at 900°C for one hour. A possible 
+interpretation of such a result is that in this sample the concentration profiles are quite flat, since the 
+hydrogen diffusion is enhanced by the dislocation cores and/or by the ability of such a material to 
+relax the stresses. Charging ratios of 1 for Hydrogen and 0.96 for Deuterium were obtained with a 
+satisfactory reproducibility. 
+
+Another interesting effect found in the experiments is the correlation between the loading 
+dynamics and the loading ratio. We observed that after loading at constant current density for a 
+certain time, the concentration of the solute in the metal doesn't increase any more and sometimes a 
+de-loading takes place. On the basis of the concepts exposed in the previous section we assumed 
+that such a behaviour was promoted by the creation of a stress field very close to the surface of the 
+sample under cathodic loading. Then we tried to remove the stresses by inverting the current for a 
+few seconds (anodic polarization of the sample) and/or applying a low-high current mode, just to 
+avoid the creation of a new stress field. The effect of this technique is well described in fig.7. A 
+change in the period of the low-high current mode and an increase of the current also produce a 
+positive effect on the loading ratio. 
+
+The material showing the best hydrogen (deuterium) solubility has been used for 
+calorimetric measurements under electrochemical loading in heavy water. The calorimetric system 
+was the same described in previous papers ( 1-4 ). The cathode was a palladium foil 150 µm thick 
+and with a surface of 2 cm2 for each side. The loading ratio achieved a value of 0.96 with a current 
+density of 50 mA/cm2, and an excess heat could be measured as a function of the current density, in 
+good agreement with the well known Storm's curve, reaching a maximum of 150 mW for 100 
+mA/cm2. In Fig. 8 three successive runs are shown, the last of which, performed after a refilling of 
+the solution, "killed" the effect. This effect seems to confirm that the region close to the surface 
+plays a fundamental role in the process. 
+
+Figure 8. D/Pd ratio (light) and heat excess (dark) in three successive tests, for which the value of the current 
+density is reported. For the last the D/Pd ratio was lower then the threshold: thus, no heat excess was 
+measured. Total time "" l month. 
+
+
+4. CONCLUSIONS
+
+The main activity of the ENEA Frascati Group in the last year has been concentrated on the 
+achievement of high Hydrogen or Deuterium loadings in Palladium cathodes in a reproducible way. 
+
+A rational approach has been chosen, by analysing the absorption mechanisms in terms of the stress 
+fields created in the sample, and the consequent concentration gradients, which can be responsible 
+of inhibiting the loading. 
+
+In practice, three roads have been followed, in order to overcome this problem, in the light 
+of the quoted analysis: 
+
+a particular charging procedure has been settled, consisting in a pre-loading in gas of the 
+sample with a path (on the phase diagram) aimed to avoid the coexistence (a+�) phase;
+
+an optimized pre-treatment of the sample (annealing at 900°C for 1 hour) has been chosen; 
+
+the dynamics of charging, i.e., short anodic polarization and high-low mode of the current, has 
+helped as well. 
+
+All three procedures have contributed to the achievement of reproducible high charging 
+ratios in Palladium samples (up to 1 for Hydrogen and to 0.96 for Deuterium). The first tests with 
+heavy water in a calorimeter seem to indicate that heat excess is produced when the well known 
+threshold for D/Pd (0.9) is exceeded. 
+
+
+BIBLIOGRAPHY 
+
+L. Bertalot, F. De Marco, A. De Ninno, A. La Barbera, F. Scaramuzzi, V. Violante , P.
+Zeppa, "Study of Deuterium charging in Palladium by the electrolysis of heavy water: heat
+excess production" in Il Nuovo Cimento vol.15 D, N 11, Nov.1993, 1435
+L. Bertalot, F. De Marco, A. De Ninno, A. La Barbera, F. Scaramuzzi, V. Violante , P.
+Zeppa, "Study of Deuterium charging in Palladium by the electrolysis of heavy water: search
+for heat excess and nuclear ashes", "Fronteers of Cold Fusion", Proceedings of the 3th
+International Conference on Cold fusion (ICCF3), ED. by H. Ikegami, Universal Academy
+Press Inc. Tokyo, 365 (1993)
+L. Bertalot, F. De Marco, A. De Ninno, A. La Barbera, R. Felici, F. Scaramuzzi, V.
+Violante, "Behaviour of a Pd Membrane During Deuterium Electrochemical Loading:Excess
+heat Production", Proc. ofIV Int. Conf.on Cold Fusion (ICCF4) ", Maui, Hawaii, USA, 6-9
+Dec. 1993, vol. I, 4-1, ed by Electric Research Power Institute, Palo Alto, Ca
+L. Bertalot, F. De Marco, A. De Ninno, A. La Barbera, F. Scaramuzzi, V. Violante , "Power
+excess production in electrolysis experiments at ENEA Frascati"
+Proc. of V Int. Conf.on Cold Fusion (ICCF5) ", Monte-Carlo, Monaco 9-13 Apr. 1995,
+publ. by Int. Conf. on Cold Fusion V, Valbonne, France, 34
+V. Violante, A. De Ninno, "Collision between two deuterons in condensed matter: ion trap
+mechanism", Proc. of V Int. Conf.on Cold Fusion (ICCF5) ", Monte-Carlo, Monaco 9-13
+Apr. 1995, publ. by Int. Conf. on Cold Fusion V, Valbonne, France,355
+R.A. Oriani, Transaction of Fusion Technology 26 (1994) 235-266
+A. De Ninno, A. La Barbera, V. Violante, "Selection of Palladium metallurgical parameters
+to achieve very high loading ratios", presented to ICCF 6, (1996)
+J.D. Fast," Gases in Metals", The Gresham Press, (1976) 148.
+P.G. Shewmon, Diffusion in Solids" Mc Graw Hill (1967) 166
+A. De Ninno, A. La Barbera, V. Violante, "Consequence of Lattice Expansive Strain
+Gradient in Loading Hydrogen in Palladium", submitted to Phys Rev B
+ICCF-6 October IJ-18, 1996 Japan I 

@@ -1,0 +1,168 @@
+1. Introduction
+
+The assumption of a narrow nuclear energy level solves the puzzle of "excess heat" without
+commensurate neutron and Gamma radiationl11
+• This assumption is supported by the "heat after
+death" and "heat after life" experiments; however, a question remains, i.e. how an extremely narrow
+energy level is able to be in resonance with the narrow energy level of a lattice confined ion. A "fine
+tuning" mechanism in terms of"self-lock" is proposed to solve this remaining problem.
+
+
+2. Theoretical Expectation-"Fine Tuning" parameter.
+
+The characteristic time in "heat after death" experiments (104 seconds), and the fact of "excess heat
+without commensurate neutron radiation" have revealed a low energy resonance d-d state with an
+energy width of 10"19eV. On the other hand, the lattice confined deuterons are distributed on the
+energy band in the palladium lattice potential well. If the density of state in that energy band is
+greater than Pc
+(E) � 1019 /eV; then, the resonance penetration of Coulomb barrier would be more
+probable since the energy band width in the palladium lattice may be greater than 1 meV. This
+requirement on density of state turns out to be a requirement on the grain size in the Pd crystal: i.e.
+the grain size should be greater than 50 ~ 100 microns.
+
+However, the dynamics ofresonance requires more than a grain size. The extremely narrow energy
+level may resonance with one of the energy levels in the lattice energy band, but the heat released in
+this resonance may quickly push themselves away from the resonance due to the thermal expansion
+which shifts the energy band. If we would like to keep them in resonance, there has to be a
+restoring force to pull them back. The variation of
+the density of state, p ( E) , may provide such a
+restoring force, if dp( E) < 0 . (E is the energy ofthe relative motion of d-d state). In Fig.1 it shows
+dp(&_)/dE<O
+schematically an energy band with a negative
+derivative of density of state. When the thermal
+expansion lowers the energy band, the resonance
+oE ... .=10-19 eV nuclear energy level, EN , will see a higher energy ,,
+Energy Band Shifls Down due to
+Expansion
+level in that energy band; hence, see a less density
+of state. This difference in the density of state in an
+energy band will reduce the heat released by the
+resonance, and reduce the thermal expansion. In
+Fig. l Energy Band Structure in Pd Crystal
+other words, the negative derivative, dp( E)
+< 0, will provide a negative feed-back to pull back the
+dE
+energy band and restore the resonance between the nuclear energy level, EN , and the lattice energy
+level, EL . It is very similar to the "self-lock" phenomenon in ''fine tuning" mechanism of a radio
+receiver.
+
+There is a critical derivative of the density of state, ( '!:;) , in order to make this "fine tuning"
+C work. Any power perturbation inside the calorimeter, !Sp, will result a thermal expansion,
+Here, A L is the lattice constant kc is the heat transfer coefficient of the D/Pd
+Al kc system (0.1 ~ 0.7 WIK for most of"excess heat" experiments); a. is the linear expansion coefficient
+(�l l .8x10-6 K"1 for palladium). The shift of the energy band due to this expansion is about
+The energy band shift ML will change the number of resonance states from
+p( EL )MN to p( EL + ML )MN . Here, MN is the width of the nuclear energy level. This change
+will reduce the "excess heating" power by an amount of �EN( dp) Here, E F is the dE E 'ex L
+''fusion energy" released by a pair of d-d resonance state during their life-time ,ex •
+E F � 23.8Me V and , ex � 104
+seconds.
+
+This restoring power has to be greater than the initial power perturbation, !Sji , in absolute value but
+opposite in their signs in order to keep this resonance. In other words, the derivative of the density
+of the state has to be negative but its absolute value has to be greater than a critical value:
+Since the density of the state in a Pd sample is proportional to its volume, V Pd ; it is evident that the
+ratio of V pd to kc will determine the restoring force for the fine tuning mechanism. We may define
+Va ( __!!_) as a "fine tuning" parameter
+kc
+V
+F = (--.!!!!...) kc
+The greater the "fine tuning" parameter, F, is, the more stable the resonance between the nuclear
+energy level and the lattice energy band, provided that the derivative of the density of the state less
+than zero, i.e. 
+
+
+3. Experimental Observation
+
+The experiments have verified the first requirement ((pc(E) > 1019 eV-1) by the metallography of
+the annealed Pd samplesC2l C3l and the positive annealing factl4l . Now we examine the ''fine tuning" 
+parameter in various experiments. Table 1 lists some of these early positive "excess heat" 
+experiments, and the recent negative experiment completed by Quickenden et a1_l5l. 
+
+Table 1 "Fine Tuning" Parameter in Various Experiments 
+Heat Transfer Coefficient Volume of Palladium 
+It is noticed that in that negative experiment their "fine tuning" parameter is much less than those of 
+all other positive experiments. Particularly, it is interesting to notice that the ''fine tuning" parameter 
+in the early "negative" experiment of Lewis is relatively large, there should have been "excess heat" 
+as pointed out by Dr. Miles in 1994. However, it was reported as a negative one. 
+
+An important test on this ''fine tuning" mechanism is the sign of 
+the derivative, dp . Although it is difficuh to calculate its exact 
+dE 
+number, it is possible to determine its sign according to the 
+shape of the lattice potential well. The quantum mechanics gives 
+the qualitative conclusion that the derivative of the density of 
+state will be
+as schematically shown in Fig.2. The inelastic neutron scattering 
+Fig.2 Three types of well with 
+different sign of dp/dE 
+experiment showed that the lattice potential well in Pd is a square-well-like one because its 
+anharmonicity parameter is positive (see Fukai [11]). 
+
+Our gas-loading experiment provides an additional evidence on this ''fine tuning" mechanism. In 
+Fig.3 , the upper line shows the temperature difference between the twin D/Pd and H/Pd systems 
+and the lower curve shows the derivative of the temperature of 
+the D/Pd system with respect to the time (in an enlarged scale), 
+When the heating power through the tungsten wire is shut off: the 
+temperatures of the twin systems are changing with the room 
+temperature, but the temperature of the D/Pd system (T(D)) is 
+always higher than that of H/Pd system due to the possible 
+"excess heat" source in the D/Pd system. It is interesting to 
+observe that this "excess heat" source changes in day and night 
+also. The maximum of [T(D)-T(H)] appears at the point where 
+T(D)-T(H) & dT(D)/dt 
+the T(D) drops quickest, and the minimum of [T(D)-T(H)] appears at the point where T(D) rises 
+quickest. This behavior implies a heat source in D/Pd system, which is proportional to 
+(-dT(D)/dt ). A possible explanation of this behavior is just that the density of state in the resonance 
+energy band decreases with the energy, i.e. dp < 0. When the T(D) is dropping, the D/Pd system 
+dE 
+will see a higher density of state in resonance. This is equivalent to adding an additional "heat 
+source" into the D/Pd system. The quicker the T(D) drops, the stronger this additional "heat 
+source", which enlarges the temperature difference between the D/Pd and H/Pd systems. 
+
+
+4. Conclusion.
+
+
+The ''fine tuning" mechanism supports the theory of penetration of the Coulomb barrier via lattice
+confined ions, and the experiments support this "fine tuning" mechanism by three facts:
+dp 
+vpd 
+p(E) > Pc(E),
+and 
+- > Fe .
+dE 
+kc 
+A critical "fine tuning" parameter, �, is introduced to qualitatively describe this negative feed-back
+for the "fine tuning" mechanism. In order to make the "excess heat" reproducible, it is important to
+use large Pd sample (large V 
+pd ), good insulation of calorimeter (less kc), suitable annealing to
+increase the p(E), keep the square-well-like potential field in the Pd ( :; < 0) , and keep the high
+population on that resonance energy level.
+
+
+References
+[1] X. Z. Li, "Solving the Puzzle of Excess Heat without Strong Nuclear Radiation", Proceedings
+ofICCF-5, April 9-13, 1995, Monte-Carlo, Monaco, p.285.
+[2] X. Z. Li, et al. "Excess Heat Measurement in Gas-loading D/Pd System", Presentation on
+ICCF-6, Oct. 13-17, 1996, Toya, Hokkaido, Japan.
+[3] F. S. Bu, X. Z. Li, "Loading Ratio Study in a Gas-Loading System", Presentation on ICCF-6,
+Oct. 13-17, 1996, Toya, Hokkaido, Japan.
+[4] M.C.H. Mckubre et al., "Concerning Reproducibility of Excess Heat Production", Proceedings
+ofICCF-5, April 9-13, 1995, Monte-Carlo, Monaco, p.17.
+[5] T.A. Green, T.I. Quickenden, "Calorimetric Studies of Highly Loaded Deuterides and Hydrides
+of Palladium",J.Electroanal. Chem, 389(1995), 91.
+[6] M.C.H. Mckubre et al., "Excess Power Observation in Electrochemical Studies of the D/Pd
+System; the Influence of Loading", Proceedings ofICCF-3, Oct. 21-25, 1992, Nagoya, Japan,
+p.5.
+[7] K Kunimatsu, N. Hasegawa et al. "Deuterium Loading Ratio and Excess Heat Generation
+during Electrolysis of Heavy Water by a Palladium Cathode in a Closed Cell Using a Partially
+Immersed Fuel Cell Anode," ibid. p.31.
+[8] M. H. Miles, et al., "Heat and Helium Production in Cold Fusion Experiments", Proceedings of
+ICCF-2, June 29-July 4, 1991, Como, Italy, p.353; J. of Physical Chem. 98 (1994) 1948.
+[9] M. Fleischmann, S. Pons. "Calorimetry of the Pd-D20 system: from Simplicity via
+Complications to Simplicity", Physics Letters A, 176 (1993)118.
+[lO]N.S. Lewis, et al., "Searches for Low-Temperature Nuclear Fusion of Deuterium m
+Palladium", Nature, 340 (1989)525.
+[11] Y. Fukai, "The Metal-Hydrogen System", Spring-Verlag Berlin, Heidelberg (1993) p.148.
+JCCF-6 October JJ-18, 1996 Japan I 

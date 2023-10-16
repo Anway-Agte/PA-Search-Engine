@@ -1,0 +1,269 @@
+I. INTRODUCTION
+
+This paper presents molecular-dynamic simulation results
+for a dilute solution of hydrogen in palladium and
+compares the predicted motion of the hydrogen in the octahedral
+interstitial site with the available incoherent inelastic
+neutron-scattering results. ' These calculations
+benefit from current advances in the description of interatomic
+forces in metallic solutions. Because these calculations
+focus on dynamical properties for which measured
+and computed quantities can be simply and directly
+compared, they provide a new test of the efticacy of the
+model force law used. Such a test is clearly a prudent
+step preparatory to atomically detailed theoretical studies
+of more global thermal properties of hydrogen-metal
+solutions such as phase transitions and more macroscopic
+transport processes. Furthermore, these results should be
+of guidance in describing interatomic forces in more complex
+metallic systems not satisfactorily treated by the
+current models.
+
+Incorporation of hydrogen into metals elicits several
+phenomenon of intrinsic interest, for example, embrittlement
+of the metal. The hydrogen-palladium system has
+probably been studied more extensively than any other
+metal hydride. It displays unusual isotope effects on temperatures
+of transition to superconductive behavior.
+Phonon-dispersion relations have been measured by inelastic
+neutron scattering for concentrated PdH„sytems,
+and these phonon spectra have been modeled by latticedynamical
+calculations. ' Molecular-dynamics calculations
+have been carried out previously" on an empirical
+pairwise force model of PdH„ in supercritical thermodynamic
+states. ' Under those conditions much of the interest
+in PdH is associated with the transport phenomena
+typified by fast ion conductors.
+
+The next section records procedural details of the
+molecular-dynamics calculations. Secion III then
+presents and discusses the results. The final section notes
+the conclusions drawn from these calculations.
+
+
+II. MOLECULAR-DYNAMICS METHODS
+
+The calculations were carried out for a system of 256
+Pd atoms and one H atom. The Pd atoms were situated0
+initially in a fcc lattice with a lattice constant of 3.89 A
+and the H atom was placed in an octahedral interstitial
+site. The embedded-atom model description of interatomic
+forces presented in Ref. 5 was used without
+modification except that the model atomic electron densities
+were smoothly truncated on a sphere of radius 7.780
+A. This latter distance corresponds to one-half the edge
+length of the cubical simulation cell within which the interaction
+potential energies and the interatomic forces
+were computed with the usual periodic boundary conditions.
+The model atomic electron densities were modified
+on the segment (6.67S,7.780 A) by substitution with a cubic
+spline which vanished with zero derivative at the
+outer boundary. The equations of motion were integrated
+by the explicit central difference method, ' or summed
+Verlet method. ' The estimated standard error was obtained
+by assuming that distinct 20 ps blocks of trajectory
+were independent samples of the property in question.
+
+
+III. RESULTS
+
+The mean kinetic energy of the system over our observation
+yields a temperature estimate of (297+6) K. The
+predicted pressure of pV/Nk~ T=(0.01+0.02) was realistically
+low. It is known from experiment that H vibrational
+motions in Pd occur at frequencies which are low
+compared to those of H vibrations'in usual covalent interactions.
+' Therefore, at this temperature the H
+motions may be expected to be largely classical in character,
+although quantum-mechanical characteristics are
+easily observed. This expectations can be tested simply
+and quantitatively in the context of the present calculations.
+In particular, the initial quantum-mechanical
+correction to the classical-mechanical Helmholtz free energy
+of the system is'
+
+PA =PA, +—,
+' g (PfiQ, ) +o(A' } .
+Here, A is the Helrnholtz free energy and A, is that free
+energy obtained from the classical phase-space integral;
+p =( k~ T)
+' is the inverse temperature in energy units.
+The frequency Q. is
+P(F'&
+n,'= (2) j
+where (F & is the mean-square force on particle jand m.
+is the mass of that particle. The frequency Q can also be
+obtained from observation of the classical motion of the
+jth particle through use of the sum rule
+dc' 6) U~
+Q =
+f dco fv„i'
+Here we have used the notation
+(3)
+f dt coscot ( v(0)U (t) & l(U &,
+2'fT oo
+where (U(0)u (t) & is the autocorrelation of the velocity of
+the particle. With this definition the denominator appearing
+in Eq. (3) is equal to 1. The present calculations
+produce the estimate QH=(97+13) meV for the H-atom
+solute. This is only a factor of 5 larger, approximately,
+than the correspondoing frequency for the Pd atoms
+(averaged over all the Pd atoms), Qpd=(21. 2+0.02) meV.
+The ratio of the frequencies is therefore considerably
+smaller than the square root of the ratio of the masses,
+&106. This implies that the forces on the H solute are
+typically considerably less then the forces which localized
+the Pd atoms in the fcc solid. This situation is rejected
+in the fact that the rms displacement of the H atom from
+its mean position in the center of the octahedral hole is
+quite substantial: [—, '((rH &—(rH & )]'~ =(0.138+0.005)
+A, where rH is the position of the H atom. This is consistent
+with the value of (0.25+0. 10) A obtained by neutron
+di6'raction on dilute PdH samples in the neighborhood
+of 600 K.' The larger value of the measured quantity
+is understood as a result of the higher temperature
+state studied by the available experiments. The ratio of
+these two quantities is consistent with a v'T temperature
+dependence but the size of the estimated errors on the experimental
+values does not permit a stronger conclusion.
+
+
+A. Neutron vibrational spectroscopy
+
+The vibrational spectrum of the H-atom motion dissolved
+at low concentrations in Pd has been measured by
+incoherent inelastic neutron scattering. ' These experiments
+provide directly the Fourier transform of the autocorrelation
+function F,(k, t)=(exp[ik. rH(t)]exp[ —ik rH(0)]& . (5) t (ps)
+For ~k ~ sufficiently small, we can write
+F,(k, t)=1+k kr(5r H(t)5rrH(0) &+o(k ), (6)
+where 5r H(t)=r H(t} (r H & and r —H(t) is the uth Cartesian component of the instantaneous position of the
+H atom. The octahedral site of the H atom has cubic
+symmetry; the mean position is a center of inversion symmetry
+and each Cartesian axis is symmetric with the others.
+Therefore F,(k, t)=1+k (5xH(t)5xH(0) &+o(k ) .
+Under the conditions of the available experiment'
+~ k ~
+=4.9 A. Therefore, k ( 5x H & =0.8, and the approximation
+of Eq. (8) is likely to be reasonable but deserves
+checking. Figure 1 shows the time correlation functions
+identified in Eqs. (5) and (8). On the 100 fs time scale associated
+with the decay, these quantities are strongly
+similar. The results for F, (k, t) for nonzero values of ~k~
+were obtained by orienting k along a Cartesian axis but
+averaging over all the vectors in the star of k. Since the
+results obtained are not qualitatively changed by changes
+of ~ k ~ in this regime, it is reasonable to assume that orientational
+averaging also would not change the results qualitatively.
+We note that on this time scale, these atomic
+motions are strongly damped.
+
+Fig. 2 over the same range and with approximately the
+same resolution with which the experimental spectrum
+are available. The experimental spectrum is shown in
+Fig. 3. The center of each of these spectra is very close to
+the center of the measured spectra. The experimental
+spectrum also shows a shoulder (or perhaps a broad background)
+extending to higher energy, as do the computed
+results. However, this is considerably more prominent in significantly clouded if the function of Fig. 4 only were to
+be compared with the measured spectrum. Preliminary
+calculations which varied the mass of the impurity
+verified that these computed spectra do, indeed, shift
+with the square root of the solute mass, as expected.
+
+The power spectrum of Fig. 4 also can provide the frequency
+QH noted above. The determination of this frequency
+allows us to test the description of the thermodynamic
+properties afforded by Eq. (1). In particular, we
+define a Sievert's law constant, k, (H), for hydrogen dissolution
+by
+ks(H)=lim„p(xH/~pH ),
+where xH is the mole fraction of hydrogen (H) in the metal
+and pH is the pressure of hydrogen gas (Hz) in the va-
+2
+por phase. We then inquire about the ratio
+[ks(H)/k, (D)]. The difFerences of the gas phases, H2
+versus D2, makes a very large contribution to this ratio.
+This contribution can be obtained from textbook material.
+' The nonclassical character of the atomic motion in
+the inetal which is identified by Eq. (1) contributes a factor
+of
+mH mD exp 2 —,
+' (PA'QH) =0.4 .
+mD
+This gives rise to an estimate of [ks(H)/ks(D)]=1. 1
++0.3. This is approximately 40% smaller than the experimental
+value.
+
+In view of the satisfactory agreement between the computed
+and measured vibrational spectrum for the H im-computed and measured differential solubility of H versus
+D indicates that the simplest description of the quantum
+mechanics, Eq. (1), is not satisfactorily accurate for the
+sytem under the present conditions. Ideas for numerically
+exact calculation of such effects have been the focus of
+recent research. Suitable basic approaches for these tasks
+have been clearly articulated and successful applications
+have been presently already. ' However, detailed implementations
+differ with the details of the different problems
+which have been considered. We expect to return to
+this issue with subsequent work.
+
+
+B. Equilibrium structure
+
+The radial distribution functions obtained from these
+calculations appear in Fig. 5. The expected and observed
+features of the Pd-H radial distribution are considerably
+broader than those of the Pd-Pd distribution. This is associated
+with the above observation that the H atom vibrational
+motion is a low-frequency, large-amplitude
+motion compared to H vibration under typically covalent
+interactions. The rms displacernent of the H atom which
+characterizes the Debye-Wailer factor was given above
+and compared with experimental values. An alternative
+way of displaying the relatively large amplitude of the H
+atom motions is given in Fig. 6. There the Pd-H potential
+of mean force is plotted. This free energy surface is
+remarkably slowly varying over a spatial region within
+0.1 A of the expected crystallographic displacement of
+1.945 A
+
+
+IV. CONCLUSIONS
+
+The embedded-atom model adopted here does a good
+job of describing the H-Pd atomic forces probed by incoherent
+inelastic neutron scattering. The results
+highlight the fact that the H atom vibrations in PdH
+solutions are low-frequency large-amplitude vibrations
+relative to vibrations of H atoms in usua1 covalent interactions.
+The rms displacement of the H atom from its pares
+favorably with the available neutron-diffraction results.
+The solubility differences between H and D are not
+accurately described by the present calculation. This
+likely due to the perturbative treatment of the quantummechanical
+corrections to the thermodynamic properties
+which has been tested here. In subsequent work, we expect
+to study the solubility of these isotopes with numerical
+path-integral methods for description of the
+quantum-mechanical nature of the H motion under these
+conditions.
+
+here deserves emphasis. It has been argued that this
+anharmonicity is the principal contribution to the anomalous
+isotope dependence of the superconducting transition
+temperature in PdH. ' Furthermore, atomic level
+theoretical investigations of the phase transitions and
+transport processes of hydrogen metal systems require an
+accurate description on the interatomic forces not limited
+to harmonic interactions. Most of the previous dynamical
+calculations on PdH have focused on the development
+of lattice-dynamical models from the measured
+phonon-dispersion relations. ' Theoretical calculations
+similar to the present work which test the accuracy of the
+available electron gas models for forces among hydrogen
+constituents at higher concentrations would be a natural
+next step. Subsequent attention given to systems such as
+TiH in which more complex metal behavior accompanies
+and intrudes upon dissolution of the hydrogen
+would also be helpful.

@@ -1,0 +1,264 @@
+1. Introduction
+
+After six years of studies on the "cold fusion" phenomenon, two facts are
+established: (1) Under certain conditions there is "excess heat" of several watts per cubic
+centimeter of palladium; (2) There are no commensurate neutrons, tritons, or y-radiation
+in parallel with the "excess heat" which is of non-chemical origin. The regression is that:
+instead of using the neutron signal to convince people to believe there is any nuclear
+reaction, we attempt to explain that these two facts are due to the existence of a long
+life-time nuclear resonance state inside a lattice.
+
+Early in 1928, Gamow proved that the life-time of an a-radiation nuclide, 'ta,
+was determined by the Coulomb barrier penetration number, 0 .
+121 At that time the aparticle after disintegration was a free-moving particle , and 'taOC 0 2. 
+Now the penetration of the Coulomb barrier happens in a reverse direction and in a different
+environment: the lattice confined deuteron penetrates the Coulomb barrier and enters a
+resonance state. The life-time of this resonance state, 'txh, is determined by the 0 again,
+but 'txhoc 0. Now 'txh is linearly proportional to the 0 due to the discrete nature of the
+energy level of the lattice confined deuteron which is different from the continuum of the
+free-moving deuteron. 
+
+We will start from the experimental evidences of this long life-time state (section
+2); then, we calculate this life-time based on the nuclear resonance theory (section 3). In
+order to fill this resonance state, this theory requires a critical loading ratio which is
+another well-established experimental fact in the past five years (section 4). Finally, we
+discuss the famous challenge of three miracles (section 5), and the conclusion (section
+6)
+
+
+2. Evidences for Long Life-time State
+
+The strongest evidence is from the "heat after death" Y1 The boiling-to-dry
+electrolytic cell was kept at about 100 °C for three hours without any power input. It
+clearly showed that the "excess heat" source was inside the palladium deuteride. The 
+reliable calorimetric calculation proved that the energy released in this 3 hours was 20 
+times greater than the heat of combustion possibly released by the deuterium stored in 
+this system. This was a nuclear active state with a life-time of 104 seconds. 
+
+The second evidence is from the "heat after life".141 The SRI electrolytic cell was
+a closed cell. It was not driven to boil. However, when the electrolysis was shut down, 
+and input power was zero, the system did not cool down as a source-free system. The 
+flow-calorimeter clearly recorded that there was an energy source inside the system. The 
+first peak of the "excess power" was about 100 mW (the accuracy and the precision of 
+that experiment was ± 10 mW), and the width of that peak was about 3 hours again. The 
+energy released in these three hours was also about 10 times greater than the heat of 
+combustion possibly released by the deuterium available in the palladium electrode. This 
+was again a nuclear active state with a life-time of 104 seconds. 
+
+During the ICCF-5, J.P. Biberian's "excess heat" data 151 showed that after the
+shut down of the input power, the "excess heat" continued for 3-4 hours. Although 
+there was no palladium lattice, an A1La03 single crystal provided thy lattice confined 
+deuterons. Once again the life-time of that "excess heat" source was of the order of 104
+seconds. 
+
+In the "Critical Review of the 'Cold Fusion' Effect",161 E.Storms talked about the
+replacing time of the palladium deuteride. When he put the deuteron-loaded electrode 
+into the light water cell, he observed the "excess heat" continuing for the first several 
+hours. He called this time the replacing time, because he considered that when the 
+deuteride was replaced by hydride, the "excess heat" was supposed to stop. From 
+another point of view, this showed that the life-time of the nuclear active state was again 
+of the order of 104 seconds. 
+
+After my talk in ICCF-5, M.Eisner of the University of Houston was so kind as 
+to give me his 1989 data for the "excess heat"_l7l It clearly showed that the width of the 
+first "excess power" peak after the shut down of the electrolysis was once again of the 
+order of 104 seconds. 
+
+It was not realized that the answer to Prof. J.Huizenga' s challenge of three 
+miracles has been indeed implied in this long life-time of nuclear active state. 
+
+
+3. Theory of Resonance Penetration for Lattice Confined Ions
+
+The life-time of a quantum mechanical state, t, is related to the width of its 
+energy level, r, by the uncertainty principle: 
+The width of the energy level can be expressed by the imaginary part of the wave 
+number, k;, through the identity: 
+Here Im U is the imaginary part of the potential well U, kr and k; are the real and ima-
+2m ginary part of the wave number k, respectively. k2 = ,[(E - U). Eis the total energy 
+of the relative motion of the two deuterons. When the energy E coincides with the 
+energy level inside the nuclear well, (kr a):::::: 0(1) . Here a is the size of the nuclear 
+well. However for this resonance. Here 0 is defined as 
+and 0 ·2 is just the famous Gamow barrier penetration factor. Equation (3) has been
+rigorously proved for the square well case, 181 
+and for the arbitrary potential
+configuration.191 Here we just explain why the imaginary part of the wave number, k; ,
+should be such a small number in order to have a resonance penetration. As we know, 
+when k; < 0 , k1 determines the damping of the wave function. The wave e-,1cr will 
+be damped by a factor of exp[ -lk' al] when the wave propagates through a length of a. 
+
+On the other hand the Coulomb barrier suppresses the amplitude of the penetrating wave
+function by a factor of 0 ·1. In order to use the resonance effect to build-up the wave
+amplitude to its initial value in terms of the constructive interference between the 
+reverberating wave and the penetrating wave, we need at least 0-times reverberation 
+before the wave is damped. So we need lk' (lh)I :::; 0(1) 'or lk'al:::; oce-1).
+
+Consequently, sustituting kr and k; in eq.(1) and (2), we have the life-time for 
+"excess heat" For the d+d interaction, m:::::10-24g., a �10·13 cm, 0� 1027, 110•
+The theory just gives the correct order of magnitude of the life-time of the nuclear active 
+state. 
+
+
+4. Bose Condensation and the Critical Loading Ratio
+
+Such a long life-time state corresponds to a very narrow energy level in the order 
+of 10·19 eV. This is the reason why we could not observe this resonance level in any low 
+energy beam-target experimentY21 Because the beam energy distribution is much wider 
+than the width of the resonance energy level, it is an analogy to using a screw driver to 
+detect a tiny crack in a brick wall. The crystal lattice assists in observing this narrow 
+resonance in two ways: (1) the trapped deuteron ion in the lattice well is sitting on a 
+discrete energy level with very narrow width also; (2) the periodical structure of the 
+lattice well creates an energy band for the trapped deuteron ions. Then, we have a bunch 
+of needles to detect the single tiny crack on the brick wall. The number of the energy 
+levels (needles) in this band is determined by the grain size, L (i.e. the size of the 
+periodical structure, or the coherent length), and the size of the primitive cell in the 
+palladium lattice, o (i.e. the size of the PdD molecule). When o � 3A , L::::: 60µ, we have 
+roughly (L/0)3�1016 energy levels inside a deuteron energy band. On the other hand the 
+deuteron energy band width, r 8, is determined by the size of the primitive cell as: 
+Thus, the energy difference between each neighboring energy level inside the band is 
+about 10·19 eV. Hence, if the whole band is occupied by the deuterons; then, the whole 
+population has the chance to be in resonance penetration of Coulomb barrier, as long as 
+the energy band is adjusted to a level in resonance with the nuclear energy level. When 
+(L/0)3<<1016, we have much less chance to have resonance penetration of the Coulomb 
+barrier due to the difficulty in matching the narrow nuclear energy level with the lattice 
+energy level. 
+
+Now the question is: how can we populate the deuterons into this energy band? 
+We need the Bose-Einstein condensation. Experiment has shown that hydrogen solved 
+in palladium acts like an ion, 1131 so deuteron should act like a boson. If the deuterons are 
+totally free-moving particles like a gas inside the palladium; then, the critical density for 
+Bose-Einstein condensation is aboutII4I 21th 
+Energy Band 
+It is much higher than the 
+maximum possible deuteron density 
+inside the palladium (::::6.8x 10 22 cm"3). 
+
+However, the experiment has also 
+shown that the hydrogen solved in 
+palladium is not a free-moving gas. In 
+order to explain the anomalous diffusion 
+behavior of the hydrogen in the palla­
+dium, we must assume that there is a 
+component of trapped hydrogen ions 
+(localized)Y51 If we assume an energy 
+spectrum as that in Fig. 1, 
+Fig.1 Energy Band Structure in 
+Palladium Deuteride lattice 
+then the critical density for Bose-Einstein condensation would be 
+Eg neg = nc exp(- k T) B Using ncr6.8x10 22 cm·3 (corresponding to critical loading ratio::::l), T=300 K, we have 
+this number is very close to the activation energy for hydrogen in palladium. 1151
+In fact this condensation model gives a good reason for the critical loading ratio. 
+
+If the deuteron density is lower than this critical density flcg; then, there will be no enough 
+population in the low lying energy band, and less chance for resonance penetration. 
+
+
+5. Nuclear Surface Absorption and o+ ➔O+ Forbidden Transition
+
+The low energy beam-target experiments have established a fact that the strong 
+interaction will annihilate the penetrating deuteron wave after several reverberations. 
+
+When one assumes the reaction rate 
+low energy experimental data show that A= 1.5 x 10-16cm3 sec-1 _1161 Considering that
+the volume of the deuteron-deuteron nuclear interaction is the order of 10"39 cm3, we 
+know that the life-time of the deuteron-deuteron strong interacting system is the order of 
+10"23 sec, i.e. the order of the reverberation time. Then, one may ask the reason why the
+built-up wave function in the resonance case is not annihilated by this strong interaction 
+In fact, the strong absorption in the nuclear well is concentrated on the surface 
+region as suggested by the nuclear optical modelY71 The reaction "constant", A, is not a 
+constant inside the nuclear well; hence, the reaction rate, A, should be 
+(I 1) 
+
+Here, the subscripts, V and S, denote the volume and surface, respectively. Av(r) is much 
+smaller than A.s{r) by a factor of 0·1. When there is no resonance, ri'v(r)I::::: l'l's(r)I ; then,
+the reaction happens mainly in the surface region of the nuclear well, and the life-time is 
+the order of the reverberation time. When the energy reaches the resonance level, the 
+wave function, 'f'v(r), builds up due to the constructive interference between the 
+penetrating wave and the reverberating wave. ri'v(r)I::::: el'f's (r)I >> ri's (r)I .Hence, 
+The life-time of the state is determined by the core part of the wave function, and is 
+greater than the reverberation time by a factor of 0 . 
+
+In other words, the strong interaction annihilates only the deuteron wave near the 
+nuclear surface. The deuteron wave function can still be built up inside the core of the 
+nuclear well where the absorption due to strong interaction is weak. Physically, the 
+absorption (i.e. deuteron loses its identity) only happens in the region where the nuclear 
+force (the derivative of the nuclear potential) is large. Inside the nuclear core, although 
+the nuclear well is deep, the nuclear force is weak there. So the deuteron wave can 
+survive inside the core of the nuclear well. 
+
+In contrast to the short range of the nuclear force, the electromagnetic 
+interaction is a kind of long range force. One may ask the reason why the 
+electromagnetic force does not annihilate the long life-time state . This is due to the 
+symmetry of the system. The symmetry of the wave function of the d+d system is 
+determined by their orbital motion and their spin· motion. At the low incident energy, 
+only the S-wave ( orbital angular momentum l = 0 ) is dominant inside the core of the 
+nuclear well. So the symmetry for the orbital motion is symmetric about the exchange of 
+the two deuterons. Then, the spin motion part of the wave function should be symmetric 
+also in order to keep the symmetry of the total wave function which is necessary for a 
+boson-boson indistinguishable particle system. The spin for each deuteron is 1, the 
+resultant angular momentum may be 0, 1, or 2. Since the state of resultant spin 1 is anti­
+symmetric about the exchange of the two deuterons, it is not an allowable state. The 
+resultant spin should be O or 2Y81 Consequently, the possible total angular momentum 
+and parity for the d+d system is o +, or 2 +. If the resonance state takes the 0 +; then, it 
+should be stable against the electromagnetic interaction. Because the ground state for 
+d+d system is 0+ (helium-4), and the spin for photon (the electromagnetic quantum) is 1, 
+it is forbidden to have a O+ ➔O+ electromagnetic transition due to the conservation of the 
+angular momentum. 
+
+What we have to figure out is the mechanism through which the excited d+d 
+system transfers the energy to the lattice system in a slow time scale. 
+
+
+6. Conclusion: Thunder without Lightning is OK
+
+Based on above-mentioned discussion, we have seen that the long life-time 
+nuclear active state may be created after the resonance penetration of Coulomb barrier in 
+the d+d system in terms of the lattice confined deuterons. This is a resonance state which 
+cannot be observed in a low energy beam-target experiment. This resonance state will 
+not emit strong nuclear radiation (neutron, triton, or y radiation). This is just the answer 
+to Professor J.Huizenga's challenge of three miracles. Only the chemists have a better 
+chance to discover this nuclear active state in terms of calorimeter, because there is no 
+strong nuclear radiation. 
+
+Although it is a long life-time slow reaction, it is still a practically useful energy 
+source. Even if only one thousandth of the deuterons inside the palladium are involved in 
+this state, the "excess power" is of the order of 1 kW per cubic centimeter of the 
+palladium. This is about the same as that in a fuel rod of a fast fission breeder reactor. 
+
+In these two meanings, we say that thunder without lightning is O.K. This 
+theory predicts that if we could produce the palladium with greater grain size and greater 
+activation energy, it should be easier to reproduce the "excess heat" experiment. 
+
+
+References 
+
+I .JR.Huizenga, "Cold Fusion: The Scientific Fiasco of the Century", p.112, University 
+of Rochester Press (1992). 
+2.G.Gamow, "Zur Quantentheorie des Atomkernes." Zeitschrift fur Physik, 51, 204
+3.S.Pons & M.Fleischmann, "Heat after death", Proceedings: Fourth International
+Conference on Cold Fusion,Decmber 6-9, 1993, Lahaina, USA, Vol.2, p.8-1(1994).
+· 4.M.C.H.McKubre, et al.,"Loading, Calorimetry, and Nuclear Investigation of the D/Pd
+. System", Proceedings: Fourth International Conference on Cold Fusion, Decmber 6-
+9,1993, Lahaina, USA, Vol.1, p.5-26(1994). 
+5.J.P.Biberian,"Excess Heat Measurement in A1LaO3 Doped with Deuterium", ICCF-5,
+paper No.205(1995).
+6.E.Storms,"A Critical Overview of Cold Fusion", ICCF-5, paper No.101(1995).
+7.M.Eisner,"The Serendipitous Design and Execution of an Early Experiment which
+Confirmed Heat in the Fleischmann-Pons Effect",ICCF-5, paper No.212(1995).
+8.X.Z.Li, "Tunneling the Coulomb Barrier via Lattice Confined Ions", submitted to
+Physics Letters A,(1995).
+9.X.Z.Li, "Revisit to Gamow Factor", ICCF-5, paper No.403,(preprint, 1995).
+10. S.E.Koonin, and M.Nauenberg, "Calculated Fusion Rates in Isotopic Hydrogen
+Molecules." Nature, 339, 690(1989).
+11.Ya. B. Zel'dovich, S.S.Gershtein, "Nuclear Reactions in Cold Hydrogen, I. Mesonic
+Catalysis", Soviet Phys. Usp. 3, 593 (1961).
+12. F.E.Cecil, and G.M.Hale, "Measurement of d-d and d-6Li Nuclear Reactions at Very
+Low Energies." in the "The Science of Cold Fusion." Edited by T.Bressani, E.Del
+Giudice and G.Preparata, SIF, Bologna, p.271 (1991).
+13.A.H.Verbruggen, et al., Phys. Rev. Lett. 52, 1625 (1984).
+14.C.Kittel, and H.Kroemer, "Thermal Physics", 2-nd ed., p.281, Freenman, New York
+15.Y.Fukai, "The Metal-Hydrogen System", p.212, Springer Verlag, Berlin (1993).
+16.F.W.Fowler, G.R.Caughlan, & B.A. Zimmerman, A. Rev. Astr. Astrophys. 5, 525-570
+17.H.Feshbach, "Theoretical Nuclear Physics", Wiley & Sons, Inc.,Boston, p.488(1992)
+18. D.M.Brink, and G.R.Satchler, "Angular Momentum", 3-rd ed., p.35, Oxford Science
+Publications (1993).

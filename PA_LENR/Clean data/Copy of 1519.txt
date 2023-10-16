@@ -1,0 +1,6630 @@
+1 Introduction and Background 
+
+The process of Technology Assessment (TA) is a tool which can be used to anticipate and 
+mitigate negative impacts from the introduction of new technologies. The process of a 
+Technology Assessment is more of an art than a science, but the overall goal of discovering the 
+higher-order effects of technology is why Technology Assessment was created. One way of 
+describing TA is to bring together researchers and policymakers.1 By linking these two groups 
+of people together, there is the possibility to breach the divide which exists a wedge between 
+progress and development in new areas of science and technology. Examining the process of 
+conducting a TA will show the path for a way to examine the development of the technology in 
+the LENR/CF field.  
+
+Many have described TA as a type of systems analysis which would examine the impacts of a 
+technology on society and various other metrics. But it also more than that, as Lee & Bereano 
+state: “…the authors do not believe that a singular approach is possible…TA is neither merely 
+forecasting nor futures research, neither social impact analysis nor purely system analysis. It 
+goes beyond simply identifying the impacts and their causation.”2 The field of TA has shown 
+that is possible for the government and scientists to find a place for a dialogue to exist which can 
+showcase the higher order impacts of the introduction of new developments in science and 
+technology. Since there is some variability as to what should even be included in a TA, different 
+people have opined on what should be included. Sampling different TAs can give a taste of how 
+different committees of people have answered the question of “What will this technology do to 
+the society it is to be introduced to?”. Coates3 gives answer for how the Committee on Science 
+and Public Policy answered what should the TA emphasize: “…the focal points of from which 
+the assessment should begin…[are] the technology, the environment or the individual. Beginning 
+with the focal point an assessment must consider both economic, social and legal arrangements 
+which facilitate and use of a technology.”  
+No matter the composition or areas of focus that the TA will cover, there are two things that all 
+TAs should strive to achieve. The first is bounding the assessment. By setting the boundaries of 
+what the assessment will cover, it allows for the project team to make progress toward the 
+answers which they seek. Without bounding, the “…problem can be extended infinitely without 
+method to limit the scope of the study.”2 The second attribute that the TA should attempt is to 
+lay out policy alternatives. The effects of technology are most uncertain when the time horizon 
+for introduction of the technology is a long way off. But policymakers do not want the 
+researchers to make the decisions for them. It is necessary that society is informed of the policy 
+alternatives are selected. Society will undergo changes with or without a TA completed on a 
+given topic, but with the TA, society is illuminated to alternatives that can point it in an optimal 
+direction.4 
+
+
+2 Technology Assessment 
+
+2.1 Purpose and Scope :
+The TA should be organized in a way to focus the study on the impacts from the deployment of 
+this type of technology. Maybe the way to structure alternatives would be to lay out the different 
+types of technology and the materials in the reactions- i.e. the nickel vs. palladium or the type of 
+scale that each type of company is proposing. The TA must find a way to focus the issues and list 
+alternatives or put up the alternatives just to shoot them down. 
+
+TA will require experts in many fields to be able to identify the numerous impacts that may 
+occur, broad deployment will hit some areas of economy quicker and harder than others. Experts 
+can outline what the likely areas will be.  
+
+2.2 History  :
+The Office of Technology Assessment (OTA) was created in 1972 as a passion project of 
+Congressman Emilio Q. Daddario. The Congressman wanted a way to provide policymakers 
+with a mechanism for policy research that would be able to respond to a world in which 
+technology continues to be developed at a rapid pace. There was a need to categorize the 
+potential positive effects of technology and give a methodology for integrating this technology 
+into society. It was also necessary for predicting and offer mitigation strategies for the negative 
+impacts.5 Since there was a lack of information about technology that was reaching 
+policymakers, the final construction of the oversight board, Technology Assessment Board was 
+made up of members of the House and Senate. The new agency, Office of Technology 
+Assessment began its work and produced its first final TA in July of 1974. 
+
+OTA completed many reports during its time in existence. For this project, there were five TAs 
+that were related to energy and were evaluated for their applicability to the LENR/CF field.  
+1. Energy from the West TA (Year) 
+2. Coal Slurry Pipeline TA (Year) 
+3. Coastal Offshore Energy Systems TA (Year) 
+4. Energy Technology Choices TA (Year) 
+5. Renewing Our Energy Future TA (1995) 
+5 Guidebook for TA 
+
+More in-depth summaries of the TA reports are presented in Appendix B. 
+
+The first three reports all have the distinction of evaluating a specific technology or project in a 
+certain spatial context. There are bound by geography and for number 2 and 3, they are bounded 
+by specific technologies. The latter TAs are geared toward overall trends in energy and the 
+energy mix choices for the country. The TA report for the LENR/CF case should be mainly 
+broad like numbers 4 and 5 to bring about the most robust analysis. But since, LENR/TA is a 
+specific technology choice, it is bounded similar to the reports which cover technologies. The 
+project team should seek to follow the model which does not limit the spatial scope, but the 
+technical one to cover LENR/CF in a proper way.  
+
+2.3 Current Development and Participatory TA :
+Though the OTA was defunded in 1995, the process of Technology Assessment did not 
+completely disappear. In fact, it has thrived in Europe and also brought in laypeople to help with 
+the analysis and policy for analyzing science and technology trends. In fact, there are about 12 
+TA bodies in Europe including one in the European parliament. Scholars have pushed to 
+reestablish Technology Assessment in the United States and to bring the public to the table when 
+it comes to creating technology policy. Experts have recognized the valuable input that citizens 
+can provide to science and technology policy. Within Europe, the best example of citizen 
+engagement is the Danish style “consensus conference” which provides policy makers with a 
+window into ordinary citizens’ opinions on technological developments by facilitating discussion 
+about a particular topic and getting these stakeholders to participate in the policy making 
+process.  
+
+Since Participatory Technology Assessment (pTA) is focused on bringing citizens into the 
+discussion, it would alleviate one of the biggest criticisms that were leveled at the OTA: no 
+citizen perspective. While the OTA solicited outsider opinions on a regular basis, by far these 
+people were concentrated in academia, industry and public-interest groups. The lay people were 
+not brought into the process in a formalized way. Without the citizen, layperson involved in the 
+TA process, the results will lack social values and specification of concerns of the public. With 
+the knowledge base that a large sample of the general population can provide, the TA can 
+assimilate broad understandings and other ideas that experts may overlook or underweight.6 
+Policy development is enhanced when real-world citizens are included in the process rather than 
+scientific decisions being made from the Ivory Tower. The legitimacy is improved with outreach 
+and greater consensus on impacts from technology.  
+
+The pTA can utilize 21st-century technology to reach many more people than a traditional expert-
+only TA would. Social networks and transparent reporting can make for a robust process with 
+many opinions of the average person taken into account.  
+
+2.4 Importance of Evaluating Alternatives :
+Since policy assessment is the main focus for TA, emphasizing the alternatives should be major 
+focus of the report. An analysis which focuses on scenarios provides the greatest insight to where 
+the technology could be headed and gives policymakers a firm grasp on the uncertainty which 
+may exist in the choice of technology. Without a range of possibilities it is hard for people to 
+understand where developments could be headed. The upper and lower bounds which the TA 
+project team provides is a way for the TA to be valid and understandable by a wide range of 
+people. A good model for scenario analysis is contained in Chapter 4 of the Energy Technology 
+Choices TA. In that TA, there is a wide dispersion of possible outcomes and different weights 
+associated with different impacts of the technology. A TA which can say that it covered the 
+range of outcomes offers an unbiased diagnosis of the technology and can be a quality reference 
+document for the policymakers in the United States. 
+
+Without a focus on scenarios and their possible outcomes, the project team has only one 
+opportunity to deliver its assessment to the policymakers. The incorporation of pTA within the 
+scenario analysis offers a sensitivity analysis to conclusions that the project team will offer. 
+
+2.5 Relevance of TA to/for? LENR/CF case :
+Since there is a potential for a paradigm shift, LENR/CF is a great candidate for a TA. With a 
+potential for a huge impact at the intersection of technology and society, there exists a need for 
+an evaluation of the higher-order impacts from what the introduction of LENR/CF could mean 
+for American society. Though the OTA is no longer funded and TA is no longer an integral part 
+of Congress’ information gathering apparatus, TA is tool which has been used in Europe even 
+after it fell out of favor in the United States. By integrating more laypeople into the actual project 
+and gaining insight into underweighted or overlooked impacts, the study allows for much more 
+practicality for policymakers to make informed policy choices. Since LENR/CF could upend the 
+current structure of the American economy, there would need to be a study of the downstream 
+effects from the introduction of a cheap and clean energy source. The web of society and its 
+different factors would need a broad and deep investigation of what LENR/CF could mean. 
+
+Correlation and causation of different impacts would need to be detailed in a formal project 
+which could offer effective policy for the government, business, academia and non-profit 
+organizations. Providing a proper guidebook for the potential progress of a technology this 
+powerful would be valuable to show policymakers a way for plans to be formed when and if 
+LENR/CF reaches commercial scale. Preparing in advance of a gathering wave could mitigate 
+negative effects and enhance the positive effects.  
+
+
+3 Prospective Plan for Technology Assessment of LENR/CF Case 
+
+3.1 Form initial TA project team to bring in for the project :
+
+3.2 Perform TA Microassessment :
+Microassessment can guide the team to the best areas of research and what to make sure to 
+include in the TA for the LENR/CF cased. After microassessment has been performed, the basics 
+of the larger TA will be in place. The microassessment which is a “quick and dirty” can give the 
+assessment team the initial context and provide a roadmap where the research should begin 
+(Porter et al. p. 156) 
+Formulate Plan Boundaries and Scope 
+What type of TA should be undertaken? (From Coates & Porter et al.) 
+For the LENR/CF case, a technology-oriented TA is best methodology to follow for this type of 
+technology 
+
+3.3 Problem/System/Technology Definition :
+Decide which methodology or combination of methodologies would work the best for LENR/CF 
+case. (Lee and Bereano, Coates, 1977 hearings, TA Theory, Black) 
+
+3.4 Technology Description :
+A good tool for this part of the study is a MITRE technology description checklist. Performing 
+this analysis would provide most of the information for the Technology description step as well 
+as the Technology forecast step 
+
+3.5 Technology Forecast :
+Though the MITRE checklist will capture most of the information for the technology forecast, 
+using the techniques such as monitoring, trend extrapolation and expert opinion methods can 
+help the project team with forecasting the LENR/CF field 
+
+3.6 Social description :
+Answer questions about the technology. Will it affect the society at large? Will there be impacts 
+to the national conditions of the country? 
+
+3.7 Social forecast :
+Using social indicators, there are scenarios that can be used to facilitate the predicted outcome 
+for the technology on society. Unlike technology forecasting, there is much more uncertainty in 
+the prediction of state of society. Insight and intuition are the assessor’s best guides 
+Steps 3.8-3.11 should be conducted iteratively rather than sequentially to 
+determine the complete and thorough analysis for the technology  
+
+3.8 Impact identification :
+Use the EPISTLE technique to go through the impacts to the following categories: 
+• Environmental 
+• Psychological  
+• Institutional/political 
+• Social 
+• Technological 
+• Legal 
+• Economic 
+Techniques such as scanning, tracing and policy considerations are tools within the EPISTLE 
+framework  
+
+3.9 Impact analysis :
+Employment of models which can simulate reality are the best tool to use to gain insight into the 
+impact from the technology. A systems dynamic model which outlines feedback loops is one of 
+the best models to use for LENR/CF case. 
+
+3.10 Impact evaluation :
+From the Impact identification EPISTLE tool and the models developed from Impact analysis, 
+evaluating impacts allow for assigning value to the impacts. 
+
+Three techniques could be used, but decision analysis is the best technique for LENR/CF to 
+divide the decision making up.  
+
+3.11 Policy analysis :
+Policy analysis is a most important part of any assessment. It requires sufficient time and 
+resources to be done well. Using the models and making explicit recommendations is option of 
+the assessors and is usually desirable if the assessment team can convince its audience that is 
+unbiased 
+
+3.12 Communication of results :
+The project team should be open at all times of the TA. From before the study begins to after the 
+final report is released, providing open information to the public community allows for all the 
+stakeholders to voice their concerns as well as advantages to the project team. 
+
+
+Appendix A: Technology Assessment Theory 
+Include writeup/summary in Appendix A: 
+1. Systems of Analysis, Technology Assessment, and Bureaucratic Powe , RICH, ROBERT F., 
+American Behavioral Scientist, 22:3 (1979:Jan./Feb.) p.393 
+2. 1977 TA Hearings 
+3. Technology and Public Policy: The Process of Technology Assessment in the Federal Government, Vary 
+Coates (YEAR) 
+4. Developing Technology Assessment Methodology: Some Insights and Experiences, Lee, Alfred M. & 
+Bereano Philip L., Technological Forecasting and Social Change 19, 15-31 (1981) 
+5. Technology Assessment Article – C&EN 10/5/1970 
+6. Technology Assessment –What Should it Be?, Guy Black (YEAR) 
+7. A Guidebook for Technology Assessment and Impact Analysis, Porter et al. (YEAR)
+ 
+1. RICH, ROBERT F., Systems of Analysis, Technology Assessment, and Bureaucratic 
+Power	
+Technology	
+  Assessment	
+  can	
+  assist	
+  the	
+  federal	
+  government	
+  with	
+  “…evaluative	
+  information	
+  on	
+  potential	
+positive	
+  and	
+  negative	
+  environmental,	
+  economic,	
+  sociological,	
+  technological,	
+  and	
+  other	
+  impacts	
+  before	
+budgetary	
+  appropriations	
+  are	
+  recommended	
+  and	
+  approved	
+  by	
+  the	
+  appropriate	
+  branches	
+  of	
+government.”	
+TA	
+  seeks	
+  to	
+  connect	
+  the	
+  researchers	
+  and	
+  policy-­‐makers.	
+  Performing	
+  a	
+  TA	
+  is	
+  akin	
+  to	
+  a	
+  system	
+  analysis	
+which	
+  brings	
+  a	
+  “rational,	
+  systematic”	
+  method	
+  to	
+  public	
+  policy.	
+  TA	
+  is	
+  a	
+  way	
+  to	
+  view	
+  impacts	
+  on	
+  the	
+  world	
+from	
+  the	
+  introduction,	
+  extension	
+  or	
+  modification	
+  of	
+  technology.	
+
+A	
+  System	
+  of	
+  Analysis:	
+  TA	
+“Systems	
+  of	
+  analysis	
+  can	
+  be	
+  thought	
+  of	
+  as	
+  both	
+  formal	
+  and	
+  informal.	
+  The	
+  critical	
+  distinction	
+  between	
+systems	
+  of	
+  analysis	
+  and	
+  more	
+  routine	
+  knowledge	
+  or	
+  information	
+  is	
+  that	
+  a	
+  system	
+  of	
+  analysis	
+  is	
+  associated	
+with	
+  a	
+  set	
+  of	
+  general	
+  rules,	
+  procedures	
+  and	
+  processes	
+  which	
+  guide	
+  the	
+  production	
+  of	
+  the	
+  end	
+  product.	
+  “	
+The	
+  commitment	
+  to	
+  performing	
+  a	
+  TA	
+  or	
+  any	
+  systems	
+  of	
+  analysis	
+  is	
+  a	
+  cultural	
+  change	
+  for	
+  an	
+  organization.	
+
+It	
+  will	
+  modify	
+  the	
+  way	
+  that	
+  information	
+  is	
+  collected,	
+  no	
+  longer	
+  is	
+  a	
+  specific	
+  information	
+  goal;	
+  with	
+  TA	
+  it	
+  is	
+  a	
+generic	
+  information	
+  gathering	
+  process.	
+  Once	
+  an	
+  organization	
+  makes	
+  a	
+  formal	
+  commitment	
+  to	
+  TA,	
+  the	
+capacity	
+  of	
+  the	
+  organization	
+  will	
+  likely	
+  change	
+  to	
+  a	
+  methodology	
+  of	
+  developing	
+  systematic	
+  and	
+  rational	
+decisions.	
+
+There	
+  is	
+  a	
+  friction	
+  in	
+  a	
+  TA	
+  between	
+  the	
+  researcher	
+  and	
+  the	
+  public	
+  official.	
+  Both	
+  are	
+  likely	
+  to	
+  pursue	
+  an	
+outcome	
+  that	
+  minimizes	
+  uncertainty,	
+  risk	
+  and	
+  cost.	
+  But	
+  these	
+  two	
+  types	
+  of	
+  people	
+  will	
+  likely	
+  pursue	
+different	
+  outcomes	
+  when	
+  it	
+  comes	
+  to	
+  solving	
+  a	
+  problem.	
+  The	
+  researcher	
+  is	
+  on	
+  a	
+  search	
+  for	
+  “truth”	
+  while	
+the	
+  public	
+  official	
+  is	
+  on	
+  a	
+  search	
+  for	
+  “power”.	
+  TA	
+  is	
+  a	
+  powerful	
+  way	
+  to	
+  view	
+  problems	
+  because	
+  it	
+  can	
+  help	
+make	
+  predictions	
+  about	
+  the	
+  future.	
+  TA	
+  can	
+  help	
+  lessen	
+  the	
+  risk	
+  that	
+  public	
+  officials	
+  will	
+  guess	
+  wrong	
+about	
+  a	
+  particular	
+  type	
+  of	
+  technology.2	
+TA	
+  represents	
+  a	
+  tool	
+  that	
+  seeks	
+  to	
+  “span	
+  boundaries”	
+  and	
+  bring	
+  in	
+  people	
+  from	
+  many	
+  different	
+disciplines.	
+  It	
+  represents	
+  an	
+  advantage	
+  to	
+  policymakers	
+  in	
+  that	
+  it	
+  is	
+  “more	
+  rational	
+  in	
+  a	
+  scientific	
+  sense”,	
+utilizes	
+  scientific	
+  research,	
+  and	
+  depend	
+  s	
+  less	
+  on	
+  intuition	
+  than	
+  officials	
+  are	
+  normally	
+  asked	
+  to	
+  do.	
+• 
+  TA	
+  Hearings	
+From	
+  hearing	
+  s	
+  in	
+  Congress	
+  which	
+  covered	
+  TA	
+  in	
+  government	
+  and	
+  private	
+  industry,	
+  there	
+  are	
+major	
+  facets	
+  to	
+  TA.7	
+I. 
+
+Evolution	
+a. The	
+  potential	
+  primary	
+  impacts	
+  and	
+  side-­‐effects	
+  of	
+  technology	
+  need	
+  to	
+  be	
+  identified	
+  when	
+developing	
+  approached	
+  for	
+  achieving	
+  an	
+  organization’s	
+  goals.	
+  The	
+  TA	
+  concept	
+  can	
+  be	
+utilized	
+  either	
+  as	
+  a	
+  strategy	
+  for	
+  anticipating	
+  problems	
+  associated	
+  with	
+  emerging	
+technologies	
+  or	
+  as	
+  an	
+  organizing	
+  concept	
+  for	
+  clarifying	
+  policy	
+  options	
+  associated	
+  with	
+long-­‐range	
+  and	
+  complex	
+  social-­‐technological	
+  issues	
+b. TA	
+  should	
+  be	
+  tailor-­‐made	
+  to	
+  fit	
+  each	
+  study.	
+  A	
+  flexible	
+  approach	
+  is	
+  mandatory,	
+  but	
+  there	
+are	
+  a	
+  number	
+  of	
+  preliminary	
+  mandatory	
+  steps	
+  that	
+  have	
+  proven	
+  useful.	
+  The	
+  two	
+  critical	
+steps	
+  that	
+  fell	
+  out	
+  of	
+  the	
+  discussion	
+  was	
+  defining	
+  the	
+  task	
+  and	
+  the	
+  technology	
+c. A	
+  complete	
+  TA	
+  is	
+  a	
+  comprehensive	
+  attempt	
+  to	
+  identify	
+  and	
+  describe	
+  a	
+  technology’s	
+entire	
+  range	
+  of	
+  side-­‐effects	
+  as	
+  well	
+  as	
+  its	
+  policy	
+  options	
+  and	
+  alternatives	
+II. 
+
+Adaptability	
+a. TA	
+  will	
+  be	
+  more	
+  credible	
+  and	
+  have	
+  more	
+  impact	
+  if	
+  a	
+  wide	
+  spectrum	
+  of	
+  alternatives	
+  is	
+communicated	
+  to	
+  affected	
+  parties	
+  before	
+  they	
+  become	
+  committed	
+  to	
+  specific	
+  courses	
+  of	
+action	
+b. The	
+  characteristics	
+  of	
+  adaptability	
+  and	
+  flexibility	
+  have	
+  also	
+  proven	
+  of	
+  interest	
+  to	
+  planners	
+who	
+  claim	
+  that	
+  TA	
+  maps	
+  a	
+  problem	
+  much	
+  better	
+  than	
+  other	
+  types	
+  of	
+  techniques	
+III. 
+
+Alerting	
+a. In	
+  addition	
+  to	
+  elucidating	
+  options	
+  and	
+  alternatives,	
+  TA	
+  can	
+  provide	
+  early	
+  warning	
+  of	
+consequences	
+  normally	
+  unanticipated	
+  in	
+  traditional	
+  planning.	
+  This	
+  is	
+  a	
+  distinctive	
+advantage	
+  for	
+  policy	
+  makers.	
+
+IV. 
+
+Planning	
+a. “…TA	
+  program	
+  is	
+  used	
+  to	
+  anticipate	
+  and	
+  plan	
+  for	
+  the	
+  impacts	
+  of	
+  technology	
+  changes	
+  on	
+our	
+  products	
+  and	
+  operations…In	
+  short,	
+  our	
+  TA	
+  program	
+  is	
+  an	
+  essential	
+  ingredient	
+  in	
+  our	
+long-­‐range	
+  business	
+  planning,	
+  investment	
+  policy,	
+  product	
+  planning	
+  and	
+  market	
+
+
+7 Technology Assessment in Business and Government January 1977, NTIS Order #PB-273164 
+development.”	
+  George	
+  E.	
+  Mueller,	
+  President	
+  and	
+  Chairmen	
+  of	
+  the	
+  Board,	
+  System	
+Development	
+  Corporation	
+b. “…TA	
+  studies	
+  do	
+  not	
+  promise	
+  to	
+  accurately	
+  predict	
+  the	
+  future.	
+  Their	
+  purpose	
+  is	
+  to	
+  make	
+us	
+  aware	
+  of	
+  future	
+  possibilities.”	
+  Jack	
+  B.	
+  Moore,	
+  VP	
+  California	
+  Edison	
+  Company	
+c. Factors	
+  Corporate	
+  Planning	
+  of	
+  a	
+  TA	
+i. Technology,	
+  Present	
+  and	
+  Future	
+ii. U.S.	
+  Governmental	
+  and	
+  Public	
+  Policies	
+iii. Economy	
+iv. Social	
+  Trends	
+v. Product	
+  Supply	
+  and	
+  Demand	
+vi. Competition	
+vii. Feedstocks	
+viii. Demographics	
+ix. Environment	
+x. International	
+  Factors	
+V. 
+
+Utilization	
+a. Pressures	
+  for	
+  TA	
+  involvement	
+i. Defensive	
+  reactions	
+ii. Positive	
+  pressures	
+iii. Corporate	
+  Social	
+  Responsibility	
+b. TA	
+  is	
+  important	
+  because	
+  it	
+  provides	
+  the	
+  decision	
+  makers	
+  with	
+  a	
+  spectrum	
+  of	
+  options	
+  and	
+alternatives	
+c. TA	
+  is	
+  useful	
+  to	
+  help	
+  address	
+  externalities	
+  that	
+  may	
+  not	
+  be	
+  considered	
+  in	
+  the	
+  routine	
+supply	
+  chain	
+  impacts	
+VI. 
+
+Communication	
+a. TA	
+  can	
+  bring	
+  in	
+  potential	
+  users,	
+  sponsors,	
+  decision	
+  makers,	
+  affected	
+  parties	
+  and	
+  other	
+stakeholders	
+  to	
+  provide	
+  a	
+  comprehensive	
+  view	
+  of	
+  the	
+  impacts	
+  of	
+  a	
+  specific	
+  type	
+  of	
+technology	
+b. Could	
+  provide	
+  for	
+  more	
+  effective	
+  regulation	
+  as	
+  the	
+  business	
+  side	
+  as	
+  the	
+  public	
+  is	
+  involved	
+along	
+  with	
+  industry	
+  to	
+  bring	
+  together	
+  all	
+  potential	
+  impacts	
+  from	
+  the	
+  implementation	
+  of	
+  a	
+technology	
+From	
+  these	
+  hearings,	
+  here	
+  is	
+  a	
+  selection	
+  of	
+  the	
+  main	
+  findings	
+  that	
+  the	
+  committee	
+  found:	
+• 
+The	
+  use	
+  of	
+  a	
+  team	
+  of	
+  assessors,	
+  cutting	
+  across	
+  man	
+  disciplines,	
+  is	
+  essential	
+  for	
+  carrying	
+  out	
+  large	
+and	
+  complex	
+  TAs	
+• 
+TA	
+  is	
+  a	
+  process	
+  that	
+  is	
+  likely	
+  to	
+  be	
+  repeated	
+  at	
+  more	
+  sophisticated	
+  levels	
+  as	
+  new	
+  knowledge	
+develops	
+  and	
+  technology	
+  evolves	
+• 
+TA	
+  possesses	
+  certain	
+  structural	
+  elements.	
+o It	
+  describes	
+  the	
+  technology	
+o Defines	
+  the	
+  issue	
+  and	
+  its	
+  current	
+  status	
+o Sets	
+  forth	
+  the	
+  issue’s	
+  ostensible	
+  future	
+  course	
+o Identifies	
+  policy	
+  actions	
+o Suggests	
+  alternative	
+  policy	
+  scenarios	
+o Assess	
+  the	
+  complete	
+  spectrum	
+  of	
+  potential	
+  impacts	
+• 
+TA	
+  can	
+  reveal	
+  surprises	
+  because	
+  its	
+  results	
+  are	
+  not	
+  necessarily	
+  predictable	
+• 
+TA	
+  is	
+  more	
+  of	
+  an	
+  art,	
+  than	
+  a	
+  formalized	
+  scientific	
+  discipline	
+• 
+Vary	
+  Coates	
+  Technology	
+  and	
+  Public	
+  Policy:	
+  The	
+  Process	
+  of	
+  Technology	
+Assessment	
+  in	
+  the	
+  Federal	
+  Government	
+
+
+Introduction	
+
+This	
+  reference	
+  material	
+  is	
+  from	
+  and	
+  takes	
+  a	
+  high-­‐level	
+  view	
+  of	
+  Technology	
+  Assessment	
+  up	
+  until	
+  that	
+point	
+  in	
+  time.	
+  Working	
+  with	
+  the	
+  National	
+  Science	
+  Foundation	
+  this	
+  report	
+  is	
+  a	
+  comprehensive	
+  view	
+  of	
+  the	
+field	
+  of	
+  technology	
+  assessment	
+  and	
+  how	
+  it	
+  has	
+  been	
+  deployed	
+  across	
+  the	
+  federal	
+  government.	
+  The	
+  report	
+works	
+  through	
+  the	
+  initial	
+  phases	
+  of	
+  TA	
+  and	
+  gets	
+  to	
+  the	
+  different	
+  aspects	
+  of	
+  what	
+  makes	
+  up	
+  and	
+  TA	
+  and	
+where	
+  TA	
+  was	
+  heading	
+  to	
+  at	
+  this	
+  point	
+  in	
+  time.	
+  The	
+  study	
+  walks	
+  through	
+  findings	
+  from	
+  the	
+  Congressional	
+Committees	
+  as	
+  well	
+  as	
+  two	
+  scientific	
+  committees	
+  Committee	
+  on	
+  Science	
+  and	
+  Public	
+  Policy	
+  (COSPUP)	
+  and	
+Committee	
+  on	
+  Public	
+  Engineering	
+  Policy	
+  (COPEP)	
+  The	
+  following	
+  list	
+  and	
+  ideas	
+  outline	
+  some	
+  of	
+  the	
+  major	
+findings	
+  from	
+  these	
+  committees	
+  and	
+  what	
+  the	
+  most	
+  important	
+  ideas	
+  to	
+  take	
+  away	
+  from	
+  the	
+  reports.	
+• 
+“Throughout	
+  most	
+  of	
+  history	
+  the	
+  impetus	
+  for	
+  technological	
+  innovation	
+  was	
+  the	
+  expectation	
+  of	
+direct	
+  benefits	
+  for	
+  the	
+  user	
+  and	
+  for	
+  relatively	
+  small	
+  segments	
+  of	
+  society,	
+  usually	
+  the	
+  economic	
+dominant	
+  class…social	
+  costs…need	
+  not	
+  be	
+  considered	
+  and	
+  could	
+  almost	
+  said	
+  to	
+  have	
+  been	
+invisible.”	
+• 
+“…political	
+  thinkers	
+  are	
+  again	
+  pointing	
+  to	
+  the	
+  seeming	
+  inability	
+  of	
+  democratic	
+  societies	
+  to	
+provide…	
+  “stable	
+  metasystems”	
+  for	
+  the	
+  control	
+  of	
+  self-­‐directed,	
+  change-­‐resisting	
+  social	
+institutions	
+  which	
+  are	
+  powerfully	
+  organized	
+  to	
+  maintain	
+  their	
+  internal	
+  stability	
+  and	
+  survival.”	
+• 
+“Technology	
+  Assessment	
+  has	
+  been	
+  discussed	
+  as	
+  a	
+  technique	
+  for	
+  improving	
+  societal	
+  control	
+  over	
+technological	
+  development	
+  and	
+  applications	
+  within	
+  the	
+  constitutional	
+  framework	
+  and	
+institutional	
+  structure	
+  of	
+  the	
+  federal	
+  government.	
+  By	
+  technology	
+  assessment	
+  is	
+  meant	
+  the	
+systematic	
+  identification,	
+  analysis,	
+  and	
+  evaluation	
+  of	
+  the	
+  potential	
+  secondary	
+  consequences	
+(whether	
+  beneficial	
+  or	
+  detrimental)	
+  of	
+  technology	
+  in	
+  terms	
+  of	
+  its	
+  impacts	
+  on	
+  social,	
+  cultural,	
+political,	
+  economic,	
+  and	
+  environmental	
+  systems	
+  and	
+  processes.”	
+• 
+“Technology	
+  assessment	
+  is	
+  intended	
+  to	
+  provide	
+  a	
+  neutral,	
+  factual	
+  input	
+  into	
+  the	
+  decision-­‐making	
+process.	
+  Assessment	
+  techniques	
+  may	
+  be	
+  integrated	
+  into	
+  the	
+  planning,	
+  designing,	
+  and	
+  evaluative	
+process	
+  used	
+  by	
+  government	
+  agencies	
+  in	
+  preparing	
+  technology-­‐oriented	
+  programs	
+  and	
+  projects,	
+and	
+  may	
+  also	
+  provide	
+  a	
+  critical	
+  review	
+  of	
+  such	
+  programs	
+  and	
+  projects	
+  after	
+  their	
+  injection	
+  into	
+the	
+  public	
+  policy	
+  arena.”	
+• 
+Quote	
+  from	
+  Congressman	
+  Daddario:	
+  “…a	
+  form	
+  of	
+  policy	
+  research	
+  which	
+  provides	
+  a	
+  balanced	
+appraisal	
+  to	
+  the	
+  policymaker.	
+  Ideally,	
+  it	
+  is	
+  a	
+  system	
+  to	
+  ask	
+  the	
+  right	
+  questions	
+  and	
+  obtain	
+  correct	
+and	
+  timely	
+  answers.	
+  It	
+  identifies	
+  policy	
+  issues,	
+  assesses	
+  the	
+  impacts	
+  of	
+  alternative	
+  courses	
+  of	
+action,	
+  and	
+  presents	
+  findings.	
+  It	
+  is	
+  a	
+  method	
+  of	
+  analysis	
+  that	
+  systematically	
+  appraises	
+  the	
+  nature,	
+significance,	
+  status	
+  and	
+  merit	
+  of	
+  a	
+  technological	
+  program…	
+  (and)	
+  is	
+  designed	
+  to	
+  uncover	
+  three	
+types	
+  of	
+  consequences	
+  desirable,	
+  undesirable	
+  and	
+  uncertain.”	
+• 
+“Perhaps	
+  the	
+  greatest	
+  difficulty…with	
+  scientific	
+  information	
+  was	
+  that	
+  ‘…members	
+  of	
+  Congress	
+found	
+  it	
+  impossible	
+  to	
+  accept	
+  the	
+  proposition	
+  that	
+  science	
+  is	
+  probabilistic.’”	
+  P.	
+  1-­‐18	
+• 
+“It	
+  must	
+  be	
+  an	
+  iterative	
+  process…At	
+  the	
+  same	
+  time,	
+  delay	
+  in	
+  decisionmaking	
+  can	
+  allow	
+irreversible	
+  detrimental	
+  impacts	
+  to	
+  occur…it	
+  is	
+  important	
+  that	
+  the	
+  process	
+  of	
+  TA	
+  should	
+  begin	
+  to	
+occur	
+  as	
+  far	
+  upstream	
+  as	
+  possible.”	
+  P.	
+  1-­‐19	
+• 
+Committee	
+  on	
+  Science	
+  and	
+  Public	
+  Policy	
+  (COSPUP)	
+  Report	
+• 
+“The	
+  COSPUP	
+  report	
+  also	
+  included	
+  a	
+  first	
+  attempt	
+  at	
+  structuring	
+  a	
+  methodology	
+  for	
+  technology	
+assessment.	
+  P.	
+  1-­‐21	
+o “Recognizing	
+  that	
+  there	
+  was	
+  ‘no	
+  unique	
+  way	
+  to	
+  break	
+  down	
+  so	
+  vat	
+  a	
+  subject’,	
+  the	
+  panel	
+conceptualized	
+  the	
+  tasks	
+  in	
+  three	
+  interrelated	
+  subject	
+  areas:	
+• 
+The	
+  focal	
+  points	
+  from	
+  which	
+  assessments	
+  should	
+  begin	
+• 
+Focal	
+  point	
+  may	
+  be	
+  the	
+  technology,	
+  the	
+  environment,	
+  or	
+  the	
+  individual	
+• 
+Beginning	
+  with	
+  the	
+  focal	
+  point	
+  an	
+  assessment	
+  must	
+  consider	
+  both	
+economic,	
+  social	
+  and	
+  legal	
+  arrangements	
+  which	
+  facilitate	
+  the	
+introduction	
+  and	
+  use	
+  of	
+  a	
+  technology	
+o The	
+  Assessment	
+  must	
+  examine:	
+  
+The	
+  rate	
+  of	
+  advancement	
+  in	
+  development	
+  of	
+  the	
+technology	
+  
+Possibilities	
+  for	
+  technology	
+  transfer	
+  to	
+  related	
+  areas	
+  
+Probable	
+  growth	
+  in	
+  the	
+  scale	
+  of	
+  application	
+  
+Availability	
+  of	
+  intermediaries	
+  or	
+  buffers	
+  between	
+technology	
+  and	
+  user	
+  
+Degree	
+  of	
+  departure	
+  from	
+  existing,	
+  accepted	
+technologies	
+  
+Economic	
+  concentration	
+  of	
+  producers	
+  
+Centralization	
+  of	
+  decision	
+  making	
+  with	
+  regard	
+  to	
+  the	
+technology	
+  and	
+  susceptibility	
+  to	
+  collective	
+  control	
+  
+The	
+  competitive	
+  environment	
+  
+Societal	
+  sources	
+  of	
+  resistance	
+  to	
+  the	
+  use	
+  of	
+  the	
+technology	
+  (legal,	
+  social,	
+  religious)	
+o The	
+  assessment	
+  might	
+  also	
+  focus	
+  on	
+  the	
+  individual:	
+  
+Development	
+  and	
+  socialization	
+  
+
+
+Work	
+
+  experiences	
+  
+Access	
+  to	
+  material	
+  goods	
+  and	
+  social	
+  values	
+  
+Opportunity	
+  to	
+  participate	
+  in	
+  decisionmaking	
+  
+Health	
+  and	
+  safety	
+• 
+“The	
+  COSPUP	
+  panel	
+  concluded	
+  that	
+  a	
+  combination	
+  of	
+  all	
+  of	
+  the	
+  three	
+focal	
+  points	
+  was	
+  required	
+  in	
+  an	
+  adequate	
+  assessment…of	
+  the	
+  possibility	
+of…important	
+  second-­‐	
+  and	
+  third-­‐order	
+  consequences	
+• 
+Assessment	
+  modes	
+  and	
+  mechanisms	
+• 
+Internalized	
+  assessments	
+o Assessment	
+  built	
+  into	
+  the	
+  incentive	
+  structure	
+  of	
+  the	
+  decision-­‐
+making	
+  process	
+• 
+Externalized	
+  assessments	
+o Assessments	
+  conducted	
+  by	
+  an	
+  institution	
+  deliberately	
+  separated	
+from	
+  the	
+  front-­‐line	
+  decisionmaker	
+• 
+Negative	
+  Assessment	
+  vs.	
+  Positive	
+  Assessment	
+o Negative	
+  Assessment	
+  performed	
+  by	
+  agency	
+  with	
+  regulatory	
+responsibility	
+o Positive	
+  Assessment	
+  agency	
+  responsible	
+  for	
+  evaluation	
+  and	
+promoting	
+  new	
+  technology	
+• 
+Patterns	
+  of	
+  response	
+  and	
+  action	
+  P.	
+  1-­‐24	
+• 
+Resource	
+  allocation	
+  decisions	
+• 
+Modifying	
+  private	
+  initiatives	
+  by	
+  internalization	
+  of	
+  costs	
+  or	
+  enforcement	
+of	
+  standards	
+  or	
+  regulation	
+• 
+The	
+  altering	
+  of	
+  incentives	
+  through	
+  the	
+  creation	
+  of	
+  new	
+  legal	
+  rights	
+  or	
+other	
+  social	
+  innovations	
+• 
+Structured	
+  so	
+  as	
+  appropriate	
+  for	
+  the	
+  ends	
+  in	
+  view	
+  and	
+  the	
+  needs	
+  of	
+  the	
+specific	
+  decision-­‐making	
+  entities	
+• 
+Cmte	
+  on	
+  Public	
+  Engineering	
+  Policy	
+  (COPEP)	
+  Report	
+  Findings	
+  P.	
+  1-­‐25	
+o Seven-­‐step	
+  analytical	
+  approach	
+  for	
+  TAs	
+
+1. Identify	
+
+  and	
+  refine	
+  the	
+  subject	
+  to	
+  be	
+  assessed	
+
+2. Delineate	
+
+  the	
+  scope	
+  of	
+  the	
+  assessment	
+  and	
+  develop	
+  a	
+  database	
+
+3. Identify	
+
+  alternatives	
+  strategies	
+  to	
+  solve	
+  the	
+  selected	
+  problems	
+  with	
+  the	
+technology	
+  under	
+  assessment	
+
+4. Identify	
+
+  the	
+  parties	
+  affected	
+  by	
+  the	
+  selected	
+  problems	
+  and	
+  technology	
+
+5. Identify	
+
+  the	
+  impacts	
+  on	
+  the	
+  affected	
+  parties	
+
+6. Valuate	
+
+  or	
+  measure	
+  the	
+  impacts	
+
+7. Compare	
+
+  the	
+  pros	
+  and	
+  cons	
+  of	
+  alternatives	
+  strategies	
+o Both	
+  problem-­‐initiated	
+  assessments	
+  and	
+  technology-­‐initiated	
+  assessments	
+  P.	
+  1-­‐26	
+• 
+Problem-­‐initiated	
+  assessments	
+• 
+Process	
+  begins	
+  at	
+  the	
+  large-­‐end	
+  of	
+  a	
+  funnel,	
+  and	
+  the	
+  optimum	
+  solution	
+  to	
+a	
+  given	
+  problem	
+  is	
+  at	
+  the	
+  small	
+  end	
+• 
+Technology-­‐initiated	
+  assessments	
+• 
+Process	
+  begins	
+  with	
+  the	
+  new	
+  technology	
+  at	
+  the	
+  small	
+  end	
+  and	
+  emerges	
+as	
+  a	
+  complex	
+  pattern	
+  of	
+  consequences	
+o In	
+  carrying	
+  out	
+  steps	
+  and	
+  (identification,	
+  evaluation,	
+  and	
+  measuring	
+  of	
+  impacts	
+  on	
+affected	
+  parties),	
+  COPEP	
+  worked	
+  out	
+  a	
+  simple	
+  scheme	
+  for	
+  comparisons	
+  of	
+  the	
+judgements	
+  of	
+  the	
+  assessors.	
+  Each	
+  assessor	
+  rated	
+  each	
+  potential	
+  impact,	
+  for	
+  each	
+affected	
+  party.	
+• 
+P.	
+  1-­‐27	
+• 
+  Impacts	
+  were	
+  rated	
+  as	
+  to	
+  their	
+  nature:	
+  
+Favorable	
+  
+Unfavorable	
+  
+Unknown	
+• 
+Their	
+  probability	
+  of	
+  occurrence	
+o Likely	
+o Unlikely	
+• 
+Susceptibility	
+  to	
+  federal	
+  action	
+o Controllable	
+o Uncontrollable	
+o Unknown	
+• 
+COPEP	
+  lamented	
+  the	
+  fact	
+  that	
+  there	
+  is	
+  a:	
+  “…lack	
+  of	
+  an	
+  acceptable	
+  and	
+  accepted	
+system	
+  of	
+  social	
+  indicators	
+  for	
+  the	
+  measurement	
+  and	
+  comparisons	
+  of	
+  potential	
+impacts	
+  which	
+  have	
+  been	
+  identified	
+  by	
+  the	
+  TA	
+• 
+COPEP	
+  came	
+  away	
+  with	
+  conclusions	
+  based	
+  on	
+  the	
+  experiments	
+  that	
+  it	
+performed	
+  in	
+  analyzing	
+  the	
+  features	
+  of	
+  TA	
+  P.	
+  1-­‐27-­‐29:	
+
+1. TA	
+
+  are	
+  feasible	
+  and	
+  useful	
+  to	
+  Congress	
+  “when	
+  prepared	
+  by	
+  properly	
+constituted,	
+  independent,	
+  ad	
+  hoc	
+  task	
+  forces	
+  with	
+  adequate	
+  staff	
+support	
+  and	
+  time	
+
+2. They	
+
+  should	
+  be	
+  free	
+  from	
+  political	
+  influence	
+  or	
+  bias…the	
+  assessment	
+group	
+  should	
+  limit	
+  itself	
+  to	
+  outlining	
+  alternative	
+  strategies	
+  for	
+  action	
+
+3. Assessors	
+
+  should	
+  be	
+  chosen	
+  for	
+  their	
+  expertise	
+  and	
+  not	
+  as	
+representatives	
+  of	
+  affected	
+  parties	
+  or	
+  interests	
+
+4. Assessors	
+
+  must	
+  be	
+  chosen	
+  from	
+  public	
+  and	
+  private	
+  organizations	
+with	
+  knowledge	
+  about	
+  the	
+  subject,	
+  organizational	
+  biases	
+  of	
+  the	
+experts	
+  will	
+  tend	
+  to	
+  cancel	
+  out	
+  and	
+  be	
+  neutralized	
+
+5. There	
+  should	
+  be	
+  participation	
+  by	
+  behavioral	
+  and	
+  political	
+  scientists;	
+experience	
+  shows	
+  that	
+  engineers,	
+  economists,	
+  and	
+  social	
+  scientists	
+can	
+  work	
+  together	
+  harmoniously	
+
+6. To	
+  be	
+  of	
+  most	
+  use,	
+  the	
+  assessment	
+  should	
+  take	
+  about	
+  year	
+  and	
+  be	
+the	
+  sole	
+  activity	
+  of	
+  the	
+  research	
+  group	
+
+7. Congress	
+  would	
+  be	
+  best	
+  served	
+  by	
+  a	
+  small	
+  management	
+  group	
+  which	
+would	
+  arrange	
+  for	
+  the	
+  TAs	
+  by	
+  diverse	
+  organizations.	
+  No	
+  one	
+  entity	
+can	
+  provide	
+  adequate	
+  in-­‐house	
+  expertise	
+  for	
+  all	
+  assessments	
+
+8. Cause-­‐effect	
+  analysis	
+  should	
+  be	
+  supplemented	
+  by	
+  “the	
+  intuitive	
+judgments	
+  of	
+  knowledgeable	
+  individuals”	
+
+9. Assessments	
+  can	
+  begin	
+  through	
+  consideration	
+  of	
+  either	
+  technology	
+or	
+  a	
+  social	
+  problem.	
+  The	
+  procedures	
+  for	
+  these	
+  two	
+  kinds	
+  of	
+assessments	
+  will	
+  differ	
+  somewhat	
+
+10. Technology-­‐initiated	
+  assessment	
+  requires	
+  a	
+  choice	
+  between	
+  “diffuse	
+searches	
+  seeking	
+  some	
+  early-­‐warning	
+  signal”	
+  and	
+  “conversion	
+  to	
+  a	
+problem-­‐oriented	
+  study”	
+  that	
+  choses	
+  the	
+  most	
+  significant	
+(potentially	
+  detrimental)	
+  impacts	
+  for	
+  analysis.	
+  The	
+  latter	
+  choice	
+involves	
+  the	
+  danger	
+  of	
+  overlooking	
+  hitherto	
+  unrecognized	
+  impacts	
+
+11. Long-­‐term	
+  forecasts	
+  (more	
+  than	
+  five	
+  years)	
+  are	
+  valuable	
+  for	
+  planning	
+and	
+  “setting	
+  the	
+  stage”	
+  for	
+  consideration	
+  of	
+  unforeseen	
+  events,	
+  but	
+are	
+  likely	
+  to	
+  be	
+  unreliable	
+
+12. Criteria	
+  for	
+  establishing	
+  the	
+  priority	
+  of	
+  topics	
+  for	
+  assessment	
+  include	
+the	
+  breadth	
+  and	
+  depth	
+  of	
+  expected	
+  social	
+  impact,	
+  the	
+  visibility	
+  of	
+  the	
+problems	
+  to	
+  legislators	
+  and	
+  to	
+  the	
+  public,	
+  and	
+  the	
+  current	
+  and	
+expected	
+  rates	
+  of	
+  development	
+  of	
+  the	
+  technologies	
+
+13. Appraisal	
+  of	
+  impacts	
+  must	
+  include	
+  the	
+  derivation	
+  and	
+  use	
+  of	
+  social	
+values	
+  pertinent	
+  to	
+  the	
+  quality	
+  of	
+  life,	
+  in	
+  addition	
+  to	
+  conventional	
+economic	
+  and	
+  technical	
+  risk-­‐benefit	
+  criteria	
+
+14. TA	
+  can	
+  provide	
+  the	
+  public	
+  support	
+  necessary	
+  for	
+  national	
+  programs	
+designed	
+  to	
+  secure	
+  the	
+  benefits	
+  and	
+  avoid	
+  the	
+  problem	
+  of	
+technological	
+  advances.	
+• 
+COPEP	
+  tended	
+  to	
+  downplay	
+  exploratory,	
+  anticipatory	
+  assessment	
+  at	
+  an	
+  early	
+stage	
+  of	
+  technological	
+  innovation	
+  when	
+  problems	
+  have	
+  not	
+  become	
+  obvious	
+and	
+  potential	
+  consequences	
+  have	
+  not	
+  yet	
+  been	
+  recognized.	
+  It	
+  becomes	
+problematic	
+  when	
+  the	
+  TAs	
+  are	
+  focused	
+  on	
+  the	
+  drawbacks	
+  rather	
+  than	
+  the	
+benefits	
+  from	
+  TAs	
+• 
+“…there	
+  is	
+  an	
+  effort	
+  to	
+  extend	
+  this	
+  kind	
+  of	
+  analysis	
+  to	
+  include	
+  the	
+  estimates	
+of	
+  the	
+  probability	
+  and	
+  weight	
+  of	
+  other	
+  potential	
+  consequences	
+  of	
+  a	
+  proposed	
+program,	
+  the	
+  process	
+  may	
+  be	
+  called	
+  risk-­‐benefit	
+  analysis;	
+  however	
+  the	
+emphasis	
+  is	
+  still	
+  on	
+  the	
+  significance	
+  and	
+  probability	
+  of	
+  tangible	
+  advantages	
+and	
+  disadvantages	
+  that	
+  is	
+  an	
+  attempt	
+  is	
+  made	
+  to	
+  assign	
+  a	
+  monetary	
+  value	
+to	
+  intangible	
+  secondary	
+  social	
+  benefits	
+  or	
+  external	
+  costs.	
+  However	
+  decisions	
+are	
+  likely	
+  to	
+  be	
+  bases	
+  firmly	
+  on	
+  the	
+  primary	
+  benefits	
+  and	
+  the	
+  direct	
+  costs."	
+  P.	
+1-­‐59	
+• 
+“Since	
+  WWII	
+  executive	
+  decisionmaking	
+  has	
+  benefitted	
+  from	
+  the	
+development	
+  of…:	
+  systems	
+  analysis	
+  and	
+  operations	
+  research.	
+
+1. Systems	
+  analysis	
+  is	
+  a	
+  technique	
+  for	
+  analyzing	
+  the	
+  performance	
+  or	
+effectiveness	
+  of	
+  a	
+  system	
+  in	
+  terms	
+  of	
+  a	
+  desired	
+  result	
+  (system	
+  goal	
+  or	
+mission)	
+  
+Effectiveness	
+  is	
+  measured	
+  in	
+  terms	
+  of	
+  quantified	
+relationships	
+  between	
+  performance,	
+  cost,	
+  efficiency,	
+maintenance,	
+  reliability,	
+  and	
+  compatibility	
+  with	
+  the	
+  external	
+environment	
+  
+Therefore,	
+  effectiveness	
+  results	
+  from	
+  the	
+  aggregate	
+  of	
+design	
+  decisions	
+  making	
+  optimum	
+  trade-­‐offs	
+  at	
+  each	
+decision	
+  point.	
+
+2. Operations	
+  Research	
+  is	
+  sometimes	
+  called	
+  a	
+  subset	
+  of	
+  systems	
+analysis.	
+  It	
+  is	
+  defined	
+  as	
+  “an	
+  experimental	
+  and	
+  applied	
+  science	
+devoted	
+  to	
+  observing	
+  understanding,	
+  and	
+  predicting	
+  the	
+  behavior	
+of	
+  purposeful	
+  man-­‐machine	
+  systems.”	
+  P.	
+  1-­‐60	
+• 
+Both	
+  Systems	
+  Analysis	
+  and	
+  Operations	
+  Research	
+  are	
+  closely	
+  related	
+  to	
+  TA	
+
+1. Both	
+  focus	
+  sharply	
+  on	
+  the	
+  performance	
+  characteristics	
+  of	
+  a	
+  system	
+  in	
+terms	
+  of	
+  its	
+  intended	
+  or	
+  planned	
+  ends	
+  or	
+  goals.	
+• 
+TA	
+  on	
+  the	
+  OTHER	
+  HAND,	
+  is	
+  an	
+  attempt	
+  to	
+  evaluate	
+  ALL	
+  potential	
+  impacts	
+  or	
+effects,	
+  particularly	
+  secondary,	
+  tertiary	
+  and	
+  higher	
+  order	
+  consequences	
+which	
+  are	
+  unplanned	
+  byproducts	
+  of	
+  the	
+  primary	
+  intent	
+  of	
+  a	
+  technological	
+innovation,	
+  application	
+  or	
+  intrusion	
+  into	
+  society.	
+  P.	
+  1-­‐61	
+• 
+“Agency-­‐initiated	
+  TA	
+  of	
+  power	
+  technology	
+  like	
+  that	
+  of	
+  water	
+  resources	
+technology,	
+  is	
+  apt	
+  to	
+  be	
+  constrained	
+  or	
+  biased	
+  by	
+  the	
+  agencies’	
+  own	
+  interests	
+and	
+  defensive	
+  postures	
+  and	
+  by	
+  anticipated	
+  pressures	
+  reflecting	
+  the	
+  political	
+needs	
+  and	
+  vulnerabilities	
+  on	
+  Congressman	
+  from	
+  the	
+  affected	
+  regions.”	
+  P.	
+  3-­‐
+
+1. Make	
+  parallels	
+  about	
+  the	
+  search	
+  for	
+  energy	
+  that	
+  can	
+  meet	
+  many	
+different	
+  stakeholders	
+  interests	
+  
+Nuclear	
+  Post-­‐Fukushima	
+  
+New	
+  coal	
+  regulations	
+  
+The	
+  long	
+  search	
+  for	
+  the	
+  Higgs-­‐Boson	
+  which	
+  came	
+  out	
+  of	
+  a	
+theory	
+• 
+TAs	
+  where	
+  divided	
+  into	
+  six	
+  categories	
+  P.	
+  4-­‐1	
+
+1. Wide-­‐scope	
+  TAs	
+  
+Studies	
+  which	
+  represented	
+  a	
+  relatively	
+  high	
+  level	
+  of	
+  effort	
+  
+Analyzed	
+  the	
+  potential	
+  impacts	
+  of	
+  a	
+  technology	
+  over	
+  a	
+  wide	
+range	
+  of	
+  possibilities	
+  (social,	
+  institutional	
+  or	
+  political,	
+economic,	
+  environmental,	
+  and	
+  ethical	
+  impacts	
+  or	
+  some	
+combination)	
+  
+Also	
+  to	
+  be	
+  considered	
+  wide-­‐scope,	
+  they	
+  had	
+  to	
+  meet	
+  two	
+additional	
+  criteria:	
+• 
+Must	
+  have	
+  been	
+  addressed	
+  to	
+  a	
+  public	
+  policy	
+  issue	
+or	
+  potential	
+  decision	
+• 
+Must	
+  have	
+  utilized	
+  a	
+  multi-­‐disciplinary	
+  team	
+
+2. Narrow	
+  or	
+  partial	
+  assessments	
+  
+In	
+  generally,	
+  these	
+  studies	
+  considered	
+  some	
+  pre-­‐selected	
+kinds	
+  of	
+  impacts,	
+  most	
+  often	
+  economic	
+  or	
+  environmental,	
+which	
+  did	
+  however	
+  go	
+  beyond	
+  the	
+  primary,	
+  planned	
+consequences	
+  of	
+  the	
+  technology	
+  or	
+  project	
+  
+The	
+  studies	
+  were	
+  not	
+  concerned	
+  solely	
+  with	
+  performance	
+characteristics	
+  or	
+  technical	
+  feasibility	
+  
+The	
+  distinction	
+  between	
+  wide-­‐scope	
+  assessments	
+  and	
+narrow	
+  or	
+  partial	
+  assessments	
+  was	
+  admittedly	
+  arbitrary	
+  
+For	
+  the	
+  most	
+  part	
+  they	
+  did	
+  not	
+  address	
+  a	
+  specific	
+  policy	
+decision	
+  or	
+  action,	
+  were	
+  not	
+  funded	
+  to	
+  the	
+  same	
+  level	
+  as	
+  the	
+wide-­‐scope	
+  and	
+  they	
+  utilized	
+  only	
+  few	
+  disciplines	
+  on	
+  their	
+research	
+  teams	
+
+3. Problem-­‐Oriented	
+  Assessments	
+  
+Focus	
+  on	
+  a	
+  problem	
+  such	
+  as	
+  environmental	
+  pollution	
+  and	
+identify	
+  the	
+  technologies	
+  which	
+  contribute	
+  to	
+  the	
+  problem	
+or	
+  may	
+  be	
+  used	
+  to	
+  alleviate	
+  the	
+  problem	
+  
+Problem	
+  definition	
+  and	
+  conceptualization	
+  is	
+  central	
+  task	
+  of	
+the	
+  study	
+
+4. Environmental	
+  Impact	
+  Statements	
+  
+Required	
+  by	
+  the	
+  NEPA	
+  of	
+
+5. Future	
+  Studies	
+  
+These	
+  are	
+  not	
+  necessarily	
+  TAs	
+  but	
+  TAs	
+  need	
+  to	
+  take	
+  the	
+future	
+  into	
+  account	
+  to	
+  be	
+  useful	
+  for	
+  the	
+  future	
+  social	
+  context	
+effects	
+  to	
+  be	
+  taken	
+  into	
+  account	
+  
+They	
+  include	
+  supply	
+  and	
+  demand	
+  studies,	
+  long-­‐range	
+planning	
+  studies,	
+  technological	
+  forecasts,	
+  or	
+  formulations	
+  of	
+alternative	
+  social	
+  environments	
+  which	
+  deal	
+  with	
+  technology	
+and	
+  its	
+  impacts	
+  on	
+  the	
+  future	
+
+6. Methodological	
+  Studies	
+  and	
+  Surveys	
+  
+These	
+  reports	
+  just	
+  survey	
+  the	
+  techniques	
+  of	
+  TAs	
+• 
+Lee	
+  and	
+  Bereano	
+  Paper	
+“…the	
+  authors	
+  do	
+  not	
+  believe	
+  that	
+  a	
+  singular	
+  approach	
+  [for	
+  TA]	
+  is	
+  possible.”	
+• 
+TA	
+  is	
+  neither	
+  merely	
+  forecasting	
+  nor	
+  futures	
+  research,	
+  neither	
+  social	
+  impact	
+  analysis	
+  nor	
+purely	
+  systems	
+  analysis	
+• 
+It	
+  goes	
+  beyond	
+  simply	
+  identifying	
+  the	
+  impacts	
+  and	
+  their	
+  causation	
+• 
+Ascertains	
+  whether	
+  the	
+  impacts	
+  have	
+  been	
+  planned	
+  or	
+  intended	
+  in	
+  real	
+  world	
+  situations	
+• 
+Seeks	
+  to	
+  describe	
+  the	
+  beneficial	
+  or	
+  adverse	
+  nature	
+  of	
+  consequences	
+• 
+Establishes	
+  the	
+  trend	
+  of	
+  technological	
+  change	
+  and	
+  the	
+  resulting	
+  implications	
+  for	
+  all	
+relevant	
+  sectors	
+  of	
+  society	
+• 
+TA	
+  is	
+  a	
+  form	
+  of	
+  policy	
+  analysis	
+  and	
+  is	
+  in	
+  essence	
+  a	
+  societal	
+  impact	
+  study	
+  the	
+  deals	
+  with	
+value-­‐oriented,	
+  institutional,	
+  and	
+  other	
+  nonquantitative	
+  issues,	
+  it	
+  cannot	
+  be	
+  performed	
+adequately	
+  by	
+  relying	
+  solely	
+  on	
+  formal	
+  statistical,	
+  survey	
+  or	
+  operations	
+  research	
+  methods	
+This	
+  paper	
+  is	
+  very	
+  good	
+  at	
+  describing	
+  some	
+  of	
+  the	
+  needs	
+  for	
+  a	
+  quality	
+  TA.	
+  It	
+  lays	
+  out	
+  several	
+  lists	
+  of	
+  quality	
+methodologies	
+  for	
+  one	
+  to	
+  pursue	
+  when	
+  completing	
+  a	
+  TA.	
+
+Need	
+  for	
+  Methodology	
+“A	
+  good	
+  TA	
+  should	
+  be	
+  successful	
+  in	
+  better	
+  organizing…uncertainty,	
+  even	
+  if	
+  it	
+  does	
+  not	
+  reduce	
+  the	
+  amount	
+or	
+  obviously	
+  simplify	
+  the	
+  task	
+  of	
+  decision	
+  making.”	
+A	
+  methodological	
+  framework	
+  for	
+  TA	
+  is	
+  both	
+  possible	
+  and	
+  necessary	
+  to	
+  rationally	
+  order	
+  the	
+  complexity	
+  of	
+the	
+  task	
+  being	
+  undertaken	
+Project	
+  personnel	
+  need	
+  a	
+  sense	
+  of	
+  timetables	
+  and	
+  procedures	
+  to	
+  avoid	
+  getting	
+  bogged	
+  down	
+  in	
+  a	
+  mass	
+  of	
+detail	
+  and	
+  becoming	
+  diverted	
+  onto	
+  minor	
+  pathways	
+Methodological	
+  Framework	
+There	
+  are	
+  several	
+  lists	
+  contained	
+  in	
+  this	
+  paper	
+  which	
+  provide	
+  a	
+  good	
+  summary	
+  of	
+  the	
+  way	
+  that	
+  TAs	
+  should	
+be	
+  structured	
+  to	
+  include	
+  the	
+  most	
+  critical	
+  elements	
+  of	
+  the	
+  subject	
+  to	
+  be	
+  studied.	
+
+A	
+  set	
+  of	
+  prescriptions	
+  should	
+  be	
+  followed	
+  by	
+  assessors	
+  for	
+  a	
+  TA	
+  methodology:	
+
+1. Statement	
+  of	
+  problem	
+  to	
+  be	
+  considered	
+
+2. Definition	
+  of	
+  system	
+
+3. Identification	
+  of	
+  potential	
+  impacts	
+
+4. Evaluation	
+  of	
+  impacts	
+
+5. Definition	
+  of	
+  the	
+  relevant	
+  decision-­‐making	
+  apparatus	
+
+6. Laying	
+  out	
+  options	
+  for	
+  the	
+  decision	
+  maker	
+
+7. Identification	
+  of	
+  parties	
+  of	
+  interest;	
+  potential	
+  “winners”	
+  and	
+  “losers”	
+
+8. Definition	
+  of	
+  macroalternatives	
+
+9. Identification	
+  of	
+  exogenous	
+  variables	
+
+10. Conclusion	
+  and	
+  possibly	
+  recommendations	
+This	
+  is	
+  just	
+  one	
+  way	
+  of	
+  following	
+  a	
+  methodology	
+  for	
+  a	
+  TA.	
+  The	
+  authors	
+  of	
+  this	
+  paper	
+  make	
+  very	
+  clear	
+  that	
+there	
+  is	
+  “no	
+  validated,	
+  universally	
+  accepted	
+  methodology	
+  for	
+  TA.”	
+One	
+  rule	
+  of	
+  thumb	
+  for	
+  a	
+  TA	
+  would	
+  be	
+  focusing	
+  the	
+  project	
+  in	
+  the	
+  following	
+  ways.	
+  on	
+  defining	
+  and	
+exploring	
+  the	
+  technologies	
+  being	
+  assessed,	
+  on	
+  establishing	
+  the	
+  non-­‐technological	
+  setting	
+  in	
+  which	
+the	
+  technology	
+  would	
+  be	
+  imbedded	
+  and	
+  almost	
+  on	
+  identifying	
+  and	
+  analyzing	
+  the	
+  societal	
+  impacts	
+generated	
+  by	
+  the	
+  technology.	
+
+Another	
+  section	
+  of	
+  the	
+  paper	
+  gives	
+  a	
+  more	
+  general	
+  summary	
+  of	
+  what	
+  TAs	
+  will	
+  contain	
+  in	
+  the	
+  report:	
+
+1. An	
+  overall	
+  framework	
+
+2. A	
+  management	
+  plan	
+  for	
+  allocation	
+  of	
+  time	
+  or	
+  effort	
+  to	
+  different	
+  project	
+  tasks	
+
+3. Carefully	
+  considered	
+  use	
+  of	
+  specialized	
+  techniques	
+  for	
+  portions	
+  of	
+  the	
+  overall	
+  analysis	
+
+4. Methods	
+  for	
+  structuring	
+  the	
+  interaction	
+  among	
+  assessment	
+  participants	
+
+5. Attention	
+  to	
+  considerations	
+  for	
+  “knowledge”	
+  to	
+  foster	
+  new	
+  insights	
+This	
+  provides	
+  a	
+  good	
+  framework	
+  to	
+  designing	
+  the	
+  TA	
+  for	
+  LENR/CF.	
+  It	
+  gets	
+  to	
+  the	
+  crux	
+  of	
+  what	
+  exactly	
+  a	
+  TA	
+needs	
+  to	
+  include	
+  and	
+  how	
+  to	
+  start	
+  a	
+  TA	
+  from	
+  scratch.	
+
+The	
+  L&B	
+  paper	
+  makes	
+  a	
+  number	
+  of	
+  observations	
+  which	
+  should	
+  be	
+  key	
+  to	
+  any	
+  scientific	
+  research,	
+  but	
+  will	
+be	
+  very	
+  important	
+  for	
+  a	
+  TA	
+  on	
+  LENR/CF:	
+“…bias	
+  should	
+  be	
+  suppressed,	
+  the	
+  overall	
+  technology	
+  assessment	
+  process	
+  contains	
+  elements	
+  that	
+  are	
+normative,	
+  judgmental,	
+  creative,	
+  and	
+  subjective.”	
+“…the	
+  quantification	
+  of	
+  social	
+  benefits	
+  and	
+  disbenefits	
+  often	
+  obscures	
+  the	
+  difficult	
+  task	
+  of	
+  separating	
+  fact	
+from	
+  opinion.”	
+“…assessors	
+  cannot	
+  make	
+  a	
+  neutral,	
+  objective	
+  and	
+  value-­‐free	
+  analysis	
+  of	
+  all	
+  topics	
+  of	
+  concern,	
+  the	
+  need	
+for	
+  representation	
+  of	
+  all	
+  viewpoints	
+  must	
+  be	
+  satisfied.”	
+Another	
+  key	
+  insight	
+  that	
+  is	
+  critical	
+  for	
+  any	
+  TA	
+  is	
+  the	
+  practice	
+  of	
+  bounding.	
+  In	
+  theory,	
+  a	
+  problem	
+  can	
+  be	
+extended	
+  infinitely	
+  without	
+  method	
+  to	
+  limit	
+  the	
+  scope	
+  of	
+  the	
+  study	
+  in	
+  order	
+  to	
+  keep	
+  primary	
+  focus	
+  on	
+what	
+  the	
+  TA	
+  seeks	
+  to	
+  explore.	
+  The	
+  L&B	
+  paper	
+  give	
+  nine	
+  factors	
+  to	
+  bound	
+  the	
+  TA.	
+
+1. Time	
+  horizon	
+
+2. Geographical	
+  scope	
+
+3. Institutional	
+  considerations
+	
+4. Technology
+	
+5. The	
+  application	
+  of	
+  the	
+  technology
+	
+6. Impact	
+  sectors	
+
+7. Range	
+  of	
+  policy	
+  options	
+  to	
+  be	
+  considered	
+
+8. Input	
+  considerations	
+
+9. Output	
+  considerations	
+• 
+• 
+Technology	
+  Assessment	
+  Chemical	
+  Engineering	
+  News	
+  October	
+• 
+Science	
+  and	
+  technology	
+  have	
+  vastly	
+  benefitted	
+  man	
+  and	
+  contributed	
+  to	
+  his	
+  well-­‐being.	
+  At	
+  the	
+same	
+  time,	
+  however,	
+  they	
+  all	
+  too	
+  often	
+  have	
+  done	
+  him	
+  and	
+  his	
+  environment	
+  harm	
+• 
+Now,	
+  an	
+  overriding	
+  need	
+  is	
+  to	
+  devise	
+  a	
+  way	
+  of	
+  protecting	
+  man	
+  from	
+  his	
+  own	
+  technology	
+  creativity	
+• 
+Technology	
+  Assessment	
+  is	
+  an	
+  attempt…to	
+  establish	
+  an	
+  early-­‐warning	
+  system	
+  to	
+  control,	
+  direct,	
+and	
+  if	
+  necessary,	
+  restrain	
+  technological	
+  development	
+  so	
+  to	
+  maximize	
+  the	
+  public	
+  good	
+  while	
+minimizing	
+  the	
+  public	
+  risks	
+• 
+  Little	
+  or	
+  no	
+  concern	
+  has	
+  been	
+  shown	
+  for	
+  indirect	
+  or	
+  by-­‐product	
+  effects	
+  of	
+  new	
+  developments.	
+
+Yet	
+  second-­‐order	
+  and	
+  third-­‐order	
+  or	
+  even	
+  more	
+  remote	
+  consequences,	
+  in	
+  a	
+  society	
+  as	
+  complex	
+and	
+  interlocking	
+  as	
+  ours,	
+  are	
+  no	
+  less	
+  significant	
+  than	
+  first-­‐order	
+  effects.	
+  In	
+  the	
+  long	
+  run	
+  second-­‐
+order	
+  consequences	
+  may	
+  have	
+  even	
+  greater	
+  impact.	
+• 
+A	
+  change	
+  in	
+  one	
+  system	
+  will	
+  be	
+  reflected	
+  through	
+  all	
+  and	
+  thereby	
+  affect	
+  the	
+  quality	
+  of	
+  life	
+  in	
+  the	
+entire	
+  community-­‐	
+  even	
+  though	
+  the	
+  decision	
+  to	
+  make	
+  the	
+  initial	
+  change	
+  may	
+  be	
+  reached	
+  in	
+  one	
+small	
+  part	
+  of	
+  the	
+  community	
+  remote	
+  from	
+  the	
+  usual	
+  centers	
+  of	
+  political	
+  power	
+  or	
+  control	
+• 
+The	
+  costs	
+  or	
+  hazards	
+  stemming	
+  from	
+  indirect	
+  effects,	
+  moreover,	
+  frequently	
+  fall	
+  not	
+  upon	
+  those	
+who	
+  benefit	
+  from	
+  new	
+  technology	
+  but	
+  upon	
+  uninvolved	
+  or	
+  even	
+  unidentifiable,	
+  bystanders,	
+  or	
+upon	
+  the	
+  public	
+  at	
+  large,	
+  or	
+  even	
+  upon	
+  generations	
+  unborn.	
+  The	
+  benefits	
+  may	
+  be	
+  local	
+  whereas	
+the	
+  costs	
+  are	
+  far-­‐reaching	
+  or	
+  even	
+  global.	
+• 
+…a	
+  new	
+  development	
+  that	
+  is	
+  acclaimed	
+  as	
+  a	
+  technological	
+  and	
+  economic	
+  success	
+  in	
+  the	
+  short	
+  run	
+and	
+  on	
+  a	
+  microscale	
+  may	
+  lead	
+  unwittingly	
+  to	
+  a	
+  long-­‐run	
+  sociological	
+  macrofailure.	
+• 
+Policy	
+  does	
+  not	
+  anticipate	
+  future	
+  problems;	
+  rather	
+  merely	
+  deals	
+  with	
+  those	
+  of	
+  the	
+  past	
+  and	
+present	
+• 
+TA	
+  is	
+  a	
+  mechanism	
+  for	
+  focusing	
+  on	
+  second	
+  and	
+  higher-­‐order	
+  consequences	
+  and	
+  balancing	
+  these	
+consequences	
+  against	
+  first-­‐order	
+  benefits.	
+• 
+The	
+  aim	
+  moreover,	
+  may	
+  not	
+  be	
+  to	
+  eliminate	
+  all	
+  untoward	
+  side	
+  effects	
+  of	
+  technology.	
+  In	
+  many	
+cases,	
+  this	
+  would	
+  not	
+  be	
+  feasible,	
+  just	
+  as	
+  it	
+  would	
+  not	
+  be	
+  possible	
+  to	
+  cure	
+  all	
+  maladies	
+  with	
+medicines	
+  that	
+  are	
+  completely	
+  devoid	
+  of	
+  risky	
+  side	
+  effects.	
+• 
+TA,	
+  however,	
+  goes	
+  beyond	
+  all	
+  this	
+  by	
+  focusing	
+  on	
+  the	
+  interactions,	
+  side-­‐effects,	
+  spillovers,	
+  and	
+trade-­‐offs	
+  among	
+  several	
+  technologies	
+  or	
+  between	
+  technology	
+  and	
+  other	
+  aspects	
+  of	
+  living.	
+  A	
+  full-­‐
+fledged	
+  TA	
+  would	
+  not	
+  just	
+  look	
+  at	
+  transportation	
+  as	
+  a	
+  means	
+  for	
+  moving	
+  people	
+  and	
+  things	
+about.	
+  Rather,	
+  it	
+  would	
+  examine	
+  the	
+  effects	
+  of	
+  transportation	
+  developments	
+  on	
+  housing	
+  and	
+urban	
+  development,	
+  for	
+  example,	
+  or	
+  at	
+  the	
+  ways	
+  new	
+  methods	
+  of	
+  communication	
+  might	
+  affect	
+the	
+  need	
+  for	
+  transportation	
+• 
+Without	
+  public	
+  demand	
+  or	
+  support	
+  any	
+  major	
+  assessment	
+  efforts	
+  would	
+  be	
+  little	
+  more	
+  than	
+  an	
+academic	
+  exercise	
+• 
+It	
+  would	
+  be	
+  responsible	
+  for	
+  providing	
+  “an	
+  early	
+  warning	
+  system	
+  of	
+  the	
+  probable	
+  impacts,	
+  positive	
+and	
+  negative,	
+  of	
+  the	
+  applications	
+  of	
+  technology”…	
+• 
+Function	
+  as	
+  an	
+  “institution	
+  without	
+  any	
+  innate	
+  orientation	
+  rather	
+  toward	
+  technological	
+advancement	
+  or	
+  environmental	
+  protection”	
+  but	
+  able	
+  to	
+  consider	
+  “human,	
+  philosophical,	
+  social	
+and	
+  economic	
+  as	
+  well	
+  as	
+  scientific	
+  values”	
+• 
+A	
+  full-­‐scale	
+  TA	
+  must	
+  not	
+  only	
+  ask	
+  but	
+  also	
+  in	
+  some	
+  way	
+  answer	
+  many	
+  difficult	
+  questions:	
+  How	
+  will	
+a	
+  new	
+  development	
+  or	
+  innovation	
+  be	
+  used?	
+  What	
+  consequences,	
+  direct	
+  or	
+  indirect,	
+  for	
+  good	
+  or	
+ill	
+  will	
+  these	
+  applications	
+  have	
+  on	
+  any	
+  or	
+  all	
+  sectors	
+  of	
+  society	
+  or	
+  the	
+  environment?	
+  What	
+responses	
+  can	
+  be	
+  expected	
+  in	
+  other	
+  areas	
+  of	
+  technology?	
+  How	
+  do	
+  the	
+  desirable	
+  results	
+  balance	
+against	
+  those	
+  that	
+  are	
+  undesirable	
+  or	
+  uncertain?	
+  Are	
+  the	
+  effects	
+  reversible	
+  in	
+  the	
+  short	
+  term	
+  or	
+the	
+  long	
+  term?	
+  What	
+  alternative	
+  technologies	
+  might	
+  achieve	
+  the	
+  same	
+  results?	
+• 
+These	
+  questions	
+  should	
+  be	
+  answered	
+  as	
+  quickly	
+  as	
+  possible	
+• 
+…the	
+  NAE	
+  recommends	
+  that	
+  most	
+  assessments	
+  “be	
+  concentrated	
+  on	
+  the	
+  near	
+  future	
+  and	
+supported	
+  at	
+  a	
+  relatively	
+  modest	
+  funding	
+  level.”	
+  The	
+  reliability	
+  of	
+  forecasts,	
+  it	
+  points	
+  out,	
+“declines	
+  rapidly	
+  with	
+  extension	
+  into	
+  the	
+  future	
+  and	
+  with	
+  the	
+  number	
+  of	
+  sequential	
+  events	
+predicted.”	
+• 
+Technological	
+  discoveries	
+  have	
+  sometimes	
+  been	
+  heralded	
+  by	
+  precursor	
+  events	
+  to	
+  be	
+  sure.	
+  When	
+scientists	
+  have	
+  inklings	
+  of	
+  the	
+  future	
+  course	
+  (or	
+  consequences)	
+  of	
+  new	
+  technology,	
+  however,	
+their	
+  voice	
+  has	
+  usually	
+  gone	
+  unheeded.	
+• 
+Guy	
+  Black	
+  Technology	
+  Assessment	
+  What	
+  Should	
+  It	
+  Be?	
+• 
+“Means	
+  are	
+  being	
+  sought	
+  to	
+  predict,	
+  evaluate	
+  and	
+  direct	
+  the	
+  path	
+  of	
+  technological	
+  change	
+  in	
+such	
+  a	
+  way	
+  as	
+  to	
+  preserve	
+  the	
+  public	
+  interest.”	
+  P.	
+• 
+“TA	
+  should	
+  be	
+  concerned	
+  with	
+  evaluating	
+  the	
+  full	
+  range	
+  of	
+  techniques	
+  that	
+  are	
+  relevant	
+  to	
+  a	
+particular	
+  decision	
+  or	
+  change.”	
+  P.	
+• 
+“It	
+  is	
+  change	
+  itself	
+  rather	
+  than	
+  the	
+  cause	
+  of	
+  change	
+  which	
+  creates	
+  problems	
+  for	
+  society.	
+  What	
+should	
+  concern	
+  society	
+  is	
+  not	
+  broadened	
+  awareness	
+  of	
+  alternatives,	
+  but	
+  the	
+  process	
+  by	
+  which	
+alternatives	
+  are	
+  selected…Society	
+  undergoes	
+  changes	
+  even	
+  in	
+  the	
+  absence	
+  of	
+  new	
+  techniques.”	
+P.	
+• 
+“…relationships	
+  that	
+  have	
+  never	
+  been	
+  thought	
+  important	
+  have	
+  never	
+  been	
+  studied	
+  at	
+  all-­‐	
+  and	
+even	
+  relationships	
+  which	
+  have	
+  been	
+  studied	
+  intensively	
+  are	
+  often	
+  imperfectly	
+  understood.”	
+  P.	
+• 
+“…TA	
+  is	
+  a	
+  future-­‐oriented	
+  analysis,	
+  any	
+  analytical	
+  method	
+  with	
+  the	
+  capability	
+  of	
+  relating	
+  past	
+  and	
+future	
+  to	
+  the	
+  present	
+  conditions	
+  may	
+  be	
+  useful.”	
+  P.14	
+• 
+“Unfortunately,	
+  as	
+  models	
+  are	
+  expanded	
+  to	
+  deal	
+  explicitly	
+  with	
+  more	
+  and	
+  more	
+  second-­‐order	
+consequences,	
+  they	
+  become	
+  larger,	
+  more	
+  complex,	
+  and	
+  unless	
+  deliberately	
+  limited,	
+  they	
+  would	
+ultimately	
+  encompass	
+  every	
+  element	
+  of	
+  society.”	
+  P.15	
+• 
+“The	
+  existence	
+  of	
+  a	
+  useful	
+  expertise	
+  in	
+  a	
+  technology	
+  assessment	
+  group	
+  may	
+  result	
+  in	
+participation	
+  in	
+  agency	
+  policy	
+  formation	
+  in	
+  ways	
+  that	
+  may	
+  bias	
+  the	
+  technology	
+  assessment	
+function”	
+  P.17	
+• 
+“The	
+  long-­‐run	
+  strategy	
+  for	
+  TA	
+  must	
+  be	
+  to	
+  identify	
+  important	
+  unknown	
+  functional	
+  relationships	
+and	
+  persuade	
+  government	
+  to	
+  fund,	
+  scholars	
+  to	
+  perform	
+  studies	
+  that	
+  will	
+  define	
+  and	
+  then	
+  refine	
+knowledge	
+  of	
+  them.”	
+  P.19	
+• 
+“Preliminary	
+  screening	
+  is	
+  merely	
+  the	
+  initiation	
+  of	
+  the	
+  technology	
+  assessment	
+  function;	
+  there	
+  is	
+no	
+  real	
+  accomplishment	
+  until	
+  the	
+  ideas	
+  which	
+  pass	
+  the	
+  screening	
+  have	
+  been	
+  considered	
+  in	
+  depth.	
+
+Depth	
+  analysis	
+  would	
+  be	
+  analogous	
+  to	
+  the	
+  systems	
+  approach	
+  and	
+  would	
+  indicate	
+  problem	
+identification,	
+  creation	
+  of	
+  a	
+  general	
+  model	
+  of	
+  the	
+  relevant	
+  situation…”	
+  P.26	
+• 
+“It	
+  is	
+  clear	
+  that	
+  TA…means	
+  balancing	
+  the	
+  desirable	
+  against	
+  the	
+  undesirable.”	
+  P.33	
+• 
+“Some	
+  part	
+  of	
+  the	
+  notorious	
+  difficulty	
+  of	
+  successful	
+  interdisciplinary	
+  research	
+  results	
+  from	
+  the	
+incompatibility	
+  of	
+  data	
+  outputs	
+  from	
+  various	
+  disciplines,	
+  as	
+  they	
+  are	
+  normally	
+  produced.”	
+  More	
+bridges	
+  need	
+  to	
+  be	
+  built”	
+  P.35	
+• 
+  TA	
+  can	
+  be	
+  efficient	
+  when	
+  the	
+  following	
+  prescriptions	
+  are	
+  followed	
+  P.36	
+o TA	
+  will	
+  have	
+  more	
+  impact	
+  when	
+  the	
+  analysis	
+  is	
+  competent	
+o It	
+  will	
+  have	
+  more	
+  impact	
+  when	
+  it	
+  conforms	
+  to	
+  the	
+  values	
+  and	
+  philosophies	
+  of	
+  decision	
+makers	
+o It	
+  will	
+  have	
+  more	
+  impact	
+  if	
+  its	
+  results	
+  are	
+  communicated	
+  to	
+  decision	
+  makers	
+  before	
+  they	
+become	
+  committed	
+  to	
+  specific	
+  programs	
+o It	
+  will	
+  be	
+  more	
+  acceptable	
+  when	
+  it	
+  is	
+  relevant	
+  to	
+  the	
+  high-­‐priority	
+  decisions	
+  which	
+  are	
+  the	
+immediate	
+  responsibility	
+  of	
+  the	
+  decision	
+  makers	
+o It	
+  will	
+  have	
+  more	
+  impact	
+  if	
+  it	
+  does	
+  not	
+  threaten	
+  the	
+  power	
+  and	
+  prestige	
+  of	
+  the	
+  decision	
+makers	
+o It	
+  will	
+  have	
+  more	
+  impact	
+  if	
+  it	
+  presents	
+  alternatives	
+  rather	
+  than	
+  calling	
+  for	
+  or	
+  demanding	
+one	
+  rigid	
+  course	
+  of	
+  action	
+• 
+“..no	
+  single	
+  TA	
+  is	
+  likely	
+  to	
+  be	
+  satisfactory	
+  to	
+  the	
+  entire	
+  structure	
+  of	
+  decision	
+  makers.”	
+  P.38	
+• 
+“TA	
+  must	
+  not	
+  attempt	
+  impossible	
+  precision.	
+  The	
+  structure	
+  of	
+  the	
+  future…is…stochastic…[with	
+array	
+  of	
+  possible	
+  outcomes,	
+  appended	
+  by	
+  probability	
+  estimates…”	
+• 
+A	
+  Guidebook	
+  for	
+  Technology	
+  Assessment	
+  and	
+  Impact	
+  Analysis	
+  Porter	
+  et	
+al.	
+
+Chapter 1 -p.4 
+TA usually deals with a technology that could be geographically situated almost anywhere 
+In terms of policy, TA is likely to explore a wide range of possible subsidies, incentives, 
+regulations, and so forth 
+Chapter 2  
+The technological component and its ties to human society [are] intensifying with the passage of 
+time 
+The technological society is not without its problems. In many cases technological developments 
+have been seen as causing social problems. Cases of “social shock” are caused by technological 
+developments that went wrong 
+The notion of assessing technology has originated from the convergence of two observations: 
+p.11 
+(1) that technology is a crucial force in modern society 
+(2) and that technological developments can go awry 
+Technology Causes Social Change – p.16 
+1. Technological advance creates a new opportunity to achieve some desired goal  
+2. This requires (except in trivial cases) alterations in social organization if advantages is to 
+be taken of this new opportunity 
+3. Which means that the functions of existing social structures will be altered  
+4. With the result that other goals that were served by the older structures are now 
+inadequately achieved 
+Mesthene sees society as basically reacting to technology rather than leading it. New 
+technology alters the range of available choice   
+Chapter 4 – Basic Features of an Assessment 
+Assessment Objectives:  
+The Large Picture 
+Assessments:  
+(1) provide pertinent information to policy makers 
+(2) alert concerned people who, in turn, influence the policy making process  
+(3) may even contribute to serious thought about societal values 
+Each assessment has its own context, sponsor, particular interests, and unique problem 
+definition. There are main general objectives that apply across all assessments: p.44 
+(1) Validity 
+a. Validity carries a host of precise connotations  
+b. Generally refers to being well-grounded in fact and verifiable 
+c. In the case of research dealing with the future, we take validity to refer to the 
+congruence between predicted and actual results 
+d. Since the results of an assessment apply to the future, and since their 
+correspondence with actual happenings may vary as a function of time, the 
+validity of an assessment will remain uncertain 
+
+i. Cause and Effect Understanding 
+1. A technological intervention as a cause produces impacts as it 
+effects. These impacts, in turn acting as causes, may produce other 
+impacts as (higher-order) effects. The central task of an assessment 
+is to understand the full set of interactions involved in the coupling 
+between technology and society. 
+
+ii. Balance 
+1. An assessment should provide a balanced appraisal to the policy 
+maker. “Balance” refers to an even-handed treatment of the major 
+assessment issues, both in terms of coverage all important aspects 
+and in relation of salient points of view  
+a. A value-explicit approach in which the assessors attempt to 
+lay out as clearly as possible the divergent value 
+perspectives involved in the issue 
+b. More importantly, the assessors should try to spell out their 
+assumptions and make clear their personal allegiances, so 
+that the users of their study can judge the positions taken.  
+iii. Methodological Soundness  
+
+
+1. TAs should use the available, relevant data and follow established 
+scientific principles and procedures 
+2. When reasonable, the reproducibility of results should be 
+ascertained  
+(2) Utility –p.46 
+a. The utility of a TA is determined by how much useful information the study 
+provides to its sponsor, to parties impacted by its subject, and to makers of 
+decisions involving the assessment subject 
+b. Utility depends on such factors as the time a study becomes available relative to 
+when a decision must be made, the study content, and the presentation 
+c. Utility can be gauged as the difference, in terms of information gained, the study 
+makes to its potential users
+ 
+i. Relevance 
+1. An assessment is irrelevant and hence useless if it does not ask the 
+questions that the sponsors and parties at interest need answered 
+
+ii. Timeliness 
+1. In a policy context, it is imperative that an assessment be available 
+when the time is ripe. Time pressure can also be a major constraint 
+on the depth of analysis possible 
+iii. Credibility  
+1. Whatever the validity of a report, it is valueless unless the audience 
+believes the report to be worthy of consideration 
+iv. Communicability 
+1. Unless the findings are presented in a usable format, the study may 
+receive scant attention 
+2. This threat is particularly acute in the case of more quantitative 
+approaches that use elaborate techniques. 
+(3) Improving assessment methodology 
+a. Given the social importance of TA, continued methodological advance through 
+development and refinement of study strategies and techniques that lead to valid 
+and useful results should be carefully considered in every significant study  
+Types of Assessment – p.47  
+TA is differentiated in terms of its  
+(1) Comprehensive view of complex issues 
+(2) Requirement of many disciplines, working in an interdisciplinary mode 
+(3) Component tasks (beginning with a need to structure the problem and continuing through 
+analysis of policy options) 
+TA stands apart for its breadth, interest in higher order effects, and concern for all parties at 
+interest 
+Three Types of TA – p.51 
+(1) Project Assessment – a focus on a particular, localized project such as a nuclear power 
+plant 
+(2) Problem Oriented Assessment – a focus on solutions of a specific problem, such as an 
+energy shortage 
+(3) Technology Oriented Assessment – a focus on examining a new technology and trace its 
+impacts on the society – most likely outcome for the LENR/CF case 
+a. Technology oriented assessment often deal with innovative technologies. 
+Important considerations in a technology-oriented assessment are the forms of 
+technology, the time frame of the innovation process and the ways in which the 
+implementation of the technology are likely to occur 
+b. The time frame covered by such an assessment is typically more open than other 
+assessment types 
+c. As a result, the range of societal outcomes is generally wider 
+d. The policy content is more diffuse since the options are great and the uncertainties 
+large 
+A Family of Assessment Studies – p.53 
+Macroassessment (comprehensive, full-scale): 
+Full range if implications and policies considered in depth (on the order of magnitude of 5 
+person-years work for technology-oriented assessment) 
+Miniassessment: 
+Narrow in-depth, or broad but shallow focus (about an order of magnitude smaller than the 
+macroassessment in work effort) 
+Microassessment: 
+A though experiment, or brainstorming assessment exercise to identify the key issues or establish 
+the broad dimensions of a problem (about an order of magnitude smaller than the 
+miniassessment, say 1-person-month of effort) 
+Monitoring:  
+Ongoing gathering of selected information on a topic. May be done formally or informally; as a 
+result of a prior assessment identifying critical uncertainties; and/or as a way to identify critical 
+changes that warrant a new assessment 
+Evaluation: 
+ Evaluation of ongoing projects and programs can determine whether alterations or new 
+programs are needed. In addition these can provide feedback as to the validity of previous TA 
+predictions 
+Components of a TA – p.54 
+(1) Problem definition 
+(2) Technology description 
+(3) Technology forecast 
+(4) Social description 
+(5) Social forecast 
+(6) Impact identification 
+(7) Impact analysis 
+(8) Impact evaluation 
+(9) Policy analysis 
+Communication of results 
+The effects of Technology – p.59 – a breakdown of the orders of effects from the introduction of 
+television 
+Problem definition – p. 65 
+The first step in comtemplating an assessment – whether as sponsor or assessor- is to challenge 
+its existence. Taking as broad and open a perspective as possible, one should pose questions such 
+as: 
+(1) Why study this technology or project? What can be gained from this assessment 
+(2) IS there are core problem reflected in the assessment assignment? 
+(3) What conditions cause the problem or pose essential opportunities? 
+(4) What assumptions are being accepted in the TA formulation? 
+(5) Would reasonable changes in assumptions make a core problem disappear? 
+(6) Who are the parties at interest to the technology or project? How do their values differ? 
+(7) Are there other social values meriting consideration? 
+
+Bounding an Assessment – p.66  
+Bounding a TA – that is – setting limits is difficult to accomplish, deeply intertwined with the 
+other assessment tasks, and crucial to the effective conduct and completion of the assessment. 
+
+Bounding an assessment should be an ongoing activity. It depends on constraints set by the study 
+sponsor, and also on characteristics of the development under assessment, the critical impact 
+areas and selection of policy option 
+Areas for Bounding – p.67 
+Time horizons – extent of future projecting and the intermediate “viewing times” are central to 
+problem bounding. Could chose a 10 to 25 years or more for the scope of the study 
+Spatial extent – is the primary emphasis of the study local, regional, state or national concern. 
+
+Defining the spatial boundaries is important for which policy makers and which policy 
+jurisdictions will be included 
+Institutional Involvements – Institutions considered should those affecting policy, those likely to 
+use the study and those impacted by the technology in question 
+Technology and Range of Application – Limiting technological options to a feasible range may 
+be important for emerging technologies and for technological solutions to social problems. 
+
+Innovative and unconventional alternatives should be included whenever time, funds, and 
+sponsors permit  
+Impact Sectors- criteria for the selection of impact sectors for in-depth treatment should be 
+established to ensure coverage of all areas critical to policy considerations. An initial 
+microassessment is the best means of determining which impact areas to assign highest priority 
+Policy Options- a wide latitude of policy possibilities exists, especially in emerging and social 
+technologies. Limiting the range must be consistent with the thrust of the assessment. In 
+particular, the sponsor and assessment team must agree upon the range and limits of radical or 
+utopian policy options to be considered 
+ Technology Description and Forecasting – p.98 
+Comprehensive description of the state of the art of a technology is necessary but not sufficient 
+for accurate prediction of its future impact. The technology must also be projected along feasible 
+paths into the future. 
+
+What is the emergence of the technology  and what is it impact? 
+
+MITRE Technology Description Checklist – p.106-108 
+This statement includes information such as: 
+(1) Physical and functional description 
+a. Type of technology 
+b. Scientific disciplines 
+c. Industries/businesses involved 
+d. Professions and occupations involved 
+e. Products involved 
+f. Design-dimension data 
+(2) Current State of the art 
+a. Current state of the assessed technology 
+b. Current state of the supporting sciences 
+(3) Influencing factors 
+a. Technical breakthroughs needed 
+b. Technological factors affecting development 
+c. Technological factors affecting application 
+d. Institutional factors affecting development 
+e. Institutional factors affecting application 
+(4) Related technologies 
+a. Complementary (supporting) technologies 
+b. Competitive technologies 
+(5) Future state of the art 
+a. Timing 
+(6) Uses and application 
+a. Current and prospective 
+b. Buyers 
+Technology forecasting- p .113 
+Monitoring – assumption that technological change is foreshadowed by changes in the political, 
+technical, economic, ecological, and/or social environments. Therefore it should be possible to 
+monitor signals in these environments, analyze them and forecast the emergence of new 
+technologies. 
+
+Trend extrapolation – p.115 
+A technique which attempts to capture the historical progress of a technology in a mathematical 
+expression or graphical display. Once determined this information can be used to project or 
+extrapolate performance at a future time, provided that no discontinuities occur. 
+
+Expert Opinion Methods – p. 122 
+“Asking a person who knows” – surveys and soliciting predictions from people in the field 
+Social Description and Forecasting – p.135 
+Social Description – will this technology affect society at large? P.138 
+(1) No war will result from this technology 
+(2) No internal conflict will undermine or overthrow the present democratic system 
+(3) No major shifts in the balance of power between government and private decision 
+making or between federal, state and local governments 
+(4) Value system may change, the so-called Puritan ethic which prizes work and personal 
+achievement will not change 
+Will there be changes to the national conditions? 
+(1) Population size 
+(2) Adjusted GDP growth rate 
+(3) Proportion of federal spending in defense and civilian programs 
+(4) Shift in industrial structure from manufacturing to services 
+Six major categories for the state of society: 
+(1) Values and goals 
+(2) Demography 
+(3) Environment 
+(4) Economics 
+(5) Social factors 
+(6) Institutions 
+Will the technology change social indicators? See page 141 
+Social forecasting – p.148 
+Using social indicators, there are scenarios that can be used to facilitate the predicted outcome 
+for the technology on society. Unlike technology forecasting, there is much more uncertainty in 
+the prediction of state of society. Insight and intuition are the assessor’s best guides 
+Impact Assessment – p.156 
+Impact identification, impact analysis, impact evaluation and policy impact analysis must be 
+executed iteratively to allow for the process to produce the most effective results. 
+
+The assessment team must select the “important” impacts to be analyzed. The determination of 
+which impacts are most important is of course “a judgment call”. That judgment call must be 
+based on sound understanding of the sponsor, the interests of potential users of the TA, as well as 
+the probability, timing, and extent of the impacts themselves. 
+
+Impact Identification Strategies 
+By using a technique which can divide the complex field into smaller, more easily examined 
+sectors. One way to divide the complex field is to use a technique known as EPISTLE: 
+• Environmental 
+• Psychological  
+• Institutional/political 
+• Social 
+• Technological 
+• Legal 
+• Economic 
+Impact identification techniques – p.162 
+Scanning – assembling a checklist 
+Tracing p.168  – relevance tree which can branch out based on the impact from the introduction 
+of the technology 
+Policy considerations –p .176 
+The focus of assessments should be policy. Assessment results will generally be useful to 
+sponsors only insofar as they delineate effective policy alternatives.  
+
+There are no set criteria for impact identification, but there are many considerations to include: 
+Type of perspective – reductionist or holistic 
+Selection of identification techniques for scanning or tracing the impact field 
+Choice of resource people to employ in impact identification – only those on the project team, or 
+persons external to the team as well 
+Successful strategy must blend these decisions with the following study characteristics and 
+constraints: 
+• Characteristics of technology 
+• Characteristics of the impacts 
+• Characteristics of the team members 
+• Sponsor and potential study user requirements 
+• Resource constraints 
+• Study time constraints  
+Impact Analysis 
+Impact analysis links the identification of significant impact to their evaluation and formulation 
+of effective policy to deal with them 
+Models are the best way to determine impacts from the technology 
+Models are systematic arrangements of elements that are intended to represent real-world 
+systems in structure and/or behavior 
+Any model is a representation of a simplification of reality, but must consider the following 
+dimensions: 
+• Complexity (few to many variables) 
+• Time (static to dynamic) 
+• Uncertainty (deterministic to probabilistic 
+Models include p.210: 
+• Physical models 
+• Planning models 
+• Gaming models that allow stakeholders to act out their inclinations and see the 
+implications 
+• System dynamic models which show counter-intuitive workings of feedback 
+relationships 
+• Probabilistic systems dynamics models that incorporate influences of uncertain future 
+events 
+• Monte Carlo methods to sample probability distributions 
+• Queuing and Markov approaches to stochastic situations 
+• Bayesian statistics to combine prior knowledge with new information   
+Impact Evaluation – p.351 
+Evaluation is the process of assigning value. The value of something is assigned relative to that 
+of something comparable with which evaluator is familiar.   
+
+There are several techniques to evaluate the impacts 
+Dimensionless Scaling – p.362  
+In this simple approach, impacts are rated on a common “dimensionless” scale and displayed in a 
+matrix format. This technique is simple, takes relatively little time to perform, and produces an 
+output that is clear and easy for users to comprehend. Its disadvantages are that is generally 
+subjective and any quantification is open to criticism.   
+
+Decision Analysis – p. 363  
+This technique is a term for a number of techniques intended to quantify and systematize 
+decision making, particularly under conditions of uncertainty or risk. Decision analysis can be 
+subdivided into four basic categories: 
+(1) Certainty – an action results in one and only one outcome 
+(2) Risk – an action can result in more than one outcome depending on external conditions 
+that have known probabilities of occurrence 
+(3) Uncertainty – an action can result in more than one outcome depending on external 
+conditions of unknown probability  
+(4) Conflict – external conditions are replaced by a competitor  
+Major advantages of decision analysis in the evaluation of complex problems is that it provides 
+an ordered, systematic, and quantified framework that yields reproducible results. One of its 
+disadvantages is that is requires considerable time, effort, and planning. It is also highly specific 
+to the value set of the decision maker for whom it is developed.   
+
+Policy capture - p. 367  
+Alternative values allow for the evaluation to incorporate stakeholders into the process. Policy 
+capture attempts to weigh the factors considered in reaching a decision. Simply put, policy 
+capture constructs a mathematical model to parallel the actual decision process. One or more 
+representatives of each stakeholder group judge the relative acceptability of each scenario. 
+
+Multiple regression analysis is then used to determine weights implicitly placed by the 
+stakeholder on each factor in reaching a judgment of acceptability. It has two main disadvantages 
+(1) it is difficult to be sure that all factors pertinent to the decision process have been included. 
+(2) a good deal of time is required to the participants in the study 
+Impact evaluation – p. 371  
+Impacts, once identified and analyzed must be evaluated in the light of societal values. 
+
+Evaluation is intended to assess the costs and benefits proceeding from a technology or its 
+alternatives and provide a foundation for policy formulation.  
+
+Policy Analysis – p. 397  
+Policies are guiding principles in both the public and private sectors 
+Policy studies address policy formulation, implementation, effects, and methodology 
+Models of the policy process include:  
+• Rational model 
+• Institutional model 
+• Group equilibrium model 
+• Elite model 
+• Incremental model 
+• Systems model 
+Policy analysis consists of a thoughtful consideration of what is likely to happen under 
+alternatives courses of action 
+Policy analysis should usually include participation by policy makers and impacted publics – the 
+policy community 
+Making explicit recommendations is option of the assessors and should depend on study context. 
+
+Explicit recommendations are usually desirable if the assessment team can convince its audience 
+that is unbiased 
+Policy analysis is a most important part of any assessment. It requires sufficient time and 
+resources to be done well.  
+
+Communication of Results – p. 417 
+Effective communication of TA findings requires considerations of assessors and study users and 
+ways to facilitate information exchange in both directions between the two communities. Three 
+factors that greatly affect the communication to the prospective users: 
+(1) The level of knowledge about the assessment held by the potential user beforehand 
+(2) The amount of new knowledge the assessment provided 
+(3) Whether the assessment was compatible with the interests if the user’s organizations 
+The TA result should be presented with four characteristics to make policy: 
+(1) Regard the TA subject matter as important 
+(2) Do long-range planning 
+(3) Have made or plan to make decisions relevant to the issues addressed  
+(4) Are receptive to externally produced information  
+Life-cycle for TA results: 
+Before the study: intended study should be identified and its information needs understood 
+During the study: Carefully considered interactions between potential users and study producers 
+can take several forms with different purposes. Study methods, completeness and assumptions 
+should be weighed against user perceptions of what makes for a credible assessment  
+The report itself: This should match user needs, with attention to length, summary preparation, 
+integration, writing style, and graphics. 
+
+After the study: A variety of written, oral and “nontraditional” dissemination means should be 
+selected to best match the users intended users’ interests  
+Appendix B: Applied Examples of Technology Assessment 
+
+Include writeup/summary in Appendix B: 
+1. Energy from the West TA 
+2. Coal Slurry Pipeline TA 
+3. Coastal Offshore Energy Systems TA 
+4. Energy Technology Choices TA 
+5. Renewing Our Energy Future TA 
+
+Energy From the West 
+Description  
+For this appendix, the analysis will focus on the First Year Work Plan of the Western Energy 
+Resources TA and the Work plan for Completing the TA of Western Energy Resources and the 
+Final Report because since this TA was a very large undertaking. Viewing the entire scope of the 
+project makes it more interesting and the way it was completed is more important for the 
+LENR/CF case.  
+
+Conceptual Approach & Issues Addressed  
+The Energy from the West TA was a very large project and viewed the “West” holistically when 
+it came to examining the different energy technologies that were at hand. The following quote is 
+a way to view the TA process from a high level of detail: 
+“Although the scope of the assessment is limited as described above, its overall purpose will not 
+be achieved if the concerns of the local, state and federal governments, interstate and regional 
+governmental organizations, industry, labor, Indians and other ethnic and minority groups, and 
+other interested groups and individuals are not taken into account. Consequently, the assessment 
+described in this work plan is designed to produce policy-informing results useful to those who 
+have responsibilities for or an interest in the development of western energy resources.”  
+This is the way that the LENR/CF TA should be conducted. Without a concrete policy in mind, 
+the plans and views contained are not all that practical.  
+
+Whom was the TA Performed for? /Who Performed the TA? 
+
+The TA was performed for the US Environmental Protection Agency Office of Research and 
+Development. 
+
+The TA work was performed by the Science and Public Policy Program at the University of 
+Oklahoma and Radian Corporation.  
+
+Outcome & Recommendations 
+The process took three years to complete and examined six energy resources in eight Western 
+states. There is no direct takeaway because the general answer is yes, the west has energy and it 
+should be produced. Here are the items that need to be taken into account from a policy 
+perspective to protect the social, environmental effects for the people in the Western area.  
+
+Applicability to LENR/CF Case 
+The first year work plan has three phases for its analysis: descriptive, interactive, and integrative. 
+
+The three phases are an interesting way to view the technology. The descriptive phase, 
+interactive phase and integrative phase are a collection of comprehensive analysis to view a 
+problem. For a LENR/CF TA attempt, this table of contents could provide a good template to 
+design a system of analysis for the projects outcome. LENR/CF will need to be explained in a 
+similar sort of way. An outline of the first year of work would contribute toward a successful 
+project in that discovering the full range of costs and benefits can give decision makers the 
+information that they need to determine the outcome of the funding of LENR/CF research.   
+
+One paragraph from the First Year work plan illustrates the need for multidiscipline input into 
+the iterative process of TA. The LENR/ CF case must be viewed through a multi-disciplinary 
+lens for it to have the most comprehensive view. 
+
+The work plan to complete the TA is important because it takes all the information that had been 
+gathered up to that point and made decisions on how to complete the study 
+The final report for the Energy from the West TA is very interesting in the way it is organized 
+and the critical areas that this report chose to focus on. The report limited the scope of the states 
+to Montana, North Dakota, South Dakota, Wyoming, Colorado, Utah, Arizona, and New 
+Mexico. So the study limited the geographic area. Also, within that eight state area, the study 
+focused on six sites within that geography. The LENR/CF case may not focus on specific states, 
+but it may be useful to focus on particular areas where the technology may be more beneficial 
+based on the economic makeup of that area. For instance, if the LENR/CF device can produce 
+enough steam for electricity it may make sense to look for areas which have coal plants that are 
+being retire so these boilers can be placed into existing infrastructure rather than building 
+something from scratch 
+The study also limited the technologies that it would focus on: crude oil, natural gas, coal, 
+uranium, oil shale and geothermal. This helped to limit the effects from technology development. 
+
+By limiting the types of technologies the impacts of the technologies were limited as well. 
+
+LENR/CF TA should be limited as well. From the literature, there is a lot of products and plans 
+that are called LENR/CF. Finding to the most promising technologies and evaluating those is a 
+good way to structure the TA/ .  
+
+This holds promise for the final report for the LENR/CF TA there is a template to limit the scope 
+and the impacts of the study to prevent the project from spilling out into too many directions.   
+
+The format that the Final Report takes could be a nearly direct template for which the LENR/CF 
+case could follow. It mirrors most of the information that would be needed to make a LENR/CF 
+Ta fully complete.  
+
+Table of Contents 
+I. 
+First	
+  Year	
+  Work	
+  Plan	
+  of	
+  the	
+  Western	
+  Energy	
+  Resources	
+  TA	
+Using the Table of Contents from the First Year Work Plan of the Western Energy Resources 
+TA, it is possible to lay out a template for beginning a TA.  
+
+
+1. Chapter 1: First Year Work Plan Report 
+1.1. Introduction :
+
+1.2. Purpose and Scope :
+
+1.3. Specific Objectives :
+
+1.4. Assumptions :
+
+1.5. Plan of the Report :
+2. Chapter 2 Conceptual Framework 
+
+
+2.1. Introduction :
+
+2.2. Assessment Phases :
+
+2.3. Summary :
+3. Chapter 3: The Descriptive Phase  
+
+
+3.1. Introduction :
+
+3.2. Energy Resource Development Systems :
+
+3.3. Overview of the Western Region :
+
+3.4. Scenarios :
+4. Chapter 4: The Interactive Phase 
+
+
+4.1. Introduction :
+
+4.2. Physical Impacts :
+4.2.1. Air Quality  
+4.2.2. Water Quality 
+4.2.3. Solid Waste  
+4.2.4. Noise 
+
+4.3. Resource Availability  :
+4.3.1. Water 
+4.3.2. Land Consumption 
+4.3.3. Transportation 
+4.3.4. Materials and Equipment 
+4.3.5. Personnel 
+4.3.6. Financial Resource 
+
+4.4. Ecological Impacts :
+
+4.5. Social, Economic and Political Impacts :
+
+4.6. Health Effects :
+
+4.7. Energy  :
+
+4.8. Aesthetic Impacts :
+
+4.9. Integrating the Results of the Impact Analyses :
+5. Chapter 5: The Integrative Phase: Policy Analysis 
+
+
+5.1. Introduction :
+
+5.2. General Approach to Policy Analysis :
+
+5.3. Procedures, Methods and Techniques :
+
+5.4. Anticipated Results :
+
+5.5. Data Adequacy  :
+
+5.6. Research Adequacy   :
+6. Chapter 6: Research Adequacy, Data Availability, and Sensitivity Analysis 
+
+
+6.1. Introduction :
+
+6.2. Procedures :
+
+6.3. Information and Data Base :
+
+6.4. Assessment of Data Quality and Sensitivity  :
+
+6.5. Identification of Research Needs :
+
+6.6. Anticipated Results  :
+7. Chapter 7: Proposed Performance Schedule 
+
+
+7.1. Introduction  :
+
+7.2. The Performance Schedule  :
+8. Chapter 8: Reporting Results of the First Year TA 
+
+
+8.1. Introduction :
+
+8.2. Baseline Data Compilation :
+
+8.3. Analytical Results :
+
+8.4. Research Adequacy  :
+
+8.5. Distribution of Results :
+9. Chapter 9: Tentative Plans for the Second and Third Years 
+
+
+9.1. Introduction :
+
+9.2. Overall Scenarios  :
+
+9.3. Impact Analysis :
+
+9.4. Policy Analysis :
+II. 
+
+
+Work	
+
+  Plan	
+  For	
+  Completing	
+  A	
+  Technology	
+  Assessment	
+  of	
+  Western	
+  Energy	
+Resource	
+  Development	
+This work plan is the part of the iterative process of a TA. It reflected on the First Year Plan 
+as well as other publications that had been completed. This interim report is a bit different 
+from the First Year Work Plan in that it provides less technical detail and gives more detail 
+as to how the project is progressing from an overall viewpoint. Its table of contents is shorter 
+and seeks to combine reports from different parts of the TA project.   
+
+
+1. Chapter 1: Background and Organization 
+1.1. Introduction :
+1.2. Progress to Date :
+1.3. Purpose and Organization of This Work Plan :
+2. Chapter 2: Impact Analysis 
+2.1. Introduction :
+2.2. Levels of Development :
+2.2.1. Coal 
+2.2.2. Oil Shale 
+2.2.3. Oil, Natural Gas, Uranium, and Uranium 
+2.3. Extensions and Refinements :
+2.3.1. Added development alternatives 
+2.3.2. Changes within Impact Analysis Categories 
+2.4. Interactive Effects  :
+2.5. Uncertainty :
+2.6. Reporting the Results of Impact Analysis :
+3. Chapter 3: Policy Impacts 
+3.1. Introduction  :
+3.2. Technology Assessment as Applied Policy Analysis :
+3.2.1. Technical Analysis 
+3.2.2. Policy Analysis 
+3.2.3. Overlap and Interaction of Technical and Policy Analyses 
+3.3. Policy Analysis In The Western Energy Study :
+3.3.1. Introduction 
+3.3.2. The Identification and Definition of Problems and Issues in Western Energy 
+Resource Development 
+3.3.3. The Description and Political Context of Issues Associated with the Development 
+if Western Energy Resources 
+3.3.4. The Identification, Definition, Evaluation, and Comparison of Alternative Policies 
+and Implementation Strategies 
+3.3.5. The Policy Analysis Report 
+4. Chapter 4: Reports 
+4.1. Introduction :
+4.2. Background and Supporting Materials Reports
+4.2.1. Energy Resource Development Systems 
+4.2.2. Impact Analysis Report 
+4.2.3. Policy Analysis Report 
+4.2.4. Data Research Adequacy Report 
+4.2.5. Information File Report 
+4.2.6. Subcontractor Reports 
+4.3. Final Technology Assessment Report
+4.4. Timetable for Completing the Project 
+5. Chapter 5: Regional Activities and Utilization 
+5.1. Introduction
+5.2. Utilization and Feedback Efforts
+III. 
+Final	
+  Report	
+Part I: Introduction 
+Chapter 1: Context of Western Energy Resources 
+1. Introduction 
+2. National Energy Goals 
+3. Western Energy Resources 
+4. Selected Factors Affecting Level of Development 
+5. Purpose and Objectives 
+6. Scope  
+7. Overall Assumptions 
+8. Data Sources 
+
+Chapter 2: Conduct of the Study 
+1. Introduction 
+2. Conceptual Framework 
+3. Interdisciplinary Team Approach 
+4. Summary 
+
+Chapter 3: The Impacts of Western Energy Resources Development: Summary and Conclusions 
+1. Introduction 
+2. Air Quality 
+3. Water Availability  
+4. Social, Economic, and Political 
+5. Ecological 
+6. Health Effects 
+7. Transportation 
+8. Aesthetics and Noise  
+9. Summary 
+
+Chapter 4: Policy Problems and Issues 
+1. Introduction 
+2. Water 
+3. Air 
+4. Planning and Growth Management 
+5. Reclamation 
+6. Conclusion 
+
+Chapter 5: Plans for Completing the Project 
+2. Introduction 
+3. Background and Supporting Materials 
+4. Final TA Report 
+
+A Technology Assessment of Coal Slurry Pipelines 
+Description  
+This TA was designed to study the effect of using coal slurry pipelines as a means to move coal 
+from place to place in the United States. This TA is investigating the future and prospects for 
+building coal slurry pipelines within the United States. The study investigates the costs as well as 
+the impacts from deployment of this type of technology. Not just focusing on economic impacts, 
+the study also touches on social and environmental impacts as well.   
+
+Conceptual Approach & Issues Addressed 
+One of the key statements from this TA is that the information contained within it is “based on 
+simplifying assumption and considerable speculation about the future.” 
+Within the study, there are four studies which make up a subset of the TA. The first sub-study 
+focuses on the volumes of coal which may form the baseline for coal shipped until the year 2000 
+for different regions of the country.  
+
+The second sub-study focuses on estimates of cost and market scenarios which would drive the 
+project economics. It also attempts to add up the total social costs of electric power generation, 
+which includes service quality and cost, employment and other economic measures.  
+
+The third sub-study covers the social and environmental impacts of the use of water to ship the 
+coal through a slurry pipeline. There is a contrast and comparison between the movement of coal 
+by pipeline and rail and offers the comprehensive view of the alternatives and the plans which 
+the study had in mind.  
+
+The fourth study was subjecting the rest of the analysis to a sensitivity analysis which gives the 
+effects of changes in the variables to the rest of the study.  
+
+Whom was the TA Performed for? /Who Performed the TA? 
+
+This TA was performed for the US Senate Committee on Energy and Natural Resources, US 
+Senate Committee on Commerce, Science, and Transportation, and US House of Representatives 
+Committee on Interstate and Foreign Commerce 
+The TA was performed by the OTA Coal Slurry Pipeline Project Staff as well as a group of 
+consultants. The study was overseen by the Coal Slurry Pipeline Advisory Panel (which was 
+made up of those in government, private industry and academia) and the OTA Energy Advisory 
+Committee (which was made of people industry and academia)  
+Outcome & Recommendations 
+In certain cases, the study recommends the use of coal slurry pipelines and offers the 
+circumstances for which they would make sense.  
+
+The study makes a point of arguing the alternatives for transporting coal. The two main 
+alternatives are rail and pipeline. The study concludes that if the regulatory framework was 
+modified with respect to the power of eminent domain, the pipelines would enjoy a considerable 
+advantage over the  
+Applicability to LENR/CF Case 
+Both the coal slurry pipeline and the costal energy TAs are mainly focused on evaluating 
+alternatives. For a TA on LENR/CF, the alternatives would probably be less economic and more 
+social because if the promises of LENR/CF became true, the costs would cancel out most of the 
+other forms of energy generation. The economic evaluations would be better suited to measuring 
+what displacement effects would create opportunities for the government to help manage the 
+transition to LENR/CF. 
+
+The way in which the sub-studies make up a larger TA makes sense for the LENR/CF case as 
+different studies could view different parts of the whole if this technology were to take hold. One 
+study could focus on the electric generation parts of LENR/CF and another could focus on the 
+economic issues with the introduction of this technology. The sensitivity analysis could change 
+assumptions and affect the way in which different parts of the field take shape. If the costs are 
+higher for one technology or another, then energy may have to come from other sources. The 
+study must make it clear of the assumptions which are being taken into account, whether it is just 
+a source of excess heat and has limited other benefits or of the LENR/CF technology can be 
+ramped up and applied in creating more meaningful energy such as steam for electricity 
+production or for transportation.   
+
+Table of Contents 
+The table of contents demonstrates how this TA is organized and what the priorities of the 
+assessment was.   
+
+I) Summary 
+II) Introduction  
+III) Issues and Findings 
+IV) Coal Slurry Pipeline and Unit Systems 
+1) Technology Description 
+i) Pipelines 
+ii) Unit Trains 
+2) Coal Transportation Market 
+i) Major factors influencing coal usage 
+ii) Scenario description 
+iii) Results 
+3) Costs Comparisons and Traffic Assumptions 
+4) Costs 
+5) Traffic Assumptions 
+V) Economic Impacts 
+1) Introduction 
+i) Objectives 
+ii) Methodology 
+2) Rail Cost and Price Alternatives 
+(1) Alternative I - Constant Rate and Cost Structure 
+(2) Alternative II – Fuel Cost Adjustment 
+(3) Alternative III- Historical Rate Decline 
+(4) Alternative IV – Constant Operating Ratio 
+(5) Alternative V – Minimum Necessary Net Income 
+3) Pipeline Impact Analysis 
+(1) Lost rail tonnage 
+(2) System costs 
+(3) Economic impacts of water resource allocation 
+VI) Environmental and Social Impacts 
+1) Introduction 
+2) Water Use by Pipelines 
+i) Water for the Wyoming Pipeline 
+ii) Water for the Montana Pipeline 
+iii) Water for the Tennessee Pipeline 
+iv) Water for the Utah Pipeline 
+v) Alternative Water Supply sources 
+vi) Coal-water Interaction and Corrosion 
+vii) Slurry Water Reuse and Impacts 
+3) Community disruption by Railroads 
+4) Construction Impacts 
+5) Operational Impacts 
+i) Air 
+ii) Dust Emissions 
+iii) Disruptions of Biological Communities 
+iv) Energy/Materials Requirements 
+v) Occupational Health and Safety 
+VII) 
+Legal and Regulatory Analysis 
+1) Introduction 
+i) Legal Provisions which favor pipelines 
+ii) Legal provisions which favor railroads 
+2) Transportation regulation 
+3) Water Law 
+4) Environmental Law 
+5) Eminent Domain 
+VIII)  Appendix – Baseline Rail Revenue and Cost Projections 
+Coastal Effects of Offshore Energy Systems 
+Description  
+This TA is concentrated solely on several sources of energy generation in a specific area of the 
+United States, New Jersey and Delaware. The three energy systems that this TA is focusing on 
+are oil and natural gas development, installation of deepwater port to accommodate 
+Supertankers, and construction of at least two floating nuclear powerplants. 
+
+Conceptual Approach & Issues Addressed  
+The TA went about assessing the impacts for three types of energy systems if they were 
+deployed in New Jersey and Delaware.  
+• Offshore Oil and Gas Development 
+• Floating Nuclear Plant 
+• Deepwater Ports which could accept new supertankers 
+The study analyzed the federal regulations, environmental role, technical designs, risks from 
+accidents, economic impacts as well as many other impacts that could happen depending on the 
+decision that policymakers make on these technologies. The study also outlines several 
+alternatives to the three technologies that are proposed in the study. Most of the alternatives are 
+conventional and this comparison of the alternatives lays out the evidence all at once to help 
+normalize the technologies and make for more informed decision-making between alternatives.  
+
+The study looked at the background of each technology, what would be necessary for 
+deployment, what effects would take place on the coast, and what the risks and safety issues are. 
+
+There is also an entire section dedicated to the public participation which informed the 
+decisionmakers and led to the important input from those people who could be affected by 
+decisions.	
+
+Whom	
+  was	
+  the	
+  TA	
+  Performed	
+  for?	
+  /Who	
+  Performed	
+  the	
+  TA?	
+
+This TA was performed for the US Senate National Ocean Policy Study group 
+The TA was performed by OTA Oceans Program Staff and was overseen by the Oceans 
+Assessment Advisory Panel 
+Outcome & Recommendations 
+The study found that there was not likely to be significant damage to the environment or changes 
+in the patterns of life in either New Jersey or Delaware. The study makes it clear that these 
+operations are very complex and require a lot of oversight and strict operational monitoring.  
+
+The study makes it clear that the idea of a floating nuclear plant involves unique risks, all of 
+which have not yet been studied in great detail. The study calls for changes within the federal 
+government which would allow for more exploration of the offshore oil and gas resources. 
+
+The last point that the study makes is that there is are no alternatives within the group studied 
+which offer a clear social, environmental, or economic advantage over the others.  
+
+Applicability to LENR/CF Case 
+The use of public input to the TA would be important. It would help outline the biggest concerns 
+over the introduction to the technology. Though experts would be necessary for most of the 
+analysis, the use of a public forum would allow the policy to take into account all of the possible 
+outcomes which could take place.  
+
+Viewing the LENR/CF case through its anticipated effect, the process of implementing the 
+technology, and the preferences and alternatives to LENR/CF would be a beneficial way to 
+conduct the TA.  
+
+Table of Contents 
+I. 
+Introduction 
+a. Background 
+b. Office of Technology Assessment 
+c. Study Area Approach  
+d. Selection of Issues 
+e. Data Sources 
+f. Public Participation 
+II. 
+
+Major Findings and Summary 
+a. Offshore Oil and Gas Systems: 
+i. Summary 
+ii. Findings 
+b. Deepwater Ports 
+i. Summary 
+ii. Findings 
+c. Floating Nuclear Powerplants 
+i. Summary 
+ii. Findings 
+d. Alternatives to Offshore Technologies 
+i. Summary  
+ii. Findings  
+III. 
+
+Issues and Options 
+a. Introduction 
+b. Common Issue 
+i. Offshore Priorities and Planning 
+c. Offshore Oil and Gas Issues 
+i. Federal Management System 
+ii. Regulation Enforcement 
+iii. Oil Spill Liability and Compensation 
+iv. Oil Spill Containment and Cleanup 
+v. Environmental Studies  
+vi. State Role  
+vii. Pollution Research 
+viii. Conflicting Ocean Uses 
+d. Deepwater Port Issues 
+i. Tanker Design and Operations 
+ii. Oil Spill Containment and Cleanup at Deepwater Ports 
+iii. Standards in State Waters 
+iv. Adjacent Coastal State Status 
+e. Floating Nuclear Plant Issues 
+i. Risks from Major Accidents 
+ii. Deployment Involute 
+iii. Technical Uncertainties  
+iv. Siting offloading Powerplants Outside U.S. territorial limits  
+f. Footnotes 
+IV. 
+
+Discussion of the Technologies 
+a. Introduction 
+b. Description of the Study Area 
+c. Development of Offshore Petroleum Technologies in the Mid-Atlantic 
+i. Lots of background 
+d. The Possibility of Deepwater Ports in the Mid-Atlantic 
+i. Lots of background 
+e. The Proposal for a Floating Nuclear Powerplant in the Mid-Atlantic 
+i. Lots of background 
+f. Alternatives to Offshore Technologies 
+V. 
+
+Public Participation 
+a. Public Participation: A Pilot Project 
+b. Major Findings for All Technologies 
+c. How Public Participation Affected the OTA Assessment 
+Renewing Our Energy Future 
+Description  
+This TA analyzes the development of Renewable Energy Technologies (RETs) in the United 
+States from the mid-1970’s to 1995.  
+
+Conceptual Approach & Issues Addressed  
+Viewed the technologies from where they would be deployed. Agricultural crops is not really a 
+“space” where the other chapters have space as an attribute. The TA moves from Buildings, to 
+Transport, to Electricity and then to foreign countries which has a way of organizing itself in a 
+way to frame the different energy technologies for the country.  
+
+Whom was the TA Performed for? /Who Performed the TA? 
+
+This TA was completed for US Senator Charles Grassley, the US House of Representatives 
+Committee on Science and its Subcommitee on Energy and Environment, two Subcommittees of 
+the US House of Representatives Committee on Agriculture – Department Operations, Nutrition 
+and Foreign Agriculture and Resource Conservation, Research and Forestry; the House 
+Subcommittee on Energy and Environment of the Committee on Appropriations. 
+
+The TA work was completed by the OTA project staff and was overseen by an Advisory Panel 
+which was made up of people from academia, private industry, non-profits and industry interest 
+groups. There were also third-party contributors and reviewers which added to the multi-
+disciplinary aspect of the project.  
+
+Outcome & Recommendations 
+The TA outlines different policy options which could be used to make the technologies more 
+cost effective and lead to outcomes which could strengthen the renewable energy market.   
+
+Applicability to LENR/CF Case 
+The LENR/CF case could be argued to be a renewable energy technology so the way that the TA 
+goes through the different areas where RETs are deployed makes perfect sense for LENR/TA. 
+
+The way that LENR/CF could change the electricity market, residential and commercial 
+buildings as well as transport and agriculture would all be important areas which the LENR/CF 
+TA could touch on. Going through each area of society in a clear and organized way would be 
+useful for the LENR/CF TA. 
+
+Table of Contents  
+I. 
+
+Overview 
+a. Renewable Energy Resources and Technologies 
+b. Policy Options 
+c. Conclusion 
+II. 
+
+Agricultural Energy Crops 
+a. Bioenergy Supply 
+b. Potential Environmental Impacts 
+c. Economic Impacts 
+d. RD&D and Commercialization 
+e. Policy Options 
+f. Crosscutting Issues 
+g. Conclusions 
+III. 
+
+Residential and Commercial Buildings 
+a. Introduction 
+b. Renewable Energy Technologies 
+c. Policy Options 
+d. Crosscutting Issues 
+e. Conclusions 
+IV. 
+
+Transport  
+a. What Has Changed in Transport Fuels? 
+b. Renewable Energy Paths for Transport  
+c. A Renewable Fuel Menu 
+d. Emerging Vehicle Technologies 
+e. Policy Issues 
+f. Conclusion  
+V. 
+
+Electricity: Technology Development  
+a. Renewable Energy Technologies and Industries 
+b. Renewable Energy Systems 
+c. Overcoming Barriers 
+d. Policy Options 
+e. Crosscutting Issues 
+f. Conclusion 
+VI. 
+
+Electricity: Market Challenges 
+a. Electricity Sector Change 
+b. Power Plant Finance 
+c. Utility Full Fuel-Cycle Tax Factors 
+d. Direct and Indirect Subsidies 
+e. Risk and Uncertainty  
+f. Environmental Costs and Benefits 
+g. Approaches to Commercializing RETS 
+h. Conclusion 
+VII. 
+
+Government Supports and International Competition 
+a. Countries 
+b. Comparisons 
+c. Policy Options 
+d. Conclusions 
+U.S. Congress, Office of Technology Assessment, Renewing Our 
+Energy Fulture,OTA-ETI-614 (Washington, DC: U.S. Government Printing Office, 
+September 1995). 
+
+Energy Technology Choices: Shaping Our Future 
+Description 	
+This TA covers the various energy technologies that existed in 1991 that could provide energy 
+sources for the United States.  
+
+Conceptual Approach & Issues Addressed  
+The three uncertainties that the TA addressed were:  
+
+
+1. How	
+  to	
+  assure	
+  a	
+  long-­‐term	
+  supply	
+  of	
+  reasonably	
+  priced,	
+  convenient	
+  fuels,	
+  especially	
+  for	
+transportation	
+2. How	
+  to	
+  protect	
+  the	
+  country	
+  against	
+  disruptions	
+  of	
+  petroleum	
+  imports	
+3. How	
+  to	
+  mitigate	
+  emissions	
+  of	
+  carbon	
+  dioxide	
+Whom was the TA Performed for? /Who Performed the TA? 
+
+US Senate Committee on Energy and Natural Resource, US House of Representatives 
+Committee on Government Operations, and US House of Representatives Committee on Energy 
+and Commerce 
+The TA work was completed by the OTA Project Staff and was overseen by an Advisory Panel 
+which included people from government, academia, private industry and non-profit organizations 
+Outcome & Recommendations 
+All options entail some compromises as the study has claimed there is no single energy panacea 
+that can solve all the long-term requirements for the United States.  
+
+The TA lays out several scenarios that the nation could follow: 
+• 
+Emphasizing	
+  production	
+  of	
+  conventional	
+  fuels	
+• 
+Improving	
+  efficiency	
+  of	
+  use	
+  to	
+  the	
+  economic	
+  optimum	
+• 
+Minimizing	
+  the	
+  use	
+  of	
+  energy	
+  as	
+  far	
+  as	
+  is	
+  technologically	
+  possible	
+• 
+Emphasizing	
+  renewable	
+  energy	
+  sources	
+• 
+Emphasizing	
+  nuclear	
+  energy	
+The last two chapter which compares all the scenarios offers a picture for what will happen in 
+different cases both in the economic outcomes and policy outcomes.  
+
+Applicability to LENR/CF Case 
+The scenario analysis is a very powerful tool that could be applied to the LENR/CF TA as the 
+different outcomes for the research in the field could guide policymakers to make the correct 
+decisions. Evaluating the different ways which the changes could occur could be paired with the 
+evidence based judgments which can be a signal from the field as to what the results from the 
+experiments are.  
+
+The way in which scenario analysis and sensitivity analysis could be combined to make the 
+what-if situations more real and give a lot of help in guiding policymakers to possible outcomes 
+from pursuing the LENR/CF technologies as an energy source. 
+
+Table of Contents 
+I. 
+
+Overview 
+II. 
+
+Chapter 1: Introduction: The Changing Context for Energy Technology Policy 
+a. The Energy Policy Context 
+b. Trends Shaping Energy Policy and Technology Choices 
+c. Candidate Energy Policy Goals to Reflect A National Energy Strategy 
+d. Conclusions 
+III. 
+
+Chapter 2: Technologies Affecting Demand 
+a. U.S. Energy Use 
+b. Opportunities for Energy Efficiency Improvements in the Residential and 
+Commercial Sectors 
+c.  Opportunities for Energy Efficiency in the Industrial Sector 
+d. Opportunities for Energy Efficiency Improvements in the Transportation Sector 
+e. Other Factors That Affect Energy Use   
+IV. 
+
+Chapter 3: Technologies for Energy Supply and Conversion 
+a. U.S. Energy Supply 
+b. Technological Opportunities for Improving Fossil Fuel Supplies 
+c. Non-Fossil Fuel Energy and Advanced Technologies 
+d. Other Factors Affecting Supply 
+V. 
+
+Chapter 4: Potential Scenarios for Future Energy Trends 
+a. Scenario 1: Baseline 
+b. Scenario 2: High Growth 
+c. Scenario 3: Moderate Emphasis on Efficiency  
+d. Scenario 4: High Emphasis on Efficiency  
+e. Scenario 5: High Emphasis on Renewable Energy 
+f. Scenario 6: High Emphasis on Nuclear Power 
+g. Comparative Impact of Scenarios 
+VI. 
+
+Chapter 5: Policy Issues 
+a. Introduction  
+b. Baseline Scenario 
+c. High Growth Scenario 
+d. Moderate Efficiency Scenario 
+e. High Efficiency Scenario 
+f. High Renewables Scenario 
+g. High Nuclear Scenario 
+h. Comparing Scenarios 
+U.S. Congress, Office of Technology Assessment, Energy Technology Choices: Shaping Our 
+Future, OTA-E-493 (Washington, DC: U.S. Government Printing Office, July 1991).  
+
+Appendix C: Participatory Technology Assessment 
+Participatory Technology Assessment  
+Community-Based Research and Technoscience Activism 
+• “…science shops provide knowledge and skills to civil society members as well as 
+students and university researchers; they build equitable partnerships between researchers 
+and civil society organizations; and they inform university leaders and policy-makers of 
+the research and education needs of civil society.” 
+• Likewise, HIV/AIDS activists, opponents of digital surveillance, seed savers, and 
+movements against advanced weapons systems represent but a few of the many 
+grassroots engagements with specific arenas of science and technology that seek 
+democratization and accountability.  
+• Community-based research has a wellspring of energy and authenticity which is 
+grounded in local issues 
+• Movements focused on specific technologies are constrained by a different concreteness 
+that requires sustained focus on the industries that deploy these technologies and the 
+policy venues that promote and regulate them.  
+
+Reinventing Technology Assessment   
+• Over time, taking the public’s pulse became integrated into our work on understanding 
+the risks and benefits of new technologies and convinced us that public policy can be 
+improved through sustained and carefully crafted dialogue with laypeople. But it also 
+became obvious that interaction with the public was neither an accepted practice nor a 
+desired outcome in most areas of science and technology (S&T) policy. The idea of 
+“engaging the public” has had high rhetorical value in the S&T community, but little 
+practical impact on decision-making. 
+• Technology assessment (TA) is a practice intended to enhance societal understanding of 
+the broad implications of science and technology. This creates the possibility of preparing 
+for – or constructively influencing – developments to ensure better outcomes.  
+• Meanwhile, there are now a dozen parliamentary TA agencies in Europe. They have 
+developed many promising TA practices, including highly effective methods involving 
+participation by everyday citizens.* 
+• Participatory technology assessment (pTA) enables laypeople, who are otherwise 
+minimally represented in the politics of science and technology, to develop and express 
+informed judgments concerning complex topics. In the process, pTA deepens the social 
+and ethical analysis of technology, complementing the expert-analytic and stakeholder-
+advised approaches to TA used by the former OTA. European pTA methods have been 
+adapted, tested and proven in the U.S. at least 16 times by university-based groups and 
+independent non-profit organizations.  
+• OTA reports were analytically rigorous and supplied extensive, in-depth and useful 
+information. They provided Congress and the nation good value for the money. The OTA 
+also had an oversight and pre-publication review process that ensured that studies were 
+non-partisan 
+o Slow delivery 
+o Misleading presentation of objectivity 
+o Uneven treatment of social consequences 
+o Limited insight into synergisms and sociotechnological dynamics 
+o No citizen perspective  
+• Virtues of  Participatory Technology Assessment  
+o Reasons to include laypeople in the TA methods are: 
+  A matter of democratic right 
+  Social values 
+  Broader knowledge base 
+  Cost reduction 
+  Expedited conclusions 
+• Criteria for a New U.S. Technology Assessment Capacity  
+o Participation and Expertise 
+o 21st-Century Structure 
+o Continual Innovation in Concepts and Practices  
+o Non=partisan Structure and Governance 
+o Commitment to Transparent Process and Public Results 
+• Practical Options for Establishing a 21st=Century TA Capability 
+o One option: Congressional TA capability within GAO or other Congressional 
+organization 
+o Second option: Establish Expert & Citizen Assessment of Science & Technology 
+(ECAST) network. This body would independent of government and comprise a 
+complementary set of non-partisan policy research institutions, universities  
+• Due to the changing pace of innovation in technology today, there is not a mechanism for 
+understanding political costs and opportunities for innovation.  
+o Without TA, citizens are often left to their own devices and the less obvious 
+social ramifications of science and technology or practical alternatives are 
+unknown until the technology is already entrenched. 
+o With the introduction of the internet and Web 2.0 features, there are now 
+opportunities for organizing TAs which make technology and science more 
+transparent, publicly accessible, geographically distributed, collaborative and 
+cost-effective. 
+• European Advances 
+o Danish style “consensus conference” – intended to provide policy-makers with a 
+window into ordinary citizens’  considered opinions concerning emerging 
+technological developments while also stimulating broad and intelligent social 
+debate on technological issues 
+o Additional pTA methods include: 
+  Scenario workshops 
+  Planning cells 
+  Citizen hearings 
+  Future search conferences  
+  Development spaces  
+  Deliberative mapping 
+• Page 27 – No citizen perspective   
+The Role of Participatory Technology Assessment in Policy-
+Making  
+• In its essence, Technology Assessment (TA) has a strong political dimension. When the 
+American Congress developed TA in the 70’s, it imagined a political instrument which 
+would give to its members access to independent, objective and competent information 
+on scientific and technological issues.  
+• The American model was based on a rather scientific approach of the assessment 
+(involving stakeholders only afterwards), European TA always struggled with how 
+exactly to integrate interests and values in the assessment.  
+• One strand of European TA – mainly originating in Denmark – is trying to solve the 
+problem of how to make values and interests fruitful by organizing participatory 
+procedures.  
+• With this “participatory turn”, the political dimension of TA is even reinforced as it is no 
+more an academic activity whose outcomes are to be communicated to and used by 
+policy-makers, but a political activity itself. Integrating various actors is eminently 
+political, as questions of power, influence and responsibility intervene. 
+• New developments in science and technology put public authorities under stress as they 
+are faced with uncertainty about the consequences of these developments and with a 
+plurality of values and interests about them. Also our other theoretical lens, inequality, 
+highlights the possible political contribution of pTA,  in particular to take into account 
+the plurality of views and values present in society and to give them a voice.  
+• pTA allows for:  
+• Minority proposals are presented as viable solutions and get a chance to be accepted 
+by the majority, too.  
+• pTA can bring new ideas which will develop in time and generate further new ideas. 
+
+In this respect, the role of pTA on the policy-making process is of a very special 
+nature. 
+• when assessing the role of pTA on the policy-making process, we must not forget that 
+the actors intended to take up the results of the pTA do not always agree with its 
+outcomes. PTA is always part of the political game in which power is at stake. 

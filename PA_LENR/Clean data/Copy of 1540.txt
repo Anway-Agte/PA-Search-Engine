@@ -1,0 +1,757 @@
+1. Introduction
+The March 23, 1989 announcement by Martin Fleischmann and Stanley Pons of the possibility of nuclear fusion in an
+electrochemical system of heavy water (D2O) and Pd generated worldwide interest [1–3]. Since then, small groups
+of researchers have been trying to replicate these claims without definitive success. Some experimental observations
+of anomalous heat effects (AHE) were made using calibrated calorimetry [4]. Others have claimed the correlated
+generation of He as a reaction byproduct [5], thus lending credence to the conjecture that a nuclear reaction may be
+taking place in the system.
+
+Unfortunately, almost no published reports describe the specific steps necessary to independently reproduce claims
+of AHE reliably starting from commercially available materials and equipment. While preparation of the Pd cathode
+is proposed to be a crucial determinant of success [6], descriptions of specific cathode preparation procedures along
+with quantitative material properties are rare. Furthermore, there is no consensus within the research community about
+what kind of material preparation is required to observe the effect.
+
+The dual-laser experiment (DLE) published by Dennis Letts [7,8] is a rare example of a report of AHE combined
+with sufficient documentation for a replication attempt. The reports of Letts et al. claim that a sufficiently prepared
+Pd cathode plated with Au will exhibit excess heat on the order of 100–300 mW in response to stimulation by two
+lasers having a frequency difference tuned to speciﬁc peaks in the THz range. These peaks coincide with phonon
+resonance frequencies of Pd, making the reports even more remarkable. Letts et al. [7,8] document the speciﬁc
+material preparation and measurement steps making a high ﬁdelity replication attempt feasible. Letts claimed a 95%
+replication rate of AHE by following his protocol [8].
+
+The DLE merits replication for another reason: the low energy nuclear reactions research community considers
+it an important result to build upon. For example, it provides experimental support for Peter Hagelstein’s theoretical
+explanations of AHE, and it was referenced at least twice in oral presentations at the International Conference on
+Condensed Matter Nuclear Science (ICCF-19) in April 2015 [9,10].
+
+This report describes our attempt to replicate the DLE, based on published reports and limited additional input
+from Letts. We did not observe the laser-triggered excess heat effects described by Letts et al. but we learned a lot
+about the experimental apparatus. We speculate on possible reasons for our different result, and suggest ways in which
+the DLE could be improved to make other replication attempts more straightforward.
+
+
+2. Experiment
+
+Letts concluded a 2015 publication [8] with the following:
+“The dual-laser experiments seem to support these conclusions:
+(1) Three speciﬁc beat frequencies will trigger excess power in a deuterated cathode.
+(2) Cathode fabrication, loading and laser application protocols enable excess power.
+(3) An external magnetic ﬁeld is required and its affect (sic) is linear.
+(4) Polarization of the laser beams affects excess power.
+(5) Plating gold on the cathode surface after loading is required to produce excess power.
+(6) Higher cell temperature produces larger excess power and is exponential in effect.
+(7) The dual-laser effect is highly reproducible when protocols are followed.”
+Our experimental procedure was designed to closely replicate the protocol described in Letts JCMNS 2010, with
+additional input obtained via personal correspondence with Letts [11]
+
+2.1. Materials preparation:
+Letts suggested that we use the 17-step procedure provided in his ASTI 2004 presentation [12] as our principal guide
+for cathode preparation. The 17 steps are summarized below:
+Step 1 : The starting material was 0.5 mm thick palladium foil, Alfa Aesar #11514 (99.9% purity metals basis). A
+piece of the material, ∼10 mm × 8 mm in size was cut from the foil with the use of a Dremel rotary tool with
+a diamond wheel cutter attachment.
+Step 2 : This piece is polished using a polishing compound (Custom Chemical Packaging Pol-Gel, a rebranded version
+of the 10,000 grit Nicsand used in the original work) and the Dremel tool ﬁrst with a metal and then with a
+ﬁber brush attachment. The polishing generally results in a mirror-like ﬁnish.
+Step 3 : The resulting piece is rinsed in either tap or distilled water.
+Step 4 : The piece is then annealed in a benchtop furnace (Thermolyne type 1300) to 750◦C for 3 h, then allowed to
+cool in air overnight. This procedure and all subsequent annealing steps result in a blue-green surface sheen
+attributed to oxide.
+Step 5 . Next the piece was etched in aqua regia (1:3 HNO3:HCl) for 2–10 min. It was found that some degree of
+variability resulted from this procedure, in some instances completely removing the oxide layer and resulting
+in a speckled shiny surface, while in other instances the oxide coating was incompletely removed. In some
+instances the aqua regia was used after waiting a few hours as was the standard procedure known to the author,
+while in others it was used immediately after mixing on instructions from Letts [9].
+Step 6 . After etching, the piece is washed in distilled water, then re-polished using the same procedure as above
+(Steps 2 and 3).
+Step 7 : Repeat Step 6.
+Step 8 . The piece is then cleaned in an ultrasonic bath with distilled water for 5 min, then...
+Step 9 : . . . annealed at 850◦C for 2.5 h and allowed to cool overnight.
+Step 10 : Afterwards, the piece is re-polished (resulting in the removal of the oxide ﬁlm) and ...
+Step 11 : . . . ultrasonically cleaned in either 1:1 H2O:IPA or a ∼15% solution of Cole-Parmer ultrasonic compound
+remover . The decision to use the former was based on the procedure’s description of “compound remover”,
+the latter was used based on the speciﬁc suggestion of Letts [9].
+Step 12 : Next the piece was cold-rolled with a Woodward Fab slip roller cleaned with acetone prior to each use.
+Several passes through the roller (∼5–10) were necessary to achieve the target thickness of 250 µm speciﬁed
+in the procedure, veriﬁed with a set of calipers. The piece was rotated 90◦ each pass through the roller.
+Step 13 : Subsequent to the rolling, the piece is polished, ...
+Step 14 : . . . ultrasonically cleaned (Step 8), ...
+Step 15 : . . . annealed at 850◦C (Step 9), and
+Step 16 : . . . etched in aqua regia as described previously (Step 5).
+Step 17 : The piece is then ready to be cut into 2–3 rectangular coupons 5 mm × 10 mm in size for use in the experi-
+ment.
+
+The ﬁnal wash applied to the sample varied between experiments, see Supplemental Information for details.
+
+2.1.1. Cathode material supplied by Letts:
+For one experiment (DLER7), cathode material was supplied directly by Letts, from a batch that had successfully
+produced excess heat from the dual-laser effect in his May 2012 experiment. In two other runs (DLER10 and DLER11),
+the material was processed by us, except for the ﬁnal etch (Step 16 above), which was performed by Letts. See Table 1
+for experimental designations.
+
+2.1.2. Cathode material supplied by Coolescence LLC:
+For experiment DLER17, the cathode material was supplied by Coolescence LLC. The foil sample was mechanically
+mounted in a PEEK (polyether ether ketone) assembly during measurement.
+
+Figure 1.
+(a) A depiction of the entire apparatus. The cell and magnets rest on a wire frame grating of the temperature enclosure. See Supplemen-
+tary Information for more details. (b) The measurement cell. For 4-wire resistance measurement, four additional wires were connected to cathode.
+These are omitted from the ﬁgure for clarity.
+
+2.2. Setup description:
+Experiments were conducted in a custom-built, temperature controlled enclosure consisting of a modiﬁed commercial
+beverage cooler outﬁtted with a system of fans and bafﬂes to circulate air, and a heating wire controlled with a Keysight
+E3632A power supply (see Supplemental Information). The enclosure temperature was determined from an average
+of either two or four thermistors located inside the enclosure, and a software-controlled PID loop controlled the heater
+wire voltage using this input.
+
+The cell consisted of a 300 mL borosilicate lab beaker (Kimble KIMAX #14020) with a custom-built Teﬂon cell
+cap (see Fig 1 and Supplemental Information). Feedthroughs for temperature probes were constructed by taking 5
+mm OD glass tubing (Ginsberg Scientiﬁc #5MMSLT-24) and sealing one end completely with a butane torch. Into
+these tubes were inserted Measurement Specialties 44004RC thermistors, and the back end of the tube was sealed
+with superglue. Feedthroughs for the three electrodes (the Pd cathode, and the Pt and Au anodes) were constructed
+as follows: First, a piece of 500 µm diameter Pt wire (Alfa Aesar #43288) was soldered onto Cu wire. Then one end
+of a piece of glass tubing was sealed around the Pt wire. Next, the wire was either laser-welded onto the Pd cathode,
+shaped into a coil for the Pt anode, or in the case of the Au anode a small bunch of Au wire (Alfa Aesar #10968) was
+melted onto the end of the Pt wire. A depiction of the entire apparatus (cell plus enclosure) is shown in Fig. 1.
+
+Cell current was provided by a second Keysight E3632A power supply. The thermistors were measured with
+a digital multimeter/switch combination from National Instruments, models PXI-4070 and PXI-2503. Temperature
+measurements were conducted using built-in LabVIEW routines for thermistor measurement at 10 kΩ range, which
+is the equivalent of a 2-wire resistance measurement as speciﬁed by National Instruments [13]. The PXI-2503 device
+switches the input to the PXI-4070 DMM between the thermistor leads. All data including cell current, cell voltage,
+and thermistor temperatures were recorded with SignalExpress every 10 s. This acquisition loop was maintained
+throughout the 2–3 week timeline for each run.
+
+The feedthrough junctions were sealed at the top of the cell cap with Buna 008 O-rings. The cell was operated
+vented to the air through a tube, so that recombiner operation could be tested by immersing the end of the tube in
+water. During most runs this was not necessary, as signiﬁcant electrolyte loss was not observed. Recombiner pellets
+consisting of platinum reduced onto alumina (Alfa Aesar #89106) were wedged into a groove cut into cell cap.
+
+For most experiments, the electrolyte was 90 mL of 0.5 M LiOD made by dissolving Li metal pellets (Sigma-
+Aldrich #499811) into D2O (99.9 atom %, Sigma-Aldrich #151882). For one experiment (DLER11) the electrolyte
+concentration was lowered to 0.1 M on the assumption that this might aid in the plating process.
+
+The laser system employed consisted of two identical laser diode kits (Thorlabs LTC-100B). Each kit included a
+laser diode mount as well as current and temperature controllers. The laser wavelength of each diode was controlled
+by varying the case temperature using the supplied temperature controllers. The diodes employed varied based on the
+speciﬁc detuning frequencies being targeted, including Thorlabs models HL6501MG , HL6750MG and HL6756MG .
+“P” polarization was maintained for most experiments reported, as is summarized in Table 1.
+
+2.3. Loading and resistance ratio:
+In accordance with procedures reported by Letts [7], electrolysis current was held at 50 mA for at least 120 h with
+an enclosure temperature setpoint of 15◦C. For experiments DLER16B and DLER17, a stepped current protocol was
+used that consisted of 12+ h at 10 mA, and 4+ h each of 25, 50, 100, and 200 mA, as suggested by Coolescence LLC.
+
+Certain experiments were performed with four additional laser welds connecting to the cathode with the purpose
+of measuring the resistance across the cathode using a 4-terminal AC resistance meter (Hioki 3561).
+
+2.4. Data preparation:
+In order to use the system identiﬁcation codes that ﬁt a model differential equation to the dynamics of the calorimeter,
+we ﬁrst interpolate all of the data onto a grid that is uniformly sampled at 10 s intervals. Although not essential, we
+then apply a 60 s low pass ﬁlter to the data to reduce the measurement noise. We believe that this degree of ﬁltering is
+justiﬁable given that the calorimeter has a time constant on the order of 1800 s and as a result, for all real heat inputs,
+the calorimeter itself acts like a low pass ﬁlter with a time constant 30 times longer than the applied low pass ﬁlter.
+Nevertheless, we ran our analysis both with and without the 60 s low pass ﬁlter; the interpretation did not change.
+
+2.5. Calibration:
+The main objective of calibration is to quantify the relationship between power input to the calorimeter and temperature
+measurements. Central to our calibration was to quantify the uncertainty in differences between measured and modeled
+temperature changes because these differences could be signatures of excess heat, but they could also be artifacts. We
+calibrated the system on a per-run basis, after loading and prior to gold plating and laser triggering, using the heat
+supplied by electrolytic current, icell in the absence of the laser trigger to excite the system and measure its thermal
+response.
+
+The simplest model one can ﬁt to the calorimeter’s dynamic temperature measurements, ∆T(t), has one heat
+capacity, c and one thermal conductance, k:
+d∆T/dt = -k∆T/c +Qin/c.
+
+∆T(t) is the difference between the cell temperature and the inside temperature of the enclosure containing the
+calorimeter. The enclosure temperature during calibration was controlled at approximately 23◦C, as was earlier done
+by Letts [7]. The input power, Qin(t), originates from the power applied to the cell. As is well known, an amount of
+power icellv0 goes into splitting water into oxygen and deuterium, which is then converted back into water at the recom-
+biner; v0 is the thermoneutral voltage, which for deuterium is approximately 1.53 V. Letts treats this power as leaving
+the system without reaching the cell temperature sensors [14]. We modeled the calorimeter power according to Letts’
+assumption that the recombiner power escapes without affecting the temperature sensor (Qin(t) = icell(vcell − v0))
+and also according to the “all power reaches the sensor” assumption: Qin(t) = icellvcell. For each of the seven cathode
+experiments that we calibrated, the latter analysis produced a better ﬁt with the exception of DLER7 which was not
+signiﬁcantly different. The results reported in this document analyze the data using Qin(t) = icellvcell
+The calorimeter thermal parameters c and k were determined using the MATLAB System Identiﬁcation Toolbox
+to ﬁt a dynamic time series of temperature and power throughout a series of applied current transitions between 50
+mA and 1.5 A that excite the thermal dynamics of the calorimeter. Data collection for the calibration phase of each
+experimental run took 1–2 days. Example ﬁts to measurement data appear in Section 3. An example of ﬁtting both with
+and without subtraction of the water splitting power is shown in the Linear Calibration section of the supplementary
+information.
+
+2.6. Gold plating procedure:
+After calibration, Au plating onto the Pd surface was attempted by connecting the Au anode electrically in parallel
+with the Pt anode. Since this aspect of the procedure is incompletely described in Letts [7], several plating times were
+employed by various experiments (as low as 10 min and as high as ∼14 h, corresponding with Letts’ description [9])
+with some laser trials performed after each plating attempt (see Table 1). The surface was usually observed to be black
+at the end of the experiment after the current was switched off; during operation, the bubble sheath around the cathode
+made the observation of the surface difﬁcult.
+
+2.7. Laser triggering:
+After the plating step, the electrical power applied to the cell was held constant and the temperature was allowed to
+stabilize; this established the ﬁrst part of the baseline heat rate Qout,notrig. A series of laser triggering trials was
+then conducted to establish triggered excess heat, Qout,trig, followed by another period without laser stimulation,
+which established the second baseline portion of Qout,notrig. The lasers were operated in a constant current mode,
+with their outputs kept to ∼10 mW each. The beams incident on the sample were kept to ∼1–2 mm in diameter,
+and mostly collimated over the ∼60 cm distance between the diodes and the cathode. P polarization (parallel to
+plane of incidence) was maintained for most experiments, in correspondence with the protocol (see Fig. 2); alternate
+polarization conﬁgurations were tested a few times (see Table 1). Lasers were incident on the sample generally for 40
+min to 1 h at a time; however, longer time periods of up to 3–4 h were tested as well.
+
+2.8. Excess heat and uncertainty analysis:
+Excess heat attributable to the laser trigger is expressed by:
+Q(excess,trig)=Q(out,trig)−Q(out,notrig),
+where Qout,notrig is the averaged output power when there is no trigger applied, and Qout,trig is the power ﬂowing
+out of the calorimeter while the laser trigger is applied. In terms of temperature and conductance, k, this expression
+becomes:
+Qexcess,trig = k(∆Ttrig − ∆Tnotrig) = k(Ttrig,cell − Ttrig,surroundings − ∆Tnotrig).
+
+Figure 2.
+Schematic of “P” polarization used for most experiments.
+
+If one assumes that the sources of uncertainty are uncorrelated, then the uncertainty associated with this computation,
+σQexcess,trig, is the 2-norm of the individual uncertainties:
+σQexcess,trig =
+σ1 = σk
+   ⟨ Ttrig,cell − Ttrig,surroundings − ∆Tnotrig ⟩t
+   
+uncertainty in thermal conductance,
+σ2 = kσTtrig,cell
+cell temperature variance during triger,
+σ3 = kσTtrig,surroundings
+surroundings temperature variance during triger,
+σ4 = kσ∆ Tnotrig
+untriggered baseline temperature variance.
+σk is the uncertainty in thermal conductance determined from the calorimeter calibration, and ⟨ ⟩t denotes a time
+averaged quantity. Note that this uncertainty estimate is not the most conservative. If we make no assumption about
+the correlation, then the total uncertainty is bounded by the 1-norm of the four uncertainties above:
+σQexcess,bound ≤ σ1 + σ2 + σ3 + σ4.
+
+Typically the largest source of uncertainty is in σ4, the establishment of a stable baseline before and after the application
+of the laser trigger as will be discussed in Section 3.
+
+It is worth noting that the uncertainty analysis that we apply herein differs from that practiced by Hagelstein and
+Letts. They used the goodness-of-ﬁt to an exponential relaxation time to model the triggered temperature rise in order
+to estimate the uncertainty of their excess power observations. Also, it is notable that the error bars on our results
+in Fig.
+9 are larger than those in the comparable work by Hagelstein and Letts [17]. Details of the method used
+by Hagelstein and Letts were not provided; however, we make three observations: (1) typically, we see no triggered
+temperature rise, which makes use of the Hagelstein-Letts technique problematic. (2) The relaxation time model used
+by Hagelstein and Letts presumed that excess heat signatures appeared as a step change in the calorimeter. While
+this presumption may be appropriate for their dataset, that is not the case in the present work. (3) The detailed
+uncertainty estimation methods used by Hagelstein and Letts are not included in their publication. It is possible that
+some uncertainties in both the thermal parameters and the temperature measurements may not be fully accounted for
+in the Hagelstein Letts uncertainty estimation method.
+
+Table 1.
+Summary of experiments discussed in this manuscript.
+
+
+3. Results
+
+In an attempt to demonstrate the open access to both experimental methods and raw data that is necessary for collegial
+and conclusory scientiﬁc progress, the raw data for the experiments in Table 1 and discussed below are available here.
+
+Figure 3.
+Typical enclosure temperature stability. Inset shows early time stabilization period.
+
+Figure 4.
+Example of anti-correlated electrolyte temperature sensing instability occurring during calibration period. Inset focuses on time period
+where instability occurs.
+
+3.1. Materials preparation:
+The materials preparation end-points speciﬁed by Letts in his published works consist primarily of visual descriptions
+of the resulting surface after polishing, annealing, and etching. These were generally achieved in the present work.
+However, due to the inability to visually determine properties such as surface r.m.s. roughness, surface-based impurity
+concentration, oxide thickness after etching, or other potentially relevant material parameters, it is unclear whether our
+produced material matched that obtained by Letts in the original work by quantitative measures.
+
+3.2. Enclosure temperature:
+Maintaining a constant enclosure temperature was essential for the calorimetry practiced in this experiment. A repre-
+sentative example of temperature measurements over a 70 h run is shown in Fig. 3.
+
+The abbreviations LL, LR, UL, and UR refer to lower left, lower right upper left and upper right locations in the
+enclosure respectively. This dataset, which was typical, illustrated a number of important details. As shown in the
+inset, we saw that the control loop that stabilizes the enclosure temperature leveled out after several hours. Although
+likely adequate for this experiment, there remained a small oscillation at about 3.5 mHz (∼5 min period) which was
+undesirably close to the roughly 25 min thermal relaxation time of the calorimeter. Assuming that the source of these
+ﬂuctuations was the software-based PID loop controlling the enclosure temperature, a more judicious choice of the
+proportional, integral and derivative gain parameters might have eliminated the oscillation.
+
+Figure 5.
+Example of single-thermistor temperature sensing instability.
+
+The four measurements agreed to within 0.8◦C when in equilibrium. The sensor data had a noise amplitude of on
+the order of 0.2◦C; The apparent increase in sensor noise at hour 25 correlated with an increase in applied cell power.
+The sensor noise appeared to not be completely correlated because the mean enclosure temperature was less noisy
+than the individually measured temperatures. Based on these ﬁndings, we used the time varying mean of all of the
+enclosure temperature measurements for data analysis purposes.
+
+3.3. Electrolyte temperature sensing instability:
+All experiments analyzed showed evidence of temperature sensing instability. Such instability interfered directly with
+attempts to interpret temperature changes as anomalous heat. A representative example in Fig. 4 shows thermistor and
+power measurements before, during and after a plateau in applied power.
+
+Between hour 10 and hour 15, while the input power and enclosure temperature were relatively stable, the two cell
+temperature measurements were not stable; they shifted in opposite directions. One plausible explanation is that the
+cap that holds the glass tubes containing both thermistors was tilting and causing thermistor 1 to move further from
+the electrodes and thermistor 2 to move closer to them. We note that the cap had an o-ring seal that was press-ﬁt into
+the glass beaker. The magnitude of the temperature shift was about 0.5 and 1.2◦C for the ﬁrst and second sensors,
+respectively.
+
+Other observations of cell temperature sensing instability suggest that individual thermistors might have shifted
+position in the electrolyte during the runs, as shown in Fig. 5. In this example, between hours 19 and 40, under
+constant applied power, the ﬁrst thermistor rose monotonically as expected while the second thermistor fell about
+1.5◦C in several steps.
+
+Figure 6.
+Model ﬁts to the two cell temperature readings obtained during run DLER7-2. Delta (◦C) corresponds to temperature difference between
+cell and enclosure.
+
+
+3.4. Calorimeter calibration observations:
+When the ordinary differential equation described in Section 2.5 was applied to calibration data we obtained values for
+the calorimeter’s lumped parameter heat capacity,c, and thermal conductance, k, as well as the standard deviations for
+these parameters. The thermal conductance in particular was essential for the analysis of the laser trigger experiment
+because the input power during that experiment was held constant, and in steady state, the temperature rise of the
+calorimeter is k∆T.
+
+Figure 6 shows the residual, eT = ∆Tmeasured − ∆Tmodeled, of the ﬁt to cell temperatures 1 and 2 measured
+during run DLER7-2 (cathode run DLER7, data set 2), a portion of which is shown in Fig. 5. The insets of each plot
+show the measured and modeled temperatures overlaid, illustrating the importance of viewing residuals to assess the
+ﬁt. The input data used for the ﬁt is the power time series, icellvcell. As expected, we obtained a better ﬁt using cell
+temperature 1, which appeared to be more stable, particularly between hours 20 and 40 (note differences in scale). For
+each experimental run, we determined which sensor was more reliable based on the ﬁt to the model. This sensor, 1 in
+the example provided, was used for analyzing the laser trigger experiments.
+
+The difference between modeled and measured temperature provided an indication of calorimeter accuracy. The
+product keT of the temperature residual, eT , and the thermal conductance during calibration is a direct measure of
+anomalous heat that arises from artifacts (mechanical, electrical, etc.) during calibration and is an indication of heat
+artifacts that could have arisen during experimentation. In all nine runs, we kept track of the largest heat artifacts that
+arose during each calibration; these ranged in magnitude from 0.13 to 0.46 W. Many of these artifacts appeared as
+brief disturbances to the thermometry during changes to the input power.
+
+3.5. Attempts at excess heat observations:
+A representative time series of enclosure and cell temperatures and applied power is shown in Fig. 7. Triangles indicate
+the times at which laser triggers were applied, altered to a new difference frequency, and ended. The time series, which
+is over 70 h long, includes measurements on two separate days.
+
+Figure 8 shows instantaneous excess heat measurements inferred from the temperature changes relative to the
+average baseline temperatures (plotted in gray) prior to and after each series of laser triggers. Each color change (blue,
+red, green, cyan, and magenta) indicates the application of a new difference frequency to the cathode. The horizontal
+bars above and below the excess heat measurements represent one standard deviation on the excess heat measurement
+at each laser difference frequency.
+
+The laser power input was not observed, as it tended to be below the noise ﬂoor. The results of the laser trials
+of experiment DLER7-3 are summarized in Table 2. In both laser trial series, we observed that the excess heat rate
+baselines before and after the laser trials differed by 10’s of mW. We attribute this to calorimeter drift, as referenced
+previously.
+
+By far, the largest contribution to the excess heat measurement uncertainty is σ4, the untriggered baseline temper-
+ature variance; this uncertainty ranged from about 15 to 21 mW. Clearly, a priority for any redesign of this experiment
+would be to stabilize the temperature measurements to establish a more accurate baseline. The next largest source of
+error is σ2, cell temperature variance during trigger. This uncertainty contribution was as large as 18 mW. Note that
+we did not see evidence of an exponential rise upon triggering as reported in reference [7]. Had we observed such an
+exponential rise, this uncertainty term would have been modiﬁed by an accounting for an exponential ﬁt to the output
+power. The next largest source of uncertainty is σ3, the surroundings temperature variance during the trigger; this un-
+certainty contribution ranged up to about 8 mW. The smallest uncertainty contribution was from the uncertainty in the
+thermal conductance out of the calorimeter determined from the calibration of the calorimeter. This further illustrates
+how a triggered excess heat experiment such as this is not very sensitive to the calibration method and is primarily
+affected by sensor stability.
+
+Figure 7.
+Representative laser trial data taken over a period of several days for experiment DLER7-3.
+
+Figure 8.
+Calorimetric data analysis from Fig. 7, showing excess heat rate estimates including error bars. The ﬁgure depicts two separate dual-
+laser trials done over the course of two days. The gray plot portions bounding each trial are heat rate without laser irradiation. Different colors
+correspond to difference laser detuning frequencies. Red bars above and below the lines represent one standard deviation.
+
+A summary of excess heat rate as a function of difference frequency for all 231 laser triggered trials across nine
+cathode runs is shown in Fig. 9.
+
+A rudimentary estimate of the average excess heat measured across all of the runs, and its uncertainty was obtained
+by averaging all the data and taking as the uncertainty the standard deviation of the excess heat measured during
+each laser trial. By this measure, the laser trials indicated an excess heat of 6.1 ± 21.6 mW. For comparison, the
+measurements reported in [7] are also shown in Fig. 9. Both datasets provided error bars on the measurements;
+however, as discussed in the methods section, the uncertainty analysis methods differ.
+
+A histogram of the excess heat results measured at each laser triggered trial is shown in Fig. 10. We see that there
+is a very slight positive heat rate measurement of about 6 mW. It is possible that this is caused by the absorption of
+power from the laser trigger, although this is below the resolution of any one excess heat rate measurement.
+
+Figures 9A and 10 show occasional observations approaching 100 mW of heat rate excess and heat rate deﬁcit. It is
+worth noting that the largest magnitude heat rate observations are also those with the greatest measurement uncertainty.
+This phenomenon is depicted in Fig. 11. The slope of uncertainty vs. measurement is close to unity.
+
+3.6. Resistance ratio measurements:
+Most of the attempts at resistance ratio measurements were met with experimental difﬁculty, making interpretation
+difﬁcult. However, during run DLER17 the cathode was observed to achieve a resistance ratio (R/R) of 1.8, corre-
+sponding to a D/Pd loading of ∼0.9.
+
+Table 2.
+Excess heat and uncertainty contributions calculated from run DLER7-3 (cathode run DLER7, data set 3).
+
+
+4. Discussion
+
+4.1. Impediments to replication:
+An objective of this experiment was to faithfully replicate the DLE as practiced by Letts. Given the importance of
+Letts’ claims to the low energy nuclear reactions community, we recommend an in-person collaboration with him for
+those replicating his work. We estimate that it would take 2 months of his time to facilitate a deﬁnitive outcome.
+
+It is worth noting that the DLE, if veriﬁed, represents a power source (up to 300 mW) that is approximately up to
+4% of the applied electrical power (∼8 W). An effect of that scale has no immediate technological value as an energy
+source, even if an inexpensive source of Pd could be found. However, the scientiﬁc value of replication would be
+signiﬁcant, given that such an effect is considered highly improbable by much of the physics community.
+
+4.2. Apparatus replication ﬁdelity:
+The make and model of much of the commercially available equipment, and the mechanical drawings for custom parts,
+used in our apparatus were either identical to Letts’ original apparatus or altered with Letts’ approval. We can therefore
+make some claims about the performance of the apparatus, and comment on the observation differences between ours
+and Letts’ original experiment.
+
+4.3. The importance of calibration method:
+A common calibration practice is to take several points from the steady state plateaus of temperature vs. power and
+produce a linear ﬁt. While this approach provides a measure of calorimeter sensitivity in W/◦C [15] we submit that
+this approach is inadequate for the purpose of establishing a calorimeter’s propensity for heat artifacts. As shown in
+Fig. 6, a dynamic model ﬁt to all of the data from a multi-day calibration run provides a more complete indication of
+the size of heat artifacts and the conditions where they occur.
+
+Figure 9.
+(A) Aggregated calorimetric data obtained for all laser triggered trials discussed in this study. Error bars are 1 sigma standard deviations.
+(B) Letts’ reports of excess heat as a function of detuning [7].
+
+Figure 10.
+Histogram of all 231 laser triggered trial excess heat measurements.
+
+Our data analysis differs in signiﬁcant ways from data analysis [16] of the original DLE, for example Eq. (1) in this
+report is equivalent to the modeling of the calorimeter’s relaxation time; however, what is different is our application of
+system identiﬁcation to the complete calibration dataset instead of selected portions, and the examination of residuals.
+This procedure revealed myriad artifacts that one would typically address before attempting to detect excess heat,
+as discussed below. As discussed in the Supplemental Information, the quality of the ﬁt using system identiﬁcation
+tools did not ﬁnd support for the assumption in [7] Eq. (2) that the power applied for water splitting can simply be
+subtracted from the input power. This suggests to us that heat from the recombiner is traveling into the electrolyte. 
+Nevertheless, whether or not one analyzes the data using Qin(t) = icell(vcell − v0) or Qin(t) = icellvcell, this paper’s
+overall conclusion regarding the observation of excess heat, and its uncertainty does not change appreciably. The
+two calibration methods produce two values for the thermal conductivity, k, to the surroundings that differ by about
+30%; however, due to the differential nature of this triggered experiment, this results in a simple scaling of the result
+and would not cause a failure to observe excess heat were it present. The effect on the uncertainty is also scaled,
+as is readily observed inspection of the terms in the uncertainty analysis. For completeness, we ran all calibrations
+and analyses with Qin(t) = icell(vcell − v0); instead of an excess heat result of 6.1 ± 21.6 mW, we obtained 4.6 ±
+16.2 mW.
+
+4.4. Temperature sensing artifacts:
+An important ﬁnding from the replicated apparatus is its inherent temperature sensing artifacts that produce artifactual
+signatures of excess heat. Our calibrations showed that the thermal conductance out of the calorimeter is about 270
+mW/◦C. We saw temperature shift artifacts that could be attributed to mechanical instability of the calorimeter cap
+that ranged from 0.5 to 1.2◦C; artifacts this large correspond to heat artifacts on the order of 135–324 mW. It is worth
+noting that such artifacts are on the same order or larger than the excess heat observations reported in Letts’ original
+experiment. It is hard to predict whether or when spurious movements of the thermistors will occur during any given
+attempt to trigger an excess heat effect; however, any credible claim of excess heat caused by an applied laser trigger
+should necessarily be done on an apparatus with demonstrably stable temperature sensing. One potential way to
+improve the temperature sensing stability would be to clamp the calorimeter cap in place and to ensure that all sensor
+mounts are supported at multiple points.
+
+Figure 11.
+Uncertainty in excess heat rate (signed) vs. excess heat rate.
+
+An additional potential source of spurious “excess” heat is variable recombiner function. Since the operating
+temperature of the experiment spans a range of ∼40◦C and the behavior of the recombiner, as with any catalyst, should
+be expected to vary signiﬁcantly with temperature, sudden exothermic bursts might be observed when recombiner
+pellets activate. Considering that our analysis shows the recombiner heat to be poorly separated from the electrolyte,
+care should be taken when interpreting excess heat events occurring during or shortly after major changes in cell
+temperature.
+
+Not all of the temperature sensing artifacts observed by us could be explained by motion of the cell cap. For
+example, in Fig. 5, sensor 2 was observed to produce artifacts independently of sensor 1. This may be an indication
+of mechanical or electrical problems affecting only sensor 2. A 1.5◦C artifact like the one shown above in Fig. 4
+corresponds to a heat rate artifact of about 400 mW. With artifacts this large the calorimeter may not be well suited
+for precision calorimetry. The DLE attempts to trigger an excess heat event while running the calorimeter at constant
+power after a days-long phase comprising loading and plating. It was standard procedure to let the calorimeter stabilize
+at constant input power before applying the laser trigger. However, this can not guarantee that heat rate artifacts will
+not occur coincident with the laser trigger.
+
+Given that the excess heat effect reported by Letts is up to a 4% effect (up to 300 mW out of 8 W), the calorimeter
+used to investigate such an effect would ideally be designed and conﬁrmed to have no heat rate artifacts greater than
+about 10 mW. The authors believe that this is feasible; however, it would require a careful redesign of the calorimeter.
+Electrical noise on the temperature sensors might also need to be reduced.
+
+4.5. Electrolyte temperature non-uniformity:
+In one report of the DLE [17], the discrepancy between cell temperatures is said to be about 0.1◦C or less; in our
+replication attempt, the discrepancy between the two cell temperature sensors was 20–30 times larger. Given the
+faithful replication of the parts used in this experiment, we ﬁnd this difference noteworthy. Our observations spanning
+over four months of experiments show that the replicated apparatus has temperature differences within the electrolyte
+that span at least several ◦C. Neither our experiment, nor the Letts’ original experiment stirred the electrolyte.
+
+4.6. Venting:
+The original design of this experiment was vented to air through a small vent tube. The intent of this tube was to allow
+gas to escape when the recombiner was not functioning properly. In the original work, the method of submerging
+the exit-end of the tube in liquid was used to check for recombiner failure which would be expressed as bubbling.
+A concern with this approach is that a system open to air may take up and substitute light water for heavy water.
+Proton contamination, as this is called, has been raised as a possible failure mechanism because it is claimed [18] that
+hydrogen will go into Pd preferentially to deuterium.
+
+4.7. Gold plating:
+In both the JCMNS 2010 as well as personal communication, Letts does not specify a particular plating time. The Cur-
+rent Science publication speciﬁes plating in 10 min increments until the effect is observed. 10 min plating sequences
+were utilized early on in the experimental campaign (see Table 1), however, since no effect was observed, and with
+the guidance of the previous single laser work in which signiﬁcantly longer plating times were employed, sequences
+as long as 14 h + were attempted. Bubbling and color change on the Au anode (from gold to red to black) over the
+course of a few hours were consistently observed during the plating process.
+
+The resulting Au deposit in the original work is characterized only by its visual appearance. We replicated the Letts
+plating method which places the Pt and Au anodes in parallel with each other. A ramiﬁcation of this is that the sum,
+but not the division, of current between the two anodes is unknown; this complicates our ability to know how much
+Au might have been applied to the cathode by Letts, and also how much plating may be occurring in our experiments.
+A suggested approach would sense current ﬂowing from both anodes.
+
+4.8. Heat measurements:
+Within the range of experimental uncertainty, the 231 excess heat measurements at each difference frequency were
+consistent with no excess heat triggered by the dual-laser stimulation. While it is impossible to disprove the claims of
+the Letts’ original DLE, this work does refute the claim that results are highly reproducible [8] The quantity of laser
+triggered trials analyzed is 231 across 9 cathode runs, exceeding what is reported in the Letts’ original DLE [7]
+
+One question that might arise is whether each laser trial was of sufﬁcient duration to trigger and sense an excess
+heat effect. We note that each dual-laser trigger was applied for a time longer than the thermal time constant, c/k, of
+the calorimeter which is about 30 min. Letts reported an excess heat response that is observed as rapidly as ∼5 min
+after laser triggering [7]
+
+While outliers of 90 mW excess or absorbed heat were observed, these measurements had the least certainty. The
+excess heat measurements with the greatest certainty (smallest uncertainty) had the smallest magnitude of excess heat
+rate (whether positive or negative). This trend is shown in Fig. 11. A validation of any cold fusion effect will need
+to show that the measured effect persists as the uncertainty of measurements is reduced; in this work, that was not
+observed.
+
+
+5. Conclusions
+
+In this work we attempted a high-ﬁdelity replication of claims of excess heat triggered by dual-laser stimulation in an
+electrochemical system of palladium deuteride. We employed and described calorimeter calibration and error analysis
+methods that we believe are appropriate and adequate to the experimental objective. Despite having replicated Letts’
+original experimental design and protocol to the best of our ability, and conducting 231 attempts across 9 cathode runs,
+we did not observe evidence of laser-triggered excess heat events on the order of 100 mW reported by Letts. The
+average excess heat rate observed from all runs was 6.1 ± 21.6 mW with ∼10 W of input electrical power.
+
+However, several issues hampered our ability to replicate the work, including limited engagement with Letts (the
+author of the original DLE), the inability to directly compare material parameters of our cathodes with “successful”
+cathodes, and spurious calorimetric ﬂuctuations due to apparatus design issues.
+
+Dennis Letts claims that his results are highly reproducible [8]. We recommend that any future replication attempts
+provide for direct collaboration with Letts on a redesigned experimental apparatus.
+
+
+Supplemental Information
+
+S1. Calorimeter Temperature Control Hardware:
+Temperature-controlled enclosure consists of an Edgestar 84 can beverage cooler with all but the bottom-most rack
+removed. Since the enclosure will only cool the system, a feedback mechanism needs to be established to provide
+heating to achieve a given setpoint.
+
+The general principle of the temperature control design is to circulate mixed (hot and cold) air from the back of the
+enclosure up towards the top, down the front glass panel and then back towards the mixing area. The general schematic
+is shown in Fig. 12, an interpretation of Letts’ original designs:
+
+Two 12 V CoolerMaster SickleFlow 120’s are used. Their activation switch is a solid state relay connected to a 12
+V power supply and the NI DAQ (see below). The two fans are strapped together with twist-ties. A nichrome heating
+wire wrapped in a coil is connected by screws to two holes on opposite ends of the fan bank. Power for this heater is
+supplied by one of the two E3632A power supplies in the setup.
+
+The back of the enclosure showing the cold wall built into the cooler, the two 12 V fans, and (barely visible above
+the fans) the heating wire is shown in Fig. 13.
+
+The air distribution system consists of several pieces of custom-cut insulation board, with four additional 2 inch
+fans guiding the air up towards the enclosure roof.
+
+Back and angled views of the air distributor are shown in Fig. 14. The bank of fans, which sits on top of the open
+portion of the air distributor in the right photo (Fig. 14) is shown in Fig. 15.
+
+Each fan has a hole cut in the bottom (not pictured). These fans are powered on the same circuit that powers the
+two larger fans along the back wall, and the entire system is left on for the duration of the measurement.
+
+S2. Cell:
+S2.1 Body:
+A picture of assembled cell inside the calorimeter is shown in Fig. 16.
+The cell body is a Kimble-Chase tall form Berzelius Beaker.
+
+S2.2 Thermistor probes:
+The thermistor probes are made as follows: Flint glass tubes are melted shut at one end, into which are placed thermis-
+tors that have had their leads soldered onto twisted pairs taken from Ethernet cables (see this guide for a description of
+the procedure). Electrical or Teﬂon tape is used to prevent the wires and solder blobs from contacting each other and
+shorting the probe. Shorts are clearly noticeable during the experiment as the apparent temperature spikes to clearly
+unreasonable values (hundreds of ◦C).
+
+S2.3 Cell lid:
+Designs given by Dennis Letts have been used as a starting point to fabricate the cell lid. However, it was discovered
+that the slots into which the recombiner pellets are supposed to sit (lowest groove pictured above) are too thin at the
+speciﬁed width of 0.0625”. When doubled, the groove allowed for a good press ﬁt.
+
+S3. Final Washes:
+The following ﬁnal sample washes were applied to the cathode before the experiment began:
+DLER5:
+(Not recorded),
+DLER6:
+Sonicated for ∼15 min in 1:1 H2O:IPA in cell body. Washed in copious amounts of distilled water,
+then dried with N2. Left to dry completely overnight,
+DLER7:
+None (used as received from Letts),
+DLER8:
+Sonicated 30 min with Cole-Parmer compound remover solution, dried with N2,
+
+Figure 12.
+A schematic of the temperature-controlled enclosure.
+
+Figure 13.
+The back of the enclosure showing the cold wall built into the cooler, the two 12 V fans, and (barely visible above the fans) the heating
+wire.
+
+DLER10:
+Cathode washed with acetone before start of experiment,
+DLER11:
+Sonicated with Cole Parmer compound remover 30 min, air-dried.
+
+S4. Model Fitting to Calibration Data:
+4.1. Linear calibration:
+The calibration (Fig. 17) is typical of that obtained by ﬁtting the steady-state response of the calorimeter to the input
+power at various steps. It is presented for comparison to the calibration obtained by the full system identiﬁcation
+model. The inverse slope for Cell Temp1 is 0.267 W/◦C which is in close agreement with the thermal resistance
+parameter from system identiﬁcation. What is missing from a ﬁt to only several plateau data points are all of the
+artifacts stemming from apparatus instabilities.
+
+As an example of dynamic model ﬁtting to calibration data, and some of the models that we tried, we illustrate
+our calibration results for Cathode DLER10. Figure 18 is the full calibration dataset for input power and measured
+temperatures.
+
+Notice that the full dataset includes about 0.5 h of initial data taken before the enclosure temperature stabilized to
+about 23◦C. As the calorimetry is isoperibolic, this portion of the data are excluded from the calibration. Notice also
+that Cell Temperature 2 is not stable. As discussed in the manuscript, Cell Temperature 1 was used. First, we show the
+result of applying the linear heat transport model
+d∆T/dt = -k∆T/c +icellvcell/c.
+
+Figure 14.
+The custom-built air distributor, viewed from the back (left image) and top (right image) as viewed from the front of the enclosure.
+
+where ∆T is the difference between Cell Temperature 1 and the Enclosure Temperature, icellvcell is the electrical
+power fed into the cell, and k and c are ﬁts to the calorimeter’s thermal conductance and heat capacity respectively.
+This ﬁrst model makes the assumption that power that gets converted into chemical energy by splitting water and
+is then released at heat in the recombiner exits through the calorimeter through largely the same path as the rest of
+the power that simply appears as direct heating of the electrodes and electrolyte. This ﬁrst model also makes the
+assumption, consistent with the assumption of Letts, that heat was removed by ﬁrst order processes (conduction and
+convection). Figure 19 shows the measured and modeled cell temperature difference time series. The model was ﬁt
+using the Matlab System Identiﬁcation Toolbox’s grey box model routine greyest.
+
+Figure 15.
+The bank of fans, which sit on top of the open portion of the air distributor as shown in the right image in Fig. 14.
+
+Figure 16.
+A picture of assembled cell inside the calorimeter, as would be present during a typical experimental run.
+
+Notice from Fig. 19 that this ﬁrst model underestimates the cell temperature rise for small power inputs and
+overestimates the cell temperature rise for high power inputs. In spite of the model’s simplicity, it explains the data
+fairly well, with a normalized root mean square error of only 4%.
+
+S4.2 Linear calibration with subtracted electrolysis power:
+Next, we apply the assumption that power that goes into electrolyzing water gets carried away by the rising bubbles in
+the electrolyte, and thereafter, because the recombiner is somewhat removed from the electrolyte, that power does not
+affect the cell temperature. This is the assumption adopted in the calibration used by Letts. This assumption entails a
+minor modiﬁcation to the ﬁrst model, namely,
+d∆T/dt = -k∆T/c +icell(vcell−v0)/c,
+where v0 = 1.53 V is the thermoneutral voltage for D2O. Figure 20 shows the measured and modeled cell temperature
+difference time series. As before, the model was ﬁt using the Matlab System Identiﬁcation Toolbox’s grey box model
+routine greyest.
+
+Figure 17.
+A typical calibration obtained by ﬁtting the steady-state response of the calorimeter to the input power at various steps.
+
+Figure 18.
+Full calibration data set for input power and measured temperatures.
+
+Figure 19.
+Measured and modeled cell temperature difference time series using linear calibration.
+
+We see that this model does not ﬁt the data as well as the simpler model; the ﬁt using the model that assumes that
+recombiner heat escapes through the top of the cell has a normalized root mean square error of >7%, which is over 3%
+worse than the simple model.
+
+S4.3 Radiation ﬁt to calibration data:
+One feature common to both of the linear models is that temperature rise is overestimated at high input power. This
+suggests that heat is leaving the calorimeter via a superlinear process. Given that the calorimeter is constructed from
+a transparent glass beaker it is a natural choice to add radiative heat transfer to the model to test the hypothesis that
+radiation is responsible for a portion of the heat exiting the calorimeter. Next we considered the possibility that the
+calorimeter dynamics are governed by the equation
+d∆T/dt = −kconc∆T/c − krad(T 4
+cell − T 4
+surroundings) + icellvcell/c.
+
+Figure 20.
+Measured and modeled cell temperature difference time series using linear calibration with subtracted electrolysis power.
+
+Note that the terms Tcell and Tsurroundings are in Kelvin. A more convenient way to write this expression for parameter
+ﬁtting is
+d∆T/dt = −kconc∆T/c-krad[(∆T + Tsurroundings)4 − T 4
+surroundings] + icellvcell/c,
+because this form expresses the system as a differential equation with a single state (∆T) with two inputs (icellvcell
+and Tsurroundings) and three parameters (c, kcon and krad).
+
+Figure 21 shows the measured and modeled ∆T using the nonlinear model. The ﬁtting was done using the Matlab
+function nlgreyest.
+
+The normalized root mean square error metric for this model is 0.67% which compares favorably to both of the
+linear models. The table below summarizes the results of the three models used on the DLER10 calibration dataset.
+
+Figure 21.
+Measured and modeled cell temperature difference time series using the nonlinear model with thermal radiation correction.
+
+S4.4 Summary of model ﬁtting:
+By comparing the two linear ﬁts, we see that not only is the assumption that electrolysis energy escapes without
+detection not well supported; but, that in addition the assumption may underestimate the heat capacity and thermal
+conductance.
+
+By comparing the kcon term of the linear and non-linear models with icellvcell input power we see an indication
+that a signiﬁcant portion of the power leaving the calorimeter does so by radiation.
+
+We chose the DLER10 dataset to illustrate comparative calorimeter models because this dataset was uncharac-
+teristically free of thermometry artifacts, at least for Cell Temperature Sensor 1. One consequence of non-physical
+thermometry artifacts is that nonlinear parameter estimation methods fail to converge rapidly on a global optimum.
+For this reason, the calibration model used throughout this report is the linear model with icellvcell input power.
+
+
+References
+
+[1] M. Fleischmann, S. Pons and M. Hawkins, Electrochemically induced nuclear fusion of deuterium, J. Electroanal. Chem.
+201(1989) 301. Errata, 263 (1990) 187.
+[2] M. Fleischmann, S. Pons, M.W. Anderson, L.J. Li and M. Hawkins, Calorimetry of the palladium—deuterium–heavy water
+system, J. Electroanal. Chem. 287 (1990) 293.
+[3] S.E. Jones, E.P. Palmer, J.B. Czirr, D.L. Decker, G.L. Jensen, J.M. Thorne, S.F. Taylor and J. Rafelski, Observation of cold
+nuclear fusion in condensed matter, Nature 338 (1989) 737.
+[4] M.C.H. McKubre, S. Crouch-Baker, F.L. Tanzella, S.I. Smedley, M. Williams, S. Wing, M. Maly-Schreiber, R.C. Rocha-Fiho,
+P.C. Searson, J.G. Pronko and D.A. Kohler., Development of advanced concepts for nuclear processes in deuterated metals,
+TR-104195 Electric Power Research Institute: Palo Alto, 1994.
+[5] M.H. Miles, R.A. Hollins, B.F. Bush, J.J. Lagowsi and R.E. Miles, Correlation of excess power and helium production during
+D2O and H2O electrolysis using palladium cathodes, J. Electroanal. Chem. 346 (1993) 99.
+[6] E. Castagna, M. Sansovini, S. Lecci, A. Rufoloni, F. Sarto, V. Violante, D.L. Knies, K.S. Grabowski, G.K. Hubler, M. McKubre
+and F. Tanzella, Metallurgical characterization of Pd electrodes employed in calorimetric experiments under electrochemical
+deuterium loading, In Proc 14th Int Conf on Condensed Matter Nuclear Science, Washington, DC, August 10-15, 2008.
+[7] P.L. Hagelstein, D. Letts and D. Cravens, Terahertz difference frequency response of PdD in two-laser experiments, J. Con-
+densed Matter Nucl. Sci. 3 (2010) 59–76.
+[8] D Letts, Highly reproducible LENR experiments using dual laser stimulation, Current Science 108 (2015) 559–561 and Sup-
+plementary Information.
+[9] D.J. Nagel, Scientiﬁc and commercial overview of ICCF-19, Inﬁnite Energy, July/August 2015.
+[10] P.L. Hagelstein, Current status of the theory and modelling effort based on fractionation, presented at ICCF-19, Padua, Italy,
+April 13–17, 2015.
+[11] D. Letts, personal communication, 2015.
+[12] D. Letts and D. Cravens, Cathode fabrication methods to reproduce the Letts–Cravens effect, presented at 5th Asti Workshop
+on Anomalies in Hydrogen/Deuterium loaded Metals, Asti, Italy, March 19–21 2004.
+[13] http://www.ni.com/pdf/manuals/371304g.pdf
+[14] ibid P.L. Hagelstein, D. Letts and D. Cravens, Terahertz difference frequency response of PdD in two-laser experiments, J.
+Condensed Matter Nucl. Sci. 3 (2010) 59–76.
+[15] An example linear ﬁt to steady state data is included in the Supplemental Information.
+[16] P.L. Hagelstein and D.G. Letts, Analysis of some experimental data from the two-laser experiment, J. Condensed Matter Nucl.
+Sci. 3 (2010) 77–92.
+[17] P.L. Hagelstein and D. Letts, JCMNS 2010, Appendix A.2.1.
+[18] M.C.H. McKubre, personal communication.

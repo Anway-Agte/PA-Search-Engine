@@ -1,0 +1,120 @@
+1. Introduction
+
+Recently, Taleyarkhan et al. [1] reported observation of tritium and neutron production during their acoustic cavitation experiment using deuterated acetone and a pulsed neutron generator. Earlier, there were acoustic cavitation experiments of another type carried out by Stringham [2]. In Stringham’s experiments [2], transient cavitation bubbles (TCB) were created in heavy water without the use of a neutron generator and were driven to impact on target metal foils as a jet plasma. It has been reported [2] that these TCB jet plasma impacts produce excess heat and nuclear products (4He and tritium) suggesting a plasma impact fusion. In 1990, Lipson et al. reported observation of a very low level of neutron production in a TCB type experiment [3].
+
+Recently, a theoretical model of low-energy nuclear reaction in a quantum many-body system was developed to describe the anomalous ultra low energy nuclear reaction [4-6]. Approximate ground-state solutions of many-body Schroedinger equation for a system of N identical charged integer-spin nuclei (“Bose” nuclei) in a harmonic trap were obtained by the recently developed equivalent linear two-body (ELTB) method [7,8,9]. The ELTB method [8,9] is based on an approximate reduction of the many-body Schroedinger equation by the use of a variational method. The solution is expected to be accurate for the large N system. The solution is used to derive theoretical formulae for estimating the probability and rate of nuclear fusion for N identical Bose nuclei confined in a trap.
+
+These theoretical formulae yield two main predictions. The first prediction is that the Coulomb interaction between two charged bosons is suppressed for the large N case and hence the conventional Gamow factor is absent. This is consistent with the conjecture made by Dirac [10] that each interacting neutral boson behaves as an independent particle in a common average background for the large N case. The second prediction is that the fusion rate depends on the probability of the Bose-Einstein condensate (BEC) ground state instead of the conventional Gamow factor. This implies that the fusion rate will increase as the temperature of the system is lowered since the probability of the BEC state is larger at lower temperatures. These theoretical predictions imply that the ABC fusion may be achievable at lower temperatures.
+With these considerations in mind, we propose a number of key improvements to acoustic cavitation experiments to check these predictions as well as the results of other experiments [1,10].
+
+
+2. Bose-Einstein Condensation Mechanism
+
+2.1 Ground-State Solution
+In this section, we consider N identical charged Bose nuclei confined in an ion trap or in a
+bubble. For simplicity, we assume an isotropic harmonic potential for the ion trap to obtain
+order of magnitude estimates of fusion reaction rates. The hamilton for the system is then
+(1)
+where m is the rest mass of the nucleus. In order to obtain the ground-state solution, we will use the recently developed method of equivalent linear two-body (ELTB) equations for many-body systems [7,8,9].
+For the ground-state wave function Ψ, we use the following approximation [8]
+
+In reference [8] it has been shown that approximation (2) yields good results for the case of large N.
+By requiring that Ψ must satisfy a variational principle δ ∫ Ψ H Ψdτ = 0 with a subsidiary
+% %∗%
+condition ∫Ψ Ψdτ =1, we obtain the following Schrödinger equation for the ground state
+%∗% wave function Φ(ρ)
+
+ForV (r)=e2/r,V(ρ)reducesto[8] int
+2NΓ(3N / 2) e2 V(ρ)=3 2πΓ(3N/2−3/2)ρ.
+Instead of the variable ρ in the Schrödinger equation (4), we introduce a new quantity ρ% defined as 
+Substitution of Eq. (6) into Eq. (4) leads to the following equation
+with α = e2 /(hc) ≈ 1/137. The ground state solution of Eq. (8) has been obtained in the following form
+where ci are determined from Eq. (8) [5].
+
+2.2 Short-Range Nuclear Interaction
+(10)
+In order to calculate the nuclear fusion rate, we need to specify the short-range nuclear interaction between two deuterons. For the dominant contribution of only s-wave at low energies, we use the optical theorem formulation of nuclear reactions [11,12] to write
+Imfn(el) ≈ k σr,
+(11)
+0
+where f0n(el ) is the s-wave nuclear elastic scattering amplitude and σ r is the nuclear fusion
+4π
+cross-section. σ r is conventionally parameterized as σr =Se−2πη,
+1 h2 −2πη whereη=2kr , rB =2μe2 , μ=m/2, e
+is the Gamow factor,and S is the S-factor for 
+the nuclear fusion reaction between two deuterons. For D(d,p)t and D(d,n)3He reactions, S ≅ 55keV-barn for each case.
+In terms of the partial s-wave t-matrix, the elastic scattering amplitude, f n ( el ) , can be 0
+writtenas fn(el) = 2μ <ψc t ψc >, 0 h2k2 000
+(13)
+where ψ0c is the Coulomb wave function.
+For our case of N Bose nuclei (deuterons) to account for a short range nature of nuclear forcesbetweentwonuclei,weintroducethefollowingFermipseudo-potential VF(r),
+2
+where the nuclear rate constant A is determined from Eqs. (11), (12), and (13) and given by
+
+2.3 Fusion Probability and Rates
+For N identical Bose nuclei (deuterons) confined in a bubble, the nucleus-nucleus (deuteron- deuteron) fusion rate is determined from the ground state wave function Ψ for trapped deuterons as
+where ImV F is the imaginary part of the Fermi potential, given by Eq. (14), and Ω is the
+probability of the ground state occupation. The substitution of Eq. (2) into Eq. (16) yields We can rewrite Eq. (19) as
+For large N, we use an approximate solution for Φ(ρ) (see Eq. (10)) Φ ( ρ ) ≈ ρ% 3 N − 1 e − ( ρ% / α t ) 2 / 2
+2 (18) α=(ς/3)1/3, ς≈ mc2 αN, and ρ%= mωρ.
+2πhω h Using Eq. (18), we obtain from Eq. (17)
+4πα hc
+The average size < r > of the ground-state for Bose nuclei confined in a bubble can be calculated using the ground-state wave function, Eq. (18), and is related to ω by the following relation for the case of large N,
+where
+
+2.4 Total Fusion Rate and Theoretical Predictions
+To estimate the total fusion rate, we consider multiple cavitation bubbles. For the case of multiple cavitation bubbles with each bubble containing N Bose nuclei, we define a bubble number density nb (number of bubbles per unit volume) as
+where Nb is the total number of Bose nuclei in bubbles per unit volume and N is the average number of Bose nuclei in a bubble. For this case, the total nuclear fusion rate R per unit volumeperunittimeis (R=nbRb)
+We note a very important fact that both Rb and R do not depend on the Gamow factor in contrast to the conventional theory for nuclei fusion in free space. This is consistent with the conjecture noted by Dirac [8] and used by Bogolubov [13] that boson creation and annihilation operators can be treated simply as numbers when the ground state occupation number is large. This implies that for large N each charged boson behaves as an independent particle in a common average background potential and the Coulomb interaction between two charged bosons is suppressed. Furthermore, the reaction rates Rb and R are proportional to Ω which is expected to increase as the operating temperature decreases.
+
+Using S = 110keV-barn for both deuteron-deuteron fusion reactions, we find from Eq. (15) the nuclear rate constant to be
+With B given by Eq. (27), the total nuclear fusion rate R per unit time per unit volume, Eq.
+(25), can be written as
+is the bubble number density, nB is the average number 
+
+Prediction 1: R does not depend on the Gamow factor in contrast to the conventional theory for nuclear fusion in free space. This is consistent with Dirac’s conjecture [10].
+Prediction 2: R increases as the temperature decreases since Ω increases as the temperature decreases.
+Prediction 3: R is proportional to nb NnB = nb N 2 < r >−3 where N is the average number of Bose nuclei in a single bubble and 〈r〉 is the average size of bubbles.
+The above predictions 1 and 2 imply that the acoustic cavitation nuclear fusion may be achievable at lower temperatures. These theoretical predictions can be tested experimentally.
+
+
+3. Proposed Experiments
+
+One of the major criticisms of these experiments [1,14] has been the use of a pulsed neutron generator to induce the production of large radius cavitation bubbles. When using a neutron generator in this mode,104 neutrons are produced at the same time. Because the fusion signal is also based on the observation of neutrons, questions have been raised about the die away time of the generator neutrons within the experimental area due to neutron reflections off materials within the room. Typical neutron die away times range between 100 and 200 microseconds which is significantly longer than the expected arrival time, of 27 microsecond for the neutron fusion signal using time zero as the start of the neutron pulse from the neutron generator to the observation of a fusion neutron from bubble implosion. We propose to replace the pulsed neutron generator system with an associated particle neutron generator to induce the cavitation bubbles in an experimental arrangement shown in Figure 1. This type of generator has the advantage that the time of production and the neutron flight direction are known. We propose to conduct the experiment in a low mass environment in a large experimental area with modeled and measured neutron die away times of 50 microseconds or less as shown in Figure 2. By running the generator at a neutron production rate of approximated 1 neutron per die away time, criticisms of generator neutron overlap with possible fusion neutron observation will be eliminated. Because the associated particle neutron generator produces neutrons uniformly in time and not pulsed, the associated backgrounds are reduced by the ratio of the pulsed time to total cycle time. Another advantage of the associated particle neutron generator is that the neutrons can be pointed to volumes within vessel volume. When operated in standing wave mode each volume element is associated with a fixed phase of the acoustic cycle [15,16]. In this way a neutron can be pointed to a precisely known phase within the acoustic cycle. Out of phase neutrons serve as a control sample to establish and understand background issues in the experiment during the data collection process. If fusion neutrons are produced during the cavitation collapse then they will show up only for these neutrons induced events with the correct phase and have generator neutrons pointing at the cavitation bubble. Cosmic ray induced events are eliminated because they will not have a generator neutron associated with them.
+
+Figure 1. Advanced Neutron Induced Cavitation Experiment using Impulse Devices high pressure, multiple high intensity acoustic actuators vessel.
+Figure 2. The experiment will be housed on a low mass platform in a large experimental area. The goal is that neutron reflections are minimized. Only one neutron will be produce per neutron die away time.
+The use of a pressure vessel capable of 1000 atmospheres will allow a variety of fluids to be tested under both medium and high negative pressures [17,18,19]. Materials that may be gases at atmospheric pressure can also be tested.
+
+
+4. References
+
+1. R.P. Taleyarkhan et al., Science 295, 1898 (2002).
+2. R.S. Stringham, Proceedings of the IEEE Ultrasonics International Symposium,
+Sendai, Japan, Vol. 2, 1107, (1998); Proceedings of The Seventh International Conference on Cold Fusion (ICCF-7), Vancouver BC Canada, (1990); Proceedings of IDDF-8, Villa Marigola, LaSpezia, Italy, May 21-26 (2000); Proceedings of IDDF-9, 323 (2002); Proceedings of ICCF-10 (2003).
+3. A.G. Lipson, V.A. Klyuev, B.V. Deryaguin et al., “Observation of Neutrons Accompanying Cavitation in Deuterium-Containing MEdia”, Sov. Tech. Phys. Lett. (Pisma v Zhurnal Teknicheskoi Fiziki), 61 (10), 763 (October 1990).
+4. Y.E. Kim and A.L. Zubarev, Proceedings of IDDF-7, 1998, pp. 186-191.
+5. Y.E. Kim and A.L. Zubarev, “Nuclear Fusion for Bose Nuclei Confined in Ion
+Traps”, Fusion Technology 37, 151 (2000).
+6. Y.E. Kim and A.L. Zubarev, “Ultra Low-Energy Nuclear Fusion of Bose Nuclei in
+Nano-Scale Ion Traps”, Italian Physical Society Proceedings 70, 375 (2000).
+7. Y.E. Kim and A.L. Zubarev, “Ground-State of Charged Bosons Confined in a
+Harmonic Trap”, Physical Review A64, 013603 (2001).
+8. Y.E. Kim and A.L. Zubarev, “Equivalent Linear Two-Body Method for Many-Body
+Problems”, Journal of Physics B: Atomic, Molecular and Optical Physics 33, 3905
+(2000).
+9. Y.E. Kim and A.L. Zubarev, “Equivalent Linear Two-Body Method for Bose-Einstein
+Condensates in Time-Dependent Harmonic Traps”, Physical Review A66, 053602
+(2002), and references therein.
+10. P.A.M. Dirac, “The Principles of Quantum Mechanics” (second edition), Clarendon
+Press, Oxford (1935), Chapter XI, Section 62.
+11. Y.E. Kim and A.L. Zubarev, Few-Body Sys. Suppl. 8, 332 (1995).
+
+12. Y.E. Kim, Y.J. Kim, A.L. Zubarev, and J.-H. Yoon, “Optical Theorem Formulation of Low-Energy Nuclear Reactions”, Physical Review C 55, 801 (1997).
+13. N. Bogolubov, “On the Theory of Superfluidity”, Journal of Physics 11, 23, 1966.
+14. D. Shapira and M. Saltmarsh, Physical Review Letters 89, 104302-1 (2002)
+15. B. Hahn and R.N. Peacock, Nuovo Cimento, Vol. 28,N.2, p1880 (1963)
+16. B. Hahn, Nuovo Cimento, 22,650 (1961)
+17. H.K. Foster and N. Zuber, J. Appl. Phys. 25, 474 (1954)
+18. J. Fisher, J. Appl. Phys. 19, 1062 (1948)
+19. M.S. Plesset and S.A. Zwick, J. Appl. Phys. 25, 493 (1954)

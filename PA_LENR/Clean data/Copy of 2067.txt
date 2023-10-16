@@ -1,0 +1,81 @@
+1. Introduction
+
+It has recently been shown [1,2] that the conventional nuclear physics de­ scription of fusion reaction rates needs to be modified in laboratory and as­ trophysical environments due to CME. The conventional fusion rate Rconv for nuclear fusion reactions between two nuclei is written as Rconv ex: (o-v) where v is the relative velocity representing the incident flux and a- is the fusion cross-section. However, in condensed matter environments, Rconv needs to be modified to a new expression Rnew ex: (o-v), where a- is a modified fusion cross-section and vis an average velocity of the incident particle in condensed matter which can differ significantly from the incident velocity. As a specific application of our new formulation of Rnew to hot fusion, condensed matter effects for the solar neutrino problem will be presented. Application of our new formulation to cold fusion rates explaining the anomalous branching ratio for deuterium-deuterium fusion is in progress.
+
+
+2. Effective Flux Velocity
+
+For the purpose of obtaining quantitative estimates of CME, we use a "shifted" screened Coulomb potential with an interior square-well nuclear po­
+tential1⁄2(,):
+(1)
+For a number density of condensed (target) matter, n, and elastic cross­
+section <Te, the mean free path is Ae
+cross-section O'1, AJ = (1/nO"f)+,2 = (>..eae/af)+,2 2
+=(nO')- =' -Tzandforthefusion e1e
+, where , is chosen as the classical distance of closest approach (turning point) for a given barrier. The average interatomic distance is ~ 2re in condensed matter. Then the average velocity(exeffectiveflux)canbewrittenas (v) =AJ/[(ae/af)(t;+ta)+tB+tN] = [(re -r2)(ae/a1)+r2]/[(t;+ta)(ae/a1)+tB+tN] where t;, ta, tB and tN are the times for the incident particles to traverse distances (re -rs), (rs -r2), (r2-rN), and TN, respectively. For the case of (J'e >> O'J, (v) reduces to (v) :=::! v =
+(re - rz)(t; + ta)= [(re - rs )+ (rs - ,z)]/(t; ta).
+The traversal time t(j) = ta of the incident particle i in the presence of
+the barrier due to the target species j can be estimated in the WKB ap­ proximation for the case of Vs(r), eq. (1), with E < B = V.(rN) as t(j) =
+(t; [(2/μ;JIE - Vs (r)lr 112 dr where μ;i = m;mj/(m; + mj)- Using t(j), we calculate v(v) and F(E) = v/v as a function of v or E = μv2 /2. Our calcula­
+tionsshowthatv'.Svwherevisgivenbyv=v;=(re -rs)/t;.
+
+
+3. Fusion Rates
+
+The conventional fusion rate between two species of nuclei, i and j, with
+number densities n; and nj is conventionally written as Rconv <};j)](O'V)conv Where
+with kinetic energy E = μv2/2, in the center of mass (CM) frame and the Maxwell-Boltzmann velocity distribution, J(v) = (μ/21rkT)312 exp(-μv2/2kT) where μ is the reduced mass.
+Because of the continuous exchange of kinetic and potential energies in dense plasmas, the original velocity v whose distribution is described by J(v) = (μ/21rkT)312 exp(-pv2/2kT) is reduced to v = u(v) < v. The origi­ nal pair total energy, m;v;/2 + mjVJ/2 = (m; + mj)V /2 + μv2 /2, becomes (m; + mj)V2/2 + μu2/2 + W(u) where W(u) is the potential energy, W(u) =μv2/2-μu2/2. Therefore,theoriginalvelocitydistributionsJ(v;)f(Vj)= J(V)f(v) are replaced by f(V)f(u) where f(u) is given by J(u) = (μ/21rkT)312 exp (-μv /2kT) d v/d u which gives particle number conservation ](u)d u=1
+
+The velocity v is the appropriate value to be used for the fusion rate rather
+than v(= v;) which has been used in the conventional eq. (2). For dense
+astrophysical or laboratory plasmas, when a projectile particle i moves through
+the plasma with velocity u v, the probability of a fusion reaction per unit
+path length of the projectile is given by P nja where nj is the number of
+target nuclei per unit volume of the plasma. Because of the elastic scattering
+processes described previously, the projectile traversal distance per unit time is
+u, and not v. Then the fusion reaction probability for the projectile path length
+per unit time is P uP unja. The rate at which n; projectiles per unit
+volume, each moving with a speed but in random directions, will react
+is then R(u) n;uPx (n;u)(nja). If a projectile velocity distribution ](u)
+is given, then the new fusion rate is given by R [n;nj/(l 8;j)](av)
+where (av) a(u)u](u)d u a(u)uf(v)d v
+(3)
+( 8 ) 1 a(E)F(E)Eexp (- E )dE ,
+1rμ (kT) !
+kT
+and E EF (E). We note that (av)new :S (av)conv ·
+2xx621 
+
+
+4. Results
+ 
+The new fusion rate formula, eq. (3), is applied to the solar neutrino
+problem. Table 1 shows our results of applying CME reduction factors of
+(av) /(av) v 0.79 and 0.48 for p(p, e v )D and Be(p,,) B, respec­
+tively, to the standard solar model (SSM) calculations of Refs. [3], [4], and [5]. Data collection periods (month.year - month.year) are indicated for Refs. [6] and [7].
+The observed neutrino flux due to Be(p,1) B(e ve) Be•(a) He by the Kamiokande-II detector [10,11] is 2.7x10 (1±0.ll (stat.)±0.13 (syst.)) cm- s- compared with the SSM result [3] of 5.7 x 10 cm- s- Our result of applying theCMEreductionfactorof(av)new/(av)conv 0.48yields2.74X10 cm- s- . which agrees with the experimental data [10,11].
+
+
+5. Conclusions
+
+We conclude that anomalies in both hot and cold fusion have a common origin in CME. It is noteworthy that overlooked CME may supply both the solution to the long standing solar neutrino problem, as well as an explanation for the anomalous branching ratio for D-D fusion.
+
+
+6. References
+
+l. Y. E. Kim et al., "Condensed Matter Effects on Nuclear Fusion Rates
+in Laboratory and Astrophysical Environments" to be published.
+2.
+Y. E. Kim et al., "High Density Fusion and the Solar Neutrino Problem"
+to be published.
+3. J. N. Bahcall and M. H. Pinsonneault, to be published in Rev. Mod. Phys.
+4. S. Turck-Chieze et al., 1988, Astrophys. J., 335, 415.
+5. G. Berthomieu et al., to be published in Astronomy and Astrophysics.
+6.
+J. K. Rowley et al., 1985, AIP Conf. Proc. No. 126 (1985), p. 1.
+7. R. Davis, Jr., 1988, Proceedings of the 13th International Conference on Neutrino Physics and Astrophysics, Neutrino '88, edited by J. Schneps et al. (World Scientific, Singapore, 1988), p. 518.
+8. P. Anselmann et al. (GALLEX), 1992, Phys. Lett., B285, 376.
+9. A. I. Abazov et al. (SAGE), 1991, Phys. Rev. Lett. 67, 3332.
+10. K. S. Hirata et al., 1989, Phys. Rev. Lett., 63, 16.
+11. K. S. Hirata et al., 1990, Phys. Rev. Lett., 65, 1297; 1991, Phys. Rev., D44, 3786.

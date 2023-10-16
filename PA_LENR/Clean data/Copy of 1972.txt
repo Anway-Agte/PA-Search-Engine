@@ -1,0 +1,82 @@
+1. Introduction
+
+Tvvo accepts of the research were important. There were authenticity of experimental results, use various kinds of physical measurements, wt,at is important for to reveal possible mechanism of higl1 energy process.
+
+
+2. Methods
+
+A glow discl,arge device [3] filled witl1 deuterium, hydrogen or inert gases was used. Cathodes were made of Pd, Zr, Nb, Mo and other materials. The typical gas pressure in the cl1amber was 2-10 Torr, the discharge voltage 200-600 V and the discharge current 5-100 mA. A schematic diagram of the experimental device is given in Fig. 1.
+
+Gamma measurement
+The gamma-measuring system consisted of a liquid-nitrogen cooled Ge-U detector, amplifier and AMA-3 multiscaler on-line witl1 a micro­ computer. Detector signals \Ner0 accumulated by the multiscaler and then recorded digitally, The measuring procedure included gamma background registration before the experiments and gamma spectra registration during and after the experiments. The registration time for one spectrum vvas 104-
+105 s. The system was repeatedly calibrated against reference sources (241Am, 235LJ, 22Na, SOco, 40K, 20811).
+
+Recently v,e upgraded detector lead shielding significantly and focused on the gamma counting over extended periods up to 65 hours after discharg0 tamination. Tt-Jis approacl, e:<cludes a noise from electric pick­ ups. prov1cle mora counts for channel. ,.:ind, tl,ereforn, better sig11al-to­ background ratio.
+
+It appeared tl1at 80-90 percent of radiation is emitted from tt,e vacuum chamber itself rather t1-1an from the cathode. \Ve rrrnasured tl,is residua! incluced activity in two steps. First. gamma spectrum was registerec! atter discharge t8rmination, and background v1as registered after 3 day tor more1
+break in the expariments. Then all counts were summed over the energy range from 60 to 1500 f<.eV. The obtained results ( Fig. 2) clearly indicate that residual activity signals stand out above all background fluctuations for Pd- 02 system as v1ell as tor Pd-H2, Zr-02, Pd-Ar systems.
+Long-term (15-65 hours) garnma measurements after discl1arge t2rmination v1ere carried out in a variety of e;<periments. It v1as found tJ-,at for a number of the cathode materials the gamma emission int0nsity stands out above background by 20-30·-:';b in the range of 50-1500 keV(Fig. 3a,b,c1. The effect is well reproducible. Tl,e estimated intensity of the radiation is 1oL103 s·1 within 10-15 hours after discharge switch-off. Tl,is residual radiation fades away in 2-4 \.Veeks and the background spectrum goes back into its initial state. Th2 radiation of tt,is type is not observed after runs with certain catl1ode materials, for example Ag-02 (Fig. 3d).Spectra, registered after disct1arge in Pd-H2, Pd-Ar. Ag-H2 systems are presented in Fig. 4.
+
+Spectra, registered in run-time and after discharge termination. 1t1ere processed by specially developed software. First, the spectrum v:as converted into energy units and normalized to account for the transducing efficiency of the d2tector and the geometrical factor. Background, treated in the same way, v,ras subtracted from tl"rn spectrum. Randomly occurring negative overshoots were set equal to zero. Steady repeated patterns V/8re considered to be gamma lines. In the background-correcte'd spectrum. lines v1ere separated and selected by amplitude and width. Lines appearing at the same points on the energy scale over several spectra (from experiments v1ith similar parameters} \.'/ere selectecl. Then gamma lines were identified against databases of i;:_iamma emitting nuclides. One database contained a large block of data over the whole Periodic table (4]. Unes \Nitt, energies
+close to the energies of exited levels of Pd nuclides are obs::c:-rved in ali registered spectra.
+Follov1ing the mett1od, reported in [7] for sl,ort-lived isotopes. vie constructec1 possible nuclear reactions with r:,- and �·+ decays. Some of the elements (e.g., Ccl. In. Sb. Sn), wl,ich could be involved into these reactions. v;ere detected by direct methods [6].
+
+Neutron registration
+The results of the miutron registration v1ere reported in our early ;,vorks [1,2]. The follo'.-ving1metl,ocls v-1ere used: beta activation of A.g, nuclear reactions (2He and 08 detectors), recoil proton registration in photoemul­ sion.
+In the recent experim�mts average values of neutron production 1.,vere registered over longer run-times of 103-104 s. Four 3He detectors were used. They were placed into tt,e moderator which thickness varied from 5 to 12 cm for different detectors. It appeared, that neutron signals varied from 5 to 20 V. while the gamma signals from 60Co with E·-1.3 MeV v1ere about 1\/. To minimize tile noise, tile counter discriminated only signal above 2.5 V.
+The system v1as calibrated against a Pu-Be source ( 10 4 s- 1 }.Tl1e average rate of neutron production stands out above a background noise in a great variety of experiments. The experimental conditions with corresponding values of neutron production are presented in the Table 1.
+Increase in the neutron production within 10-30 minutes aft8r discharge termination is observed repeatedly in these experiments.
+
+In some experiments with the specially designed cathodes the neutron counter indicated values corresponding to the neutron proquction of 104 s- 1 with short "neutron flashes" up to 107 s-1. But we are riot sure yet that neutrons are responsible for sucl1 signals.
+
+Heavy charged particles registration
+Previously we registered charged particles by CR-39 polycarbonate track plates and by SSB detector with a set of degrading foils [3]. Recently vie used two channel measuring system providing more reliable results. The system included two semiconductive Si-Au detectors, one with 10 �L Al screen, the other with 18 �L Al screen. The signals from the detectors were fed into the system, consisting of two preamplifiers, tv-10 amplifies (BUl-3K), t-No multiscalers (AMA-3). The signals after amplifier were visually controlled using an oscilloscope (S9-27). The signals 1.'lere occasionally v1asl1ed out by the noise, v1hen generation of high voltage pulses began under certain conditions. We did not record the signals in this case. Control experiments were conducted to evaluate the influence of an optical and electric noise on tt1e signal. In these experiments the detector window was shielded by 2 mm sapphire plate or 0. 1 mm aluminum foil. Noise signals corresponded to energies less than 300 keV for all experimental conditions.
+Both channels register the signal simultaneously. Type and energies of particles are determined by the energy shift betvveen the t-No spectra. Judging by tt1e recorded spectra, He, U, B, C nuclei \Vitt1 energy of 5-6 MeV are observed (Fig. 5,6,7,8).
+
+Registration of fast electrons
+\'Ve usE:,c! x-ray film RT-1V v;ith varic,us degradinQ scre2ns to rngistJr :-<­ rays amJ fast electrons. Tl,e films v,ere e;<posed cluring ru11-tirnas of 4000- 15000 s. The film exposure was analyzed using a densitometer. In our experiments tl1e film G:<posure can be caused by gamma. x-ray or fast electron emission. The results are still preliminary ancl the contribution of each specific ccmpon�mt is not evaluated yet, but tl,e results of tl1e prob'3
+measurements (see belov-1) indicate presence of electrons
+The x-ray films 1,•:ere placed inside and outside the vacuum cl1amber.
+Inside the cl1amber tl,e films were placed at the upper flange, at tl1e bottom flange and in tl1e middle of the cr,amber, so that they faced the caU1ode. For tt,ese films ·we applied as attenuating screens the following materials: 70-80 .c1. black paper, 6 LL polymeric film coated v1itl1 2 P - aluminum. aluminum ( 0. 1, 1, 2, 3 mm), 2 mm leac!. Outside tt1e ct1amber films \.'/ere placec� on tl1e bottom and upper flanges, and on the ct,amber wall. For tt1ese films an attenuator consists of 5 mm steel (chamber v:all).
+
+The films placed inside the cl1amber st,ow two types of exposure: uniform exposure ant1 local spots. Tt,e reason for the uniform exposure can be diffusive emission of gamma rays or electrons. For tile film 1Nith st8p screen (aluminum plate \-'litt, thickness of 1,2,3 mm} greater exposure is observed under tt,icker layer of tt,e att�rnuator. This multiplication effact can be associated \.Vith 200-300 keV gamma rays or v1ith fast electrons v1itt·l energies up to 1 �.1e\/. Intense diffusive exposure was found under aluminum-coated polymeric film (2 �L Al + 6 μ polyester), \Nith no exposure under black paper. This is a good indication of the intense emission of x-rays or 5-20 keV electrons.
+The spot film exposure can be caused by electron laeams. Energy of tl1e beams depends upon the cathode material and the working gas. Tl1e beams pass through 100 ,LL aluminum in the case of palladium cathode (Fig. 9a). but the same screen stops tt,e beams completely, ·when Nb catt,ode v1as used ( Fig. 9b). Such beams can be electrons ·with energy from 200 to 500 keV. In tt1e case of Zr cathode the beams penetrate througt1 5 mm steel of tt,e chamber v1all, and 2 mm lead, placed bel,incl x-ray films, increases tile film exposure significantly (Fig. 10). Sucl1 beams can consist of electrons with energies ranging irorn hundreds of keV to units of tv1e\/.
+The exposure spots are clear and non diffused in spite of long-term exposure (up to 15000 s). This indicates that quite intensive beams are emitted within short-term intervals. The other peculiarity of the beams is anisotropy. Most of tt,e beams propagate upwards from the catr10de, diverging in the 60° cone.
+
+Electric probe measurements
+Electric probe measurements were conducted to stucly l1igh voltage pulses of a short duration v1l1ich are generated in the disct,arge area. Tt,e consisted of Mo cylinder placed in quartz tube with one end open, the probe was placed at 1 mm from the cathode. The spacing bet-Heen anode and catt,ode v1as 2-5 mm. Probe, anode or cathode voltages v,ere applied to a dual trace digital oscilloscope (S9-27) througl1 a lov1 inductance voltage divicler. Current in the cathode circuit \Vas maasured by the same oscilloscope 1,,vith a lm't
+inductance shunt. The maximum time resolution was 10·8 s.
+The voltage divider v,as 490 KOhm metal-film resistors placed in series. Dividers of tl1e described type were mounted using insulators at tile bottom
+and upper flanges in the close vicinity of the probe, anode, cathode electric leads. Special tests were done to verify active character of the divider im­ pedance.
+
+It appeared that l1igh voltage pulses are generated during glo·-N discharge operation in most of the experiments. This effect is observed in deuterium and other gases. Pulse generation starts v1hen current exceeds some critical value. Spontaneous separate pulses and batcl1es of pulses are observed. Tho batch typically contains 1oz pulses. The generation rate and the pulse amplitude depend on the cathode material. The pulse generation rate increases v1ith increasing current density and reached 103 pulses per second in the case of Pd-O. Tt1e probe voltage reached 0.23.105 Vin pulses and corresponded cathode current bursts -...vere tens of amperes. Leading edge was 35-40 ns and independent of tl,e sort of gas (H2,O2,Xe,Ar).
+
+Discussion
+Judging by the time dependence of probe and catl1ode voltages and cathode current, tl1e registered pulses are generated by the spontaneous release of bunches of 0.01-0.23 MeV electrons. It is estimated tl,at there are 10s-1O11 electrons in a bunch. The line character of the probe voltage spectrum indicates that electrons have fixed energies and can be conversion electrons. ,,
+Another evidence of fast electron presence is blackening of x-ray film placed outside the chamber (Fig. 5). The part of the film covered by lead sl,ielding shO\vs nonuniform blackening. while the rest of tl,e film is not exposed. It can be interpreted as multiplying of secondary gamma emission in the lead due to the bombardment by fast electron beams.
+
+The energies of the registered electron beams correlate with the first nuclear levels, specific to the cathode material. For Nb cathode (E=30.4 keV) the beams are completely stopped by 0.1 mm aluminum, in the case of Pd (E= 280, 433, 511, 556 keV) they partially penetrate through the same screen. For Zr catl,ode (E= 919, 934, 1760 keV) electrons pass througl1 5 mm steel.
+A possible mechanism of conversion electron release may operate in the following way. In a high density ion flux in a glow discharge, energy can be transferred from low energy ions (0.1-100 e\/) into nuclei in the cathode material step-by-step in nonelastic collisions. It is necessary that nuclear levels (from low levels of neutron resonance type v1ith energies of tens of eV) would have a lifetime longer than the period between two successive ion impacts. The resulting metastable excited levels of Pd release their energy (-
+500 keV) by conversion electrons and partially by a small amount of gamma
+rays.
+Tt1is suggestion is confirmed by experiments v1ith Ar and Xe v,here high
+voltage generation and x-ray film exposure are also observed. By our estimation 0.1-10 per cent of Urn clisct1arge power is transferred according to this mecl1anism. It means tllat under a flw< of 10' 7 ion.!s2c 1Ci • c - 1 c:, · :.2 excited to MeVs em:rgy nuclei of Pc! arise per second. oth.::r possible vn.riar1t can be suggested Urn pt1enomeno11 opposite to t,1ossbauer ottect. Energy of oscillations of atomic l3ttice in local part cathoc!e material (about 1O-t:-
+10-c-11 atoms) is transfered to one nucleus at resonance.
+
+Under certain concentration of the excitec! nuclei in tl-18 cathoc!e
+material and density of implanted deuterium up to 1022 crn- :: some nuclear reactions can occur, such as described in [5]. Earlier via supposed tl,8 possibllty of occurrence of nuclear reactions (5). But in experiments it f·1as observed very few gamma-radiation (10+7-10+8) and a large amount (10__;__ 15-10+16) the impurities of individual Glements (Na.Mg.Zn.Ni...) and much of excess l1eat. Hypott1etically it can be explained by t-:10 reasons: 1- only stable isotopes are formed. 2- forming by-products transfar the energy and pulse some to atoms crystalline lattice of tt1e cathode material (just as in Mossbauer effect).
+
+
+3. References
+
+1. 2.
+3. 4. 5.
+6. 7.
+Karabut A.8., Kucl1erov Ya.R., Sa\Natimova 1.8. Pisma v GETF (Sov. Teel,. Phys. Lett.), v. 16, release 12, 1990, p 53-57.
+Karabut AB.. Kucherov Ya.R., Sawatimova I.B. Tl1e Investigation of Deuterium Nuclear Fusion at Glow Discharge cathode. Fusion Technology, December 1991, v.20, #4, part 2, p. 924.
+Karabut AB., l<ucherov Ya.R.. Sawatimova I.B. Nuclear Product Ratio for Glow Discharge in Deuterium. 1992. Pt--iysics Letters A, 170, p.265.
+F. W. Walker, J. R. Parrington, F. Feinei. Chart of the Nuclides. General Electric, San Jose, 1988.
+Karabut A.B., Kucherov Ya.R., Savvatimova 1.8. Possible Nuclear Reactions Mechanisms at Glow Discharge in Deuterium. Frontiers of
+Cold Fusion, Proc. of the Tl1ird International Conf. on the Cold Fusion, October 21-25,1992, Nagoya, Japan, University Academy Press, Inc., Tokyo, Japan, p165-168
+Savvatimova 1.8., Karabut AB., Kucl,erov Ya.R. Cathode fv1aterial Change after Deuterium Glow Discharge Experiments. Proc. of tl1e 4th International Cont. on tt,e Cold Fusion, December, 1993, Hawaii, USA (to be published).
+Karabut A.B., Savvatimova 1.8., Kuct1erov Ya.R. Possible Proc!ucts of Nuclear Reactions under GbN Disct1arge in Deuterium..Report 011 tl1e the 4tl1 International Conf. on tile Cold Fusion, December. 1993. Ha'Naii. USA.

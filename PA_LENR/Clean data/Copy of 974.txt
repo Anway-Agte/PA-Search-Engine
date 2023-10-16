@@ -1,0 +1,267 @@
+1. Introduction
+
+In the experiments conducted with deuterium, the measurement of neutrons,
+attributed to the reaction
+
+D +D= 3He+n (1)
+
+and therefore with energy of 2,45 MeV, has presented difficulties since the very first
+experiments in 1989 due to the scarcity and/or irregularity of the emission.
+
+The fact that the neutron emission is weak even when the excess heat is rather high
+compels us to suppose that (1) holds true, however, in a minority of reactions; it seems
+therefore necessary to consider separate the cause of the heat and that of the neutrons.
+
+The reaction could be different from (1) : Takahashi[2] has measured neutron
+emissions at energy between 3 and 7 MeV; Karabut [3] has obtained neutrons with
+energy up to 17 MeV from glow discharge in deuterium and, recently,
+Manduchi/Mengoli[4] have observed neutron emission (of energies> 2.45 MeV) from
+application of d.c current to Pd deuteride. In the electrolysis of D20 in presence of
+tritium Stukan[5] has observed hard neutrons ascribable to the cold fusion T +D.
+
+Although experiments have been reported in which the emission appears constant
+in time [6•9], irregularity is the most frequent characteristic of neutron production in
+cold fusion: the neutrons are often grouped in bursts of varied composition and
+duration. 
+
+
+2. Neutrons 1989-1995
+
+Subsequently to the first communications of 1989 many groups have detected 
+neutron intensities well above the background. We limit ourselves to an 
+exemplification of experiences in which neutron generation is many times the statistical 
+error cr8 on background.
+
+ELECTROLYTIC LOADING: 
+Measurement of reaction neutrons - Neutron spectrometry presents difficulties with 
+this type of loading, because the electrolytic solution and the possible thermostatic bath 
+slow down the neutrons. However, Takahashi[2] in pulsed electrolysis with a heavy
+water LiOD solution has measured neutron emissions at 2.45 MeV (but also at energy 
+between 3 and 7 MeV). 
+
+Measurement of neutrons after thermalization - Sanchez[10], during heavy water
+electrolysis with a Ti cathode has measured for several hours, with a BF3 detector, 
+counting rates up to 105 n/s . Palibroda[1 1] has worked in electrolysis with a palladium
+cathode and a solution with an addition of thiourea; various neutron emissions have 
+been recorded which, after thermalization, reached 300 times the background and lasted 
+up to 12 hours. Fujii[12] has worked with a 0.1 mol/dm3 LiOD solution in heavy water.
+Utilizing 3He counters he has found neutron bursts up to 135 cr8.
+
+GASEOUS LOADING: 
+Measurement of reaction neutrons - Botta/Bressani[13] have applied a time of flight
+spectrometer to the Ti/D system; neutrons of 2.45 Me V energy have been found in the 
+excess of 5 cr8 compared to the background. Manduchi/Mengoli[14] have utilized the 
+technique of gaseous loading of deuterium on Pd with decreasing temperature from 
+900°C to 20°C. The neutron measurement was effected with a NE213 ( 100 cm3) 
+spectrometer; significant quantities of neutrons have been observed especially in the 
+temperature intervals in which the deuterium was more actively absorbed by the metal. 
+Neutrons also are produced following loading with natural hydrogen. 
+
+Measurement of neutrons after thermalization - Manduchi/Mengoli[15] have, among
+other things, sought confirmation of Scaramuzzi's experiment of 1989, by producing 
+many cycles of deuterium charging and discharging on titanium: for about two weeks 
+they periodically found neutron emission, measured as thermals, for approximately 10 
+times cr8_ 
+
+ELECTRIC DISCHARGES IN DEUTERIUM GAS: 
+This type of experiment, already begun in 1989[16, 17], appears efficacious in the
+production of neutrons, but the reaction rate is not in general sufficient to produce a 
+measurable excess heat. Only in the work of Kucherov[18], favorably characterized also
+by the maximum neutron emission (with activation of 107 Ag and 109 Ag) related to
+the minimum d.d.p. employed (< 500 V) , have 50 W been appreciated. 
+
+Long[19] experimented with the glow discharge between Pd-deuterated electrodes,
+obtaining reactions in the metallic film deposited on the glass of the bulb. The 
+neutrons, measured with a recoil-proton scintillation detector, reached the average rate 
+of several hundred per second. With metals other than Pd the neutrons were more 
+numerous (104 n/s) and long-lasting, so much so as allow the radioactivation of indium 
+and iridium. 
+
+DIFFERENT TECHNIQUES AND/ OR MATERIALS: 
+Lyakhov[20] has found that the combined action of cavitation and electrolysis on a 
+titanium surface determines a reproducible neutron emission (0.6 n/s) with bursts of 103
+n/ms. 
+
+Bittner[21] employs a mixed method, in that it involves electrolytic deuteration of 
+palladium and subsequent degassing through heating; the emission of neutrons ( of 
+approximately 2.5 MeV) took place mainly during the degassing phase, at high 
+temperature, for about an hour. 
+
+The Piantelli's technique [22,23], which uses natural hydrogen, allows a generation
+of> 106 n/s (radioactivity was induced in Au,In and Mn) besides of significant 
+anomalous excess heat. Then this "Siena experiment" [24,25,26] is to be considered as the 
+most sure acknowledgement, up to date, of the nuclear cold fusion hypotesis. 
+
+Manduchi-Mengoli [4] have founded strong neutron emission (30+40 n/s) correlated 
+with the migration of deuterium; the energy was> 2.45 MeV for 80% of the total. 
+
+Wada[27] reports emission of 2.45 MeV neutron bursts with temperature rise from 
+palladium by means od simple exposure to D2 gas in a closed glass bulb. 
+
+
+3. Transmutations
+
+The finding of particular nuclides might be an indirect signal that neutron
+generation has taken place. 
+
+Coupland[28] reports that in the superficial layers of Pd electrodes the isotopic ratio 
+6Li/7Li appeared very reduced (from 0.08 to less than 0.05) after having been used by 
+Pons and Fleishmann. The anomaly may be interpreted as the consequence of reactions 
+of the 6Li with thermal neutrons whose cross section (n,a), as is known, is very large 
+(945 barn). 
+
+Other nuclides are presumably created by the transmutation of species originally 
+composing the crystalline lattice. Rollison[29], in mass-spectrometric observations of the 
+deuterated Pd, has found an increase (from 27 % to 40 %) in the abundance of the 106Pd 
+isotope (1°5Pd abundance undergoes a corresponding reduction). 
+
+Karabut [3] has measured a y-ray emission attributed to io9mpd (T 112
+= 4.7 min). 
+Recently the production of silver has been observed, in particular by Dash[30], who 
+believes that the 108Pd (n,y)109Pd capture has taken place followed by decay into stable 
+109 Ag , with half life T 112 = 13.7 h. Obviously also the original impurities (for example
+Ag, Au and Pt) as well as the Pt of the anode, transferred in part onto the cathode in the 
+course of experiments of electrolytic loading, may undergo transmutations[31]. In 
+particular 196Pt (relative abundance 25.3% in the natural element) through reaction (n,y) 
+would give place to 197Pt which would become stable 197 Au after beta decay. 
+
+
+4. What activates the neutron channel ?
+
+The examination of the works mentioned so far does not seem yet to furnish a 
+final evidence about what could be the modes which activate the neutron channel, but in 
+many cases non-equilibrium conditions appear necessary; the temperature seems 
+important. 
+
+Loading ratio - It is known that many experiments indicate for Pd a loading ratio 
+x = 0.85 as the threshold for the production of excess heat; for neutrons some authors 
+have reported as useful decidedly inferior values. Shani[32] sealed the Pd sample 
+destined to emit neutrons when the D/Pd ratio had been brought to a value of .6. In 
+addition Long has indicated the condition x > .3, while from Bittner's graphs[21]
+neutrons still seem to be emitted when, during degassing, the ratio had been reduced to 
+about .66. Iwamura[33], who with 3He detectors observes neutron emission during
+degassing, claims to load to the maximum value of x = .66, while Nakada[34] recognizes
+a requisite value of x=.77 and, lately, Garg[35] has indicated useful x values from 0.4 to
+0.7 in a variety of gas loading experiments. :
+
+For Dffi systems Alguer6[36] recommends the critical value x=l.95, which is attained
+in only a thin layer close to surface (few microns) during D20 electrolysis. 
+
+Stratifications - In the Iwamura's and Alguer6's experiments the phenomena seem to 
+concentrate on the deposited superficial layer. Other experiments, as well, seem to 
+indicate that the generative processes of neutrons are produced in correspondence to 
+thin stratifications. 
+Nakada[37] has proved that the formation of Pd-Li layers in the
+surface region favours the anomalous deuterium accumulation, with neutron emission. 
+
+Catalytic hypotheses - Some researchers affirm that the stochastic character of the 
+emissions of neutron bursts suggests a catalytic nature, for which such episodes may be 
+induced by neutrons or by other particles of the environmental background. From such 
+a viewpoint the experiment described by Shani[32] seems interesting: in a high­
+neutron background environment ( 0.05 counts/s/cm2 ) a 2.45 MeV neutron peak was 
+observed, while in a low background environment (0.0002 counts/s/cm2) there was no
+peak. The idea of catalysis is sustained also by Gluck [38] and by Kozima[39] who
+adduces as a clue the fact that the phenomena of cold fusion appear markedly less 
+frequent in heavily shielded environments. 
+
+
+5. Conclusions
+
+Neutrons were observed in many laboratories. The most frequently measured
+neutron energy is 2.45 Me V of the D+D reaction; reported higher energies need further 
+confirmations. The isotopic shifts would also deserve careful examination. 
+
+Experiments seem to support the firm belief that excess heat is generated by 
+principales nuclear events accompanied by less frequent reactions which produce 
+neutrons. 
+
+
+References 
+
+1. L.DADDI - "Neutrons in Cold Fusion Experiments", Proceedings of the IV0 
+Workshop on the Status of Cold Fusion in Italy, Siena 1995 - Editor B.Stella
+2. A.TAKAHASHI et al. "Emission of 2.45 MeV and Higher Energy Neutrons from
+D2O-Pd Cell under Biased-Pulse Electrolysis", J.Nucl.Sci. Technol. - 27,663 (1990) -
+also: Abstract No.207 JCCF5
+3. A.B.KARABUT et al. "Nuclear Product Ratio for Glow Discharge in Deuterium"
+Phys.Lett.A 170,265 (1992)
+4. G.MENGOLI et al. "Neutron Emission from Transient and/or Steady-non­
+Equilibrium States of Pd Deuterides" Abstract No. 310 JCCF5
+5. R.A.STUKAN "The Effect of Tritium on Hard Emission Generation During the
+Electrolysis of Heavy Water" Abstract No.313 JCCF5
+6. A. TAKAHASHI "Neutron Spectra and Controllability by Pd-D Electrolysis Cell
+With Low-High Current Pulse Operation" The Science ofCold Fusion, Bologna 1991
+(pag.93 )
+7. T.BRESSANI et al. "A Study of the Neutron Emission from Ti Loaded with D in Gas
+Phase by Means of a Time-of-Flyght Spectrometer" The Sci. of Cold Fusion, Bologna
+1991 (pag. l 05)
+8. M.PRELAS et al. J.Fusion Energy 9,309 (1990)
+9. Y.ARATA and Y.C.ZHANG "Cold" Fusion in a Complex Cathode" Frontiers of
+Cold Fusion ICCF3, Tokyo 1993 (pag 441)
+10. C.SANCHEZ et al. "Cold Fusion during Electrolysis of Heavy Water with Ti and Pt
+Electrodes" -Proc. Understanding Cold Fusion Phenomena, Varenna 1989 -Vol.24
+(pag.29)
+11. E.PALIBRODA and P.GLUCK "Cold Nuclear Fusion in Thin Foils of Palladium"
+J.Radioanal. Nucl. Chem.Lett. 154,153 (1991)
+12. Y.FUJII, M.TAKAHASHI et al. "Anomalous Neutron Bursts in Heavy Water
+Electrolysis - The Science of Cold Fusion", Bologna 1991 (pag.81)
+13. E.BOTIA, T.BRESSANI et al. "Measurement of 2.5 MeV Neutron Emission from
+Ti/D and Pd/D Systems" - Nuovo Cimento 105-A, 1663 (1992)
+14. C.MANDUCHI et al. "Anomalous Effects During the Interaction of
+Subatmospheric D2 (H2) with Pd from 900°C to Room Temperature" Nuovo Cimento
+107A, 171 (1994)
+15. G.MENGOLI et al. "Neutron Emission from the Interaction ofD2 with either Ti or
+Pd Based Alloys" Proc. Rome Workshop on Status of Cold Fusion in Italy,Rome 1993
+(pag.68)
+16. N.WADA et al. Jpn.J.Appl.Phys. 28,L2017 (1989)
+17. R.H.XIONG et al. "The Detection of Neutrons in Discharge Device with Palladium
+Electrode and Deuterium Gas" JCCF2 Abstr.(pag.42) -Proc.ConfofCold Fusion
+Beijing 1990
+18. Y.KUCHEROV et al. "Calorimetric and Nuclear Products Measurements at Glow
+Discharge in Deuterium" Fusion Facts 5,33 (1993)
+19. H.Q.LONG et al. "New Experiment Results of Anomalous Nuclear Effect in
+Deuterium Metals Systems" Proc.ICCF4 -Palo Alto (1994), Vol.3 (pag 24.1)
+20. B.F.LY AKHOV et al. "Generation of Nuclear Fusion Products by the Combined
+Action of Cavitation and Electrolysis of a Titanium Surface in Deuterated Electrolytes"
+Tech.Phys. (USA) 38,623 (1993)
+21. M.BITINER et al. "Observation of d-d Fusion Neutrons During Degassing of
+Deuterium-Loaded Palladium" Fus. Technol. 23, 346 (1993)
+22. F.PIANTELLI "Produzione anomala di energia in esperimenti con isotopi H e  D
+adsorbiti da un particolare reticolo metallico" -Atti AccadFisiocr. Siena - Serie XV­
+Torno Xll,89 (1993)
+23. S.FOCARDI et al. "Anomalous Heat Production in Ni-H Systems" - Nuovo
+Cimento 107-A, 163 (1994)
+24. S.FOCARDI "The Siena Experiment: heat excess, gamma rays" Siena Workshop
+on the Status of Cold Fusion in Italy - Siena 24-25 March 1995
+25. F.PIANTELLI "Reproducible hydrogen loading of Nickel and evidences for heat
+production and nuclear effects" - Siena Workshop on the Status of Cold Fusion in Italy
+-Siena 24-25 March 1995
+26. S.VERONESI "Gamma-Rays and neutron activation in the Siena Experiment" Siena
+Workshop on the Status of Cold Fusion in Italy - Siena 24-25 March 1995
+27. N. WADA - "Nuclear Fusion in Solid Pd/D2 Gas" - Abstract No.335 JCCF5
+28. DR.COUPLAND et al. "Some Observations Related to the Presence of Hydrogen
+and Deuterium in Palladium", Frontiers a/Cold Fusion ICCF3, Tokyo 1993, pag 275
+29. D.R.ROLLISON et al, Proc. IACCFJ - Salt Lake City 1990 (pag.36)
+30. J.DASH and D.DIMAN "Localized Melting and Microcomposition of a Pd
+Cathode after Electrolysis in Acidified Heavy Water" Fusion Facts 5, 12 (1993)
+31. J.DASH et al. "Surface Morphology and Microcomposition of Palladium Cathodes
+after Electrolysis in Acidified Light and Heavy Water" Fus. Technal. 26(4T),299 (1994)
+32. G.SHANI et al. "Evidence for a background neutron enhanced fusion in deuterium
+absorbed palladium" , Solid State Comm. 72,53 (1989)
+33. Y.IWAMURA et al. "Observation of Anomalous Nuclear Effects in D-Pd Systems"
+Fus. Technol. 26(4T), 160 (1994)
+34. M.NAKADA et al. "Energy of Neutrons Emitted in Heavy Water Electrolysis"
+Frontiers of Cold Fusion ICCF3, Tokyo 1993 (pag.173)
+35. A.B.GARG et al. "Protocol for Controlled and Rapid Loading/Unloading of H2/D2 
+Gas from Self-Heated Palladium Wires to Trigger Nuclear Events" - Abstract No.309
+ICCF5
+36. M.ALGUER6 et al. "An Interpretation of Some Post-Electrolysis Nuclear Effects in
+Deuterated Ti" submitted to Fus. Technol.
+37. M.NAKADA et al. "A Role of Litium for the Neutron Emission in Heavy Water
+Electrolysis" Frontiers of Cold Fusion 
+ICCF3, Tokyo 1993 (pag.581)
+38. P.GLUCK "Why Technology First" Infinite Energy 1,26 (1995)
+39. H.KOZIMA "A Phenomenological Model of the Cold Fusion in Pd(Ti)-D System"
+ICCF4 Abstracts (T 2.5 )
+Session 4 
+Theory and Modelling 

@@ -1,0 +1,179 @@
+Introduction 
+
+The literature on cold fusion has indicated the existence of a threshold in the concentration of 
+Deuterium in Palladium, above which it is possible to observe an anomalous heat released from 
+deuterated samples (1,2). Therefore, research in Cold Fusion at the ENEA Frascati laboratory 
+in recent years has focused on studies of material science aimed to qualify Pd samples to be 
+used in the electrolytic experiments. The main goal was to find those characteristics that lead to 
+high loading ratios (x>0.9 D/Pd) with a high grade of reproducibility. The flow mass 
+calorimetry discussed in previous papers (3) could then be used to look for the heat excess 
+produced during electrolysis with a precision of 20 mW in a range from 0 to 20 W. 
+
+It is well known that hydrogen dissolves in many metals and occupies interstitial sites in the 
+host lattice. It expands the Pd lattice parameter up to 10%: this process generates stress fields 
+when substantial concentration differences (strong gradients or coexistence of different phases) 
+are created. The stress field can inhibit the hydrogen (deuterium) diffusion process (4). In order 
+to overcome such limitations two strategies can be tested: first, to modify the loading dynamics 
+avoiding the growth of high gradients; second, to prepare a material with a suitable 
+microstructure to minimise the solute concentration gradient. Therefore, we studied the 
+influence of dynamics on the loading process and found that different mechanisms of loading 
+can be activated according to the sequence of thermodynamic states of the system during the 
+loading itself. Moreover we tested the relevance of the material microstructure (i.e., grain size, 
+dislocations) on the capability of the lattice to absorb hydrogen (and deuterium) and came to the 
+definition of a grain size range in which the maximum loading ratio achievable is reproducibly 
+greater than 0.9 D/Pd . Such studies and the analysis of the modifications induced by the 
+loading on the Pd lattice showed that the sequence of steps leading to the transformation from 
+Pd to high concentration PdH(D) is very complex and can easily explain the lack of 
+reproducibility that commonly occurs in cold fusion experiments. 
+
+We also studied thin films of Pd, deposited on both metallic and polymeric substrates, to 
+obtain a uniform distribution of solute into the lattice. The Pd films have been characterised via 
+Scanning Electron Microscopy and X-Ray Diffraction. Several configurations, such as Pd on 
+Ni, Pd-Ni multilayer, Pd on polymers have been tested to optimise the deuterium absorption. 
+The substrates were chosen in order to minimise the mechanical stress due to lattice expansion 
+during the hydride/deuteride formation. 
+
+We are interested as well to investigate the nature of the heat excess produced in deuteride 
+samples. The most common idea is that a 4He atom formation from the D+D reaction releases 
+about 24 MeV to the lattice and is responsible for the excess heat measured. We designed and 
+built a system able to detect 4He atoms present in the gases evolving from an electrolytic cell. 
+The system is based on high resolution mass spectroscopy. However, because of the intrinsic 
+difficulty due to the high level of 4He contamination in the normal air (5 ppm), we built a 
+system in which all gases except the nobles are pumped out before reaching the mass 
+spectroscope quadrupole. This feature together with a static mode of operation in which gases 
+evolving from the cell are accumulated and analysed once per day, will allow us to make an 
+estimate of the 4He atoms contained in each sample and to correlate that with the heat excess 
+measured. 
+
+
+Experimental Procedure 
+
+We envisaged two possible approaches to avoid inhibiting the diffusion process. First, 
+concentration gradients (and adverse stresses) can be minimised during the loading sequence. 
+During the hydride formation the higher concentration β phase (D/Pd > 0.67 at 20°C) grows 
+into a lattice together with a very dispersed concentration of H(D) atoms called α phase. This 
+corresponds to regions with a very different lattice parameter (from 3.894 A to 4.025 A). At the 
+borders of the different phases a very high strain is accumulated, its intensity comparable with 
+the yield stress of the material. Thus, samples loaded passing through or avoiding the two phase 
+coexistence region show very different metallurgical properties, i.e., the yield stress can be 
+reduced of about 50% if α+β region is skipped during the loading (4). The second approach is 
+to relieve the stresses generated in the metal through dislocation slipping, i.e., anodic stripping 
+during electrolysis. Both procedures lead to a small increase in concentration (5). 
+
+These results can't be considered conclusive, but they show that the stress field inside the Pd 
+lattice is largely responsible for the inhibition of the diffusion process. 
+
+We then went on to study the influence of the concentration of short circuit paths 
+(dislocations and grain boundaries) on the diffusive process. The hydrogen diffusion coefficient 
+is an order of magnitude higher in the grain boundaries than in the bulk. Thus, by increasing the 
+grain boundary density (i.e., small average grain size) the diffusive process may take place in 
+two steps: first, hydrogen is incorporated in the grain boundary network where the diffusivity 
+is higher, permeating the material bulk without generating substantial strain, owing to the small 
+volume fraction involved. In a second step it can be incorporated into the grain bulk by a 
+diffusion process where the grain boundary acts as a source. 
+
+A maximum loading ratio is observed in a certain range of the grain size, around 50-60 
+microns. We attribute this effect to the presence of two factors that enhance the Η diffusion 
+into the material and show an opposite trend with grain size: a smaller grain size reduces the 
+strength of the stress field at the sample surface since the grain boundary network plays a 
+leading role as a fast Η (D) transporter through the sample bulk; the softening of the 
+mechanical properties induced by a larger grain size can activate stress relief mechanisms based 
+on plastic deformation. Traces of this effect can be found in the morphology of the sample 
+surface after the Η (D) charging procedure. 
+
+Even though the statistics are quite poor, there is an increase of the successful experiments 
+if the correct grain size of the Palladium is selected (see Fig. 1). The effect observed was very 
+small, but it is quite clear and outside the error of the calorimeter. 
+
+Electrodes prepared in Frascati have operated in an SRI calorimeter following the above-
+described loading protocols and results similar to ours have been obtained (6). 
+
+We then started an investigation of Pd thin films (1000-2000 Å), to test whether lower 
+dimensions can help in relieving the stress. Nickel seems, at a glance, the best metallic substrate 
+in Pd hydride preparation for the following reasons: Pd and Ni have both the fcc structure; they 
+both expand their lattice by dissolving Hydrogen atoms in the volume; the difference between 
+strains can help in reducing the stress at the boundary between film and substrate. 
+
+FIG. l Reproducibility of heat excess experiments for samples with average grain size 50-60 
+microns. 
+
+We also tested different substrates such as polymers, but the data interpretation is 
+complicated in this case by the modification of the polymer physical-chemical characteristics 
+during the electrolysis. Thus we will report only the results obtained on Nickel substrates. 
+
+We prepared Nickel plates (100 µm thick) coated with thin (1000-2000 Å) Palladium film by 
+thermal deposition in vacuum. Because of the difference in the thickness of the two metals and 
+their similar resistivity, it is impossible in this case to distinguish between the Pd and the Ni 
+resistance and hence to monitor the loading ratio in real time during the experiment. However, it 
+can be said that the presence of Pd on the Ni surface increases the Hydrogen absorption (see 
+Fig.2). 
+
+FIG. 2 Effect of deuterium loading on Pd-Ni. Black triangles Pd film on Ni. Open circles 
+pure Ni. 
+
+We also measured the behaviour of heat excess versus the total R/R0 and found always a 
+similar trend in all the experiments done (see Fig.3). We always measured an exponential 
+behaviour of the heat excess versus the R/R0 parameter (i.e. the concentration). 
+
+FIG. 3 Heat excess of a Pd film (1000 Å) on Ni plate. 
+
+A new test of thin film behaviour in electrolysis in heavy water has been done. We built a 
+multiple cathode cell in order to test whether the excess power measured is a multiple of the one 
+measured in a simple cell. The scale up of the system is probably the best way to persuade the 
+skeptics of the reality of the heat excess production. 
+
+The first configuration used is a set of parallel electrodes: anode-cathode-anode-cathode-
+anode. This geometry is very complex from an electrochemical point of view, because we don't 
+know exactly the primary current distribution, the electric field configuration and the boundary 
+field effect. Further, there are still unsolved problems with the film adhesion on the substrates 
+that limits the electrolysis time to few days. 
+
+At first glance parallel electrodes work in parallel with the same voltage and almost equal 
+currents, but this is correct only if all electrodes behave the same way. The comparison between 
+double and single cathode cells shows an increase of the excess heat measured (see Fig. 4). 
+
+FIG. 4 Comparison between single and multiple electrode configuration. Open square: 2 
+cathodes, closed triangles and squares: 1 cathode. 
+
+Traces of 4He are searched for in gases evolving from the electrochemical cell. 
+
+The method chosen consists in: accumulating the gases evolving from the cell in a small 
+volume containing a catalyst for a time of the order of a day, expanding it into a volume 
+containing activated charcoal at 77 K, thus eliminating water vapour, oxygen and other 
+condensables, expanding once more the remaining gas in a stainless steel UHV chamber 
+equipped with a high resolution mass spectrometer, pumping with a getter pump which 
+eliminates all but noble gases. When steady state is reached, the signal of the spectrometer gives 
+a measure of the number of 4He atoms collected. The piping connecting the electrolytic cell and 
+the detecting system has been tested against pollution from the 4He contained in the 
+atmosphere, giving an upper limit of 1013 atoms per sample due to air pollution. 
+The first tests aimed to calibrate the system have been made, with satisfactory results. 
+
+The first measurements will be made on the gases evolving from the electrolytic cells; 
+further developments will allow the detection of the gases embedded in the electrodes through 
+the metal dissolution. 
+
+
+Conclusions 
+
+Summing up the results reported above, it is possible to state that there has been a steady, 
+even if not fast, progress in pursuing the main aims of the ENEA-Frascati program, which are 
+the realisation of reproducible experimental conditions for the production of heat excess and the 
+subsequent search for nuclear ashes. The study of both the dynamic of the absorption and the 
+metallurgy of Pd (4,5), has allowed the reaching of reproducible high loading (>0.9 D/Pd) and 
+the quasi-reproducibility of heat excess production. The use of thin Pd films, just started, seems 
+very promising both for obtaining high loading ratios and testing the scalability of the 
+phenomenon. The use of a static measure of the possible presence of 4He, intended as a nuclear 
+ash of the D+D nuclear reaction, is in phase of assessment, and faces this problem in an original 
+fashion, very promising for the neatness of its results. 
+
+
+BIBLIOGRAPHY 
+
+1. M. McKubre et al. "Frontiers of Cold Fusion", Proceedings of the 3th International 
+Conference on Cold fusion (ICCF3), ED. by H. Ikegami, Universal Academy Press Inc. 
+Tokyo, 365 (1993) 
+2. K. Kunimatsu et al., same as above 
+3. L.Bertalot et al., same as above 
+4. A. De Ninno, A. La Barbera, V. Violante, Phys. Rev. B, 56 (1997), 2417 
+5. A. De Ninno, A. La Barbera, V. Violante, J.Alloys and Comp. , 253-254 (1997), 181-184 
+6. M. McKubre (Stanford Research Institute), private communication. 

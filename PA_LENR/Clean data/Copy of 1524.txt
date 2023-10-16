@@ -1,0 +1,3140 @@
+1 Introduction 
+
+Energy has become a major topic of concern for human welfare both in the U.S. and worldwide. 
+
+Many agencies and other entities of the U.S. Government have energy-related responsibilities. 
+
+These responsibilities cover all phases of the energy "life cycle" – production, conversion, 
+transport, storage, and consumption – and many associated topics, such as human health and 
+environmental protection. Meeting these responsibilities involves actions and decisions that 
+result in formulation of energy policy by each entity. Many agencies have particular energy 
+policymaking obligations for emerging energy technologies. 
+
+Cold fusion (referred to here as “low energy nuclear reactions”, LENR) is a potential but 
+controversial new source of energy. If LENR's potential could be realized, it would be a major 
+source of abundant, inexpensive, and environmentally benign energy. LENR could therefore 
+contribute substantially to meeting the missions, goals and responsibilities of many government 
+agencies. Many changes have occurred in the LENR field since it was rejected shortly after it 
+was announced in 1989. These changes indicate that LENR's potential may yet be realized, 
+which would be beneficial to human welfare and could help government agencies meet their 
+energy-related responsibilities.  
+
+A paper describing the changes in LENR prospects in relation to government agency 
+responsibilities (“LENR Responsibilities”) is currently being prepared . The objective of this 
+White Paper is to set the stage for the LENR Responsibilities paper by identifying the most 
+relevant agencies, describing their overall mission and goals, and characterizing their specific 
+energy-related interests and responsibilities. The focus of this White Paper is on agency 
+responsibilities for emerging energy technologies and their secondary impacts generally. The 
+LENR Responsibilities paper can then address LENR specifically for government entities.  
+ Grimshaw, T.W., and D.J. Nagel, in preparation. U.S. Government Agencies Responsible for Research and 
+Exploitation of Energy from Low Energy Nuclear Reactions.  
+
+Relevant Government Entities 
+The decentralized character of U.S. energy policy results in an overall policy that is asserted to 
+be the cumulative policies of individual agencies. Many government agencies and other entities 
+have energy-related missions and responsibilities. As noted, these responsibilities encompass the 
+full energy life cycle and the associated impacts on social systems and the environment. Some 30 
+entities have been identified and characterized. They are shown in Table 1.  
+
+Methods and Information Sources  
+Readily available information in the public domain has been obtained to accomplish this review 
+of agencies’ energy-related obligations. Sources were accessed to characterize the 
+responsibilities of each agency as represented by the agency itself. The main sources were 
+agency websites, online brochures, strategic plans, manuals, procedures, annual reports, and 
+other statements of agency mission, vision, and values. The topics covered for each agency are as 
+follows:  
+− Overall mission 
+− Background, origins, and history 
+− Organization 
+− Energy interests and responsibilities 
+− Emerging energy technologies – realization and addressing impacts  
+These agency descriptions then set the stage for delineating opportunities for LENR to help the 
+agencies accomplish their mission and meet their responsibilities. 
+
+Table 1. Selected U.S. Government Entities with Energy Policy Responsibilities 
+Congressional Entities 
+U.S. Senate Committee on Energy and Natural Resources 
+U.S. House of Representatives Committee on Energy and Commerce 
+Congressional Research Service (CRS) 
+Entities of the Executive Branch 
+Executive Office 
+Office of Science and Technology Policy (OSTP) 
+National Science and Technology Policy Council (NSTP) 
+President’s Council of Advisors on Science and Technology (PCAST) 
+U.S. Department of Energy 
+DOE Headquarters 
+Advanced Research Projects Agency – Energy (ARPA-E) 
+Office of Energy Efficiency and Renewable Energy (EERE) 
+National Renewal Energy Laboratory (NREL) 
+National Laboratories: General 
+Los Alamos National Laboratory (LANL) 
+U.S. Department of Defense 
+DoD Headquarters 
+Energy & Power Community of Interest (COI) 
+Defense Advanced Research Projects Agency (DARPA) 
+Defense Threat Reduction Agency (DTRA) 
+U.S. Navy 
+Office of Naval Research (ONR) 
+Naval Research Laboratory (NRL) 
+U.S. Department of Commerce – Patent and Trade Office (PTO) 
+U.S. National Aeronautics and Space Administration (NASA) 
+U.S. Environmental Protection Agency (EPA) 
+Government-Supported Entities 
+National Science Foundation (NSF) 
+National Academies (NAS/NAE/NAM) 
+Other Agencies (Having Fewer Opportunities for LENR) 
+Federal Energy Regulatory Commission (FERC) 
+Energy Information Administration (EIA) 
+National Energy Technology Laboratory (NETL) 
+U.S. Intelligence Community 
+Director of National Intelligence (DNI) 
+Central Intelligence Agency (CIA) 
+Defense Intelligence Agency (DIA) 
+Intelligence Advance Research Projects Activity (IARPA) 
+
+
+2 Congressional Entities 
+
+Both the U.S. Senate and House of Representatives are deeply involved in energy-related 
+concerns. Much of Congress’ energy policy work is accomplished by energy-focused 
+committees, the Senate Committee on Energy and Natural Resources and the House Committee 
+on Energy and Commerce. Energy policy development in both houses is supported by the 
+Congressional Research Service (CRS), which develops information to support policymaking 
+and other legislative activities. 
+
+U.S. Senate Committee on Energy and Natural Resources 
+The principal entity of the Senate with energy-related responsibilities is the Committee on 
+Energy and Natural Resources ("E&R Committee"). Its jurisdiction is broad and includes energy 
+resources and development, regulation, nuclear energy, surface mining, and federal leasing for 
+coal, oil, gas, and other minerals . The E&R Committee traces its jurisdiction back to 1816, 
+when the Committee on Public Lands, one of the Senate’s first standing committees, was 
+formed . Much of the Committee's energy-related work is done by the Subcommittee on Energy 
+(“Subcommittee”). Its jurisdiction is also broad and includes :
+− R&D for nuclear, coal, and synthetic fuels 
+− Department of Energy (and its National Laboratories): 
+− Global climate change 
+− New technologies R&D 
+− Commercialization of new technologies 
+− Utility policy 
+− Oil, gas, and coal production and distribution 
+ About the Committee. Online. Available: http://www.energy.senate.gov/public/index.cfm/about-the-committee. 
+ History. Online. Available: http://www.energy.senate.gov/public/index.cfm/history. 
+
+
+5 Energy. Online. Available: http://www.energy.senate.gov/public/index.cfm/subcommittees?p=Energy. 
+
+
+The E&R Committee has been active in addressing energy issues under the current leadership. A 
+wide-ranging energy synopsis ("Energy 20/20") was produced in 2013 , and a major new energy 
+bill has been introduced (Energy Policy Modernization Act of 2016, EPMCA , ). Energy 20/20 
+
+
+7 8
+
+covers many of the energy issues facing the U.S. in seven sections: 
+− Producing More 
+− Consuming Less 
+− Clean Energy Technology 
+− Modernizing Energy Delivery Infrastructure 
+− Effective Government 
+− Environmental Responsibility 
+− An Energy Policy that Pays for Itself 
+The goals set forth in Energy 20/20 are to: 1) provide a basis for conversation about the future 
+direction of energy policy; 2) outline policies leading to U.S. independence from OPEC oil 
+imports by 2020; and 3) fund scientific research critical to continued progress . The report notes 
+a consensus that it is in the national interest to "make energy abundant, affordable, clean, diverse, 
+and secure" . The challenge is to "align federal law and policy with that consensus."  A number 
+of white papers were prepared – apparently related to Energy 20/20 – that address a variety of 
+energy-related topics including the following:  
+ Murkowski, L., 2013. Energy 20/20 – a Vision for America’s Energy Future. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/energy-20-20-a-vision-for-america-s-energy-future. 
+ A Bill To Provide for the Modernization of the Energy Policy of the United States, and for Other Purposes. Online. 
+
+Available: http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=56a384df-cffa-44eb-a1f4-
+540a72ab6b0f. 
+ S. 2012 – The Energy Policy Modernization Act (EPMA) – A Bipartisan Bill for a New Era of Energy in America. 
+
+Online. Available: http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-4815-
+9D05-387798EFAEA7. 
+ Murkowski, L., 2013. Energy 20/20 – a Vision for America’s Energy Future – Fact Sheet. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-4815-9D05-387798EFAEA7. 
+ Murkowski, L., 2013. Energy 20/20 - A Vision for America's Energy Future. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=c691a024-1004-4d49-8de9-a976ce0d2bf3. 
+ Senator Murkowski Letter, February 4, 2013. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=570b3312-b8ee-4afa-91ec-6f11dafac7c6. 
+− The Narrowing Window  
+− The Energy-Water Nexus  
+− Powering the Future  
+− A Signal to the World  
+In July 2015 the E&R Committee unveiled EMPCA (S2012) as a broad, bipartisan energy bill. 
+
+The bill is described as follows on the Committee’s website : 
+The Energy Policy Modernization Act builds on recent technological breakthroughs and promises to bring 
+substantial benefits to American families and businesses while protecting the environment. It will save 
+energy, expand domestic supplies, facilitate investment into critical infrastructure, protect the grid, boost 
+energy trade, improve the performance of federal agencies, and renew programs that have proven effective. 
+
+The end result will be more affordable energy, more abundant energy, and more functional energy systems 
+throughout the U.S. to strengthen and sustain our energy renaissance. Best of all, the Energy Policy 
+Modernization Act achieves these goals in a fiscally responsible manner. 
+
+The bill includes five titles that include many of the topics in Energy 20/20 : 
+I. Efficiency 
+II. Infrastructure 
+III. Supply 
+IV. Accountability 
+V. Conservation Reauthorization.  
+
+EMPCA is the first comprehensive energy legislation introduced since enactment of the Energy 
+Independence and Security act in 2007 . 
+
+The broad jurisdiction and span of activities of the E&R Committee make it an excellent forum 
+for promoting emerging energy technologies and dealing with their associated impacts. 
+ The Narrowing Window – America’s Opportunity to Join the Global Gas Trade, 2013. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=d647e1a3-f2fb-42e6-9d0d-d65e23fb058f. 
+ The Water-Energy Nexus - Interlinked Resources That Are Vital For Economic Growth and Sustainability, 2014. 
+
+Online. Available: http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=9d529812-659b-43a1-a2d1-
+ef0e67894636. 
+ Powering the Future – Ensuring That Federal Policy Fully Supports Electric Reliability, 2014. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=3c485574-7d19-4ee9-ae0e-c7e8f986032e. 
+ A Signal to the World – Renovating the Architecture of U.S. Energy Exports, 2014. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=546d56f0-05b6-41e6-84c1-b4c4c5efa372. 
+ S. 2012 – The Energy Policy Modernization Act (EPMA) – A Bipartisan Bill for a New Era of Energy in 
+America. Online. Available: http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-
+4815-9D05-387798EFAEA7. 
+ Murkowski, L., Chairman, Senate Committee on Energy and Natural Resources. 2015. The Energy Policy 
+Modernization Act of 2015 (S. 2012) - Section-by-Section Analysis. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=6fc41b34-2dff-4a05-b7bc-8ec912a98e16. 
+ Senate Begins Debate on Comprehensive Bipartisan Energy Bill, New York Times, January 27, 2016. Online. 
+
+Available: http://www.nytimes.com/2016/01/28/us/politics/senate-bipartisan-energy-legislation.html?_r=0. 
+
+U.S. House of Representatives Committee on Energy and Commerce 
+The U.S House Energy and Commerce Committee (“E&C Committee”) has the main 
+responsibility for energy policy in the House of Representatives. It has the broadest jurisdiction 
+of any House Committee , including national energy policy, energy resources (exploration, 
+production, storage, supply, marketing, pricing, and regulation), energy conservation, energy 
+information, electrical power production, nuclear energy, and oversight of the Department of 
+Energy and Federal Energy Regulatory Commission . The E&C Committee was created in 1795 
+and is the oldest standing committee in the House.  
+
+The E&C Committee’s Subcommittee on Energy and Power also has broad energy-related 
+jurisdiction, including national energy policy, fossil energy, renewable energy, nuclear energy 
+and facilities, synthetic and alternative fuels, energy conservation, energy information, 
+exploration and production, and energy efficiency .  
+
+The E&C Committee’s Oversight Plan  addresses a number of energy and environment issues, 
+including national energy policy, electricity market, management of the U.S. Department of 
+Energy and its national laboratories, the Nuclear Regulatory Commission, climate change, and 
+investment in the green energy sector. The E&C Committee’s recent “Views and Estimates of 
+the President’s Budget”  addressed several items in the budgets for the Department of Energy – 
+Energy Efficiency and Renewable Energy, Electricity Delivery and Energy Reliability, Nuclear 
+Energy, Fossil Energy, and Energy Information Administration. For the Nuclear Regulatory 
+Commission, the items covered were the High-Level Waste Repository Program and Operating 
+ Committee History. http://energycommerce.house.gov/about/committee-history. 
+ U.S. House of Representatives Committee On Energy And Commerce, 2013. Activity Report for the One 
+Hundred Twelfth Congress Together with Minority Views. Online. Available: http://www.gpo.gov/fdsys/pkg/ 
+CRPT-112hrpt746/pdf/CRPT-112hrpt746.pdf. 
+ Energy and Power Subcomittee. Online. Available: http://energycommerce.house.gov/subcommittees/energy-and-
+power. 
+ U.S. House of Representatives Committee on Energy and Commerce, 2015. 114th Congress Oversight Plan. 
+
+Online. Available: http://energycommerce.house.gov/sites/republicans.energycommerce.house.gov/files/ 
+analysis/114OversightPlan.pdf. 
+ U.S. House of Representatives Committee on Energy and Commerce, 2015. Views and Estimates on the 
+President’s Budget for Fiscal Year 2016. Online. Available: http://energycommerce.house.gov/sites/ 
+republicans.energycommerce.house.gov/files/analysis/ECFY2016ViewsEstimates.pdf. 
+and New Reactors. Global Climate Change and greenhouse gas issues were addressed in the 
+Environment section of the Views and Estimates of the Budget document.  
+
+Like the Senate E&R Committee, the House E&C Committee is an optimum candidate for 
+supporting emerging energy technologies and dealing with their impacts. 
+
+Congressional Research Service (CRS) 
+The Congressional Research Service (CRS) is a public policy research entity that “works 
+exclusively for the United States Congress, providing policy and legal analysis to committees 
+and Members of both the House and Senate, regardless of party affiliation.”  Its mission is to 
+serve “the Congress throughout the legislative process by providing comprehensive and reliable 
+legislative research and analysis that are timely, objective, authoritative and confidential, thereby 
+contributing to an informed national legislature.”   
+The CRS works closely with Members of Congress and congressional committees at all stages of 
+the legislative process “from the early considerations that precede bill drafting, through 
+committee hearings and floor debate, to the oversight of enacted laws and various agency 
+activities.”  CRS does not make policy or legislative recommendations but instead develops 
+information to support policymaking by Members of Congress and their staff.  
+
+CRS was created by Congress in 1970 from the former Legislative Reference Service, which had 
+existed since 1946. It is located in Washington, D.C. and has about 600 employees, most of 
+whom are policy analysts, attorneys, and information professionals. The agency is 
+organizationally within the Library of Congress and has five research divisions:  
+
+
+1. American Law 
+
+2. Domestic Social Policy 
+
+3. Foreign Affairs, Defense and Trade 
+
+4. Government and Finance 
+
+5. Resources, Science and Industry 
+
+ Congressional Research Service Careers. Onlne. Available: http://www.loc.gov/crsinfo/. 
+ History and Mission. Online. Available: http://www.loc.gov/crsinfo/about/history.html. 
+ About CRS. Online. Available: http://www.loc.gov/crsinfo/about/. 
+
+
+27 Areas of Research. Online. Available: http://www.loc.gov/crsinfo/research/. 
+
+
+CRS performs analysis and provides assistance to Congress “in the form of reports, memoranda, 
+customized briefings, seminars, digitally recorded presentations, information obtained from 
+governmental and nongovernmental databases, and consultations in person and by telephone.”  
+Its values are to be confidential, authoritative, objective, and nonpartisan.  Support to Congress 
+includes several categories of services and products :  
+− Congressionally Distributed Products Providing Research and Analysis on Legislative 
+Issues 
+− Electronically Accessible Products and Services 
+− Responses to Individual Members and Committees 
+− Seminars, Institutes, and Other Programs 
+− Outreach 
+− Legislative Summaries, Digests, and Compilations 
+− Other Services 
+CRS work is accomplished at the direction of a member of Congress or one of the congressional 
+committees. Because its research services are focused on Congress, and by statutory mandate in 
+the laws appropriating its funds, CRS does not routinely make its reports available to the public. 
+
+The lack of complete availability to the public has become somewhat controversial, so the CRS 
+has made its policy clear on access to its reports with several interrelated precepts:   
+− CRS is a resource dedicated solely to meeting the needs of Congress.  
+− The confidential relationship with Congress is preserved by restricting access to CRS 
+products. 
+− Communications from the CRS to Congress are confidential and constitutionally 
+protected.  
+− The role of CRS staff as “adjunct staff” to the Congress could be altered by speaking 
+directly to the public. 
+ Brudnick, I., 2011. The Congressional Research Service and the American Legislative Process. CRS Report for 
+Congress, RL33471. Online. Available:   https://www.fas.org/sgp/crs/misc/RL33471.pdf. 
+ Values. Online. Available: http://www.loc.gov/crsinfo/about/values.html. 
+ Mazanec, M.B., Director, 2015. Annual Report of the Congressional Research Service of the Library of Congress 
+for Fiscal Year 2014 to the Joint Committee on the Library, United States Congress. March. Online. Available: 
+https://www.fas.org/sgp/crs/crs10.pdf. 
+ Mullhollan, D.P, 2007. Access to CRS Reports. CRS Memo, April 18. Online. Available: 
+https://www.fas.org/sgp/crs/crs041807.pdf. 
+− If the audience becomes the public at large, CRS would no longer be focused on 
+congressional needs. 
+− Responding to congressional constituents as members of the public could threaten the 
+dialogue between Members of Congress and their constituents. 
+
+Over 700 new CRS reports are produced each year; almost 4,000 are in existence.  Much of 
+CRS research has in recent years apparently been devoted to responses to constituents of 
+Members of Congress, perhaps resulting in less emphasis on policy research.  
+
+Because energy policy has been an important issue for the U.S. Congress since the major crises 
+in the 1970s, CRS has produced a number of reports to help inform congressional action on 
+energy topics. Energy-related research is conducted in the Resources, Industry and the 
+Environment Division , whose coverage includes Energy and Minerals as one of six sections. 
+
+This section addresses seven topics: 
+− Conventional energy supply, prices and security 
+− Energy efficiency and conservation 
+− Renewable and alternative energy 
+− Emerging energy technology 
+− Environmental effects of energy production and consumption 
+− Energy infrastructure, taxation and regulation 
+− Mineral production and use 
+One example CRS energy policy report is a recent description of energy in the U.S., which 
+provides broad coverage, including oil, natural gas, coal, electricity, renewables, and 
+conservation and energy efficiency.  Other energy-related CRS reports address contemporary 
+ Congressional Research Reports. Online. Available: 
+https://en.wikipedia.org/wiki/Congressional_Research_Service_reports. 
+ Kosar, K.R., 2015. Why I Quit the Congressional Research Service. Washington Monthly. January/February. 
+
+Online. Available: 
+http://www.washingtonmonthly.com/magazine/januaryfebruary_2015/features/why_i_quit_the_congressional_r053
+467.php?page=all. 
+ Resources, Science and Industry Division. Online. Available: http://www.loc.gov/crsinfo/research/div-rsi.html. 
+ Ratner, M., and C. Glover, 2014. U.S. Energy: Overview and Key Statistics. CRS Report R40187. June. Online. 
+
+Available: https://www.fas.org/sgp/crs/misc/R40187.pdf. 
+energy and water issues
+, , energy tax policy , loan guarantees , renewable energy , and 
+
+
+36 37
+
+energy storage . A recent CRS Annual Report  described five energy-specific Resources, 
+Industry, and the Environment topics:  
+− Crude Oil and Petroleum Products 
+− Liquefied Natural Gas and Crude Oil Exports 
+− Electric Utilities 
+− Propane Storage 
+− EPA's Proposed Clean Power Plan 
+This report also listed the Keystone XL Pipeline and hydraulic fracturing as two of the major 
+issues addressed by the CRS in FY2014. Another recent energy policy report outlined three 
+major U.S. policy goals since the oil embargos of the 1970s : 
+− Assure a secure supply of energy 
+− Keep energy costs low enough to meet the needs of a growing economy 
+− Protect the environment during energy production and consumption 
+Replacing conventional energy sources was addressed specifically, with emphasis on replacing 
+fossil fuels with biofuels (ethanol and non-food sources) and renewable sources such as wind, 
+solar (concentrating and photovoltaic), and geothermal sources. It is noted that a principal 
+emphasis of past congressional programs has been on environmental concerns, especially 
+ Carter, N.T., 2013. Energy-Water Nexus: The Energy Sector’s Water Use. CRS Report R43199. August. Online. 
+
+Available: https://www.fas.org/sgp/crs/misc/R43199.pdf. 
+ Copeland, C., 2014. Energy-Water Nexus: The Water Sector’s Energy Use. CRS Report R43200. January. Online. 
+
+Available: https://www.fas.org/sgp/crs/misc/R43200.pdf. 
+ Sherlock, M.F., and J.M. Stupak, 2015. Energy Tax Incentives: Measuring Value Across Different Types of 
+Energy Resources. CRS Report R41953. March. Online. Available: https://www.fas.org/sgp/crs/misc/R41953.pdf. 
+ Brown, P., 2012. Loan Guarantees for Clean Energy Technologies: Goals, Concerns, and Policy Options. CRS 
+Report R42152. January. Online. Available: https://www.fas.org/sgp/crs/misc/R42152.pdf. 
+ Cunningham, L.J., and B.A. Roberts, 2013. Renewable Energy and Energy Efficiency Incentives: A Summary of 
+Federal Programs. CRS Report R40913. October. Online. Available: https://www.fas.org/sgp/crs/misc/R40913.pdf. 
+ Parfomak, P.W., 2012. Energy Storage for Power Grids and Electric Transportation: A Technology Assessment. 
+
+CRS Report R42455. March. Online. Available: https://www.fas.org/sgp/crs/misc/R42455.pdf. 
+ Mazanec, M.B., Director, 2015. Annual Report of the Congressional Research Service of the Library of Congress 
+for Fiscal Year 2014 to the Joint Committee on the Library, United States Congress. March. Online. Available: 
+https://www.fas.org/sgp/crs/crs10.pdf. 
+ Yacobucci, B.D., 2015. Energy Policy: 114th Congress Issues. CRS Report R42756. January. Online. Available: 
+https://www.fas.org/sgp/crs/misc/R42756.pdf. 
+greenhouse gas emissions and global climate change. It is also noted that development of new 
+industrial products from increasing renewable energy sources has been a significant theme of 
+past programs. Also, nuclear power is being considered as a viable alternative to fossil energy in 
+spite of its long history as a target of environmental concerns.  
+
+If either the Senate or the House chooses to take up energy-related issues, including emerging 
+technologies and their related impacts, the Resources, Industry, and Environment Division of the 
+CRS is well positioned and highly qualified to provide the necessary information and evaluation 
+support for Congressional policymaking. 
+
+
+3 Executive Entities 
+
+The President, along with Congress, provides leadership for energy policymaking for the nation. 
+
+Many agencies and other entities in the Executive branch have energy-related responsibilities 
+and develop energy policy. These entities are within the Executive Office of the President, are 
+Cabinet-level Departments, or function as independent agencies.  
+
+Executive Office 
+Three entities within the Executive Office have responsibilities for policy development on 
+science and technology, including energy-related topics – the Office of Science and Technology 
+Policy (OSTP), the National Science and Technology Council (NSTC), and the President’s 
+Council of Advisors on Science and Technology (PCAST).  
+
+The OSTP mission has three components : 1) provide the President and his senior staff with 
+accurate, relevant, and timely scientific and technical advice on all matters of consequence; 2) 
+ensure that the policies of the Executive Branch are informed by sound science; and 3) be sure 
+that the scientific and technical work of the Executive Branch is properly coordinated so as to 
+provide the greatest benefit to society. It was established in 1976 to advise the President on the 
+effects of science and technology on domestic and international affairs. The OSTP leads 
+interagency efforts to develop and implement sound science and technology policies and 
+budgets, and to work with the private sector, state and local governments, the science and higher 
+education communities, and other nations toward this end . OSTP’s four strategic goals and 
+objectives may be summarized as follows: 
+
+
+1. Maximize the contribution of U.S. investments in science and technology to 
+economic prosperity, public health, environmental quality, and national security 
+2. Facilitate the processes of government programs in science and technology 
+3. Sustain core relationships required to understand U.S. scientific and technical efforts, 
+evaluate advances, and identify policy proposals 
+ About OSTP. Online. Available: https://www.whitehouse.gov/administration/eop/ostp/about 
+45 About OSTP. Online. Available: https://www.whitehouse.gov/administration/eop/ostp/about. 
+4. Maintain staff with expertise to provide policy advice to the President on the 
+scientific and technical aspects of government policies and programs. 
+
+The National Science and Technology Council (NSTC) and President’s Council of Advisors on 
+Science and Technology (PCAST) are also within the Executive Office of the President. The 
+NSTC coordinates science and technology policies among the Federal entities conducting 
+research and development. The NSTC is chaired by the President, and its membership consists of 
+the Vice President, the Director of the OSTP, and Cabinet Secretaries and Agency Heads having 
+significant science and technology responsibilities. The NSTC objective is to establish national 
+goals for Federal science and technology investments. It was established by Executive Order in 
+
+
+1993. Most of its work is accomplished in five committees: Environment, Natural Resources and 
+
+Sustainability; Homeland and National Security; Science, Technology, Engineering, and Math 
+(STEM) Education; Science; and Technology.  
+
+PCAST is an advisory group to the President that includes leading U.S. scientists and engineers 
+that was created in 2009 . It is co-chaired by the Director of the OSTP and makes policy 
+recommendations regarding science, technology, and innovation where they are key to 
+strengthening the economy and forming workable policies.  
+
+The OSTP, NSTC, and PCAST must be fully engaged in energy-related issues to provide 
+executive leadership and meet their policy advisory responsibilities for science and engineering 
+policy. The U.S. Global Climate Change Research Program, for example, is steered by the 
+NSTC’s Subcommittee on Global Change Research and is overseen by the OSTP . Realization 
+of emerging energy technologies and dealing with their impacts are prime candidates for 
+Executive Office energy policy leadership. 
+
+U.S. Department of Energy (DOE) 
+The U.S. Department of Energy (DOE) is the primary agency dealing with energy-related topics 
+and policymaking. The DOE is a cabinet-level Department whose mission is to ensure America’s 
+ About PCAST. Online. Available: https://www.whitehouse.gov/administration/eop/ostp/pcast/about. 
+ About USGCRP – Organization & Leadership. Online. Available: 
+http://www.globalchange.gov/about/organization-leadership. 
+security and prosperity by addressing its energy, environmental and nuclear challenges through 
+transformative science and technology solutions . 
+
+Four components of DOE in particular are relevant to policies and practices for non-fossil 
+emerging energy technologies. The Advanced Research Projects Agency – Energy (ARPA-E), 
+the Office of Energy Efficiency and Renewable Energy (EERE), the National Renewable Energy 
+Laboratory (NREL), and the National Laboratories, with Los Alamos National Laboratory 
+(LANL) as a primary example). The National Energy Technology Laboratory (NETL) is focused 
+on fossil energy technology and is not included in this White Paper. Also, DOE’s Energy 
+Information Agency (EIA) deals more with developing and providing data and less with energy 
+policymaking and is not included. DOE Headquarters is described below first, followed by each 
+of the four selected components. 
+
+DOE Overall 
+The DOE is organized into three principal components headed by Undersecretaries who report to 
+the office of the Secretary – Nuclear Security, Science and Energy, and Management and 
+Performance . In addition, sixteen organizational units also report to the Office of the Secretary, 
+including the Energy Information Administration, four Power Administrations (Western, 
+Southwestern, Southeastern, and Bonneville), Congressional and Intergovernmental Affairs, 
+International Affairs, and Energy Policy and Systems Analysis. 
+
+The Secretary of Energy receives advice and recommendations from an advisory board 
+(Secretary of Energy Advisory Board, SEAB) on such topics as basic and applied R&D, 
+economic and national security policy, education issues, and other activities as directed by the 
+Secretary . The SEAB consists of 19 members (including a chair and vice chair) having a broad 
+range of expertise, such as environmental protection, economics, law, medicine, and policy.  
+
+The DOE was created under the provisions of the Department of Energy Organization Act of 
+
+
+1977 as the twelfth cabinet-level department. Two long-standing "programmatic traditions" 
+
+ Mission. Online. Available: http://energy.gov/mission. 
+ Organization Chart. Online. Available: http://energy.gov/leadership/organization-chart. 
+
+
+50 Secretary of Energy Advisory Board. Online. Available: http://energy.gov/seab/secretary-energy-advisory-board. 
+
+within the Federal government were brought together in the reorganization. : 1) defense 
+responsibilities that included the design, construction, and testing of nuclear weapons dating 
+from the Manhattan Project; and 2) a loosely knit amalgamation of energy-related programs 
+scattered throughout the government. Two factors brought these traditions together: 
+− Nuclear energy development and commercialization by the Atomic Energy 
+Commission (the Federal government's most significant energy project of the 1970s) 
+− Efforts to better coordinate Federal energy policy programs in response to the energy 
+crises of the 1970s 
+DOE took responsibility for a framework for a national energy plan, long-term and high-risk 
+energy R&D, energy conservation and regulatory programs, the nuclear weapons program, and 
+energy data collection and analysis. 
+
+Since its beginnings, the DOE has varied its emphasis in response to changing national needs . 
+
+Energy development and regulation took priority during the late 1970s. Nuclear weapons 
+research, development, and production were emphasized in the 1980s. After the end of the Cold 
+War, focus was placed on the cleanup of the nuclear weapons complex and nuclear 
+nonproliferation in the 1990s. Since 2000, the DOE has placed priority on ensuring U.S. security 
+and prosperity. 
+
+The DOE Strategic Plan  includes three main goals, one for each of the Undersecretary 
+organizations noted above. The most significant unit for emerging energy technologies is 
+Science and Energy, whose goal includes three Strategic Objectives: 
+
+
+1. Advance the goals and objectives in the President’s Climate Action Plan by 
+supporting prudent development, deployment, and efficient use of “all of the above” 
+energy resources that also create new jobs and industries 
+2. Support a more economically competitive, environmentally responsible, secure and 
+resilient U.S. energy infrastructure 
+ A Brief History of the Department of Energy. Online. Available: http://energy.gov/management/office-
+management/operational-management/history/brief-history-department-energy. 
+ A Brief History of the Department of Energy. Online. Available: http://energy.gov/management/office-
+management/operational-management/history/brief-history-department-energy. 
+ U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: http://www.energy.gov/sites/prod 
+/files/ 2014/04/f14/2014_dept_energy_strategic_plan.pdf. 
+3. Deliver the scientific discoveries and major scientific tools that transform our 
+understanding of nature and strengthen the connection between advances in 
+fundamental science and technology innovation 
+The third Strategic Objective in turn encompasses three strategies: 
+− Conduct discovery-focused research to increase our understanding of matter, 
+materials and their properties through partnerships with universities, national 
+laboratories, and industry  
+− Provide the nation’s researchers with world-class scientific user facilities that enable 
+mission-focused research and advance scientific discovery 
+− Use the national laboratory system and leverage partnerships with universities and 
+industry to conduct mission-focused research 
+Particularly at the Headquarters level, DOE is a principal player in developing policy toward and 
+providing support for emerging energy technologies as well as dealing with their secondary 
+impacts. 
+
+Advanced Research Projects Agency – Energy (ARPA-E) 
+Advanced Research Projects Agency – Energy (ARPA-E) is particularly relevant for supporting 
+new technologies as sources of energy. Its mission is to catalyze and accelerate the creation of 
+transformational energy technologies by making investments in the early stages of 
+development . ARPA-E advances high-potential high-impact energy technologies that are too 
+early for private-sector investment. The agency focuses on transformational projects that have 
+the potential to radically improve U.S. economics, prosperity, national security, and 
+environmental well being . The ARPA-E model is based on the successful Defense Advanced 
+Research Projects Agency (DARPA), which is credited with many innovations  and is described 
+below in Section 3.3.3.  
+ Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: http://arpa-
+e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+ About (ARPA-E). Online. Available: http://arpa-e.energy.gov/?q=arpa-e-site-page/about. 
+ The Advanced Research Projects Agency-Energy: Overview. Online. Available: http://arpa-
+e.energy.gov/sites/default/files/ARPA-E_FactSheet.pdf. 
+
+The impetus for creation of ARPA-E was a report by the National Academies, “Rising Above the 
+Gathering Storm , which recommended an agency similar to DARPA within the DOE. The 
+agency was authorized in 2007 (The America COMPETES Act), and its initial projects were 
+funded in 2009 . Over 400 energy technology projects have been funded since 2009.  
+
+ARPA-E seeks to streamline the program development and awards process with two models – 
+“focused” programs and “open” solicitations . The focused programs are developed by ARPA-E 
+program directors to address specific program challenges. Open funding opportunities pursue 
+novel approaches to energy innovations that are outside the scope of existing focused 
+programs . ARPA-E's process advances early-stage technologies to market with four 
+strategies : 
+− Strategic Partnerships with private companies to advance along a clear path to market 
+- after their time with ARPA-E 
+− New Company Formation - to facilitate the commercialization process for 
+technologies  
+− Public-Development - with other government entities to further advance ARPA-E 
+sponsored projects 
+− Follow-On Investment - from private investors during and after an ARPA-E award. 
+
+By the very nature of its creation, existence, and mission, ARPA-E is a prime entity for 
+researching and realizing emerging energy technologies. 
+
+Office of Energy Efficiency and Renewable Energy (EERE) 
+The Office of Energy Efficiency and Renewable Energy (EERE) is another DOE component 
+whose emphasis is on investigation of emerging energy technologies. Its mission is “to create 
+ National Academies Committee on Science, Engineering, and Public Policy. 2007. Rising Above the Gathering 
+Storm: Energizing and Employing America for a Brighter Economic Future. National Academies Press. Online. 
+
+Available: http://www.nap.edu/catalog/11463/rising-above-the-gathering-storm-energizing-and-employing-america-
+for. 
+ ARPA-E History. Online. Available: http://arpa-e.energy.gov/?q=arpa-e-site-page/arpa-e-history. 
+ Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: http://arpa-
+e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+ Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: http://arpa-
+e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+ The Advanced Research Projects Agency-Energy: Overview. Online. Available: http://arpa-
+e.energy.gov/sites/default/files/ARPA-E_FactSheet.pdf. 
+and sustain American leadership in the global transition to a clean energy economy” . This 
+mission includes high-impact research, development, and demonstration to make clean energy as 
+affordable and convenient as traditional forms of energy as well as breaking down barriers to 
+market entry. EERE is “at the center of creating the clean energy economy today. EERE leads 
+the U.S. Department of Energy's efforts to develop and deliver market-driven solutions for 
+energy-saving homes, buildings, and manufacturing; sustainable transportation; and renewable 
+electricity generation” .  
+
+EERE invests in clean energy technologies that strengthen the economy, reduce dependence on 
+foreign oil, and protect the environment . EERE leverages partnerships with the private sector, 
+state and local governments, DOE national laboratories, and universities to transform the 
+nation’s economic engine to one powered by clean energy. The agency was formed in 2001 
+when it was renamed and reorganized from a predecessor organization, the Office of 
+Conservation and Solar Energy . EERE’s five guiding principles are as follows : 
+1. High Impact: Is this a high impact problem? 
+2. Additionality: Will the EERE funding make a large difference relative to what the 
+private sector (or other funding entities) is already doing? 
+3. Openness: Have we made sure to focus on the broad problem we are trying to solve 
+and be open to new ideas, new approaches, and new performers? 
+4. Enduring U.S. Economic Benefit: How will this EERE funding result in enduring 
+economic benefit to the United States? 
+5. Proper Role Of Government: Why is what we are doing a proper high impact role of 
+government versus something best left to the private sector to address on its own? 
+ EERE FY2016 Budget Request. Online. Available: http://energy.gov/sites/prod/files/2015/02/f19/FY%202016 
+%20Rollout%20EERE%20Stakeholder%20Presentation.pdf. 
+ Mission. Online. Available: http://energy.gov/eere/about-us/mission. 
+ EERE Fact Sheet, 2011. Online. Available: http://energy.gov/sites/prod/files/2013/11/f5/51111.pdf. 
+ AllGov – EERE History. Online. Available: http://www.allgov.com/departments/department-of-energy/office-of-
+energy-efficiency-and-renewable-energy?agencyid=7410. 
+ EERE FY2016 Budget Request. Online. Available: http://energy.gov/sites/prod/files/2015/02/f19/FY%202016 
+%20Rollout%20EERE%20Stakeholder%20Presentation.pdf. 
+
+The Assistant Secretary at the head of EERE reports to DOE’s Undersecretary for Science and 
+Energy . The principal organization components are Energy Efficiency, Renewable Energy, 
+Business Operations, and Strategic Programs . 
+
+With its principal emphasis on developing new technologies for clean energy, EERE is a prime 
+example of a government agency having emerging energy technology responsibilities.  
+
+National Renewal Energy Laboratory (NREL) 
+The National Renewal Energy Laboratory (NREL) is organizationally within EERE and has a 
+similar emphasis on realizing energy from new technologies. NREL's mission is to develop 
+“clean energy and energy efficiency technologies and practices, advance related science and 
+engineering, and provide knowledge and innovations to integrate energy systems at all scales.”  
+NREL is the primary “research facility for the Department of Energy’s Office of Energy 
+Efficiency and Renewable Energy (OEERE), Office of Science, and Office of Electricity 
+Delivery and Energy Reliability”. The NREL also provides technical assistance, energy planning 
+and economic development for many organizations and industries in the U.S. The laboratory is 
+managed for the DOE by the Alliance for Sustainable Energy, LLC, a partnership between 
+Battelle Memorial Institute and MRIGlobal (Midwest Research Institute). Roughly 80% of the 
+NREL’s funding comes from the OEERE, with the balance coming from other DOE and outside 
+sources.”  NREL is “the only federal laboratory dedicated to the research, development, 
+commercialization, and deployment of renewable energy and energy efficiency technologies.”  
+NREL performs analysis to inform “policy and investment decisions as energy-efficient and 
+renewable energy technologies advance from concept to commercial application to market 
+penetration. With objective, technology-neutral analysis, NREL aims to increase the 
+understanding of energy policies, markets, resources, technologies, and infrastructure and 
+ Organization Chart. Online. Available: http://energy.gov/leadership/organization-chart. 
+ EERE Organization Chart. Online. Available: http://energy.gov/eere/downloads/office-energy-efficiency-and-
+renewable-energy-organization-chart. 
+ Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-programs.html. 
+ National Renewable Energy Laboratory – What it Does. Online. Available: 
+http://www.allgov.com/departments/department-of-energy/national-renewable-energy-laboratory?agencyid=7406. 
+
+
+71 Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-programs.html. 
+
+connections between these and economic, environmental, and security priorities.”  The 
+agency’s major research topics are as follows:  
+Biomass 
+Geothermal Energy 
+Biosciences 
+Hydrogen & Fuel Cells 
+Buildings Efficiency 
+Materials Science 
+Chemistry & Nanoscience 
+Photovoltaics 
+Computational Science 
+Solar 
+Concentrating Solar Power 
+Technology Deployment 
+Electricity Integration 
+Transportation 
+Energy Analysis 
+Water Power 
+Energy Systems Integration 
+Wind Energy 
+Four of the agency’s major components are: 
+− Energy Systems Integration Facility 
+− National Biotechnology Center 
+− National Center for Photovoltaics 
+− National Wind Technology Center 
+NREL was initiated “as the Solar Energy Research Institute (SERI) in 1977, spurred by national 
+concern during the 1973 oil embargo. President George H.W. Bush elevated SERI to a national 
+laboratory, and its name was changed to the National Renewable Energy Laboratory. Whereas 
+SERI’s roots were dedicated to harnessing power from the sun, NREL is dedicated to all forms 
+of renewable energy and energy efficiency – and to working with industry to transfer innovative 
+ideas into the marketplace.”  
+NREL receives about $380 million a year in funding. It has “a unique, world-class workforce. 
+
+The staff at NREL is highly educated, with 31% holding doctorate degrees and another 32% with 
+master’s degrees. The staff includes citizens from 55 countries, with the majority (57%) 
+contributing in core research and development.”  Like its parent organization (EERE), NREL 
+ Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-programs.html. 
+ Research. Online. Available: http://www.nrel.gov/research/. 
+ Leading the Way to Energy Systems Research. Online. Available: http://www.nrel.gov/docs/fy15osti/64071.pdf. 
+ University of Colorado Leeds School of Business – NREL, National Renewable Energy Laboratory. Online. 
+
+Available: http://www.nrel.gov/about/assets/pdfs/nrel-economic-impact-summary-and-case-studies-2015.pdf. 
+provides a good example of an agency actively involved in developing emerging energy 
+technologies. 
+
+National Laboratories 
+DOE's National Laboratories are also well positioned to facilitate realization of emerging 
+technologies for energy production. Los Alamos National Laboratory (LANL) in particular has a 
+long tradition of scientific research and technology development for energy applications, 
+including new sources. The National Laboratories are described below overall followed by 
+LANL as a salient example. 
+3.2.5.1 National Laboratories Overall 
+DOE’s National Laboratories tackle the critical scientific challenges of our time. They address 
+large-scale, complex research and development challenges with a multidisciplinary approach and 
+emphasis on translating basic science to innovation . Specifically, they: 
+− Conduct research of the highest caliber in physical, chemical, biological, and 
+computational and information sciences that advances our understanding of the world 
+around us; 
+− Advance U.S. energy independence and leadership in clean energy technologies to 
+ensure the ready availability of clean, reliable, and affordable energy; 
+− Enhance global, national, and homeland security by ensuring the safety and reliability 
+of the U.S. nuclear deterrent, helping to prevent the proliferation of weapons of mass 
+destruction, and securing the nation’s borders; and 
+− Design, build, and operate distinctive scientific instrumentation and facilities, and 
+make these resources available to the research community. 
+
+The National Laboratories were formed during a period of immense investment prior to World 
+War II and have served as the nation’s leaders in scientific innovation for over 60 years. The core 
+of the Laboratories is a first-rate workforce of research scientists, engineers, and support 
+personnel. The National Laboratories steward vital scientific and engineering capabilities that are 
+essential to U.S. continued science and technology primacy . They design, build, and operate 
+unique instrumentation and facilities that support tens of thousands of scientists and engineers 
+ About the National Labs. Online. Availabfle: http://energy.gov/about-national-labs.  
+ U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: 
+http://energy.gov/leadership/organization-chart. 
+from academic, government, and industry. They partner with industry and others to integrate 
+fundamental and applied research for the benefit of the economy . There are 17 labs with origins 
+ranging from 1931 to 2005 : 
+The National Laboratories have long been at the forefront of successful scientific research and 
+technology development. Not only are they well positioned and fully capable of realizing the 
+benefits of emerging energy technologies (and dealing with their impacts), they have been doing 
+so for many decades.  
+3.2.5.2 Los Alamos National Laboratory (LANL) 
+LANL is a primary candidate among the National Laboratories for realization of emerging 
+energy technologies. Its mission is to “solve national security challenges through scientific 
+excellence”, and its vision is “to deliver science and technology to protect our nation and 
+promote world stability” . The lab has expressed the following six values: 
+
+
+1. Service: Serving our country, our partners, our community, and each other 
+
+2. Excellence: Ensuring timely mission execution through scientific, operational, and 
+
+business excellence 
+
+
+3. Integrity: Building trust through intellectual honesty, ethical conduct, and individual 
+
+responsibility 
+
+
+4. Teamwork: Collaborating with colleagues and partners, respecting diverse opinions 
+
+and backgrounds, vigorously debating alternatives, and coming together to achieve 
+the best solutions 
+
+
+5. Stewardship: Being good stewards of the taxpayers’ dollars, the Laboratory, our 
+
+community, and the environment  
+
+
+6. Safety and Security: Ensuring that safety and security are integral to everything we do 
+
+ Eight National Labs Offer Streamlined Partnership Agreements to Help Industry Bring New Technologies to 
+Market, 2012. Online. Available: http://energy.gov/articles/eight-national-labs-offer-streamlined-partnership-
+agreements-help-industry-bring-new. 
+ U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: 
+http://energy.gov/leadership/organization-chart. 
+
+
+80 Mission, Vision, Values. Online. Available: http://www.lanl.gov/mission/index.php. 
+
+
+LANL’s four goals are as follows :  
+
+
+1. Deliver national nuclear security and broader global security mission solutions; and 
+
+2. Foster excellence in science and engineering disciplines essential for national security 
+
+missions; by 
+
+
+3. Attracting, inspiring, and developing world-class talent to ensure a vital future 
+
+workforce; and 
+
+
+4. Enabling mission delivery through next-generation facilities, infrastructure, and 
+
+operational excellence. 
+
+LANL has a history of 70 years of science and innovation . It was established in 1943 for the 
+Manhattan Project, in which the atomic bomb was designed and built to achieve victory in World 
+War II. The Laboratory has continued to focus on the U.S. nuclear deterrent but has also 
+expanded and diversified to “solve other emerging national security and energy challenges” . 
+
+LANL has five major components, each headed by a Principal Associate Director, as follows : 
+− Science, Technology & Engineering 
+− Weapons Program 
+− Global Security 
+− Operations & Business 
+− Capital Projects. 
+
+The Laboratory conducts fundamental science in a number of areas as a foundation to meet its 
+responsibilities, such as energy and infrastructure security, measures to counter nuclear and 
+biological terrorist threats, and nuclear nonproliferation : 
+− High-Energy and Applied Physics and Theory 
+− High-Performance Computing 
+− Dynamic and Energetic Materials Science 
+ Proud Legacy, Bold Future – Los Alamos National Laboratory Strategic Plan 2014. Online. Available: 
+http://www.lanl.gov/newsroom/_assets/pdf/los-alamos-national-laboratory-strategic-plan-2014.pdf. 
+ Our History. Online. Available: http://www.lanl.gov/about/history-innovation/index.php. 
+ Proud Legacy, Bold Future – Los Alamos National Laboratory Strategic Plan 2014. Online. Available: 
+http://www.lanl.gov/newsroom/_assets/pdf/los-alamos-national-laboratory-strategic-plan-2014.pdf. 
+ Organization Chart. Online. Available: http://www.lanl.gov/about/leadership-governance/organization-chart.php. 
+ Los Alamos Overview. Online. Available: http://www.lanl.gov/about/_assets/docs/fact-sheets/los-alamos-
+overview.pdf. 
+− Superconductivity 
+− Quantum Information 
+− Advanced Materials 
+− Bioinformatics 
+− Theoretical and Computational Biology 
+− Chemistry 
+− Earth and Environmental Science 
+− Energy and Infrastructure Security 
+− Engineering Sciences And Applications 
+− Nanotechnology 
+As part of its Energy Security responsibilities, LANL is searching for “energy alternatives to 
+propel the nation towards sustainability by seeking solutions to its dependence on oil and coal 
+and to mitigate the effects of climate change” . The Laboratory applies its expertise “to those 
+areas in which energy security needs intersect with its scientific strengths and capabilities.”  
+LANL’s strengths in materials science allow it to make advances in sustainable energy 
+generation, transmission, and storage . The Laboratory’s work includes high-temperature 
+superconductivity, biological and solar energy production, fuel cells, advanced hydrogen storage, 
+and smart grid technology. Its work addresses adaptations to increasing energy demands, 
+including the impacts of climate change and the capture, use, and storage of carbon dioxide.  
+
+LANL had 10,827 employees in 2015, of which 22% have earned a Ph.D. It is located in 
+northern New Mexico about 35 miles northwest of Santa Fe . It has 1,280 buildings on 36 
+square miles of property belonging to the DOE. 
+
+LANL is a government entity that is well positioned and particularly well qualified to conduct 
+the necessary research and development for emerging energy technologies – and has been doing 
+so successfully since its beginnings over 70 years ago.  
+ Energy Security Solutions. Online. Available: http://www.lanl.gov/mission/energy-security.php. 
+ Energy Security Solutions. Online. Available: http://www.lanl.gov/mission/energy-security.php. 
+
+
+88 Facts, Figures. Online. Available: http://www.lanl.gov/about/facts-figures/. 
+
+
+U.S. Department of Defense (DoD) 
+The mission of the U.S. Department of Defense (DoD) is to provide the military forces needed to 
+deter war and to protect the security of our country . It is America’s oldest and largest 
+government agency. The President is the Commander-in-Chief of the U.S. Armed Forces, and 
+the DoD is headed by the Secretary of Defense.  
+
+DoD Overall 
+The principal components of the DoD are the three Departments (Army, Navy, and Air Force), 
+the Unified Combatant Commands (UCCs), the Office of the Secretary of Defense (OSD), and 
+the Joint Chiefs of Staff (JCS) . In general, the three Departments (Services) train and equip the 
+fighting forces, and the nine UCCs have overall command of the forces in military operations. 
+
+The JCS consists of senior leaders who advise the Secretary of Defense. The OSD is the 
+executive support organization for the Secretary of Defense. It provides policy development, 
+management of resources, overall planning, and oversight of programs. It is also responsible for 
+managing the DOD Agencies and Field Activities organizations . 
+
+The DoD is one of the largest single consumers of energy in the world and therefore has a very 
+high interest in energy security. The agency is by far the largest energy consumer in the U.S. 
+government (about 80% of the total) . DoD's energy policy, as established by a 2014 DoD 
+Directive, is "to enhance military capability, improve energy security, and mitigate costs in its 
+use and management of energy" . The Directive states that the DoD will develop and acquire 
+technologies that meet the agency's energy needs and manage risks.  
+
+The critical role of energy in enabling DoD to accomplish its mission has become increasingly 
+recognized in the agency. DoD’s energy consumption is managed in two primary categories – 
+ About the Department of Defense (DoD). Online. Available: http://www.defense.gov/About-DoD. 
+ The United States Government Manual 2013. DEPARTMENT OF DEFENSE. Online. Available: 
+https://www.gpo.gov/fdsys/pkg/GOVMAN-2013-11-06/pdf/GOVMAN-2013-11-06.pdf. 
+ DOD 101: Introductory Overview of the Department of Defense. Online. Available: 
+http://www.defense.gov/About-DoD/DoD-101#Our%20Bottom%20Line. 
+ Department of Defense Energy Initiatives: Background and Issues for Congress. Congressional Research Service 
+7-5700. Online. Available: https://www.fas.org/sgp/crs/natsec/R42558.pdf. 
+ Department of Defense. DIRECTIVE NUMBER 4180.01. April 16, 2014. Online. Available: 
+http://www.dtic.mil/whs/directives/corres/pdf/418001_2014.pdf. 
+operations and installations. Energy is basic to assuring military capability and the ability to 
+project and sustain U.S. military power . This recognition led to the creation in 2010 of the 
+position of Assistant Secretary of Defense for Operational Energy and Programs
+, . The 2016 
+
+
+95 96
+
+Operational Energy Strategy sets forth the objective of increasing war fighting capability by 
+including energy throughout future force development and reducing risks from operational 
+energy vulnerabilities vulnerability .  
+
+Overall responsibility for Operational Energy is in the Office of the Assistant Secretary of 
+Defense for Energy, Installations, and Environment . This Office also has responsibility for 
+Installation Energy, which issues facility energy policy and guidance  and oversees the DoD 
+Facility Energy Program
+. This Program focuses on three primary objectives: 1) expand 
+supply; 2) reduce demand; and 3) adopt future forces and technology
+. The fixed installations 
+are critical in ensuring military readiness and account for about 30% of DOD energy use. 
+
+Given the large quantities of energy that DoD consumes, and the increasingly recognized 
+importance of energy in accomplishing its mission, the agency maintains a strong position in 
+developing and emerging energy technologies. 
+
+Energy & Power Community of Interest (COI) 
+DoD maintains an extensive research capability to develop the technologies to accomplish its 
+mission, including assuring energy security. The Assistant Secretary of Defense for Research and 
+Engineering (within OSD) provides strategic guidance and coordination of the science and 
+ Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%20Strategy%20WEBc.pdf. 
+ Fiscal Year 2014 Operational Energy Annual Report June 2015. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/FY14%20OE%20Annual%20Report.pdf. 
+ Powering the U.S. military: An Interview with the Pentagon's Sharon Burke. McKinsey & Co. Our Insights – 
+Aerospace & Defense. April 2013. Online. Available:   http://www.mckinsey.com/industries/aerospace-and-
+defense/our-insights/powering-the-us-military#0. 
+ Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%20Strategy%20WEBc.pdf. 
+ Office of the Assistant Secretary of Defense for Energy, Installations, and Environment. About Us. Online. 
+
+Available: http://www.acq.osd.mil/eie/AboutUs.html 
+ About Installation Energy. Online. Available: http://www.acq.osd.mil/eie/IE/FEP_index.html. 
+ Installation Energy Office. Online. Available: http://www.acq.osd.mil/eie/IE/FEP_index.html. 
+ Annual Energy Management Report. Fiscal Year 2014. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/IE/FY%202014%20AEMR.pdf. 
+technology investment across the DoD
+. DOD's "Research and Engineering (R&E) Enterprise" 
+is broad and includes the military departments, DARPA, DTRA, DoD laboratories, other 
+government laboratories, university affiliated research centers, government laboratories of allies, 
+and the industrial base
+. The R&E Enterprise Guidance outlines three “enduring principles” – 
+eliminate or mitigate technology-based national security threats, enable new or extended military 
+capabilities, and create technology surprise
+. The DoD is a potent engine of technological 
+innovation and has unparalleled energy demands for national defense
+. At the same time, the 
+agency’s primary mission is to deter war and protect the country’s security, which may pose 
+limitations on its contributions to energy-related technological advances. 
+
+Reliance 21 has been set up as an overarching framework for DOD's Science and Technology 
+planning and coordination
+. Under Reliance 21, Communities of Interest (COIs) have been 
+established in 17 areas of focus to review the alignment of R&E programs, identify gaps, and 
+help prioritize funding
+. The role of the COIs is to help deliver maximum science and 
+technology impact with reduced risk by engaging the participants and enhancing collaboration
+The COIs were established as a mechanism to encourage coordination and collaboration among 
+agencies in cross-cutting technology focus areas. They provide a forum for coordinating science 
+and technology strategies across DoD, sharing new ideas, technical directions, and technology 
+opportunities
+ Mission History. Online. Available: http://www.acq.osd.mil/chieftechnologist/mission/history.html. 
+ Research & Engineering Enterprise. Online. Avaliable: http://www.acq.osd.mil/chieftechnologist/index.html. 
+ Communities of Interest – Collaborating on Technology Challenges. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/ATL-Magazine_COIs_Shaffer_March2015.pdf. 
+ Energy Innovation at the Department of Defense: Assessing the Opportunities. Online. Available: 
+http://cspo.org/wp-content/uploads/2014/11/Energy-Innovation-at-DOD.pdf 
+ Reliance 21 Operating Principles. Online. Available: 
+http://www.acq.osd.mil/chieftechnologist/publications/docs/Reliance21OpPrinciples-Jan2014.pdf. 
+ Communities of Interest. Online. Available: http://www.acq.osd.mil/chieftechnologist/COIs.html. 
+ The Role of the Communities of Interest (COIs). Online. Available: 
+http://www.dtic.mil/ndia/2015SET/WedStubstad.pdf. 
+ Defense Innovation Marketplace: Communities of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/coi.html. 
+
+In response to DoD's strong interest in energy and development of new energy-related 
+technologies, one of the Reliance 21 COIs is Energy and Power (E&P)
+. The purpose of the 
+
+
+110 111
+
+E&P COI is to provide technologies to enable intelligent power and energy management to 
+enhance operational effectiveness
+The E&P COI is set up to align with the Operational Energy Strategy
+ as well as the energy 
+strategies of the Services. Other drivers are the high cost of fuel, greater power demands of 
+advanced weapons and sensors, and systems that are unique to the military and are not supported 
+by commercial R&D
+. The principal areas of focus ("technology taxonomy") are as follows
+− Power Generation/Energy Conversion 
+o Tactical, deployable power systems 
+o Conventional, alternative, renewable sources 
+− Energy Storage 
+o Decrease size, weight, cost 
+o Increase capabilities in extreme conditions 
+− Power Control and Distribution 
+o Smart energy networks 
+o New and improved capability and efficiency 
+− Thermal Transport and Control 
+o Manage heat, enable higher power density 
+o Advanced thermal science and technology 
+− Electrochemical Conversion 
+o Increase power density, efficiency, robustness 
+o Motors, generators, actuators 
+ Energy & Power Community of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EPCOIPoster.pdf. 
+ The Role of the Communities of Interest (COIs). March 25, 2015. Online. Available: 
+http://www.dtic.mil/ndia/2015SET/WedStubstad.pdf. 
+ DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA20150325.pdf. 
+ Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%20Strategy%20WEBc.pdf. 
+ U.S. Military Energy and Power S&T Presented to: Session 2: Innovative Energy Solutions for the Military: 
+Emerging Technology Challenges Innovative Energy Solutions for Military Applications (IESMA 2014). Online. 
+
+Available: 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=2&ved=0ahUKEwj6i9iwpO7MAh
+XLJB4KHft2BPsQFggiMAE&url=https%3A%2F%2Fwww.iesma.info%2Fdownload%2F125%2F8(2)_shaffer.pdf
+&usg=AFQjCNEJaj8cGQgO3mnJwepqrcu2LpBPkg&sig2=N0NnedAE6XMecjYyXopwxA. 
+ DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA20150325.pdf. 
+
+Within the DoD, the E&P COI is closely engaged with the capabilities and facilities of the three 
+Services – Army (3 labs), Navy (5 labs), and Air Force (2 labs)
+. The E&P COI also works 
+closely with DOE National Labs in several areas
+, including Oak Ridge's National 
+Transportation Center, Sandia's Distributed Energy Tech Lab, and Pacific Northwest's Energy 
+Infrastructure Operations Center.  
+
+With its focus on Operational Energy
+, the E&P COI recognizes four major areas – soldiers, 
+forward operating bases (base camps), ground and air vehicles, and tactical operations centers 
+(combat outpost)
+. Five areas of opportunity have been identified to support war fighters
+− Tactical Unit Energy Independence 
+− Autonomous Platform Power 
+− Electric Weapons and High Power Sensors 
+− Adaptive Power Networks 
+− Energy Optimized Platforms 
+Five gaps have been identified for Operational Energy requirements
+− High efficiency energy conversion and harvesting 
+− Energy integrated system and simulation design and simulation 
+− High efficiency propulsion and platform design 
+− Environmental control systems 
+− Flexible and adaptive power distribution 
+ DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA20150325.pdf. 
+ U.S. Military Energy and Power S&T Presented to: Session 2: Innovative Energy Solutions for the Military: 
+Emerging Technology Challenges Innovative Energy Solutions for Military Applications (IESMA 2014). Online. 
+
+Available: 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=2&ved=0ahUKEwj6i9iwpO7MAh
+XLJB4KHft2BPsQFggiMAE&url=https%3A%2F%2Fwww.iesma.info%2Fdownload%2F125%2F8(2)_shaffer.pdf
+&usg=AFQjCNEJaj8cGQgO3mnJwepqrcu2LpBPkg&sig2=N0NnedAE6XMecjYyXopwxA 
+ Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%20Strategy%20WEBc.pdf. 
+ DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA20150325.pdf. 
+ Energy & Power Community of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EPCOIPoster.pdf. 
+ DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA20150325.pdf. 
+
+Clearly, emerging energy technologies are at the core of the E&P COI purpose and research 
+programs.  
+
+Defense Advanced Research Projects Agency (DARPA) 
+DARPA's mission is to "make the pivotal early technology investments that create or prevent 
+technological surprise for U.S. national security"
+. Another statement of DARPA's mission is 
+"to identify and pursue high-risk, high-payoff research initiatives across a broad spectrum of 
+science and engineering disciplines and to transform these initiatives into important, radically 
+new, game-changing technologies for U.S. national security".
+
+DARPA was created in February 1958 as a direct response to the launch by the Soviet Union of 
+Sputnik 1 in 1957 and of the first Intercontinental Ballistic Missile (ICBM) also in that year
+Since this traumatic experience of technological surprise, DARPA has owned responsibility for 
+keeping the U.S. out front in cultivating breakthroughs for national security. 
+
+The focus of DARPA continues to be on game-changing military capabilities, but its efforts also 
+lead to major technological advances in modern civilian society
+. As an entity whose primary 
+focus is on technological advances
+, DARPA seeks to maintain a culture of creativity and risk 
+tolerance. Achieving major impact means for DARPA taking on high-risk in prospect of high 
+payoff
+. The agency recognizes four factors that define its creative culture and explain its 
+history of innovation – limited tenure and the urgency it promotes, a sense of mission, trust and 
+autonomy, and risk-taking and tolerance of failure
+ DARPA: Creating Breakthrough Technologies for National Security. Online. Available: 
+http://www.darpa.mil/attachments/CreatingBreakthroughechnologiesforNationalSecurity%20Update.pdf. 
+ Defense Sciences Office (DSO) Office-wide. Online. Available: 
+https://www.fbo.gov/index?s=opportunity&mode=form&id=028fd5d5bf74f32be40d0528a3b0e5ba&tab=core&_cvi
+ew=0. 
+ Where the Future Becomes Now. Online. Available: http://www.darpa.mil/about-us/timeline/where-the-future-
+becomes-now. 
+ About DARPA. Online. Available: http://www.darpa.mil/about-us/about-darpa. 
+ DARPA Today: Anticipating and Meeting New Challenges. Online. Available: 
+http://www.darpa.mil/attachments/DARPATodayAnticipatingandMeetingNewChallenges.pdf. 
+ Our Research. Online. Available: http://www.darpa.mil/our-research. 
+
+
+128 Innovation at DARPA. Online. Available: http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf. 
+
+
+The Heilmeier questions ("catechism") continues to be an invaluable tool for illuminating the 
+process of refining and judging which are the most promising ideas
+− What are you trying to do? Articulate your objectives using absolutely no jargon. 
+− How is it done today, and what are the limits of current practice? 
+− What's new in your approach and why do you think it will be successful? 
+− Who cares? If you are successful, what difference will it make? 
+− What are the risks and payoffs? 
+− How much will it cost? 
+− What are the midterm and final "exams" to check for success? 
+
+DARPA is viewed within DOD as the disruption engine behind the department's technology 
+enterprise
+. It works on-cutting-edge technologies that are fundamentally changing the future 
+and seeks to bring that future into today. Despite the daunting security challenges that motivate 
+its work, the atmosphere within DARPA is persistently one of excitement and even joy
+
+
+131 132
+
+DARPA has no research and development facilities of its own, but it has become known as an 
+incubator of innovation by providing thought leadership, community-building frameworks, 
+research management, funding, and other support elements required to bring transformative ideas 
+to consequential new realities
+. The agency is located in Arlington, Virginia, where it has about 
+
+
+220 employees. It pursues its objectives through programs and utilizing a portfolio approach. 
+
+
+DARPA has six technology offices
+ where its 200-plus programs are managed by almost 100 
+program managers. The budget for FY 2016 was $2.87 billion
+. The agency reaches for 
+transformational change rather than incremental advances. It does not perform in isolation, but 
+ Innovation at DARPA. Online. Available: http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf. 
+ DARPA Brings Game-Changing Technology and Its Creators to Pentagon. Online. Available: 
+http://www.defense.gov/News-Article-View/Article/757279/darpa-brings-game-changing-technology-and-its-
+creators-to-pentagon. 
+ Statement by Arati Prabhakar, Director, DARPA, before the Subcommittee on Emerging Threats and 
+Capabilities, Armed Services Committee, U.S. House of Representatives. Online. Available: 
+http://www.darpa.mil/attachments/HASC-ETC-PrabhakarA-20160224.pdf. 
+ Statement by Arati Prabhakar, Director, DARPA, before the Subcommittee on Emerging Threats and 
+Capabilities, Armed Services Committee, U.S. Senate. Online. Available: 
+http://www.darpa.mil/attachments/DARPA2016SASCTestimony4-1-2016.pdf. 
+ Where the Future Becomes Now. Online. Available: http://www.darpa.mil/about-us/timeline/where-the-future-
+becomes-now. 
+ DSO Offices. Online. Available: http://www.darpa.mil/about-us/offices. 
+
+
+135 Budget. Online. Available: http://www.darpa.mil/about-us/budget. 
+
+works within an “innovation ecosystem that includes academic, corporate, and governmental 
+partners”.
+
+Emphasis is placed at DARPA on transitioning its research results into applicable, real-world 
+domains of military capabilities for the civilian sector
+. Transitions can follow different paths, 
+such as to one or more Services (e.g., Army, Navy, Air Force) for further development or to an 
+element of the private sector where commercial forces come into play. 
+
+By making pivotal early investments in technologies to prevent strategic surprise, DARPA has 
+made a number of notable achievements
+. These accomplishments include the conceptual basis 
+for the precursor to the Internet, advances supporting speech recognition, touch-screen displays, 
+and wireless capabilities as the core of smartphones and tablets. DARPA has also made advances 
+in aircraft stealth (low observability) technology, infrared night imaging, size reduction of GPS 
+receivers (enabling change of "dumb bombs" to smart munitions, and advances in the use of 
+unmanned aerial vehicles (drones). 
+
+Given the increased emphasis of DOD on the role of energy in military capability, such as the 
+creation of the Office of Operational Energy in 2011, DARPA appears to have strong potential 
+interest in energy technologies. The goal of the Materials for Transduction (MATRIX) program 
+in the Defense Sciences Office, for example, is to extend materials breakthroughs for converting 
+energy between different forms, such as thermal to electric energy or electric field to magnetic 
+fields. The MATRIX program seeks to further the transition of games and materials research into 
+new devices and DOD capabilities
+. DARPA may have the opportunity for future programs 
+that are focused on emerging energy technologies to meet DOD's recognition of the vital 
+importance of energy in accomplishing its mission of deterring war and prepared protecting the 
+security of the US. 
+ Breakthrough Technologies for National Security. Online. Available: 
+http://www.darpa.mil/attachments/DARPA2015.pdf. 
+ DARPA Transitions: Out of the Laboratory and Into the Field. Online. Available: 
+http://www.darpa.mil/attachments/DARPATransitionsOutoftheLaboratory.pdf. 
+ DARPA Accomplishments: Seminal Contributions to National Security Online. Available: 
+http://www.darpa.mil/attachments/DARPAAccomplishmentsSeminalContributionstoNationalSecurity.pdf. 
+
+
+139 Materials for Transduction (MATRIX). Online. Available: http://www.darpa.mil/program/matrix. 
+
+
+U.S. DoD Defense Threat Reduction Agency (DTRA) 
+The Defense Threat Reduction Agency (DTRA) works to stop the spread, counter the effects, 
+and prepare for the use of weapons of mass destruction (WMDs)
+. The agency was created in 
+
+
+1998 from a number of previously existing entities to focus their efforts on terrorism, our nuclear 
+
+surety, and counter-proliferation
+. It is co-located at Fort Belvoir, Virginia with two other 
+entities concerned with WMDs, both of which are elements of the U.S. Strategic Command, 
+whereas DTRA is responsible to an Under Secretary of Defense . DTRA and the other two 
+entities "work together to leverage our unique authorities in our world-class professional staff to 
+counter the threat posed by weapons of mass destruction" . This three members of the team have 
+unified their individual missions into a single, shared mission: "Safeguard the United States and 
+its allies from global WMD threats by integrating, synchronizing, and providing expertise, 
+technologies, and capabilities . The team shares five values: integrity, service, excellence, 
+innovation, and teamwork . Their goals are to make the world safer, safeguard the U.S. and its 
+allies from global WMD threats, function as one team, and effectively use resources .  
+
+DTRA's R&D efforts are in basic and applied science, chemical/biological technologies, counter 
+WMD technologies, and nuclear technologies . Its success stories include its efforts to control 
+the Ebola virus, nuclear detection, biosurveillance, and assisting other countries (the Philippines) 
+in building chemical, biological, radiological, and nuclear response capability . 
+ Who We Are. Online. Available: http://www.dtra.mil/Careers/Who-We-Are/. 
+ History. Online. Available: http://www.dtra.mil/About/History/. 
+ One Team Leadership. Online. Available: http://www.dtra.mil/About/One-Team-Leadership/. 
+ Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-2020%20opt.pdf?ver=2016-03-
+ Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-2020%20opt.pdf?ver=2016-03-
+ Our Values Online. Available: http://www.dtra.mil/About/Our-Values/. 
+ Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-2020%20opt.pdf?ver=2016-03-
+ Research and Development. Online. Available: http://www.dtra.mil/Research/. 
+
+
+148 Success Stories. Online. Available: http://www.dtra.mil/Success-Stories/. 
+
+
+DTRA's current research does not appear to emphasize energy in general or on emerging energy 
+technologies specifically
+. Nevertheless, the potential implications for national security if 
+LENR were to be developed by an adversarial nation have apparently caused DTRA to engage in 
+the field. Examples of DTRA-supported LENR research are a 2007 report on high energy 
+science and technology that included a LENR panel
+, a 2012 report of a study utilizing 
+palladium and nickel wires , and a 2016 report of an investigation of nano-nuclear reactions in 
+condensed matter
+U.S. Navy  
+The mission of the Navy is to maintain, train and equip combat-ready Naval forces capable of 
+winning wars, deterring aggression and maintaining freedom of the seas
+3.3.5.1 U.S. Navy Overall 
+The Navy (including the Marine Corps that is within the Navy) is one of the three Departments 
+(Services) of the U.S. Department of Defense. The Secretary of the Navy reports to the Secretary 
+of Defense and has reporting to him the Chief of Naval Operations and Commandant of the 
+Marine Corps
+. The Chief of Naval Operations in turn has responsibility for the Operating 
+Force and the Shore Establishment. The Marine Corps commandant has a separate Operating 
+Force. As context for energy-related research, the Navy's Innovation Vision delineates five 
+elements – build the Naval innovation network, manage Navy workforce talent, transform the 
+ Defense Threat Reduction Agency, Broad Agency Announcement HDTRA1-11-21-BRCWMD, Amendment 5: 
+http://www.dtra.mil/Portals/61/Documents/BA%20DocsTemplates/HDTRA1-11-16-BRCWMD-CALL-
+Amendment%205_published%20version---.pdf. 
+ Sutton, R., and G. Ullrich, 2007. High Energy Science & Technology Assessment. Defense Threat Reduction 
+Agency Contract No. DTRA01-03-E-0017, Task Order 18. Online. Available: http://lenr-
+canr.org/acrobat/McKubreMCHcalorimetra.pdf. 
+ McKubre, M.  J. Bao, F. Tanzella, and P. Hagelstein, "Calorimetric Studies of the Destructive Stimulation of 
+Palladium and Nickel Fine Wires”, Proceedings ICCF17, (2012). Online. Available: http://lenr-
+canr.org/acrobat/McKubreMCHcalorimetra.pdf. 
+ Mosier-Boss, P.A., L.P. Forsley, and P.J. McDaniel, 2016. Investigation of Nano-Nuclear Reactions in 
+Condensed Matter. Defense Threat Reduction Agency, Final Report. Online. Available: http://lenr-
+canr.org/acrobat/MosierBossinvestigat.pdf. 
+ Mission, Organization of the Navy. Online. Available: http://www.navy.mil/navydata/organization/org-top.asp. 
+
+
+154 An Overview. Online. Available: http://www.navy.mil/navydata/organization/org-over.asp. 
+
+use of information, accelerate new capabilities to the fleet, and develop game-changing or 
+fighting concepts
+The Navy and Marine Corps are significant users of energy within the DOD context, consuming 
+about one-third of the total for the three Services
+. Energy-related topics therefore play a major 
+role in setting the Navy's priorities. For example, the Fiscal Year 2016 Goals and 
+Accomplishments
+ includes four categories – People, Platforms, Power, and Partnerships. The 
+Power category includes five components: 
+− Increase alternative energy Navy-wide 
+− Sail the Great Green Fleet 
+− Leverage 1 gigawatt execution to improve energy security 
+− Institutionalize resource and energy efficiency throughout the Navy 
+− Develop an integrated energy security and resiliency. 
+
+The Energy Goals of the Department of the Navy (DON) are also set forth as follows
+
+
+158 159
+
+− Energy Efficient Acquisition: Evaluation of energy factors will be mandatory when 
+awarding contracts for systems and buildings. 
+− Sail the "Great Green Fleet": DON will demonstrate a Green Strike Group in local 
+operations by 2012 and sail it by 2016. 
+− Reduce Non-Tactical Petroleum Use: By 2015, DON will reduce petroleum use in the 
+commercial fleet by 50%. 
+− Increase Alternative Energy Ashore: By 2020, DON will produce at least 50% of 
+shore-based energy requirements from alternative sources; 50% of DON installations 
+will be net-zero 
+− Increase Alternative Energy Use DON-Wide: By 2020, 50% of total DON energy 
+consumption will come from alternative sources Energy 
+The Navy has extensive scientific and technological capabilities to meet its future requirements, 
+including its energy needs. For example, a major section of the Navy's 2015 Program Guide
+ is 
+ Department of the Navy Innovative Vision. Online. Available: http://navylive.dodlive.mil/files/2015/04/Module-
+1_v13_LoRes_3.pdf. 
+ Defense Department Energy Use Falls to Lowest Level Since at Least 1975. Online. Available: 
+http://www.eia.gov/todayinenergy/detail.cfm?id=19871 
+ Department of the Navy (DON) Goals and Objectives for Fiscal Year 2016 (FY16). Online. Available: 
+http://www.navy.mil/strategic/DON_Goals_and_Objectives_FY16.pdf. 
+ Navy Energy Environment Climate Change – Energy. Online. Available: http://greenfleet.dodlive.mil/energy/. 
+ The Department of the Navy’s Energy Goals. Online. Available: 
+http://www.navy.mil/features/Navy_EnergySecurity.pdf. 
+dedicated to Science and Technology. The Guide includes a section on Energy System 
+Technology Evaluation Program (ESTEP).  
+
+The Navy recognizes that "ashore and afloat" its energy efforts cross three functional areas – 
+physical and strategic security, research and development, and policy and doctrine
+. Its energy 
+strategy is developed using a governance structure – Task Force Energy – composed of Working 
+Groups, an Energy Transition Office, and an Executive Steering Committee. The Task Force 
+Energy charter calls for setting up processes, tools, metrics, and structure to support the Navy 
+Energy Strategy and establishes seven Working Groups that are involved in the Navy's energy-
+related activities
+.A Navy Energy Coordination Office (NECO) has been set up to support the 
+Task Force Energy and coordinate the overall Navy Energy Strategy. 8 It is located 
+organizationally in the Energy and Environmental Readiness Division
+In support of its energy goals, the Navy pursues science and technology investments in 
+alternative fuel sources, energy distribution and control, energy storage, and power generation 
+and loads
+. Within power generation, the Navy is exploring the development of technologies to 
+improve fuel efficiency, increased power density, and reduce emissions for air, ground, sea 
+surface, and undersea applications
+. Example research areas are fuel cells, shipboard hybrid 
+drive, high-efficiency aircraft engines, and hybrid photovoltaic devices. 
+3.3.5.2 U.S. Navy Office of Naval Research (ONR) 
+The Office of Naval Research (ONR) managers and funds basic and applied science and 
+advanced technology development through the use of grants and contracts with partners in 
+academia, industry, and government in the U.S. and around the world
+. It was established in 
+
+
+1946 as the U.S. Government's first permanent agency devoted to funding civilian research 
+
+ U.S. Navy Program Guide 2015. Online. Available: http://www.navy.mil/strategic/top-npg15.pdf. 
+ Task Force Energy. Online. Available: http://greenfleet.dodlive.mil/energy/task-force-energy/. 
+ Energy Task Force Charter. Online. Available: http://greenfleet.dodlive.mil/files/2010/10/TFE_Charter.pdf. 
+ Energy and Environmental Readiness Division. Online. Available: http://www.navy.mil/local/opnavn45/. 
+ Science & Technology. Online. Available: http://greenfleet.dodlive.mil/energy/science-and-technology/. 
+ Power Generation. Online. Available: http://greenfleet.dodlive.mil/energy/science-and-technology/power-
+generation/. 
+ The Office of Naval Research – Research Guide. Online. Available: http://www.onr.navy.mil/About-
+ONR/History/History-Research-Guide.aspx. 
+during peacetime. 1020B The head of ONR, the Chief of Naval Research, reports to the Assistant 
+Secretary of the Navy (Research, Development, and Acquisition). 
+
+ONR has two-high-level Directorates – Office of Research and Office of Technology – to 
+accomplish its mission
+. The Office of Research makes broad investments in basic and applied 
+research that will increase fundamental knowledge, fosters opportunities for breakthroughs, and 
+provides technology options for future Naval capabilities. This Office includes the SwampWorks 
+Program, which explores innovative, high-risk and disruptive technologies and concepts
+. It 
+provides for short exploratory studies to examine the maturation of a proposed technology before 
+substantial investments are made. ONR's Office of Technology emphasizes transition of 
+programs covering manufacturing methods for Naval warfare systems, stimulating government-
+industry partnerships, and focusing on requirements from the fleet and acquisition
+The ONR's Naval Science & Technology Strategy
+ identifies the strategic approach and adjusts 
+the principles of the strategy to current guidance from naval leaders. It guides ongoing research 
+by Naval scientists and engineers as the Department maintains a broad portfolio of initiatives to 
+build the future force. The 2015 Science & Technology Strategy includes nine Focus Areas 
+1060, one of which is Power and Energy. This Focus Area has objectives in three categories: 
+− Efficient Power and Energy Systems 
+− Energy Security 
+− High Energy and Pulsed Power 
+The Energy System Technology Evaluation Program (ESTEP) within ONR is designed to 
+leverage Navy research in combination with the best from commercial sector advances
+ESTEP conducts real-world advanced-technology demonstrations to evaluate emerging energy 
+technologies using Navy and Marine Corps facilities as test beds. The technology focuses on 
+ Office of Research. Online. Available: http://www.onr.navy.mil/Science-Technology/Directorates/office-
+research-discovery-invention.aspx. 
+ SwampWorks. Online. Available: http://www.onr.navy.mil/en/Science-Technology/Directorates/office-research-
+discovery-invention/swampworks-innovation.aspx. 
+ Office of Technology. Online. Available: http://www.onr.navy.mil/Science-
+Technology/Directorates/Transition.aspx. 
+ Naval Science and Technology Strategy. Online. Available: http://www.onr.navy.mil/About-ONR/science-
+technology-strategic-plan.aspx. 
+
+
+171 U.S. Navy Program Guide 2015, Section 7. Online. Available: http://www.navy.mil/strategic/top-npg15.pdf. 
+
+innovative pre-commercial and nascent commercial energy technologies obtained from open-
+market sourcing, including companies from within the venture capital and small business 
+communities. 
+
+Clearly, ONR places a high priority on emerging energy technologies to meet its energy-related 
+science and technology objectives. 
+3.3.5.3 U.S. Navy Naval Research Laboratory (NRL) 
+The mission of the Naval Research Laboratory (NRL) is to conduct a broadly based 
+multidisciplinary program of scientific research and advanced technological development 
+directed toward maritime applications of new and improved materials, techniques, equipment, 
+systems, and ocean, atmospheric, and space sciences and related technologies
+. As the Navy's 
+single, integrated Corporate Laboratory, NRL provides a broad foundation of in-house expertise 
+from scientific to advanced development activity
+. The creation of NRL in the early 1920s was 
+instigated by Thomas Edison, who conceived the idea of "a great laboratory"
+NRL's research is conducted in a Base Program, which consists of Basic Research – with 
+emphasis on scientific study for increasing knowledge and broad fields for long-term Navy needs 
+– and Applied Research, where efforts are directed toward solution of specific Navy problems 
+(short of major development projects)
+. The seven focus areas of the NRL Base Program are: 
+− Battlespace Environments 
+− Electronics 
+− Electromagnetic Warfare 
+− Information Technology 
+− Materials & Chemistry 
+− Space Research and Space Technology 
+− Undersea Warfare 
+ NRL 2014 Review. Online. Available: http://www.nrl.navy.mil/content_images/2014_NRL_Review.pdf. 
+ Mission. Online. Available: http://www.nrl.navy.mil/about-nrl/mission/. 
+ About NRL. Online. Available: http://www.nrl.navy.mil/about-nrl/. 
+ http://www.onr.navy.mil/Science-Technology/Directorates/office-research-discovery-invention/Laboratory-
+Research.aspx. 
+
+NRL is organized into two Directorates with emphasis on management – Commanding Officer 
+(Code 1000) and Business Operations (Code 2000) and four technical Directorates
+− Systems (Code 5000) 
+− Material Science and Component Technology (Code 6000) 
+− Ocean and Atmospheric Science and Technology (Code 7000) 
+− Naval Center for Space Technology (Code 8000) 
+Eighteen Divisions and Laboratories with different areas of emphasis are organized within the 
+Directorates
+. Although an emphasis on emerging energy technologies at NRL is not apparent, 
+the laboratory clearly possesses the talent and facilities for their development when required. 
+
+U.S. Department of Commerce – Patent and Trade Office (PTO) 
+The U.S. Patent and Trade Office (PTO) is a particularly important agency for realization of 
+emerging energy technologies. The PTO “is the federal agency for granting U.S. patents and 
+registering trademarks. In doing this, the USPTO fulfills the mandate of Article I, Section 8, 
+Clause 8, of the Constitution that the legislative branch ‘promote the Progress of Science and 
+useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their 
+respective Writings and Discoveries.’ The USPTO registers trademarks based on the commerce 
+clause of the Constitution (Article I, Section 8, Clause 3).”
+The PTO mission is as follows
+: “Fostering innovation, competitiveness and economic growth, 
+domestically and abroad by delivering high quality and timely examination of patent and 
+trademark applications, guiding domestic and international intellectual property policy, and 
+delivering intellectual property information and education worldwide, with a highly-skilled, 
+diverse workforce”. 
+
+The USPTO “advises the president of the United States, the secretary of commerce, and U.S. 
+government agencies on intellectual property (IP) policy, protection, and enforcement; and 
+ Directorates and Divisions. Online. Available: http://www.nrl.navy.mil/research/directorates-divisions/. 
+ NRL 2015 Review. Online. Available: http://www.nrl.navy.mil/research/nrl-review/. 
+ About Us. Online. Available: http://www.uspto.gov/about-us. 
+ USPTO Strategic Plan, 2014-2018. Online. Available: 
+http://www.uspto.gov/sites/default/files/documents/USPTO_2014-2018_Strategic_Plan.pdf. 
+promotes the stronger and more effective IP protection around the world. The USPTO furthers 
+effective IP protection for U.S. innovators and entrepreneurs worldwide by working with other 
+agencies to secure strong IP provisions in free trade and other international agreements. It also 
+provides training, education, and capacity building programs designed to foster respect for IP 
+and encourage the development of strong IP enforcement regimes by U.S. trading partners.”
+The PTO is “an agency within the United States Department of Commerce (DOC). The Office is 
+led by the Under Secretary of Commerce for Intellectual Property and Director of the USPTO, 
+who consults with the Patent Public Advisory Committee (PPAC) and the Trademark Public 
+Advisory Committee (TPAC) on Office policies, goals, performance, budget, and user fees.”
+The PTO was formed in 1836 after a lengthy prior history of granting patents by the U.S. as 
+provided in the Constitution. Its headquarters are in Alexandria, Virginia, and offices are being 
+or have recently been set up in Detroit, Dallas, Denver, and the Silicon Valley in California. The 
+PTO has four strategic goals, each of which includes several objectives
+I. Optimize Patent Quality and Timeliness 
+− 
+Refine Optimal Patent Pendency 
+− 
+Increase Efficiencies and Patent Capacity to Align with the Optimal Patent Pendency 
+− 
+Increase International Cooperation and Work Sharing 
+− 
+Continue to Enhance Patent Quality 
+− 
+Ensure Optimal Information Technology (IT) Service Delivery to All Users 
+− 
+Continue and Enhance Stakeholder and Public Outreach 
+− 
+Maintain the Patent Trial and Appeal Board’s (PTAB) Ability to Provide Timely and High 
+Quality Decisions 
+II. Optimize Trademark Quality and Timeliness 
+− 
+Maintain Trademark First Action Pendency on Average Between 2.5-3.5 Months with 12 
+Months Final Pendency 
+− 
+Maintain High Trademark Quality 
+− 
+Ensure Optimal IT Service Delivery to All Users 
+− 
+Continue and Enhance Stakeholder and Public Outreach 
+− 
+Enhance Operations of the Trademark Trial and Appeal Board (TTAB) 
+ About Us. Online. Available: http://www.uspto.gov/about-us. 
+ United States Patent and Trademark Office, Fiscal Year 2016 President’s Budget Submission/Congressional 
+Justification, February 2015. Online. Available: http://www.uspto.gov/sites/default/files/documents/fy16pbr.pdf. 
+ USPTO Strategic Plan, 2014-2018. Online. Available: 
+http://www.uspto.gov/sites/default/files/documents/USPTO_2014-2018_Strategic_Plan.pdf. 
+
+III. Provide Domestic and Global Leadership to Improve Intellectual Property Policy, 
+Protection, and Enforcement Worldwide. 
+− 
+Provide Leadership and Education on IP Policy and Awareness 
+− 
+Provide Leadership and Education on International Agreements and Policies for Improving 
+the Protection and Enforcement of IP Rights 
+IV. Management: Achieve Organizational Excellence 
+− 
+Leverage IT Investments to Achieve Business Results 
+− 
+Continue to Build and Maintain a Flexible, Diverse, and Engaged Workforce 
+− 
+Enhance Internal and External Relations 
+− 
+Secure Sustainable Funding to Deliver Value to Fee-Paying Customers and the Public 
+− 
+Establish Satellite Offices and a Regional Presence 
+Energy devices, technologies, and products comprise an important component of PTO’s 
+intellectual protection responsibilities. Several energy-related categories have been established 
+for both patents and trademarks. Intellectual property protection of emerging energy technologies 
+is essential for PTO to accomplish its mission.  
+
+U.S. National Aeronautics and Space Administration (NASA) 
+The U.S. National Aeronautics and Space Administration (NASA) is one of the nation’s premier 
+organizations for developing emerging technologies, including new sources of energy for a 
+variety of applications. NASA's vision is “to reach for new heights and reveal the unknown for 
+the benefit of humankind”
+. The mission is to “drive advances in science, technology, 
+aeronautics, and space exploration to enhance knowledge, education, innovation, economic 
+vitality, and stewardship of Earth”
+. NASA’s strategic goals are to:  
+− Expand the frontiers of knowledge, capability, and opportunity in space 
+− Advance understanding of Earth and develop technologies to improve the quality of 
+life on our home planet 
+− Serve the American public and accomplish our Mission by effectively managing 
+people, technical capabilities, and infrastructure.  
+
+Each of these goals includes a number of objectives that provide more specific guidance. The 
+agency is organized into four “mission directorates”: aeronautics research, human exploration 
+ What Does NASA Do? Online. Available: http://www.nasa.gov/about/highlights/what_does_nasa_do.html. 
+ NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+and operations, science, and space technologies
+.  NASA has missions, programs and projects 
+that ensure “the United States will remain the world's leader in space exploration and scientific 
+discovery for years to come, while making critical advances in aerospace, technology 
+development and aeronautics.”
+ NASA is an independent federal agency (organizationally 
+outside the president’s cabinet). It was established in 1958 as a civilian (rather than military) 
+entity to encourage peaceful applications in space science.  
+
+Energy interests at NASA are broad, but three areas are particularly important – propulsion of 
+space probes and planetary exploration, aircraft propulsion, and addressing global climate 
+change. Sources of energy for space probe propulsion are investigated for within and outside the 
+reach of solar radiation as a power source. For example, alternatives to nuclear fission sources 
+(radioisotope thermoelectric generators, RPGs) are sought as power sources for deep space 
+probes. Propulsion research for probes falls within Objective 1.7 (“Transform NASA missions 
+and advance the Nation’s capabilities by maturing crosscutting and innovative space 
+technologies”) of Strategic Goal 1.  
+
+NASA also investigates alternative methods of aircraft propulsion, with emphasis on low-carbon 
+propulsion as one of six major research areas of its aeronautics research program
+. This 
+program is included in Objective 2.1 (“Enable a revolutionary transformation for safe and 
+sustainable U.S. and global aviation by advancing aeronautics research”) of Strategic Goal 2. 
+
+Carbon dioxide emissions from the use of fossil fuels underlie global climate change, another 
+major research focus of NASA. NASA’s Earth Science Research Program seeks to measure 
+global climate change to inform decisions by the government, organizations, and people around 
+the world
+. Climate change is included within Objective 2.2 (“Advance knowledge of Earth as 
+a system to meet the challenges of environmental change, and to improve life on our planet”) of 
+Strategic Goal 2. 
+ NASA Organization and Structure. Online. Available: http://www.nasa.gov/about/org_index.html. 
+ What’s Next for NASA? Online. Available: http://www.nasa.gov/about/whats_next.html. 
+ NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+ NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+
+Developing new sources of energy and realization of emerging energy technologies are 
+fundamental for NASA to accomplish its mission as well as its Strategic Goals. 
+
+U.S. Environmental Protection Agency (EPA) 
+The U.S. Environmental Protection Agency (EPA) has long played a role in dealing with energy-
+related impacts, including developing new or emerging technologies both for clean energy 
+sources and for dealing with the residuals of existing energy sources, especially fossil fuel based 
+energy. EPA’s mission is “to protect human health and the environment”.
+ It lists seven 
+purposes, which may be summarized as follows: 
+
+
+1. Protect Americans from risks to human health and the environment 
+
+2. Reduce risks based on scientific information 
+
+3. Enforce federal environmental laws 
+
+4. Assure that environmental protection is considered in U.S. policies 
+
+5. Maintain public access to information to participate in managing risks 
+
+6. Make communities and ecosystems diverse, sustainable, and economically productive 
+
+7. Assure that the U.S. is a leader in protecting the global environment 
+
+EPA was created in 1970 in response to increasing public concern about the effects of human 
+activities on the environment. It is an independent agency and is not a part of the President’s 
+cabinet. It has 13 organizational offices that cover various aspects of protection of human health 
+and the environment, including water, air and radiation, chemical safety and pollution 
+prevention, research and development, and solid waste and emergency response. 
+
+All phases of the energy life cycle have impacts on the natural environment. Because of this 
+close connection, the EPA has a broad range of energy-related interests. The agency has many 
+programs and regulations that deal with fossil energy sources and their residuals, such as coal 
+mines and oil and gas operations. Similarly, EPA regulates emissions and effluents from fossil 
+energy conversion and consumption facilities and operations, including power plants and 
+transportation vehicles. EPA’s attempts to address greenhouse gas emissions and global climate 
+change issues emphasize carbon dioxide sources from the use of coal and oil and gas.  
+
+
+189 Our Mission and What We Do. Online. Available: http://www2.epa.gov/aboutepa/our-mission-and-what-we-do/. 
+
+
+EPA’s energy efficiency programs seek to reduce pollution by decreasing energy consumption. 
+
+Many of the EPA’s efforts and initiatives fall within the Agency’s Clean Energy Programs, 
+which “are designed to help energy consumers in all sectors, state policy makers and energy 
+providers improve their knowledge about Clean Energy technology and policy options…
+” 
+These programs include the following: 
+
+
+1. Combined Heat and Power Partnership 
+
+2. Green Power Partnership 
+
+3. State and Local Climate and Energy Program 
+
+4. National Action Plan for Energy Efficiency 
+
+5. ENERGY STAR (joint program with the DOE) 
+
+6. Center for Corporate Climate Leadership 
+
+In summary, a major portion of EPA’s pollution control and abatement activities deal with 
+energy sources and their environmental residuals. These activities include regulation of energy 
+facilities and reduction of energy use.  Support for and realization of emerging technologies are 
+essential for EPA to accomplish its mission – both for clean energy sources and for mitigating 
+impacts of existing sources. 
+
+
+190 Clean Energy Programs. Online. Available: http://www.epa.gov/energy/clean-energy-programs. 
+
+4 Government-Supported Research Entities 
+
+Two additional entities, the National Science Foundation and the National Academies of 
+Science, Engineering and Medicine, play a strong role in developing emerging energy 
+technologies. 
+
+National Science Foundation (NSF) 
+As a premier national agency for advancing scientific research, the National Science Foundation 
+(NS) has a strong role in discovering and developing scientific discoveries and technology for 
+new sources of energy. NSF's vision is “a Nation that creates and exploits new concepts in 
+science and engineering and provides global leadership in research and education”
+. Its mission 
+“was established by Congress in legislation that created the agency. The NSF Act of 1950 
+(Public Law 81-507) sets forth the mission: “to promote the progress of science; to advance the 
+national health, prosperity, and welfare; to secure the national defense; and for other 
+purposes.”
+The National Science Foundation (NSF) is an independent Federal agency that supports 
+fundamental research at the frontiers of knowledge, across all fields of science and engineering 
+(S&E), and S&E education. It is the only federal agency whose mission includes support for all 
+fields of fundamental science and technology, except for medical sciences
+. NSF has three 
+Strategic Goals: 1) transform the frontiers of science and engineering; 2) stimulate innovation 
+and address societal needs through research and education; and 3) excel as a Federal Science 
+Agency. The first two goals illustrate the two main components of NSF’s mission – advancing 
+the progress of science while benefitting the Nation, and they indicate the primary means by 
+which NSF ensures the preeminence of U.S. research and development. Each of the three goals is 
+ National Science Foundation Strategic Plan for 2014 – 2018. Online. Available: 
+http://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf. 
+ Investing in Science, Engineering, and Education for the Nation’s Future. Online. Available: 
+https://www.nsf.gov/news/strategicplan/nsfstrategicplan20142018flyer.pdf/. 
+ Fact Sheet – National Science Foundation. Online. Available: 
+https://www.nsf.gov/news/news_summ.jsp?cntn_id=100595. 
+expanded with two to three Strategic Objectives. The NSF has seven directorates and two 
+program offices:  
+− Biological Sciences 
+− Computer and Information Science and Engineering 
+− Education and Human Resources 
+− Engineering 
+− Geosciences 
+− Mathematical and Physical Sciences 
+− Social, Behavioral and Economic Sciences 
+− Office of International Science and Engineering 
+− Office of Integrative Activities 
+Unlike many agencies that conduct research internally, the NSF does not operate its own labs, 
+but instead provides funds for support of other research entities. It is an independent agency that 
+does not fall under any of the President’s Cabinet entities. 
+
+Energy-related research comprises a critical element for achieving NSF’s mission, goals, and 
+strategies. Energy is critical to the nation’s health, prosperity, and welfare. Energy research is an 
+essential component of achieving science and engineering advances (Strategic Objective 1- 
+Invest in fundamental research to ensure significant continuing advances across science, 
+engineering, and education – of Strategic Goal 1) and providing world-class research 
+infrastructure (Strategic Objective 3 – Provide world-class research infrastructure to enable 
+major scientific advances – of Strategic Goal 1). Energy must also be included in efforts to 
+connect fundamental research to meeting society’s needs (Strategic Objective 1 – Strengthen the 
+links between fundamental research and societal needs through investments and partnerships – of 
+Strategic Goal 2. NSF supports research to “catalyze breakthroughs in national priorities 
+including clean energy, robotics, nanotechnology, and cyber security”
+Clearly, research and development support for emerging energy technologies is essential for NSF 
+to accomplish its mission and realize its Strategic Goals. 
+
+
+194 About the National Science Foundation, NSF at a Glance. Online. Available: https://www.nsf.gov/about/. 
+
+
+National Academies of Science, Engineering and Medicine 
+The National Academies of Science, Engineering, and Medicine ("Academies") have a long 
+tradition of developing the basis for making policy for scientific research and technology 
+development. The Academies are therefore well positioned to facilitate development of new and 
+emerging energy technologies as well as deal with their impacts on society and the natural 
+environment. They are “private, nonprofit institutions that provide expert advice on some of the 
+most pressing challenges facing the nation and the world.”
+ The Academies are “the nation's 
+pre-eminent source of high-quality, objective advice on science, engineering, and health 
+matters.” 
+Although the Academies were founded by the U.S. Government, they are a private entity that 
+seeks to provide advice in its three areas using nationally (and internationally) recognized 
+experts. Membership is by invitation of current members, and advisory services are provided 
+without compensation. The National Academy of Sciences (NAS), National Academy of 
+Engineering (NAE), and Institute of Medicine (precursor to the NIM) were founded in 1863, 
+1964, and 1975, respectively. The Academies reorganized in 2015 when the NIM changed its 
+name. The National Research Council (founded in 1916), which had been the working arm of the 
+Academies, became the Working Units of the Academies in the reorganization.  
+
+The Academies’ work “helps shape sound policies, inform public opinion, and advance the 
+pursuit of science, engineering, and medicine.”
+ Most of the work is performed under seven 
+major programs:  
+− Behavioral and Social Sciences and Education 
+− Earth and Life Studies 
+− Engineering and Physical Sciences 
+− Institute of Medicine 
+− Policy and Global Affairs 
+− Transportation Research Board 
+− NAS Gulf Research Program 
+ Who We Are. Online. Available: http://www.nationalacademies.org/about/whoweare/. 
+
+
+196 Who We Are. Online. Available: http://www.nationalacademies.org/about/whoweare/. 
+
+
+The mission of the Program Units (former National Research Council) is “to improve 
+government decision making and public policy, increase public understanding, and promote the 
+acquisition and dissemination of knowledge in matters involving science, engineering, 
+technology, and health.”
+About 85% of the Academies’ work is funded by agencies of the U.S. Government, and the 
+remainder by state and local governments, foundations, and nonprofit authorities
+. About 200 
+reports are produced each year.
+ The Academies’ 2014 report to Congress addressed five areas 
+in Natural Resources and the Environment
+
+
+1. The Gulf Research Program 
+
+2. Responding to Oil Spills in the U.S. Arctic Marine Environment 
+
+3. Progress Toward Restoring the Everglades 
+
+4. Reducing Coastal Risk on the East and Gulf Coasts 
+
+5. Reducing the Fuel Consumption and Greenhouse Gas Emissions of Medium- and 
+
+Heavy-Duty Vehicles 
+Much of the energy-related work of the Academies is performed by the Board on Energy and 
+Environmental Systems (BEES), which is in the Division on Engineering and Physical Systems 
+(DEPS). BEES “conducts a program of studies and other activities to provide independent advice 
+to the executive and legislative branches of government and the private sector on issues in 
+energy and environmental technology, and related public policy.”
+. BEES directs expert 
+attention to a number of energy topics: 
+
+
+1. Energy supply and demand technologies and systems, including resource extraction 
+
+through mining and drilling, energy conversion, distribution and delivery, and 
+efficiency of use 
+
+
+2. Environmental consequences of energy related activities 
+
+ Our Program Units. Online. Available: http://nationalacademies.org/nrc/index.html. 
+ Frequently Asked Questions. Online. Available: http://nationalacademies.org/about/faq/index.html. 
+ National Academies of Science, Engineering, and Medicine. Online. Available: 
+https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medicine. 
+ Cicerone, R.J., C.D. Mote, Jr., and V.J. Dzau, 2014. Highlights of Selected Studies – Natural Resources and the 
+Environment in 2014 Report to Congress. Available: http://www.nationalacademies.org/annualreport/. 
+
+
+201 About BEES. Online. Available: http://sites.nationalacademies.org/DEPS/BEES/DEPS_047053. 
+
+3. Environmental systems and controls in areas related to fuels production, energy 
+
+conversion, transmission, and use 
+
+
+4. Related issues in national security and defense 
+
+A major BEES initiative, America’s Energy Future (AEF), was started in 2007 “to provide an 
+authoritative analysis of technology options and their costs and impacts to help make sensible 
+decisions about the nation’s energy future”
+. The tasks of the AEF were to: 
+− Review the portfolio of recently completed major studies on energy use and 
+technology’s potential for improvement and compare their assumptions 
+− Analyze the currency and quality of information used 
+− Assess the relative state of maturity of technologies for potential deployment in the 
+next decade to reduce U.S. dependence on oil imports and CO2 emissions while 
+ensuring that affordable energy is available to sustain economic growth. 
+
+Key findings of the AEF report addressed the following topics
+Technology Deployment Options 
+Energy Savings from Improved Efficiency 
+Options for Increasing Electricity Supplies and Changing the Supply Mix 
+Modernizing the Nation’s Power Grid 
+Continued Dependence on Petroleum 
+Reducing Greenhouse Gas Emissions 
+Technology Research, Development, and Demonstration 
+Barriers to Accelerated Technology Deployment 
+The Academies have also been deeply involved in global climate change issues. In response to 
+Congress’ legislation, “a series of coordinated activities designed to advance the U.S. response to 
+climate change” has been conducted starting in 2009
+. These activities are intended to build on 
+an extensive foundation of previous and ongoing work, tap experts and stakeholders from a 
+range of communities (academia, business, government, NGOs, international), analyze options 
+ America’s Energy Future Initiative. Online. Available: http://www.kavlifoundation.org/americas-energy-future-
+initiative. 
+ America’s Energy Future, Technology and Transformation. Online. Available: 
+http://www.nap.edu/read/12710/chapter/5. 
+ The National Academies, Climate Change, Background. Online. Available: http://nas-
+sites.org/americasclimatechoices/sample-page/background/. 
+and strategies for dealing with climate change issues, assess short-term and long-term strategies 
+and investments (as well as impediments and needed advances), and produce reports that provide 
+advice to decision makers. A number of GCC-related reports have been prepared covering, for 
+example, the following topics
+Climate Stabilization Targets 
+Abrupt Climate Changes 
+Sea Level Rise 
+Adaptation to Impacts 
+Climate Modeling 
+Social Stress 
+Arctic Issues 
+Alternative Vehicles and Fuels 
+National Security Implications 
+Tax Policy on Greenhouse Gas Emissions 
+Current studies address extreme weather events, landscape conservation, seasonal and 
+subseasonal forecasting, and advisory service for research on global change.  
+
+Investigation of emerging energy technologies and realizing their benefits – as well as dealing 
+with their secondary impacts – are essential to the Academies to achieve their purpose. 
+ The National Academies, Climate Change, Reports. Online. Available: http://nas-
+sites.org/americasclimatechoices/other-reports-on-climate-change/. 
+
+
+5 Other Agencies 
+
+Several additional agencies have potential interest in energy issues. However, they are not as 
+salient for the LENR case because emerging energy technologies are not essential to 
+accomplishing their missions or because LENR does not appear to be the type of technology in 
+the profile of their responsibilities. These agencies include the Federal Energy Regulatory 
+Commission, Energy Information Administration, National Energy Technology Laboratory, and 
+member entities of the Intelligence Community, including the Director of National Intelligence, 
+Central Intelligence Agency, Defense Intelligence Agency, and Intelligence Advanced Research 
+Project Activity. 
+
+Federal Energy Regulatory Commission (FERC) 
+The Federal Energy Regulatory Commission (FERC) is an independent federal agency that 
+regulates the interstate transmission of electricity, natural gas, and oil. FERC also reviews 
+proposals to build liquefied natural gas terminals and interstate natural gas pipelines as well as 
+licensing hydropower projects
+. It was created in 1977 when its predecessor, the Federal Power 
+Commission, was abolished and most of its regulatory mission was inherited by FERC
+FERC's mission is to "assist consumers in obtaining reliable, efficient, and sustainable energy 
+services at a reasonable cost through appropriate regulatory and market means"
+. The agency 
+lists five guiding principles: organizational excellence, due process and transparency, regulatory 
+certainty, stakeholder involvement, and timeliness
+. The strategic plan includes four goals 
+(each of which has two to three specific objectives): ensure just and reasonable rates, terms and 
+conditions; promote safe, reliable, secure, and efficient infrastructure; and mission support 
+ What FERC Does. Online. Available: https://www.ferc.gov/about/ferc-does.asp. 
+ FERC Fiscal Year 2017 Congressional Performance Budget Request and Fiscal Year 2015 Annual Performance 
+Report Online. Available: https://www.ferc.gov/about/strat-docs/2016/FY17-Budget-Request.pdf. 
+ FERC Strategic Plan, FY 2014–FY 2018. Online. Available: https://www.ferc.gov/about/strat-docs/strat-
+plan.asp. 
+
+
+209 About FERC. Online. Available: https://www.ferc.gov/about/about.asp. 
+
+through organizational excellence
+. FERC is led by four Commissioners (only three of which 
+can be from a single political party) and has three main internal functions: regulatory, litigation, 
+and administration, each of which consists of three or more Offices
+FERC's responsibilities are primarily regulatory in nature and are focused on conventional 
+energy sources. Although the agency may address emerging energy technologies in the future as 
+they contribute substantially to the nation's energy supply, it does not appear to be significantly 
+involved in their development or in dealing with their secondary impacts.  
+
+U.S. DOE Energy Information Administration (EIA) 
+The Energy Information Administration (EIA) is the statistical and analytical agency within the 
+U.S. Department of Energy
+. The agency was created in 1977 as a successor to the Federal 
+Energy Administration. It was set up with independence from other DOE components as well as 
+other government entities
+. Its mission is to “collect, analyze, and disseminate independent and 
+impartial energy information to promote sound policymaking, efficient markets, and public 
+understanding of energy and its interaction with the economy and the environment”
+. The 
+agency’s strategic plan sets forth four goals: transform data operations, increase analytical 
+impact, improve the customer experience, and enable the mission:
+." Its values are to deliver 
+results, apply rigor, play as a team and character counts. The agency has an Administrator and is 
+organized into four main areas, each headed by an Assistant Administrator
+: Energy Statistics, 
+Energy Analysis, Communications, and Resource and Technology Management. The EIA 
+produces periodic reports (daily to annually) primarily on conventional energy sources, including 
+oil, refined products, natural gas, coal, and electricity
+ FERC Strategic Plan, FY 2014–FY 2018. Online. Available: https://www.ferc.gov/about/strat-docs/strat-
+plan.asp. 
+ Greenfield, L.R., 2010. An Overview of the Federal Energy Regulatory Commission and Federal Regulation of 
+Public Utilities in the United States. Online. Available: https://www.ferc.gov/about/ferc-does/ferc101.pdf. 
+ Mission and Overview. Online. Available: http://www.eia.gov/about/mission_overview.php. 
+ Legislative Timeline. Online. Available: http://www.eia.gov/about/legislative_timeline.php. 
+ About EIA. Online. Available: http://www.eia.gov/about/index.php. 
+ EIA Strategic Plan 2014-2018. Online. Available: http://www.eia.gov/about/strategic_plan.php. 
+ EIA Organization Chart. Online. Available: http://www.eia.gov/about/organization_chart.php. 
+
+
+217 Products, Services, and Tools. Online. Available: http://www.eia.gov/about/products_services.php. 
+
+
+Emerging energy technologies do not appear to be addressed specifically by the EIA. Also, the 
+agency collects energy information rather than supporting or developing new or emerging 
+sources or dealing with their secondary impacts.  
+
+U.S. DOE National Energy Technology Laboratory (NETL) 
+The National Energy Technology Laboratory (NETL) is a U.S. DOE national laboratory that 
+supports the DOE mission to advance the energy security of the U.S. 
+. It is the only national 
+lab that is owned and operated by DOE
+. Its history goes back to 1910, when its predecessor, 
+the U.S. Bureau of Mines, was established
+. NETL’s mission is to "discover, integrate, and 
+
+
+220 221
+
+mature technology solutions to enhance the nation's energy foundation and protect the 
+environment for future generations"
+. The agency’s vision is to "be the nation's renowned 
+fossil-energy science and engineering resource, delivering world-class technology solutions 
+today and tomorrow." The agency is organized into four primary Centers – Research & 
+Innovation, Technology Development Integration (these two are under Science & Technology 
+Solutions Plans & Programs), Laboratory Operations, and Finance & Acquisition
+. NETL's six 
+core competencies help address national energy challenges and include the following
+− Computational Sciences & Engineering 
+− Materials Engineering & Manufacturing 
+− Geological & Environmental Systems 
+− Energy Conversion Engineering 
+− Systems Engineering & Analysis 
+− Program Evaluation & Integration 
+ About NETL. Online. Available: https://www.netl.doe.gov/about. 
+ NETL Overview. Online. Available: 
+http://www.netl.doe.gov/File%20Library/Publications/others/NETL_Flyer.pdf. 
+ History. Online. Available: https://www.netl.doe.gov/about/netl-history. 
+ Mershon, Sherie, and Tim Palucka, 2010. National Energy Technology - A Century of Innovation. Online. 
+
+Available: https://www.netl.doe.gov/File%20Library/NewsRoom/NETL-A_Century_of_Innovation.pdf. 
+ Mission/Overview. Online. Available: https://www.netl.doe.gov/about/mission-and-overview. 
+ Organization. Online. Available: https://www.netl.doe.gov/about/organization. 
+ NETL Annual Report 2015. Online. Available: 
+http://www.netl.doe.gov/File%20Library/NewsRoom/AR2015.pdf. 
+
+The laboratory maintains a focus on fossil fuels. It contributes to U.S. DOE strategic goals 
+“through cutting-edge research and development focused on efficient energy use and clean 
+energy production from our nation’s domestic fossil fuel resources” 
+Although NETL pursues emerging energy technologies, they are primarily related to fossil 
+energy sources. LENR therefore may not be able to help NETL to accomplish its mission as 
+much as it can for other agencies. NETL performs work for EERE, but LENR opportunities in 
+helping agencies meet their requirements are likely to be with EERE directly. 
+
+U.S. Intelligence Community (IC) 
+That IC includes 17 agencies and other entities in the Executive Branch that work independently 
+and collaboratively to meet the nation's intelligence needs with respect to national security and 
+foreign relations
+. It was formed by executive order in 1981, but came into prominence with 
+the passage of the Intelligence Reform and Terrorism Prevention Act (IRTPA) in 2004
+IRTPA, which was enacted as a result of the 9/11 act of terrorism, reorganized the configuration 
+of multiple intelligence organizations. The IC strives to exhibit three characteristics that are 
+essential to its effectiveness – integration, agility, and exemplifying American values
+. These 
+values are protection of privacy, report respecting human rights, and retaining the trust of the 
+American people. Six basic sources are used in the IC
+− Signal Intelligence 
+− Imagery Intelligence 
+− Measurement and Signatures Intelligence 
+− Human Intelligence 
+− Open Source Intelligence 
+− Geospatial Intelligence 
+ Research. Online. Available: http://www.netl.doe.gov/research. 
+ DNI Homepage. Online. Available: https://www.dni.gov/index.php. 
+ History. Online. Available: https://www.dni.gov/index.php/about/history. 
+ ODNI FAQ. Online. Available: https://www.dni.gov/index.php/about/faq?limitstart=0. 
+
+
+229 ODNI FAQ 
+
+Three of the IC components – the Director of National Intelligence (DNI), the Central 
+Intelligence (CIA), Defense Intelligence Agency (DIA), and the Intelligence Advanced Research 
+Projects Agency (IAPRA) – are selected for consideration of potential LENR opportunities. 
+
+Director of National Intelligence (DNI) 
+IRTPA created the position of Director of National Intelligence (DNI) that reports directly to the 
+President. In compliance with the law, the DNI: 
+− Serves as the President's principal intelligence adviser 
+− Oversees the National Intelligence Program budget 
+− Establishes IC priorities with clear and measurable goals and objectives 
+− Sets direction through policies and budgets 
+− Insures integration of IC personnel, expertise, and capabilities 
+− Provides leadership on IC cross-cutting issues 
+− Monitors IC agency and leadership performance 
+The mission of the DNI is to lead intelligence integration and forge an intelligence community 
+that delivers the most insightful intelligence possible
+. The Office of the DNI (ODNI) has set 
+up eight goals, as follows
+− Integrate intelligence analysis and collection to inform decisions made from the 
+White House to the foxhole 
+− Drive responsible and secure information sharing 
+− Set strategic direction and priorities for national intelligence resources and 
+capabilities 
+− Develop and implement Unifying Intelligence Strategies across regional and 
+functional portfolio 
+− Strengthen partnerships to enrich intelligence 
+− Advance cutting-hedge capabilities to provide global intelligence advantage 
+− Promote a diverse, highly-skilled intelligence workforce that reflects the strength of 
+America 
+− Align management practices to best serve the IC 
+ Vision Poster. Online. Available: https://www.dni.gov/files/documents/ODNI_mission_poster_FINAL.pdf. 
+
+
+231 ODNI Fact Sheet. Online. Available: https://www.dni.gov/files/documents/ODNI%20Fact%20Sheet_2011.pdf. 
+
+
+The ODNI is composed of a headquarters element and four national centers as follows
+− National Counterterrorism Center (NCTC) 
+− National Counterpoliferation Center (NCPC) 
+− National Counterintelligence and Security Center (NCSC) 
+− Cyber Threat Intelligence Integration Center (CTIIC) 
+The ODNI also includes the Intelligence Advanced Research Projects Activity (IARPA) and the 
+National Intelligence Council. 
+
+The mission and goals of the DNI do not address energy topics or emerging energy technologies 
+specifically, so LENR may not have opportunities to help the DNI meet its responsibilities. 
+
+Central Intelligence Agency (CIA) 
+The CIA traces its roots to the use of intelligence in the early days of the U.S. 
+  It's forerunner 
+was the Office of Strategic Services, which functioned during World War II but was abolished at 
+the end of the war. The CIA was established when the National Security Act was signed by 
+President Truman in 1947
+. A number of changes occurred at the CIA when IRTPA was passed 
+in 2004
+. In particular, the role of the CIA Director as coordinator of the nation's intelligence 
+activities was transferred to the DNI, and the CIA Director was focused on the agency itself. 
+
+The CIA gathers foreign (not domestic) intelligence for the benefit of senior U.S. 
+policymakers
+, particularly the President. The CIA's mission is to "preempt threats and further 
+U.S. national security objectives by collecting intelligence that matters, producing objective all-
+source analysis, conducting effective covert action as directed by the president, and safeguarding 
+the secrets that help keep our Nation safe
+". Its vision is that the "CIA's information, insights, 
+and actions consistently provide tactical and strategic advantage to the US". 257. CIA's officers 
+are guided by a professional ethos "that is the some of the agency's abiding principles, core 
+ Careers at ODNI. Online. Available: https://www.dni.gov/index.php/careers/careers-at-odni. 
+ CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. Brennan, 2016. Online. 
+
+Available: https://www.brookings.edu/wp-content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+ History of the CIA. Online. Available: https://www.cia.gov/about-cia/history-of-the-cia 
+ Today’s CIA. Online. Available: https://www.cia.gov/about-cia/todays-cia. 
+ Members of the IC. Online. Available: https://www.dni.gov/index.php/intelligence-community/members-of-the-
+ic. 
+
+
+237 CIA Vision, Mission, Ethos & Challenges. Online. Available:  
+
+values, and highest aspirations
+": service, integrity, excellence, courage, teamwork, and 
+stewardship. Two of the agency's principle challenges identified by the Director are ungoverned 
+spaces and the digital revolution
+Besides the Office of the Director, the CIA is organized into 5 Directorates, 10 Mission Centers, 
+
+
+14 Enterprise Functions, and 10 elements of the Talent Center of Excellence
+
+. The five 
+Directorates are Analysis, Digital Innovation, Operations, Science and Technology, and Support. 
+
+The Directorates carry out "the intelligence cycle" of collecting, analyzing, and disseminating 
+intelligence information to U.S. Government officials
+. The Mission Centers were the result of 
+CIA modernization. Six of the centers focus on regions of the world, and four focus on 
+functional issues such as counter terrorism and counter proliferation
+. The CIA conducts covert 
+actions at the direction of the President, usually upon the recommendation of the National 
+Security Council. 
+
+Examination of the mission and organization of the CIA does not indicate a particular emphasis 
+on energy issues or on emerging energy technologies specifically. LENR may therefore not have 
+significant opportunity to help the CIA accomplish its mission at this time. However, should 
+LENR become an issue of national security, such as if it is a achieved in a nation that is an 
+adversary of the US, LENR may become important to the CIA's mission in the future. 
+
+Defense Intelligence Agency (DIA) 
+The DIA is a DoD combat support agency that is a major provider and manager of foreign 
+military intelligence. It provides military intelligence to warfighters, defense policymakers and 
+force planners, in the DoD and the IC, in support of U.S. military planning and operations and 
+weapon systems acquisition
+. The agency was established by Secretary of Defense Robert 
+ CIA Vision, Mission, Ethos & Challenges. Online. Available:  
+ CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. Brennan, 2016. Online. 
+
+Available: https://www.brookings.edu/wp-content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+ CIA Organization Chart. Online. Available: https://www.cia.gov/about-cia/leadership/cia-organization-
+chart.html. 
+ Today’s CIA. Online. Available: https://www.cia.gov/about-cia/todays-cia. 
+ CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. Brennan, 2016. Online. 
+
+Available: https://www.brookings.edu/wp-content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+ Members of the IC – Defense Intelligence Agency. Online. Available: 
+https://www.dni.gov/index.php/intelligence-community/members-of-the-ic. 
+
+McNamara (under President John Kennedy) in 1961
+. Its mission is to “provide intelligence on 
+foreign militaries and operating environments that delivers decision advantage to prevent and 
+decisively win wars”, and its vision is to “be the indispensable source of defense intelligence 
+expertise”
+. Both the DIA and CIA are members of the IC, but the DIA is a principal source of 
+foreign intelligence to combat-related missions, whereas the CIA is focused on providing 
+intelligence to the President and his Cabinet
+DIA has developed a strategy that sets forth five primary lines of effort: leadership and 
+workforce, integrated intelligence, enterprise governance, information and technology, and 
+mission capability security
+. The agency is organized into four Directorates (Analysis, 
+Operations Science and Technology, and Mission Services) and four Intelligence Centers: 
+Americas, Asia/Pacific, Europe/Eurasia, and Middle East/Africa
+Like the CIA, the DIA does not now appear to emphasize energy-related topics or, specifically, 
+emerging energy technologies. LENR may therefore not be able to help the DIA accomplish its 
+mission unless the new energy were to become a technological threat to the defense of the US. 
+
+That the DIA continues to monitor the status of LENR in the national security context is 
+confirmed by a report issued in 2009
+Intelligence Advanced Research Projects Activity (IARPA) 
+IARPA was established in the Office in 2006 with a mandate to conduct cross-community 
+research, target new opportunities and innovation, and generate revolutionary capabilities
+. It is 
+organizationally within the Office of the DNI, but its intelligence research supports elements of 
+ Defense Intelligence Agency, 35 Years, A Brief History. Online. Available: 
+https://fas.org/irp/dia/dia_history.pdf. 
+ DIA Leadership. Online. Available: http://www.dia.mil/About/Leadership/. 
+ Frequently Asked Questions. Online. Available: http://www.dia.mil/About/FAQs/. 
+ DIA Strategy. Online. Available: http://www.dia.mil/About/Strategy/. 
+ DIA Organization. Online. Available: http://www.dia.mil/About/Organization/. 
+ Defense Intelligence Agency, 2009. Technology Forecast: Worldwide Research on Low-Energy Nuclear 
+Reactions Increasing and Gaining Acceptance. Defense Analysis Report DIA-08-0911-003. November. Online. 
+
+Available: http://lenr-canr.org/acrobat/BarnhartBtechnology.pdf. 
+
+
+250 About IARPA – History. Online. Available: https://www.iarpa.gov/index.php/about-iarpa. 
+
+the IC, and the results from its programs are expected to transition to its IC customers
+IARPA’s mission is to invest in high-risk, high-payoff research programs to tackle some of the 
+most difficult challenges of the agencies and disciplines of the IC
+The Activity was modeled after DARPA when it was created, and, like DARPA, it utilizes the 
+topics of the Heilmeier Questions for high-level guidance
+: what is going to be done, how it is 
+presently done and by whom, limitations of present approaches, what’s new in the proposed 
+approach and why it can be successful, what difference success will make, time required and 
+cost, and mid-term and final exams. The Activity is organized into four cutting-edge Offices: 
+Anticipatory Surprise, Incisive Analysis, Safe and Secure Operations, and Smart Collection
+Current Research Areas include computer vision, big data, multilingual speech recognition, 
+satellite image processing, machine learning, geospatial fusion, artificial intelligence, and pattern 
+recognition
+. During 2016 IARPA launched 12 new multi-year research programs and had over 
+
+
+250 peer-reviewed publications from its funded research
+
+IARPA's research trusts and areas of current research do not appear to emphasize energy topics 
+or emerging energy technologies. However, to the extent that LENR could provide an energy 
+source for IARPA-developed devices, it could in the future potentially contribute to the 
+Activity's accomplishing its mission. 
+ Intelligence Advanced Research Projects Activity: Who We Are. Online. Available: 
+https://www.dni.gov/index.php/about/organization/intelligence-advanced-research-projects-activity-who-we-are. 
+ About IARPA. Online. Available: https://www.iarpa.gov/index.php/about-iarpa. 
+ Become a Program Manager. Online. Available: https://www.iarpa.gov/index.php/careers/become-a-program-
+manager. 
+ What We Do. Online. Available: https://www.dni.gov/index.php/about/organization/intelligence-advanced-
+research-projects-activity-what-we-do, 
+ IARPA Analysis. Online. Available: https://www.iarpa.gov/index.php/about-iarpa/analysis. 
+
+
+256 IARPA 2016 Review. Online. Available: https://www.iarpa.gov/index.php/about-iarpa/2016-year-in-review. 
+
+6 Summary 
+
+Emerging energy technologies are increasing in importance as the world's demand for energy 
+increases and as current energy sources become more problematic. LENR is a potential but 
+controversial new energy technology that was rejected when it was introduced in 1989. 
+
+However, it has continued to be a subject of research and development, so that its prospects 
+appear to have improved considerably. 
+
+Many U.S. Government agencies have energy policy responsibilities. Some 30 agencies have 
+been reviewed for their energy-related interests, with emphasis on emerging energy technologies. 
+
+This review included for each agency its overall mission, background and organization, energy 
+responsibilities, and realization of new technologies as well as addressing their secondary 
+impacts. Emerging energy technologies play a vital role in most of the agencies reviewed in 
+accomplishing their mission. As a promising new energy technology, LENR may help these 
+agencies to meet their responsibilities. 
+
+
+7 List of Citations 
+
+Grimshaw, T.W., and D.J. Nagel, 2006. U.S. Government Agencies Responsible for 
+Research and Exploitation of Energy from Low Energy Nuclear Reactions. Submitted to 
+Proceedings of the International Conference on Cold Fusion (ICCF) 20, October 2 to 7,  
+2016, Sendai, Japan. 
+
+Grimshaw, T.W., and D.J. Nagel, in preparation. U.S. Government Agencies Responsible 
+for Research and Exploitation of Energy from Low Energy Nuclear Reactions.  
+
+About the Committee. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/about-the-committee. 
+
+History. Online. Available: http://www.energy.senate.gov/public/index.cfm/history. 
+
+Energy. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/subcommittees?p=Energy. 
+
+Murkowski, L., 2013. Energy 20/20 – a Vision for America’s Energy Future. Online. 
+
+Available: http://www.energy.senate.gov/public/index.cfm/energy-20-20-a-vision-for-
+america-s-energy-future. 
+
+A Bill To Provide for the Modernization of the Energy Policy of the United States, and 
+for Other Purposes. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=56a384df-cffa-44eb-
+a1f4-540a72ab6b0f. 
+
+S. 2012 – The Energy Policy Modernization Act (EPMA) – A Bipartisan Bill for a New 
+Era of Energy in America. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-
+4815-9D05-387798EFAEA7. 
+
+Murkowski, L., 2013. Energy 20/20 – a Vision for America’s Energy Future – Fact 
+Sheet. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-
+4815-9D05-387798EFAEA7. 
+
+Murkowski, L., 2013. Energy 20/20 - A Vision for America's Energy Future. Online. 
+
+Available: http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=c691a024-
+1004-4d49-8de9-a976ce0d2bf3. 
+
+Senator Murkowski Letter, February 4, 2013. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=570b3312-b8ee-4afa-
+91ec-6f11dafac7c6. 
+
+The Narrowing Window – America’s Opportunity to Join the Global Gas Trade, 2013. 
+
+Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=d647e1a3-f2fb-42e6-
+9d0d-d65e23fb058f. 
+
+The Water-Energy Nexus - Interlinked Resources That Are Vital For Economic Growth 
+and Sustainability, 2014. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=9d529812-659b-
+43a1-a2d1-ef0e67894636. 
+
+Powering the Future – Ensuring That Federal Policy Fully Supports Electric Reliability, 
+
+
+2014. Online. Available: 
+
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=3c485574-7d19-
+4ee9-ae0e-c7e8f986032e. 
+
+A Signal to the World – Renovating the Architecture of U.S. Energy Exports, 2014. 
+
+Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=546d56f0-05b6-
+41e6-84c1-b4c4c5efa372. 
+
+S. 2012 – The Energy Policy Modernization Act (EPMA) – A Bipartisan Bill for a New 
+Era of Energy in America. Online. Available: 
+http://www.energy.senate.gov/public/index.cfm?p=legislation&id=87D9E1CF-1B96-
+4815-9D05-387798EFAEA7. 
+
+Murkowski, L., Chairman, Senate Committee on Energy and Natural Resources. 2015. 
+
+The Energy Policy Modernization Act of 2015 (S. 2012) - Section-by-Section Analysis. 
+
+Online. Available: 
+http://www.energy.senate.gov/public/index.cfm/files/serve?File_id=6fc41b34-2dff-4a05-
+b7bc-8ec912a98e16. 
+
+Senate Begins Debate on Comprehensive Bipartisan Energy Bill, New York Times, 
+January 27, 2016. Online. Available: 
+http://www.nytimes.com/2016/01/28/us/politics/senate-bipartisan-energy-
+legislation.html?_r=0. 
+
+Committee History. http://energycommerce.house.gov/about/committee-history. 
+
+U.S. House of Representatives Committee On Energy And Commerce, 2013. Activity 
+Report for the One Hundred Twelfth Congress Together with Minority Views. Online. 
+
+Available: http://www.gpo.gov/fdsys/pkg/ CRPT-112hrpt746/pdf/CRPT-112hrpt746.pdf. 
+
+Energy and Power Subcomittee. Online. Available: 
+http://energycommerce.house.gov/subcommittees/energy-and-power. 
+
+U.S. House of Representatives Committee on Energy and Commerce, 2015. 114th 
+Congress Oversight Plan. Online. Available: 
+http://energycommerce.house.gov/sites/republicans.energycommerce.house.gov/files/ 
+analysis/114OversightPlan.pdf. 
+
+U.S. House of Representatives Committee on Energy and Commerce, 2015. Views and 
+Estimates on the President’s Budget for Fiscal Year 2016. Online. Available: 
+http://energycommerce.house.gov/sites/ 
+republicans.energycommerce.house.gov/files/analysis/ECFY2016ViewsEstimates.pdf. 
+
+Congressional Research Service Careers. Onlne. Available: http://www.loc.gov/crsinfo/. 
+
+History and Mission. Online. Available: http://www.loc.gov/crsinfo/about/history.html. 
+
+About CRS. Online. Available: http://www.loc.gov/crsinfo/about/. 
+
+Areas of Research. Online. Available: http://www.loc.gov/crsinfo/research/. 
+
+Brudnick, I., 2011. The Congressional Research Service and the American Legislative 
+Process. CRS Report for Congress, RL33471. Online. Available:   
+https://www.fas.org/sgp/crs/misc/RL33471.pdf. 
+
+Values. Online. Available: http://www.loc.gov/crsinfo/about/values.html. 
+
+Mazanec, M.B., Director, 2015. Annual Report of the Congressional Research Service of 
+the Library of Congress for Fiscal Year 2014 to the Joint Committee on the Library, 
+United States Congress. March. Online. Available: https://www.fas.org/sgp/crs/crs10.pdf. 
+
+Mullhollan, D.P, 2007. Access to CRS Reports. CRS Memo, April 18. Online. Available: 
+https://www.fas.org/sgp/crs/crs041807.pdf. 
+
+Congressional Research Reports. Online. Available: 
+https://en.wikipedia.org/wiki/Congressional_Research_Service_reports. 
+
+Kosar, K.R., 2015. Why I Quit the Congressional Research Service. Washington 
+Monthly. January/February. Online. Available: 
+http://www.washingtonmonthly.com/magazine/januaryfebruary_2015/features/why_i_qui
+t_the_congressional_r053467.php?page=all. 
+
+Resources, Science and Industry Division. Online. Available: 
+http://www.loc.gov/crsinfo/research/div-rsi.html. 
+
+Ratner, M., and C. Glover, 2014. U.S. Energy: Overview and Key Statistics. CRS Report 
+R40187. June. Online. Available: https://www.fas.org/sgp/crs/misc/R40187.pdf. 
+
+Carter, N.T., 2013. Energy-Water Nexus: The Energy Sector’s Water Use. CRS Report 
+R43199. August. Online. Available: https://www.fas.org/sgp/crs/misc/R43199.pdf. 
+
+Copeland, C., 2014. Energy-Water Nexus: The Water Sector’s Energy Use. CRS Report 
+R43200. January. Online. Available: https://www.fas.org/sgp/crs/misc/R43200.pdf. 
+
+Sherlock, M.F., and J.M. Stupak, 2015. Energy Tax Incentives: Measuring Value Across 
+Different Types of Energy Resources. CRS Report R41953. March. Online. Available: 
+https://www.fas.org/sgp/crs/misc/R41953.pdf. 
+
+Brown, P., 2012. Loan Guarantees for Clean Energy Technologies: Goals, Concerns, and 
+Policy Options. CRS Report R42152. January. Online. Available: 
+https://www.fas.org/sgp/crs/misc/R42152.pdf. 
+
+Cunningham, L.J., and B.A. Roberts, 2013. Renewable Energy and Energy Efficiency 
+Incentives: A Summary of Federal Programs. CRS Report R40913. October. Online. 
+
+Available: https://www.fas.org/sgp/crs/misc/R40913.pdf. 
+
+Parfomak, P.W., 2012. Energy Storage for Power Grids and Electric Transportation: A 
+Technology Assessment. CRS Report R42455. March. Online. Available: 
+https://www.fas.org/sgp/crs/misc/R42455.pdf. 
+
+Mazanec, M.B., Director, 2015. Annual Report of the Congressional Research Service of 
+the Library of Congress for Fiscal Year 2014 to the Joint Committee on the Library, 
+United States Congress. March. Online. Available: https://www.fas.org/sgp/crs/crs10.pdf. 
+
+Yacobucci, B.D., 2015. Energy Policy: 114th Congress Issues. CRS Report R42756. 
+
+January. Online. Available: https://www.fas.org/sgp/crs/misc/R42756.pdf. 
+
+About OSTP. Online. Available: 
+https://www.whitehouse.gov/administration/eop/ostp/about 
+About OSTP. Online. Available: 
+https://www.whitehouse.gov/administration/eop/ostp/about. 
+
+About PCAST. Online. Available: 
+https://www.whitehouse.gov/administration/eop/ostp/pcast/about. 
+
+About USGCRP – Organization & Leadership. Online. Available: 
+http://www.globalchange.gov/about/organization-leadership. 
+
+Mission. Online. Available: http://energy.gov/mission. 
+
+Organization Chart. Online. Available: http://energy.gov/leadership/organization-chart. 
+
+Secretary of Energy Advisory Board. Online. Available: http://energy.gov/seab/secretary-
+energy-advisory-board. 
+
+A Brief History of the Department of Energy. Online. Available: 
+http://energy.gov/management/office-management/operational-
+management/history/brief-history-department-energy. 
+
+A Brief History of the Department of Energy. Online. Available: 
+http://energy.gov/management/office-management/operational-
+management/history/brief-history-department-energy. 
+
+U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: 
+http://www.energy.gov/sites/prod /files/ 
+2014/04/f14/2014_dept_energy_strategic_plan.pdf. 
+
+Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: 
+http://arpa-e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+
+About (ARPA-E). Online. Available: http://arpa-e.energy.gov/?q=arpa-e-site-page/about. 
+
+The Advanced Research Projects Agency-Energy: Overview. Online. Available: 
+http://arpa-e.energy.gov/sites/default/files/ARPA-E_FactSheet.pdf. 
+
+National Academies Committee on Science, Engineering, and Public Policy. 2007. Rising 
+Above the Gathering Storm: Energizing and Employing America for a Brighter 
+Economic Future. National Academies Press. Online. Available: 
+http://www.nap.edu/catalog/11463/rising-above-the-gathering-storm-energizing-and-
+employing-america-for. 
+
+ARPA-E History. Online. Available: http://arpa-e.energy.gov/?q=arpa-e-site-page/arpa-e-
+history. 
+
+Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: 
+http://arpa-e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+
+Advanced Research Projects Agency – Energy Strategic Vision 2013. Online. Available: 
+http://arpa-e.energy.gov/?q=arpa-e-pdf/arpa-e-strategic-vision-2013. 
+
+The Advanced Research Projects Agency-Energy: Overview. Online. Available: 
+http://arpa-e.energy.gov/sites/default/files/ARPA-E_FactSheet.pdf. 
+
+EERE FY2016 Budget Request. Online. Available: 
+http://energy.gov/sites/prod/files/2015/02/f19/FY%202016 
+%20Rollout%20EERE%20Stakeholder%20Presentation.pdf. 
+
+Mission. Online. Available: http://energy.gov/eere/about-us/mission. 
+
+EERE Fact Sheet, 2011. Online. Available: 
+http://energy.gov/sites/prod/files/2013/11/f5/51111.pdf. 
+
+AllGov – EERE History. Online. Available: 
+http://www.allgov.com/departments/department-of-energy/office-of-energy-efficiency-
+and-renewable-energy?agencyid=7410. 
+
+EERE FY2016 Budget Request. Online. Available: 
+http://energy.gov/sites/prod/files/2015/02/f19/FY%202016 
+%20Rollout%20EERE%20Stakeholder%20Presentation.pdf. 
+
+Organization Chart. Online. Available: http://energy.gov/leadership/organization-chart. 
+
+EERE Organization Chart. Online. Available: http://energy.gov/eere/downloads/office-
+energy-efficiency-and-renewable-energy-organization-chart. 
+
+Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-
+programs.html. 
+
+National Renewable Energy Laboratory – What it Does. Online. Available: 
+http://www.allgov.com/departments/department-of-energy/national-renewable-energy-
+laboratory?agencyid=7406. 
+
+Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-
+programs.html. 
+
+Mission and Programs. Online. Available: http://www.nrel.gov/about/mission-
+programs.html. 
+
+Research. Online. Available: http://www.nrel.gov/research/. 
+
+Leading the Way to Energy Systems Research. Online. Available: 
+http://www.nrel.gov/docs/fy15osti/64071.pdf. 
+
+University of Colorado Leeds School of Business – NREL, National Renewable Energy 
+Laboratory. Online. Available: http://www.nrel.gov/about/assets/pdfs/nrel-economic-
+impact-summary-and-case-studies-2015.pdf. 
+
+About the National Labs. Online. Availabfle: http://energy.gov/about-national-labs.  
+
+U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: 
+http://energy.gov/leadership/organization-chart. 
+
+Eight National Labs Offer Streamlined Partnership Agreements to Help Industry Bring 
+New Technologies to Market, 2012. Online. Available: http://energy.gov/articles/eight-
+national-labs-offer-streamlined-partnership-agreements-help-industry-bring-new. 
+
+U.S. Department of Energy, 2014, Strategic Plan 2014-2018. Online. Available: 
+http://energy.gov/leadership/organization-chart. 
+
+Mission, Vision, Values. Online. Available: http://www.lanl.gov/mission/index.php. 
+
+Proud Legacy, Bold Future – Los Alamos National Laboratory Strategic Plan 2014. 
+
+Online. Available: http://www.lanl.gov/newsroom/_assets/pdf/los-alamos-national-
+laboratory-strategic-plan-2014.pdf. 
+
+Our History. Online. Available: http://www.lanl.gov/about/history-innovation/index.php. 
+
+Proud Legacy, Bold Future – Los Alamos National Laboratory Strategic Plan 2014. 
+
+Online. Available: http://www.lanl.gov/newsroom/_assets/pdf/los-alamos-national-
+laboratory-strategic-plan-2014.pdf. 
+
+Organization Chart. Online. Available: http://www.lanl.gov/about/leadership-
+governance/organization-chart.php. 
+
+Los Alamos Overview. Online. Available: http://www.lanl.gov/about/_assets/docs/fact-
+sheets/los-alamos-overview.pdf. 
+
+Energy Security Solutions. Online. Available: http://www.lanl.gov/mission/energy-
+security.php. 
+
+Energy Security Solutions. Online. Available: http://www.lanl.gov/mission/energy-
+security.php. 
+
+Facts, Figures. Online. Available: http://www.lanl.gov/about/facts-figures/. 
+
+About the Department of Defense (DoD). Online. Available: 
+http://www.defense.gov/About-DoD. 
+
+The United States Government Manual 2013. DEPARTMENT OF DEFENSE. Online. 
+
+Available: https://www.gpo.gov/fdsys/pkg/GOVMAN-2013-11-06/pdf/GOVMAN-2013-
+11-06.pdf. 
+
+DOD 101: Introductory Overview of the Department of Defense. Online. Available: 
+http://www.defense.gov/About-DoD/DoD-101#Our%20Bottom%20Line. 
+
+Department of Defense Energy Initiatives: Background and Issues for Congress. 
+
+Congressional Research Service 7-5700. Online. Available: 
+https://www.fas.org/sgp/crs/natsec/R42558.pdf. 
+
+Department of Defense. DIRECTIVE NUMBER 4180.01. April 16, 2014. Online. 
+
+Available: http://www.dtic.mil/whs/directives/corres/pdf/418001_2014.pdf. 
+
+Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%2
+0Strategy%20WEBc.pdf. 
+
+Fiscal Year 2014 Operational Energy Annual Report June 2015. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/FY14%20OE%20Annual%20Report.pdf. 
+
+Powering the U.S. military: An Interview with the Pentagon's Sharon Burke. McKinsey 
+& Co. Our Insights – Aerospace & Defense. April 2013. Online. Available:   
+http://www.mckinsey.com/industries/aerospace-and-defense/our-insights/powering-the-
+us-military#0. 
+
+Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%2
+0Strategy%20WEBc.pdf. 
+
+Office of the Assistant Secretary of Defense for Energy, Installations, and Environment. 
+
+About Us. Online. Available: http://www.acq.osd.mil/eie/AboutUs.html 
+About Installation Energy. Online. Available: 
+http://www.acq.osd.mil/eie/IE/FEP_index.html. 
+
+Installation Energy Office. Online. Available: 
+http://www.acq.osd.mil/eie/IE/FEP_index.html. 
+
+Annual Energy Management Report. Fiscal Year 2014. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/IE/FY%202014%20AEMR.pdf. 
+
+Mission History. Online. Available: 
+http://www.acq.osd.mil/chieftechnologist/mission/history.html. 
+
+Research & Engineering Enterprise. Online. Avaliable: 
+http://www.acq.osd.mil/chieftechnologist/index.html. 
+
+Communities of Interest – Collaborating on Technology Challenges. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/ATL-
+Magazine_COIs_Shaffer_March2015.pdf. 
+
+Energy Innovation at the Department of Defense: Assessing the Opportunities. Online. 
+
+Available: http://cspo.org/wp-content/uploads/2014/11/Energy-Innovation-at-DOD.pdf 
+Reliance 21 Operating Principles. Online. Available: 
+http://www.acq.osd.mil/chieftechnologist/publications/docs/Reliance21OpPrinciples-
+Jan2014.pdf. 
+
+Communities of Interest. Online. Available: 
+http://www.acq.osd.mil/chieftechnologist/COIs.html. 
+
+The Role of the Communities of Interest (COIs). Online. Available: 
+http://www.dtic.mil/ndia/2015SET/WedStubstad.pdf. 
+
+Defense Innovation Marketplace: Communities of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/coi.html. 
+
+Energy & Power Community of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EPCOIPoster.pdf. 
+
+The Role of the Communities of Interest (COIs). March 25, 2015. Online. Available: 
+http://www.dtic.mil/ndia/2015SET/WedStubstad.pdf. 
+
+DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA
+20150325.pdf. 
+
+Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%2
+0Strategy%20WEBc.pdf. 
+
+U.S. Military Energy and Power S&T Presented to: Session 2: Innovative Energy 
+Solutions for the Military: Emerging Technology Challenges Innovative Energy 
+Solutions for Military Applications (IESMA 2014). Online. Available: 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=2&ved=
+0ahUKEwj6i9iwpO7MAhXLJB4KHft2BPsQFggiMAE&url=https%3A%2F%2Fwww.ie
+sma.info%2Fdownload%2F125%2F8(2)_shaffer.pdf&usg=AFQjCNEJaj8cGQgO3mnJw
+epqrcu2LpBPkg&sig2=N0NnedAE6XMecjYyXopwxA. 
+
+DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA
+20150325.pdf. 
+
+DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA
+20150325.pdf. 
+
+U.S. Military Energy and Power S&T Presented to: Session 2: Innovative Energy 
+Solutions for the Military: Emerging Technology Challenges Innovative Energy 
+Solutions for Military Applications (IESMA 2014). Online. Available: 
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=2&ved=
+0ahUKEwj6i9iwpO7MAhXLJB4KHft2BPsQFggiMAE&url=https%3A%2F%2Fwww.ie
+sma.info%2Fdownload%2F125%2F8(2)_shaffer.pdf&usg=AFQjCNEJaj8cGQgO3mnJw
+epqrcu2LpBPkg&sig2=N0NnedAE6XMecjYyXopwxA 
+Department of Defense 2016 Operational Energy Strategy. Online. Available: 
+http://www.acq.osd.mil/eie/Downloads/OE/2016%20DoD%20Operational%20Energy%2
+0Strategy%20WEBc.pdf. 
+
+DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA
+20150325.pdf. 
+
+Energy & Power Community of Interest. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EPCOIPoster.pdf. 
+
+DoD Energy and Power Roadmap. Online. Available: 
+http://www.defenseinnovationmarketplace.mil/resources/EP_COI_NDIA_BriefingDistA
+20150325.pdf. 
+
+DARPA: Creating Breakthrough Technologies for National Security. Online. Available: 
+http://www.darpa.mil/attachments/CreatingBreakthroughechnologiesforNationalSecurity
+%20Update.pdf. 
+
+Defense Sciences Office (DSO) Office-wide. Online. Available: 
+https://www.fbo.gov/index?s=opportunity&mode=form&id=028fd5d5bf74f32be40d0528
+a3b0e5ba&tab=core&_cview=0. 
+
+Where the Future Becomes Now. Online. Available: http://www.darpa.mil/about-
+us/timeline/where-the-future-becomes-now. 
+
+About DARPA. Online. Available: http://www.darpa.mil/about-us/about-darpa. 
+
+DARPA Today: Anticipating and Meeting New Challenges. Online. Available: 
+http://www.darpa.mil/attachments/DARPATodayAnticipatingandMeetingNewChallenges
+.pdf. 
+
+Our Research. Online. Available: http://www.darpa.mil/our-research. 
+
+Innovation at DARPA. Online. Available: 
+http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf. 
+
+Innovation at DARPA. Online. Available: 
+http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf. 
+
+DARPA Brings Game-Changing Technology and Its Creators to Pentagon. Online. 
+
+Available: http://www.defense.gov/News-Article-View/Article/757279/darpa-brings-
+game-changing-technology-and-its-creators-to-pentagon. 
+
+Statement by Arati Prabhakar, Director, DARPA, before the Subcommittee on Emerging 
+Threats and Capabilities, Armed Services Committee, U.S. House of Representatives. 
+
+Online. Available: http://www.darpa.mil/attachments/HASC-ETC-PrabhakarA-
+20160224.pdf. 
+
+Statement by Arati Prabhakar, Director, DARPA, before the Subcommittee on Emerging 
+Threats and Capabilities, Armed Services Committee, U.S. Senate. Online. Available: 
+http://www.darpa.mil/attachments/DARPA2016SASCTestimony4-1-2016.pdf. 
+
+Where the Future Becomes Now. Online. Available: http://www.darpa.mil/about-
+us/timeline/where-the-future-becomes-now. 
+
+DSO Offices. Online. Available: http://www.darpa.mil/about-us/offices. 
+
+Budget. Online. Available: http://www.darpa.mil/about-us/budget. 
+
+Breakthrough Technologies for National Security. Online. Available: 
+http://www.darpa.mil/attachments/DARPA2015.pdf. 
+
+DARPA Transitions: Out of the Laboratory and Into the Field. Online. Available: 
+http://www.darpa.mil/attachments/DARPATransitionsOutoftheLaboratory.pdf. 
+
+DARPA Accomplishments: Seminal Contributions to National Security Online. 
+
+Available: 
+http://www.darpa.mil/attachments/DARPAAccomplishmentsSeminalContributionstoNati
+onalSecurity.pdf. 
+
+Materials for Transduction (MATRIX). Online. Available: 
+http://www.darpa.mil/program/matrix. 
+
+Who We Are. Online. Available: http://www.dtra.mil/Careers/Who-We-Are/. 
+
+History. Online. Available: http://www.dtra.mil/About/History/. 
+
+One Team Leadership. Online. Available: http://www.dtra.mil/About/One-Team-
+Leadership/. 
+
+Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-
+2020%20opt.pdf?ver=2016-03-23-135043-530. 
+
+Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-
+2020%20opt.pdf?ver=2016-03-23-135043-530. 
+
+Our Values Online. Available: http://www.dtra.mil/About/Our-Values/. 
+
+Strategic Plan. Online. Available: 
+http://www.dtra.mil/Portals/61/Documents/Missions/DTRA%20StratPlan%202016-
+2020%20opt.pdf?ver=2016-03-23-135043-530. 
+
+Research and Development. Online. Available: http://www.dtra.mil/Research/. 
+
+Success Stories. Online. Available: http://www.dtra.mil/Success-Stories/. 
+
+Defense Threat Reduction Agency, Broad Agency Announcement HDTRA1-11-21-
+BRCWMD, Amendment 5: 
+http://www.dtra.mil/Portals/61/Documents/BA%20DocsTemplates/HDTRA1-11-16-
+BRCWMD-CALL-Amendment%205_published%20version---.pdf. 
+
+Sutton, R., and G. Ullrich, 2007. High Energy Science & Technology Assessment. 
+
+Defense Threat Reduction Agency Contract No. DTRA01-03-E-0017, Task Order 18. 
+
+Online. Available: http://lenr-canr.org/acrobat/McKubreMCHcalorimetra.pdf. 
+
+McKubre, M.  J. Bao, F. Tanzella, and P. Hagelstein, "Calorimetric Studies of the 
+Destructive Stimulation of Palladium and Nickel Fine Wires”, Proceedings ICCF17, 
+(2012). Online. Available: http://lenr-canr.org/acrobat/McKubreMCHcalorimetra.pdf. 
+
+Mosier-Boss, P.A., L.P. Forsley, and P.J. McDaniel, 2016. Investigation of Nano-Nuclear 
+Reactions in Condensed Matter. Defense Threat Reduction Agency, Final Report. Online. 
+
+Available: http://lenr-canr.org/acrobat/MosierBossinvestigat.pdf. 
+
+Mission, Organization of the Navy. Online. Available: 
+http://www.navy.mil/navydata/organization/org-top.asp. 
+
+An Overview. Online. Available: http://www.navy.mil/navydata/organization/org-
+over.asp. 
+
+Department of the Navy Innovative Vision. Online. Available: 
+http://navylive.dodlive.mil/files/2015/04/Module-1_v13_LoRes_3.pdf. 
+
+Defense Department Energy Use Falls to Lowest Level Since at Least 1975. Online. 
+
+Available: http://www.eia.gov/todayinenergy/detail.cfm?id=19871 
+Department of the Navy (DON) Goals and Objectives for Fiscal Year 2016 (FY16). 
+
+Online. Available: 
+http://www.navy.mil/strategic/DON_Goals_and_Objectives_FY16.pdf. 
+
+Navy Energy Environment Climate Change – Energy. Online. Available: 
+http://greenfleet.dodlive.mil/energy/. 
+
+The Department of the Navy’s Energy Goals. Online. Available: 
+http://www.navy.mil/features/Navy_EnergySecurity.pdf. 
+
+U.S. Navy Program Guide 2015. Online. Available: http://www.navy.mil/strategic/top-
+npg15.pdf. 
+
+Task Force Energy. Online. Available: http://greenfleet.dodlive.mil/energy/task-force-
+energy/. 
+
+Energy Task Force Charter. Online. Available: 
+http://greenfleet.dodlive.mil/files/2010/10/TFE_Charter.pdf. 
+
+Energy and Environmental Readiness Division. Online. Available: 
+http://www.navy.mil/local/opnavn45/. 
+
+Science & Technology. Online. Available: http://greenfleet.dodlive.mil/energy/science-
+and-technology/. 
+
+Power Generation. Online. Available: http://greenfleet.dodlive.mil/energy/science-and-
+technology/power-generation/. 
+
+The Office of Naval Research – Research Guide. Online. Available: 
+http://www.onr.navy.mil/About-ONR/History/History-Research-Guide.aspx. 
+
+Office of Research. Online. Available: http://www.onr.navy.mil/Science-
+Technology/Directorates/office-research-discovery-invention.aspx. 
+
+SwampWorks. Online. Available: http://www.onr.navy.mil/en/Science-
+Technology/Directorates/office-research-discovery-invention/swampworks-
+innovation.aspx. 
+
+Office of Technology. Online. Available: http://www.onr.navy.mil/Science-
+Technology/Directorates/Transition.aspx. 
+
+Naval Science and Technology Strategy. Online. Available: 
+http://www.onr.navy.mil/About-ONR/science-technology-strategic-plan.aspx. 
+
+U.S. Navy Program Guide 2015, Section 7. Online. Available: 
+http://www.navy.mil/strategic/top-npg15.pdf. 
+
+NRL 2014 Review. Online. Available: 
+http://www.nrl.navy.mil/content_images/2014_NRL_Review.pdf. 
+
+Mission. Online. Available: http://www.nrl.navy.mil/about-nrl/mission/. 
+
+About NRL. Online. Available: http://www.nrl.navy.mil/about-nrl/. 
+http://www.onr.navy.mil/Science-Technology/Directorates/office-research-discovery-
+invention/Laboratory-Research.aspx. 
+
+Directorates and Divisions. Online. Available: 
+http://www.nrl.navy.mil/research/directorates-divisions/. 
+
+NRL 2015 Review. Online. Available: http://www.nrl.navy.mil/media/publications/nrl-
+review/. 
+
+About Us. Online. Available: http://www.uspto.gov/about-us. 
+
+USPTO Strategic Plan, 2014-2018. Online. Available: 
+http://www.uspto.gov/sites/default/files/documents/USPTO_2014-
+2018_Strategic_Plan.pdf. 
+
+About Us. Online. Available: http://www.uspto.gov/about-us. 
+
+United States Patent and Trademark Office, Fiscal Year 2016 President’s Budget 
+Submission/Congressional Justification, February 2015. Online. Available: 
+http://www.uspto.gov/sites/default/files/documents/fy16pbr.pdf. 
+
+USPTO Strategic Plan, 2014-2018. Online. Available: 
+http://www.uspto.gov/sites/default/files/documents/USPTO_2014-
+2018_Strategic_Plan.pdf. 
+
+What Does NASA Do? Online. Available: 
+http://www.nasa.gov/about/highlights/what_does_nasa_do.html. 
+
+NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+
+NASA Organization and Structure. Online. Available: 
+http://www.nasa.gov/about/org_index.html. 
+
+What’s Next for NASA? Online. Available: http://www.nasa.gov/about/whats_next.html. 
+
+NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+
+NASA Strategic Plan, 2014. Online. Available: 
+https://www.nasa.gov/sites/default/files/files/FY2014_NASA_SP_508c.pdf. 
+
+Our Mission and What We Do. Online. Available: http://www2.epa.gov/aboutepa/our-
+mission-and-what-we-do/. 
+
+Clean Energy Programs. Online. Available: http://www.epa.gov/energy/clean-energy-
+programs. 
+
+National Science Foundation Strategic Plan for 2014 – 2018. Online. Available: 
+http://www.nsf.gov/pubs/2014/nsf14043/nsf14043.pdf. 
+
+Investing in Science, Engineering, and Education for the Nation’s Future. Online. 
+
+Available: https://www.nsf.gov/news/strategicplan/nsfstrategicplan20142018flyer.pdf/. 
+
+Fact Sheet – National Science Foundation. Online. Available: 
+https://www.nsf.gov/news/news_summ.jsp?cntn_id=100595. 
+
+About the National Science Foundation, NSF at a Glance. Online. Available: 
+https://www.nsf.gov/about/. 
+
+Who We Are. Online. Available: http://www.nationalacademies.org/about/whoweare/. 
+
+Who We Are. Online. Available: http://www.nationalacademies.org/about/whoweare/. 
+
+Our Program Units. Online. Available: http://nationalacademies.org/nrc/index.html. 
+
+Frequently Asked Questions. Online. Available: 
+http://nationalacademies.org/about/faq/index.html. 
+
+National Academies of Science, Engineering, and Medicine. Online. Available: 
+https://en.wikipedia.org/wiki/National_Academies_of_Sciences,_Engineering,_and_Medi
+cine. 
+
+Cicerone, R.J., C.D. Mote, Jr., and V.J. Dzau, 2014. Highlights of Selected Studies – 
+Natural Resources and the Environment in 2014 Report to Congress. Available: 
+http://www.nationalacademies.org/annualreport/. 
+
+About BEES. Online. Available: 
+http://sites.nationalacademies.org/DEPS/BEES/DEPS_047053. 
+
+America’s Energy Future Initiative. Online. Available: 
+http://www.kavlifoundation.org/americas-energy-future-initiative. 
+
+America’s Energy Future, Technology and Transformation. Online. Available: 
+http://www.nap.edu/read/12710/chapter/5. 
+
+The National Academies, Climate Change, Background. Online. Available: http://nas-
+sites.org/americasclimatechoices/sample-page/background/. 
+
+The National Academies, Climate Change, Reports. Online. Available: http://nas-
+sites.org/americasclimatechoices/other-reports-on-climate-change/. 
+
+What FERC Does. Online. Available: https://www.ferc.gov/about/ferc-does.asp. 
+
+FERC Fiscal Year 2017 Congressional Performance Budget Request and Fiscal Year 
+
+
+2015 Annual Performance Report Online. Available: https://www.ferc.gov/about/strat-
+
+docs/2016/FY17-Budget-Request.pdf. 
+
+FERC Strategic Plan, FY 2014–FY 2018. Online. Available: 
+https://www.ferc.gov/about/strat-docs/strat-plan.asp. 
+
+About FERC. Online. Available: https://www.ferc.gov/about/about.asp. 
+
+FERC Strategic Plan, FY 2014–FY 2018. Online. Available: 
+https://www.ferc.gov/about/strat-docs/strat-plan.asp. 
+
+Greenfield, L.R., 2010. An Overview of the Federal Energy Regulatory Commission and 
+Federal Regulation of Public Utilities in the United States. Online. Available: 
+https://www.ferc.gov/about/ferc-does/ferc101.pdf. 
+
+Mission and Overview. Online. Available: 
+http://www.eia.gov/about/mission_overview.php. 
+
+Legislative Timeline. Online. Available: 
+http://www.eia.gov/about/legislative_timeline.php. 
+
+About EIA. Online. Available: http://www.eia.gov/about/index.php. 
+
+EIA Strategic Plan 2014-2018. Online. Available: 
+http://www.eia.gov/about/strategic_plan.php. 
+
+EIA Organization Chart. Online. Available: 
+http://www.eia.gov/about/organization_chart.php. 
+
+Products, Services, and Tools. Online. Available: 
+http://www.eia.gov/about/products_services.php. 
+
+About NETL. Online. Available: https://www.netl.doe.gov/about. 
+
+NETL Overview. Online. Available: 
+http://www.netl.doe.gov/File%20Library/Publications/others/NETL_Flyer.pdf. 
+
+History. Online. Available: https://www.netl.doe.gov/about/netl-history. 
+
+Mershon, Sherie, and Tim Palucka, 2010. National Energy Technology - A Century of 
+Innovation. Online. Available: 
+https://www.netl.doe.gov/File%20Library/NewsRoom/NETL-
+A_Century_of_Innovation.pdf. 
+
+Mission/Overview. Online. Available: https://www.netl.doe.gov/about/mission-and-
+overview. 
+
+Organization. Online. Available: https://www.netl.doe.gov/about/organization. 
+
+NETL Annual Report 2015. Online. Available: 
+http://www.netl.doe.gov/File%20Library/NewsRoom/AR2015.pdf. 
+
+Research. Online. Available: http://www.netl.doe.gov/research. 
+
+DNI Homepage. Online. Available: https://www.dni.gov/index.php. 
+
+History. Online. Available: https://www.dni.gov/index.php/about/history. 
+
+ODNI FAQ. Online. Available: https://www.dni.gov/index.php/about/faq?limitstart=0. 
+
+ODNI FAQ 
+Vision Poster. Online. Available: 
+https://www.dni.gov/files/documents/ODNI_mission_poster_FINAL.pdf. 
+
+ODNI Fact Sheet. Online. Available: 
+https://www.dni.gov/files/documents/ODNI%20Fact%20Sheet_2011.pdf. 
+
+Careers at ODNI. Online. Available: https://www.dni.gov/index.php/careers/careers-at-
+odni. 
+
+CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. 
+
+Brennan, 2016. Online. Available: https://www.brookings.edu/wp-
+content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+
+History of the CIA. Online. Available: https://www.cia.gov/about-cia/history-of-the-cia 
+Today’s CIA. Online. Available: https://www.cia.gov/about-cia/todays-cia. 
+
+Members of the IC. Online. Available: https://www.dni.gov/index.php/intelligence-
+community/members-of-the-ic. 
+
+CIA Vision, Mission, Ethos & Challenges. Online. Available:  
+CIA Vision, Mission, Ethos & Challenges. Online. Available:  
+CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. 
+
+Brennan, 2016. Online. Available: https://www.brookings.edu/wp-
+content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+
+CIA Organization Chart. Online. Available: https://www.cia.gov/about-
+cia/leadership/cia-organization-chart.html. 
+
+Today’s CIA. Online. Available: https://www.cia.gov/about-cia/todays-cia. 
+
+CIA’s Strategy in the Face of Emerging Challenges: Remarks by CIA Director John O. 
+
+Brennan, 2016. Online. Available: https://www.brookings.edu/wp-
+content/uploads/2016/06/20160713_cia_brennan_transcript.pdf. 
+
+Members of the IC – Defense Intelligence Agency. Online. Available: 
+https://www.dni.gov/index.php/intelligence-community/members-of-the-ic. 
+
+Defense Intelligence Agency, 35 Years, A Brief History. Online. Available: 
+https://fas.org/irp/dia/dia_history.pdf. 
+
+DIA Leadership. Online. Available: http://www.dia.mil/About/Leadership/. 
+
+Frequently Asked Questions. Online. Available: http://www.dia.mil/About/FAQs/. 
+
+DIA Strategy. Online. Available: http://www.dia.mil/About/Strategy/. 
+
+DIA Organization. Online. Available: http://www.dia.mil/About/Organization/. 
+
+Defense Intelligence Agency, 2009. Technology Forecast: Worldwide Research on Low-
+Energy Nuclear Reactions Increasing and Gaining Acceptance. Defense Analysis Report 
+DIA-08-0911-003. November. Online. Available: http://lenr-
+canr.org/acrobat/BarnhartBtechnology.pdf. 
+
+About IARPA – History. Online. Available: https://www.iarpa.gov/index.php/about-
+iarpa. 
+
+Intelligence Advanced Research Projects Activity: Who We Are. Online. Available: 
+https://www.dni.gov/index.php/about/organization/intelligence-advanced-research-
+projects-activity-who-we-are. 
+
+About IARPA. Online. Available: https://www.iarpa.gov/index.php/about-iarpa. 
+
+Become a Program Manager. Online. Available: 
+https://www.iarpa.gov/index.php/careers/become-a-program-manager. 
+
+What We Do. Online. Available: 
+https://www.dni.gov/index.php/about/organization/intelligence-advanced-research-
+projects-activity-what-we-do, 
+IARPA Analysis. Online. Available: https://www.iarpa.gov/index.php/about-
+iarpa/analysis. 
+
+IARPA 2016 Review. Online. Available: https://www.iarpa.gov/index.php/about-
+iarpa/2016-year-in-review. 

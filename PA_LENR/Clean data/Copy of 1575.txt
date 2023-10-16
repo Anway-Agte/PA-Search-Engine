@@ -1,0 +1,1267 @@
+1. Introduction
+
+There has been considerable theoretical eﬀort on the problem of anomalies in metal
+deuterides.a There exist some dated reviews of theoretical work,1,2 but there has
+been no attempt in recent years to review work in this area generally. There is
+general agreement within the community that the excess heat eﬀect is real, and
+that nuclear emissions occur.
+The evidence for 4He production correlated with
+excess heat is compelling, and suggests that whatever is going on is consistent with
+an underlying d+d → 4He reaction mechanism. Neither experiment nor theory has
+so far clariﬁed how any of this works to the satisfaction of the community.
+
+Recent theoretical work can be divided immediately into eﬀorts that focus on
+reaction mechanisms consistent with d+d → 4He, and other reaction mechanisms.
+With respect to the latter, Fisher has proposed reactions that involve polyneutrons,3
+and Kozima has written about neutron bands and neutron “drops”.4 With respect
+aFor example, on the order of 70 abstracts on theoretical work were submitted for ICCF4.
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+to the former, there are several diﬀerent approaches currently being pursued that
+involve deuteron-deuteron reactions in some way. The possibility that the Coulomb
+interaction can be suppressed is being pursued by two eﬀorts: Kim and coworkers5
+have written that quantum many-body eﬀects may accomplish this; and S. R. Chubb
+and T. A. Chubb have argued that ion band state eﬀects can lead to an eﬀective re-
+duction of the Coulomb interaction.6,? Li and coworkers have studied the possibility
+that resonant tunneling eﬀects can account for some of the anomalies.8 Hundreds of
+other works have been put forth that we have not mentioned in this brief discussion.
+
+Most of the theoretical ideas put forth, including those cited above, have not
+been generally accepted as an explanation for the anomalies, and have not been
+pursued by other groups.b There are two approaches which have attracted some
+wider interest: these include the ideas of Takahashi, and of Preparata. Takahashi
+has written most recently about a proposed multi-deuteron resonant fusion scheme,
+in which three or more deuterons tunnel together in the metal deuteride.9
+
+The general approach of Preparata is most closely related to the approach we
+have taken as discussed in this paper. Very much simpliﬁed, Preparata proposes that
+two deuterons make an electromagnetic transition to an intermediate nuclear state,
+and a second electromagnetic transition to the helium ground state.10 The transi-
+tions in this three-state model are collective in the same sense as those described in
+our work. The electromagnetic interaction is coupled to electronic plasma modes
+in Preparata’s approach. Preparata’s ideas have attracted interest and support,11
+and remains an area of active research12,13 following his loss before ICCF8.14
+
+Our earliest eﬀorts at developing models capable of predicting the fast reaction
+rates associated with the experimental claims were not particularly successful. After
+numerous failed attempts and many disappointments, we decided to focus instead
+on physical mechanisms, in the hope that understanding would emerge from a more
+fundamental point of view. A clear identiﬁcation of the physical mechanisms in-
+volved might lead to incremental advances of connecting one piece of the puzzle at a
+time between theory and experiment. In the middle 1990s, this approach began to
+have the ﬁrst minor successes in making connections between physical statements
+and experimentally observed eﬀects.
+Incremental advances since that time have
+moved the models forward to their present form, where there now seem to be many
+connections to diverse experiments and eﬀects. We believe that further eﬀort along
+these lines will ultimately provide for a satisfactory theoretical understanding of
+the phenomena in general. In the sections that follow, we have made an attempt to
+give a systematic account of the diﬀerent aspects of the models under development.
+
+The starting place for our modeling at present is a pretty solid foundation that
+proposes that a description of nuclear processes in a metal deuteride should proba-
+bly include the solid state environment at the outset in the formulation. Standard
+models from nuclear based on the application of vacuum physics models to metal
+deuterides will be successful in describing processes in which the solid state sys-
+tem interacts minimally. These do not include the new eﬀects (low-level dd-fusion,
+energetic products not due to dd-fusion, heat and helium production, tritium pro-
+duction, and other anomalies), which from our perspective are a consequence of
+including the solid state in a fundamental way in the problem.
+
+Although this manuscript is overly long for an ICCF proceedings paper, we are
+able to review only brieﬂy a subset of the issues. Under such conditions, there is no
+possibility of adequately addressing issues properly. Consequently, we have made
+an attempt to isolate the main conjectures which have allowed us to make progress
+on the problem, and to spell them out simply and clearly. In this way, attention
+might be focused on the more important arguments and aspects of the models.
+
+
+2. Maximization of the Deuteron-Deuteron Overlap
+
+Certain speciﬁc aspects of diﬀerent experimental results suggest that reactions in-
+volving two deuterons in the metal lattice occur. Examples of these include: (a)
+the reported observations of 4He in proportion to the excess energy, with a reaction
+Q value of 24 MeV, consistent with a d+d →4He mechanism; (b) observations of
+dd-fusion reaction products at low levels and (c) observations of anomalies in metal
+deuterides with the absence of similar eﬀects in metal hydrides. Consequently, we
+should be interested in the conditions under which two deuterons might come into
+close proximity so that they might react. This leads us to our ﬁrst conjecture:
+Conjecture I:
+The probability that two deuterons will interact is maximized in the case
+of states involving double site occupancy of deuterium in a metal deu-
+teride. Increasing the occupation of such states increases the reaction
+rate or the probability of reactions occuring.
+
+2.1. Maximization of the Overlap:
+The argument in support of this conjecture can be presented in terms of an idealized
+model described by the Hamiltonian
+This Hamiltonian describes two deuterons that are conﬁned within a potential that
+extends over neighboring octahedral sites in a metal deuteride. Consider the ground
+state solution for the associated time-independent Schr¨odinger equation
+An approximate solution can be developed of the form
+where the φ functions are single deuteron wavefunctions and the Ri are the equi-
+librium positions in the octahedral sites. The separation function g(r2 − r1) serves
+to keep the deuterons apart when they are in the same site.
+
+The overlap probability in the special case that the two deuterons are assumed
+to be centered at neighboring sites in this approximation is
+Pij(r) = Vnuc |φ(r − Ri)|2|φ(r − Rj)|2g2(0)
+where Vnuc is a nuclear volume. The overlap probability when the two deuterons
+are at the same site is
+Pii(r) = Vnuc |φ(r − Ri)|2|φ(r − Ri)|2g2(0)
+The same-site overlap probability is maximized when the deuterons are both at the
+equilibrium position
+Pii(Ri) = Vnuc |φ(0)|2|φ(0)|2g2(0)
+To see how big the site-other-site overlap can be, we take the ratio of Pij(r) and
+the same site overlap at the equilibrium position
+Pij(r)
+Pii(Ri) = |φ(r − Ri)|2
+|φ(0)|2
+|φ(r − Rj)|2
+|φ(0)|2
+If we compute the ratio at a point r half-way between the two equilibrium sites,
+we ﬁnd that a very small ratio is recovered, as the probability for tunneling to the
+half-way point is very small. A computation of the overlap probability near one of
+the equilibrium points is also very small, as one of the deuterons must tunnel all the
+way from one equilibrium point to the other. We conclude from this argument that
+two deuterons have the best chance of interacting if they occupy the same site.
+
+
+2.2. Connection with Experiment:
+There are a variety of rather practical consequences that follow from this ﬁrst con-
+jecture. In no experiment has it been established directly that double occupancy
+states are occupied signiﬁcantly, and hence there is no direct experimental connec-
+tion between the occupation of such states and the occurrence of anomalies. But
+there is considerable indirect evidence, some of which we enumerate as follows:
+(1) In Fleischmann-Pons experiments performed at SRI and elsewhere in the early
+1990s, there appeared a correlation between the occurence of excess heat and high
+loading.15 This is consistent with a requirement for deuterium in states of double
+occupancy, and we propose this as a more fundamental version of the requirement.
+(2) It has been noted by several experimentalists that the excess heat eﬀect is im-
+proved with increasing operating temperature.e Storms reported a measurement
+of the strong dependence of excess heat on temperature in a Fleischmann-Pon ex-
+periment, reporting it in terms of an activation energy through a statistical factor
+(e−E/kT), with E serving as a chemical activation energy.17 The energy is this
+measurement was about 670 meV. We propose that this temperature dependence
+is due in part to excitation to states of double deuterium occupation, with most
+of the 670 meV being associated with this particular kind of promotion.
+(3) The activation energy for double occupancy is reduced in the presence of a single
+most metal atom vacancy. Metal lattices that are highly defective in this regard
+would be expected to be superior. This may be consistent with observations in the
+case of codeposition experiments and with the results of Case. Case recently gave
+results for his highly defective Pd catalyst on carbon, noting that the excess heat
+appeared to increase with temperature (from 185 C to 205 C) with an associated
+activation energy of 13 kcal/mol, which is about 560 meV.18
+(4) Little in the models under discussion in this manuscript suggest that PdD is unique
+in the properties required for excess heat or other anomalies. Instead, it is the abil-
+ity to load Pd very highly using electrochemistry near room temperature to achieve
+a high deuterium chemical potential that is more relevant in the Fleischmann-Pons
+experiment. Excess heat and other anomalies have been reported in a variety of
+other metal deuterides. In the Case experiment, the loading is not particularly
+high, yet there seems to be good evidence that excess heat is produced.
+
+
+3. Site-other-site Reactions
+
+Nuclear physics as currently understood in the mainstream literature and in text-
+books does not provide a physical basis for the anomalies, as has been noted many
+times since 1989. Consequently, there must be new physical processes involved.
+Experimental results in which heat, or fusion products at low level, are observed
+are indicative that new physics is going on; but, in our view does not provide much
+insight as to precisely what physical mechanisms are involved. For this, we turn
+to experiments in which low-level nuclear products are seen that are not consistent
+with dd-fusion.
+
+In some experiments involving metal deuterides, fast alpha particles have been
+seen in relatively small amounts. In the case of PdD, alphas have been observedf
+between 11 and 16 MeV.19 In the case of TiD, alphas and protons have been observed
+near 14 MeV.20 We proposed previously that alpha emission above 10 MeV might
+occur based on a new kind of site-other-site reaction process, in which the energy
+from a reaction at one site is coupled to a reaction at another site.22 We previously
+conjectured that site-other-site reactions of the form23,24,25
+(d + d)a + (APd)b −→ (4He)a + (A−4Ru +4 He)b
+are involved in the production of fast alphas in the case of the PdD experiments.
+
+Below, we propose a modiﬁcation of this kind of reaction, to be more consistent with
+the nuclear physics literature. Nevertheless, this leads us to our second conjecture:
+Conjecture II:
+It is possible for nuclear reactions at two sites to be coupled together as
+a second-order (or part of a higher-order) quantum process.
+
+For this to be so, reactions at each site individually must exchange a quantum with
+some quantum system that has a coherence length which encompasses both sites.
+In the course of our investigations, we examined for this photon exchange, phonon
+exchange and interactions with plasmons. In the end, it seemed to be clear that
+phonon exchange would produce the largest eﬀect of this sort, as phonon exchange
+in nuclear reactions would be mediated by the strong force, and hence be much
+stronger than processes involving photon exchange.
+
+3.1. Lattice Resonating Group Method:
+Phonon exchange is usually not included in nuclear physics calculations of fusion
+processes. Our intuition about how nuclear reactions occur is based on a vacuum
+description, which was developed around 1930 and used successfully for nuclear
+physics work ever since. In this picture, a fast deuteron approaching a stationary
+deuteron in a metal deuteride might with some small probability tunnel to the sta-
+tionary deuteron, approaching it on the fermi scale. If the two deuterons approach
+close enough to touch on the nuclear scale, then nuclear rearrangement can occur,
+and the exothermic nuclear products p+3H or n+3He leave about as fast as the laws
+of physics allows. Processes mediated by the strong force are no longer possible once
+the product nuclei are separated by about 10 fm, which occurs on a time scale on
+the order of 10−21 seconds. There is no time to communicate that a reaction has
+happened with neighbors on the atomic scale before the reaction is over and done.
+Hence the reaction physics should be well described by a vacuum description. De-
+tailed computations done using the resonating group method or R-matrix method,
+both vacuum models, give good agreement with experimental results.
+
+Both the resonating group method and R-matrix method can be generalized to
+include phonon exchange with little diﬃculty, at least formally. In the case of the
+resonating group method,26 we might write the variational wavefunction Ψt in the
+form
+where the Φj keep track of the nuclear structure of the reactants, and the chan-
+nel separation factors Fj describe the relative coordinates of the reactants. The
+optimization of the channel separation factors is accomplished through
+The generalization of the resonating group method24 can be accomplished by as-
+suming a diﬀerent variational wavefunction Ψt
+where the Ψj are lattice channel separation factors, which keep track of the sep-
+aration of the reactants as well as the position of the other quantum particles in
+the relevant local environment. The optimization of the lattice channel separation
+factors is accomplished analogously
+With this generalization, we have an improved formulation that now includes
+phonon exchange, and contains earlier vacuum descriptions as a limit or subset.
+The new physics is compatible with earlier work in nuclear physics. This leads us
+to our third conjecture
+Conjecture III:
+The anomalies in metal deuterides can be accounted for theoretically
+within a formulation that generalizes the vacuum models to include the
+local solid state environment. No other new basic physics is required
+beyond what is in the textbooks, at least in principle.
+
+Figure 1.
+Schematic of an idealized second-order two-site reaction for the experiment of Lipson
+et al. Site-other-site coupling leads to the formation of a Bohr excited nuclear state in Pd, which
+decays through a multitude of channels (some of which are indicated).
+
+There have been a wide variety of novel physical mechanisms proposed, including
+the possibility that quantum mechanics will need to be replaced, to account for
+the new experiments. In this conjecture, a belief is being expressed that only a
+single very plausible new piece of physics needs to be added to the large body of
+established physical law to make progress on this class of problem. In our work we
+have had much success proceeding in this way, but at this point we have no proof
+that this is so.
+
+3.2. Connection with Experiment:
+Although the second-order site-other-site reaction mechanism under discussion is
+new, we would expect the alpha ejection part of the process to be something like
+photon-induced alpha emission, at least in the limit that a small number of phonons
+are exchanged. This latter process has been studied in the nuclear physics literature
+over the years, and at present is reasonably well understood. Photoalpha emission
+occurs primarily through a process in which an excited nucleus is formed, from which
+alphas and other particles evaporate.27 There does exist a direct mechanism,28 as we
+assumed in our earlier discussions, but this is at most a minor fraction of the total
+process. Photoalpha emission itself is only a small part of the total photoabsorption
+process.
+Most of the alpha particles within the statistical model are ejected at
+energies well below the maximum energy associated with a ground state to ground
+state direct process. Consequently, the signature of alpha ejection in the case of
+metal deuterides should instead be a broad distribution centered at energies below
+the maximum energy.29 The resulting site-other-site mechanism is illustrated in
+Figure 1.
+
+Figure 2.
+Spectrum for alpha emission estimate from a naive version of the Weisskopf-Ewing
+approximation.
+
+(1) The observation of alphas in PdD in the range of 11-16 MeV of Lipson et al.19
+appears to be consistent with this kind of mechanism.
+We have estimated the
+alpha spectrum (see Figure 2) for this kind of mechanism from a naive version of
+the Weisskopf-Ewing model27 based on
+I(E) ∼ e−2G(E) E e(aϵ)1/2
+with ϵ = ∆E − Iα − E. This spectrum is a bit higher in energy than the experi-
+mental results. Note that a signiﬁcant energetic proton signal would be expected
+below 14 MeV.
+(2) The alpha and proton signals seen in TiD by Lipson et al.20 is similarly consistent
+with the mechanism under discussion. The maximum proton and alpha energies for
+the diﬀerent titanium isotopes is shown in Figure 3. We note that the alpha yield
+from photoﬁssion is larger in Ti than in Pd, which leads one to wonder whether
+the associated alpha signals in TiD through this mechanism would be larger than
+in PdD if all other things were equal.
+(3) We note the measurements of energetic low mass charged ions from TiD by Ce-
+cil’s group from the early 1990s, which is generally consistent with this kind of
+mechanism.30
+(4) This kind of site-other-site disintegration mechanism should produce primarily
+neutrons and protons, with alphas, deuterons and tritons as having a lower in-
+tegrated emission probability. Gammas would be present in connection with the
+stabilization of the daughter nuclei. In the case of neutron emission from a Bohr
+excited metal nucleus, a roughly exponential spectrum would be expected at low
+energy31 (with a smaller contribution from the direct process). There exists at
+least one report of a roughly exponential neutron emission from TiD.32
+It would be very interesting in future experiments to determine whether all of
+the expected particles and gammas are present in association with alpha emission, and to see whether the associated spectra can be compared with 24 MeV
+photodisintegration spectra.
+
+Figure 3.
+Maximum proton and alpha ejection energies assuming ∆E = 23.85 MeV.
+
+3.3. Not a Second-Order Process:
+It is not diﬃcult to develop a model for site-other-site coupling as a second-order
+process, such as outlined in previous work.24 The computation is illuminating for
+two reasons. The ﬁrst is that the resulting reaction rate is lower than experiment
+by tens of orders of magnitude, which leads immediately to the conclusion that this
+eﬀect is not a simple second-order quantum process (present thinking is that it is a
+decay channel for the null reaction process discussed below). The second is that the
+computation illustrates clearly issues associated with localization. For models with
+thermal excitation, the oﬀ-resonant phonon ﬁeld is localized, and there can be no
+eﬀect. For a single highly-excited phonon mode with single phonon exchange at both
+sites, the eﬀect is again local. However, for a single highly-excited phonon mode
+with nonlinear coupling at both sites, the second-order eﬀect would be nonlocal.
+This is interesting, and it provides a foundation for nonlocality in the case of the
+null reactions.
+
+
+4. Phonon Coupling
+
+In the previous section, we described a formulation in which phonon interactions
+might be included at the outset in a fusion calculation. The resulting formulation
+is written in terms of lattice channel separation factors, which are much more com-
+plicated than the channel separation factors of the vacuum version of the problem.
+We have introduced a simplifying picture which allows for progress to be made on
+detailed calculations with the new model.
+
+The basic issue is that the solid state quantum system has a large number of
+degrees of freedom, and it is prohibitive to attempt a computation in which an
+attempt is made to keep track of all of them. Hence we seek simpler models that
+contain the eﬀects under discussion, but which neglect everything not essential. In
+this case, we propose an idealized model of the lattice in which a single phonon
+mode is highly excited, and all other phonon modes are excited thermally.33 In the
+case of an individual lattice separation factor, this simplifying picture would allow
+us to work with approximate lattice channel separation factors of the form
+Ψj −→ Fj φn
+where φn is a simple harmonic oscillator eigenfunction describing n phonons in the
+highly-excited mode. All other modes are presumed thermal, and we suppress them
+in the notation.
+
+There are numerous consequences of this, some of which will be touched on
+below. This leads us to yet another conjecture:
+Conjecture IV:
+Anomalies in metal deuterides are stimulated by strong phonon excita-
+tion.
+
+The basic idea is that without strong phonon excitation, site-other-site interactions
+are suppressed, and the new processes under discussion do not occur. The issues of
+which phonon modes need to be excited, and by how much, remain to be addressed.
+
+4.1. Mechanism:
+There are diﬀerent approaches to the problem of phonon exchange mechanism. We
+recognize at least two diﬀerent basic mechanisms. On the one hand, the positions
+of the center of mass of the diﬀerent nuclei are phonon operators, and the strong
+force between nuclei can be thought of as a nonlinear interaction of very high order.
+On the other hand, if a reaction occurs then the phonon modes themselves may be
+diﬀerent in the initial state reaction channel than in the ﬁnal state reaction channel.
+An early description of this eﬀect in the case of electronic transitions in molecules
+was given by Duschinsky.34 There is no reason in principle why both mechanisms
+cannot play a role at the same time.
+
+The two mechanisms lead to qualitatively diﬀerent kinds of results in the analysis
+of anomalies in metal deuterides. The Duschinsky mechanism is far selective in what
+speciﬁc reactions are favored, and leads to perhaps a simpler picture overall. At
+present, our focus is on the Duschinsky mechanism.
+
+Given a focus on Duschinsky coupling, the question that follows is what are
+the ramiﬁcations in the phonon-nuclear coupling problem. In molecular physics, a
+change in the phonon mode structure can result either from a change in the force
+constants or a change in the masses. From our perspective, if two deuterons are
+localized within fermis, then to the lattice they will look like a helium nucleus, in
+terms of both force constants and masses.g
+On the other hand, transitions that
+result in a free neutron behave very diﬀerently, since the neutron is invisible to the
+lattice. For these transitions, a Duschinsky eﬀect can be present since there is a
+mass change from the point of view of the lattice.
+
+4.2. Hybrid Description of Position Operators:
+We have noted previously that there are diﬃculties inherent in the calculation
+of phonon-nuclear interactions since the nuclear interactions are localized and the
+phonon excitation is not. A description based on the nuclear center of mass coordi-
+nates ˆRj is convenient for describing local interactions, but is highly inconvenient
+for describing a highly excited phonon mode. A description based on a decomposi-
+tion into phonon operators ˆqm
+is convenient for describing the highly excited phonon mode, but is highly incon-
+venient for describing local nuclear interactions.
+To resolve this issue, we have
+previously proposed a hybrid description of the form35
+ˆRj = uj ˆq + ˆRj
+which isolates explicitly the contribution of the highly excited phonon mode uj ˆq,
+and combines the contributions from all the other phonon modes into a residual
+position operator ˆRj.
+
+4.3. Phonon Interaction Matrix Element:
+The discussion above allows us to begin estimating the phonon interaction ma-
+trix element. It is perhaps convenient here to examine the construction under the
+simplifying assumption of a scalar Gaussian nuclear model (with distinguishable
+nucleons), since this construction makes clear how the coupling works in this ap-
+proach and allows for some initial quantitative estimates. We consider the speciﬁc
+example of phonon exchange in the case of a transition between the 4He ground
+state and an n+3He state.h We may write in the case of a particular interaction
+potential
+V nn′(r) = ⟨ Φ[n +3 He] φn | ˆH − E | Φ[4He] φn′ ⟩
+
+We can think of this as a phonon matrix element in the sense
+⟨ Φ[n +3 He] φn | ˆH − E | Φ[4He] φn′ ⟩ = ⟨φn| ˆΥ(r, ˆq)|φn′⟩
+where
+ˆΥ(r, q) = ⟨ Φ[n +3 He] | ˆH − E | Φ[4He] ⟩
+where the integration is over the internal coordinates of the 3He nucleus. Assuming
+a scalar Gaussian nuclear model,i we can take for the 4He nucleus a wavefunction
+of the form
+Φ[4He] = N4 e−β4|r1−r2|2
+e−β4|r1−r3|2
+e−β4|r1−r4|2
+e−β4|r2−r3|2
+e−β4|r2−r4|2
+e−β4|r3−r4|2
+where N4 is a normalization constant. For the n+3He channel we take
+Φ[n +3 He] = N3 e−β3|r1−r2|2 e−β3|r1−r3|2 e−β3|r2−r3|2
+since there is no internal nuclear structure in this model associated with the neutron.
+We take for the interaction
+ˆH − E −→ V0 [ e−α|r1−r4|2 + e−α|r2−r4|2 + e−α|r3−r4|2 ]
+where we assume a scalar Gaussian nuclear force of strength V0.
+
+4.4. Evaluation of the Interaction:
+Our interest in this model is in how the phonon interaction appears in the problem.
+The center of mass of the 4He and 3He nuclei (which are phonon position operators
+in the initial state and ﬁnal states, respectively) are located at
+ˆR[4He] = 1
+4[r1 + r2 + r3 + r4]
+ˆR[3He] = 1
+3[r1 + r2 + r3]
+The relative coordinates associated with the 3He nucleus are
+x1 = r1 − ˆR[3He]
+x2 = r2 − ˆR[3He]
+x3 = r3 − ˆR[3He]
+Since x1 + x2 + x3 = 0, the integral of Equation (19) is over two of these coordi-
+nates. The coordinate r4 can be expressed in terms of the diﬀerent center of mass
+coordinates according to
+r4 = 4 ˆR[4He] − r1 − r2 − r3 = 4 ˆR[4He] − 3 ˆR[3He]
+The lattice channel separation factor is a function of the distance between the
+neutron and 3He nucleus, which is a phonon operator
+ˆr = r4 − ˆR[3He] = 4
+ 
+ˆR[4He] − ˆR[3He]
+ 
+= ˆr + ∆u ˆq
+We see a dependence of the phonon interaction in this problem on the relative
+position operator ˆR[4He] − ˆR[3He], which will be nontrivial in this case since the
+transition involves a Duschinsky modiﬁcation of the phonon mode structure due
+to a mass change. This was not present in the dd to 4He matrix element that we
+considered before.25 The ˆΥ operator can then be written in the form
+ˆΥ(r, ˆq) = V0N3N4
+ 
+dx1
+ 
+dx2 e−β3|x1−x2|2e−β3|x1−x3|2e−β3|x2−x3|2
+ 
+e−α|r+∆uˆq−x1|2 + e−α|r+∆uˆq−x2|2 + e−α|r+∆uˆq−x3|2 
+e−β4|x1−x2|2e−β4|x1−x3|2e−β4|x2−x3|2e−β4|r+∆uˆq−x1|2e−β4|r+∆uˆq−x2|2e−β4|r+∆uˆq−x3|2
+where x3 = −x1 − x2. The remaining computation for the scalar Gaussian model
+is straightforward. We see in the discussion above that the coupling between the
+nuclei and phonons appears in a natural way within the new formulation. Phonon
+exchange can introduce angular momentum on the microscopic scale, and result in
+a modiﬁcation of the selection rules. Part of our research eﬀort is currently aimed
+at upgrading the phonon coupling model to take advantage of more realistic nuclear
+wavefunctions and force models.37
+
+4.5. Connection with Experiment:
+(1) Phonon exchange leads to the posibility of angular momentum exchange, which
+implies an ability to modify the microscopic angular momentum selection rules
+from the vacuum case.
+This lies at the heart of the possibility of d+d→4He
+transitions without gamma emission, as part of site-other-site fast alpha emission,
+or in connection with excess heat production.
+(2) There is at present no experimental result which demonstrates this mechanism
+cleanly in isolation.
+It may be possible to develop such an experiment.
+One
+possibility is low energy d+d reactions in a metal deuteride with a highly excited
+phonon mode, where phonon exchange would lead to a modiﬁcation of the product
+angular distribution. Perhaps a better implementation is in the case of a p(n,γ)d
+reaction under conditions where the neutron and gamma momenta are matched,
+again assuming a highly excited phonon mode. When the neutron and gamma
+momentum are equal in magnitude and collinear, the emission in the absence of
+this eﬀect will occur in a M¨ossbauer limit where no phonon exchange occurs.38
+Phonon exchange with a highly excited phonon ﬁeld should be able to produce a
+modiﬁcation in the resulting momentum matched angular distribution.
+(3) In the discussion that follows we will be interested in conditions under which 20
+or more units of angular momentum are exchanged through this mechanism in
+association with excess heat production. We estimated previously that a criterion
+for this is that the displacement of helium nuclei in relevant sites due to a single
+highly excited phonon mode should be on the order of 100 fm (independent of the
+phonon mode frequency). Consequently, we are interested in the issue of how such
+phonon excitation is developed in diﬀerent experiments to initiate an excess heat
+eﬀect. We have proposed previously that this can be accomplished by driving a
+deuterium ﬂux inside the metal deuteride down a sharp chemical potential step
+(which might be present inside the metal between diﬀerent regions, in the vicinity
+of layers of diﬀerent materials, or in the case of exothermic desorption of a highly
+loaded PdD sample). Evidence in support of this comes from the existence of a
+current threshold in association with the excess heat eﬀect, with the associated
+interpretation that only when the threshold is reached is there suﬃcient phononic
+excitation to transfer 20 or more units of angular momentum.
+
+
+5. Null Reactions
+
+If there can be new site-other-site reactions, as implied by the fast alpha experi-
+ments, the question might be asked as to what the fastest reaction of this kind might
+be, considering all possible atomic and nuclear mechanisms. Our initial speculation
+was that in the case of an initial phonon-coupled fusion process of the form d+d →
+4He (which we considered because of its implication in fast alpha emission), that
+the reaction rate would be fastest if coupled to the inverse process. In the case of
+a two-site reaction process, this would produce a reaction of the form
+(d + d)a + (4He)b −→ (4He)a + (d + d)b
+The original proposal involved phonon exchange at both sites, both to satisfy the
+microscopic selection rules and also to provide a mechanism for coupling the re-
+actions together. In light of the discussion in the previous section, our simplistic
+notion of the null reaction is probably useful for pedagogical purposes, but would
+not correspond precisely to the microscopic physics since the individual transitions
+do not involved phonon exchange through a local Duschinsky mechanism.
+
+In the initial analysis of this process it appeared that localized states might be
+produced. The initial argument was that as the Coulomb barrier inhibited tunneling
+in the case of deuterons tunneling initially from an atomic scale separation, the
+same Coulomb barrier should inhibit tunneling to an atomic scale separation. Our
+initial calculations seemed to support this notion, as long as transitions between
+several sites occured.
+Our current point of view has led to a more complicated
+picture, in which both the null reaction and the compact states are present, but as
+part of a more complex process. In this picture, initial transitions from D2 states
+associated with double site occupancy would go initially to compact n+3He states,
+thus satisfying the requirement for a Duschinsky transition. Compact n+3He states
+would undergo transitions to 4He states,j and it is these transitions which would be
+important in stabilizing the compact states. This leads us to our next conjecture:
+Conjecture V:
+Null reactions are the dominant processes of the new phonon-coupled
+site-other-site reactions in metal deuterides.
+
+As presently conceived, the most important and fastest of these are phonon-induced
+transitions between helium nuclei and compact n+3He states in metal deuterides.
+
+5.1. The Two-Site Problem:
+The simplest model that we can formulate that illustrates how site-other-site inter-
+actions might work within the new theory is the two-site problem. We proposed a
+version of this model earlier,25 in the context of null reactions based on d+d→4He
+transitions. Since that time our point of view has changed some, and our focus now
+is on diﬀerent aspects of the model. In the case of a simple scalar nuclear physics
+model, the two-site problem can be studied using a trial wavefunction of the form
+The optimization of the lattice channel separation factors in this case leads to
+coupled-channel equations which are provided in the Appendix. Our interest previ-
+ously was in the question of whether the two-site problem permitted stable bound
+state solutions, and if so whether the associated wavefunctions could be found. Al-
+though this question remains of interest to us, there are other issues that might
+proﬁtably be considered.
+
+A useful concept for a class of problems in quantum mechanics is the notion of
+a leaky well and nearly bound states. If one has a ﬁnite well with ﬁnite barriers,
+it may be possible to develop approximate bound states of the well. Since we have
+assumed that the barriers are ﬁnite, this approximate bound state will leak out of
+the well with a decay time that could be estimated through standard techniques.
+It would then be possible to use these unstable states as approximate basis states
+to calculate the dynamics (and other properties) of a particle within the lossy well.
+If we restricted our attention to the region inside the well, then we could make
+much progress from a knowledge of the nearly bound state energy, wavefunction,
+and decay rate. A ﬁnite basis description for the probability amplitude within the
+well could be developed in the form
+The expansion coeﬃcients would satsify and equation of the form
+If the basis states uj are approximately eigenfunctions within the well, then the
+matrix H will be approximately diagonal with the nearly bound state energy eigen-
+values. In this case the approximately diagonal matrix G would contain the decay
+rates for the diﬀerent nearly bound states.
+
+We can use this picture in connection with the two-site problem (or with many-
+site problems as well). Associated with each channel in the coupled-channel equa-
+tions we could assign a localized basis state which could in principle be optimized.
+Associated with each basis state an energy could be estimated (including kinetic
+and potential terms, but not including source terms). An estimate for the decay
+rate could be obtained (although there are probably elegant ways to do this, if all
+else fails one could solve for the rate of probability loss channel by channel when
+source terms are present). In the end, what is of interest in the development of a
+lossy matrix equation is a collection of energies, decay rates, and coupling matrix
+elements for the localized basis states in all of the channels.
+
+The outcome of this kind of model is a variety of conclusions, most of them
+obvious. We ﬁnd that localization increases the kinetic and centripetal energy terms,
+and that the degree of localization is determined by the nuclear interaction terms
+with phonon exchange vnn′
+lm – which depends on the maximum relative displacement
+|∆uqmax|, assuming that n is large. We also ﬁnd that the decay rates go down
+with increasing angular momentum l, and that the range of angular momentum l
+produced again depends on the maximum relative displacement |∆uqmax| and the
+number of phonons exchanged. We can think of the localized ﬁnite basis expansion
+in this case as being of the form
+The coeﬃcients cj,n(t) would then satisfy an equation of the form
+We end up with a potentially complicated description of the dynamics where the
+state energies, decay rates and coupling matrix elements all come into play. Al-
+though we have investigated a variety of approaches and approximations for the
+solution of the two-site problem, we do not have in hand solutions at present. The
+consideration of this problem has nevertheless taught us much about how to think
+about this kind of problem, how to begin to approach problems where more sites
+are involved, and also what kinds of simpler models might be relevant and illumi-
+nating about such problems. Our conclusion from these studies so far is that when
+suﬃcient angular momentum transfer occurs, the centripetal barrier inhibits tun-
+neling and the associated decay rates become very small. In this limit, we think it
+quite probable that rather stable compact states result in the case of the many-site
+version of the problem. This leads us to the following conjecture:
+Conjecture VI:
+Null reactions in metal deuterides can result in stable compact states
+when suﬃcient phonon exchange occurs so that on the order of 20 or
+more units of angular momentum are exchanged.
+
+5.2. Connection with Experiment:
+(1) The stabilization of localized states through angular momentum exchange in as-
+sociation with phonon exchange is a very interesting possibility in addressing the
+problem of how the new proposed phonon-nuclear reactions might compete against
+the very fast conventional d+d reactions. If a high centripetal barrier is present,
+then the conventional d+d reactions can be slowed down by tens of orders of
+magnitude.
+(2) Kasagi has reported the observation of unexpected fast proton and fast alpha
+signals that he has conjectured are due to a three-body reaction41
+d + d + d −→ n + p + 4He
+For such a reaction to occur, a single deuteron would need to come into contact
+with two deuterons that are within roughly 10 fermis, which is exceedingly unlikely
+without new physics. We have conjectured that these experiments may be inter-
+preted as detecting two-body compact states as discussed in the section above.42
+The compact states in this case would originate from deuterons in states of dou-
+ble occupancy in the metal deuteride, and hence have energies close to the two
+deuteron energy.
+The number of compact states consistent with Kasagi’s measurements, and also
+with similar experiments done recently at NRL,43 is on the order of 10−6 of the
+deuterons present in the near-surface part of the lattice. Such a large number of
+compact states would lead to very high rates of conventional dd-fusion products
+unless there was some mechanism to stabilize the compact states. Estimates of the
+phonon exchange potentials suggest that it is relatively easy for signiﬁcant angular
+momentum exchange to occur when many phonons are exchanged, suggesting that
+the compact states may have high angular momentum. The centripetal barrier
+present when there are on the order of 20 units of angular momentum or more is
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+suﬃcient to suppress the tunneling of fusion reaction products. Support for this
+conjecture comes from the relative absence of products from the two-body reaction
+channel in these experiments
+d + d + d −→ d + 4He
+d + d + d −→ t + 3He
+The relative absence of the two-body exit channels is consistent with the presence
+of signiﬁcant angular momentum in the compact state.
+(3) Information about the degree of localization of the compact state could in principle
+be obtained in Kasagi experiments in which the incident deuteron energy is varied.
+(4) Information about the amount of angular momentum present could in principle
+be obtained using a diﬀerent incident particle for which only two-body reaction
+products are available.
+In this case, conservation of angular momentum would
+require that the incident particle would need to contribute angular momentum in
+order to open channels with reduced angular momentum (and hence centripetal
+potential).
+(5) A interesting and important question is whether compact states might exist in
+the case of the p+d system. One might expect a Duschinsky phonon exchange
+mechanism to be available for compact p+p+n localized states.
+
+
+6. Energy Exchange between Nuclei and Phonons
+
+One of the most diﬃcult things to accept in the initial claim of the Fleischmann-
+Pons eﬀect was the possibility of converting nuclear quanta to heat in the absence of
+fast ions or neutrons. This issue has been of major concern in our studies over the
+past 15 years. In recent years we have favored models in which the energy exchange
+occurs a few phonon quanta at a time in association with a large number of very
+fast reactions. Our next conjecture is concerned with this issue:
+Conjecture VII:
+If suﬃcient angular momentum exchange occurs so as to stabilize the
+compact states, then the phonon exchange that occurs in association with
+null reactions couples energy eﬀectively between nuclear and phononic
+degrees of freedom.
+
+6.1. Phonon-Coupled SU(3) Model:
+In our discussion of the two-site model, we ended up with many lossy nuclear states
+coupled to potentially many states of a highly-excited phonon mode, and an asso-
+ciated matrix description given by Equation (33). To begin trying to understand
+the physical content of that model and more complicated models involving interac-
+tions between many sites, we turn our attention to much simpler toy models which
+seek to retain important features of the full model but are easier to analyze and to
+understand. The simplest possible model that has the potential of being relevant
+to this problem is the phonon-coupled SU(3) model. In this model, we assume that
+at a given site we may have three diﬀerent kinds of states: deuterons with double
+occupancy, compact n+3He states, and 4He ground states.
+Transitions between 
+compact states and 4He states occur with a large interaction strength, and occurs
+with enough phonon exchange to stabilize the compact states. Transitions between
+deuteron states and compact states occurs with a much weaker interaction due to
+the poor overlap between the molecular wavefunction associated with double occu-
+pancy and the compact nuclear states. All sites are assumed to interact uniformly
+with the highly excited phonon mode. The associated Hamiltonian is
+The energies of the diﬀerent nuclear states E4He, Ecom, and Emol correspond to
+4He states, compact states, and two-deuteron molecular (double occupancy) states
+within the metal deuteride, respectively. The phonon energy is ℏω0. The tunneling
+of two deuterons from the atomic scale to the nuclear scale is accounted for through
+the tunneling factor e−G. The nuclear interaction strengths are denoted by U and
+V , with phonon exchange accounted for by ˆδnn′ operators. This model is assumed
+to be augmented by additional decay matrix Γ which accounts for the decay of
+unstable localized states where energetically and kinematically allowed.
+
+Studies that we have done so far indicate that in the absence of loss terms,
+there is little energy transfer between the nuclear and phononic degree of freedom
+under conditions where there are a great many phonons present and states with large
+Dicke numbers are used. The presence of loss terms breaks the underlying symmetry
+within the system, and leads to reasonably free transfer of energy between the two
+degrees of freedom. The conditions under which this occurs was found to be when
+roughly 15 or more compact states and helium nuclei were present, assuming that
+suﬃcient angular momentum transfer occurs to stabilize the compact states.25 If
+insuﬃcient angular momentum is present in the compact states, then they decay
+through the conventional dd-fusion channel prior to losing energy to the phonon
+mode. Our studies so far support the conjecture above.
+
+6.2. Connection with Experiment:
+(1) The phonon-coupled SU(3) model sheds light on how nuclear energy can exchange
+with phonon energy, and indicates that there may be some merit to Fleischmann’s
+conjecture of a new physical process that accomplishes d+d→4He with the excess
+energy going into heat. Experimental observations of 4He in connection with excess
+energy measurements44 indicates a reaction Q value in the range of 24 MeV, in
+agreement with the theoretical expectation.
+(2) Within the phonon-coupled SU(3) model an excess heat eﬀect would be expected
+at high angular momentum exchange, whereas other decay modes (such as dd-
+fusion) would be dominant at lower angular momentum exchange. If we accept a
+connection between the electrochemical current density and the strength of phonon
+excitation, then we might expect from this kind of model low level fusion products
+at low current density but no excess heat, and excess heat at high current density
+but no dd-fusion products. In the early 1990s it was noted that there was great
+similarities between the electrochemical experiments run by K. Wolf in association
+with neutron measurements,45 and those of the SRI group in association with ex-
+cess heat measurements. Perhaps the most important diﬀerence was in the current
+density used. In the Wolf experiments, the preliminary cathode charging was done
+at 20 mA/cm2, and evidence for neutron emission was obtained at an elevated
+current density of 30 mA/cm2 (and according to Wolf, the range of current den-
+sities in which neutron emission was observed was relatively narrow). In the SRI
+experiments,39 the excess heat eﬀect appeared to turn on at a current threshold in
+the range of 200-300 mA/cm2. If we propose that the angular momentum transfer
+in these experiments is proportional to the square root of the current density, then
+we conclude that neutron emission is produced at an angular momentum exchange
+a factor of three below that required for the onset of excess heat. This is qualita-
+tively in agreement with the models under discussion (it is not yet known if there
+is quantitative agreement).
+(3) The models under discussion convert nuclear energy to phonon energy in the mode
+that caused the interactions in the ﬁrst place. This is much like the case of stim-
+ulated emission in lasers, where the atomic transition energy goes into the modes
+of the photons that caused the transition.
+In this case, the model describes a
+rather strange kind of nonlinear phonon laser. The metal deuteride is the phonon
+gain medium. When the phonon amplitude is made suﬃciently large to initiate
+reactions, then lasing occurs. Once the system is inputting energy into the highly
+excited phonon mode, it may be able to self sustain. This notion is reﬂected in
+excess heat experiments that show a “heat after death” eﬀect, in which power
+input is removed but excess heat production is sustained.40
+
+
+7. Slow Tritium Production
+
+There have been many reports of slow tritium production in experiments with metal
+deuterides since 1989.46 The tritium produced in these experiments is generated in
+the absence of neutrons, so it is not due to the conventional d+d → p+t reaction
+pathway. Moreover, neutron measurements performed in association with tritium
+production indicate that there is an absence of 14 MeV neutrons that would be
+associated with d+t → n+4He reactions.47 The relative absence of neutrons implies
+that the tritium must be born slow, and measurements allow for an upper limit of
+triton energy to be estimated at about 10 keV.48
+
+The models under discussion appear to be relevant to slow tritium production.
+Within the general framework under discussion, slow tritium production appears as
+a consequence of the inclusion of p+t double occupancy. This leads to the conjecture
+Conjecture VIII:
+Slow tritium production in metal deuterides is a consequence of tunnel-
+ing from the compact state population to a double occupancy (molecular)
+HT state within the metal deuteride. A similar mechanism is not present
+for tunneling to n+3He states as the neutron does not remain localized.
+
+7.1. Phonon-Coupled SU(4) Model for Tritium Production:
+The simplest possible model that appears to be relevant to tritium production is
+the phonon coupled SU(4) model. The associated Hamiltonian is given by
+The basic idea here is to recognize that double occupancy of a participating site
+with HT should be included within the scheme on equal footing to double occupancy
+with D2, and that no similar construction is possible for the n+3He channel. Exper-
+imental observations of tritium production within neutron detectors have indicated
+an absence of fast neutrons in association with the tritium. In this model react-
+ing deuterons in the lattice give up their energy to phonons, and produce bound
+HT in double occupancy. Consideration of this kind of model to date suggest that
+tritium production may occur in a regime in which insuﬃcient energy transfer oc-
+curs to reach 4He, and where protons and tritons are present initially in the metal
+deuteride.
+
+7.2. Connection with Experiment:
+(1) The existence of a clear pathway for tritium production within the model that is
+much like the pathway for excess heat production, but comes without an equivalent
+n+3He pathway is in qualitative agreement with the experimental results.46,47
+(2) The model predicts that there should be an excess heat eﬀect in association with
+tritium production. No such eﬀect has been detected experimentally yet.
+(3) The models under discussion suggest the possibility of an exclusion eﬀect between
+heat and tritium production.
+The idea is that under conditions of very strong
+coupling, the compact state probability amplitude will simply bypass the tritium
+channel tunneling exit. If coherence factors are important as we expect, then what-
+ever process starts ﬁrst will be reinforced leading to an exclusion of the other. If
+this line of argument is right, then one would expect there to be a current thresh-
+old for tritium production that lies between the threshold for neutron production
+and excess heat production.
+
+
+8. Dynamics, Tunneling, and Coherence
+
+One of the most diﬃcult things to theoretical models to address in association with
+the experimental results is the tremendous acceleration of the tunneling process
+between deuterons which is implied by the relatively fast reaction rates. There have
+been (and there continue to be) eﬀorts to account for this through enhancements
+in screening due to one mechanism or another. We have concluded that there is no
+reasonable physical basis for screening enhancements as large as would be required
+to be consistent with the slowest of the low-level fusion reaction claims.49 Moreover,
+an enhancement of the screening does not help make progress on other important
+apsects of the outstanding theoretical issues.
+
+It is known that the dynamics would be modiﬁed signiﬁcantly if there were a
+localized nuclear state with an energy resonant with the two deuteron state, and
+if decoherence could somehow be ignored.
+In this case, the mathematical solu-
+tions involve Rabi oscillations between the resonant atomic scale and nuclear scale
+states, with greatly enhanced tunneling.50 Although there is no stable resonant
+four nucleon state in vacuum with the right energy (and there is no way to suppress
+decoherence), we recognize this model as being important nevertheless. It makes
+clear the diﬀerence between tunneling as part of an incoherent process, where the
+reaction rate is proportional to the square of the matrix element (and the tunneling
+is proportional to e−2G); and tunneling as part of a coherent process, where the
+reaction rate is linear in the matrix element (and the tunneling is proportional to
+e−G). The existence of this idealized resonant tunneling model suggests that we
+should seek theoretical models in which the tunneling comes in coherently, and that
+this eﬀect is ultimately the source of the great acceleration in tunneling. This leads
+us to the conjecture:
+Conjecture IX:
+Tunneling between deuterons (or other nuclei) can occur in connection
+with other fast processes that are coherent, such that the associated rate
+is linear in the tunneling factor e−G.
+
+Models where tunneling comes into the calculation with a dependence of the form
+e−2G do not lead to reaction rates that are commensurate with experimental claims.
+
+8.1. Adiabatic Approximation:
+To examine this issue, we examine the dynamics associated with the phonon-coupled
+SU(3) model as a representative example of more general models consistent with
+Equation (33). The phonon-coupled SU(3) model includes processes that are very
+fast (exchange between the compact states and ground state helium levels) and
+processes that are very slow (tunneling from the molecular states to the compact
+states). Consequently, one might expect a separable approximation to be relevant,
+in which the fast processes “equilibrate” on a time scale much shorter than the
+tunneling. In this case, we propose an approximate solution of the form
+where N is the number of sites with molecular state occupation. The basis states
+uN,j satisfy
+where ˆH0 includes all terms in the phonon-coupled SU(3) Hamiltonian of Equation
+(34) except those associated with tunneling. The dynamics of the system in this
+approximation follow from evolution equations of the form
+In this equation ˆV includes tunneling terms from Equation (34), and the vN,j are
+the adjoint functions associated with the uN,j.
+
+We see immediately a need for the decay rate γN,j of the eigenstates to be small
+as a prerequisite for any coherent dynamics. We have remarked above on the need
+for large angular momentum exchange to stabilize the compact states. There is
+an additional eﬀect present which we observed in the computations discussed in
+previous work,25 where we found that the probability amplitude in the quantum
+ﬂow calculation avoided states with signiﬁcant loss. Due to the close connection
+between those computations and the lossy eigenfunction calculation here, the same
+eﬀect occurs in this problem and is greatly helpful in stabilizing the eigenfunctions.
+
+8.2. Limiting Case with a Simple Resonance:
+Models of complicated quantum systems can exhibit a wide variety of eﬀects, and
+one usually seeks to focus on states or limiting behavior where the speciﬁc eﬀects of
+interest are brought out cleanly. In this case, we are interested in speciﬁc solutions
+which exhibit rapid accumulation of compact states from states with deuteron pairs
+in double occupancy. The simplest example of this is in the case of the phonon-
+coupled SU(3) model where we assume that the compact state is resonant with the
+molecular state within the metal deuteride.k
+In a highly idealized model of this
+kind, where we assume that the angular momentum exchange is suﬃciently great
+to stabilize the compact states so that the associated γ can be neglected, we would
+obtain
+iℏ d
+dtcN(t) = EcN(t) + ⟨vN| ˆV |uN+1⟩ cN+1(t) + ⟨vN| ˆV |uN−1⟩ cN−1(t)
+In this limit we are able to obtain approximate solutions that are sinusoidal with
+an associate Rabi oscillation frequency on the order of V0e−G
+ℏ
+per deuteron pair
+in states of double occupancy. We are at once pleased that the phonon-coupled
+SU(3) model is capable in some limit of producing an enhanced tunneling eﬀect,
+but discouraged because the resulting reaction rate is a few orders of magnitude less
+than what is needed to be relevant for experiments in which excess heat is observed.
+
+8.3. Limiting Case with Interaction between Coherent Populations:
+The physical picture that corresponds to the idealized model above is one in which
+deuterons at the atomic scale tunnel to produce a local resonant stable compact
+state at the same site.
+Nuclear energy is converted to phononic energy subse-
+quently, the dynamics of which are assumed to be fast and accounted for in the uN
+eigenfunctions. We can think of this limit of the model as being closely related to
+the idealized single-site resonant tunneling model outlined above, and the resulting
+reaction rates and dynamics are the same as for the single site model in regard to
+the tunneling.
+
+It should be noted that there is another rather general kind of behavior that
+might be expected for models that include more compact state levels than the
+phonon-coupled SU(3) model. Consider a model in which tunneling initial leads
+to a compact state that is not resonant, but involves an energy defect that might
+be considerable. Let us suppose that this energy defect is balanced by transitions
+at other sites from a compact state at one energy to one at another energy that
+precisely balances the energy defect to bring the system back to resonance.
+In
+this case, the dynamics associated with an idealized model that focus on this eﬀect
+would be of the form
+iℏ d
+dtcN(t) = EcN(t) + ⟨vN| ˆV ′|uN+1⟩ cN+1(t) + ⟨vN| ˆV ′|uN−1⟩ cN−1(t)
+where ˆV ′ is of the form
+where the ˆΣ± operators are pseudostate raising and lowering operators for the two
+systems.
+
+The dynamics associated with this kind of model behave very diﬀerently than for
+the resonant SU(3) model discussed above.50 This model describes a new situation
+in which the collective tunneling transitions at all participating sites of double
+occupancy interact uniformly with collective balancing transitions among compact
+states at all of their participating sites. In essence, one population is interacting
+collectively, as a population, with another population that is responding collectively,
+also as a population. The dynamics associated with this kind of process can be much
+faster, with a peak rate that is on the order of √N1N2
+V0e−G
+ℏ
+per deuteron pair
+in states of double occupancy, where N1 and N2 are connected with the Dicke
+numbers of the individual transitions. The associated dynamics exhibit a “burst”
+type of behavior, which is characteristic of superradiant systems (the discussion here
+is concerned with a Dicke type enhancement of a coherent quantum process, instead
+of incoherent processes such as superradiant radiative decay). This discussion leads
+us to our ﬁnal conjecture:l
+Conjecture X:
+The coherent tunneling process can be enhanced by a phase coherence
+between transitions at diﬀerent sites, producing a superradiant enhance-
+ment.
+
+We have considered here an idealized example in which tunneling transitions are
+balanced by a single collective transition within the compact states. We have not
+at this point developed an associated phonon-coupled SU(N) model that exhibits
+this eﬀect, but we expect that it will be possible to do so. More interesting is the
+question of whether such behavior will be present in more complicated phonon-
+coupled SU(N) models.
+
+8.4. Bursts:
+The model described in the previous section leads has been studied in a companion
+paper,50 and numerical results have been presented for the population evolution and
+the associated reaction rates. The reaction rates from that model can be reasonably
+approximated by
+This dynamical rate satisﬁes
+It is reasonable to deﬁne a pulse time scale τ according to
+We see that the product of the peak reaction rate with τ is proportional to N, so
+that we can form an estimate of N from
+We can also express the coupling strength in terms of the rate and time scale
+according to
+If we consider a representative excess heat pulse with Γ = 1012 sec−1 and τ = 5
+hours, and consider it to be due to a single coherent process of the kind under
+discussion, then obtain
+If we assume that V is 10 MeV, then we obtain
+e−G = 3 × 10−44
+which is on the general order of the Gamow factor for molecular D2.
+
+8.5. Connection with Experiment:
+(1) We mentioned above that the observation of anomalies in all cases imply rates
+that are inconsistent with rates which would be predicted for incoherent processes
+involving tunneling. Tunneling as a coherent process with a superradiant enhance-
+ment leads to reaction rate estimates that are consistent with observations.
+(2) Most experimental results on anomalies in metal deuterides (including low-level
+dd-fusion, excess heat, and other eﬀects) show a burst eﬀect, in which the eﬀect is
+absent, then turns on, then turns oﬀ again.52 We propose that the burst eﬀect is a
+consequence of superradiance. In the case of excess heat, the idealized burst model
+leads to a relation between the burn rate, the pulse length, and an associated Dicke
+number which may be on the order of the number of helium nuclei produced. Such
+a relation has not been veriﬁed experimentally, and may not be straightforward to
+verify, but may be worthy of study.
+(3) In the limit that a single heat burst event is isolated, it may be possible to gain
+information about the tunneling factor for a metal deuteride.
+(4) We have not yet addressed the issue of what phonon frequencies are involved yet.
+The requirement for the exchange of 20 or more phonons in order to stabilize
+the compact states produces a requirement on the energy density associated with
+phonon excitation, independent of frequency. However, phonon modes are lossy.
+The highest power densities reported for excess heat production are in the range
+of several kilowatts per cubic centimeter. We conclude therefore that the highest
+phonon frequencies likely to be involved are on the order of 1 GHz.
+(5) There is no particular diﬀerence between the time-dependence of excess heat bursts
+and those associated with neutrons or charged particles. Our studies of the phonon-
+coupled SU(N) models so far suggest that the details of the coupling between the
+nuclei and phonons is such to result in similar mixing in the nuclear and phonon
+degrees of freedom, with similar numbers of phonons exchanged, reasonably inde-
+pendent of phonon frequency. However, if the phonon frequency is low, then there
+would not be much energy exchange in association with the phonon exchange. It
+may be that the primary diﬀerence between the diﬀerent operating regimes may
+simply be due to which phonon frequencies are involved. If the nuclear energy is
+not converted to phononic energy, then the compact states could reform molecular
+states at the end of a pulse, and only a small fraction of the total be expressed as
+incoherent products during the process.
+
+
+9. Conclusions
+
+The most basic conclusion from the ideas and models presented here is that the
+new eﬀects, although wildly at variance with what we know from nuclear physics
+in textbooks, may follow new physical laws that are reasonable, understandable,
+and amenable to analysis on the same footing as in other disciplines. The approach
+presented here provides a starting place from which the disparate anomlies might
+be understood systematically as consequences of an underlying physical picture.
+
+A unifying picture of the anomalies is emerging from the ideas presented here.
+The need for high loading in the Fleischmann-Pons experiment is understood within
+the theory as a need for producing double occupancy. Vacancies, high loading and
+elevated temperature can all help in this regard.
+Current helps to achieve high
+loading, but within the theory it is also producing phononic excitation needed to
+couple nuclear reactions at diﬀerent sites. Fast alpha emission within the model
+is perhaps the most direct signature of that reaction energy from one site can
+be expressed at another site. A consideration of the site-other-site mechanism in
+detail leads ultimately to the conclusion that there must be compact states, and
+anomalous proton and alpha signals in the Kasagi experiment seem to provide
+evidence that the compact states are real.
+The stability of the compact states
+and the relative lack of two-body products from the three-deuteron interaction are
+interpreted as being indicative of the ability of the lattice to transfer large amounts
+of angular momentum to the microscopic nuclear system. Stable compact states
+are predicted to participate in a large number of site-to-site exchange reactions
+which help stabilize them and allow for energy exchange with the lattice, which is
+supported by experiments that show 4He emission correlated with the excess energy
+with a Q value observed to be near 24 MeV. The enormous enhancement in the
+tunneling rate is seen within the model to be a signature of Dicke enhanced coherent
+tunneling, and the observed reaction rates and dynamics seem to be consistent with
+idealized models describing such transitions.
+
+Research on anomalies in metal deuterides has from the beginning not been
+included as part of the mainstream scientiﬁc endeavor. There has not existed a
+program of systematic investigation into the diﬀerent issues and aspects that we
+have been concerned with in this manuscript. Consequently, many of the important
+physical statements that might be made are not yet backed up by a solid body of
+experiment which might otherwise settle things. For example, we have no direct ob-
+servations of deuterons in double occupancy in any of the relevant experiments. We
+have no clear demonstration of phonon exchange or angular momentum exchange
+in a fusion reaction in isolation. We do not have clean systematic spectra of alphas,
+protons and neutrons in connection with the site-other-site reaction mechanism dis-
+cussed above, as can be found in the nuclear literature on photodisintegration. The
+experimental basis that supports the possible existence and properties of compact
+states as discussed above is not particularly strong.
+
+There are many important related issues that we did not discuss in this
+manuscript. For example, the models do not obviously exclude similar processes in
+the case of the p+d system, which may be relevant to claims of anomalies in light
+water experiments. We have not discussed dephasing of the coherence present in the
+models. Our discussion has sought to retain a focus on basic physics issues, so we
+have not examined issues relating to the optimization of excess heat producing sys-
+tems. There are experimental claims for other anomalies, such as the transmutation
+eﬀect recently reported by Iwamura, which we have not considered.
+
+It is our belief that continued work along these lines will lead to better models,
+and a generally agreed upon satisfactory understanding of the phenomena in general.
+We remain interested in the development of engineering models that will be useful
+for applications of the technology implied by the new physics.
+
+
+References
+
+1. G. Preparata, “Cold fusion: what do the laws of nature allow and forbid,” Proceedings
+of the First International Conference on Cold Fusion, Mar. 1990 Salt Lake City, UT,
+edited by F. Will, p. 453.
+2. M. Rabinowitz, Y. E. Kim, V. A. Chechin, and V. A. Tsarev, “Opposition and support
+for cold fusion,” Proceedings of the Fourth International Conference on Cold Fusion,
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+Dec. 1993 Maui, Hawaii, edited by T. O. Passell and M. C. H. McKubre, Vol. 1, p.
+3. J. Fisher, “Theory of low-temperature particle showers, Proceedings of the Tenth In-
+ternational Conference on Cold Fusion, August 2003 Cambridge, MA, edited by P. L.
+Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+4. H. Kozima, “Excited states of nucleons in a nucleus and cold fusion phenomenon in
+transition-metal hydrides and deuterides, Proceedings of the Ninth International Con-
+ference on Cold Fusion, May 2002 Beijing, China, edited by X. Z. Li, p. 186. H. Kozima,
+“CF-matter and the cold fusion phenomenon,” Proceedings of the Tenth International
+Conference on Cold Fusion, August 2003 Cambridge, MA, edited by P. L. Hagelstein
+and S. R. Chubb, World Scientiﬁc, to appear.
+5. Y. E. Kim, D. S. Koltick, and A. L. Zubarev, “Quantum many-body theory of low en-
+ergy nuclear reaction induced by acoustic cavitation in deuterated liquid,” Proceedings
+of the Tenth International Conference on Cold Fusion, August 2003 Cambridge, MA,
+edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+6. S. R. Chubb, “Nuts and Bolts of the Ion Band State Theory,” Proceedings of the Tenth
+International Conference on Cold Fusion, August 2003 Cambridge, MA, edited by P.
+L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+7. T. A. Chubb, “The cold fusion-transmutation connection,”
+Proceedings of the Tenth
+International Conference on Cold Fusion, August 2003 Cambridge, MA, edited by P.
+L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+8. S. Chen and X. Z. Li, “Tritium production and the selective resonant tunneling model,”
+Proceedings of the Ninth International Conference on Cold Fusion, May 2002 Beijing,
+China, edited by X. Z. Li, p. 42. X. Z. Li, B. L. Liu, X. Z. Ren, J. Tian, D. X. Cao,
+S. Chen, G. H. Pan, D. L. Ho, and Y. Deng, “Super absorption – correlation between
+deuterium ﬂux and excess heat,”
+Proceedings of the Ninth International Conference
+on Cold Fusion, May 2002 Beijing, China, edited by X. Z. Li, p. 202.
+S. Chen and
+X. Z. Li, Proceedings of the Tenth International Conference on Cold Fusion, August
+2003 Cambridge, MA, edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to
+appear.
+9. A. Takahashi, “Tetrahedral and octahedral resonance fusion under transient conden-
+sation of deuterons at lattice focal points,”
+Proceedings of the Ninth International
+Conference on Cold Fusion, May 2002 Beijing, China, edited by X. Z. Li, p. 343. A.
+Takahashi, “Mechanism of deuteron cluster fusion by EQPET model,”
+Proceedings
+of the Tenth International Conference on Cold Fusion, August 2003 Cambridge, MA,
+edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+10. G. Preparata, “Theoretical ideas on Cold fusion,” Proceedings of the First Interna-
+tional Conference on Cold Fusion, Mar. 1990 Salt Lake City, UT, edited by F. Will,
+p. 91.
+G. Preparata, “Cold fusion ’93: Some theoretical ideas,”
+Proceedings of the
+Fourth International Conference on Cold Fusion, Dec. 1993 Maui, Hawaii, edited by T.
+O. Passell and M. C. H. McKubre, Vol. 1, p. 12-1. G. Preparata, QED in condensed
+matter, World Scientiﬁc, (1995).
+11. M. Fleischmann, “Background to cold fusion: The genesis of a concept,” Proceedings
+of the Tenth International Conference on Cold Fusion, August 2003 Cambridge, MA,
+edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+12. V. Violante, C. Sibilia, D. Di Gioacchino, M. McKubre, F. Tanzella, and P. Tripoldi,
+Proceedings of the Eighth International Conference on Cold Fusion, May 2000 Lerici
+(La Spezia), Italy, edited by F. Scaramuzzi, p. 409.
+13. E. Del Guidice, A. De Ninno, and A. Fratolillo, “Are nuclear transmutations observed
+at low energies a consequence of QED coherence?”
+Proceedings of the Tenth Inter-
+national Conference on Cold Fusion, August 2003 Cambridge, MA, edited by P. L.
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+14. F. Scaramuzzi, “In memory of Giuliano Preparata,” Proceedings of the Eighth Inter-
+national Conference on Cold Fusion, May 2000 Lerici (La Spezia), Italy, edited by F.
+Scaramuzzi, p. XXI.
+15. M. C. H. McKubre, S. Crouch-Baker, A. M. Riley, S. I. Smedley, and F. L. Tanzella,
+Frontiers of Cold Fusion, Proceedings of the Third International Conference on Cold
+Fusion, Oct. 1992 Nagoya, Japan, edited by H. Ikegami, Universal Academy Press,
+Tokyo, p. 5. K. Kunimatsu, N. Hasegawa, A. Kubota, N. Imai, M. Ishikawa, H. Akita,
+and Y. Tsuchida,
+Frontiers of Cold Fusion, Proceedings of the Third International
+Conference on Cold Fusion, Oct. 1992 Nagoya, Japan, edited by H. Ikegami, Universal
+Academy Press, Tokyo, p. 31.
+16. M. Fleischmann and S. Pons, Frontiers of Cold Fusion, Proceedings of the Third In-
+ternational Conference on Cold Fusion, Oct. 1992 Nagoya, Japan, edited by H. Ikegami,
+Universal Academy Press, Tokyo, p. 47.
+17. E. Storms, “Some characteristics of heat production using the ‘cold fusion’ eﬀect,”
+Proceedings of the Fourth International Conference on Cold Fusion, Dec. 1993 Maui,
+Hawaii, edited by T. O. Passell and M. C. H. McKubre, Vol. 2, p. 4-1.
+18. L. Case, in his oral presentation at ICCF10.
+19. A. G. Lipson, A.S. Roussetski, G.H. Miley, and E.I. Saunin, Proceedings of the Eighth
+International Conference on Cold Fusion, May 2000 Lerici (La Spezia), Italy, edited by
+F. Scaramuzzi, p. 231. A. G. Lipson, A.S. Roussetski, G.H. Miley, and C. H. Castano,
+Proceedings of the Ninth International Conference on Cold Fusion, May 2002 Beijing,
+China, edited by X. Z. Li, p. 218.
+20. A. G. Lipson, A.S. Roussetski, G.H. Miley, and E.I. Saunin, “Phenomenon of an Ener-
+getic Charged Particle Emission From Hydrogen/Deuterium Loaded Metals,” Proceed-
+ings of the Tenth International Conference on Cold Fusion, August 2003 Cambridge,
+MA, edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+21. G. P. Chambers, J. E. Eridon, K. S. Grabowski, B. D. Sartwell and D. B. Chrisey,
+“Charged Particle Spectra of Palladium Thin Films During Low Energy Deuterium Ion
+Implantation,” J. Fusion Energy, 9, 281 (1990).
+22. P. L. Hagelstein, “Anomalous Energy Transfer,”
+Proceedings of The Seventh Inter-
+national Conference on Cold Fusion, Vancouver, Canada, April 19-24, 1998, ENECO,
+Inc., Salt Lake City, UT (1998), p. 140.
+23. P. L. Hagelstein, “A model for fast ion emission in metal deuterides,” Bull. APS 45
+235 (2000).
+24. P. L. Hagelstein, “A uniﬁed model for anomalies in metal deuterides,”
+Proceedings
+of the Eighth International Conference on Cold Fusion, May 2000 Lerici (La Spezia),
+Italy, edited by F. Scaramuzzi, p. 363.
+P. L. Hagelstein, “Theory for Anomalies in
+Metal Deuterides,” Trans. Am. Nucl. Soc. 83, p. 359 (2000).
+25. P. L. Hagelstein, “A uniﬁed model for anomalies in metal deuterides,” Proceedings of
+the Ninth International Conference on Cold Fusion, May 2002 Beijing, China, edited
+by X. Z. Li, p. 121.
+26. J. A. Wheeler, Phys. Rev. 52 1107 (1937). J. R. Pruett, F. M. Beiduk and E. J.
+Konopinski, Phys. Rev., 77, 628 (1950). H. J. Boersma, Nucl. Phys., A135, p. 609
+27. N. Bohr, Nature, 137, 344 (1936). V. Weisskopf, Phys. Rev., 52, 295 (1937). V. F.
+Weisskopf and D. H. Ewing, Phys. Rev., 57, 472 (1940). H. Feshbach, Theoretical
+Nuclear Physics: Nuclear Reactions, John Wiley and Sons, New York (1992).
+28. E. D. Courant, Phys. Rev., 82, 703 (1951).
+29. R. N. H. Haslam, A. G. W. Cameron, J. A. Cooke, and H. Crosby, Can. J. Phys., 30,
+349 (1952).
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+30. F. E. Cecil, H. Liu, D. Beddingﬁeld, and C. S. Galovich, Anomalous Nuclear Eﬀects in
+Deuterium/Solid Systems, Provo, UT 1990, American Institute of Physics: Conference
+Proceedings, edited by S.E Jones, F. Scaramuzzi, and D.H. Worledge, 228, p. 375. H.
+Liu, Studies of nuclear reactions D-D, D-6Li, and D-10B at low energies and charged
+particle emission from deuterium-metal systems, PhD Thesis, Colorado School of Mines,
+31. C. H. Holbrow and H. H. Barschall, Nucl. Phys., 42, 269 (1963).
+32. M. Agnello, E. Botta, T. Bressani, D. Calvo, A. Feliciello, P. Gianotti, F. Iazzi, C.
+Lamberti, B. Minetti, and Z. Zecchina,
+Frontiers of Cold Fusion, Proceedings of the
+Third International Conference on Cold Fusion, Oct. 1992 Nagoya, Japan, edited by
+H. Ikegami, Universal Academy Press, Tokyo, p. 433.
+33. P. L. Hagelstein, Anomalies in Metal Deuterides, ﬁnal report to Darpa, April, 2003.
+34. F. Duschinsky, “Zur Deutung der Elekronenspektren mehratomiger Molekule I. Uber
+das Franck-Condon-Prinzip,” Acta Physicochimica U.R.S.S. 7, 551 (1937).
+35. P. L. Hagelstein, “Atom-atom correlation in the presence of strong terahertz phonon
+excitation,” Philosophical Magazine B 79 149 (1999).
+36. E. Feenberg and J. K. Knipp, Phys. Rev., 48, 906 (1935).
+37. I. Chaudhary and P. L. Hagelstein, “Few-body nuclear wave functions,” Proceedings
+of the Tenth International Conference on Cold Fusion, August 2003 Cambridge, MA,
+edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+38. P. L. Hagelstein, “A Possible Mossbauer Eﬀect in Neutron Capture,” Hyperﬁne Inter-
+actions 92 1059 (1994). This paper was presented at the 1993 International Conference
+on Applications of the Mossbauer Eﬀect (ICAME93).
+39. M. C. H. McKubre, S. Crouch-Baker, F. L. Tanzella, S. I. Smedley, M. Williams, S.
+Wing, M. Maly-Schreiber, R. C. Rocha-Filho, P. C. Searson, J. G. Pronko, and D.
+A. Koehler, Development of Advanced Concepts for Nuclear Processes in Deuterated
+Metals, EPRI Final Report TR-104195, August 1994. M. C. H. McKubre, “Review of
+experimental measurements involving dd-reactions,” ICCF10 short course presentation,
+August 25, 2003.
+40. S. Pons and M. Fleischmann, “Heat after Death,”
+Proceedings of the Fourth Inter-
+national Conference on Cold Fusion, Dec. 1993 Maui, Hawaii, edited by T. O. Passell
+and M. C. H. McKubre, Vol. 2, p. 8-1.
+41. J. Kasagi, T. Ohtsuki, K. Ishu and M. Hiraga, Phys. Soc. Japan 64, 777 (1995).
+42. P. L. Hagelstein, “A proposed explanation for the Kasagi eﬀect,” Bull. APS 46, 946
+43. G.K. Hubler, C. Cetina, D.L. Knies and K.S. Grabowski, “Report on Several On-Going
+Low Energy Nuclear Reaction Projects at NRL,” oral presentation given at ICCF10.
+44. M. H. Miles, “Correlation of excess enthalpy and helium-4 production: A review,”
+Proc. ICCF10 (2003). F. Cellucci, P. L. Cignini, G. Gigli, D. Gozzi, M. Tomellini, E.
+Cisbani, S. Frullani, F. Garibaldi, M. Jodice, and G. M. Urciuoli, Proceedings of the
+Sixth International Conference on Cold Fusion, October 1996 Hokkaido, Japan, edited
+by M. Okamoto, p. 3.
+45. K. L. Wolf, J. Shoemaker, D. E. Coe, and L. Whitesell, “Neutron emission from
+deuterium-loaded metals,”
+Anomalous Nuclear Eﬀects in Deuterium/Solid Systems,
+Provo, UT 1990, American Institute of Physics: Conference Proceedings, edited by S.E
+Jones, F. Scaramuzzi, and D.H. Worledge, 228, p. 341.
+Figures for this manuscript
+did not appear in the proceedings, but were provided to the author by K. Wolf. K. L.
+Wolf, “Nuclear Reactions in Deuterated Metals,” EPRI Progress Report, March 1992.
+46. T. N. Claytor, D. G. Tuggle, and S. F. Taylor, Frontiers of Cold Fusion, Proceedings
+of the Third International Conference on Cold Fusion, Oct. 1992 Nagoya, Japan, edited
+by H. Ikegami, Universal Academy Press, Tokyo, p. 217. D. G. Tuggle, T. N. Claytor,
+Proceedings of the Tenth International Conference on Cold Fusion, Cambridge, MA (2003) c⃝World Scientiﬁc
+and S. F. Taylor, Proceedings of the Fourth International Conference on Cold Fusion,
+Dec. 1993 Maui, Hawaii, edited by T. O. Passell and M. C. H. McKubre, Vol. 1, p. 7-1.
+47. S. F. Taylor, T. N. Claytor, D. G. Tuggle, and S. E. Jones, Proceedings of the Fourth
+International Conference on Cold Fusion, Dec. 1993 Maui, Hawaii, edited by T. O.
+Passell and M. C. H. McKubre, Vol. 3, p. 17-1.
+48. P. L. Hagelstein, Proceedings of the First International Conference on Cold Fusion,
+Mar. 1990 Salt Lake City, UT, edited by F. Will, p. 99.
+49. K. P. Sinha and Peter L. Hagelstein, “Electron screening in metal deuterides,” Pro-
+ceedings of the Eighth International Conference on Cold Fusion, May 2000 Lerici (La
+Spezia), Italy, edited by F. Scaramuzzi, p. 369.
+50. P. L. Hagelstein, “Resonant tunneling and resonant excitation transfer,” Proceedings
+of the Tenth International Conference on Cold Fusion, August 2003 Cambridge, MA,
+edited by P. L. Hagelstein and S. R. Chubb, World Scientiﬁc, to appear.
+51. G. Preparata, “Theoretical ideas on cold fusion,”
+Proceedings of the First Interna-
+tional Conference on Cold Fusion, Mar. 1990 Salt Lake City, UT, edited by F. Will, p.
+52. M. Fleischmann, “An overview of cold fusion,” Proceedings of the First International
+Conference on Cold Fusion, Mar. 1990 Salt Lake City, UT, edited by F. Will, p. 344.
+
+
+Appendix: Coupled-Channel Equations for the Two-Site Problem
+The optimization of the lattice channel separation factors in this case leads to
+coupled-channel equations of the form
+We have studied equations similar to these, with the conclusion that they give rise to
+signiﬁcant exchange eﬀects as well as compact state solutions (which can be stable or
+unstable). The compact state energies are dependent on the strength of coupling, as well
+as the angular momentum transferred through phonon exchange.

@@ -1,0 +1,332 @@
+INTRODUCTION
+
+Considerable heat was liberated from the palladium-deuterium (Pd-D) system by Stanley Pons and Martin Fleischmann. (1) As conventional chemical or physical
+processes could not account for the substantial heat, the
+heat mechanism was proposed to be nuclear fusion of
+deuterium in the palladium (Pd) bulk. The fusion byproducts reported to date have been minimal, variable,
+inconsistent with theory, or non-existent. Anyway, the
+heat mechanism in cold fusion has not been identified
+with certainty. 
+
+This matter may be resolved by classical means if
+we recognize that specific energy terms, and associated
+work, were neglected in the study of cold fusion. Considerable strain energy is stored in metals and alloys
+when processed from the ore. The energy balance is
+disturbed when cracks nucleate, grow, and propagate
+within the bulk. Deuterium induces and propagates cracks
+in palladium and other metals and alloys. The sudden
+discharge of fracture energy during crack propagation
+generates considerable heat. The heat produced by the
+work-of-fracture can be substantial and can account for
+the excess enthalpy reported in cold fusion experiments.
+The maximum amount of heat from the process is also
+calculated and is shown to be finite. When all energy
+terms are considered, including the substantial energy
+required to process the palladium electrodes from the ore
+or to recycle the cracked electrode samples, the break
+even in cold fusion is found to be much less than 100%,
+and not t000% or, the expected, one million percent
+reported by the original experimenters. This paper also
+demonstrates that pa
+
+
+2. THE EFFECT OF MICROCRACKS 
+
+Metals and alloys contain many microcracks in the
+bulk. The fine cracks cause considerable reduction in the
+theoretical cohesive strength of materials. This is demonstrated in the well-known Griffith theory (2) which
+explains why the strength of materials is orders of magnitude less than the theoretical values. The measured
+strength is the theoretical value less the effect of the
+microcracks. Cracks induced and propagated by deuterium in the palladium bulk have the same effect of strength
+reduction. The energy terms associated with the strength
+reduction of palladium in deuterium, for example, must
+be considered in the overall energy balance of the cold
+fusion experiments. This can be done by measuring the
+strength of the palladium electrodes before and after exposure to the deuterium or hydrogen environments, and
+calculating the corresponding energy.
+
+
+3. DEUTERIUM AND HYDROGEN EMBRITTLEMENT 
+
+Before we calculate the amount of heat that can be
+liberated by the work-of-fracture, relevant characteristics
+of deuterium- and hydrogen-induced cracks in metals are
+cited. Hydrogen-induced failure is known as hydrogen
+embrittlement, and extensive database is available on the
+subject. (3) Deuterium embrittlement is similar to hydrogen embrittlement, but the embrittling effect of deuterium is greater than that of hydrogen, in some cases by
+about 30%. (4) 
+
+Deuterium-induced cracks propagate discontinuously. This suggests a zipper mechanism, where cracks
+nucleate, grow, propagate, and are then stopped by some
+obstacle in the material, only to repeat the cycle again.
+The grain boundary is the most likely obstacle to the
+continuous propagation of intergranular (along the grain
+boundary) and transgranular (across the grain) cracks. 
+
+Embrittlement can proceed without externally-applied loads, but this does not mean that loads are not
+present. Forces are provided by the residual stress in the
+material and by the embrittlement mechanisms, such as,
+dislocations interaction, hydride or molecular precipitates, etc. The primary mechanism for crack growth and
+propagation is the stress concentration at the tip of the
+crack and the strain energy associated with the very high
+stresses. Embrittlement is more influenced by the microstructure of the material than by the kinetics of transport of hydrogen or deuterium in the lattice. For example,
+the final stage of crack propagation happens at such fast
+speeds, with which hydrogen or deuterium transport cannot compete. 
+
+
+4. EXCESS HEAT CONTENT, EXCESS ENTHALPY
+
+A significant amount of heat was liberated from the
+palladium-deuterium system in the Pons-Fleischmann
+experiments: "'4 MJ cm -3 of electrode volume. ''(1). The
+surplus heat is not explainable by conventional chemical
+or physical processes. The excess enthalpy, however,
+can be shown to be the result of coversion of the mechanical energy of fracture into heat. 
+
+Consider the typical crack geometry shown in Fig.
+1. A complex triaxial state of stress exists near the crack
+tip. In an elasto-plastic material, such as palladium, many
+layers of atoms are disturbed in the vicinity of a growing
+crack. As the crack grows, the surface energy is proportional to the crack length, c. The strain energy increases as c a (ai'ea of disturbed atoms indicated by shaded
+area). The relationship between strain energy, surface
+energy, and fracture energy during the growth and propagation of a crack is shown in Fig. 2, where Cc is the
+critical Griffith crack length. Below co, crack growth is
+stable and the system consumes energy. Beyond the critical length, considerable work (of fracture) is done, and
+crack growth is rapid and can, sometimes, be explosive.
+The work done can be estimated from the Griffith equation, where s is the stress, and E is the modulus of elasticity,
+for Pd 1.23 • 1011 N/m 2. It is not necessary to include
+nonlinear terms in the modified Griffith equations as the
+simplified equation is sufficient to determine the order
+of magnitude of heat that can be generated by the fracture work, or to calculate how millions of joules may be
+liberated from a small palladium volume. To calculate
+the work-of-fracture, we must first examine the state of
+stress at the tip of the crack.  Fig. 1. Many layers of atoms are disturbed near a crack tip. 
+Fig. 2. Interaction of surface, strain, and fracture energy terms
+during crack growth and propagation. 
+
+Geometric discontinuities in materials produce stress
+concentration near crack tips. A theoretical stress concentration factor, Kz, for an elliptic hole, of length 2c (c
+is the length of a crack) and width 2b, is given by
+The stress concentration factor for a crack several angstroms wide and several microns long is greater than 1000.
+As the atomic bonds at the crack tip break, the stress
+concentration effect is transferred to the next bonds, and
+so on. The stress concentration for a microcrack (2 microns long and 1 angstrom tip radius) was modeled and
+computed at about 200. (5/The stress concentration effect
+in the vicinity of a microcrack is insensitive to the method
+of load application, i.e., whether the load is applied
+externally or internally. In the calculation of the fracture
+energy, the more conservative stress concentration factor
+of 200 is used in this paper. Yet, to calculate the fracture
+energy, the number of cracks in the palladium eIectrodes
+must first be determined. 
+
+The number of cracks in a palladium electrode cannot be counted after the Pons-Fleischmann type experiments. However, the strength reduction of palladium after
+exposure to deuterium can be used to estimate the number of sites where cracks propagated in the bulk. Such
+measurements were not reported in cold fusion experiments. The reduction of ultimate strength of palladium,
+for hydrogen to palladium concentration of 0 to 1, was
+measured in a NASA study.(6) For H/Pd ratio of 0.6, the
+ultimate strength of 76 ksi (520 MN/m 2) was reduced to
+44 ksi (300 MN/m2), a strength reduction of 220 MN/
+m 2. For this reduction value, the critical crack length is
+estimated at about 47 microns, the grain size level, which
+controls the discontinuous crack propagation in embrittlement as mentioned earlier
+
+The work-of-fracture can now be calculated using
+the Griffith equation. For a critical crack length of 50
+microns, a strength reduction of 220 MN/m 2, and a 200
+stress concentration factor, the work-of-fracture is found
+to be 1.24 MJ/m 2, which is much greater than the typical
+surface energy of less than 1 J/m 2 for most metals and
+alloys, including palladium. 
+
+The enormous work done during the fracture process
+is proposed to be the heat mechanism in cold fusion and
+is, most likely, the primary energy term which was neglected in the study of the phenomenon. 
+
+When two or more cracks nucleate within several
+atomic radii, it is possible for these to coalesce into one
+crack which, eventually, propagates along a grain
+boundary or across the grain. The maximum number of
+locations where cracks can nucleate and propagate across
+1 cm 2 palladium interface is 2002, which corresponds to
+50 microns separation. The number of locations is then
+adjusted using the strength reduction ratio of 220/520,
+and the heat liberated from cracks at all possible locations is found to be 2.1 MJ/cm a
+
+Similar calculations for deuterium (30% greater effect than hydrogen) gives a work-of-fracture of 5.5 MJ/
+cm a. Cracks can also propagate in the third orthogonal
+direction within a palladium cube sample, in the process,
+producing more heat. It follows that the heat liberated
+in the Pons-Fleischmann experiments (4 MJ/cm 3) is only
+a fraction of the maximum amount of heat that be released by the fracture process. 
+
+Deuterium- or hydrogen-induced cracks can eventually break a metal sample in two, where the full ultimate strength across the fracture is lost. Using the ultimate
+strength of palladium, the work of fracture 6.9 MJ/m a.
+If cracks propagate at all possible locations and in all
+three directions, then the maximum heat that can be liberated is 27.6 MJ/cm a or 5520 MJ/cm 3. This condition
+is highly unlikely, but it demonstrates the tremendous
+potential for heat generation by the fracture of metals.
+
+The crack length of 50 microns is the major assumption made in the above analysis. This assumption
+does not affect the final outcome much as long as crack
+propagation occurs on the grain, and not the atomic distance and size level. It was noted in Ref. 1 that heat
+production in cold fusion is "markedly dependent on
+electrode volume." Of course, if the volume increases,
+the fracture locations increase, and so will the heat.
+
+
+5. EXPERIMENTAL VERIFICATION 
+
+If only the surface energy (less than 1 J/m 2) is involved in the fracture of metals, then the heat produced
+in the fracture of 1 cm 2 rod in tension will be small.
+However, appreciable work is involved when the substantial fracture energy (more than 106 J/m 2) is considered, and detectable heat, to the touch, may be liberated.
+Based on calculations in this paper, the author demonstrated that hot-to-the-touch condition occurs on the fracture surfaces of metals in simple tensile tests. Strain
+energy is released and stored near crack tips, then suddenly discharged when the cracks propagate through the
+bulk. The heat on the fracture surfaces is felt immediately after, and not before, break-up of the metal sample.
+Of course, if a 1-cm sample can be pulled apart quickly
+and in succession at 10- or 50-micron intervals, then
+considerable heat will be generated: an accelerated cold
+fusion experiment. 
+
+Integrated tensile-calorimetric experiments under
+controlled strain rates and other conditions will lead to
+better understanding of the heat mechanism in cold fusion. 
+
+
+6. TIME EFFECTS -- RAPID CORROSION 
+
+Deuterium or hydrogen embrittlement of metals is
+a corrosion process, and is time dependent. The general
+behavior of embrittlemcnt in time is shown in Fig. 3.
+The initial interval (A) shows no effect as the kinetics
+of deuterium or hydrogen transport in the bulk predominate. This idle period is followed by an accelerated
+strength reduction interval (B). During this period, many
+sites are available for the fracture process. Eventually,
+less and less sites are available for crack nucleation and
+propagation and the fracture process and heat generation
+stop. This behavior is similar to that reported in cold
+fusion to date, where an initial idle period, for the absorption of deuterium into palladium, is followed by heat
+generation and, finally, by a dormant stage when the
+heat generation process stops. Fig. 3. Typical behavior of embrittlement with time showing delayed,
+accelerated, and dormant fracture periods. Energy release is incremental (inset).
+
+The power in the Pons-Fleischmann experiments
+was estimated at more than "10 W cm -3 of the palladium electrode, ''(1) but for only 120 hours. Extrapolating
+to 1000 or more hours at the same power rate is not valid
+simply because the fracture work that can be done is
+limited. Of course, considerable power can be generated
+if the fracture energy is released in shorter periods. For
+a given set of parameters, explosive crack propagation
+is known to occur in metal structures, such as ships,
+bridges, and aircraft. The suddenly fused and partially
+vaporized palladium sample in the Pons-Fleischmann
+experiments may be explained by the known short-time
+release of fracture energy. The explosive crack propagation can be violent enough to produce traces of fusion
+by-products. 
+
+As mentioned earlier, deuterium-induced cracks
+propagate discontinuously. Here, the fracture energy is
+released incrementally (see inset in Fig. 3), which may
+explain the heat pockets in the calorimetric cells, reported in the Pons-Fleischmann tests. As time goes on,
+the conditions which cultivate the fracture process diminish, and the heat generation process comes to an end.
+This is, perhaps, why in 5.5 years (nearly 50,000 hours),
+only the 120 hours, or less, time-samples have been cited
+by the original experimenters.
+
+
+7. THE FUEL IS PALLADIUM, NOT DEUTERIUM
+
+When all the locations susceptible to crack nucleation and propagation in the palladium (or other material)
+are exhausted, the metal is, theoretically, burnt out. In
+order for the cold fusion process to continue, the crystallographic structure, required to produce more cracks
+and more heat, must be restored. The palladium electrodes must then be recycled (by melting) to continue
+the heat generation process; and the efficiency estimates
+must take this energy overhead into account. 
+
+Professors Pons and Fleischmann projected figures
+of merit of 1000%, and expect one million percent thermal yield, from their process. This is based on the "joule
+heat or total energy supplied to the cell "O) and the amount
+of heat liberated in the cells. As described above, the
+small energy supplied to the cell is not the only, or even
+primary, input involved. The efficiency of cold fusion must take into account the considerable energy required
+to process the metal electrodes from the ore, or to recycle
+the cracked palladium electrodes by melting. 
+
+From the analysis in this paper and other relevant
+considerations, we may conclude that palladium, and not
+deuterium, is the fuel; just as coal, and not air (oxygen),
+is the fuel in that combustion. And just as combustion
+ceases when coal is turned to ashes, so the heat generation in cold fusion ceases when palladium is all burnt,
+or cracked. The abundance of air, in the case of carbon
+ashes, or deuterium, in the case of the cracked palladium, will not continue, or restart, the burning process.
+There is a net entropy increase in both processes. 
+
+Coal burning is irreversible as heat cannot be made to
+flow back into the ashes to reproduce coal. The exhausted structure of palladium can be restored after embrittlement and heat generation, but only by melting.
+The ability to recycle the exhausted metals makes the
+heat generation by cold fusion a reversible process. In
+accordance with the second law of thermodynamics, the
+net entropy change in cold fusion (between the electrolytic cell and the furnace) must be zero. It then appears
+that the cold fusion process may not be a viable source
+of energy. Recognizing that palladium, and not deuterium, is the fuel in the Pons-Fleischmann system will lead
+to better study and applications of the phenomenon. 
+
+
+8. CONCLUSION 
+
+The heat mechanism in the Pons-Fleischmann experiments was identified as the fracture work of cracks
+induced in palladium by deuterium. The work-of-fracture was calculated and shown to correspond to the excess heat measured in the cold fusion experiments. The
+maximum heat that can be liberated from the process
+was shown to be considerable, but finite. Only a fraction
+of break even, and not 1000% or more, has been achieved
+from cold fusion to date. Other characteristics of the
+process were also presented, such as the identification
+of palladium, and not deuterium, as the fuel in the process. 
+
+When conducting cold fusion experiments, using
+palladium, titanium, nickel, or other metals and alloys,
+it will be useful to measure the strength of the electrodes
+before and after exposure to deuterium. The strength
+reduction can be used to estimate the energy absorbed
+by local deformation in the fractured surfaces so that
+experimental-theoretical correlation can be established.
+It is also important to carefully identify the processing
+technique of the electrode material to establish the likelihood of embrittlement and fracture energy conversion
+to heat. Detailed metallographic analysis of the palladium samples will yield useful information. The phenomenon, now popularly known as cold fusion, will find
+uses for heat storage in special applications, but the process
+must first be controlled. A similar process, the piezoelectric effect, converts mechanical energy to electrical
+energy, but only in asymmetrical crystals. Unlike piezoelectric devices, metal-burning devices will store energy in the bulk of a greater variety of metals and alloys
+for use when needed. 
+
+Numerous chemical, physical, and mechanical
+processes in the palladium-deuterium system affect the
+results, but not the order of magnitude, of this study. 
+
+
+REFERENCES
+
+1. M. Fleischmann and S. Pons, (1989). Electrochemically-induced
+nuclear fusion of deuterium. J. Electroanaly. Chem. 261, 301.
+2. G. E. Dieter, Jr., (1961), Mechanical Metallurgy (Chaps. 7, 14)
+(McGraw-Hill Book Company, New York).
+3. H. G. Nelson, (1972). The Kinetic and Mechanical Aspects of
+Hydrogen-Induced Failure in Metals (NASA TN D-6691, Washington, D.C.).
+4. V. A. Maricheve, (1988). Anomalous Isotope Effects During Hydrogen Embrittlement of Structural Materials in Electrolytes. 10th
+ICMC, p. 2321.
+5. J. E. Gordon, (1984). The New Science of Strong Materials (Chap.
+5) (Princeton University Press, New Jersey).
+6. R. J. Smith and D. A. Otterson, (1969). Some Tensile and Electrical Resistance Properties of Palladium-Hydrogen and TitaniumHydrogen Systems, NASA SP-227. Proceedings of Aerospace
+Structural Materials, Cleveland, Ohio, November, pp. 269-278.
+7. A. F. AbuTaha, (1989). Cold Fusion. Engineering Perspectives,
+Poster Paper to the Cold Fusion Phenomena Workshop, Santa Fe,
+May.
+8. A. F. AbuTaha, Cold Fusion. The Energy Mechanism (unpublished work).
+9. P. Haansen, (1986). Physical Metallurgy (Cambridge University
+Press, Cambridge).
+10. A. Zangwill, (1988). Physics at Surfaces (Cambridge University
+Press, Cambridge).
+11. L. Pauling, (1988). General Chemistry (Dover Publications, New
+York).
+12. F. Seitz (1987). The Modern Theory of Solids (Dover Publications, New York). 
+
+

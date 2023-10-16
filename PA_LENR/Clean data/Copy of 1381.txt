@@ -1,0 +1,126 @@
+1. Introduction
+
+Let us start with a brief description of phenomena of sono-luminescence. A supersonic field applied to a liquid yields vapour- and/or gas-filled cavitations in the liquid, which
+subsequently expand and contract more or less oscillatorilly in phase with the supersonic field.
+The temperature and density of an adiabatically compressed bubble is so high that atoms or
+molecules in it are excited and then irradiate photons in its expansion phase.
+
+Recently Flint and Suslick1) succeeded in directly measuring the temperature of hot
+spots and obtained the value
+
+T = 5075 ± 156K.
+
+The aim of this work is to estimate the upper bound of the temperature and density of the
+hot spot created in a liquid by a supersonic field.
+
+
+2. Rayleigh-Plesset Equation
+
+The sono-luminescence has a long history of research more than forty-five years and
+constitutes a well-established branch of physics. We now have a lot of review works, by which
+one may easily get familiar with it. (For example, see Reference 2)
+
+The motion of a bubble in a liquid with radius R is described by the followinf
+Rayleigh-Plesset equation
+
+[ 20- Ro 3
+" 20- 4µR ] R=--R +- (Po+-)(-) -----Po -PA(t), 2R {!R Ro R R R (1) 
+
+where Po is a hydrostatic pressure of the liquid and Ro is a radius of the bubble in equilibrium
+with the pressure P0• The {!, a and J.L are, respectively, the density, surface tension and viscosity
+coefficient of the liquid. The K is the polytropic index of the gas (this will vary between the
+specific heat ratio -y and unity, the limits of adiabatic and isothermal conditions, respectively).
+It is assumed in ( 1) that the content of the bubble is an ideal gas, but generalization to a van
+der Waals gas may be straight-forward. The PA (t) is the applied supersonic field
+
+P(A)(t) = -PasinwAT. (2)
+
+In deriving (1), several simplification were made. (For details, see Reference 2) 
+
+
+3. An Ideal Gas Case
+
+Let us consider a bubble with radius R0 and in equilibrium with hydrostatic pressure
+Po at t = 0, which will then expand isothermally in the first quarter of a period of the
+supersonic field (2). If the amplitude PA of the field is large enough, the radius of the bubble
+is known to abnormally grow up beyond the Blake radius RD 2
+>. Let the maximum value of
+the radius R be Rmax. In a subsequent half period, the pressure field increases from Po -PA to
+Po + PA and the bubble contracts adiabatically with increasing pressure. Let Rm,n be a radius
+of the minimum bubble, where the gas filling the bubble achieves the maximum temperature Tmax.
+
+The expansion phase is describable in terms of (1) by putting K = 1 (isothermal
+proccess), since the poccess takes place quasistatically. Neppiras 3
+) numerically calculated the Rmax for an air bubble in water, assuming that the air is an ideal gas.
+
+Next turn to the contraction phase. It was numerically ascertained by many authors
+that the contraction occurs very rapidly around the end of the third quarter of a period of the
+supersonic field (2), when the pressure field is almost Po+ PA . We can thereby describe the
+adiabatic contraction proccess by a couple of following equations
+
+(Po+ PA)(Vmax - Vm,n) = - f v=,� PdV,
+V=•• (3)
+PV'i' = constant
+
+in stead of directly solving the differential equation (1).
+
+After integrating (3), we can get the maximum temperature and minimum radius as
+follows;
+
+z = ( Rmax )3 ~ [(-r _ l
+) Po + PA (
+Rma
+:r )3
+] 1/(1-1)
+Rm;,. Po + 2a-/ Ro Ro
+( 4)
+
+if Z is much greater·than unity, where To is the initial temperature. Figs. l(a) and l(b) depict
+R.,.;,. and Tma:r: against Ro, where we have used values of Rmax calculated by Neppiras. 
+
+Figure 1 (a) (b)
+
+As seen from Fig. l(b ), for initial bubbles of a few microns the maximum temperatures
+reached are high enough for nudear fusion to take place. Let the bubble be filled by D2 gas
+instead of air. The fusion number per bubble can be calculates as
+
+No. of fusions/sec/bubble= fT (N,/N)2 N {!vu(E), (5)
+
+where fT is the fraction of the duration of a minimum bubble to the period of the supersonic
+field, and N and N, are the numbers of particles contained in the initial bubble and remaining
+in the minimum bubble, respectively. The rest of factors on the right hand side of (5)
+
+NgvCT(E) (6)
+
+is a so-called fusion rate per bubble, where {!, v and CT(E) are the number density of gas in
+the minimum bubble, averaged relative velocity of gas constituents and fusion cross section,
+respectively. In (6), E = (1/2)µv2 = (3/2)kDTmax, where µ is the reduced mass, kn the
+Boltzmann constant. In deriving (5), we postulate that the fusion reaction takes place as
+in free space, neglecting the dynamical correlation among deuterons, dynamical screening of
+Coulomb repulsion by electrons etc. We can roughly estimate fr and the fraction N0 /N as
+follows. The speed of wall of the bubble in the contraction phase may be close to the sound
+velocity v,. The duration of the minimum bubble, therefore, may be roughly estimated as
+Rm;,./v,. On the other hand, the speed of diffusion of the gas content to the liquid is much
+smaller than that of the wall, so that we may put N0 /N ~ 1. The fusion rate per bubble (5)
+are plotted against Ro in Fig. 2.
+
+Figure 2
+
+After all, we get a sufficient number of fusions easily detectable in a laboratory.
+
+
+4. Discussion
+
+Calculations so far made concerns a perfect gas and it is questionable whether such
+an idealization is valid up to extreme conditions that we are now interested in. To obtain
+quantitatively acceptable results, we have at least to carrry out calculation similar to the
+above for a van der Waals gas, and eventually apply molecular dynamics, plasma physics etc.
+This work only constitutes a preliminary part of the whole task and detailed calculation will
+appear in another place.
+
+
+References
+
+I. Flint, E. B. and Suslick, K. S., 1991, Science, 253, 1397.
+2. Walton, A. J. and Reynolds, G. T., 1984, Advances in Physics, 33, 595.
+3. Neppiras, E. A., 1984, Physics Reports, 61, 159.

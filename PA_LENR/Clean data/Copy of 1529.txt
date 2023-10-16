@@ -1,0 +1,364 @@
+1. Preface
+
+During the ICCF-21 meeting in Fort Collins, Colorado in June 2018, I had the pleasure of getting to know
+Dr. Mahadeva (“Srini”) Srinivasana quite well. We had met previously at ICCF meetings but became closer friends,
+discussing – in addition to cold fusion and science generally – higher-level topics like philosophy and religion. I had
+presented a poster at ICCF-21 on a project to document Dr. Edmund Storms’ 29 years of LENR research [1] That
+project became the pilot for a broader initiative for LENR research preservation. Srini and I agreed to preserve his
+research as part of the initiative in what became the Srinivasan LENR Research Documentation Project (SLRDP).
+
+As I was preparing the third draft of the SLRDP report in June 2020, I contacted Srini asking if he had any more
+corrections to make. He answered that he was leaving to join his daughter in Bangalore to get away from a high number
+of COVID-19 cases in Chennai. He indicated he would get back to me after he settled in his new location. Knowing
+that I could make more changes later if needed, I proceeded with the third draft two days later. Unfortunately, I did not
+hear from Srini again before he passed away two months later.
+
+Dr. Srinivasan’s research career is an inspiration to LENR investigators worldwide. He would certainly want the
+world to know about his career if that would help achieve LENR. This paper is offered with conﬁdence that he would
+approve wide dissemination of his work for the beneﬁt of the ﬁeld – and of humankind generally. It was a privilege
+and a pleasure to work with Srini on documenting his LENR research.
+
+
+2. Introduction
+
+Dr. Mahadeva Srinivasan was a foremost LENR researcher going back to the time of the March 23, 1989 announcement
+by Martin Fleischmann and Stanley Pons. He was then a staff member and manager at India’s Bhabba Atomic Research
+Center (BARC), where he had been employed since 1957. When the news of LENR arrived, Dr. Srinivasan was
+assigned by the BARC director to an unofﬁcial coordinating role for cold fusion work at the Center.
+
+During the initial period after the 1989 announcement, BARC built up the largest LENR research effort in the
+ﬁeld at the time. However, when cold fusion became marginalized by mainstream science, India generally followed
+suit. Dr. Srinivasan nevertheless continued research on LENR at BARC until his retirement in 1997. A photo of
+Dr. Srinivasan with Dr. Martin Fleischmann is shown in Figure 1.
+
+After he retired, Dr. Srinivasan continued to monitor developments in the ﬁeld by attending conferences and staying
+in touch with researchers. A decade after his retirement, he renewed his attempts to revive LENR investigations in
+India by working with government ofﬁcials to organize research groups in the ﬁeld. He also had responsibility for
+organizing the 16th International Conference on Cold Fusion (ICCF-16), which took place in Chennai in 2011, and he
+edited the papers for the conference proceedings.
+
+Figure 1.
+Dr. Srinivasan (Left) with Dr. Martin Fleischman. (Photo Probably at ICCF-16, Chennai, India, 2011).
+
+Dr. Srinivasan was born in Madras (now Chennai), India in about 1937. He received his B.Sc. Degree in Physics
+in 1955 and the B.Sc. Degree in Technology in 1957, both at the University of Madras. He subsequently received the
+M.Sc. Degree in Physics at the University of Bombay in 1966. In 1984 he received the prestigious honorary D.Sc.
+Degree in Physics from the University of Bombay.
+
+In addition to his distinguished career in physics, Dr. Srinivasan had a strong interest in the relationship between
+science and spirituality [2]. As a member of the Theosophical Society, Adyar, he was interested in occult chemistry [3],
+alchemy [4], distant viewing, collective consciousness, the inﬂuence of mind on matter at the quantum physics level,
+and zero point energy. He was also a philanthropist who was involved in both environmental work and social service.
+
+A project was undertaken with Dr. Srinivasan to document and describe his contributions to the LENR ﬁeld. The
+Srinivasan LENR Research Documentation Project (SLRDP) began at ICCF-21 in Colorado in 2018 and continued into
+2020. The Project encompasses three major parts – a brief LENR autobiography, an interview and copies of his publi-
+cations and related documents. The SLRDP was performed under the umbrella of the LENR Research Documentation
+Initiativeb, whose objective is to document LENR research records while they are still available.
+
+The main components of the SLRDP report [5] are an “autobiographical sketch” authored by Dr. Srinivasan and
+a listing and collection of his publications and related works. The autobiography focused on his research and other
+contributions to the LENR ﬁeld and consisted of six phases:
+I. Pre-Cold Fusion Era (1958 to 1988)
+II. Cold Fusion Era Prior to My Retirement (1989 to 1997)
+III. “Silent Decade” following Retirement from BARC (1997 to 2007)
+IV. Fresh Attempts to Revive CF/LENR Research in India (2008 to 2011)
+V. The Emergence of the Ni-H Based Rossi Reactor and Its Impact (2011 to 2016)
+VI. Appeal to the Politicians in Power for Intervention for LENR (2014 to 2018)
+
+The autobiography has been supplemented with information from three interviews, a list of his publications and
+related works completed for the SLRDP and two other primary sources [6, 7] for this integrated description of his
+LENR career. The ﬁrst interview was by Russ George in 1994 [8], and the second was by Marianne Macy in 2011 [9].
+The third was for the SLRDP by the author; it took place in 2019 at ICCF-22 in Italy.
+
+
+3. Phase I. Pre Cold Fusion Era (1958 to 1988)
+
+After completing his graduate studies in 1957, Dr. Srinivasan entered a year-long training program at BARC. At the
+end of the program, he became a BARC Science Ofﬁcer and joined its nuclear power research program. BARC has
+its origins in 1948 when Homi Bhabba, under the sponsorship of Jawarhal Nehru, initiated India’s nuclear program
+with the formation of the Atomic Energy Commission. The AEC formed the Atomic Energy Establishment Trombay
+in 1954, which was renamed to BARC in 1967 after Bhabba was killed in a plane crash the year before.
+
+Dr. Srinivasan was promoted to head of Experimental Reactor Physics in 1963 and the Nuclear Physics Division
+in 1974. During this time, BARC was supporting India’s “three-stage nuclear power program” which consisted of
+Pressurized Heavy Water Reactors, Plutonium and Uranium Fast Breeder Reactors, and Thorium-U233 Fuel Cycle
+Reactors. The ﬁnal stage was important to the country because of its abundant thorium resources. Nuclear fusion
+research was also underway at BARC by a plasma physics group in Dr. Srinivasan’s organization. The objective of
+this research was to improve understanding of the basic physics of fusioning plasma. The method used was plasma
+focus, which is a variety of the Z-pinch research approach.
+
+Dr. Srinivasan’s speciﬁc BARC assignments began as Science Ofﬁcer in the Nuclear Physics Division followed
+by the Reactor Engineering Division, where he headed the experimental Reactor Physics Section. This Section was in
+charge of experimental work at the Zero Energy Reactor Zerlina. He was then a leading researcher in the Pulsed Fast
+Reactor Project, which designed, constructed and commissioned the Plutonium-Fueled Purnima Small Fast Reactor.
+Subsequently, he worked on three U233 fueled research reactors – the Purnima II, Purnima III and Kamini Reactors.
+Dr. Srinivasan also initiated fusion and related experiments, including the Z-pinch, Plasma Focus and 500 MJ Capacitor
+Bank Project.
+
+During the 1960s, Dr. Srinivasan had two leaves of absence of about two years each, one at Argonne National
+Laboratory (US) and the other at Chalk River Nuclear Laboratories (Canada). Also during this phase, he developed the
+Trombay Criticality Formula [10], which enabled predictions to be made of the neutron leakage from fusion reactor
+assemblies based on its geometrical and physical characteristics.
+
+
+4. Phase II. Cold Fusion Era Prior to My Retirement (3/1989 to 2/1997)
+
+BARC responded quickly and forcefully to the 1989 LENR announcement. The Director, Dr. P.K. Iyengar, was very
+open-minded and assembled about a dozen representatives of various research units to launch an investigation program.
+Dr. Srinivasan served as informal coordinator of the efforts and was co-author with Dr. Iyengar of a comprehensive
+progress report of the ﬁrst six months of research. Dr. Srinivasan was at the time an experienced nuclear researcher
+with some 32 years at BARC, and he held a senior position as Head of the Nuclear Physics Division. Within a year or
+so, BARC had the largest LENR research program in the world underway.
+
+BARC’s primary interest in LENR initially was as a potential source of neutrons for India’s thorium-U233 Fuel
+Cycle Reactor Program. As noted above, a neutron source was needed to convert thorium to U233 as a critical step
+for the country’s nuclear power program. Dr. Srinivasan stated that he was “in the right place at the right time” when
+BARC learned of the 1989 LENR announcement.
+
+An electrolytic cell was used initially to verify the Fleischmann and Pons’ claim. A commercial Milton Roy cell
+was on hand for producing hydrogen (and deuterium) gas and was quickly modiﬁed for LENR experiments. Inves-
+tigations began within a day or so after the March 23 announcement. The Milton Roy cell produced positive results
+as neutron bursts and production of tritium, but two similar additional cells obtained afterward were not successful,
+which was Dr. Srinivasan’s ﬁrst experience with LENR’s continuing problem of lack of reproducibility. Subsequent
+BARC LENR research included deuterated titanium chips, nickel-hydrogen setups and transmutation studies.
+
+Dr. Srinivasan believed the neutron and tritium signatures were deﬁnitive [11] and indicated that the tritium channel
+of the branching ratio was predominant, in which tritium production was far greater than neutron emissions. This
+“branching ratio anomaly” is based on observation that the tritium to neutron ratio is 1 million or more rather than
+unity. The anomaly was observed at BARC in the electrolytic cell [12] and other LENR methods employed [13].
+
+Dr. Srinivasan’s LENR experiments with titanium were done in full cognizance of similar work by Francesco
+Scaramuzzi and Howard Menlove. The initial experiments involved exposing X-ray ﬁlm to samples of titanium deu-
+teride in a technique called autoradiography [14]. The exposed ﬁlm showed many bright spots caused by emissions
+from tritium, indicating that LENR occurs in isolated locations [15]. Subsequent experiments were performed with
+deuterated titanium chips that were shock-treated by immersion in liquid nitrogen [16]. Four of the 1000 chips tested
+showed evidence of tritium as a clear signature of LENR, thus conﬁrming the ﬁndings of Scaramuzzi and Menlove.
+
+Dr. Srinivasan’s nickel-hydrogen work was inspired by the reported ﬁndings of Randell Mills. After meeting Mills,
+he conducted experiments with electrolytic cells having a nickel electrode and light-water electrolyte. However, when
+positive results were reported by Srinivasan, potential errors in calorimetry were pointed out by Michael McKubre
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 35 (2022) 21–29
+of SRI. This resulted in Dr. Srinivasan spending six months at SRI working with McKubre using the two-balance
+method [17], which clariﬁed the calorimetry error.
+
+Dr. Srinivasan was also interested in elemental transmutation occurring in LENR [18], [19], [20]. Iron was ob-
+served in BARC transmutation experiments and by a BARC post-graduate student working with John Bockris at Texas
+A&M. Both sets of experiments were conducted using the carbon arc method.
+
+During this period of his LENR work, Dr. Srinivasan did an important statistical analysis of neutron emissions [21].
+He had conducted similar analysis of neutron emissions previously for his masters thesis. The neutron emissions from
+LENR were shown to occur in short bursts. Along with the autoradiography ﬁndings of localization in spots [22], Dr.
+Srinivasan concluded that the LENR phenomenon is isolated both in space and in time. This discovery, and that of the
+branching ratio anomaly (Tr/n > 106) are two of his most important contributions to the LENR ﬁeld.
+
+Although LENR proved to be a disappointment as a source of neutrons for conversion of thorium to U233, research
+at BARC nevertheless continued in order to pursue other beneﬁts, particularly energy production. As noted, the
+results of the ﬁrst six months of BARC’s LENR research were summarized in an unpublished report (“BARC 1500”).
+About 10 of the BARC groups investigating LENR conﬁrmed the phenomenon with tritium production and/or neutron
+emissions.
+
+When in 1990 Dr. Iyengar was promoted from Director of BARC to Chairman of India’s Atomic Energy Com-
+mission, a new Director was appointed who was not supportive of LENR research. Most of the work therefore came
+to an end. Dr. Srinivasan was able to continue his research because of researcher independence in India, but without
+institutional support and at a major cost to his professional career. For example, his nomination to Fellow of the In-
+dian National Science Academy was rejected, even though it was supported by two former BARC Directors and the
+Chairman of the AEC, because of pro-LENR stance. Dr. Srinivasan’s research continued until he retired at age 60, as
+was customary for government employees, in 1997. All LENR research at BARC came to an end when Dr. Srinivasan
+retired.
+
+Dr. Srinivasan prepared two internal BARC documents regarding the importance of LENR to the future of the
+organization. In the ﬁrst document, written in 1991 after the new Director was in charge, was in entitled “Whither Cold
+Fusion?” [23] It made reference to the ill fate of LENR and identiﬁed ﬁve “levels of response” to the phenomenon,
+from the most skeptical to the most supportive level. He then set forth his understanding of the reasons for LENR
+skepticism.
+
+The second document, “Paradigm Shifts Which Can Drastically Affect Our Extrapolations/Projections” [24], was
+prepared in 1995 and made the case for LENR research based on avoiding technological surprise for power production
+in India. Dr. Srinivasan noted that fast breeder technology (the second stage of India’s three-stage nuclear power
+program) was extremely unlikely to become reality because of international nuclear non-proliferation concerns. He
+emphasized the fortuitous emergence of LENR at the same time as the decline of the prospects of fast reader reactors.
+
+Dr. Srinivasan believed that BARC made three major contributions to the LENR ﬁeld – the discovery of the
+branching ratio (Tr/n) anomaly, statistical analysis of neutron emissions (showing emission bursts) and the use of
+autoradiography showing the localized nature of the LENR in materials.
+
+
+5. Phase III. “Silent Decade” following Retirement from BARC (3/1997 to 11/2007)
+
+For 10 years after his retirement, Dr. Srinivasan deliberately kept a low proﬁle regarding his interest in LENR. As
+noted, when he left BARC all LENR investigations came to a halt. Although there was no ofﬁcial order, the message
+was loud and clear. The Director who was antagonistic to the ﬁeld was subsequently promoted to India’s Principal
+Scientiﬁc Advisor, a position he held for 20 years, which meant that there was little chance of LENR research anywhere
+in India. Despite his low proﬁle, Dr. Srinivasan maintained his contacts in the ﬁeld and regularly attended the ICCF
+conferences. His reticence came to an end in 2007, when he attended ICCF-13 in Sochi, Russia.
+
+
+6. Phase IV. Fresh Attempts to Revive CF/LENR Research in India (2008 to 2011)
+
+The concluding session of ICCF-13 was very positive, including talk of imminent commercialization of LENR. As a
+consequence, Dr. Srinivasan was motivated to take a more active role in the ﬁeld. In 2008 he was able to arrange a
+one-day brainstorming session, “Energy Concepts of the 21st Century” [25] at India’s National Institute of Advanced
+Studies. He invited Michael McKubre and Steven Krivit to participate.
+
+Later, while attending ICCF-15, Dr. Srinivasan accepted responsibility for ICCF-16 in Chennai, India in 2011.
+He was able to engage many of his colleagues and contacts in the country, including the former BARC Director, P.K.
+Iyengar, in arranging and securing funding for the conference. He then edited the conference proceedings [26], [27]. In
+addition to the conference, Dr. Srinivasan made arrangements for a pre-conference and two post-conference meetings.
+The pre-conference event was a LENR tutorial. One of the post-conference meetings was on “Materials Science
+Aspects of Hydrogen Loaded Metals”, and the other was a one-day session on biological transmutation [28].
+
+
+7. Phase V. The Emergence of the Ni-H Based Rossi Reactor and Its Impact (2011 to 2016)
+
+Dr. Srinivasan invested a great deal of time and other resources in responding to Andrea Rossi’s E-cat demonstrations
+in 2011 [29]. The E-cats were based on a nickel-hydrogen system for LENR, which resonated strongly with Dr.
+Srinivasan because of his earlier nickel-hydrogen experiments at BARC in response to the work of Randell Mills.
+Rossi’s January 2011 demonstration was just three weeks before ICCF-16, so Dr. Srinivasan changed the program
+to accommodate presentations and discussions on the development of the E-cat. Rossi’s demonstration of his 1-MW
+reactor in October 2011, as well as the apparent veriﬁcation by the Lugano test [30], increased Dr. Srinivasan’s interest
+in supporting E-cat development. The reported Parkhomov conﬁrmation [31] and publication of Mats Lewan’s book
+“Impossible Invention” also contributed to Dr. Srinivasan’s belief that “LENR had turned the corner” as he put it.
+
+In the period 2012 to 2015 he lobbied three multinational power companies in India to be prepared to manufacture
+Rossi’s LENR reactors. When Industrial Heat began working with Rossi, Dr. Srinivasan persuaded that organization,
+as well as Defkalion Green Technologies [32] whose approach was apparently similar to Rossi’s) that companies in
+India would be excellent candidates for manufacturing and marketing decentralized LENR power units. Like many
+others in the LENR ﬁeld, Dr. Srinivasan was deeply disappointed in the negative outcome of the relationship between
+Rossi and Industrial Heat [33].
+
+During 2014 Dr. Srinivasan took the initiative to convince the chief editor of India’s Current Science Journal to
+bring out a special issue on LENR. The issue, for which he invited Andrew Muhlenberg to be a co-author, came out in
+February 2015.
+
+
+8. Phase VI. Appeal to the Politicians in Power for Intervention for LENR (2014 to 2018)
+
+During the ﬁnal phase of his autobiographical sketch, which overlaps the previous phase by a couple of years,
+Dr. Srinivasan again worked to revive interest in LENR in India. His work started in 2014 with organization of a
+session on cold fusion at a mini-conference that was held on the use of Nb-Ta alloys in particle accelerators. He
+took this opportunity to work with the host of the conference to arrange a meeting with the Prime Minister of India
+about cold fusion. Although the meeting was scheduled, the PM failed to attend because of competing priorities at
+Parliament.
+
+However, a subsequent meeting with the Minister for Power was much more productive. The Minister made
+arrangements for funding a LENR brainstorming session at India’s National Institute for Advanced Studies. The
+meeting was attended by more than 15 heads of leading scientiﬁc laboratories. In a second meeting almost a dozen
+team leaders from their respective labs pledged to initiate LENR experimental programs. Subsequent efforts to secure
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 35 (2022) 21–29
+funding for this work led to four active research groups – at the Indian Institute of Technology (IIT) Bombay, IIT 
+Kanpur, S-Vyasa University and Dr. Srinivasan’s former home laboratory, BARC.
+
+Dr. Srinivasan continued to be active in LENR afterward, including attending ICCF-22 in Italy in 2019, which 
+is when the interview was accomplished for the SLRDP. The third draft of the SLRDP report was completed in June 
+2020, just two months before his death in August.
+
+
+9. LENR Publications and Related Works
+
+During his nearly 30 years of LENR research, Dr. Srinivasan prepared (or was a party to) at least 45 papers and other 
+documents related to the phenomenon. These papers were identiﬁed and collected for the SLRDP. He was careful to 
+note that, while he was often a lead author or was responsible for synthesizing LENR results, the investigations were 
+actually done by many researchers.
+
+About 22 LENR papers by Dr. Srinivasan as author or co-author were found for Phase II, while he researched 
+LENR at BARC from 1989 to 1997. The topics reﬂect the course of his LENR research and include overviews of 
+the research [34], autoradiography, deuterated palladium and titanium, tritium detection, neutron emissions, statistical 
+analysis, liquid nitrogen treatment, gas loading, electrolysis and gas absorption with nickel and hydrogen, and the two-
+balance method (at SRI).
+
+As noted above, one of the earliest and most signiﬁcant works was the BARC report [35] (“BARC 1500”) that he 
+co-authored with Dr. Iyengar in 1989. The report included 19 papers by 37 authors in three parts: electrolytic cell 
+investigations, deuterium gas loading experiments and theoretical papers. No papers were prepared during Phase III, 
+the “silent period”. Approximately 23 papers and related materials were prepared by Dr. Srinivasan in Phases IV, V 
+and VI (2008 to 2017). The ICCF-16 proceedings he edited (published in 2011) had 67 papers in six categories: gas 
+loading, electrolysis, theory, nuclear particle measurements, transmutation and hotspots, materials, and engineering 
+technology. The Current Science Journal special edition he co-edited with Dr. Andrew Muehlenberg was published in 
+February 2015 and included 35 papers by many of the most senior ﬁgures in  the LENR  ﬁeld  [36].
+
+
+10. Summary: A Sterling Career in an Essential Field for the Future of Humankind
+
+Dr. Srinivasan was responsible for a number of advances in understanding of the LENR phenomenon, and he re-
+ported results of his investigations in many publications and reports. As noted above, he stressed three main LENR 
+accomplishments at BARC in his autobiographical sketch – the tritium to neutron ratio anomaly, the demonstration by  
+statistical analysis that neutrons are emitted in bursts, and the use of autoradiography to show that LENR occurs in 
+isolated spots. He thus concluded that the phenomenon takes place in spots that are isolated in space and time.
+
+Dr. Srinivasan made substantial contributions to the LENR ﬁeld, which has major potential to meet the need of 
+humankind for a clean and inexpensive source of energy. He was one of  the earliest  researchers to  respond to the  LENR  
+announcement and led one of the largest research efforts in the world in the ﬁrst two years afterward. He enjoyed a 
+sterling career both in his research contributions and his effective advocacy for LENR. He was very personable and 
+easy to work with, and he became an international presence in the ﬁeld.
+
+
+References
+
+Grimshaw, T., and E. Storms, 2018. Documentation of Dr. Edmund Storms’ 29 Years of CF Research: Lessons Learned for
+Long-Term LENR Researchers. Poster Presented at the 21st International Conference on Cold Fusion (ICCF-21), June.
+C.V.K. Maithreya, Science, Spirituality and Srinivasan, Inﬁnite Energy, No. 154 (2020) 27-28.
+M. Srinivasan, Occult Chemistry: The Amazing Phenomenon of Extra-Sensory Perception of Nuclear Structure and Sub-
+atomic Particles, Inﬁnite Energy, No. 36 (2002) 20-25.
+M. Srinivasan, Alchemy: Myth or Science?, Rejoinder to “The Curious Case of an Experiment with Alchemy” by Atul Sethi.
+Times of India, 2008.
+M. Srinivasan and T.W. Grimshaw, Documentation of Dr. Mahadeva Srinivasan’s Cold Fusion Research, A Project of the
+LENR Research Documentation Initiative, Volume 1, Report and Volume 2, Copies of Papers. LENRGY, LLC Unpublished
+Report, June 12, 2020.
+M. Srinivasan, “Mahadeva, Srinivasan: Commentary on Cold Fusion: The First Ten Years”, Inﬁnite Energy, No 24 (1999) 17.
+C.L. Frazier, The Passing of Indian Cold Fusion Researcher Mahadeva Srinivasan, Inﬁnite Energy, No. 153 (2020) 10-11.
+R. George, The Cold Fusion Phenomenon Is Real: An Interview with Dr. Mahadeva Srinivasan Conducted by Russ George,
+Cold Fusion Magazine, No. 2 (1994).
+M. Macy, ICCF-16 in India: A Historic Perspective, Inﬁnite Energy, No. 95 (2011) 9-13.
+[10] A. Kumar, M. Srinivasan and R.K. Subba, Trombay Criticality Formula for the Characterization of Neutron Leakage Varia-
+tions from Small Reactor Assemblies, Part 1: Basis, Bhabha Atomic Research Centre, BARC-1120, 1981.
+[11] M. Srinivasan, Wide Ranging Studies on the Emission of Neutrons and Tritium by LENR Conﬁgurations: An Historical
+Review of the early BARC Results. in Low Energy Nuclear Reactions and New Energy Technology Sourcebook, Vol 2, (Oxford
+University Press, 2008).
+[12] R.K. Rout et al., Reproducible, Anomalous Emissions from Palladium Deuteride/Hydride. Fusion Technology 30 (1996) 273.
+[13] M. Srinivasan, et al., Observation of Tritium in Gas/Plasma Loaded Titanium Samples. in Anomalous Nuclear Effects in
+Deuterium/Solid Systems, AIP Conference Proceedings 228 (1990).
+[14] R.K. Rout, M. Srinivasan, and A. Shyam, Autoradiography of Deuterated Ti and Pd Targets for Spatially Resolved Detection
+of Tritium Produced by Cold Fusion, in BARC Studies in Cold Fusion, P.K. Iyengar and M. Srinivasan, Eds., Atomic Energy
+Commission, BARC-1500, p. B 3, 1989.
+[15] M. Srinivasan, Hot Spots, Chain Events, & Micronuclear Explosions. Capstone Presentation. Fifteenth International Confer-
+ence on Cold Fusion (ICCF-15) 2009.
+[16] T.C. Kaushik, et al., Preliminary Report on Direct Measurement of Tritium in Liquid Nitrogen Treated TiD Chips, Indian
+Journal of Technology 28 (1990) 667-673.
+[17] M. Srinivasan and M. McKubre,. Two-Balance Method of Faraday Efﬁciency Measurement with External Open Cell
+Calorimetry for Identifying Origin of Excess Heat Ni-H2O Electrolytic Cells. Cold Fusion Magazine 1 (1994).
+[18] M. Srinivasan, Transmutations and Isotopic Shifts in LENR Experiments: An Overview. Journal of Condensed Matter Nuclear
+Science, 12 (2013) 1-10.
+[19] M. Srinivasan, G.H. Miley, and E. Storms, Low Energy Nuclear Reactions: Transmutations, in Nuclear Energy Encyclopedia:
+Science, Technology and Applications (Wiley, 2011) 503-540.
+[20] M. Srinivasan, Neutron Emission in Bursts and Hot Spots: Signature of Micro-Nuclear Explosions? Journal of Condensed
+Matter Nuclear Science. 4 (2011) 161-172.
+[21] M. Srinivasan, et al., Statistical Analysis of Neutron Emission in Cold Fusion Experiments, in The First Annual Conference
+on Cold Fusion (ICCF-1). 1990.
+[22] C.R. Narayanaswamy, Observation of Anomalous Production of Si and Fe in an Arc Furnace Driven Ferro Silicon Smelting
+Plant at Levels of Tons per Day. Journal of Condensed Matter Nuclear Science 24 (2017) 1-8.
+[23] M. Srinivasan, Whither “Cold Fusion”?, Letter to Friends and Colleagues, Internal Unpublished BARC Document, April 8,
+[24] M. Srinivasan, Paradigm Shifts Which Can Drastically Affect Our Extrapolated Projections, Internal Unpublished BARC
+Document Prepared for Seminar on Vision 2020, July 19-21, 1995.
+T.W. Grimshaw / Journal of Condensed Matter Nuclear Science 35 (2022) 21–29
+[25] M. Srinivasan, Energy Concepts for the 21st Century, A Report on the One-Day Discussion Meeting on ‘Emerging New
+Energy Concepts for the 21st Century: Low Energy Nuclear Reactions’ Held at the National Institute of Advanced Studies on
+9 January 2008, Current Science 94 (7) (2008) 842-843.
+[26] M. Srinivasan, Ed., Proceedings of the ICCF-16 Conference, February 6–11, 2011, Chennai, India, Part 1, Journal of Con-
+densed Matter Nuclear Science, 8 (2012).
+[27] M. Srinivasan, Ed., Proceedings of the ICCF-16 Conference, February 6–11, 2011, Chennai, India, Part 2, Journal of Con-
+densed Matter Nuclear Science, 10 (2013).
+[28] M. Srinivasan, Advisor, One Day Workshop on Biological Nuclear Transmutations : Historical Perspective and Applications.
+Organized by SRM University, Kattankulathur and Indian Institute of Metals, Kalpakkam (2011).
+[29] The Rossi demonstrations are described in M. Lewan, An Impossible Invention – The True Story of the Energy Source that
+Could Change the World, Self-Published by Lewan (2014).
+[30] G. Levi, et al., Observation of Abundant Heat Production from a Reactor Device and of Isotopic Changes in the Fuel, Unpub-
+lished Report, Bologna University (2014).
+[31] A.G. Parkhomov and E.O. Belousova, Research into Heat Generators Similar to High-Temperature Rossi Reactor, Journal of
+Condensed Matter Nuclear Science, Vol 19 (2016) 244-256.
+[32] Defkalion Green Technologies, Company Overview, Market Strategy, Global Positioning. Unpublished Document, 2011.
+[33] M. Macy, Reporting a Lawsuit in LENR, Inﬁnite Energy, No. 127 (2016) 8-19.
+[34] P.K. Iyengar and M. Srinivasan, Overview of BARC Studies in Cold Fusion, in The First Annual Conference on Cold Fusion
+(ICCF-1), 1990.
+[35] P.K. Iyengar and M. Srinivasan, BARC Studies in Cold Fusion, BARC-1500, Government of India, Atomic Energy Commis-
+sion, 1989.
+[36] M. Srinivasan and A. Muehlenberg, Eds., Current Science, Special Section: Low Energy Nuclear Reactions, 108 (4) (2015).

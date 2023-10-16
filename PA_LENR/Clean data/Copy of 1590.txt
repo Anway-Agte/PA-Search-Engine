@@ -1,0 +1,98 @@
+1. Introduction
+
+We have recently been pursuing calculations of neutron yields due to the presence of fast alphas and deuterons in PdD
+and D2O, in order to better understand the relative absence of neutrons in excess heat experiments. In the course of our
+calculations, we needed a fit for the deuteron–deuteron fusion cross section for neutron production. The cross sections
+are available online in the Los Alamos ENDFB-VI nuclear data compilation. A table of them can be downloaded [1].
+However, for numerical work it is useful to have a simple fitted version. After searching for a while in the literature,
+it seemed worthwhile to develop fits that were useful for our purposes. Perhaps these may also be useful for others as
+well.
+
+We note that Li and coworkers have put forth a simple physics-based model for the deuteron–deuteron fusion cross
+section [2], which from our perspective represents a major step forward. The parameterizations that we present here
+are not intended to be physics-based fits; instead, we were interested in developing a more standard numerical type of
+fit.
+
+2. Parameterization of the cross section
+
+At low energy, the asymptotic dependence of the fusion cross section in the absence of anomalous screening can be
+found in terms of a constant astrophysical S-factor S0 according to
+where we have indicated the relative energy as Er. The relative energy for the deuteron–deuteron reaction is half of the
+incident deuteron energy E in the lab frame. The Gamow energy is
+To develop a parameterization, we follow the approach of Erba [3], which is based on the energy-dependent astrophysical
+S-factor S(E)
+It is much easier to ﬁt this function than the cross section.
+
+2.1. Fitting function:
+To proceed, we adopt a ﬁtting function of the form
+
+2.2. Fitting parameters for the 2H(2H,n)3He reaction:
+In the case of the 2H(2H,n)3He reaction, we have obtained ﬁtting parameters given by
+a = 10.8947,
+b = 34.5732 MeV−1,
+c = 0.254611 MeV−2,
+d = 2.6419 MeV−1.
+The S(E) function derived from the ENDFB-VI data set is shown along with the ﬁtted version of the function in
+Fig. 1. The units of S associated with the ﬁt are barns eV.
+
+2.3. Fitting parameters for the 2H(2H,p)3H reaction:
+For the 2H(2H,p)3H reaction, the ﬁtting parameters that we found are
+a = 10.921,
+b = 22.5417 MeV−1,
+c = 0.150056 MeV−2,
+d = 1.71503 MeV−1.
+
+The S(E) function derived from the ENDFB-VI data set is shown along with the ﬁtted version of the function in Fig. 2
+
+Figure 1.
+Astrophysical S(Er) factor for the n+3He branch as a function of the deuteron energy in eV.
+
+
+3. More complicated ﬁtting function
+
+It is possible to develop a better ﬁt using a similar ﬁtting function with more ﬁtting parameters. In this case, we adopt
+a ﬁtting function of the form
+In the case of the 2H(2H,n)3H reaction, the ﬁtting parameters we found are
+a = 10.8757,
+b = 51.579 MeV−1,
+c = 24.822 MeV−2,
+d = 0.070247 MeV−3,
+Ed (eV)
+S(Er) (eV barn)
+
+Figure 2.
+Astrophysical S(Er) factor for the p+3H branch as a function of the deuteron energy in eV.
+
+Table 1.
+Comparison of data with ﬁts; Er is the relative deuteron-deuteron
+energy; S(n) is the astrophysical S-factor S(Er) for the 2H(2H,n)3H reaction
+from the ENDFB-VI library; S4(n) is the 4-parameter ﬁtted result and S6(n)
+is the 6-parameter ﬁtted result; S(p) is the astrophysical S-factor S(Er) for the
+2H(2H,p)3H reaction from the ENDFB-VI library; S4(p) is the 4-parameter ﬁtted
+result and S6(p) is the 6-parameter ﬁtted result.
+
+e = 4.1407 MeV−1,
+f = 1.8212 MeV−2.
+
+For the 2H(2H,p)3H reaction, we obtained
+a = 10.9070,
+b = 32.995 MeV−1,
+c = 5.2903 MeV−2,
+d = − 0.050120 MeV−3,
+e = 2.6291 MeV−1,
+f = 0.34445 MeV−2.
+
+
+4. Discussion
+
+We have developed simple ﬁts to the deuteron–deuteron fusion cross sections which provide a reasonable match to the
+ENDFB-VI data set. Numerical values for the two cross sections and the different ﬁts at selected relative energy points
+are given in Table 1. One can see that the ﬁts match the data within a couple of percent. The standard error for the six
+parameter ﬁts in both cases are about 60% of the standard error for the four parameter ﬁts.
+
+
+References
+
+[1] The LANL website is: http://t2.lanl.gov/data/deuteron.html.
+[2] X. Z. Li, B. Liu, S. Chen, Q. M. Wei, and H. Hora, Laser and Particle Beams 22 (2004) 469 .
+[3] M. Erba, J. Phys D: Appl. Phys. 27 (1994) 1874 .

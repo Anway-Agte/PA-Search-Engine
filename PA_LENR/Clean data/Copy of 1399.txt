@@ -1,0 +1,407 @@
+1. Introduction
+
+In our previous studies, we observed anomalous heat in Pd|D2O electrolytic cells by Seebeck Envelope Calorimetry
+(SEC) [1−5]. Two factors were found to be very important for experimental reproducibility. One is that the temperature
+increment (i.e. the difference between steady temperature and initial temperature) during electrolysis must be high
+
+Figure 1. (a) Schematic of electrolytic cell (not in scale) used from January 2011 to October 2014. The symbol A represents anode; symbols
+KA+ (also the cathode), KA−, KV+ and KV− represent two source terminals and two sense terminals, respectively, in a 4-terminal AC resistance
+meter (HIOKI 3560); (b) photo of electrolytic cell of (a); (c) the cell since November 2014; (d) Schematic of different parts in the calorimeter (not
+in scale); (e) the cell of (c) with lead wires and thermocouples in calorimeter, the rust of porcelain enamel jar is a result of two explosions that
+happened before, due to failures of the catalyst.
+
+enough; otherwise no excess heat will be observed [3]. Another is that the electrolysis of a Pd sample in an open cell
+is an effective way to activate the cathode for excess heat production in subsequent electrolysis in a closed cell [5]. In
+this paper, deep research on pretreatment methods will be reported.
+
+McKubre et al. [6] and Kunimatsu et al. [7] reported that D/Pd > 0.8–0.9 is a necessary condition to obtain excess
+heat in Pd|D2O electrolytic systems around room temperature. This requirement is in conflict with our experiences
+[1−5]. From April 2011, we have been measuring in situ the D/Pd ratio in electrolysis and calorimetry. The results
+showed that high loadings of D into Pd are unnecessary for excess heat production.
+
+In recent years Violante’s group found that the surface morphology of the cathode plays a key role in excess heat
+production in Pd|D2O electrolytic cells [8,9]. This conclusion is similar to our discovery on pretreatment because both
+of them are surface effects. In this paper, we will report the characteristics of effective Pd surfaces.
+
+
+2. Experimental Set-up
+
+The electrolytic cell used from January 2011 to October 2014 was an advanced model compared to the previous design
+[5]. Its schematic and photo are shown in Figs. 1(a) and (b), respectively. The cell is made of borosilicate glass
+(ϕin 41 × ϕout 45 × 130 mm3
+) and it has a PTFE cap with a SS316 pipe connected to a deuterium gas cylinder and
+a pressure gauge. The bottom part of the male cap has two grooves of 4 mm width and 2.5 mm depth for O-rings
+(ϕin = 31.5 mm, width = 3.55 mm, made of nitrile butadiene rubber) to seal the cell. In addition, the cap has five
+holes for electrode leads as shown in Fig. 1(a). High-temperature sealant (Thomas Technologies Co. Ltd, Chengdu,
+China), which solidifies at 120◦C, is filled into the gaps between the leads and the cap to prevent escape of the off gases
+from the cell. A Pt cylindrical mesh filled with recombination catalyst (Alfa Aesar, Stock #89106, Lot #C24R036)
+to recombine excess D2 and O2 is suspended under the PTFE cap as shown in Fig. 1(b). The quantity of catalyst
+generally varies from 35 to 45 pellets (weight ∼ 0.05 g /pellet).
+
+From November 2014 to now, a SS316 flange was used outside the borosilicate cylinder to prevent an explosion,
+as shown in Fig. 1(c). The cap is also made of SS316, and is covered with Teflon coating to prevent corrosion. Cored
+screws and small O-rings are used to seal gaps between the leads and cap as partly shown in Fig. 1(c). Four screws
+are used to fix the cap and the flange. This cell gives better pressure tightness than the prior one. However, the Teflon
+coating is not so stable and has to be replaced after some runs.
+
+The electrolyte is D2O + D2SO4 mixed solution, to which we always added 0.2–0.4 g of titanium powder.
+Both deuterated reagents are from Beijing Chemical Reagent Company (>99.9 atom % D) with the mass ratio of
+D2O:D2SO4 about 5:1. The platinum foil (normally 0.02 × 31 × 43 mm3
+) anode and leads are from General Research Institute for Nonferrous Metals (GRINM) as before [3].
+Palladium samples from four different sources were used during the experiments. The physical properties, pretreatment methods and maximum excess power produced during electrolysis in closed Pd|D2O cells are listed in Table 1
+for Pd #4 to 33 in total of 157 runs from July 27, 2011 to May 26, 2016. Most of samples are from Alfa Aesar,
+Stock #11514, 99.9% purity. Pd #6, provided by John Dash, is also from Alfa Aesar. Pd #4, 5 and 17, provided by
+Da-Lun Wang, are from Kunming Institute of Precious Metals (KIPM). Pd #7, 18 and 27 are from GRINM, 99.95%
+purity. Pd #20 and 21 are from AVIC Beijing Institute of Aeronautical Materials (BIAM). Before the first electrolysis
+run, a Pd sample from Alfa or KIPM is cold rolled to the desired thickness and then washed with pure alcohol and
+de-ionized water to remove surface contamination. A scanning electron microscope in combination with an energy dispersive spectrometer (SEM-EDS; HITACHI, S-4300) is used to characterize the Pd surface morphology and elemental
+composition. A 3D Noncontact Optical Profiler (BRUKER ContourGT) and an Atomic Force Microscope (BRUKER
+Dimension FastScan AFM) are used to measure the surface roughness.
+
+Five Pt leads (ϕ0.8 mm), covered with heat-shrink Teflon tubing for protection, are welded to the Pt anode and a
+Pd cathode by a spot-welder. The loading ratios of D/Pd are determined by the resistance method using HIOKI 3560
+AC mΩ HiTESTER to avoid DC voltage shifts during electrolysis, as discussed [10].
+
+Before and after each electrolysis, the cell is weighed with a Mettler balance (PM1200, 1 mg readability) to
+monitor the weight loss. If the catalyst is working well, electrolysis at 3 A for 10 h will induce mass loss ∆m <0.2 g
+and the corresponding decomposition energy of heavy water will be less than 3 kJ; otherwise, the calorimetry may be
+complicated because excess heat is not prominent in these tests.
+
+Three K-type thermocouples are attached outside the cell for temperature measurements, as shown in Fig. 1(a). The
+first is at the height of the recombination catalyst to monitor the recombining process of deuterium and oxygen gases.
+The second thermocouple is at the height of electrolyte level, and the third is on the bottom of the cell. The average
+value of the second and third temperatures is considered to be the electrolyte temperature in this paper. Generally, the
+temperature around the electrolyte level was greater than that of bottom by 5–10◦C during experiments.
+The power supply and data logging system are similar to that [5] with some modifications. All parameters are
+measured every 10 s. The input energy is the integration of input power (electrolytic current × cell voltage) with
+electrolysis time. The output energy is the integration of output power with electrolysis time and cooling time (around
+10 h) of a heated cell.
+
+Measurement of excess power is made by a decimeter-size heat-flow calorimeter which was fully demonstrated
+to have stability and accuracy in [4,5,11]. The electrolytic cell is placed in an enamel jar filled with cotton for heat
+insulation as shown in Figs. 1(d) and (e). The jar is located in the center of the measuring vessel with inner sizes
+of 26 cm × 26 cm × 26 cm and the air in the vessel is mixed with a fan to ensure temperature homogeneity. The
+
+Table 1. Summary of excess power for various samples from July 27, 2011 to May 26, 2016.
+
+calorimeter is calibrated with an electric heater in 2-W steps, up to a power level greater than the electrolysis power,
+e.g. the maximum calibration power is 12 W if the electrolysis power is planned to be around 10 W. The input power
+P and output signal E can be simulated by a linear equation. For accuracy, we fit their relationship with a quadratic
+form:
+P = D1E + D2E
+2
+, (1)
+where P is the input power in Watts and E is the output electromotive force in Volts; D1 is the device constant
+in W V−1
+; D2 is the coefficient of the quadratic term. The intercept term in Eq. (??) is forced to zero to ensure
+no signal without input power. The device constantD1 and the uncertainty over more than 41 months are shown in
+Fig. 2. Fluctuations of room temperature in different seasons affect the long-term precision; however, this calorimeter
+is calibrated every 2–4 weeks when it is used in experiments, and this is accurate enough to give a true signal of
+excess power with the uncertainty around 30 mW for many experiments. At the same time, we consider a result to
+be assured production of excess heat only when both of the excess power and the excess energy (output energy minus
+input energy) are positive values, to avoid misjudgments. If both of them are negative and the mass loss rate of the cell
+in electrolysis is greater than 20 mg h−1
+, the result has to be considered a failed experiment.
+
+On Oct. 10, 2014 (Exp. #141010), a control experiment was conducted with a Pt foil (0.02 × 17 × 29 mm3
+) in
+place of Pd cathodes. Electrolysis current of 3 A was applied for 12 h, the input and excess power were 8.462 ± 0.003
+W and − 0.014 ± 0.019 W, respectively, under steady state. Another control experiment (Exp. #141012) was done
+using Pd #27. (We had difficulty producing excess heat with this batch of samples.) The stable excess power was −
+0.029 ± 0.019 W while the input power was 8.721 ± 0.004 W at 3 A. These two results and other negative results with
+Pd|D2O all confirmed that our calorimetry is credible.
+
+
+3. Results
+
+3.1. Effects of D/Pd ratio and other parameters on excess power:
+The relationship between the resistance ratio and the D/Pd ratio at room temperature has been well known for many
+years [10,12,13]; however, the temperature coefficient of resistance of Pd–D, αD, in the miscibility gap has not been
+determined up to now, so the similar parameter of Pd–H, αH, had to be used by various groups in the past. We found
+that the application of αH to the Pd–D system will induce what appears to be a physically impossible result, i.e. the
+D/Pd ratio will increase with time but not decrease as expected in a short period just after electrolysis is stopped.
+Therefore, we had to determine αD by ourselves. We calculated it using the resistance data during the cooling process
+after the electrolysis is stopped, as shown in Fig. 3(a). Of course, we had to ensure resistance only decreases linearly
+
+Figure 2. Changes of device constant (average value hD1i = 5.8246 ± 0.0312 (0.54%) W V−1
+) and uncertainty (average value hσi =
+24.3 ± 8.6 mW) of the calorimeter at 25◦C (the set temperature for all results listed in this paper) over 41 months (Dec. 27, 2012 to June 11, 2016).
+
+Figure 3. (a) Changes in resistance and temperature of a Pd cathode with time during cooling after stopping deuterium absorption by electrolysis;
+(b) Resistance vs. temperature in (a), only middle part has linear relationship between these two variables as shown by the fitting line and formula
+(Pd #4, Exp. #110727).
+
+with temperature, and this means only part of data from cooling is chosen, as shown in Fig. 3(b). αD with 0 <D/Pd
+<0.7 is obtained by collecting some runs of experiments as shown in Fig. 4 and simulated by a linear equation, the
+resulted resistance coefficient is
+αD/K
+−1 = 0.003965 − 0.003597x. (2)
+
+Figure 4. Collections of temperature coefficients of resistance of Pd–D in 39 runs of experiment for Pd #1, 4, 5 and 6 from May 10, 2011 to Oct.
+24, 2012. The corresponding fitting formula is Eq. (??).
+
+In our experiments, the D/Pd ratio at different temperatures was determined in situ by combining this factor and
+Eqs. (??) and (13) in [10]. Of course, αD here must also be considered as a qualitatively and acceptable substitute of
+αH, it needs to be measured in carefully designed experiments in future.
+
+Figure 5 shows an example of in situ D/Pd ratio measurement during excess heat production in electrolysis. We
+find that the cathode resistance and the cell temperature increase with time as shown in Figs. 5(a) and (b), respectively.
+The D/Pd ratio increases with time due to deuterium absorption at the beginning of electrolysis; however, the cathode
+begins to desorb deuterium after 12 min of electrolysis, because the temperature is too high as we discussed previously
+[14]. It is found that the average D/Pd ratio is only 0.60 when excess power is 0.103 W as shown clearly in Fig. 5(c).
+This is in direct conflict with the previous conclusion that high loading ratios of D/Pd are needed for excess power
+production [6,7].
+
+Figure 6 is a collection of data from 75 runs of positive results with excess power, with 21 samples. It illustrates
+how excess power is dependent on different parameters. Because the D/Pd ratio was not measured before July 2011,
+and it was not successfully measured in every run after that, the data points in Fig. 6(a) are from only 33 runs with
+16 samples. We find that there is no clear correlation between the excess power and the D/Pd ratio. Most excess heat
+occurs when D/Pd is 0.5–0.7 below the threshold value of 0.8–0.9 cited [6,7]. This means that high loading ratios of
+D/Pd are not necessary for excess heat production. Another effect is the initial D/Pd ratio; we obtained excess heat
+for Pd samples both with deuterium already absorbed (e.g. Fig. 5(a)) and without any deuterium at the beginning of
+electrolysis. Therefore, the initial D/Pd ratio has no clear influence on excess heat production. In our experiments, the
+closed cell was only filled with deuterium gas to increase the D/Pd ratio in some runs; however, we did not find effects
+of atmospheres on the deuterium absorption during electrolysis. Therefore, we always carried out experiments with
+
+Figure 5. Applied current I, cell voltage V , input power Pin, output power Pout, gas pressure p, cathode resistance ratioR/R0 (instantaneous
+resistance to the initial value of the free deuterium at 25◦C), D/Pd ratio, cell temperature Tcell, room temperature Troom, bath temperature Tbath
+(= temperature of outer wall of calorimeter) and excess power Pex in electrolysis of Exp. #161101 with Pd #34 (0.25 × 12 × 33 mm 3
+, Alfa Aesar,
+Lot #J30Z002). Average values hPexi = 103 ± 17 mW and hD/Pdi = 0.60 ± 0.02 in 8–10 h.
+
+the closed systems with only air in the cell.
+
+On the other hand, from Fig. 6(c), we find there is clear correlation between the excess power and the cell temperature as observed by us previously [3] and also reported by Storms recently [15].
+In our experiments, we intentionally increase the cell temperature by using more cotton in the jar, although the
+applied current heat the cell at the same time. This is the reason why there is correlation between the excess power and
+the current density as shown in Fig. 6(b) but Figs. 6(b) and (c) are unlike each other.
+
+3.2. The effects of different pretreatments on excess heat reproducibility:
+In a previous paper [5], we reported that open electrolyzing of Pd cathode in D2SO4 heavy water solution until the
+electrolyte is used up is an effective way to stimulate excess heat in subsequent runs of electrolysis, and Pd #1 maintained its activity after lying in a sample box for more than 6 months. Since then, we used this sample as a cathode
+in a H2O cell in two runs (Exp. #091001 and 091002) for blank calorimetry [5]. After that, this sample was dead; it
+produced no excess heat in subsequent 13 runs of calorimetry with three runs of open electrolyzing for activation. It
+
+Figure 6. Specific excess power vs. (a) D/Pd ratio, (b) current density, (c) temperature, and (d) maximum temperature reached in pretreatments
+for 75 runs of positive calorimetric experiments with 21 samples from Dec. 23, 2008 to Mar. 28, 2015.
+
+seems that history of H contamination suppresses excess heat production in Pd–D systems. Only Pd #2 and 4 in [5]
+were still active or could be activated by open electrolyzing thereafter.
+
+In 2012, we tested Pd #5A from KIPM in 17 runs of calorimetry with four runs of open electrolyzing for activation;
+however, only one run (Exp. #120612) gave excess power of 73 ± 17 mW just after open electrolyzing (Exp. #120611).
+On Dec. 17, 2012, Pd #5A was cold rolled to 0.33 mm from original thickness of 0.5 mm and it was designated Pd #5B.
+
+Table 1. Summary of excess power for palladium samples pretreated with etching in aqua regia.
+
+After soaking in sulfuric acid for 15 min and washing, it was assembled to the cell for electrolysis and calorimetry. It
+showed a sign of excess power of 32 ± 32 mW the next day (Exp. #121218). This sample showed excess heat in two
+runs over 12 runs of calorimetry with one run of open electrolyzing for activation. The maximum excess power was
+59 ± 32 mW in Exp. #130110 at applied current of 3 A and a cell temperature of 92◦C.
+
+From Aug. 24 to Sep. 6, 2013, Pd #7 from GRINM was tested in five runs of calorimetry with three runs of open
+electrolyzing for activation. The maximum excess power was only 28 ± 26 mW in Exp. #130827 just after activation
+by open electrolyzing the day before. In our experience, it is difficult to produce excess heat with this batch of samples
+from GRINM.
+
+As far as open electrolyzing is concerned, three processes take place in this procedure. The first is etching by acid,
+the second is heating in acid and the third is electrolyzing. To distinguishing the effects of these three processes, we
+designed three treatment methods with samples Pd #8 to 33, from September 2013, as shown in Table 1 and discussed
+below.
+
+3.2.1. Etching in aqua regia:
+Five samples (Pd #8 to 11, 29B) were pretreated with etching in aqua regia, and 11 runs of calorimetry were carried
+out. Most of these runs did not produce any excess heat, as shown in Table 2. Now we take Pd #8 as an example to
+illustrate the calorimetric results shown in Table 3. We find that only a little excess heat was observed in Exp. #130917
+when Pd was etched in aqua regia for 15 min and then electrolyzed for 12 h at 3 A, whereas there was no excess power
+in the other three runs with this sample (Exp. #130919/23/25).
+
+Because mass losses from the cell were prominent in experiments during 2013, we tested this pretreatment method
+again in 2015. We chose Pd #29A, which had given the maximum excess heat after pretreated with open electrolyzing
+(see Section 3.2.3), and we cold rolled it to the thickness of 0.12 mm and designated it Pd #29B. It was etched in aqua
+regia for 72 s and about 6.4 µm of thickness from the surface was removed, according to its mass loss (from 1.0624
+to 0.9496 g). The subsequent electrolysis at 3 A for 12 h only gave excess power of 6 ± 14 mW (Exp. #150705).
+The mass loss of this run was only 28 mg. All experiments listed in Tables 2 and 3 show that etching alone has no
+significant effect on excess heat production.
+
+Table 2. Summary of excess power for Pd #8 pretreated with etching in aqua regia.
+
+Table 3. Summary of excess power for palladium samples pretreated with heating in D2SO4.
+
+3.2.2. Heating in D2SO4:
+Thirty-two runs of calorimetry with 11 samples were conducted to study the effects of pretreatment by heating in
+D2SO4 on subsequent electrolysis, as shown in Table 4. Details of Pd #16 as an example are listed in Table 5; we find
+that most runs with this sample show excess heat after activation. It produced maximum excess power of 117 ± 24
+mW in Exp. #140107 after being heated for 2 h and reaching the maximum temperature of 244◦C in pretreatment. In
+all 11 samples listed in Table 4, 9 samples produced excess power but only four of them give maximum excess power
+Pex,max >3σ, the rest are not so activated, although reproducibility is high for this method.
+
+3.2.3. Electrolyzing in D2SO4:
+Fifty runs of calorimetry with 12 Pd samples were performed to test the effect of open electrolyzing in pretreatment
+on excess heat production in subsequent electrolysis, as shown in Table 6. All runs with Pd #29A as an example are
+listed in Table 7. Before open electrolyzing, PTFE sealing tape is used to wrap the cell cap to protect the O-ring from
+corrosion by evolution gas, an open bottle is filled with D2SO4 until the Pd cathode is completely immersed, and
+the electrolysis current is usually set as 4 A. During 3 h of open electrolyzing in Exp. #141209 with Pd #29A, the
+maximum temperature reached 228◦C at 2.5 h. In subsequent electrolysis in a closed cell at 4 A for 15 h, the stable
+excess power Pex reached 103 ± 19 mW from 10 to 11 h. The activity of this sample continued in the next two runs
+as observed before [5]. It gave 128 ± 19 and 82 ± 19 mW in Exp. #141212 and 141214, respectively, without any
+pretreatment, as shown in Table 7. From Table 6, we find the reproducibility of this method is 25/50 (50%), which
+is somewhat less than the heating method of 21/32 (66%); however, there are six samples giving excess power of
+
+Table 4. Summary of excess power for Pd #16 pretreated with heating in D2SO4.
+
+Table 5. Summary of excess power for palladium samples pretreated with open electrolyzing in D2SO4.
+
+Pex,max >3σ in all 11 samples tested. In comparison, this parameter is only four in all 11 samples for heating method
+in Table 4. This means open electrolyzing is apparently the most effective method of activation.
+
+3.2.4. Other activation methods:
+It was reported that applying reverse current for 1 h in electrolysis can activate a Pd cathode for excess heat production
+[16]; however, we tested five samples in eight runs (Exp. #080731, 080804, 081125 & 081130 with Pd #1; Exp.
+#090527 with Pd #2; Exp. #121118 with Pd #6; Exp. #130914 with Pd #8; Exp. #140319 with Pd #23) and no
+significant excess heat was stimulated by this method.
+
+We also tested reverse polarization in pretreatment during open electrolyzing (Exp. #090814, 090915 and 090921
+with Pd #1), there was no excess heat observed in subsequent calorimetry for closed electrolysis. Only one positive
+example came from Pd #4, when we applied reverse polarization of 3 A for 20 min at the beginning of pretreatment
+with open electrolyzing, then normal current of 3.5 A was applied for 2 h and 3.75 A was applied for 1 h successively
+(Exp. #110728). The subsequent four runs of calorimetry with closed electrolysis gave excess power of 96 ± 15 mW
+in Exp. #110729, 117 ± 15 mW in Exp. #110802, 52 ± 15 mW in Exp. #110804, and 88 ± 15 mW in Exp. #110805.
+However, we are not sure of the role of reverse electrolysis here.
+
+It has been said that an oxide layer on the palladium surface may be important for excess heat production [17,18].
+In ICCF17, Dash et al. also reported that Pd and Ti foils being heated in flame at 700◦C for 20–60 min had given
+excess power in subsequent electrolysis [19]. At our request, John Dash sent us three samples (Pd #6 in Table 1 and
+two Ti foils). We tested the Pd sample in six runs (Exp. #121013/14/16/17/24, 121115) at current of 3 A. Only three
+runs produced a little excess heat with the maximum value of 61 ± 23 mW in Exp. #121017. We also activated it by
+electrolyzing two times; however, it did not produce excess heat in the two subsequent runs (Exp. #121117/18) after
+
+Table 6. Summary of excess power for Pd #29A pretreated with open electrolyzing in D2SO4.
+
+Table 7. Summary of excess power for Pd samples plated with Au and Cu.
+
+the first open electrolyzing (Exp. #121116). It only gave small excess power of 40 ± 26 mW in the first two of total
+four runs (Exp. #121120/21/22/29) after the second open electrolyzing (Exp. #121119). One Ti foil (0.6596 g,
+0.4 × 10 × 39 mm3
+, Alfa Aesar, 99.99% metals basis) did not give excess heat in four runs of electrolysis (Exp.
+#130529/30/31 and 130602) too.
+
+The situation was similar for Pd #21. It was soaked in fused potassium hydroxide (a.k.a. mercerizing) about
+20 years ago and the surface is black. It did not produce excess heat in the first run of electrolysis (4 ± 33 mW in
+Exp. #140224). After heating in hot D2SO4, the excess power in subsequent electrolysis was still within the range of
+uncertainty (23 ± 33 mW in Exp. #140226).
+
+We tried to deposit inert metals on the surface of palladium after deuterium was absorbed in order to seal the
+deuterium into the sample, thereby testing if this method could trigger excess heat. Two samples were tested in 5
+runs, as shown in Table 8. Au or Cu was deposited on the Pd surface by means of electroplating. Firstly, one of the
+samples was heated in D2SO4 for 1–2 h, and then electrolysis was carried out for the Pd cathode in the cell used for
+calorimetry. After the D/Pd ratio reaching saturation value, the Pt anode shown in Fig. 1 was switched to Au or Cu
+(Alfa Aesar, 99.99%) for some minutes. Cu was easily plated; however, it was difficult to form an Au deposit because
+of the insolubility of Au in sulfuric acid. Both current and time affect the plating thickness, as shown in Table 8. There
+is no clear evidence that this method can improve excess heat production.
+
+3.2.5. Comparison of different treatment methods:
+Table 9 compares the effects of different pretreatments on excess heat production for different Pd samples. We find
+that etching in aqua regia only gives the maximum excess power of 45 ± 18 mW and 18% reproducibility; heating
+in D2SO4 induces maximum excess power of 117 ± 24 mW and 66% reproducibility; open electrolyzing in D2SO4
+leads to the maximum excess power of 128 ± 19 mW and 50% reproducibility. Although heating produced higher
+reproducibility than open electrolyzing, the latter method has a sample rate of 3/11 with Pex >100 mW while the
+former has only 1/11. This means that open electrolyzing is the most effective method of activation. Figure 6(d) shows
+effects of maximum temperature reached in pretreatment (heating or open electrolyzing of Pd in D2SO4) on excess
+heat, higher temperature of pretreatment will induce higher excess power as expected. We feel that we need to achieve
+much higher temperature in future research.
+
+Of course, reproducibility is also source and sample dependent. Pd plates from GRINM were difficult to activate; four samples (Pd #3 in [5], Pd #7, 18 and 27 here) only gave maximum excess power of 48 ± 16 mW with
+reproducibility of 2/11. Generally, we only use this batch without any pretreatment in control experiments to test the
+
+Table 8. Comparison of different pretreatments on excess power for samples Pd #8 to 33
+
+accuracy and validity of our calorimetry. On the other hand, samples from one batch of Alfa Aesar showed different
+levels of excess heat production from one to another. For example, Pd #28 to 33 were all cut from a plate of Lot
+#J30Z002 and were all pretreated with open electrolyzing; however, Pd #33 only gave maximum excess power of 61
+± 45 mW (Exp. #150328) and reproducibility of 1/8 while both #31 and 32 gave excess power greater than 100 mW
+The reasons of this sample dependent on excess heat production are unknown at present.
+
+3.3. Surface characteristics of Pd samples:
+As reported by the Violante group [8,9], the surface morphology of a Pd sample is very important for its excess heat
+production in electrolysis. For this purpose, we cut a small part from some typical Pd samples in every phase and
+studied them with light and electron microscopes. Now we take Pd #16 as an example to demonstrate our primary
+results. This sample was pretreated by heating in D2SO4 and gave excess power up to 117 ± 24 mW, as shown in
+Tables 1 and 5. Its photos in three different phases are shown in Fig. 7; we find its surface becomes rough after heating
+and electrolysis in D2SO4, as expected.
+
+3.3.1. Changes of surface roughness:
+To quantitatively characterize the surface morphology, we used a non-contact 3D optical profiler (BRUKER ContourGT) to measure roughness, as shown in Fig. 8 and listed in Table 10. It is clear that all roughness parameters
+under different definitions increase by around one order of magnitude after heating in D2SO4, and they increase again
+by 1/10 to 1/2 after electrolysis for 12 h. AFM study on Pd #14 also support this conclusion, i.e. open electrolyzing
+also roughens the surface. These results agree with the discovery of the Violante group [8,9]. Of course, more
+study on comparison of different pretreatments on surface properties is needed. Without this we cannot determine the
+detailed requirements for excess heat production.
+
+3.3.2. SEM and EDS characteristics:
+Similar to our previous work [2,3], we also studied SEM as shown in Fig. 9, and element composition with EDS, as
+shown in Tables 11 and 12 for different phases of Pd #16. Figure 9(a) is an SEM of the fresh sample and there is only
+base metal Pd and some C and O on the surface (see Table 11). After heating in D2SO4 for 2 h, many microstructures
+appear on the Pd surface as shown in Fig. 9(b). After electrolysis, new elements S, Ag and Pt occur on the surface
+as shown in Fig. 9(c) and listed in Table 12. For these new elements, S comes from the electrolyte; Pt comes from
+
+Figure 7. Optical photos of Pd #16 just cold rolled (a), after heating in D2SO4 for 2 h (b) and after electrolysis for 12 h (c). The units of scale are
+in mm.
+
+Table 9. Roughness parameters of surface shown in Fig. 8.
+
+Table 10. Relative atomic percent concentrations at spots shown in Fig. 9(a).
+
+the anode and Ag may be the product of transmutation as reported before [2,3]. Spot #1 in Fig. 9(c) is the center of
+a crater, where should be the place of deuterium bubbles evolved from and silver is prominent. This situation is the
+same as Fig. 9 in [3]. This means that silver is transmuted in the deuterium electrode reaction.
+
+
+4. Discussions and Conclusion
+
+Although we can observe excess heat with some reproducibility, the amplitude of excess power is still very small now
+and we need to increase it by 2 or 3 times at least. Otherwise, the scientific community may have doubts about the
+calorimetry. Regarding the Pd surface pretreatment, we need more research to clarify the surface properties and their
+physical effects. This may be the key step to amplifying excess power.
+
+Figure 8. Typical 3D morphology of Pd #16. Regions of (a)–(c) are chosen from Figs. 7(a)–(c), respectively. The areas are 0.234 × 0.310 mm2
+for (a) and (c), and 0.223 × 0.299 mm2
+for (b); the units of height on the right side are in µm.
+
+Figure 9. SEM of Pd #16, (a)–(c) are chosen from Figs. 7(a)–(c), respectively.
+
+Table 11. Relative atomic percent concentrations at spots shown in Fig. 9(c).
+
+In conclusion, we find that high loading ratios of D/Pd are unnecessary for excess heat production in Pd|D2O
+electrolytic cells. Additionally, the temperature is more important than the D/Pd ratio as demonstrated by 75 runs of
+calorimetry. On the other hand, pretreatments of surface are another necessary step to activate Pd cathodes. Comparing
+three methods, i.e. etching in aqua regia, heating in D2SO4 and open electrolyzing in D2SO4, we found that the latter
+two are effective ways to activate a Pd sample to produce excess heat in subsequent electrolysis. Light and electron
+microscopy indicate that pretreatments roughen the surface and this may be responsible for the excess heat production.
+
+
+References
+
+[1] Z.-L. Zhang, W.-S. Zhang, M.-H. Zhong and F. Tan, Proc. ICCF8, Bologna, Italy, May 21 to 26, 2000, p. 91.
+[2] W.-S. Zhang, J. Dash and Q. Wang, Proc. ICCF12, Yokohama, Japan, Nov. 27 to Dec. 2, 2005, p. 86.
+[3] W.-S. Zhang and J. Dash, Proc. ICCF13, Dagomys, Sochi, Russia, June 25 to July 1, 2007, p. 202.
+[4] W.-S. Zhang, J. Dash and Z.-L. Zhang, Proc. ICCF14, Washington DC, USA, Aug. 8–10, 2008, p. 26.
+[5] W.-S. Zhang, Proc. ICCF15, Roma, Italy, Oct. 5–9, 2009, p. 27.
+[6] M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, S.I. Smedley and F.L. Tanzella, Proc. ICCF3. Nagoya, Japan, Oct. 21–25,
+1992, p. 5.
+[7] K. Kunimatsu, N. Hasegawa, A. Kubota, N. Imai, M. Ishikawa, H. Akita and Y. Tsuchida, Proc. ICCF3, Nagoya, Japan, Oct.
+21–25, 1992, p. 31.
+[8] V. Violante, F. Sarto, E. Castagna, M. Sansovini, S. Lecci, D.L. Knies, K.S. Grabowski and G.K. Hubler, Proc. ICCF14,
+Washington DC, USA, Aug. 8–10, 2008, p. 429.
+[9] E. Castagna, S. Lecci, M. Sansovini, F. Sarto and V. Violante, J. Condensed Matter Nucl. Sci. 8 (2012) 49.
+[10] W.-S. Zhang, Z.-F. Zhang and Z.-L. Zhang, J. Electroanal. Chem. 528 (2002) 1.
+[11] W.-S. Zhang, Thermochim. Acta 499 (2010) 128.
+[12] M.C.H. McKubre and F.L. Tanzella, Proc. ICCF12, Yokohama, Japan, Nov. 27 to Dec. 2, 2005, p. 392.
+[13] A. Spallone, F. Celani, P. Marini and V. Di Stefano, Proc. ICCF12, Yokohama, Japan, Nov. 27 to Dec. 2, 2005, p. 404.
+[14] W.-S. Zhang, Z.-L. Zhang and X.-W. Zhang, J. Electroanal. Chem. 481 (2000) 13.
+[15] E. Storms, J. Condensed Matter Nucl. Sci. 20 (2016) 81.
+[16] J. Dash and A. Ambadkar, Proc. ICCF11, Marseille, France, Oct. 31 to Nov. 5, 2004, p. 477.
+[17] D.D. Dominguez, D.A. Kidwell, D.L. Knies, K.S. Grabowski, G.K. Hubler, J.H. He, V. Violante, J. Condensed Matter Nucl.
+Sci. 8 (2012) 219.
+[18] J.-P. Biberian, I. Parchamazad and M.H. Miles, J. Condensed Matter Nucl. Sci. 13 (2014) 38
+[19] J. Dash, J. Solomon and M. Zhu, J. Condensed Matter Nucl. Sci. 13 (2014) 80.

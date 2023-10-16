@@ -1,0 +1,877 @@
+Introduction
+
+Since 1989, in various countries around the world, continuous efforts have been
+done to investigate the nature of the excess heat found in electrochemical
+experiments of loading palladium or palladium alloys by deuterium. Five years
+about of such as experiments carried out by several groups, by using different
+techniques and procedures indicate that the heat power excess findings, up to 3.7
+kW/cm3 of Pd (1), cannot be attributed to artifacts and their magnitude appears
+well beyond the power that any expected chemical process could release. If
+adequate protocols are used, heat generation is found and quite definite progress
+Experimental
+has been made towards its reproducibility though it is still difficult to adequately
+control its onset, duration and magnitude. Because these features are the primary
+conditions for developing any type of technologically exploitable energyproducing
+device, efforts for improving them are in progress, expecially by
+private companies, mostly in Japan.
+On the side of nuclear ashes recovery, the overall picture is more intriguing. At
+present time one thing is very well confirmed: the generation rate of neutrons
+and tritium nuclei, coming from the d,d reaction channels, thought as
+occurring in plasma physics, are of several order of magnitude lower, if
+compared with the rate values expected from heat power excesses measured by
+calorimetry. Therefore, in condensed matter, other nudear byproducts of d,d
+reaction have to be invoked and searched. In this two-body reaction, only
+another channel can exist: the 4He channel. Since the beginning, various
+measurements (2-8) to detect 4He both in Pd cathodes and in the gas phase
+escaping from the electrochemical cells were reported but only a few of them are
+accounted for in detail. Up to now only one electrochemical cells experiment has
+been reported (3) where evidence is given of heat excess roughly correlated with
+4He measured in the gas phase. The air contamination which could have
+possibly occurred in this experiment was later discussed (5). Gas loading
+experiments in a high vacuum assembly have clearly shown the release of 4He
+when deuterium is confined in Pd between blocking interfaces (6).
+From the theoretical point of view, there are at least two great problems to solve
+for explaining this experimental scenario: i. Coulomb barrier for d,d reaction
+between low energy nuclei; ii. the energy release to Pd lattice of the a-particle
+produced. In terms of plasma physics, for both these problems there is not a
+solution. On the other hand these problems have been attacked with promising
+results by some theories (9-12). Their main feature is the attempt to overcome
+the schemes of the high energy physics believed to be not fully apt to treat a
+different physical situation such as that of the condensed matter.
+All this is a bird-view emerging from four International Conferences (13-16),
+specialized International Meetings (17-18) and several hundreds of publications
+on Journals.
+
+Starting from 1989, our group, where competences of physical chemistry and
+nuclear physics are present, is with continuity involved in making multicell
+experiments providing calorimetric and nuclear (neutrons, tritium, 4He,
+gammas) measurements as well as a little bit of Materials Science applied to Pd
+cathodes preparation (19-27). Scope of the present paper is to show a part of the
+results obtained in the last multicell experiment in which the feature of the
+quantitative measurement of 4He was added.
+
+
+Experimental 
+
+Overview 
+The basic idea in designing our experimental set-up was to have a multicell 
+system, up to ten equal cells, in which the unique difference among them was in 
+the cathode in terms of material or geometry or preparation. One or more cells 
+can be blank cells having the cathode made of a material not D (H) absorbing 
+such as Pt or Au or made of Pd but in a D free electrolyte. All the cells are 
+connected in series and electrolysis is carried out in galvanostatic mode (each cell 
+can be excluded or inserted at any time in the electrical series circuit by a home- 
+made device controlled in manual or by computer mode). This allows the rate of 
+all the electrochemical processes be the_same in each cell. This condition 
+produces a certain number of important facts related to the calorimetry; as an 
+example, the flow-rate of the electrolysis products, D2 (g) and 02 (g), is, according 
+to the Faraday's law, equal in each cells so that the heat transported by the 
+escaping gases and the heat necessary to saturate the gases themselves by D20 
+(H20) are also the same in each cell provided the temperature of the solution be 
+the same. 
+
+Because each cell is a non-adiabatic calorimeter, it is important that the way the 
+heat is exchanged with the sorroundings is the same for all the cells. As expected, 
+this has to occur mostly through the conductive path localized in the cell glass 
+wall between the eletrolyte solution and the thermostated stream of circulating 
+water. This is obtained by positioning all the cells simmetrically in a torus-
+shaped bath thermostated by circulating water kept at constant temperature 
+(generally 21.0 ± 0.1 °C) by a high quality thermostat. The room temperature is 
+maintained close to this value. 
+The torus (50 cm outer diameter and 30 cm innermost diameter) is contained in 
+a large neutron counter designed by us and manufactured by Jomar-Canberra, 
+Los Alamos (see below). 
+
+To easier understand what is monitored, what is done in each cell and how the 
+signal are processed, we report in Fig. 1 the complete flow-chart (24). 
+
+Figure 1 Flow-chart of the operations performed on each cell 
+
+5To be correct this is exactly true when the rate of D (H) absorpion by the cathode is zero. For 
+practical purposes, this condition is fulfilled quite soon after the starting of electrolysis
+ 
+All the cells are treated according to this flow chart. As it is shown in figure 2, 
+our cells are open-type cells with external recombination. The external 
+recombinator joined to the D2 (H2) separator is an efficient D2 (H2) cutting system 
+(see below). 
+
+4He measurement by a magnetic type mass spectrometer (28) is not an on-line 
+measurement and the gas line is sampled discontinuously by filling a 500 ml 
+steinless steel (SS) cylinder. At sampling stage, as it will be shown later on, the 
+gas composition is given by N2 with D2 (H2), 02 and D20 (H20) traces and 4He if 
+any. At certain stage of the experiment 20Ne measurements have been initiated 
+as a marker of a supposed air contamination. 
+In the followings, we shall describe, except for the 4He measurement procedure 
+reported elsewhere (28), the single parts of the experimental set-up as well as the 
+adopted procedures, making use of what was already reported (24-26) while 
+describing in details the new features and the reliability of the various methods 
+adopted. 
+
+
+Electrochemical Cells and Calorimetry 
+
+i. Electrochemical cell. 
+
+The present most recent version of the electrochemical cell is reported in Fig. 2. 
+This cell was modified with respect to the previous version (26) essentially to 
+make it impervious to the air contamination in view of 4He measurements. In 
+fact, particular care has been reserved to all the feedthroughs in the cap in 
+making them tight by high precision machining of the crossing holes as well as 
+in selecting the feedthrough material. Nylon 66 or SS tubes were adopted for the 
+lines because, as we tested (28), they are not 4He permeable. Connections in the 
+lines were done by Swagelock fittings and where this was not possible, as in the 
+case of SS-Pyrex joints, we made them by soldering SS tube and Pyrex by epoxy 
+resin adhesives (of the types used in high vacuum technology). To carry 4He up 
+to the sampling cylinder, due to the deuterium cutting system , we have to use a 
+stream of N2 coming from a LN2 tank. This ensures a practical null background 
+of 4He (28). 
+
+The cell geometry (inner diameter 22 mm x 245 mm height) was designed to 
+maximize the heat transfer in the radial direction by taking also into account the 
+combined effect of the carrier and electrolysis gases bubbling which jointly allow 
+the thermal gradient to be localized on the plane orthogonal to the z-axis of the 
+cell. The effective volume of the cell to be filled with the electrolyte solution is 
+about 53 ml. Small deviations from this value may exist from cell to cell if the 
+cathodes are different in size. 
+
+Three K-type thermocouples are present in the cell to measure the temperature 
+of the cathode, solution and just outside the cell in a massive copper ring 
+immersed in the thermostated bath. Automatic and computer controlled 
+refilling of D20 (H20) is operated by the liquid sensor level positioned in the 
+lateral tube. 
+
+To ensure a good and permanent coaxial positioning of the electrodes, both the 
+cathode and anode are partially inserted in a properly machined Teflon piece 
+which also acts as N2 scrubber in its bottom part. 
+
+The anode is made of a 1 mm diameter Pt wire shaped as coil having 12 mm 
+inner diameter and height comparable to that of the cathode. 
+
+Figure 2  Scheme of the electrochemical cell 
+
+The electrolyte solution is 0.2 M solution of LiOD in 99.99% D20 (from ISOTEC, 
+USA) at low tritium content (= 1Bq/m1 or 60 dpm/ml). The ICPAES (Inductively 
+Coupled Plasma Atomic Emission Spectroscopy) analysis of the starting solution 
+did not detect any alkaline or heavy metal above the detection limit which is 
+generally 5_ 10 ppb. 
+
+In Table I are reported some of the features of the cells tested in this experiment. 
+All the Pd cathodes were prepared starting from Johnson & Matthey (UK) rods. 
+
+Table I. Details of the electrochemical cells used in this experiment 
+
+ii . Calorimetry:
+The calorimetric excess heat measurements are based on the comparison of the 
+actual value of temperature of the solution at a given input power with the 
+calibration curve. The calibration curve is obtained by increasing or decreasing in 
+step-fashion the input power. This can be done either in thermal mode, by the 
+inner heater, or in electrochemical mode by using Au or Pt cathodes exactly in 
+the same conditions in which the experiment is subsequently carried out. A 
+detailed discussion about those procedures has been already reported in literature 
+(25-26), therefore we limit ourselves to give in Table II the calibration curves 
+equations for the cell used in this experiment. 
+
+Table II. Calibration curves: Pin  = (ai ± Aai) + (bi ± Abi)ATi 
+
+All the curves are practically straight-lines with high correlation factor r having 
+the general equation form as: Pin  = (ai ± Aai) + (bi ± Abi)ATi where 
+AT, = (T, -  
+(Tib  - TA with Ts  and Ttb, respectively, the temperature of the 
+solution and of the thermostated bath just outside the cell and measured in the 
+copper ring. n and T are the respective values of Ts  and Ttb kept at Pin  =0. Pin  is 
+the input power equal to IxV or Ix (V - Vth) depending on whether the cell is 
+powered in thermal or electrochemical mode. Vth = AH°/2F is the 
+thermoneutral potential being AEI° the enthalpy of decomposition of D20 (H20) 
+and F the Faraday constant. The adopted value of Vth for D20 is 1.5367 V (29). Vin 
+and I are, respectively, the electrical potential difference at leads read closest to 
+the heating resistor, when in thermal mode, or electrodes, when in 
+electrochemical mode and current measured through the voltage drop at leads of 
+a high precision 100 inS2 resistor. The overall uncertainty in measuring Pin  is 
+0.01%. The heat power excess, Pexc,  of  a 
+where ATi is now the value measured in the experiment. The overall error on 
+Pexc  has been evaluated to be less than ±10% (25). The minimum heat power 
+excess detectable is given by P:.'", 
+°C, is the minimum temperature change appreciable by the K-type 
+thermocouples used. In Table II, the Pn", column was calculated assuming LIATi = 
+0.15 °C. Note that due to the definition of ATi, the systematic error on this 
+quantity is practically zero. 
+
+The energy balance of such a calorimeter during a calibration input power step is 
+given by: 
+given cell i, is given by: 
+
+where the four terms on the right side represent, respectively, the rate of 
+enthalpy change of the solution, the rate of heat transfer from solution to the 
+thermostated bath by conduction through the Pyrex wall, the rate of heat transfer 
+by radiation to the thermostated bath and rate of heat transfer from solution to 
+the gases (produced by electrolysis + N2 carrier) escaping from the cell and 
+saturated with D20 (H20) at the temperature of solution. Consult Appendix A 
+for the meaning of symbols in Eqn. 2. Due to the continuous heat transfer to the 
+thermostated bath, ATi, contrarily to an adiabatic calorimeter (1), is generally 
+below 15 °C, and therefore also the vapor pressure of D20 (H20) is low with 
+ respect to the atmospheric pressure and the term  
+p(t)  
+2x10-2. The sign of 
+P – p(t) 
+the last contribution to the sum of the right side member of Eqn. 2 depends on 
+the sign of the term [(C4  C,) 
+,-D20ATi(t)+ A D20  } which is always > 0 in the useful 
+A 
+working temperature range (it becomes < 0 at AT,(t) =  
+> 906.5 °C !!) 
+(Cg  CI )D,o  
+whereas the overall magnitude can be evaluated close to = 4.5 mW for I < 1A and 
+= 5.4 x 10-7  m3s-1  at stp (see below). 
+The radiative term —Rad {[T,, + AT, (0]4  — T:1, for the same above considerations on 
+irdh 
+ATi, is evaluated ranging around 3 mW and, therefore, for practical purposes 
+Eqn. 2 can be written as 
+aAT, irclk,„,ex  
+Pin  a ins  Cs  (T.  +  
+hATi(t) 
+It is important to point out that in the case of determination of P exc, Eqn. 2 might 
+be put in the form: 
+pexc.,(t).  rnsc  an,T, + n-dkpyrex   
+hAT(t)+43[AT(t)]— Pin.,(t)  
+where, in the term cI[AT,(t)] are now considered the sum of both the terms 
+previously neglected. It is esay to verify that the elimination of 0[AT,(t)] >0 from 
+Eqn. 4 always produces an underestimate of P exc• 
+The integration of Eqn. 3, in the case of a calibration step of input power, gives: 
+where the term(  1 
+ PYrer  is the slope of the calibration curve which 
+corresponds to the (bi)-1  parameters shown in Table II. The theoretical time 
+constant value is r — = p 
+ 1 V° C 
+1  = 280 s. Higher values (350-400 s) of r are 
+bi 
+biM  
+bi  
+experimentally found due to the fact that the term should be more correctly 
+written as C = m,C, + I mkCk  where the summation runs on all the masses 
+present in the cell. If a set of points is obtained in stationary condition of ATi 
+associated each time to a different Pin  value, provided h is kept constant by a level 
+sensor, this set has to be, within the experimental errors, on a straight-line of 
+slope ( irdhkP') since this vahue depends only on constant quantities. This is 
+just what we in fact obtained, as shown in Table II. To check the validity of the 
+treatment above, one can obtain k py,_ from the slope of the calibration curve . 
+
+The averaged value obtained is 0.9 ± 0.1 Wm -1K-1  which is in agreement with 
+the value reported in literature (30) (see Appendix B). 
+
+
+Deuterium cutting system 
+
+It is composed by two parts connected in series by SS (inner diam. 1.5 mm) or 
+Nylon66 (inner diam. 3 mm) tubing: i . catalytic recombinator and ii . Pd sponge 
+trap. This operation allows to measure tritium in the electrolysis gas phase (see 
+below) and eliminate D2 from the gas stream before sampling for 4He analysis.
+ 
+i . Catalytic recombinators:
+They are described elsewhere (25). Their yield rl is calculated by the following 
+equation: 
+
+measuring the recombined volume of D20 in the time interval At. The 
+correction for the condensation of D20 contained in the gas stream was 
+measured to be 3.75x10 -6  cm3s-1 . The recombination yield value averaged on 10 
+recombinators is about 92%. 
+
+The partial pressure values of D2 at the recombinator inlet and outlet are given 
+by the equations: 
+
+Supposing, for instance, I = 1A, T1=  0.9 and using data in Appendix B. PD=  and 47 
+are, respectively, equal to 1.74x10-1  P and 2.28x10-2  P. This last value is the D2 
+partial pressure of the gas stream entering in the Pd sponge trap. 
+
+ii . Pd sponge trap: 
+Two equal traps, working alternatively and continuously fluxed under N2 
+carrier, when in regeneration, are made of a SS cylinder with an inner coaxial SS 
+tube. The path of the gas mixture inside the trap is a such to have the largest 
+contact surface area with the Pd sponge. In each trap are contained 150 g about of 
+Pd sponge from Johnson & Mattey (UK). 
+
+If we suppose the absorption reaction 
+Pd(s)+ 2 D2 (g) = PdDy (s)  
+completely shifted on the right side, we can define the nominal capacity of the 
+trap as C'aP 
+ 2 M pd  , therefore, the residual capacity of the ap with respect to the 
+initial capacity, as a function of D20 consumed, is given by: 
+
+It is easy to see that to exhaust a Pd trap, in the case of ri = 0, would be sufficient 
+the electrolysis of just 8.5 cm3  of D20. Because in our case rl = 0.90, to exhaust 
+completely the trap it would be necessary to make electrolysis of a D20 quantity 
+ten times higher. 
+
+The minimum partial pressure of D2 in the gas stream at outlet of the Pd trap 
+should be equal to the activity of D2(g) in the gas phase in thermodynamic 
+equilibrium with the condensed phase at a certain activity of D according to 
+reaction 8. This value can be calculated by the following equation (31): 
+
+As it is reported elsewhere (32), the background pressure of D2 at the outlet of the 
+Pd trap, measured by mass spectrometry, has been found to be = 5x10-10  atm 
+which, by Eqn. 10 corresponds, to y = 0.2. Therefore, the overall cutting factor of 
+D2, present in the N2 carrier at the outlet of the electrolysis cell, is 108  about. This 
+remarkable result joined to the high resolution power of the mass spectrometer 
+allows to be very confident on the quantitative determinations both of 4He and 
+D2
+
+
+Measurements of Nuclear Byproducts 
+
+i . Tritium.: 
+To prevent any air contamination, contrarily to the past, we did not make 
+tritium tests in the electrolytic solutions of the cells but only in D20 produced by 
+the catalytic recombinators. The experimental procedure adopted to measure 
+tritium was described elsewhere (24) as well as the calculation to evaluate the 
+tritium electrolytic enrichment in the solution. In this experiment, because the 
+tritium measurement is done on the recombined gases and a gas carrier is 
+present in addition to the electrolysis gases, to evaluate correctly the effects of the 
+electrolysis on the tritium concentration in the gas stream it is necessary to 
+modify the mathematical treatment we utilized in the past. 
+
+Considerations based on the mass balance of tritium in our cells lead to the 
+following differential equation: 
+
+As we stated before, in the previous section, the volume of electrolyte has to be 
+constant, therefore, the term  
+dt =0, and so the D20 feed, must be such as to 
+compensate D20 consumed by the electrolysis and D20 evaporated in the gas 
+stream escaping from the cell. If, as it normally occurs, the molar fraction of DTO 
+in the D20 feed is the same as in the D20 initially present in the electrolytic 
+solution, the integration of eqn. 11 gives: 
+where the quantity q =
+° represents the expected change, due only to the 
+electrolysis, of tritium atomic fraction in the gas phase with respect to the initial 
+atomic fraction of tritium in the electrolyte. In eqn. 12 the terms q h,„ and V* are, 
+respectively, obtained by the equations below: 
+In Fig. 3 is reported the qii m  surface in the plane V*, aE. Combining eqns. 13 and 
+14, it is easy to show that only the values of V* satisfying the condition 
+— — — can be selected in the above plot. In fact the left side 
+term in the inequality has to be positive being the right side term always a 
+positive quantity. As it appears in fig. 3, the values of the qiim  ?_1 correspond to 
+V* and aE  values which are without physical meaning. 
+
+At fixed temperature and carrier gas flow-rate, an important difference between 
+eqn. 12 and eqn. 2 of ref. 24 (obtained for the tritium enrichment in the 
+electrolyte) is that, Tim  and V* are also function of the electrolysis current 
+whereas the corresponding terms a and 0 are constant quantities. By inspection 
+of eqns. 12 through 14, the following remarks can be drawn: 
+
+Figure 3 Calculated surface of qiim  term in eqn. 12 as function of V* and electrolytic separation factor 
+between deuterium and tritium on a Pd cathode. 
+
+Therefore, the expected q vs vcons  curve starts from —
+and remains, of course, 
+at this value if I=0 or tends to 1 in the case of electrolysis without any carrier gas 
+stream, whatever is the I value. Since aE depends mostly from the nature of the 
+cathode, on Pd aE =1.8 (24-25), it is expected that the q limits will be in the range 
+from = 2 to 1. In this experiment, fN 2  # 0 and kept always constant whereas I was 
+changed and in some cases put off for a certain period of time, as it will be shown 
+in the results section. Therefore, we have to expect that throughout the 
+experiment, if tritium is not generated in the cell by a nuclear reaction, the value 
+of q must be within the range 1 
+— q < 1. Further aspects will be treated in the 
+discussion section. 
+
+ii . Helium -4: 
+See in this book the paper by the same authors concerning the quantitative mass 
+spectrometric measurements of 4He. 
+
+iii . Neutrons: 
+A description of our more recent system for neutron detection was already 
+reported (26). However, for the sake of a better understanding of the results, a 
+cross-section of the detector-cell system assembly is shown in Fig. 4. 
+
+Figure 4.  Cross section of the neutron detector assembly. Dashed area is the torus containing the 
+electrochemical cells. Black circles represent the 3He tubes. Each counting group is constituted by 
+five tubes. 
+
+iiii . Data Aquisition System:
+Two separate data acquisition systems are now at work [only one in the past (24)1 
+in our experiments both based on the network Macintosh. Computer a IEEE- 
+488&RS-232 Interfaces a Instruments. They are dedicated the first to the neutron 
+acquisition (see before and ref. 26) and the second to the acquisition and control 
+(24) of all the other devices and sensors of the experimental set-up (mostly 
+through a data logger). The programs running on each of the two systems were 
+home-made both realized on the software Lab VIEW 2.1.1 from National 
+Instruments (Austin,TX). All the temperature, voltage, current and other analog 
+signals go to the analog input channels of the data logger (Orion 3531 D, 
+Schlumberger,UK) and logged at fixed scan intervals. Generally the scan interval 
+time is set at 300 s but it can change automatically to 5 s if an alarm occurs on one 
+of the logged channels. The alarm feature is based on a preset threshold. All the 
+channels connected to the cathode and solution thermocouples of each cell as 
+well as the counter channel connected in parallel to the TTL logic OR of the 
+neutron counter are set to generate alarms. The primary file (the program 
+generates also other ancillary files as for example those containing dating and 
+volumes of D20 refillings of each cell) of every piece of data acquisition is 
+constituted of a matrix of 1000 rows x 60 columns which is build by append mode 
+on both the RAM and removable hardisks. A real time plotting of all the 
+channels is at the hand on the computer screen. 
+
+Finally, as already mentioned, since the system of all the cells is positioned inside 
+the neutron detector, a B/W TV camera, connected to a videorecorder, is placed 
+in the center of the torus, and operated both in manual and automatic remote 
+control (by data logger), to have a more direct control of the status of each cell. 
+
+
+Results 
+
+Calorimetric and 4He data: 
+All the data that will be presented throughout the text are to be intended as 
+obtained according to the step-wise patterns of the electrolysis current as showed 
+in fig. 5 for all the cells tested. 
+
+In the four next figures which follow (figs. 6 to 9), two graphs each are reported 
+which represent the 4He and calorimetric results throughout the experiment for 
+some cells. Each figure shows in the upper part the 4He concentration, given in 
+ppb, compared with the 4He concentration in the blank cell and, in the bottom 
+part, the input power (left scale) and heat power excess (right scale). Heat power 
+excess has been calculated according to eqn. 1 and Table II and the related error 
+has to be considered conservatively equal to ±10% of the value while the error 
+on the input power is, as already mentioned, negligible. Because of the high 
+number of points composing each curve (>104), in order to obtain a better 
+readability, the errors bars are not reported in the bottom graphs. To facilitate a 
+comparison of the energy quantities involved both the scales have the same 
+limits. Furthermore, the lack of heat excess results in some parts of the related 
+curve is due to a conservative choice we adopted in not considering those data 
+which were acquired in experimental conditions not exactly equal to the ones in 
+which the calibration curve had been obtained6. The error on 4He concentration 
+6Connected to some electrical pertubations induced during the D2 confinement experiment on cell #4 
+
+Cell#2 : 
+has been estimated equal to ± 13% of the value (28) Cells #1 and #7 did not show 
+any excess of heat power within the experimental error. For cell #1, this is as 
+expected because it is the blank cell. Cell #7 was switched on in the final part of 
+the experiment essentially having the scope (any particular attention was 
+reserved to the charging protocol) to obtain other elements to understand the 
+effect of a change of gas composition, due to electrolysis, on the mechanism of a 
+supposed contamination by air. In fact, in this case, the line was continuously 
+
+Figure 5 Time chart of the electrolysis current applied to the cells reported in Table I 
+
+fluxed by the carrier gas since more than 700 h. 4He data of cell #7 are shown 
+elsewhere in this book (28). The maximum value of heat power excess in each 
+cell was found in the range from 2 to 19 W (± 10%) and the ratio r = excess power  
+input power 
+ranging from 0.13 to 0.70. These figures and other ones extracted from the plots 
+above are reported in Table III. 
+
+Figure 6 : Cell #2 Upper figure. 4He concentration in the gas stream of cell #2 and reference cell #1 
+Bottom figure. Left ordinate: input power; Right ordinate: heat power excess 
+
+Table III. Summary of the calorimetric results 
+
+Figure 8: Cell #8
+Upper figure. 4He concentration in the gas stream of cell #8 and reference cell #1 
+Bottom figure. Left ordinate: input power; Right ordinate: heat power excess 
+
+Figure 7: Cell #4 
+Upper figure. 4He concentration in the gas stream of cell #4 and reference cell #1 
+Bottom figure. Left ordinate: input power; Right ordinate: heat power excess 
+
+Figure 9: Cell #10 
+Upper figure. 4He concentration in the gas stream of cell #10 and reference cell #1 
+Bottom figure. Left ordinate: input power; Right ordinate: heat power excess 
+
+
+Tritium data 
+
+Tritium data are reported in figs.10 and 11. In both fig. 11 five equal graphs are 
+reported in which each of them gives   as calculated by eqn.12, q #exp  measured   
+in the recombined gases (we remind that q eitxp  = --L) and only the values of the 
+difference (q e#xp  - q th ) satisfying the condition (exp  - q #,h )
+x°  = 5  = 6.25x10-2, 
+where .6,x8  is the experimental error on the measurement, given in dpm m1-1, of 
+the atomic fraction of tritium in the recombined D20. In considering the plot of 
+cell#1, it has to be taken into account that the theoretical equation has been 
+calculated by assuming a E (Pt)= cc E (Pd). Since, notwhitstanding the criterion 
+adopted before in discriminating (q:xp  - q,h ) values, some (q 1exp  - Aih ) values were 
+still found > 0, to be conservative, the quantity of tritium atoms in excess in the 
+electrolytic solution of each cell was obtained by subtracting the averaged data 
+(ciexp - qih) > 6.25x10-2. To calculate the integral curve of the excess of tritium 
+atoms, the following equation was then used: 
+f 3H dt = 9.17x106aEx° V°{S [(q:xp  - qr,, ) - (gel  xp  - q„)idt}   (16) 
+
+Figure 10 Tritium in recombined gases. Values of cith, qexp and (qth-qexp) for cells 
+#1,#2, #4, #8 and #10. 
+
+by considering first that the combination of a E  and q allows to write x#  = aEx°q# 
+ (see also 
+
+the list of symbols and constant). As it clearly appears in fig. 11, through 
+the procedure adopted, excess of tritium is present only in cells #2 and #8. 
+
+Figure 11 Excess of tritium atoms for cells #2 and #8 
+
+
+Neutrons data 
+
+In this experiment, there was no statistical evidence of neutron emission from 
+the cells. Fig. 12 shows the number of neutrons detected each ten minutes by the 
+groups of tubes no. 1, 3, 6, 11, 12 before and during the experiment. 
+
+Figure 12 Counts in 10 min of 5 counting groups out of 12 before and after the starting of the experiment. For 
+checking the positioning of the counting groups, see figure 4 
+
+The neutron countings vs time graphs of the other groups are not shown for 
+readability purposes, but they show similar characteristics and trend. As shown 
+in the figure, there is no statistical difference between the number of neutrons 
+detected when the electrolysis was in progress and the background. Apparent 
+exceptions are the two large countings of the group 12, which occurred beween 
+900 and – 1200 hours. Howewer, simple considerations about the settlement of 
+the experimental apparatus together with the check, by the oscilloscope, of the 
+pulses coming from the groups of tubes, showed that the two great 
+enhancements of the neutron counting rate of the group 12 (as well other 
+enhancements detected by other groups not showed in fig. 12 and having the 
+same characteristics), were not generated by neutrons. In fact: 
+- As shown in fig. 4, the presence of two rings of groups of tubes surrounding the 
+toroid embedding the cells, assures that a bunch of neutrons coming from 
+whichever cell (and also from the region outside the detector) must hit at least 
+one group in each ring. Enhancements of the neutron counting of group 12, if 
+generated by real neutrons, must hence be simultaneous to other 
+enhancements of at least one of the outer ring groups. Particularly, the group 
+11 is bounded to detect an enhancement too; 
+The normal shape of the analogical signal coming from a group hit by a 
+neutron, as checked by the oscilloscope, is a peculiar negative shape (see fig. 6 of 
+ref. 24). The two enhancements of the neutron counting detected by the group 
+12 were instead generated by anomalous pulses, in which a sudden, very large, 
+negative drop of the signal was followed by oscillations around zero. 
+
+
+Discussion 
+
+Due to the absence of significant amount of neutrons and low excess of 3H atoms 
+with respect to the excess power measured we will try in the followings to 
+consider the nuclear reaction 
+d + d = 4He + 23.8 MeV(lattice)  
+as originating the observed power excess. Therefore the most important 
+comparison to be made is that between the power excess and the 4He found 
+assuming the above reaction as the source of both these quantities. 
+
+In order to compare the excess power data reported in figures 6 to 9 with 4He 
+found, it is necessary to evaluate the minimum sampling time, mst, defined as 
+the time required to fill our sampling cylinder of volume V s  at the gas flow-rate 
+JG at the sampling stage (after the catalytic recombination). The mst quantity is 
+The quantity so calculated corresponds to the time which would be spent by an 
+ideal piston moving at constant velocity from the bottom to the top of the 
+sampling cylinder. This is like to say that the entering gas moves pushing out the 
+pure N2 initially present in the cylinder. Under this hypothesis, the composition 
+of the gas trapped in the cylinder at sampling is representative of the gas 
+composition during the last mst seconds before the sampling independently of 
+the fluxation time. In fig. 13 (right scale), the equation 18 is reported vs the 
+electrolysis current at different values of i. It appears that in the range of our 
+experimental conditions the mst value is confined within a short range of 
+variability and, in any case, is at least 12 times lower than the sampling time we 
+effectively adopted because of the reasons shown elsewhere (28). As expected 
+from eqn. 18, for n -+ 1, mst is independent of the electrolysis current value. 
+
+Therefore, if the heat power excess is measured in the gas phase, by considering 
+the mass flux balance in the cell it is possible to calculate the expected 4He 
+concentration,x,He, produced through reaction 17, in the sampled gas stream by 
+the equation below: 
+
+The approximate term implies P exc  constant on time in the integration interval 
+and the contribution of 4He flux negligible with respect the sum of the other 
+fluxes. From eqn. 19, one sees that the 4He concentration measurable in the gas 
+stream depends on some experimental parameter which is mandatory to keep 
+under control. In fig. 13 (left scale), the quantity  
+, derived from eqn. 19, is 
+dPexc  
+plotted against the electrolysis current. For 'n -4 1, also the specific 4He 
+concentration becomes independent from I. 
+
+Figure 13 
+Left scale: Specific 4He expected to be measured in the electrolysis gases per 1 W of excess power as 
+function of electrolysis current at different values of i. 
+Right scale (scatter plots): Minimum sampling time, tnst, as function of the electrolysis current 
+
+To convert the experimental concentration values (in ppb) of 4He into excess 
+power, the following equation was used: 
+ is the total number of molecules in the sampling cylinder. Pe„, 
+calculated by eqn. 20 has to be intended averaged on mst.. In fig. 14, we give in 
+separate plots for cell #4 and #10, respectively, top and bottom part of the figure, 
+
+Figure 14 
+Upper figure: cell #4; Bottom figure: cell #10 
+Left ordinate: Heat power excess as measured by calorimetry. Continuous line 
+Right ordinate: Heat power excess calculated by 4He data (reaction 17 and eqn.20). Circle points 
+
+the heat power excess, as obtained by calorimetry, left scale, (see figs. 7 and 9 
+bottom plots right scales), and on the right scale the heat power excess calculated 
+by eqn. 20 through 4He data (see figs. 7 and 9 upper plots). It is important to 
+observe that in each plot of fig. 14 the two heat power excess quantities, obtained 
+in a completely independent way,  are comparable (note that the limits of the 
+ordinate scales are the same in each plot). It is evident by examining fig. 14 that 
+two different processes are at work and in both cases the 4He concentrations are 
+clearly higher than the respective 4He backgrounds before the start of the 
+experiment (not for cell #10 because we have not background) other than the 
+background found in the blank cell #1. If we limit to the time interval where 
+electrolysis is still on (see fig. 5), we observe for cell #4 a progressive increase of 
+the heat power excess from 4He, HPEH, to compare with a quite constant and low 
+heat power excess from calorimetry, HPEC. This trend is clear even if the error 
+bars are considered for both the quantities, though, quite at any time, (HPEH ± 
+AHPEH) = (HPEC ± AHPEC) holds. In cell #10, the result (HPEH ± AHPEH) > 
+(HPEC ± AHPEC) is always found only when the electrolysis current was 
+drastically decreased or off. In all other cases, HPEC prevails. What is impressing 
+is that 4He recovering is systematically found after generation of excess heat. 
+
+Concerning the evaluation of AHPEC, this was already treated in the 
+experimental section while the evaluation of AHPEH originates immediately 
+from eqn. 20 being this quantity proportional to the error in the 4He 
+determination (28). The application of eqn. 20 to the 4He data of cells #2 and #8 
+(figs. 6 and 8, respectively) leads to HPEH values lower than 0.6 ± 0.1 W after 
+subtracting the 4He background before the starting of the electrolysis. This value 
+is in any case better (but comparable to) than the calorimetric detection limit as 
+shown in Table II. According to fig. 13 and the maximum HPEC found, the 
+corresponding maximum values of the 4He concentration expected for cells #2 
+and #8 should be, respectively, 195 and 292 ppb. This is far enough from the 
+experimental findings. A similar reasoning better matches for cell #10 and 
+partially also for cell #4. Therefore, apparently, we are left with the dilemma of 
+one cell which shows a 4He concentration in the gas phase of the correct order of 
+magnitude (with respect to the heat excess) while others, cell #2 and cell #8, do 
+not. On the other hand it must be pointed out that before drawing any particular 
+conclusion two central questions are to be answered: does it exist a time relation 
+between the heat generation and 4He release out from the surface ? and, if yes, is 
+the delay a function of how the source is deep inside with respect to the electrode 
+surface ? 
+
+To our knowledge, there are not yet experimental evidences to answer 
+satisfactorily to these questions. On the other hand some pieces of general 
+information on this argument comes only from the experiments carried out for 
+studying the effect of the 3He, as product of tritium decay, on mechanical and 
+physical properties of materials candidate for hot fusion reactors (33). However, 
+our hypothesis on the behaviour of helium in Pd when it is generated in situ is 
+based on the fact that being highly insoluble, it nucleates everywhere a point or 
+linear defect exists. The transformation from a cluster of a few atoms to 
+microbubbles depends on the extension of the defects and/or to the possibility of 
+migration of defects. The probability for a bubble to reach the surface is in any 
+case very low and increases on decreasing the distance between the nucleation 
+centre and the surface. If this distance becomes greater than 10 nm (see M.W. Lee 
+in ref. 16), the calculated time required for 4He to reach the surface could be as 
+long as 14 years (34). Up to this point we believe this scheme applicable to all the 
+metals and alloys, but things could seriously change in the case of a Pd specimen 
+subject to a process where defects are continuously generated and propagate quite 
+randomly in the metallic matrix due to D charging. In this case, the pattern for 
+4He to reach the surface could be through the defects (sometimes so extended 
+that they collapse generating fractures) produced by D loading. If so, we can expect 
+any time correlation between the time of heat generation and 4He release, except 
+be made when the site of the nuclear reaction is the surface itself or some 
+monolayers below. It appears that the recovery of 4He in the gas phase of 
+different electrodes (, and therefore different microstructures,) is far from being 
+expected to occur at any definite and predictable rate. Therefore, under this 
+hypothesis, all the results of heat excess and 4He we showed keep their own 
+consistency. 
+
+For the above considerations, we have to expect that the condition HPEH 5_ HPEC 
+should be commonly found. An experimental evidence consistent with the 
+reasoning above comes from the literature (3) in which the energy associated to 
+4He was found more or less an order of magnitude lower than the energy found 
+by calorimetry. 
+
+The integration of HPEH and HPEC data of cell #10 given in fig. 14 is reported in 
+fig. 15 where throughout the experiment the heat excess from 4He is found 
+comparable with the heat excess measured by calorimetry  though, the former is, 
+in extended interval of time (from 200 to 500 h and from 600 to 1050 h), greater 
+than the latter. 
+
+Figure 15: Cell #10 
+Left ordinate: Heat excess obtained by integration on time of heat power excess as measured by 
+calorimetry (fig. 9 bottom figure right ordinate) 
+Right ordinate: Heat excess obtained by integration on time of eqn.20 
+According to the reasoning above this is not allowed and we have to introduce 
+in the discussion the possibility of another source of 4He, likely, air 
+contamination in some extent as it appears from the 20Ne detection? (28). 
+
+Concerning the error bar on solid curve of fig. 15, the same considerations given 
+before for the other curves containing calorimetric data still hold. 
+Concerning tritium data it should be noted that in the plots of fig.10 and 11 there 
+are a few number of experimental points, q, not only exceding the expected 
+value, 4, over the experimental error, but z 1. It is easy to demonstrate from 
+eqn 13 that the condition q lim  1, in absence of tritium generation, would 
+produce the result -
+.C7C  5_1 which is clearly impossible due to the fact that aE  must 
+
+This constitutes a strong rigorous support in favor of 
+generation of tritium, even if, this seems to occurs at low level and sporadically. 
+
+On the other hand, it is important to remind that the tritium measurement is 
+not an on-line measurement and since it is done on the recombined D20, the 
+minimum time interval between two samplings is the time necessary to produce 
+at least 1 ml of D20 which is the suitable volume to perform the tritium 
+determination. This time is given by —. By considering the current plots (see 
+fig . 5), the time required varies from .1 (at 1=2.5 A) to =33 (at I=0.1A) hours. For 
+practical reasons is not possible for us to perform the tritium test every 1 ml of 
+D20 produced, expecially at the highest current values, so very often the 
+sampling (of 1 ml) is made on a higher volume of D20. In the case of spike-wise 
+release of tritium in the cell, as it is likely expected, this implies to loose this time 
+structure because of the dilution effect which flats the concentration profile. 
+
+Further key point to take into consideration, often not sufficiently stressed in 
+discussing tritium measurements, is the distribution of tritium generated, if any. 
+
+It is our opinion, also supported in literature (35,36), that tritium should be 
+mostlty searched in the cathode and/or in the gas phase. In fact, if tritium is 
+produced in the bulk of the cathode, it can be trapped and/or released on time as 
+DT (g). If generated at the surface, the DT molecules go directly in the gas phase. 
+
+According to the general adopted mechanism (37) of H (D) electrolytic reduction 
+on a cathode, Me, the H2 (D2) formation step can follow two different processes: 
+Dads(Me) + Dads(Me) = D2 (g)  
+(21A) 
+and/or 
+Dads(Me) + D20 + e(Me) = D2 (g) + OD'  
+(21B) 
+If tritium atoms, T , are produced, at the Me surface, reactions 21 become: 
+Dads(Me) 
+Tads(Me) = DT (g)  
+(22A) 
+and/or 
+Tads(Me) + D20 + e(Me) = D2 (g) + OT  
+(22B) 
+7Without invoking the concurrent release of both 4He and 20Ne 
+Through step 22B, it is possible to keep tritium in the solution as really found 
+and reported previously (20,24,25). There is not other process allowing to tritium 
+to remain in the solution in significative extent being the solubility of DT in D20 
+and the catalyzed reaction of T at the cathode with dissolved oxygen in solution 
+to give DTO, very negligible processes. Therefore, a complete balance of tritium 
+would require its measurement in both the Pd cathode and the solution. 
+
+Furthermore, as we did, the tritium is measured in the gas phase via the external 
+catalytic recombination two factors does exist which concurr to give a result in 
+defect: i ) the isotopic effect on the catalytic recombination which increases the 
+rate of the D20 formation with respect to DTO; ii) the stoichiometric ratio D -1  , 
+fixed by the electrolysis and good for the recombination, is no more strictly 
+satisfied in the recombinator when tritium is generated. 
+
+From fig. 11, it appears that a net production of tritium atoms, significatively out 
+of the experimental errors (we remind the procedure showed in the results 
+section) only occurs in the cells #2 and #8. Incidentally, in these cells 4He was 
+found to be very low and not comparable with the excess heat. 
+
+If the channel of tritium of the plasma fusion d,d reaction is invoked, we can 
+calculate that the energy released throughout the experiment in the case of cell 
+#2, for instance, is 115 J, whereas, a rough evaluation of the integrated heat excess 
+measured by calorimetry in the same cell (see fig. 6) is more than four order of 
+magnitude higher. By the same reasoning, we should expect an excess of 
+neutrons with respect to the background equal to the number of tritium atoms. 
+
+This would imply a maximum averaged rate of = 7x10 7  ns-1. This rate value 
+other than to be very dangerous, it would be easily detectable whereas, as shown 
+in fig. 12 no excess of neutrons above the background was measured. 
+
+
+Conclusions 
+
+Our calorimetric results show excess power quite in linea with the other positive 
+results reported up to now. In particular, if one considers the power excess per 
+unit electrode surface area as a function of the current density, a fair agreement is 
+found with the general behaviour first pointed out by Storms (38) by considering 
+many calorimetric measurements on the Pd- D20 electrolysis carried out at room 
+temperature in different laboratories with different calorimetric devices and 
+procedures were used. As concerns the nuclear products, in the present 
+experiment, a lack of neutrons and a low tritium excess on two cells out of four 
+has been observed contrarily to what expected on the basis of d,d reactions . Also, 
+under this respect our results do confirm the previous findings which exhibited 
+such a large unbalance. As for the 4He measurements in the escaping gases, the 
+detection of 20Ne (28), prevents to draw definite conclusions from the 
+comparison with the calorimetric data. However it cannot be left unnoticed the 
+notable commensurate amounts of 4He and heat excess found in the case of cell 
+#10. Quite striking is also the time pattern of the amount of 4He recovered 
+which, shifted in time, does match the power excess time pattern observed. The 
+different quantities of 4He recovered from different cells (e.g. #8 and #10 ) where 
+power excesses of same order of magnitude have been observed, if 
+understandable by invoking different kinetics of the 4He release, highlight the 
+usefulness of being able to perform a complete energy and mass balance by taking 
+into account also the 4He content of the electrodes.  
+
+
+References 
+
+1. M. Fleischmann and S. Pons, Physics Letters A, 176 (1993) 118 
+2. D. Albagli et al., J. Fusion Energy, 9 (1990) 133 
+3. B.F. Bush, J.J. Lagowski, M.H. Miles and G.S. Ostrom, J. Electroanal. Chem., 304 
+(1991) 271 
+4. N. Lewis et al., Nature, 340 (1989) 525 
+5. M.H. Miles, R.A. Hollins, B.F. Bush, J.J. Lagowski and R.E. Miles, J. 
+Electroanal. Chem., 346 (1993) 99 
+6. E. Yamaguchi and T. Nishioka, ICCF3, 3rd International Conference on Cold 
+Fusion, Nagoya, October 21-25, 1992, Proc. in Frontiers of Cold Fusion, Edited 
+by H. Ikegami, Frontiers Science Series no.4, Universal Academy Press Inc., 
+Tokyo (1993), p.179 
+7 . J. O'M. Bockris, C.C. Chien, D. Hodko and Z. Minevski, Proc. in Frontiers of 
+Cold Fusion, Edited by H. Ikegami, Frontiers Science Series no.4, Universal 
+Academy Press Inc., Tokyo (1993), p.231 
+8. B.Y. Liaw and P.L. Tau, J. Electroanal. Chem., 319 (1991) 161 
+9.P.L. Hagelstein, J. Fusion Energy, 9 (1991) 451; see also ICCF4 ref. 16 
+10.G. Preparata, in: Common Problems and Ideas of Modern Physics, Eds. T. 
+Bressani, B. Minetti and A. Zenoni, (World Scientific, 1992); G. Preparata, in: 
+The Science of Cold Fusion: Proc. Second Annual Conf. on Cold Fusion, 
+ACCF2, Como, Italy, 29 June - 4 July 1991, Eds. T. Bressani, E. Del Giudice and 
+G. Preparata, vol.33 of the Conf. Proc. of the Italian Physical Society , (Bologna, 
+1991), p. 453 
+11.J. Schwinger, Z. Phys.D, 15 (1990) 21; Z. Naturforsch. A, 45 (1990) 756; see also 
+ICCF4 ref. 16 
+12.H. Rambaut and J.P. Vigier, Physics Letters A, 142 (1989) 447; 148 (1990) 229; 163 
+(1992) 335 
+13.Proc. First Annual Conf. on Cold Fusion, ACCF1, Salt Lake City, Ut, 28-31, 
+March 1990 
+14.Proc. Second Annual Conf. on Cold Fusion, ACCF2, Como, Italy, 29 June - 4 
+July, 1991, Eds. T. Bressani, E. Del Giudice and G. Preparata, The Science of 
+Cold Fusion, vol.33 of the Conf. Proc. of the Italian Physical Society , (Bologna, 
+15.Proc. Third Int. Conf. on Cold Fusion, ICCF3, Nagoya, 21-25 October, 1992 , 
+Frontiers of Cold Fusion, Ed. H. Ikegami, Frontiers Science Series no.4, 
+(Universal Academy Press Inc., Tokyo 1993) 
+16.Proc. Fourth Int. Conf. on Cold Fusion, ICCF4, Lahaina, Hawaii, Dec. 6-9, 1993, 
+(EPRI Proc.), to be published 
+17.Workshop on Cold Fusion Phenomena, Santa Fe, NM, May 22-25, 1989, Proc. 
+on J.Fusion Energy, 9 (1990) 
+18.Anomalous Nuclear Effects in Deuterium/Solid Systems, Provo, UT, October 
+22-24, 1990 AIP Conference Proceedings 228, (Eds. S. Jones, F. Scaramuzzi and 
+D.Worledge), American Institute of Physics (New York) 1991 
+19.D. Gozzi, P.L. Cignini, L. Petrucci, M. Tomellini, G. De Maria, S. Frullani, F. 
+Garibaldi, F. Ghio and M. Jodice in: Understanding Cold Fusion Phenomena, 
+Eds. R.A. Ricci, E. Sindoni and F. De Marco, vol. 24 of The Conf. Proc. of the 
+Italian Physical Society , (Bologna, 1989), p. 
+20.D. Gozzi, P.L. Cignini, L. Petrucci, M. Tomellini, G. De Maria, S. Frullani, F. 
+Garibaldi, F. Ghio and M. Jodice, Nuovo Cimento, 103A (1990) 143-154 
+21.M. Tomellini and D. Gozzi, J. MatScience Lett., 9 (1990) 836-838 
+22.D. Gozzi, P.L. Cignini, L. Petrucci, M. Tomellini, G. De Maria, S. Frullani, F. 
+Garibaldi, F. Ghio, M. Jodice and E. Tabet, J. Fusion Energy, 9 (1990) 241-247 
+23.D. Gozzi, P.L. Cignini, L. Petrucci, M. Tomellini, S. Frullani, F. Garibaldi, F. 
+Ghio, M. Jodice and G.M. Urciuoli in: Anomalous Nuclear Effects in 
+Deuterium/Solid Systems, Eds. S. Jones, F. Scaramuzzi and D.Worledge, AIP 
+Conf. Proc. vol. 228, (American Institute of Physics, New York, 1991), p. 481 
+24.D. Gozzi, P.L. Cignini, M. Tomellini, S. Frullani, F. Garibaldi, F. Ghio, M. 
+Jodice and G. M. Urciuoli, Fusion Technol., 21 (1992) 60 
+25.D. Gozzi, P.L. Cignini, M. Tomellini, S. Frullani, F. Garibaldi, F. Ghio, M. 
+Jodice and G. M. Urciuoli in: The Science of Cold Fusion: Proc. Second 
+Annual Conf. on Cold Fusion, ACCF2, Como, Italy, 29 June - 4 July 1991, Eds. 
+T. Bressani, E. Del Giudice and G. Preparata, vol.33 of the Conf. Proc. of the 
+Italian Physical Society , (Bologna, 1991), p. 21 
+26.D. Gozzi, P.L. Cignini, R. Caputo, M. Tomellini, G. Balducci, G. Gigli, E. 
+Cisbani, S. Frullani, F. Garibaldi, M. Jodice and G. M. Urciuoli in: Frontiers of 
+Cold Fusion, Ed. H. Ikegami, Frontiers Science Series no.4, (Universal 
+Academy Press Inc., Tokyo 1993), 155 
+27.D. Gozzi et al., submitted to J. Electroanal.Chem. 
+28.D. Gozzi et al., Helium-4 Quantitative Measurements in the Gas Phase of Cold 
+Fusion Electrochemical Cells, companion paper in this book 
+29.J. Balej and J. Divisek, J. Electroanal. Chem., 278 (1989) 85 
+30.Handbook of Physics and Chemistry , 60th Edition, R.C. Weast Ed., CRC Press 
+Inc. (1980) 
+31.Hydrogen in Metals, Edited by G. Alefeld and J. Valid, Springer-Verlag, 
+Heidelberg, vol. II p.95 (1978) 
+32. D. Gozzi et al., Electrochemical Confinement of Deuterium in Palladium, 
+paper in preparation 
+33.E. Ruedl et al.; F. Carsughi et al.; P. Gondi, Proc. of Research, Development 
+and Technology of Fusion Reactor Materials, ENEA, Frascati, Dec. 4-6, 1990 
+34.G.J. Thomas and J.M. Mintz, J. Nucl.Mat., 116 (1983) 336 
+35.F. G. Will, K. Cedzynska and D.C. Linton, ICCF4, 4th International Conference 
+on Cold Fusion, Lahaina, Hawaii, December 6-9, 1993, EPRI Proceedings to be 
+published 
+36.K. Cedzynska, S.C. Barrowes, H.E. Bergeson, L.C. Knight and F.G. Will, 
+Anomalous Nuclear Effects in Deuterium/Solid Systems, Provo, UT, October 
+22-24, 1990 AIP Conference Proceedings 228, (Eds. S. Jones, F. Scaramuzzi and 
+D.Worledge), American Institute of Physics (New York) 1991, p. 463; Fusion 
+Technol., 20 (1991) 108; Fusion Technol., 22 (1992)156 
+37. J. O'M. Bockris and A.K.N. Reddy, Modern Electrochemistry, vol. 2 ch.10, 
+Plenum Press, New York (1974) 
+38. E. Storms, Fusion Technol. 20 (1991) 433 

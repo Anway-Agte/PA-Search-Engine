@@ -1,0 +1,176 @@
+1. Introduction
+
+An early attempt at the University of Ottawa ( 1) to replicate the
+work of Fleischmann and Pons (5) failed to produce excess heat.
+Analyses later found silica in the lithium metal and on both the palladium
+cathode and platinum anode along with traces of base metals.
+
+lsoperibolic calorimetry (6) describes how heat, generated in a cell,
+establishes a temperature difference between that cell and its
+surroundings. Recent work (4) has described how each electrode in this
+cell may be potted separately with one side exposed to the electrolyte
+while the other contacts a thermocouple well which is potted in resin.
+Each half cell can then be treated as a separate isoperibolic electrode
+calorimeter. However, excess heat was not observed in LiOD.
+
+Therefore, the work was shifted to ordinary water (9, 10) where
+replication of excess heat seemed to be more easily accomplished.
+However, excess heat was not observed until contaminant silica was
+added as will be described. 
+
+
+2. Methods
+
+The cell and blank for 0.57M K2C03 in H20 were 75ml unsilvered 
+dewars. The cathode of 38x40x0.03mm (30cm2) Ni foil was spot 
+welded to 2mm Ni rod and wound as a 5mm pitch spiral with about 1 .3 
+turns. The 10x25mm Pt anode was spot welded to 0.5mm Pt wire. 
+
+Both Ni and Pt were sheathed above the electrolyte. A 1 on resistor 
+served as calibration heater immersed in oil in a 5mm OD tube. Separate 
+power supplies provided cell and heater current. The temperatures (of 
+the cells and the bath), voltages and currents were monitored with an 
+Acurex Autograph 800 data logger. 
+
+Well aged Ni was prepared for use by smoothing with a wooden 
+dowel, rubbing with fine steel wool, degreasing in alcoholic KOH and 
+coating with silica. Alternatively, it was polished with Tripoli, green 
+rouge and blue rouge before degreasing and coating with 5mg silica. 
+
+Ottawa lab distilled water contains only 0.02ppm Si02; our K2C03 
+contained 16ppm Si02 • Fresh 0.57M K2C03 contained 70ppm. Our best 
+heating so far has been observed in 0.57M K2C03 to which 100ppm 
+Si0 2 and 1 Oppm FeCl3 were added (Fe first, Si0 2 next, age, and add 
+K2C03). Following use, this solution was found to contain 1 OOppm Si0 2 • 
+
+
+3. Results
+
+Electrode heating vs input watts is plotted in Fig. 1 as reported 
+elsewhere (4). The lower X-axis reflects the voltages of D2 and 0 2 
+evolution against Hg/HgO reference electrodes. These voltages project 
+(at zero current) to zero watts on the upper x-axis. 
+
+The cathodic 
+evolution of D2 from Pd slopes up to the left (at negative watts) while 
+the anodic evolution of 0 2 from Pt slopes up to the right. Fresh metals 
+exhibited the greatest heat per watt. On aged metals, oxygen evolution 
+yielded four times as much heat as hydrogen evolution. 
+
+Freshly prepared 0.3N LiOD provided different results. 
+
+First, 
+stirring was found to reduce cell heating per watt input. Second, both 
+reference electrodes developed bubbles in their capillaries which 
+interfered with their accuracy; bubbles became more numerous as the 
+run progressed. When dismantled, both reference electrodes had white 
+scale at the top of their electrolyte; the scale did not dissolve in acid and 
+was probably silica. No bursts of heat were observed. 
+
+In K2C03 electrolyte, cell and calibration heating were equal at 
+first. 
+
+Heating developed after 1 OOppm silica was added to the 
+electrolyte. The highest heats seen in Fig. 2 were produced in K2C03 
+with Si02 and FeCl3 present. The sharp rise after the 24 hour calibration 
+occurred when the aged Ni cathode was replaced with a freshly polished 
+and silica coated Ni. The isothermal calibration points required about 
+two hours each with cell power turned off while resistive heating was 
+fine tuned to hold the cell temperature constant. 
+
+Similar results were observed in Na2CO3 with SiO2 and FeCl3 
+contrary to the theory of Mills (9). 
+
+
+4. Discussion
+
+Silica, found in chemicals and some lab distilled waters, dissolves 
+from Pyrex at 5mg/cm2/hr in alkaline solution. Its chemistry is complex 
+(3, 7). Various sizes and shapes of particles may exist as stable colloids. 
+
+These deposit as a monolayer especially on grease free metal oxides; 
+thereafter, VanDerWaals forces repel other colloidal particles. In a cold 
+fusion cell, electrophoretic forces carry silica to the anode while tri and 
+tetravalent metal ions with a silica sheath move to the cathode. There 
+they cannot stick but form gels which may thicken the solution or adhere 
+to the cell walls depending on their size, shape, porosity and 
+thermophoretic forces. Aging could lead to changes. 
+
+Thus, in aged LiOD the calorimeters performed well. 
+
+In fresh 
+LiOD, silica gel trapped evolving gases which escaped into Luggin 
+capillaries carrying some gel with them. Silica in K2C03 solution, and 
+coated on both Ni and Pt, enhanced the observations of excess heat. 
+
+This may be true on Pd as well. 
+
+Lithium silicate gels at 80°C and dissolves when cooled; this 
+contrasts to sodium and potassium silicates which gel when cold. Thus, 
+operation with warm lithium deuterate could produce a gel and lead to 
+heat retention and bumping. 
+
+It is possible that phase shifts in silica deposits could produce 
+fusion products not unlike those observed in Pd-D and Ti-D systems 
+(2,8) or as trace contaminants from fumaroles and volcanoes ( 11, 12). 
+
+Indeed, volcanoes may be produced when silicate rocks undergo phase 
+changes and exhibit related phenomena. 
+
+
+5. Conclusions
+
+It is concluded that four times more heat is generated during the 
+evolution of oxygen from Pt than from the evolution of deuterium from 
+Pd. Silica interfered with some observations and must be controlled 
+before results are certain. 
+
+The presence of silica in 0.5M K2CO3 and Na2CO3 enhanced the 
+observations of excess heat on Ni. A deliberate coating of silica on the 
+anode and cathode also proved beneficial. 
+
+This silica was also 
+associated with changes in cell calibration constant. 
+
+It is concluded further that heating in our cells varied with the 
+condition of silica coating the cathode, with stirring rate and with the 
+amount of silica that coated the cell walls. While phase changes are 
+anticipated in silica involved in this system, and while such changes may 
+give rise to excess heat and to some nuclear products, it was not 
+determined whether significant heating occurred on anodes, cathodes, 
+cell walls or in solution. Further work is required. 
+
+The financial support of EMR Canada, CAN MET Alternative Energy 
+Division, to this work is gratefully acknowledged. 
+
+
+6. References
+
+Adams, W. A. et.al., presented at the 176th Meeting of The
+Electrochemical Society, Florida, 1989.
+
+Beltyukov, I. L. et.al., Fusion Technology, Vol. 20, September
+Brinker, C. J. and Scherer, G. W., Sol-Gel Science, Academic
+Press, 1991.
+
+Criddle, E. E., 182nd Meeting of The Electrochemical Society,
+Toronto, 1992.
+
+Fleischmann, M., Pons, S. and Hawkins, M., J. Electroanal. Chem.
+261 (1989) and 263 (1989).
+
+
+Gur, T. M. et.al. Special Symp. Proc. on Cold Fusion WHEC #8.
+lier, R.K., The Chemistry of Silica, Wiley, 1979.
+
+Jome, J., Fusion Technology, Vol. 19, March 1991.
+
+Mills, R. L. and Kneizys, S. P., Fusion Technology, Vol. 20,
+August 1991.
+
+Noninski, V. C., Fusion Technology, Vol. 21, March 1992.
+
+Palmer, E. P., AIP Conf. Proc. 228, Provo, UT, 1990.
+
+Sheely, E. V., AIP Conf. Proc. 228, Provo, UT, 1990.
+

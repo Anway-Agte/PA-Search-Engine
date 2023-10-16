@@ -1,0 +1,55 @@
+1. Introduction
+
+Leggett and Baym (LB) [1] investigated an upper bound on barrier penetration probabilities in many-body systems and claimed to obtain the result that the rate of tunneling of nuclei to classically forbidden small relative separation, in a fully interacting quantum-mechanical many-body system in equilibrium, is rigorously bounded above by a value calculable in terms of the Born-Oppenheimer potential between the nuclei. As LB cautioned in their paper this potential can differ from conventional Born-Oppenheimer potential. In this report, we describe the conditions under which it is not possible to obtain such an exact upper bound.
+
+
+2. Outline of the Derivation by LB
+
+LB [1] start from a stationary-state wave function  r, of the many-body system, 
+ris the relative deutero pair coordinate and  are all other coordinates. Using eqs.(1) and (2), and the Schwartz inequality, they obtain where
+ U(r)E, (4) 
+(r ) (r )1/ 2 . (5) They introduce a potential V1(r ), defined as
+where
+V2 (r) is a direction-independent lower bound on U (r ). From eq. (7), they find that the
+is the effective potential in the Born-Oppenheimer
+approximation, and
+U (r )
+Born-Oppenheimer approximation leads to an upper bound on the barrier penetration probability. 
+
+
+3. Validity of the Exact Upper Bound by LB
+
+We first note that Eq.(2) is valid for the wave function, which is normalizable over .
+For the initial state of d+ metal, for which d is free in the continuum, we do not expect  2
+d(r,) , because the d+ metal system is multichannel system. Therefore, Eq. 
+(7) is valid only for the case in which all particles form a bound state. Introducing (r) as the regular s-wave solution of the Schroedinger equation
+it is straightforward to obtain, for any r r (E),(r (E) is the largest distance for which
+00
+(V2 (r) E) 0), a general inequality given by Eq. (1) or LB [1]:
+
+22
+Noting that (r) (0) for r r (E), we can obtain from Eq. (9) the following
+inequality,
+the regular Coulomb wave function with screening energy for (d + d), then we obtain the inequality given in Eq. (10) of ref. [1].
+We note that LB [1] use the following definition of reaction rate R
+R A(0) (11)
+where A is the nuclear constant. Eq. (11) is not valid since the nuclear interaction range is not equal to zero. In general, the reaction rate from the l-th partial wave contribution,
+If we assume as in ref. [1] that
+0
+, and (r) F (r)/ r, where F (r) is 00
+Rl , can be written as [2]
+
+where U ( r, r ') Im r T r '  with T representing the l-th partial wave contribution of ll
+theelasticT-matrixoperator. Itisshown[2]that,ifUl(r,r')hasaweakcomponentwith a finite long-range interaction, the upper bound given by LB [1] is not valid.
+
+
+4. Conclusions
+
+The exact upper bound given by LB [1] is not valid,
+(i) if many-body system (electrons, nuclei) does not form a stationary bound state, and also (ii) if the imaginary part of the effective nuclear interaction in the elastic channel has a very weak component with a finite long interaction-range.
+
+
+5. References
+
+[1] A.J. Leggett and G. Baym, Phys. Rev. Lett. 63, 191 (1989).
+[2] Y.E. Kim and A.L. Zubarev, Nuov. Cim. 108A, 1009 (1995).

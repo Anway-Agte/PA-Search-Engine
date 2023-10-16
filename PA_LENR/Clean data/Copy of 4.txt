@@ -1,0 +1,188 @@
+Inert gases are virtually insoluble in metals; upon introduction into a metal (e.g., by ion implantation) they
+precipitate and form microvoids or "bubbles. " At ambient temperature, these inert-gas bubbles grow by
+athermal processes rather than by absorption of thermal
+vacancies. Hence the growth process is driven by gas
+pressure, which is thus considerably greater than the
+equilibrium pressure (=1 GPa) required to balance the
+surface tension of the bubble. Transmission-electronmicroscopy (TEM) studies showing bubbles of solid Xe
+and Ar in Al at room temperature, '
+and solid-to-gas transitions of Kr in Ni and in Cu above 600 K provide
+dramatic evidence for the existence of highly overpressur ized bubbles. The greatest technological interest,
+though, is with He in metals, which has a fairly extensive
+literature. Unfortunately, because of the low-scattering
+power of He, TEM has not provided information on the
+physical state of He within bubbles. uv-absorptionspectroscopy studies suggest that He bubbles in Al
+solidify upon cooling to about 150 K, but the current
+overall picture for the density and physical state of He in
+metals —based on a variety of experimental techniques
+is confused, with a wide range of reported densities
+and no clear evidence for a solid-to-gas transition.
+
+Nuclear-magnetic-resonance (NMR) studies of bulk
+He show that while atomic exchange is important for
+relaxation in the bcc structure, it is inconsequential for
+pressures above about 10 MPa (where the solid is hcp).
+In the latter case, modulation of the dipolar interaction
+by vacancy motion dominates He spin relaxation. The
+temperature dependence of the spin-lattice relaxation
+time (T~) is here well described by the classical Bloembergen, Purcell, and Pound (BPP) formulation, exhibiting the characteristic (frequency dependent) minimum.
+When melting occurs, Tl increases by 2 to 3 orders of
+magnitude, thus providing a clear indication of the phase
+change. The observed bulk relaxation behavior suggests
+that He relaxation-time measurements might yield
+valuable information relating to the physical state and
+dynamics of He within bubbles, provided that NMR sensitivity limitations can be overcome and that the bulk
+mechanisms are not obscured by wall effects. Ion implantation of He can be used to prepare samples for NMR investigation, '
+but it is difficult to attain an adequate total spin count. An alternate approach is to synthesize a metal hydride with use of tritium ( H, which
+decays with a half-life of about twelve years, giving He
+as a stable product). This latter method provides homogeneous He deposition and avoids the direct displacement damage caused by ion implantation. 
+However, it
+requires handling hazardous radioactive material and
+waiting for a sufficient number of He spins to form.
+Previous NMR studies of He in metal tritides
+provide very little information about the physical state of
+He, but these studies were limited to older samples
+where appreciable release of He from the lattice had occurred, presumably a consequence of extensive lattice
+damage. Ideally, one would like to study a metal tritide
+old enough to give a He-spin count sufficient for practical NMR signal-averaging methods, yet not so old that
+He release is occurring. Depending on the tritium density of the NMR sample, 5-15 months of aging should
+satisfy these criteria.
+
+This article presents NMR evidence, relating to He
+produced by triton decay in 1-yr-old palladium tritide,
+for a BPP minimum below 200 K and for a solid-fluid
+phase transition in the range 200-280 K. Palladium is
+an ideal system for the present study because (i) the
+physical properties of palladium hydride have been
+thoroughly investigated, '
+(ii) the magnetic properties of
+Pd nuclei (small gyromagnetic ratios) and of bulk palladium hydride (small magnetic susceptibility) should simplify interpretation of He NMR measurements, (iii)
+pressure-composition-temperature characterization of
+the Pd- H system is fairly extensive, and (iv) TEM imaging of He bubbles in 66-day-old Pd H06 provides information about bubble size and density.
+
+The Pd material used in the present study consists of
+spherical particles in the size range 75-150 pm. Chemical analysis reveals insignificant concentrations ((10at.
+ppm) of possible paramagnetic impurities (0, Fe, Mn).
+Preliminary proton T& measurements on a protide of this
+Pd show that dilution with an insulator (A1203) has little
+effect on signal intensity per gram of Pd. Thus, 2.42 g of
+undiluted Pd was placed in an NMR sample tube (this
+gave near-optimum filling within the coil region), loaded
+with about 0.1-MPa tritium gas, and stored at room
+temperature. The initial composition was determined
+from P V -Tm-easurements to be [ H]/[Pd] =0.62.
+NMR spin-counting techniques show only about 30% of
+the expected total number of H spins in the sample.
+This shortfall is due to skin effect' (the particle diameters are 2-3 times the skin depth at 25 MHz).
+Signihcantly, though, the He- to H-spin ratio after one
+year of aging agrees closely with the predicted ratio, implying that the He NMR results described below are
+representative of all the He born in the lattice. (The
+NMR system used in the present study has been described elsewhere. ')
+
+Figure 1 shows the temperature dependence of T] and
+Tq (spin-spin) relaxation times at a Larmor frequency of'
+25 M Hz for He in 1-yr-old Pd Ho 6z. The abrupt
+change in T~ near 220 K, by almost 1 order of magnitude, is strong evidence for a phase transition. Actually,
+there is a region of coexistence between 200 and 280 K
+where the time dependence of the magnetization
+recovery is well described by a sum of two exponentials
+corresponding to varying relative amounts of the two
+phases. (Analogous behavior has been observed '
+near the melting point for bulk He. ) Outside the coexistence
+region, the recovery is ostensibly exponential. The observed range of melting temperatures (T ) is considerably larger than what would be expected for isochoric
+melting of He at a single density'; it most. likely reflects
+a distribution of densities for the ensemble of bnbbles.
+From the observed melting curve' for bulk He between 1100 and 350 K, we infer bubble pressures ranging from
+6.0 to 11.0 GPa corresponding to 200 & T & 280 K.
+Using a high-pressure equation of state developed' for
+He (the isotope effect is small' ), we obtain from these
+bubble pressures a range of densities from 0. 18 to 0.22
+mole/cm . The ratio of He atoms to host-atom vacancies (given by the product of He density with the hostatom volume for Pd H06q, where the latter quantity is
+assumed to be the same as that for the corresponding
+protide' ) is found to be 2.0+ 0.2. This ratio is in good
+agreement with results for He in Ta H„based on dilatometry measurements, '
+and also with a recent theoretical prediction, thereby supporting our interpretation.
+The low-temperature phase in Fig. 1 shows a distinct
+minimum for T~, by analogy with bulk hcp He, we attribute this to He-vacancy difTusion in solid He. T] results at 45.7 MHz (not shown) are qualitatively consistent with the predictions of BPP theory concerning
+frequency dependence (i.e. the minimum shifts to higher temperature and the magnitude of T~ near the minimum
+scales with frequency). BPP analysis of the low
+temperature 25-MHz T] data yields the He jump frequency (r, ') results shown in Fig. 1, and an activation
+energy for He-vacancy motion (W) of 370 ~ 40 K
+(0.032 eV). The T2 data shown in Fig. 1 give a value for
+W of 330~ 100 K. According to BPP theory, the magnitude of T~ at the minimum is proportional to density
+squared (with a proportionality constant nearly independent of structure) ';this relationship gives a 'He density of about 0.13 mole/cm . The discrepancy between the
+He density obtained from the BPP analysis and that
+from T is not surprising, given that the observed distribution of densities implies a distribution of activation energies for vacancy diffusion. It can be easily demonstrated that in such a case, BPP analysis of T~ and Tp
+based on the assumption of a single density will substantially underestimate both mean density and mean activation energy. Moreover, for reasonable distributions, relaxation times will appear exponential over the limited
+range of experimentally accessible sampling intervals for
+magnetization recovery. Measurement of the dipolar
+rigid-lattice second moment ' would provide a more
+direct NMR determination of mean density. However,
+this will require liquid-helium temperatures and improved receiver recovery characteristics. Using the
+present determination of mean density for He within
+bubbles, together with the bubble density obtained from
+a TEM study' of 66-day-old Pd Ho 6 (there is evidence
+that in Zr H& 6, bubble density saturates within one or
+two months '), we obtain for 1-yr-old Pd Ho6q, a mean
+bubble diameter of 4 nm and a mean bubble occupancy
+of 4x 10 atoms.
+
+Figure 2 shows W and T as a function of molar
+volume and compares the present results with results
+from an NMR study of bulk hcp He. There is evidence that for vacancy diffusion W scales with T;
+however, direct proportionality over the range of T
+shown in Fig. 2 would be surprising. As discussed earlier, though, the magnitude of W obtained in the present
+study is probably a lower bound, so that the true scaling
+is more nearly linear than depicted. At any rate, the important point of Fig. 2 is the correlation of properties of
+He in palladium tritide with those of bulk He, which
+provides strong support for our interpretation of the
+NMR data shown in Fig. l. If the present interpretation
+is essentially correct, then Fig. 2 represents a remarkable
+range of molar volumes for which information about He
+dynamics in solid He is available.
+
+
+'A. vom Felde, J. Fink, Th. Muller-Heinzerling, J. PViiger,
+B. Scheerer, G. Linker, and D. Kaletta, Phys. Rev. Lett. 53,
+922 (1984).
+~J. H. Evans and D. J. Mazey, J. Phys. F 15, L1 (1985).
+3S. E. Donnelly, Radiat. Eff'. 90, I (1985).
+4S. E. Donnelly, A. A. Lucas, J. P. Vigneron, and J. C. Rife,
+Radiat. Eff'. 78, 337 (1983).
+5A. Abragam and M. Goldman, nuclear Magnetism: Order
+and Disorder (Clarendon, Oxford, 1982), Chap. 3.
+N. Sullivan, G. Deville, and A. Landesman, Phys. Rev. B
+11, 1858 (1975).
+N. Bloembergen, E. M. Purcell, and R. V. Pound, Phys.
+Rev. 73, 679 (1948); for application of BPP to bulk He, see
+D. S. M iyoshi, R. M. Cot ts, A. S. Green berg, and R. C.
+Richardson, Phys. Rev. A 2, 870 (1970).
+s'H. A. Reich, Phys. Rev. 129, 630 (1963).
+R. L. Garwin and A. Landesman, Phys. Rev. 133, A1503
+(1964).
+'R. C. Bowman, Jr., and A. Attalla, Phys. Rev. B 16, 1828
+(1977).
+R. C. Bowman, Jr., Nature 271, 531 (1978).
+'OH. T. Weaver and W. Beezhold, J. Nucl. Mater. 53, 346
+(1974).
+''R. Lasser, J. Less Common Met. 131, 263 (1987), and
+references therein.
+' H. T. Weaver and W. J. Camp, Phys. Rev. B 12, 3054
+(1975).
+'3G. Alefeld and J. Volkl, Hydrogen in Metals J and /I
+(Springer-Verlag, Berlin, 1978).
+' G. J. Thomas and J. M. Mintz, J. Nucl. Mater. 116, 336
+(1983).
+'5D. Kotzur, M. Mehring, and 0. Kanert, Z. Naturforsch. A
+28, 1607 (1973).
+' P. Loubeyre, J. M. Besson, J. P. Pinceaux, and J. P. Hansen, Phys. Rev. Lett. 49, 1172 (1982).
+' R. L. Mills, D. H. Liebenberg, and J. C. Bronson, Phys.
+Rev. B 21, 5137 (1980).
+'~R. L. Mills and E. R. Grilly, Phys. Rev. 99, 480 (1955).
+'9T. Schober, R. Lasser, J. Golczewski, C. Dicker, and
+H. Trinkaus, Phys. Rev. B 31, 7109 (1985).
+W. G. Wolfer, to be published.
+T. Schober, i n Hp drogen in Disordered and Amorphous
+5olids, edited by G. Bambakidis and R. C. Bowman, Jr. (Plenum, New York, 1986), p. 377
+R. A. Hultsch and R, G. Barnes, Phys. Rev. 125, 1832
+(1962)

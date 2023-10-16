@@ -1,0 +1,187 @@
+Introduction
+
+It has now been established that during electrolysis of LiOD using Pd
+cathodes a threshold loading ratio of at least 0.85 needs to be achieved before excess
+heat production can be expected [1]. However for emission of neutrons and tritium
+and possibly charged particles and transmutation products too much lower D/Pd ratios, in the region of 0.4 to 0. 7 appears to be adequate. This has been independently
+corroborated in a variety of electrolytic and gas loading experiments. It is not so much
+the magnitudes of the steady state loading ratio, but rather creation of non - equilibrium conditions which facilitates rapid migration/transport of deuterons within the Pd
+lattice that seems to be required. With this in view a systematic study has been undertaken using electrically self-heated 0.125 mm dia Pd wires in HJJ?2 atmospheres to
+optimize the conditions under which rapid loading/unloading or H2 or D2 can be
+achieved. Pd wire was of 99.9% purity and was procured from Cieco Industries,
+USA.
+
+
+Procedure for Loading
+
+After a number of trial experiments the following protocol was established for optimum and rapid loading:
+
+1. Measure initial wire resistance, namely R • of the unannealed wire.
+
+2. Heat wire to glow hot condition in air by ohmic heating. R /R ,the ratio of resistance at glow hot condition to resistance at room temperature wciuld be -3_
+
+3. Lower the current to < 100 mA and measure resistance in atmospheric air after
+wire cools down. This is the R value to be used for further studies. This may differ
+slightly from Rt 0
+
+4. Evacuate system to -10-2mb and heat wire to red hot condition. Current for red hot
+condition in vacuum would be much lower.
+
+5. Introduce air under red hot condition of pd wire. This provides a thin oxide layer
+on the wire surface.
+
+6. Evacuate once again.
+
+7. Introduce H2 or D2 as required when wire is red hot. It reacts with oxide layer and
+activates surface. Measure resistance (R ) after cooling.
+
+8. A loading of approximately 0.6 corres1
+ponding to R /Ro - 1.7 for H2 or 1.85 for
+D2 may be achieved within 2-3 minutes, provided activation of wire surface has taken
+place. Loading increases further to -o.7 in another 30 minutes. For rapid loading the
+wire should be as hot as possible during step No. 7. However increasing wire tempera461 
+ture unduly has the risk of accidentally burning out the wire.
+
+Some typical parameters recorded in our experiments are:
+
+Wire diameter
+
+Wire length
+
+Annealed wire resistance R
+
+Resistance at red hot condition R
+
+Vacuum employed in chamber bet
+tter than
+
+H/D2 gas filling pressures
+
+:0.125 mm
+
+:~ 100 mm
+
+:0.8 ohms
+
+:2.5 ohms
+
+:10-2 mb
+
+:1-2 bars
+
+
+Verification of (H(D)/Pd) Loading Ratio
+
+On routine basis (a) Resistance Ratio [l] is used to infer the degree of
+loading. However to cross check the loading value, (b) Oil manometer technique and
+(c) Inert gas fusion technique were used in a few cases. All the three techniques were
+found to give comparable loading values.
+
+
+Summary of main Results
+
+1. We are able to load up to a H(O)/Pd value of 0.7 both in case of H2 as well as 02
+'
+
+2. We do not find any difference in loading rate whether it is 02 or H2
+.
+
+3. Loading is fast if the gas (H2 or D2
+) is introduced in the system when the wire is
+brilliantly hot. Because of good conductivity of hydrogen, wire temperature automatically falls below the threshold temperature for absorption in Pd, as soon as gas enters
+the chamber.
+
+4. Since temperature at which wire gets unloaded is less in 02 (l 10°C) than in H2 (150°C), at a given filling pressure, current for deloading is lower for D2 than for H2 [31.
+
+
+5. Loading rate is not particularly influenced by 1-12 or 02 gas pressure (at least in
+region of few tens of mb to 4 bars, which we have studied), but it is very sensitive to
+the pretreatment given to the wire.
+
+6. Rate of unloading of a loaded Pd wire at room temperature in atmospheric air is
+found to be surprisingly slow
+
+7. If the wire surface is activated properly loading up to 0.6 or 0.7 can be attained
+with 100% reproducibility.
+
+
+Hysteresis Studies
+
+To get the hysteresis curve [2], following procedure is adopted:
+
+1. Load the wire at particular gas pressure (1 to 2 bars) to the maximum extent possible (0.7 in our case).
+
+2. Slowly increase the current in steps. Measure the resistance at each current step
+after wire temperature stabilizes.
+
+3. At some value of current, resistance suddenly drops.
+
+4. On increasing current further, at a particular current, wire resistance starts going
+up again. In this state wire is fully unloaded.
+
+5. To obtain hysteresis curve now slowly decrease the current; observe that resistance
+starts decreasing; at some value of current resistance begins to increase. This implies
+that wire has begun to load. The current at which wire starts loading in reverse part of
+cycle is less than in the forward half cycle.
+
+6. Typical hysteresis curve obtained by us is shown in Fig 1.
+
+7. Effect of temperature on loaded Pd wire at different hydrogen gas pressures is
+shown in Fig 2.
+
+
+Procedure for Repeated Cycles of Loading/
+Unloading
+
+From the hysteresis curves corresponding to a given pressure select the
+lower and upper "safe" current values at which absorption and desorption will be
+rapid and assured. For the case of 02 gas at 1.8 bars for example the lower and upper
+current values are 0. 9 amps and 1. 7 amps for loading and unloading respectively (See
+Fig.1). A simple and automatic switching device can be designed which will flip the
+current between these two values by shorting a precalculated resistance placed in
+series with the Pd wire. Since loading takes a longer time , it is recommended that
+more time be allowed in absorption mode than in desorption mode.
+
+
+Applications and Conclusion
+
+Having learnt to absorb/desorb H or 02 in a 100% reproducible and
+controlled manner in Pd wire, creating non-equifibrium conditions, following experiments have been carried out/are proposed to be carried out in our centre in search of
+anomalous nuclear effects:
+
+1 Autoradiography: After loading the wire with H or 02 it was autoradiographed
+using medical X - ray photographic film. Every loaaed wire is found to fog X - ray
+film. Typical autoradiographs are shown in Fig 3 & 4. Even a low loading of 0.1
+fogs the film. This is the phenomena of PdH luminescence first reported by our
+group in 1991 l2J. Efforts to understand the cause for mechanism of fogging are
+continuing.
+
+2. Charged particle emission: Solid State Nuclear Track Detectors (SSNTD) and
+surface barrier detector were employed to search for emission of charged particles if
+any from PdD wires subjected to repeated cycles of loading/unloading of deuterium.
+So far we have not detected any charged particles from self-heated Pd wires.
+
+3 Tritium and neutron detection experiments are under way.
+
+
+References
+
+1. M. C. H Mckubre et al, "Isothermal flow calorimetric investigations of the 0/Pd
+and H/Pd systems," J. Electroanal. Chem. ,386,55 (1994)
+2. Lewis, The palladium hydrogen system, p. 118,Academic press, London,New York
+(1967)
+3. R.K Rout et al, "Copious low energy emissions from palladium loaded with hydrogen or deuterium, "Indian Journal of Technology, 29,571,(1991)
+
+
+Fig 1. Hysteresis curve for Pd wire
+
+Fig.2 Temperature effect on a loaded Pd wire
+at different H2 gas pressures 
+
+Fig 3. Autoracligraph of
+Pd hydride wire
+H/Pcl-0.65
+
+Fig 4. Autoracliograph of
+Pel hydride wire
+l-1/Pd -o.6

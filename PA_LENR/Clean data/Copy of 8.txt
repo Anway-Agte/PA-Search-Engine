@@ -1,0 +1,154 @@
+INTRODUCTION
+
+The recent announcement of electrochemically induced nuclear fusion [1,2] has
+generated great interest and activity within the scientific community. In particular,
+there are several aspects related to the work of ref. 1 which are not fully understood
+and therefore deserve further investigation. One of them is the huge discrepancy
+between the amount of measured heat and the intensity of the supposedly accompanying nuclear radiation, namely neutrons and gamma rays. In view of the fact that
+the detection of nuclear radiation in the context of an electrochemical process is
+perhaps the most unequivocal fingerprint for the occurrence of fusion, we feel that a
+careful re-evaluation of the measurement conditions may be needed.
+In order to address this question, in the present paper we report on an attempt to
+observe this phenomenon and on the possible problems related to the detection
+techniques. 
+
+
+EXPERIMENTAL 
+
+Electrochemical conditions
+The cell used in this work (shown in Fig. 1) was a glass vessel 14 cm high and 11
+cm in diameter. The cathode was a 4 mm diameter Pd rod (purity 99.97%) of 4 cm
+length, ending as a wire of 1 mm in diameter through a conical shape. It was blasted
+with glass microspheres and washed with a H,SO, + HF solution and subsequently
+palladized by electrolysis in a 1% PdCI, solution at 4 V for 5 min. After drying, it
+was degassed at 470°C in vacuum for 90 min, and after reaching 120 o C, the
+vacuum line was filled with D, and allowed to reach room temperature.
+The electrolysis was carried out with 0.1 A4 LiOD in 40 99.5% and 0.5% H,O
+(0.5 M LiOD was prepared as a stock solution by dissolving Li in D,O in an inert
+atmosphere.) 
+
+Fig. 1. Scheme of the electrolytic cell. (1) Working electrode; (2) counter electrode;
+electrode; (4), (5) thermistors; (6) N, inlet; (7) Dz inlet; (8) D,O inlet; (9) level reference.
+
+D,O was reactor quality with a small tritium impurity (8 pCi/l). All other
+chemicals were analytical grade.
+Electrolytically generated D2 was used only during the high current density
+portions of the experiment (256 and 512 mA cme2) in order to stir the solution. A
+flux of N, was used above the liquid phase, to avoid D, and 0, accumulation.
+The cathode potential was measured versus the Pd/D (a-/3 phase) reference
+electrode. To avoid overheating of the solution due to the Joule effect, the cell was
+placed in the center of a cylindrical container, 25 cm in diameter, which was used to
+provide a circulating light water bath. Different current densities were applied
+according to the sequence shown in Fig. 3 below. 
+
+y-ray measurements
+To establish an eventual emission of neutrons (n) coming from the Pd electrode
+and originating in a nuclear reaction like e.g.:
+d + d d3He (0.82 MeV) + n (2.45 MeV)
+a measurement was started aimed at detecting y-rays produced by the radiative
+capture reaction of the neutrons by the protons of the medium. In fact, if the
+electrolytic cell is surrounded by materials of high hydrogen content (like H,O or
+paraffin), the fast 2.45 MeV neutrons are thermalized by successive elastic collisions
+with the protons, and finally absorbed in the reaction: 
+n + p + d + y (2223.3 keV) (2) 
+
+The energy of this y-radiation is high enough to reach the detector without
+suffering a significant attenuation after traversing the moderating material. In
+addition, this y line has a distinctive feature as compared to other lines stemming
+from transitions between discrete levels in radioactive nuclei. It has a measurable
+natural line width of about 4 keV since it depopulates the relatively short lived
+capture state. However for this feature to show up it is necessary to utilize an
+instrument of sufficiently high energy resolution. In the present work a hyperpure
+germanium detector of 30% relative efficiency and a resolution of about 2.2 keV at
+1332 keV has been used. The resolution of this detector at ca. 2.2 MeV, is about 25
+times better than that of the NaI counter employed in ref. 1, as judged from the
+y-ray spectrum shown there
+
+In order to increase the efficiency for neutron moderation, the outer cylindrical
+container of about 25 cm diameter was surrounded by a paraffin layer of about 25
+cm thickness and 40 cm height, and by a lead brick wall of about 5 cm thickness to
+provide shielding against external background y-radiation. The detector, looking
+radially towards the Pd electrode, was inside this set-up and separated from the wall
+of the light water container by a paraffin layer of about 5 cm (meaning that the
+sensitive volume of the detector was completely surrounded by paraffin and also
+partly by lead). The upper and lower parts of the light water container were open to
+allow the manipulation of the cell and the neutron measurement, respectively (see
+below). The size and geometry of the paraffin enclosure were varied in order to
+optimize the detector efficiency to measure neutrons originated at the Pd electrode’s
+position using for this determination a 252Cf fission source of ca. 2 X lo4 n/s placed
+there (incidentally, the source intensity coincides with the neutron flux reported in
+ref. 1). This source has a spectrum of fast neutrons with an average energy of 2.35
+MeV. The absolute efficiency was determined to be (1.6 f 0.4) X 10e5. This value is
+about a factor 7 higher than the neutron counter efficiency reported in ref. 1.
+
+The background radiation was studied carefully during periods of several days,
+using the same geometry and simulating the real experimental conditions by
+running the electrolytic cell with light water and a Pt electrode. This in-situ
+background determination is very important since it varies significantly within the
+same building. Some relevant y-ray spectra are displayed in Fig. 2. Figure 2a shows
+for reference the 2.223 MeV line produced by neutrons from the 252Cf source.
+Figure 2b is a spectrum taken during a 50 h Pd/D,O run whereas Fig. 2c
+corresponds to the background spectrum. Of particular interest is a line of 2.2045
+MeV produced in the decay of *14Bi for *14Po belonging to the natural radioactive
+series of 238U which is only separated by about 19 keV from the capture y-ray. 
+
+Fig. 2. (a) The y-ray spectrum recorded with the 2s2 Cf source; (b) relevant portion of the y-ray spectrum
+recorded during the electrolysis; (c) as (b) but for the background recorded during 38 h immediately after
+the electrolysis. The energies of the identified peaks are in keV
+
+These two lines cannot be resolved by a NaI detector such as the one used in ref. 1,
+and their possible unfolding should be considered carefully.
+After background subtraction, the results obtained here from spectrum b allow us
+to set an upper limit of about 13 n/s (averaged over the whole experiment) for the
+neutron production rate, which is more than three orders of magnitude less than the
+result reported in ref. 1. 
+
+Neutron measurements
+The neutron detection system consisted of two boron trifluoride (BF,) proportional counters, placed under the electrolytic cell at approximately 50 cm from the
+Pd electrode. The system was calibrated introducing the 252Cf neutron source in
+place of the Pd electrode. The intrinsic efficiency for neutrons was estimated to be about 1 neutron detected of every 800 neutrons passing through each detector. The
+absolute efficiency of the system (i.e., including geometric factors) was determined
+to be 1.45 x 10B5. The counters provided logic signals that were computer-accumulated every minute in a multi-channel scaling mode. The counting of each
+detector was recorded individually every hour using two scalers. Data acquisition
+was started 26 h before the electrolysis, and continued up to 50 h after it was
+stopped. The neutron yield corresponding to the whole experiment of 136 h,
+integrated in eight-hour intervals, is shown in Fig. 3. The histogram in the bottom
+part of the figure represents the current density applied to the electrolytic cell as a
+function of time, the height of the bars being proportional to the current density.
+The full and dashed lines indicate the average and the standard deviations (plus and
+minus) of the experimental points of the background. The left background (hours 0
+to 26) was taken under the same conditions as those of the experiments except for
+the electrolysis, and the right background was measured during an electrolysis of
+H,O using a Pt cathode and a constant current density of 10 mA/cm*. 
+Fig. 3. Neutron yield integrated in 8-h bins as a function of time (0). The histogram at the bottom
+represents the applied current densities which are indicated by the numbers on top (in mA/cm’). 
+
+When considering the total interval corresponding to the electrolysis of D,O in
+comparison with the totality of the measured background, an excess rate of 13 f 11
+n/s is estimated using the absolute detection efficiency quoted above. This number
+is in good agreement with that deduced from the y-ray measurement. If one takes
+the 8-h interval corresponding to the only point whose error bars fall completely
+outside the band determined by the background measurements, the determined
+excess rate for neutron production rises to 50 + 23 n/s. Therefore, the upper limit
+for neutron production in our experiment is about three orders of magnitude lower
+than the rates reported in ref. 1. 
+
+
+CONCLUSIONS
+
+An electrolysis of D,O on a Pd cathode has been performed with the aim of
+observing electrochemically induced nuclear fusion. The simultaneous measurement of y-rays and neutrons yields a consistent upper limit for the production rate of
+fusion reactions which is about three orders of magnitude lower than that reported
+in ref. 1. The high energy-resolution measurements of the emitted y-rays performed
+in the present work reveal the presence of a background line of 2204.5 keV which
+may be difficult to unfold in a low resolution experiment. 
+
+
+REFERENCES
+
+1 M. Fleischmann and S. Pons, J. Electroanal. Chem., 261 (1989) 301; err. ibid., 263 (1989) 187.
+2 S.E. Jones, E.P. Palmer, J.B. Czirr, D.L. Decker, G.L. Jensen, J.M. Thome, S.F. Taylor and J. Rafelski,
+Brigham Young University and University of Arizona, preprint March 23,1989; Nature (London), 338
+(1989) 737. 
+
+

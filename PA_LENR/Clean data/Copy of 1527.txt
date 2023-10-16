@@ -1,0 +1,661 @@
+Preface 
+
+Cold fusion has the potential to meet a substantial portion of the world’s energy needs. Although it 
+was rejected by mainstream science within a year or so after it was announced in 1989, it has 
+continued to be pursued by many highly qualified scientists worldwide. Many of them began their 
+investigations in the exciting months and years after 1989. As a pariah science, cold fusion has 
+attracted relatively few new researchers in the more than 30 years since the announcement.  
+
+The LENR Research Documentation Initiative (LRDI) is underway at LENRGY, LLC to capture 
+the records of these pioneering researchers while the material is still available. This objective is 
+being supported with this project to document the cold fusion records of the University of Utah. 
+
+Thanks go in particular to David Nagel, not only for his invaluable assistance with this University 
+of Utah project, but also for his long-term support of the LRDI. Marianne Macy was very helpful 
+via emails during the visit to the University campus. She and her late husband, Michael Melich, 
+were responsible for setting up many, if not most, of the files reviewed for this project.  
+
+Gratitude is also expressed to the Anthropocene Institute for financial support for this project. The 
+staff at the University – Liz Carpenter, Betsey Welland and David Buford – were extremely 
+helpful and very cordial. 
+ 
+
+Summary  
+
+Cold fusion originated at the University of Utah, when Fleischmann and Pons announced it at a 
+press conference on March 23, 1989. A project is being performed to document the cold fusion 
+files that are still available at the University. It is being undertaken in the LENR Research 
+Documentation Initiative (LRDI), whose overall objective is to capture cold fusion research 
+records while they are still available. The LRDI is a program at the firm LENRGY, LLC. 
+
+The project began with careful review of the website of the University’s Marriott Library, along 
+with download of relevant materials. A trip was made in August 2021 to review the University 
+holdings. Substantial cold fusion records were found for several organizations and individuals. 
+
+They comprise more than 530 boxes of materials. Records of the work of Fleischmann and Pons, 
+such as lab notebooks or other information on experiments, were not found for this project.  
+
+Particular emphasis during the site visit was placed on three sets of records: 1) the National Cold 
+Fusion Institute (NCFI); 2) FEAT (Future Energy Applied Technology) and ENECO, and 3) Bruce 
+Lewenstein (“Cold Fusion Collection”). The NCFI files are in the University archives, and the 
+information on the other two is in the Marriott Library Collections. As the files were reviewed, a 
+significant portion of them was also scanned. Additional records are available for individual 
+contributors, including Beaudette, Bockris, Chubb (Talbot), Hibbard, Jones and Melich, but were 
+not reviewed for this project. 
+
+Despite the relatively short life of the NCFI, from August 1989 to June 1991, its records are 
+substantial and comprise 15 boxes of materials, all of which were reviewed. The FEAT/ENECO 
+files are large, making up half of the University’s 530 cold fusion file boxes. Two of the nine 
+categories of records – Research and Personnel – were selected for review. An item of particular 
+significance in the Lewenstein (“Cold Fusion Collection”) archive is an April 1995 Briefing Book 
+prepared for a cold fusion presentation to the US Congress.  
+
+Future opportunities include individual in-depth projects for each set of files located and a more 
+thorough search for additional cold fusion records at the University. The records reviewed so far, 
+and particularly the files for individuals that could not be reviewed during the visit, form the 
+foundation of additional projects within – and outside – the scope of the LRDI. LRDI participants 
+may be encouraged to contribute their files to the Marriott Library Collections in the future.  
+
+
+1 Introduction 
+
+The University of Utah is the birthplace of cold fusion. March 23, 1989 may be considered its 
+birthdate. The University is also the main location of cold fusion’s conception and prenatal 
+development – for at least five years before its birth at a press conference. Stanley Pons, chairman 
+of the University’s Chemistry Department, received his Ph.D. at the University of Southampton in 
+England. There he met and became friends with Martin Fleischmann, who was on the faculty (but 
+was not Pons’ supervising professor). The friendship resulted in visits by Fleischmann to the 
+University after he retired. It was during these visits that Fleischmann and Pons developed their 
+cold fusion ideas and begin tested them with experiments. 
+
+Substantial records exist at the University of Utah of the activities and events before and after the 
+1989 announcement. A trip was made to the University in August 2021, to review, describe and 
+document these records. The purpose of this report is to provide the results of the review.  
+Research records of Fleischmann and Pons, such as lab notebooks or other information on 
+experiments, were not found for this project. 
+
+The three most prominent collections at the University – for the National Cold Fusion Institute 
+(NCFI), the Future Energy Applied Technology (FEAT) company and its successor (ENECO), and 
+the Cold Fusion Collection (Lewenstein Materials) – are reviewed in some detail. The remaining 
+collections, for individual contributors, are noted with descriptions that are currently available 
+online at the University’s library website. Methods used are described, and additional potential 
+work (future opportunities) is delineated. 
+
+Appendices are included for the press release for the press conference and of the records for the 
+NCFI and FEAT/ENECO..  
+
+
+2 Overview of the University of Utah Cold Fusion Archives 
+
+Preparation for the visit to the University of Utah included work on the Marriott Library website 
+and phone calls and email exchanges with staff in the collections department. The website has 
+excellent research and download capabilities, which were utilized for two terms –  “cold fusion” 
+and “LENR”. The results of the website search1 are shown in Table 2-1. 
+
+The total number of boxes in all of the collections is about 530. The full set of the descriptions 
+comprises more than 250 pages. 
+
+The records are at two locations on campus, the Marriott Library and the University Archives2. 
+The files are professionally managed at both. Photos of the locations are in Figure 2-1. The rooms 
+for reviewing files are shown in Figure 2-2. The types of boxes containing the files are shown in 
+Figure 2-3. 
+
+No files were found at either location for the cold fusion research by Martin Fleischmann and Stan 
+Pons. Such files may exist elsewhere at the University but were not located during this visit. 
+
+Figure 2-1 
+The Marriott Library (Left) and the University Archives 
+
+Figure 2-2 
+Reviewing Rooms at the Marriott Library and the University Archives 
+
+Figure 2-3 
+File Containers Used at the Marriott Library and the University Archives
+ 
+The files fall generally into two categories – organizations and individuals. Emphasis was placed 
+mainly on organizations for this project. Three sets of files were selected for review – National 
+Cold Fusion Institute, FEAT/ENECO and the Cold Fusion Collection (Bruce Lewenstein files). 
+They are descried in Sections 4, 5 and 6 of this report. The NCFI records, the first item in Table 2-
+1, is at the University Archives. The others are at the Marriott Library. The first two pages of the 
+downloaded collections descriptions for the NCF and FEAT/ENECO are shown in Figures 2-4 and 
+2-5 as examples of the information provided and the appearance. 
+
+Figure 2-4 
+First Two Pages of Collection Descriptions for the NCFI Records 
+
+Figure 2-5 
+First Two Pages of Collection Descriptions for the FEAT/ENECO Records 
+
+
+3 National Cold Fusion Institute 
+
+The National Cold Fusion Institute (NCFI) was established at the University of Utah with funding 
+from the Utah Legislature. The organization is characterized as shown below in the downloaded 
+description of the file collection: 
+The National Cold Fusion Institute was established on August 14, 1989 as a non-profit corporation to seek 
+external funding for cold- fusion research and to pursue scientific patents. The Institute closed on June 30, 1991. 
+This collection contains budgets, correspondence, legal contracts, memoranda, minutes, news articles, reports, 
+and patent applications from the Office of Director of the National Cold Fusion Institute. 
+
+Shortly after Professors B. Stanley Pons and Martin Fleischmann announced that they had discovered “cold 
+fusion” (a process by which energy can be generated through electrochemical inducement of nuclear fusion at 
+room temperature), the Utah State Legislature met in a special session and appropriated $5,000,000 to establish 
+the National Cold Fusion Institute (NCFI) at the University of Utah as a non-profit corporation to seek external 
+funding for additional research and to pursue scientific patents. During its brief existence, the NCFI was under 
+the direction of Hugo Rossi (August to November 1989), James Brophy (November 1989 to January 1990), and 
+Fritz G. Will (December 1990 to June 1991). Interest in cold fusion research quickly declined when further work 
+brought no conclusive results, and the NCFI closed its doors on June 30, 1991 because state funds had run out 
+and investments from private sources were insufficient for the continuation of operations. 
+
+The purpose, organization and other characteristics of the NCFI were set forth in a document 
+found in the files entitled “Establishment of the National Cold Fusion Institute (Figure 3-1).  
+
+After leadership by internal University managers, a leader from outside, Fritz Will (Figure 3-2) 
+was brought in as Director. His credentials are summarized in McKubre’s ICCF history document3 
+as shown below: 
+Fritz Will is a famous electrochemist who had been employed by General Electric at their corporate central 
+research laboratory in Schenectady, New York from 1960 until 1990 when he took on leadership of the NCFI. 
+The electrochemistry community in 1990 regarded Fritz as thorough and reliable, and about that time he was 
+appointed to be President of the Electrochemical Society, the principal electrochemical society in the U.S., 
+and perhaps the world. It was an interesting and significant choice to see him selected as the director of NCFI, 
+for him to leave GE, and take a senior role in this emerging and turbulent field. 
+
+Establishment of the 
+NATIONAL COLD FUSION INSTITUTE 
+by the  
+University of Utah 
+PURPOSE 
+The purpose of the National Cold Fusion Institute is to carry out research and development on electrochemically 
+induced cold fusion in order to establish the range of practical application of this new discovery. The Institute is 
+structured to attract corporate participation and to be positioned to accept federal funding when this becomes 
+available.  Successful development of the Institute can assure that Utah remains a major contributor to the science, 
+engineering, and commercialization of cold fusion. 
+
+ORGANIZATION 
+The National Cold Fusion Institute is a separate, nonprofit, 501c(3) corporation headed by a full time director. 
+The Board of Directors is composed of two members from the University, one faculty member, and several 
+industrialists. The President of the University appoints all Board members and is Vice-chairman of the Board. The 
+Chairman is elected by the Board from among the industrial members.  This structure is designed to be attractive to 
+corporate participants. 
+
+The Institute is organized into a Basic Research Division and an Applied Research Division. Research teams are 
+active in four areas: Electrochemistry, Metallurgy, Physics, and Engineering. Faculty members are free to pursue 
+individual research grants at the University, regardless of whether or not they are affiliated with the Institute. 
+
+STAFFING 
+The initial technical staff is composed of University of Utah faculty members supplemented by interested faculty 
+from Utah State University and Brigham Young University and visiting researchers from other universities and 
+industrial laboratories. A permanent staff is to be developed as rapidly as funding levels and the recruiting process 
+permits. 
+
+FACILITIES 
+The NCFI is located in a rented research building at 390 Wakara Way at the University of Utah Research Park. 
+The location makes the Institute separate from the University, yet provides for close cooperation between Institute 
+staff and University faculty. 
+
+FUNDING 
+The state appropriation is to be used as seed funding to initiate a significant research effort quickly. Corporate 
+participants are expected to provide additional support and eventually funding from the Department of Energy is 
+anticipated. No financial support from the University is contemplated. 
+
+IMPACT 
+As a separate corporation, the NCFI operates much as does the University of Utah Research Institute. No 
+organizational changes in the University are involved. If the promises of commercialization are achieved, the 
+University stands to benefit from licensing of its patent pool and the state should experience major economic 
+development. 
+
+NOTIFICATION 
+This notification is made pursuant to Utah Code 53B-17-504, which states in part, “The University of Utah has the 
+following powers:...to form nonprofit corporations or foundations...” and in recognition of Utah Code 53B-16-102, 
+which states,...’The board (e.g., of Regents) shall establish procedures and policies for considering institutional 
+proposals for substantial alterations in the scope of existing institutional operations...”. 
+
+Figure 3-1 
+NCFI Characterization When It Was Established 
+
+Figure 3-24 
+Fritz Will, NCFI Director 
+
+The NCFI hosted the First International Conference on Cold Fusion (ICCF-1) in March 1990, just 
+a year after the March 23 announcement. The Proceedings were issued the following August. The 
+cover is shown with the letter of transmittal by Fritz Will in Figure 3-3. 
+
+The primary emphasis on securing patents was carried over to FEAT after the NCFI closed its 
+doors. 
+
+August 10, 1990 
+Dear Colleague: 
+I am pleased to be sending you these conference proceedings in connection with the First Annual Conference on 
+Cold Fusion. As sponsors of the conference, we at NCFI and the University of Utah wish to thank you for your 
+participation in the conference. We found that the exchange of ideas and information at the conference stimulated 
+new experimental and theoretical research at our institute, and hope that many others were similarly prompted in 
+their study of the interesting phenomena which were discussed during our meetings. 
+
+The papers which are presented in the enclosed proceedings will give interested readers an in-depth perspective on 
+the material which was presented at the conference. Like the conference itself, we feel the proceedings will lead 
+researchers to a greater depth of understanding in this emerging field of inquiry. We wish to extend our thanks to 
+those who prepared the material presented in this volume, to those who attended the conference, and to those who 
+will pursue research in these important phenomena. 
+
+With regards, 
+TIIB NATIONAL COLD FUSION INSTITUTE 
+Dr. Fritz G. Will Director 
+
+Figure 3-3 
+Proceedings Cover with Transmittal Letter by Fritz Will5 
+
+The NCFI Collection6 consists of 15 boxes (Figure 4–4) that are located at the University 
+Archives. The full contents are listed in Appendix D. 
+
+Figure 3-4 
+NCFI Collection at the University Archives 
+
+All of the boxes were reviewed, and selected contents were scanned (Table 3-1). 
+
+Table 3-1 
+Items in the NCFI Files Selected for Scanning 
+
+
+4 Future Energy Applied Technology (FEAT) and ENECO 
+
+When the NCFI closed its doors in June 1991, efforts to secure cold fusion patents did not end. A 
+commercial organization, Future Energy Applied Technology (FEAT), acquired the patent rights 
+from the University of Utah and continued the pursuit of approval by the US Patent and Trade 
+Office (PTO). The former NCFI Director, Fritz Will, apparently joined FEAT for a period of time.  
+
+In support of securing cold fusion patents, a laboratory was operated to conduct research and 
+verify the phenomenon to the PTO. At some point, the FEAT organization evolved into ENECO. 
+A summary description of the company is provided by the Marriott Library description of its 
+ENECO Files as shown below. 
+
+Summary: The ENECO records (1912-2007) consist of patents, contracts, research, office, and financial 
+documents collected by the company. ENECO (formerly FEAT) was a private company that centered on cold-
+fusion technology and the commercialization of such technology. The majority of patents registered by ENECO 
+were invented by scientists Stanley Pons and Martin Fleischmann. Technologies engineered by ENECO have had 
+a great impact on the local and international scientific communities. 
+
+Historical Note: ENECO was known for registering cold fusion patent technologies for the University of Utah 
+and the company had claimed that they had produced excess heat from a fusion reaction (1989). Following 
+problems regarding reproducibility, ENECO purchased cold fusion patents from the University registered under 
+their name and scientists Pons and Fleischmann continued their work outside the country. Additionally, ENECO 
+had development interests in the following non-cold fusion technologies: oxygen concentrators, N-type diamond 
+semiconductors, and highly efficient thermo-electric converters. These technologies were developed under their 
+individual subsidiaries (Oxydyne Inc., Semidyne, Inc., and Thermodyne Inc.). 
+
+ENECO’s emphasis on LENR patents is clearly stated in the company’s trifold brochure (Figure 4-
+1). The text of the brochure (Figure 4-2) clearly shows this emphasis. The company’s model for 
+utilizing patents for commercialization was presented in 19957, some four years after the 
+company’s inception. The model is summarized in a conceptual flow diagram (Figure 4-3). The 
+breath of ENECO’s approach, including eight areas of emphasis, is depicted in Figure 4-4. 
+
+Figure 4-1 
+ENECO Trifold Brochure 
+
+ENECO IS THE CATALYST FOR COLD FUSION PROGRESS 
+We believe cooperation among all cold fusion participants is the fastest route to commercialization of the 
+technology. ENECO is structured to accelerate the development of cold fusion intellectual property 
+discovered by individuals and organizations. We help develop patentable concepts, pursue patent protection 
+and offer technology licenses to industrial users. 
+
+ENECO has acquired patent properties covering most areas of cold fusion. The company recently obtained 
+exclusive rights to one of the first issued cold fusion patents. In less than two years, ENECO has become the focal 
+point tor individuals and research organizations seeking development and commercial realization of the technology. 
+
+A group of leading cold fusion researchers founded ENECO in 1991 with the conviction that this new science 
+would become a major source of energy. After receiving investment funding in 1992, the company began 
+worldwide sponsorship of laboratories and individual investigators. We provide research support, aggressive 
+worldwide patent pursuit and generous royalty arrangements to qualified individuals and organizations. Researchers 
+are invited to inquire about participation in our development programs. 
+
+The company is uniquely structured to manage and develop intellectual property. A carefully selected staff of 
+company scientists evaluates candidate research submitted by laboratories and individuals. Patent applications for 
+worthy, mature concepts are prepared and filed by our in-house group of patent specialists. Other interesting, but 
+less developed ideas are also considered for sponsored research. To assure a well balanced portfolio. ENECO relies 
+heavily on counsel from our Science Advisory Board of prominent, independent researchers in cold fusion and 
+related technologies. 
+
+Our growing portfolio of intellectual property, and knowledge of the industry, is rapidly making ENECO the 
+preferred getaway to commercial application of cold fusion. In addition to licensing technology, the company 
+makes available its experienced staff to assist licensees in applying cold fusion to their products and processes. 
+Indeed, early adopters of ENECO technology can gain significant competitive advantages. Contact ENECO to find 
+out how cold fusion can become part of your strategic plan. 
+
+Figure 4-2 
+Text of ENECO Trifold Brochure 
+
+Figure 4-3 
+ENECO’s Model for Utilizing Patents for Commercialization 
+
+Figure 4-4 
+ENECO’s Patent Portfolio Concept
+ 
+The primary leaders of ENECO were Fred Jaeger, President, and Yan Kucherov, Director of R&D 
+(Figure 4-5). Most of the organization’s funding came from Charlie Becker of San Antonio. 
+Charlie’s brother, Leroy Becker, was also involved in ENECO’s leadership. Edmund Storms 
+served for a time on the Board of Directors8. Peter Hagelstein, Michael Melich and David Nagel 
+served in Technical Advisory Roles. 
+
+Figure 4-5 
+Fred Jaeger in 1995 at ICCF-5 (on the right in the left panel9) and  
+Yan Kucherov in 1998 at ICCF-7 
+
+In conjunction with its leadership in the LENR Field, ENECO sponsored ICCF-7 in Vancouver, 
+BC in 1998. The cover of the ICCF-7 proceedings, and the statement by Jaeger as conference 
+organizer are shown in Figure 4-6. 
+
+THE SPIRIT OF VANCOUVER 
+I would like to thank everyone who took the time, effort, and money to attend the Seventh International Conference 
+on Cold Fusion in Vancouver on April 19-24, 1998. The substantial preparation and advanced work of all oral and 
+poster presenters, combined with active audience participation, created a spontaneously constructive environment 
+for discussion. I hope all participants returned from Vancouver with a renewed sense of purpose, a deeper insight to 
+guide their research, and new perspectives to broaden their thinking. 
+
+The congenial atmosphere at ICCF-7 was a unique and rewarding experience. Perhaps the enlightened spirit was a 
+result of the spectacular Vancouver scenery; or the realization, after nine years, that unity and cooperation among 
+pioneering researchers may be more productive than competition. Over 200 people from 20 countries and all 
+scientific disciplines gathered in Vancouver to share ideas in an attempt to understand the mechanisms responsible 
+for the unequivocal laboratory results many have witnessed firsthand. Across cultural, linguistic and disciplinarian 
+boundaries, scientists from widely divergent backgrounds worked together to pursue a common goal of trying to 
+perfect a potentially new, clean, economical, and abundant energy source for the 21st century. 
+
+I believe ICCF-7 marked a crucial milestone of maturation of the field from the viewpoint of science, finance, and 
+human resources that will support and sustain growth for a strong new generation. 
+
+The diversity and quality of the data presented at ICCF-7 has grown more compelling. A plethora of new, diverse 
+results from a wide variety of second generation experiments help move the field closer to a better understanding of 
+reaction mechanisms, and virtually eliminate the possibility that early electrochemical experiments were just some 
+transient mistake. 
+
+Figure 4-6 
+Cover of ICCF-7 Proceedings and Associated Statement of Jaeger as Organizing Chairman 
+
+Although most research activities are still critically undercapitalized, as evidenced by approximately two-thirds of 
+ICCF-7 participants paying for their own attendance, decentralized self-funded research leads to highly focused lab 
+activities. The self-supported fervor and dedication of current researchers provides a grass-roots resiliency and 
+enthusiasm that can not be easily extinguished by adverse, external events. 
+
+Approximately one-third of the ICCF-7 audience was new. Nine students were present, some of whom gave their 
+very first presentation at an ICCF conference. One new student was elected as a ‘‘Top Ten” presenter. New and 
+younger persons entering the field provide vital fresh perspectives that are crucial to continuation and growth. An 
+entire second generation of scientists and managers are now carrying on the bulk of the work that was formerly 
+performed by early pioneers. 
+
+In closing, I would like to thank the International Advisory Committee for providing the opportunity for me to help 
+organize ICCF-7. It was very satisfying to be able to help contribute to the growth and advancement of this 
+important new field of research. 
+
+Until we meet again at ICCF-8 in Italy, best wishes to all and good luck with your pursuits. 
+
+Sincerely, 
+Fred Jaeger  
+Organizing Chairman
+ 
+Figure 4-6(Continued) 
+Statement of Jaeger as Organizing Chairman 
+ 
+Unfortunately, the PTO has routinely rejected cold fusion patents going back to the beginnings of 
+the field – and continues to do so up to the present. Some patents were secured outside the US, but 
+the ENECO was ultimately unsuccessful in persuading the PTO to approve the applications for the 
+Fleischmann and Pons patents obtained from the University of Utah. The patent rights were 
+returned to the University in May 1997, and the patents were eventually abandoned in 199810. 
+After pursuing other technologies, ENECO apparently filed for bankruptcy in about 2008. 
+
+The University of Utah collections11 for FEAT and ENECO are large, comprising nearly half (263 
+boxes) of the total of about 530 boxes of cold fusion materials. The holdings are in the Marriott 
+Library Collections, where the files have been archived in nine categories (Table 4-1). Selected 
+boxes (Figure 4-7) from the Collections were requested from storage for review during the onsite 
+visit. 
+
+Table 4-1 
+Categories of ENECO Records at the Marriott Library 
+
+Figure 4-7 
+ENECO File Boxes Selected for Review 
+The files requested for review were primarily from Categories 3 and 4 (Research and Personnel). 
+
+The full contents of these records are presented in Appendix E. During the review, some of the 
+files – those deemed most relevant to the Project – were selected for scanning. The items scanned 
+are listed in Table 4-2.  
+
+Table 4-2 
+Items Selected for Scanning in the FEAT/ENECO Collection 
+
+
+5 “Cold Fusion Collecton” (Bruce Lewenstein Material) 
+
+Bruce Lewenstein reported extensively on cold fusion developments in the early months and years 
+after the 1989 announcement. His large collection is archived at Cornell University, where he is on 
+the faculty. The Lewenstein records at the Marriott Library12 consist of three boxes. They are 
+described as follows in the Marriott library file description: 
+The cold fusion collection (1987-1992) contains articles written by Bruce V. Lewenstein relating to the history 
+and testing of cold fusion clippings from the Utah Chemistry Department relating to the study of cold fusion. 
+
+A particularly relevant item in the collection is a “Congressional Briefing Book”, which was 
+prepared in April 1989 for a briefing of the U.S. Congress. The document is in Box 2 of the 
+collection. Its label and table of contents are shown in Figure 5-1.  
+
+Table of Contents 
+Tab 1 
+Itinerary 
+Tab 2 
+Legislative Strategy 
+Tab 3 
+Talking Points 
+Tab 4 
+Congressional Briefing Visits: What to expect, what to do and not do 
+Tab 5 
+Dos and Don’ts of Testifying Before Congressional Committees 
+Tab 6 
+Testimony 
+Tab 7 
+Utah Delegation 
+Tab 8 
+House Science, Space, and Technology Committee 
+Tab 9 
+Senate Committee on Commerce, Science, and Transportation 
+Tab 10 House Appropriations Subcommittee on Energy and Water Development 
+Tab 11 Senate Appropriations Subcommittee on Energy and Water Development 
+Tab 12 Congressional Schedule 
+Tab 13 News Article (Economist) 
+
+Figure 6-1 
+Label and Table of Contents of Congressional Briefing Document 
+
+Another important item in this collection is a document entitled “Cornell Cold Fusion Archive.”13 
+It includes perhaps the most complete and well-documented chronology of events before and after 
+the press conference in existence. It is dated 1991. A slightly revised version, dated 1994, is on the 
+Cornell University website.  
+
+The 1994 version of the Cold Fusion Archive document contains an important analysis of how 
+science is conducted and the relationship between science, politics and the press. The analysis 
+focuses on five major questions, shown below, which are addressed by Lewenstein in the 
+document. 
+• 
+What role does the press play in modern science? Does the press merely disseminate the results of 
+experimental investigations, or does it become an active player in the scientific process? Was its behavior in 
+the cold fusion saga somehow different than in other scientific episodes? What changes in science 
+communication does cold fusion foretell? 
+• 
+What is the place of politics in science? Are politicians just players on the outskirts of scientific investigation-
+-or are they integral to modern scientific work? What does politics in science accomplish? 
+• 
+How important is competition between research teams? Is science fundamentally a search after nature’s 
+truths, or is it a game with winners and losers? 
+• 
+How do patents affect research? How can a field that puts so much emphasis on priority of discovery deal 
+with instances of double discoveries? How can scientific commitments to open communication be reconciled 
+with intellectual property rights? 
+• 
+And, perhaps most fundamental, what does it mean for science when experiments are unclear? If modern 
+science depends on the belief that an experiment can yield an answer, how can it deal with ambiguity and 
+incoherence in the research process? 
+
+
+6 Archives of Individual Contributors 
+
+When the Marriott Library website was searched for “cold fusion” and “LENR”, six entries came 
+up in addition to the three described above. Because of time limitations, these files were not 
+reviewed during the onsite visit. They are presented below (in alphabetical order) with their 
+website descriptions. 
+
+6.1 Charles Beaudette :
+The Charles G. Beaudette papers (1933-2006) consist of Beaudette’s writings and files on cold fusion. Beaudette 
+(b. 1930) is an electrical engineer who graduated from the Massachusetts Institute of Technology in 1952. 
+
+Historical Note: Charles G. Beaudette was born in Boston in 1930. He attended the Massachusetts Institute of 
+Technology in Cambridge, Massachusetts, where he majored in electrical engineering and held the position of 
+managing editor of The Tech, the official student newspaper. He was awarded the degree of S.B. (Bachelor of 
+Science) in electrical engineering in 1952, after which he entered a two-year tour of duty in the United States Air 
+Force. In 1958 he started Dychro Corporation and sold it to a computer company in 1961. From 1963 to 1973 he 
+was employed by EG&G Corporation in Wellesley, Massachusetts, in the capacity of senior engineer and 
+engineering manager. It was during this time that he participated in the technology development for what 
+eventually became the office facsimile, and which work included development of what is now the PC modem. 
+From this activity, Beaudette was issued patents on image processing for variable speed page scanning.  
+
+6.2 John O’M Bockris :
+The John O’M. Bockris papers (1923-2013) consists of personal papers, research materials and correspondence. 
+Including within the collection are materials regarding the Philadelphia Project and the fraud investigation. 
+Bockris was a professor of physical science. 
+
+Historical Note: Bernhardt Patrick John O’Mara Bockris, born 5 January 1923, died 7 July 2013, was a professor 
+in the physical sciences. Among wide ranging contributions to physical chemistry, Bockris is best known for his 
+creation of physical electrochemistry; for the introduction of a hydrogen economy; and for the first known 
+nuclear reactions to be carried out in aqueous solutions. 
+
+Dr. Bockris was exonerated of fraud or scientific misconduct by his university after three investigations of his 
+research on cold fusion and transmutation. 
+
+6.3 Talbot Chubb :
+The Talbot A. Chubb papers (1930-2011) consist of materials resulting from Chubb’s research interests in cold 
+fusion and the physics field. The collection contains his professional writings, presentation materials, proposals, 
+and conference materials. Also include in the collection are materials regarding several of his colleagues and also 
+subject and organization files. Chubb was an experimental physicist at the Naval Research Laboratory (NRL) in 
+Washington, DC. He also researched the theoretical basis of low energy nuclear fusion and the experimental 
+evidence of cold fusion. 
+
+Biographical Note: Talbot was born on November 5, 1923 in Pittsburgh, Pennsylvania, the youngest of three 
+sons. He was a physics graduate of Princeton University in 1944. He received a doctorate in physics from the 
+University of North Carolina in the early 1950s. 
+
+During World War II, Talbot worked on uranium isotopes for the Manhattan Project at Oak Ridge, TN, and 
+served in the US Army. For over 30 years, Talbot was an experimental physicist at the Naval Research 
+Laboratory (NRL) in Washington, DC. His research included experiments that examined the earth’s upper 
+atmosphere, the sun, and a process for storing energy collected from sunlight, called Solchem. His NRL team 
+were pioneers in X-ray astronomy and discovered early evidence of the existence of neutron stars and black 
+holes. After retiring from NRL, Talbot worked with his nephew, Scott Chubb, Ph.D., on the theoretical basis of 
+low energy nuclear fusion. Recently, his goal was to raise awareness of the experimental evidence of cold fusion 
+and to foster research on this new energy source.  
+
+6.4 Craig Hibberd :
+The Craig Hibberd collection on cold fusion (1989-1992) contains newspaper and magazine articles about cold 
+fusion research conducted by B. Stanley Pons and Martin Fleischman at the University of Utah in 1989. 
+
+Historical Note: Craig Hibberd worked for the Western Area Power Administration. 
+
+6.5 Steven Jones :
+The Steven E. Jones papers (1983-1992) consist of materials resulting from Jones’ research interests in cold 
+fusion and the physics field in general. Included are correspondence, notes, and writings. 
+
+Historical Note: Steven E. Jones was a professor of physics at Brigham Young University. 
+
+6.6 Michael Melich :
+The Michael Melich papers consists of materials regarding his work as a physicist and professor working with 
+both the Naval Research Laboratory and the Naval Postgraduate School. The collection consists of 
+administrative, research, and lecture materials from his tenure at NPS. 
+
+Biographical Note: Michael Edward Melich was born February 22, 1940, in Moab, Utah, to Mitchell and Doris 
+Snyder Melich. He was a dedicated student, and after graduating high school he went on to obtain a B.S. in 
+Physics from Stanford, an M.S. in Experimental Physics from the University of Utah, and an M.A. and Ph.D. in 
+Theoretical Physics from Rice University. 
+
+From 1967 to 1985 Dr. Melich worked in the command and control section in the Naval Research Laboratory, 
+heading it from 1976 to 1985. After this, he took an extended leave of absence to work as the chair professor of 
+combat system engineering for the Naval Postgraduate School, where he remained until 2015. While at NPS, he 
+was heavily involved in cold fusion research, having taken interest in the field following the 1989 discovery of 
+the Pons-Fleischmann Effect at the University of Utah. 
+
+Following an intense battle with prostate cancer, Michael Melich passed away June 28th, 2019. 
+
+
+7 Project Methods 
+
+As is customary for the LRDI, the methods used were a blend of previously established practice14, 
+and procedures specifically for the University of Utah project. The overall LRDI procedure is set 
+forth in an article in Infinite Energy15.  
+
+Initially, the Marriott Library website was accessed, and the descriptions of the cold fusion 
+holdings were downloaded and examined. Contact was made with Library staff, and arrangements 
+were made for the visit. Several days were then spent onsite in Salt Lake City. Photos were taken 
+of the library and archive during the visit. As the files were reviewed, selected items were scanned 
+using an iPhone scanning app. The general schedule of activities was as follows: 
+Day 1 
+Orientation. Marriott Library. Photos. ENECO Review 
+Day 2 
+University Archives. Photos. NCFI Review 
+Day 3 
+Marriott Library. ENECO Review. 
+Day 4 
+Marriot Library. Lewenstein Review. Wrapup
+ 
+The March 23, 1989 press conference was downloaded from YouTube and transcribed. 
+Screenshots taken of scenes in the video were used to illustrate the two parts of the conference – 
+podium/audience and lab tour. A copy of the press release for the conference was also reviewed. 
+
+Supplemental materials on the Web were located, downloaded and incorporated. McKubre’s 
+history of the ICCF conferences16 was particularly helpful. The materials from the site visit and 
+other sources have been integrated for this report. 
+
+
+8  Future Opportunities 
+
+Particularly when (and if) the benefits of cold fusion are realized, the trajectory of the field will 
+become of great interest. The University of Utah records of the origins of the Fleischmann and 
+Pons’ claims will become of paramount importance for documenting this trajectory. 
+
+The primary objectives of the University of Utah Cold Fusion Documentation Project have been to 
+describe its cold fusion holdings and to lay the foundation for more detailed work in the future. 
+Two possible courses after this Project are to do more in-depth and detailed work with what has 
+been documented and to locate additional records elsewhere in the University organization, 
+including the original work by Fleischmann and Pons before and after the March 23 
+announcement, which was not found in this project.  
+
+Certainly, individual comprehensive projects could be accomplished for the NCFI and 
+FEAT/ENECO LENR efforts. Files that were identified in this Project but not included in the 
+scope of review could be documented, particularly the files of prominent individuals in the cold 
+fusion field. The University archives could be carefully searched for relevant files for additional 
+major figures at the organization and in the right timeframe, such as Peterson and Brophy. The 
+Department of Chemistry may also have records from the time of Pons’ research and 
+chairmanship.  
+
+A more thorough Web search may result in additional information beyond what is available on the 
+campus. An idea from the editor of Infinite Energy magazine, Christy Frazier, would be to scan the 
+University records for placement on the Web for easy access by historians.  
+
+LRDI participants may be encouraged to contribute their LENR holdings to the Marriott Library 
+Collections in a similar way to Beaudette and others.  
+
+
+Appendix A. Contents of NCFI Records 
+“This collection contains budgets, correspondence, legal contracts, memoranda, minutes, news 
+articles, reports, and patent applications from the Office of Director of the National Cold Fusion 
+Institute. Approximately 1.5 linear feet of the collection comes from the University of Utah 
+Technology Transfer Office.” 
+
+
+Appendix B. Contents of ENECO Categories 3 and 4 
+“The ENECO records consist of patents, contracts, research, office, and financial documents 
+collected by the company. Included patents are registered by ENECO as well as patents registered 
+by outside.” 
+
+
+B1. Category 3. Research 
+Documents in this subseries begin with collected general research (alphabetically organized) and 
+the general research binder. These documents are then followed by the articles binder and 
+submitted articles. 
+
+
+B2. Category 3. Personnel Documents
+Documents in this series are organized alphabetically by the last name of the individual employee
+of ENECO. Individuals included in this series were significant agents of ENECO and its
+operations.
+

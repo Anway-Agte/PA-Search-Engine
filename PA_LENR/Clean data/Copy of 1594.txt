@@ -1,0 +1,617 @@
+1. Introduction
+It is probable that there has not been a more contentious issue in science over the last 20 years than the issue of the
+thermal response that has been claimed in experiments with Pd cathodes electrolyzed in heavy water. In this work, we
+describe results that we obtained in our experiments where we observed a version of the effect that seems to respond to
+the frequency difference between two weak lasers. The difference frequency in these experiments was in the terahertz
+regime, and the thermal response that we see appears to be correlated with characteristic frequencies associated with
+optical phonon modes.
+
+Before proceeding, we need to give some account of what has gone on previously (at least from our perspective)
+in order to place the research under discussion in context. Experiments that seemed to show a large thermal effect for
+Pd cathodes in D2O:LiOD were ﬁrst described by Fleischmann and Pons in 1989 [1,2]. There were many attempts
+to replicate the experiment that followed shortly after the announcement [3,4], with the near-uniform result that no
+anomalous thermal effect was observed. In addition, strong arguments were made as to the impossibility of the claimed
+effects. Most physicists today consider the basic experiment to be irreproducible and the claimed effect impossible,
+which together constitutes reason to believe that the initial experiments showing a thermal effect were in error.
+
+Some of those continuing to work on the Fleischmann–Pons experiment have argued that these early negative results
+need to be reconsidered in light of subsequent experimentation. According to this point of view, the basic Fleischmann–
+Pons experiment was poorly understood in 1989 when many of these early experiments were done and the success rate
+in Fleischmann and Pons’ own experiments at that time was low.
+
+In work carried out in the early 1990s at SRI, thermal effects were observed, and an attempt was made to correlate
+observations of excess power with the cathode loading (D/Pd ratio), current density, and other observables. It was
+found in these experiments that the cathodes which showed the effect had reached a very high loading (D/Pd = 0.95)
+early on, and that generally no effect was observed until about a month into the experiment in the case of cathodes that
+had maintained a high loading [5]. Further, a correlation was noticed between the amount of excess power produced
+during an event and the cathode loading during the event; signiﬁcant excess power was higher for higher loading, with
+no effects seen at a loading below about 0.83 [6].
+
+Some effort has been devoted to understanding the early negative results in light of the criteria derived from these
+early SRI experiments. As an example, in very few of the early negative results was any effort reported to monitor the
+loading, since at that time the loading was not generally considered to be an important variable to be controlled in the
+experiment. In the few cases where estimates were given (such as in [3]), the loading was well below that required to
+see the thermal effect. From this point of view, most of these early negative results are probably not relevant to the
+question of the thermal effect in the Fleischmann–Pons experiment, since essentially none of them were carried out in a
+relevant experimental regime. This reﬂects the general level of understanding of the experiment in 1989 when most of
+these early experiments were done (which was poor), rather than on the quality of the experiments or experimentalists
+(many of whom were very good).
+
+In light of these comments, the most important negative result is that of Green and Quickenden [7]. High D/Pd
+ratios were reported in this work, consistent with the loadings in the SRI experiments where half or more of the cathodes
+were seen to give a thermal effect. Why the cathodes in these experiments gave no excess heat is not immediately clear.
+The protocol adopted in these experiments was different than in the SRI experiments, where current steps were used
+(rather than current ramps in the SRI experiments), and the maximum current density used was 300 mA/cm2 (which is
+on the order of the threshold current density for some of the SRI experiments). In the SRI experiments, a correlation
+between excess power and deuterium ﬂux has been observed; a current ramp gives a more sustained ﬂux, which may
+be important. The duration of the SRI experiments tended to be longer (two months compared to one) than those of
+Green and Quickenden, which may be relevant given the late onset of excess power in the SRI experiments.
+
+From the earliest days following the Fleischmann–Pons announcement, arguments have been made that the thermal
+effect itself is rather small; hence, there was good reason to believe that the thermal effect could be attributed to
+measurement error. Once again, this perception has persisted now for more than 20 years, and is presently widely
+accepted within the physics community. According to Huizenga, it is the total energy which is important, rather than
+measurements of the excess power seen during a thermal event [4]. From this point of view, a thermal event in which
+excess power is observed at levels commensurate with the input power should not be considered relevant. Instead, the
+total energy associated with the thermal event (which might last 10 h) needs to be weighed against the total energy put
+into the cell since the start of the experiment (which might be 6 weeks). So, in this way an effect which was considered
+by the experimentalists to be signiﬁcant (a 100% power excess) thermal event, could be turned into an insigniﬁcant
+(1% energy excess) thermal event, which Huizenga could then argue was not within the measurement capability of the
+calorimeter involved.
+
+We draw attention to the measurements described in [2] in which more than 4 MJ of energy was observed over
+80 h from a Pd cathode with a volume of 0.157 cm3. Huizenga’s stated concern was that it is possible that some
+unknown storage mechanism might be present, so that one could not be certain that net energy was produced. Although
+he did not specify what storage mechanisms he had in mind, if energy storage were to occur somehow in the cathode
+for this example, it would need to store about 60 MJ/cm3; in our view this would constitute a remarkable effect in its
+own right worthy of study. The calorimetric approach which was pioneered by Fleischmann and Pons in association
+with these experiments was shown to give power balance to within about 0.1 mW in the case of a Pt cathode (which
+shows no thermal effect) [8].
+
+There are by now numerous publications of observations of excess power in the Fleischmann–Pons experiment in the
+literature [9,10]. A large number of these are discussed in the review of [11]. Although we reject Huizenga’s argument
+that only the energy gain should be considered in regard to the thermal effect, we draw attention to the observations
+of the Energetics group over the past several years; large thermal events have been reported in which the energy gain
+computed from the start of the experiment reached 2500% [12].
+
+We see the thermal effect in our experiments. Our protocol is different from the Fleischmann–Pons protocol, so
+that an experiment can be done in a week rather than in 6 weeks. In earlier related experiments, the cell was seen
+to respond to the illumination of the cathode surface with a single weak diode laser [13,14] . Excess power at the
+level of a few hundred milliwatts was seen with laser illumination with mW lasers. This effect was conﬁrmed at other
+laboratories [15–18]. In the new experiments two lasers are used under conditions where a single laser is unable to
+produce a response, so that both together trigger a thermal response when both are p-polarized, and when the beams
+overlap. The response is seen to depend on the difference frequency, which is in the THz regime in these experiments.
+
+Why there should be a thermal effect in any of these experiments is not understood at present. However, it is clear
+that whatever physical process is responsible is unlike other condensed matter or nuclear processes that we are familiar
+with. To learn about the new effect, many experiments are going to have to be done to sort out how it works one issue
+at a time. The results reported here should be thought of as one such step.
+
+
+2. Overview of Experiment
+
+The experiment under discussion is an electrochemical cell with a Pd cathode and Pt anode in D2O with 0.5 M LiOD
+(see Fig. 1). The cathode is loaded at low current (0.050 A) for 120 h, prior to the deposition of a gold coating and
+commencement of the thermal experiments at higher current (1.25–1.5 A).
+
+2.1. Outline of calorimetry:
+Temperature measurements from inside and outside the cell are used in connection with Fick’s law in steady state to
+estimate the thermal output power
+Pout = K T.
+
+The input power is taken to be the electrical power minus the contribution of the thermoneutral potential
+Pin = I(V − V0).
+
+Figure 1.
+Schematic of the experimental set-up.
+
+The cell is closed in the sense that the D2 and O2 generated by the electrochemistry are recombined at the top of the
+cell; however, the heat generated during the recombination is poorly coupled back to the electrolyte. The excess power
+is estimated from
+Pxs = Pout − Pin.
+
+The calibration constant K is determined by running until steady state is reached prior to turning on the lasers (assuming
+no excess power); a check is made by running in steady state at the end of the experiment (again assuming no excess
+power). An example showing input and output power during a calibration run is shown in Fig. 2.
+
+An extended discussion of related experimental issues is given in the Appendices.
+
+2.2. Suppression of spontaneous excess power bursts:
+Over the years in working with these cells, we have gotten a sense of how they respond to dual laser stimulation. In
+previous experiments at other laboratories, it was noticed that the excess power in the Fleischmann–Pons experiment
+responds to current density, such that the excess power is seen to increase roughly linearly above a threshold (which
+occurs in the general vicinity of 200–400 mA/cm for Pd rods [6]). As a result, the current density in this experiment
+provides for a way to control the response of the system, much like the knob on an ampliﬁer controls how loud music
+is played. Our goal was to run the system just below threshold for spontaneous bursts of excess power (in order to
+suppress them), so that we might be able to see more clearly the response of the system to laser stimulation. As the
+cathode area is about 1 cm2 including front and back, the associated current density is about 1 A/cm2; which is “low”
+for this experiment in the sense above.
+
+Figure 2.
+Measured input and output powers (W) as a function of time (min). The error in the output power points is about 10 mW; the error for
+the input power points is much less.
+
+A similar control is available in the operating temperature of the cell. Once a cell produces excess heat, often more
+excess heat can be seen if the cell temperature is increased. Of the operating temperatures available to us, we have
+purposely selected a lower operating temperature, again in order to help suppress unwanted spontaneous events.
+
+
+3. Results
+
+The primary result from this set of experiments is a spectrum of the excess power response as a function of difference
+frequency. To understand the signiﬁcance of this spectrum, we need some explanation of how individual data points
+were obtained.
+
+3.1. Thermal response:
+The construction of an accurate spectrum requires a degree of control which is probably beyond the current capability
+of any laboratory currently pursuing excess power in the Fleischmann–Pons experiment. We make no such claims here
+for our experiments. Nevertheless, our system has responded in a very reproducible way to the difference frequency
+between the two lasers, and this very much seems to be a real effect. As such, the effect can be quantiﬁed. We can
+measure the thermal response of the system in many experiments, and the difference frequency is available in these
+experiments. It seems clear that there is a thermal response in many of the experiments, and we have used simple
+relaxation models combined with a statistical analysis to quantify the excess power.
+
+Figure 3.
+Excess power (mW) as a function of relative time (min) for parts of data set 662N2 and 662O2 (circles), along with a best ﬁt relaxation
+model (curve). Two lasers were turned on between time 303 and 304, as indicated by the vertical line. The difference frequency is 20.66 THz.
+
+We consider in Fig. 3 one of the better examples of how this works. Before the relative t = 0 of this ﬁgure, the
+cell was charged at low current density for a great many hours; a few hours before t = 0, the current was run up to
+about 1 A/cm2, and the cell temperature was allowed to come to a steady state. Between minute 303 and 304, the two
+lasers were turned on, with a difference frequency of 20.66 THz. The excess power computed using the steady state
+calorimetry discussed above is seen to approach a constant power by about t = 500 min. The apparent excess power
+for this run as determined from a statistical ﬁt to a simple relaxation model
+(and shown in Fig. 3) is 336 ± 8 mW. This value must be corrected to take into account the absorbed laser power
+(measured to be about 15 mW in other experiments), reducing it to 321 ± 8 mW.
+
+One can see a rapid transient in the data, which peaks at t = 320 min. This is the response of the system to a sudden
+drop in cell voltage (which we have veriﬁed), which occurs in some of our experiments as a precursor to the onset of
+excess heat. The cell is run in a constant current mode from minute to minute, with the current set each minute to keep
+the power constant. When the cell voltage drops (and consequently the effective cell resistance drops), the electrical
+input power is a bit low, which leads to a transient difference between the output power (which changes slowly) and
+the input power (which is low transiently). In other experiments where excess heat is observed, such precursors are
+sometimes seen [19]. In [20] there is an example of this where a sudden drop in the cell voltage preceeds an excess
+power burst. A precursor can be seen in the excess power data of McKubre et al. [21]. Why the cell voltage drops is
+not known. It may be due to a change in the electrolyte conductivity, to a change in the over-potential of the cathode
+surface, or to signiﬁcant change of the cathode surface temperature. It is probably easiest to measure the electrolyte
+conductivity directly to help clarify this, although we have not done this yet. Of interest is the possibility that the change
+is a surface effect connected with low-level energetic particle emission.
+
+Figure 4.
+Excess power (mW) as a function of difference frequency (THz). Data from step results as in Fig. 3 are in black; data from scans are in
+grey. Best ﬁt of three Lorentzians shown as a solid line.
+
+In this example, the system is seen to respond to the laser stimulation, starting from an initial condition of no excess
+power. The excess power following laser stimulation approaches nearly a constant value which we can determine
+by reference to a relaxation curve. There are 18 data sets of this type from the experiments. In addition, there are
+experiments in which the frequency was changed several times, leading to excess power at different levels which
+appeared to correlate with the difference frequency. We have 37 excess power points obtained from these runs. For this
+data, we were able to compare the data against relaxation models in order to estimate the associated steady state excess
+power levels and standard deviations. In both cases the spread in excess power was similar, with values between 6 and
+20 mW; in a few of the runs there are noticeable ﬂuctuations in the excess power when high, and in some other runs the
+cathodes just seem to produce more noise. We note that there is a difference in the response generally observed from the
+different cathodes used to make up the spectrum. In some cases there is a slow drift in the calibration; consequently, we
+have added 10 mW systematically to the uncertainty for the data obtained from the scans since they are more sensitive
+to this drift.
+
+Given these issues, as well as others that have not been discussed here, the spectrum that results should be regarded
+as preliminary. Where strong responses are observed, the conﬁdence is highest; but more work is needed in order to
+clarify the response away from the peaks (the region most in need of such study is the region between 10 and 13 THz).
+However, as these experiments take a great deal of time and effort, a decision was made to present the data that we have
+so far as a preliminary result.
+
+3.2. Spectrum:
+The spectrum that results from using this approach in a large number of experiments is shown in Fig. 4. The spectrum
+appears to show three peaks near 8, 15 and 20 THz, which correspond to difference frequencies that we found in earlier
+experiments to give the best results. Due to constraints imposed by the lasers that we used, we were unable in these
+experiments to perform tests above 22.11 THz. We have constructed a least-squares ﬁt to the the data points using a
+sum of three Lorentzians according to
+where f is the difference frequency, Aj are the amplitudes, fj the center frequencies, and γj are the width parameters.
+The ﬁtting parameters that correspond to center frequencies and widths are given in Table 1. We have included the
+associated quality factor Qj deﬁned in terms of the ﬁtting parameters according to
+The line width of the 8.2 THz in the excess power spectrum is comparable to the 295 K line width near 9 THz measured
+in the coherent neutron scattering experiment of Rowe et al. [22]. We have not found comparable results to compare
+with the other peaks, which have larger quality factors in the excess power spectrum.
+
+In this analysis, we have omitted one outlier data point at 14.75 THz where a response of 521 mW was observed;
+inclusion of this data point results in an increase of the amplitude of the middle Lorentzian by about 70 mW, but little
+change of the fj or γj parameters. We have some data points from a scan between 10 and 13 THz, where the excess
+power was close to zero, but these were not included because there was not a signiﬁcant positive response at any of the
+scanned frequencies, which weakens the signiﬁcance of the data.
+
+We note that the ﬁtting parameters obtained in this model-based statistical analysis are very close to the ﬁtting
+parameters we obtained previously [23] based on a simple assignment of excess power numbers.
+
+Table 1.
+Center frequency,
+width, and quality parameters for
+the excess power spectrum
+
+
+4. Discussion
+
+These results are interesting for a number of reasons. There are the very practical issues that allow such an experiment to
+be done at all, and the perhaps unexpected result that the cathode seems to be able to respond to a difference frequency,
+even though the laser intensity is very low. Finally, there is the important question of the interpretation of these results.
+
+4.1. Practical issues:
+Before a consideration of what the spectrum means, it seems useful to consider some practical issues associated with
+the experiments. In earlier single laser experiments, the excess power seemed to be similar once initiated, over about a
+factor of 50 in incident beam power. Hence, the concept of a threshold intensity for the effect seems to be relevant, with
+a threshold intensity in the general vicinity of 1 mW/cm2. In different experiments, the same cathode was observed to
+respond when the beam was defocused to 1 cm diameter at a power level about 50% higher than when the beam was
+focused to 1 mm. This suggests that when the smaller beam is used, that an area larger than the beam responds, if we
+assume that the power produced per unit area is similar in the two cases.
+
+All of these seem to be helpful in a practical sense over the course of the measurements. A relative insensitivity
+to the laser spot size and intensity of the lasers in these experiments is likely to have contributed to the quality of the
+resulting spectrum.
+
+4.2. Response to the difference frequency:
+Under normal conditions, we would not expect the production of difference frequencies for optical laser light at the
+relatively low intensity of the light in this experiment. The intensity corresponding to the initial 30 mW beam power
+of a single laser focused to 1 mm diameter is about 4 W/cm2.
+
+One plausible route for the development of a nonlinearity is to assume that the co-deposition of the gold results in
+irregular structures on the nano scale, so that a dramatic ﬁeld enhancement occurs similar to the situation in surface
+enhanced Raman scattering [24–26]. In this picture, a large enhancement of the local electric ﬁelds results in strong
+excitation of local hybrid plasmon and optical phonon modes, allowing mixing at the difference frequency. In our
+experiments, we do not see a response at the difference frequency without gold co-deposition.
+
+We know from single laser experiments that excess power is produced. If we think of a laser ampliﬁer as an analogy,
+then the ampliﬁer tends to put energy into modes that have the highest excitation. In single laser experiments with
+the Fleischmann–Pons effect, such an analogy would suggest that the energy produced is going into the excited hybrid
+plasmon and optical phonon modes stimulated by the laser. These modes are very lossy, so that when the laser is turned
+off, the excess power effect is not sustained. In the two-laser experiments, the excess power often remains after the
+lasers are turned off. The associated picture is that energy is going into these modes at a sufﬁcient rate to sustain them,
+since they are at lower frequency and much less lossy.
+
+4.3. PdD Optical phonon modes:
+Since the thermal signal responds to difference frequencies in the THz region, it would be natural to make a connection
+with the relevant phonon mode spectrum in this region. In Fig. 5, we have plotted the dispersion curves for the acoustical
+and optical phonon modes for the high symmetry directions in the Brillouin zone, using the Born-von Kármán ﬁtting
+parameters of Rahman et al. [27] with the modiﬁcation for the D–D interactions of Sansores et al. [28].
+
+The lowest optical phonon frequency (8.57 THz) in the model occurs in the [1 1 0] direction, while the lowest
+points in the coherent neutron scattering experiments of Rowe et al. [22] for PdD0.63, and Blaschko et al. [29] for
+PdD0.78 are in the [1 0 0] direction, where the lowest model frequency is 8.58 THz. The loading in our experiments
+was not measured, but in other experiments where the loading was measured, excess heat usually does not appear until
+the loading is near 0.83 [6]. These lowest frequencies are for transverse modes; the lowest longitudinal optical phonon
+frequency occurs at the  -point, which in the model occurs at 9.02 THz. Both coherent neutron scattering experiments
+[22,29] agree in this case, but in [30] the  -point is observed in PdD0.63 at 8.1 THz at 80 K.
+
+Figure 5.
+Phonon mode dispersion relation for PdD. Frequency in THz as a function of k for high symmetry directions in the Brillouin zone.
+
+The group velocity is zero at this minimum, and also at the  -point. In the associated microscopic picture, the
+energy put locally into optical phonon modes with a ﬁnite group velocity would tend to transport away, while it would
+remain if the group velocity is zero. Given that there are numerous modes at different frequencies, it seems noteworthy
+that the thermal response in these experiments seems not only connected with the optical phonon modes, but those with
+zero group velocity.
+
+A similar connection seems plausible between the thermal response at 15.1 THz and the longitudinal optical phonon
+mode at the L-point, which in the Born-von Kármán model occurs at 16.6 THz. Note that the model seems to be high
+relative to the L-point experimental data; which in the experiment of Rowe et al. [22] seems to be closer to 16 THz;
+and in the experiment of Blaschko et al. [29] seems to be closer to 15 THz. As has been emphasized by the ENEA
+Frascati group [18], the coupling of p-polarized light is with longitudinal plasmon modes, which we would expect to
+be hybridized with the optical phonon modes. The high frequency optical phonon mode at the L-point is a longitudinal
+mode, and once again the group velocity is zero at this point.
+
+4.4. Possibility of deuterium in vacancies in gold:
+There are no optical phonon modes in PdD near 20.8 THz, which is the difference frequency associated with the third
+peak in the excess power spectrum shown above. A possible explanation is that the response is due to optical phonons
+associated with deuterium in gold. Since the solubility of deuterium in gold is low, this perhaps would not be a ﬁrst
+choice for an explanation. However, since the gold co-deposition may produce a large fraction of vacancies (as has
+been veriﬁed for Cu and Ni [31]), perhaps this is a possibility. The importance of vacancies in supporting regions of
+low electron density where molecular D2 can bind has been discussed recently in [32]. Unfortunately, there there are
+no studies of hydrogen or deuterium in gold from which we can quantify the optical phonon spectrum.
+
+Recent preliminary results by one of the authors (DL) with gold co-deposition on copper suggests that the co-
+deposited gold can produce a thermal response. If conﬁrmed, then this would suggest that the issue of deuterium in
+gold should be pursued in the two-laser experiment.
+
+4.5. Possibility of hydrogen contamination:
+A possible explanation for the response near 20.8 THz may be hydrogen contamination. We would expect some
+hydrogen contamination in the heavy water, the effect of which would be exacerbated by about an order of magnitude
+in palladium since the solubility of H in Pd is higher than the solubility of D (see the absorption isotherms of [33] in
+the beta phase region). The frequency of the longitudinal optical phonon mode at the L-point in PdH is about 20 THz,
+which seems encouraging.
+
+In order to investigate further, we have run Born-von Kármán calculations for an idealized mixed crystal lattice with
+one deuterium atom in four replaced by a hydrogen atom (which would correspond to less than 3% contamination of
+light water in the electrolyte). If we make use of the force constants appropriate for PdD (since D is dominant), then
+we compute the frequency of the highest frequency longitudinal mode at the L-point to be 19.7 THz, which seems to
+compare favorably with the 20.8 THz response seen in the excess power spectrum.
+
+It may be possible to clarify this issue in future experiments with reduced H contamination. If the thermal response
+is reduced or eliminated in cells that are relatively free of hydrogen, then this would support the conjecture that H is
+responsible for the 20.8 THz signal.
+
+
+5. Conclusions
+
+The thermal response in the Fleischmann–Pons effect has been sufﬁciently controversial over the years that much of
+the discussion has been focused on the question of whether the effect is real, or experimental error. Much less effort has
+been devoted to more general issues having to do with how it works; and the question of why it works has historically
+been relegated largely to speculation. In the experiments described here, we have found that the excess power depends
+on the difference between the optical frequencies of two lasers, which provides a new tool which can be used to gain
+information about the system that was previously unavailable. The spectrum that results suggests that optical phonon
+modes participate in our experiments.
+
+Perhaps the most important feature of the excess heat in the Fleischmann–Pons experiment is that a very large amount
+of energy is produced (far in excess of what is possible from chemical reactions), yet no commensurate energetic particles
+are observed [34]. Energetic particles are observed at very low levels (more than 10 orders of magnitude below that
+required to be commensurate with the energy produced) under lower current density conditions where excess power
+would not be expected [35].
+
+So, where does the energy go? For years it has been conjectured that the energy goes into low energy degrees of
+freedom associated with the solid, such as plasmon or optical phonon modes, prior to thermalization. In the experiments
+discussed in this work, there is indirect evidence that the energy produced is going into the optical phonon modes. The
+dependence on the difference frequency signals the presence of a nonlinearity, which is not understood at present. The
+persistence of the the excess power after the lasers are turned off (an effect not typically associated with single laser
+experiments) suggests that the optical phonon modes are being sustained by the energy source.
+
+
+Appendix
+
+
+A.1. Electrochemical Issues
+
+The experimental results discussed in this paper came from 20 tests conducted on three electrochemical cells using
+lithium deuteroxide as electrolyte and palladium cathodes. The experiments began in March 2007 and paused in May
+2007, resuming in April 2008 and continue to the present. All experiments were conducted in Austin, Texas using the
+experimental setup shown in Fig. 1.
+
+A.1.1 Cells:
+The cells used were 200 ml capacity Kimax electrochemical cells, stock number 14020 and made of borosilicate glass.
+The cells were approximately 11 cm tall and 6 cm in diameter. The cells were ﬁtted with a Teﬂon plug which made an
+airtight seal, using a standard #127 Buna O-ring as shown schematically in Fig. 1. A 2 mm groove was cut below the
+O-ring seal to hold the recombiner catalyst (see Fig. 1).
+
+The cells were equipped with 5 mm glass tubing that served as electrode holders and O-ring sealable pass-throughs
+for hook up wires and thermistors. A vent tube was open to the atmosphere and provided pressure relief in the event of
+recombiner failure. The cells were also equipped with a second anode, which could be connected to the positive side of
+the electrolysis power supply using a solid state relay. The second anode, when activated, provided for in-situ plating
+of gold onto the cathode during electrolysis.
+
+The cell lid is machined Teﬂon, sealed using rubber O-rings. The electrode holders are 5 mm diameter soft glass
+tubing obtained from Richland Glass. The end of the glass tubing in the electrolyte is sealed against a platinum hook-up
+wire to provide mechanical stability and to keep the cell sealed. The tubing end outside of the cell is sealed with a
+commercial epoxy.
+
+A.1.2. Cathode:
+The cathodes were all bulk palladium and were typically 5 mm × 12 mm × 0.20 mm of 0.999 purity. Our sources
+for the anode and cathode material vary but Alfa-Aesar and Metallium are two commonly used vendors. The cathode
+fabrication process is as follows: cut 10 mm × 5 mm × 0.5 mm billet from 10 mm × 10 mm × 10 mm source; polish
+to bright using a Dremel brush with aluminum oxide; rinse in tap water; heat in furnace to 750◦C for 3 h, then cool
+slowly (4–8 h); etch with aqua regia for 2 min at 100◦C; polish with Dremel metal brush with aluminum oxide; polish
+with Dremel ﬁber brush with aluminum oxide; ultrasonic clean for 5 min in tap water; anneal for 2.5 h at 850◦C; polish
+with Dremel metal brush (Nicksand); ultrasonic clean for 5 min using compound remover; cold roll to about 0.25 mm,
+turning sample 90◦ on each of four passes; polish with Dremel metal brush; ultrasonic clean for 5 min using compound
+remover; anneal for 2.5 h at 850◦C; etch with aqua regia for 2 min at 100◦C; rinse in distilled water.
+
+A.1.3. Anode:
+The anodes were all coils of 0.999 pure Pt wire obtained from Alfa Aesar, with a wire anode diameter of 0.5 mm, and
+with four turns over the cathode.
+
+A.1.4. Electrolyte:
+All experiments were conducted using 100 ml of D2O with 0.5 M LiOD. Heavy water was obtained from SigmaAldrich,
+99.9 atom% D, stock number 151882-500g, batch 05512EE. Lithium granules were also obtained from Sigma Aldrich,:
+99.9+%, stock number 499811-25g, batch 02313TC.
+
+A.1.5. Recombiner:
+All cells were run in a closed cell conﬁguration. The gasses produced were recombined using small platinum coated
+pellets. The pellets were obtained from Alfa Aesar, 0.5% Pt on 1/8 inch Alumina, stock number 89106, lot B17Q15.
+
+A.1.6. Loading:
+Cell No. 662 is typical for this series of experiments. It was loaded for 120 h at 0.05 A. The loading ratio was not
+measured during the experiment but our experience has shown that loading in this manner usually results in a cathode
+that will respond to single or dual laser stimulation. After the cathode is loaded at low current, we increase current to
+1 A for 24–48 h before plating gold on the cathode.
+
+A.1.7. Gold coating:
+In previous work it was observed that adding a thin layer of gold electrochemically to the surface was required in order
+to see a thermal response in single laser experiments [13]. To the upper left of the cathode (see Fig. 1), is an electrode
+holder with a small piece of 0.999 purity gold attached to a platinum hookup wire. In our experiments, the gold plating
+occurs following the initial 120 h charging period. This was done by adding the Au anode in parallel to the Pt anode,
+and running for a shorter time at a high current density (usually at 1 amp). As yet we have not determined how much
+gold ends up on the surface, but in our experiments we deposit gold until the cathode surface has turned dark.
+
+What the gold coating does is not understood at present. Electrochemical deposition on a rough surface would
+not be expected to result in a uniform layer, and initial observations at NRL support this. Gold clusters on mica
+show a broad plasmon absorption feature near 2.5 eV in electron energy loss spectra [24,36], and it is possible that
+this helps in the absorption of the laser light. If there is separation on the nanoscale, one might expect ﬁeld en-
+hancements characteristic of surface enhanced Raman scattering [24]. The gold may also inhibit cathode deloading.
+
+A.1.8. Power:
+Power to the electrolytic cell and the controlled temperature enclosure is provided by twin HP digital power supplies,
+model number E3632A. The power supplies can provide low ripple DC in constant current or constant voltage mode
+from 0 to 7 A, 0–30 V over two power ranges. Labview controls the power supplies and the electrolysis cell is run in
+constant power mode, with the power supply set in constant current mode. Cell power is controlled to within ±0.01W.
+
+
+A.2. Calorimetric Issues
+
+Simple Fick’s law calorimetry as described in the text was used on all tests, consistent with the set-up illustrated
+in Fig. 1.
+
+A.2.1. Temperature measurements:
+Two Beta Therm thermistors were used to measure cell temperature in two locations within the cell — one slightly
+above the cathode and one slightly below the cathode. The manufacturer provided thermistor calibration constants.
+The cells were not mechanically stirred; however, the mixing efﬁciency is reﬂected by the low temperature gradient
+between the two probes — typically 0.1◦C or less. The temperature difference  T is taken to be the average of the
+internal cell temperatures minus the enclosure ambient temperature, which is a two-thermistor average also. We found
+that  T was typically 30–35◦C.
+
+A.2.2. Thermal control
+Lab temperature was fairly stable at 26±1◦C. The cell was kept in a controlled environment where airﬂow was constant
+and ambient temperature was maintained at 25 ± 0.03◦C.
+
+A.2.3. Cell power
+Cell power was provided by a digital HP E3632A DC power supply, at typically 7–10 W, with current up to 1.25 or
+1.5 A. The cell power was held constant by Labview to about 10 mW.:
+
+A.2.4. Calorimetric scheme
+The excess power during the live part of the experiment is estimated through
+Pxs = Pout − Pin
+as discussed in the text. Note that the cell has a recombiner, and under normal operating conditions all of the deuterium
+and oxygen are recombined. When the recombiner begins to fail, then gas is lost through a vent. This gas goes through
+a bubbler, so that we are able to see easily when this happens. The recombiner provides a heat source with power IV0,
+which in our experiments has proven to be nearly constant. Running near 1 A means that 1.54 watts is generated in
+the recombiner, most of which is lost. About 60 mW of this power makes it back to the cell, resulting in a constant
+temperature increase of about 0.25◦C.
+
+A.2.5. Calibration
+A cell is run for many hours prior to turning on the lasers. We estimated the calibration constant K assuming that
+no excess power was present during this initial stage. The calibration constant was computed again at the end of the
+experiment (typically well after any thermal signals had died out), generally with good agreement between the two
+values. The onset of each thermal event was readily observed since transients stand out against the nearly constant zero
+excess power background. Variations in the excess power output during the zero excess power phase of the experiment
+is around 10 mW and was dominated by variations in the input power; consequently we have taken 10 mW for the error
+associated with the excess power measurements in steady state.
+
+This simple method of determining excess power does not take into account the thermal relaxation time of the
+system; the response of the calorimeter to a constant power input is shown in Fig. 2. Constant power input is applied by
+measuring the current and voltage once per minute, determining the effective cell resistance, and then ﬁxing the current
+to the square root of power divided by this resistance. This results in the spread in input power seen in the ﬁgure.
+
+A.2.6. Data collection
+An Agilent 34970A and takes measurements every minute; the cell and box temperature measurements are made with
+the Agilent. The Agilent also provides voltage to control solid state relays used to start and stop in-situ gold plating.
+
+
+A.3. Lasers
+
+Dual tunable lasers were used to provide beat frequencies in the 3–24 THz range. The laser diodes are off-the-shelf
+red diodes from various manufacturers such as Sony, Hitachi and Panasonic. One laser is controlled using an Optima
+LDC202 with a laser mount that accepts 5.6 mm laser diodes. The LDC202 is controlled by providing DC voltage
+from the Agilent to set laser current and temperature. Our laser diodes typically operate at 70 mA and tune over a
+temperature range of 15–40◦C. The second laser control system is an ILX3722B laser controller and laser mount. It
+operates by GPIB and can handle 5.6 mm or 9 mm laser diodes. It can tune over 0–60◦C, producing a typical tuning
+range of 4–6 nm.
+
+Both instruments were controlled by Labview to drive the lasers at the desired wavelengths. The output power of
+the diode lasers was about 20-30 mW each when new before 2002, and both combined produced close to 25 mW at the
+end of the experimental campaign. The linewidth was 1 nm.
+
+A.3.1. Difference frequency:
+For difference frequencies in the range of 15–20 THz, we used one laser typically centered near 685 nm, and another
+laser centered near 658 nm; both lasers could be tuned over 4–6 nm. For observations near 8 THz, we used a third laser
+centered at 664 nm.
+
+A.3.2. Laser diagnostics:
+The output power of the laser diodes was measured using an Ophir power meter. The wavelengths were determined
+using a Stellarnet optical spectrometer, which has a resolution of about 0.25 nm.
+
+A.3.3. Beam overlap:
+The second beam was aligned to overlap with the ﬁrst on a single spot on the cathode surface roughly 1 mm in diameter.
+
+A.3.4. Polarization:
+As noted above, we needed to have both laser beams incident with p-polarization relative to the surface. This was
+accomplished using a half-wave ﬁlter. The lasers were oriented at wide angles to the cell so that the incident angle was
+greater than 45◦ relative to the cathode surface. The effect of laser polarization can be seen in Fig. 6. At 64 min (when
+two overlapping laser beams with mismatched polarization and a difference frequency of 14.88 THz) one can see a
+minor increase of the Pxs signal, which is on the order of the absorption of the laser power in the cell. At 202 min the
+polarization of one of the lasers was rotated by 90◦, at which point both laser beams were overlapped on the surface
+with p-polarization. The system responds slowly, reaching an excess power of about 140 mW by about 400 min (which
+is signiﬁcantly longer than the response time of the calorimeter). This data supports the notion that the polarization
+of both lasers is important in producing an excess power response. Between 64 and 202 min both lasers were on and
+tuned to produce a difference frequency near the middle resonance, yet there was no strong response. The system only
+responded strongly when both lasers have p-polarization, which occurred at 202 min.
+
+Figure 6.
+Excess power (mW) as a function of time (min) for parts of data set 662 J-K. The lasers were turned on at minute 64 with mismatched
+polarization, indicated by the ﬁrst step. The polarization of one of the lasers was rotated at minute 202, indicated by the onset of a major increase in
+the relaxation model ﬁt. This gave rise to a prompt (artifact) apparent increase with excess power, which can be attributed to a sustained reduction
+in cell resistance; and then a subsequent increase in excess power. The spread in the excess power around the model is 9 mW. Data was saved with
+too few digits when this experiment was run, resulting in the discretization of the points that can be seen in the ﬁgure.
+
+A prompt apparent excess power spike can be seen in the data following the rotation of the laser polarization. This is
+due to a sudden drop in the cell voltage which appears sometimes as a precursor to an excess power event as discussed
+in the text.
+
+
+A.4. Magnets
+
+We used two permanent magnets (approximately 700 G) on either side of the cell during the thermal measurements,
+but these are not in place during the (preceding) loading phase. The magnets seemed to help in obtaining a thermal
+response, and the effect was independent of the orientation. There is some evidence that the alignment of the laser
+polarization with the magnetic ﬁeld is important. In the present experiments the magnetic ﬁeld lines are horizontal
+and extend along the cathode surface; the laser beams come in horizontally, at an angle of about 45◦ from the cathode
+surface; in p-polarization, the magnetic ﬁeld of the light is vertical.
+
+The magnets in this experiment are a legacy from earlier single laser experiments where, in some experiments, they
+seemed to help. Magnets appear to make a difference in the Pd morphology in the co-deposition experiments described
+in [35]. In future work we hope to understand better how the magnetic ﬁeld impacts the two-laser experiment.
+
+
+References
+
+M. Fleischmann, S. Pons, M. Hawkins, J. Electroanal. Chem. 261 (1989) 301; errata 263 (1990) 187.
+M. Fleischmann, S. Pons, M.W. Anderson, L. J. Li, M. Hawkins, J. Electroanal. Chem. 287 (1990) 293.
+N.S. Lewis, C.A. Barnes, M.J. Heben, A. Kumar, S.R. Lunt, G.E. McManis, G.M. Miskelly, R.M. Penner, M.J. Sailor, P. G.
+Santangelo, G.A. Shreve, B.J. Tufts, M.J. Youngquist, R.W. Kavanagh, S.E. Kellogg, R.B. Vogelaar, T.R. Wang, R. Kondrat,
+R. New, Nature 340 (1989) 525.
+J.R. Huizenga, Cold Fusion, the Scientiﬁc Fiasco of the Century, (University of Rochester Press, Rochester, 1992).
+M.C.H. McKubre, F.L. Tanzella, Using Resistivity to Measure H/Pd and D/Pd Loading: Method and Signiﬁcance, Twelfth
+International Conference on Cold Fusion, Condensed Matter Nuclear Science, Yokohama, edited by A. Takahashi, K.-I. Ota,
+and Y. Iwamura (World Scientiﬁc, Singapore, 2005), p. 392.
+M.C.H. McKubre, S. Crouch-Baker, A.M. Riley, S.I. Smedley, F.L. Tanzella, Excess Power Observations in Electrochemical
+Studies of the D/Pd System; The Inﬂuence of Loading, Third International Conference on Cold Fusion, Frontiers of Cold
+Fusion, Nagoya, edited by H. Ikegami (Universal Academy Press, Tokyo, 1993) p. 5.
+T.A. Green, T.I. Quickenden, J. Electroanal. Chem. 389 (1995) 91.
+M.H. Miles, M. Fleischmann, Accuracy of Isoperibolic Calorimetry Used in a Cold Fusion Control Experiment, Low-energy
+nuclear reactions sourcebook, ACS Symposium series, Vol. 998 (Oxford University Press, Oxford, 2008) p. 153.
+M.C.H. McKubre, S. Crouch-Baker, R.C. Rocha-Filho, S.I. Smedley, F.L. Tanzella, T.O. Passell, J. Santucci, J Electroanal.
+Chem. 368 (1994) 55.
+[10] D. Gozzi, F. Celluchi, P.L. Cignini, G. Gigli, M. Tomellini, E. Cisbani, S. Frullani, G.M. Urciuoli, J Electroanal. Chem. 452
+(1998) 251.
+[11] E. Storms, Science of Low Energy Nuclear Reaction: A comprehensive compilation of evidence and explanations about cold
+fusion (World Scientiﬁc, Singapore, 2007).
+[12] I. Dardik, T. Zilov, H. Branover, A. El-Boher, E. Greenspan, B. Khachaturov, V. Krakov, S. Lesin, M. Tsirlin, Excess heat
+in electrolysis experiments at energetics technologies, Eleventh International Conference on Cold Fusion, Condensed Matter
+Nuclear Science, Marseilles, edited by J.P. Biberian (World Scientiﬁc, Singapore, 2004), p. 84.
+[13] D. Letts, D. Cravens, Laser stimulation of deuterated palladium: past and present, Tenth International Conference on Cold
+Fusion, Condensed Matter Nuclear Science, Cambridge, MA, edited by P.L. Hagelstein and S.R. Chubb (World Scientiﬁc,
+Singapore, 2003), p. 159.
+[14] D. Cravens, D. Letts, Practical techniques in CF research: triggering methods, Tenth International Conference on Cold Fusion,
+Condensed Matter Nuclear Science, Cambridge, MA, edited by P.L. Hagelstein and S.R. Chubb (World Scientiﬁc, Singapore,
+2003), p. 171.
+[15] E. Storms, Use of a very sensitive Seebeck calorimeter to study the Pons–Fleischmann and Letts effects, Tenth International
+Conference on Cold Fusion, Condensed Matter Nuclear Science, Cambridge, MA, edited by P.L. Hagelstein and S.R. Chubb
+(World Scientiﬁc, Singapore, 2003), p. 183.
+[16] M. McKubre, F. Tanzella, P.L. Hagelstein, K. Mullican, M. Trevithick The need for triggering in cold fusion reactions, Tenth
+International Conference on Cold Fusion, Condensed Matter Nuclear Science, Cambridge, MA, edited by P.L. Hagelstein and
+S.R. Chubb (World Scientiﬁc, Singapore, 2003), p. 199.
+[17] M.R. Swartz, Photo-induced excess Heat from laser-irradiated electrically polarized palladium cathodes in D2O, Tenth Inter-
+national Conference on Cold Fusion, Condensed Matter Nuclear Science, Cambridge, MA, edited by P.L. Hagelstein and S.R.
+Chubb (World Scientiﬁc, Singapore, 2003), p. 213.
+[18] M.Apicella, E. Castagna, L. Capobianco, L. D’Aulerio, G. Mazzitelli, F. Sarto,A. Rosada, E. Santoro,V.Violante, M. McKubre,
+F. Tanzella, C. Sibilia, Some recent results and ENEA, Twelfth International Conference on Cold Fusion, Condensed Matter
+Nuclear Science, Yokohama, edited by A. Takahashi, K.-I. Ota, and Y. Iwamura (World Scientiﬁc, Singapore, 2005), p. 117.
+[19] D. Cravens, D. Letts, The enabling criteria of electrochemical heat: beyond reasonable doubt, Fourteenth International
+Conference on Cold Fusion (in press).
+P.L. Hagelstein, D. Letts and D. Cravens / Journal of Condensed Matter Nuclear Science 3 (2010) 59–76
+[20] S. Guruswamy, M.E. Wadsworth, Metallurgical aspects in cold fusion experiments, First Annual Conference on Cold Fusion,
+Salt Lake City, edited by F. Will (National Cold Fusion Institute, 1990), p. 314; see Figure 2(c).
+[21] M.C.H. McKubre, R.C. Rocha-Filho,S. Smedley, F. Tanzella, J. Chao, B. Chexal, T. Passell, J. Santucci, Calorimetry and
+electrochemistry in the D/Pd system, First Annual Conference on Cold Fusion, Salt Lake City, edited by F. Will (National Cold
+Fusion Institute, 1990), p. 20; see Figure 5.
+[22] J.M. Rowe, J.J. Rush, H.G. Smith, M. Mostoller, H.E. Flotow, Phys. Rev. Lett. 33 (1974) 1297.
+[23] D. Letts, D. Cravens, and P.L. Hagelstein, Dual laser stimulation and optical phonons in palladium deuteride, in low-energy
+nuclear reactions and new energy technologies, Low-Energy Nuclear Reactions Sourcebook, Vol. 2 (American Chemical
+Society, Washington DC). pp. 81–93 (2009).
+[24] K.-H. Su, Q.-H. Wei, X. Zhang, J.J. Mock, D.R. Smith, S. Schulz, Nano Letters 3 (2003) 1087.
+[25] D.A. Genov, A.K. Sarychev, V.M. Shalaev, A. Wei, Nano Letters 4 (2002) 153.
+[26] X.-M. Qian, S.M. Nie, Chem. Soc. Rev. 37 (2008) 912.
+[27] A. Rahman, K. Sköld, C. Pelizzari, S.K. Sinha, H. Flotow, Phys. Rev. B 14 (1976) 3630.
+[28] L.E. Sansores, J. Tagüeña-Martinez, R.A. Tahir-Kheli, J. Phys. C: Solid State Phys. 15 (1982) 6907.
+[29] O. Blaschko, R. Klemencic, P. Weinzierl, L. Pintschovius, Phys. Rev. B 24 (1981) 1552.
+[30] J.M. Rowe, J.J. Rush, J.E. Schirber, J.M. Mintz, Phys. Rev. Lett. 57 (1986) 2955.
+[31] Y. Fukai, M. Mizutani, S. Yokota, M. Kanazawa, Y. Miura, T. Watanabe, J. Alloys and Compounds 356–357 (2003) 270.
+[32] P.L. Hagelstein, I.U. Chaudhary, Arguments for dideuterium near monovacancies in PdD, Proc. 15th International Conference
+on Cold Fusion (in press).
+[33] R. Lässer, K.-H. Klatt, Phys. Rev. B 28 (1983) 748.
+[34] P.L. Hagelstein, Naturwissenschaften 97 (2010) 345.
+[35] P.A. Mosier-Boss, S. Szpak, F.E. Gordon, L.P.G. Forsley, Eur. Phys. J.: Appl. Phys. 40 (2007) 293.
+[36] S. Holst, W. Legler, Z. Phys. D 25 (1993) 261.

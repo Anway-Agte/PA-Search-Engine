@@ -1,0 +1,643 @@
+1. Introduction
+
+A Lattice Energy Converter (LEC) is a direct energy conversion device that converts the thermal energy of lattice
+vibration into ionizing radiation and electrical energy. The direct conversion of heat into electricity without the use
+of radioactive materials or mechanical means is a challenging yet promising method for the production of electrical
+energy. Figure 1 shows a Pd-H LEC cell that self-initiates and self-sustains the spontaneous production of a voltage
+and current into a load impedance. In its simplest implementation a LEC achieves direct conversion using a pair
+of electrodes separated by a gas at normal temperature and pressure (NTP). One electrode, designated the working
+electrode (WE), is comprised in part of a hydrogen host material, such as iron (Fe), nickel (Ni), or palladium (Pd),
+occluded with hydrogen or deuterium gas. The other electrode, designated the counter electrode (CE), may be a
+common metal, such as copper (Cu), zinc (Zn), or brass an alloy of Cu and Zn.
+
+Figure 1. Self-initiating and self-sustaining Pd-H LEC cell under load.
+
+Experiments have established that when hydrogen host material is electrodeposited from an aqueous solution
+the WE will become ‘active’ and produce ionizing radiation. WE activity can be veriﬁed in air by placing the
+WE in close proximity to a CE and connecting a digital voltmeter (DVM) between the two electrodes.
+If no
+spontaneous voltage is observed the WE is returned to the plating bath and more hydrogen host material is code-
+posited on the WE. Multiple LEC conﬁgurations have been tested including tests where an external electrical
+voltage was applied between the working electrode and the counter electrode as well as tests where the LEC self-
+initiates and self-sustains the production of a voltage and current in the absence of an applied external voltage and
+current.
+
+
+2. Background
+
+2.1. Hydrogen-Metal interactions:
+The metal-hydrogen system [1] and in particular the palladium-hydrogen system [2], [3] have been studied for more
+than 150 years since H. Sainte-Claire Deville and E Troost [4] reported that hydrogen diffused rapidly through homo-
+geneous plates of fused iron (Fe) and platinum (Pt). These surprising results led Thomas Graham, Master of the Royal
+Mint, to conduct a similar series of experiments with palladium (Pd). Three years later, Graham [5] was the ﬁrst to re-
+port the high rate at which hydrogen would diffuse through heated Pd. Additionally, Graham found that Pd could absorb
+over 600 times its volume of hydrogen. More recently, the diffusion of hydrogen in the palladium-hydrogen (Pd-H)
+system as well as the nickel-hydrogen (Ni-H) and iron-hydrogen (Fe-H) systems has been documented by Mehrer [6].
+Fukai [1], when discussing the role that lattice vacancies and in particular superabundant vacancies (SAVs) have in
+determining the properties of materials, points out:
+
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+The real equilibrium phase diagrams including M-atoms vacancies have not been obtained so far. This recog-
+nition brought us to the expectation that SAVs should be formed in the process of electrodeposition of metals
+from aqueous solutions. There M and H atoms are deposited simultaneously, and in this process appropriate
+numbers of vacancies can be incorporated.
+
+Experimentally, WE’s have been produced by the electrodeposition of hydrogen host material from an aqueous PdCl2
+and LiCl solution as well as by the co-deposition of Pd from an aqueous solution of PdBr2 without LiBr, which was
+used by J. P. Biberian [7] to produce an active WE and replicate the LEC results. WE’s have also been produced by
+codeposition of iron from an aqueous solution of FeCl2 4H2O, and other materials or alloys are expected to produce
+active WE’s.
+
+2.2. Electrical properties of gases:
+Similarly, the electrical properties of gases have been studied for more than 130 years. In 1896, J.J. Thomson and E
+Rutherford [8] published an important paper ‘On the Passage of Electricity through Gases exposed to Röntgen (X-)
+Rays.’ In the same year, Thomson [9] gave a series of lectures on The Discharge of Electricity through Gases at
+Princeton University in New Jersey. This was followed in 1899 [10] by his deﬁnitive paper ‘On the theory of the
+conduction of electricity through gases by charged ions’ where he developed a mathematical theory that would predict
+the ionization rate per unit volume of gas from a measurement of the current density per unit area of the conduction
+path. In 1903 he published the 1st edition of his treatise Conduction of Electricity Through Gases [11]. In 1906 he
+published the 2nd edition [12] of his treatise, the same year he was awarded the Nobel Prize in Physics
+in recognition of the great merits of his theoretical and experimental investigations on the conduction of
+electricity by gases,
+This was then followed in 1928 [13] and 1933 [14] by the expanded two volume 3rd edition coauthored with his son
+G.P. Thomson, soon to be Nobel Laureate (1937).
+
+The theory of the conduction of electricity through gases can be used to analyze the performance of a LEC with the
+objective of both understanding the phenomenon and of optimizing its performance in order to realize implementations
+of practical application. Toward this goal the following works by J.S.E Townsend [15], K.K Darrow [16], and L.B.
+Loeb [17], are of particular interest. Townsend was a research assistant to J.J. Thomson and although he is remembered
+for his work on gas discharges, i.e., the Townsend avalanche discharge, his discussion in his book [15] of ‘The Motion
+of Ions in Gases’ is instructive. Darrow was a Research Physicist at Bell Laboratories in New Jersey and his discussion
+of the diffusion of ions to the measurement of the current density per unit area in his book titled Electrical Phenomena
+in Gases is of particular importance and will be discussed in detail in a following section. Loeb was a professor of
+physics at the University of California at Berkeley for many years and his book titled Basic Processes of Gaseous
+Electronics [18] includes advances in understanding made during WWII.
+
+The important observation from the above references is that there are several properties of the gas that need to be
+carefully considered in order to analyze the performance of a LEC: the rate of generation of the ions; the attachment
+of ionized electrons to neutral molecules; the recombination rate of ions back into neutral molecules; the density of
+ions in the gas; the mobility of the ions in the gas; the space charge within the gas due to the difference in the number
+of positive and negative ions; the electric ﬁeld strength in the gas; the diffusion of ions due to concentration gradients
+in the gas; as well as, the current density produced per unit cross-sectional area of the conduction path which is cell
+geometry dependent.
+
+Figure 2. LEC cell conﬁgured with a variable external voltage supply to measure current vs. voltage (I-V) characteristic.
+
+
+3. Experimental results
+
+3.1. Experimental setup and tests with external variable voltage supply:
+Initial LEC experimentation began with the objective to conduct electrolysis in a gas in order to produce fugacity and
+thus electrically load hydrogen into a palladium working electrode at temperatures above 100 ◦C. Experimental evi-
+dence by multiple LENR scientists indicated that LENR output increased with increasing temperature and loading but
+experiments that use liquid electrolysis and are limited to temperatures below the boiling point of the liquid electrolyte.
+
+Figure 2 illustrates the initial test cell that was designed with the objective to greatly increase the operating tem-
+perature and thus increase LENR output. This cell includes a working electrode composed of a 1/4 inch copper tube
+that had been codeposited with palladium from an aqueous solution of 0.03 M PdCl2 and 0.3 molar LiCl. The working
+electrode was positioned inside a 3/4 inch brass pipe which served as the counter electrode and the cell was assembled
+using standard pipe ﬁttings, including a non-conducting bushing to electrically isolate the working electrode from the
+counter electrode.
+
+After assembly, a vacuum was pulled and the cell ﬁlled with deuterium gas. Since gas is a non-conductor unless
+it contains ions, six 1 µCi sources of Am-241 were placed in the cell to ionize the gas during initial tests. Also
+shown in Figure 2 is a high voltage DC power supply in series with a 1 MΩ current limiting resistor for personnel
+and instrumentation safety. A Labjack U6 Pro with capability to record up to 14 channels of data is connected to the
+working electrode (WE) and the counter electrode (CE) in order to measure the voltages to ground. A resistor voltage
+divider was placed in the CE circuit in parallel with the Labjack input to limit the voltage to no larger than ± 10 volts.
+Initial tests using this Pd-D LEC cell conﬁguration produced more conduction through the gas, i.e., more ions in the
+gas, than what 6 µCi of Am-241 would produce if there were no Pd codeposited on the WE. When the Am-241 sources
+were removed, the LEC cell still conducted a current.
+
+A second important observation was that the LabJackTM instrumentation system with a sample rate of 512 samples
+per second detected voltage spikes and short-term excursions that occurred on time scales of less than 2 ms. Figure 3
+is a screen shot showing the LabJack real-time display of the LEC amplitude. The sample rate used during this test
+was 128 samples per second. The vertical axis displays the Amplitude in volts and the horizontal axis displays Time in
+seconds. Since the LabJack instrumentation system is limited to ± 10 volts, a scale factor is used to correct the voltage
+in real-time during concurrent processing with data logging.
+
+Figure 3. Typical real-time display of the LEC amplitude in volts with 8 seconds of data continuously scrolling across the screen.
+
+In order for data processing to keep up with data collection, software was developed to run concurrently with
+LabJack using a combination of Microsoft Excel and Visual Basic so that as soon as a ﬁle was recorded, it was
+processed and displayed. At a minimum, data processing for each channel includes: scaling the data; ﬁle averages;
+one second averages; and maximum and minimum voltages for each second. Additional processing has included the
+use of a Ludlum proton recoil scintillation detector (PRESCILA) to detect neutrons and sodium iodide detectors to
+detect gamma including energy levels, as well as signal processing of various environmental channels such as ambient
+test stand temperature, LabJack laboratory temperature, and the high-voltage power supply voltage. Typically, up to
+four LEC cells are simultaneously recorded and processed along with temperatures with the 14 channels available.
+
+Multiple tests have been conducted to characterize the LEC performance such as changing the polarity of exter-
+nal voltage applied, changes in cell temperature and gas pressure, changes in cell dimensions, and changes in load
+resistance. LEC cells have also been tested using deuterium gas, hydrogen gas, and even atmospheric air which has
+approximately 0.5 parts per million of hydrogen. When exposed to air, the activity decayed over several hours which
+suggests that the activity was in part the result of outgassing of the hydrogen, but some activity was observed even
+after several days.
+
+One example is shown in Figure 4 where the temperature in the cell was reduced to approximately minus 55 ◦C
+to reduce the number of water vapor ion clusters in the gas [19] and thereby eliminate them as the source of ions
+contributing to cell conduction. For this test, after the cell temperature had stabilized, the voltage was reduced in
+steps of 100 volts from a high of 800 volts down to 100 volts where the step size was reduced to 10 volts. Although
+the high-voltage supply was initially at 800 volts, the voltage across the LEC was approximately 275 volts due to cell
+conduction and the current limiting resistor. As the voltage is reduced, the current also is reduced and a current-voltage
+(I-V) characterization of the conduction is produced.
+
+Figure 4. Measured I-V characteristic of a LEC cell tested at -55 ◦C conducted over a 2 minute time period.
+
+Figure 4. I-V relationship between current and voltage at -55◦C.
+
+The lower plot (ﬁg. 4b) is current vs. voltage (I-V). Surprisingly however, on closer examination of the raw data
+it appears that the current goes to zero before the voltage goes to zero. Figure 5 is a semilog plot of the current vs.
+voltage (I-V) data which shows a change in the slope that started occurring at about 28 volts and the measured voltage
+does not go zero to as the current tends toward zero.
+
+Figure 6 shows that as V approaches zero with slope m ≈ 0.0241, the current, Ie(V ), does not extrapolate to
+zero as the term I1/3
+e
+(0)3 ≈ 1.3 remains. However, the Thomsons’ [13] write V (i) as a polynomial in current density
+i, i.e., V = Ai2 + Bi. This is a signiﬁcant difference since the LEC curve is convex up while the Thomsons’
+curve is concave down. This difference may be attributed to fugacity loading of the Pd with increased voltage and a
+commensurate increase in the ionization ﬂux.
+
+3.2. Experiments without external voltage supply:
+These surprising results could easily be checked by removing all external voltage and current from the LEC cell. As
+shown in Figure 1, to eliminate any possibility of a sneak circuit from the LabJack instrumentation system, the only
+instrumentation attached to the LEC was a DVM (Digital Voltmeter) with a 10 MΩ internal impedance in parallel with
+a variable load resistor R resulting in an effective resistance of 936 kΩ.
+
+Figure 5. Semilog plot of data from the LEC cell test of ﬁgure 4 showing that the current goes to zero before the cell voltage goes to zero.
+
+Figure 6. Plot of the cube root of the current vs the potential – Blue: Experimental data – Red: polynomial data ﬁt: I (V )1/3 =
+ 
+mV + I1/3
+e
+ 
+where m ≈ 0.0241 (33) and I1/3
+e
+(0) ≈ 1.3.
+
+When the codeposited Pd WE cell was assembled and ﬁlled with hydrogen, it self-initiated and self-sustained the
+production of both an ‘open circuit (10 MΩ)’ a voltage and a ‘short-circuit’ (680 Ω) current. To properly characterize
+a LEC cell both ‘open-circuit’ and ‘closed-circuit’ measurements are needed. An even better characterization can be
+made if multiple I-V(R) values can be obtained. LEC output as a function of temperature is plotted in Figure 7, where
+the ‘open-circuit (RL∼936 kΩ)’ voltage increased from approximately 10 µV at 28 ◦C to more than 525 mV at a
+temperature of 185 ◦C, an increase in voltage of over 50,000:1.
+
+Self-sustaining LECs such as shown in Figure 1 are load tested by changing the variable load resistor that is in
+parallel with the DVM as shown in Figure 1. The variable R resistor box has 24 resistance values ranging from 1 MΩ
+down to 10 Ω where the voltage produced at each resistance used, about 17 descending resistance values, is plotted in
+Figure 8.
+
+Figure 7. Plot of LEC cell temperature and ‘open-circuit (∼936 kΩ)’ voltage vs. time.
+
+Figure 8. Plot of LEC cell voltage as a function of resistance at room temperature.
+
+The resistance load was changed at approximately 12 second intervals in order to avoid deloading hydrogen from
+the palladium hydrogen-host-material. When the resistance value was switched from 680 Ω back to 1 M Ω, a time
+constant of voltage recovery is observed which may be related to the diffusion and mobility of hydrogen ions in the
+gas due to the change in electric ﬁeld strength in the gas.
+
+Figure 9 is a plot of LEC cell load testing of the cell performance shown in Figure 7 at three temperatures of
+80, 140, and 185 ◦C. The three curves at the top of the ﬁgure plot the LEC voltage versus resistance for each tempera-
+ture and the lower curves plot the calculated load current using Ohms law as well as the calculated shunt current that
+depends on cell voltage.
+
+Of particular note is the relatively constant current observed for low values of load resistance when the voltage
+across the cell is small. Two possible mechanisms to produce a constant current include the direct charge method
+that can take place in a vacuum wherein particles or ions emitted by radioactive decay, thermionic emission, or the
+photoelectric effect and the diffusion of ions in a gas due to a concentration gradient. This constant current behavior
+is in contrast to the predicted I-V behavior reported by Thomson and others at higher values of cell voltage. By
+neglecting diffusion in their analysis, they report that for small values of the voltage, the current increases linearly
+with voltage until asymptotically approaching a constant value that they called the saturation current at high values
+of voltage. This linear behavior at low voltage is observed for a LEC when calculating its shunt current. However,
+when evaluating LEC performance, care should be taken to collect voltage data for low resistance values to quantify
+the diffusion current conduction behavior of LEC cells.
+
+Figure 9. Plot of voltage and currents of a LEC cell as a function of load resistance at three different temperatures. See text for explanations of
+ILoad, IShunt, and IRadiation.
+
+The power curves peak at the point where the LEC cell internal impedance matches the external load impedance
+which is predicted by electrical engineering theory and is typical of conventional power supplies. Of note, the open-
+circuit voltage and the short-circuit current of a LEC which does not require radioactive material is comparable to a
+commercial P100 NanoTritiumTM nuclear battery that uses 225 mCi of radiation.
+
+Figure 11 illustrates a possible combined phenomenological, physical, and electrical representation to explain the
+electrical behavior of the experimental palladium-hydrogen (Pd-H), palladium-deuterium (Pd-D), and iron-hydrogen
+(Fe-H) LEC cells that have been measured experimentally.
+
+This is similar to a Norton equivalent circuit of a two-terminal linear electrical device where the current source
+and the cell impedance are the Norton circuit elements, however, in this LEC cell equivalent circuit the impedance
+ZC depends upon the voltage. Inspection of the LEC cell’s current behavior indicates that the cells behave as if the
+observed current originates from a current source. Thus, in the schematic representation, the cell’s radiation generated
+gradient of ion density is shown as a current source. The working electrode and counter electrode are shown as having
+work functions (WFs) that might possibly be different for the working electrode and the counter electrode due to the
+different materials that might be used for these electrodes. For the LEC cell the hydrogen (1H2) or deuterium (2H2)
+gas and its associated ions also are indicated. The internal ion-ion plasma conduction current IShunt and cell voltage
+VLEC characterize a variable voltage conduction impedance ZC. The electrical capacitance of the cell is represented
+by CCell. The external variable load impedance is represented by ZL and the load current ILoad is represented by an
+arrow.
+
+Figure 10. Plots the LEC cell load power as a function of load resistance at the three temperature of the cell in ﬁgure 9.
+
+Figure 11. Combined phenomenological and physical schematic based on a Norton equivalent circuit.
+
+The changes in the cell’s load currents at higher cell voltages can be explained by an increasing internal cell current
+IShunt that shunts some of the thermally generated spontaneous radiation generated current, IRadiation, away from the
+load impedance ZL and through the voltage variable internal cell impedance ZC The changes in the cell’s ‘short-circuit’
+current and ‘open-circuit’ voltage capability and performance at higher temperatures can be explained by hypothesiz-
+ing that IRadiation = I0exp(−Ea/kBT ) where Ea is an activation energy associated with the WE, kB is Boltzmann’s
+constant, and kBT is the thermal energy associated with the hydrogen-host-material’s lattice and its occluded hydro-
+gen. This hypothesis is supported by the fact that when an Arrhenius plot, ln(IRadiation) = −(Ea/kB)(1/T )+ln(I0),
+of the radiation current at the three temperatures 80, 140 and 185 ◦C was made it resulted in a straight line of slope
+–(Ea/kB ) resulting in a calculated activation energy of 0.601 eV. The formation of vacancies in metals also is of the
+form Nvacancies = N0exp(−Ea/kBT ) and this suggests that vacancies may play a signiﬁcant role in the performance
+of a LEC. The activation energy of vacancies in Pd is between 1.41 and 1.52 eV [20].
+
+Figure 12. Example of complex spontaneous LEC cell behavior as a function of time and temperature.
+
+Figure 12 is included as an example of a self-initiating and self-sustaining LEC cell that changed polarity three
+times over a 4-day period. The LEC voltage was initially negative and it became positive as the temperature was
+increased. When the temperature decreased, the LEC voltage went back negative and then it gradually increased to
+positive even though the temperature remained relatively constant. Load tests conducted when the voltage was negative
+and when it was positive are similar to load tests for cells that maintain a relatively steady voltage. Similar behavior
+has been observed in multiple LEC cells. The cause is not known although one possibility might be a change in work
+function of the materials as hydrogen loading changes and as the electrode surfaces are subjected to ionizing radiation.
+This behavior is another example of the complex nature of what appears to be a simple device.
+
+
+4. Analysis of experimental results
+
+4.1. Theory:
+Although the physical processes that give rise to the ionizing radiation in a LEC are not understood, there is a well-
+developed theory for the conduction of electricity through gases. In his lectures on The Discharge of Electricity
+Through Gases [9] Thomson writes:
+We shall ﬁnd that the analogy between a dilute solution of an electrolyte and gas exposed to Röntgen rays
+holds through a wide range of phenomena, and we have found it of great use in explaining many of the
+characteristic properties of the conduction through gases.
+
+Although their electrical instrumentation was limited by today’s standards, and the analysis of the conduction of
+electricity did not initially include the effects of ion diffusion or space-charge in the gas, Thomson and Rutherford’s
+[8] experiments demonstrated:
+
+The fact that the passage of a current of electricity through a gas destroys its conductivity explains a very
+characteristic property of the leakage of electricity through gases exposed to Röntgen rays; that is, for a given
+intensity of radiation the current through the gas does not exceed a certain maximum value whatever the
+electromotive force may be. the gas gets, as it were, ‘saturated.’
+
+A few years later, Thomson [10] gave a more mathematically detailed analysis of the conduction including the effect
+of space-charge in the gas but sill without considering diffusion.
+The electrical conductivity possessed by gases under certain circumstances—as for example when Röntgen
+or uranium rays pass through the gas, or when the gas is in a vacuum-tube or in the neighbourhood of a piece
+of metal · · · illuminated by ultra-violet light—can be regarded as due to the presence in the gas of charged
+ions, the motion of these ions in the electric ﬁeld constituting the current.
+
+Unfortunately, Thomson was not able to integrate the differential equation for the electric ﬁeld as a function of position
+within the gas for the general case of a ﬁnite rate of ionization, q, and where the positive and negative ions have different
+mobilities, i.e., have different drift velocities under the inﬂuence of the electric ﬁeld. Thomson gives an approximate
+method for ﬁnding the electric ﬁeld in the gas when the number of positive ions is equal to the number of negative
+ions. For the case of the electric ﬁeld between plane-parallel electrodes in air, he estimates that the electric ﬁeld at the
+point between the electrodes where d2E/dx2 = 0 as 1/2.51 of the electric ﬁeld at the same point assuming that there
+is no space-charge. Also, he gives a formula for ﬁnding this ratio for any gas whose mobility values are known and
+this evaluates to ∼1/4.67 for hydrogen. A few years later, E. Riecke [21] and G. Mie [22] found approximate solutions
+to the electric ﬁeld distribution in the gas for various ratios of current density to saturation current density.
+
+In the latter part of the 19th century and the beginning of the 20th century the emphasis of researchers was to
+understand the physics of conduction of electricity through gases. To this end most researchers took precautions to
+ensure that their Röntgen (X-) rays or emissions from uranium salts did not fall on the electrodes of their experiments
+which would produce additional ions due to the photoelectric effect.
+
+With Townsend [15], a research student of Thomson, the emphasis shifted from experiments at low values of
+electric ﬁeld to pressure, e.g., E/p < 2 where E has units of [V·cm−1] and p is measured in [mm Hg] or [Torr], to
+experiments at high E/p > 2 where the inﬂuence of the impact of gas ions on the electrodes now became important
+[23]. Since the discharges were self-sustaining at high E/p > 2, the role of external ionizing radiation became
+less important. Other material that may be useful is Thomson’s Encyclopædia Britannica article [24] that includes an
+analysis of the conduction when all of the ions are of the same sign and thus carry the same charge. Also, to understand
+some of the electrical engineering issues that are important at high E/p it is instructive to review Peek’s [25] ‘Dielectric
+Phenomena in High Voltage Engineering.’ In this book there are discussions of corona discharge and of gas breakdown
+or arcing in cylindrical coordinates when E/p is high. Since a LEC operates at E/p <2, these phenomena as possible
+explanations of LEC conduction can be eliminated and the more difﬁcult question of what is causing the conduction
+can be undertaken.
+
+It wasn’t until the work of the research physicist KK Darrow [16], while working at the Bell Telephone Laborato-
+ries, that the emphasis on the analysis of the conduction of electricity through gases changed and he wrote:
+It is the condition of the conductive gas which matters ﬁrst and most; we have to analyze it, to identify the
+various kinds of particles charged and chargeless which make it up, determine their numbers and their speeds,
+and then (if possible) discover how the applied potential-difference and the other agencies of the environment
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+bring this state into being. As for the current, that may well be regarded as a minor perturbation of the
+conducting system.
+
+In his analysis of the conducting system of three equations, following Riecke [21], Darrow includes both the effect
+of the electric ﬁeld and of the diffusion of the ions in the gas. He ﬁnds that diffusion of ions due to positive and
+negative ion concentration gradients, –D1dn1/dx and –D2dn2/dx respectively, has the same effect as the drift of
+ions due to the electric ﬁeld. Thus, when he writes the equation for the current density per unit area, i, one term
+involves the product of the density of ions, n, times the electric ﬁeld, E, and the ions mobility, µ, while the other term
+involves the gradient of ion density, dn/dx, times the diffusion-coefﬁcient, D, which is by Einstein’s relationship for
+gases, the ion mobility times Boltzmann’s constant times the ion temperature in Kelvin, i.e., D = µkeV T cm2/s where
+keV = kB/e[eV · K−1] may be substituted in place of kB so that the conduction equations now become:
+q − αn1n2 + D1d2n1/dx2 − µ1d (En1) dx = 0
+q − αn1n2 + D2d2n2/dx2 + µ2d (En2) dx = 0
+Where q is the ionization rate, n is the number of ion-pairs ionized per second per cubic centimeter, and α the recom-
+bination rate which is approximately 1.4 × 10−6 cm3/s for H2 and 1.6 × 10−6 cm3/s for air.
+i = e[(n1µ1 + n2µ1)E + (D2dn2/dx − D1dn1/dx)]
+Darrow in chapter V on the “Elementary Theory of Drift” further notes in equations 66, on page 193, reproduced here
+as (4), that if n1 ≈ n2 then:
+by making n1 and n2 equal and denoting each of them by n, we get:
+i/e = n(µ1 + µ2)E + (D2 − D1) dn/dx
+an equation easy to integrate when the mobilities and the diffusion coefﬁcients are assumed independent of x.
+What is peculiarly interesting is that E and i do not necessarily vanish together [emphasis added].
+
+Darrow’s equation (4) now explains the surprising inferences that can be drawn from LEC experimental results as
+shown in Fig. 5 and Fig. 6. In the case of Fig. 5 the current went to zero as the impressed test voltage was approaching
+zero because the LEC cell was producing a current ﬂowing in the opposite direction to the impressed current as a result
+of diffusion of the ions due to an ion concentration gradient within the cell. In the case of Fig. 6, i.e., the extrapolation
+of the current to zero, the cell current effectively goes to zero when a high value of resistance such as a DVM is
+connected to the cell.
+
+Darrow comments that this result can be interpreted as follows: [emphasis added]
+Suppose the ions of the two signs are spread identically through a gas between two walls—by ‘identically’
+I mean that everywhere the concentrations of the two kinds are equal, though their common value varies
+from place to place—and that this state of affairs is stationary. Then there must be ionizing rays acting
+continually on the gas, and also there must be a potential-difference between the walls. For if there
+were no ﬁeld, the negatives would diffuse along the concentration-gradient more rapidly than the positives;
+there would be a net current; this would result in a depletion of negatives, and an excess of positive charge
+would arise in the gas, in contradiction with the assumption. But suppose there is a P.D. [Potential Difference]
+between the walls, in such a sense as to oppose the negatives and pull the positives forward as they stream
+together down the gradient. A value for this potential-difference can be found, such that the ﬁeld strength will
+retard the negatives and encourage the positives just sufﬁciently to annul the net current aforesaid;
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+This potential-difference is just the voltage that the DVM measures and thus the ‘peculiar’ behavior of a LEC is
+explained, including the increase in LEC voltage with temperature since, by the Einstein relationship for gases, the
+diffusion coefﬁcient, D = µkBT , increases with temperature. There could also be a contribution to potential differ-
+ence. due to different work functions of the electrodes but this is not required as Darrow has shown. In summary: the
+gas in a LEC must contain ions because it conducts electricity; there are approximately an equal number of positive
+and negative ions since the cell’s conduction remains essentially the same when the polarity of the applied potential
+reverses; there must be an ion concentration gradient since the cell generates a current when the electric ﬁeld, E, tends
+to zero as the load resistance RL tends to zero.
+
+Thus, Darrow’s inclusion of the drift term in the conduction equation explains the ‘peculiar’ I-V characteristics
+that were experimentally observed and also indicates that diffusion is one of the processes occurring within a LEC.
+Not explained is the cause of the spontaneous ionizing radiation or why the ion density in the cell appears to be
+non-uniform. One possible explanation for the later is that the WE emits ionizing radiation that produces energetic
+photo-electrons at the CE and these in turn ionize the gas in proximity to the CE thus producing an ion concentration
+gradient.
+
+There are limitations with the above analysis since assuming in (4) that n1 = n2 = n implies that there is no
+space-charge. This is equivalent to assuming that the electric ﬁeld, E, is given by the relationships E(x) = V/L
+for plane-parallel geometry or E(r) = V/[rln(b/a)] for cylindrical geometry where a ≤ r ≤ b and where V is the
+potential-difference between the electrodes, L is their separation for plane-parallel geometry, and a and b are the inner
+radius and outer radius of the electrodes respectively with cylindrical electrode geometry.
+
+Darrow writes:
+Space-charge would play no part, of course, if n1 and n2 were equal; but this is a condition which the
+difference in the mobility of the two kinds of ions makes difﬁcult to approach—one easily sees that if carriers
+of both signs are generated at an equal rate, and the negatives drift faster than the positives, there will be fewer
+negatives than positives at any moment between the plates. However it is interesting to simplify the equations
+in the way that would be permissible were n1 and n2 sufﬁciently nearly the same.
+
+Experience has shown that this type of approximation is useful since the dominant term in the calculation of
+radiation-induced current, Irad, is the term (i/e) where i = (I/Sm) which in SI or CGSA units is ∼ 6.2415 × 1018
+(I/Sm) where Irad is the short-circuit cell current, typically about 10−6 A and Sm is the cross sectional area near
+the middle of the conduction path where d2E(x)/dx2 = 0. L.B. Loeb [18] includes information learned up to and
+including WWII and suggests that there is a “. . . rejuvenation of the ﬁeld of study previously called The Discharge of
+Electricity in Gases, and now more properly called Gaseous Electronics.” Of particular importance to the understanding
+of LEC performance was the development of ionization chambers [26]. An ionization chamber such as a Gerdien
+Condenser [27] that is designed to measure the number of ions in the gas as it ﬂows through the device, measures
+the saturation current produced by the radiation ﬂux in a ﬁxed volume of gas when exposed to ionizing radiation.
+Rossi and Staub [26] calculate the densities of positive and negative ions due to ionization for both the case where
+recombination and diffusion are neglected and when they are included. A particular type of ionization chamber, i.e.,
+a reentrant well-type or 4pi ionization chamber, is similar to a LEC in that the radiation source to be measured is
+internal to the chamber in much the same way that the WE of a LEC is internal to the device. Thus, the question of
+the distribution of the electric ﬁeld within the gas is important, however, modern computers have made the numerical
+evaluation of the ﬁeld due to space charge possible. Several papers [28] [29] [30] [31] describe these recent results
+for plane-parallel, cylindrical, and spherical electrode geometries. While they also neglect the diffusion terms, they
+are good at predicting the shunt term. However, even this analysis does not predict I-V characteristics of the LEC
+experimental measurements which indicate that LEC results are driven by the diffusion of the ions within the gas.
+
+4.2. Estimating LEC cell performance:
+The estimation of a LEC cell’s performance depends on whether the measurements are external voltage induced con-
+duction or spontaneous conduction. For voltage induced conduction, start with a measurement of the I-V characteristics
+of the cell using the instrumentation conﬁguration shown in Fig. 2 for a number of different supply voltages. A typical
+value of cathode resistance, Rcat, is 10 kΩ and a typical value of the supply voltage current limiting resistance, Rsup
+is 1 MΩ. This ratio of resistances ensures that the maximum voltage presented to the instrumentation system is limited
+to 10 volts and the maximum current is limited to 1 microampere. The current through the cell is Icell and the voltage
+across the cell, Vcell, is Vcell = Vanode – Vcathode. The cell may be installed with either the working electrode (WE)
+or the counter electrode (CE) as the anode.
+
+An initial estimate of the cell’s performance may be made by assuming plane-parallel electrode geometry with
+separation L and no space-charge in the gas. Then, the electric ﬁeld is E = Vcell/L and the current density is i = Icell/S
+where S is the cross-sectional area of the conduction path between the electrodes. Let the density of positive ions, n1,
+and negative ions, n2, each be equal to n(x) a function of position where x is measured from the anode. This assumption
+is equivalent to assuming the ionized gas is an ion-ion plasma. Let U = (µ1 + µ2) where µ1 is the mobility of the
+positive ions and µ2 is the mobility of the negative ions with µ2 > µ1. Let U21 = (µ2 − µ1) and denote Boltzmann’s
+constant as keV ≈ 8.6173x10−5eV · K−1, so that the difference in diffusion coefﬁcients is D2 − D1 = U21keV T .
+
+Then equation (4) may be rewritten as
+i/e = Un (x) E + U21keV T n′ (x)
+with solution
+n (x) = (i/e) /UE + Cexp (−UEx/U21keV T )
+where C is a constant of integration, T is the cell’s temperature in kelvin, 1/e ≈ 6.2415 × 1018A−1 · s−1 is the
+reciprocal of the elementary charge, e := 1.602 176 634 A · s, and dn(x)/dx = n′(x).
+
+An estimate of the magnitude of the ratio of ions at the cathode to ions at the anode can be found by solving eq
+(5) when i ≈ 0. After integration ln(nL/n0) = −Un(L)V |I≈0/U21 so that when V |I≈0 > 0 as in Fig. 5, then
+ln(nL/n0) < 0 and 0 < nL/n0 < 1 and the maximum ion density occurs at the anode which is the CE for the Pd-D
+cell of Fig. 2. Additionally, let x = 0 then the constant C is found to be C = n(0)|I≈0 = n0.
+
+For the case of spontaneous LEC conduction, only the LEC voltage, VLEC(R, T ), is measured as a function of
+effective load resistance, R = RLoadRDVM/(RLoad + RDVM) and ILoad is calculated using Ohm’s Law as ILoad =
+VLEC/R. From the phenomenological description of a LEC in Fig. 11, ILoad = IRadiation – IShunt. Since iShunt is
+the internal current through the gas caused by the drift of the ions due to the electric ﬁeld, E(x), so that iShunt may
+be estimated as neUE(x). A general analytic expression for the electric ﬁeld is not known. However, as is shown by
+Thomson [10], [12], and Thomson and Thomson [13], n1 ≈ n2 ≈ n is correct only when dE/dx ≈ 0 which occurs
+away from the electrodes. In a cylindrical electrode geometry LEC with close electrode spacing, the approximation
+dE/dx ≈ d(rE)/dr = 0 may not be valid. Thus E(x) ̸= VLEC/L and iRadiation must be estimated ﬁrst since
+iShunt = iRadiation – iLoad.
+
+Since the magnitude of drift velocity of the ions is |v1(x)| = µ1E(x) and |v2(x)| = µ2E(x), as R is reduced,
+VLEC and E(x) are also reduced which results in a decrease in drift velocity. This in turn leads to an increase in the
+time that the positive and negative ions have to recombine and no longer contribute to the cell’s conduction. This
+is shown in Fig. 9 as a reduction of the measured IRadiation(R, T ) for small R. Observe that I(R, T ) may vary
+for small R so select its maximum value Imax. Assume that there is no space charge, i.e., from Gauss’ law, div
+E(x) = ρ/ε = e(n1 − n2)/ε = 0, where E is the electric ﬁeld, ε is the permittivity of the gas and ρ is the volume
+charge density or charge per unit volume. Rewrite the left-hand side of equation (4) in terms of iRadiation as
+(iRadiation/e) = (Imax + epsilon)/Se = nAverage
+
+Figure 13. Plot of the predicted shunt current by Thompson (Red) which does not include the diffusion terms and experimental data which includes
+diffusion.
+
+where in CGSA units 6.2415 × 1018 ≈ 1/e, e := 1.602176634 × 10−19 A ·A s is the elementary charge, Imax [A] is
+the measured LEC cell’s load current when VLEC[V ] ≈ 0, epsilon is a small number, S [cm2] is the cross-sectional
+area of the conduction path, n [ip · cm−3] is the average ion-pair density nAverage = ∫ L
+0 n(x)dx/L. The geometry is assumed to be plane-parallel electrodes since this last assumption can be corrected by a change of variables [32] and
+usually is a small error even if not corrected.
+
+The cell’s internal shunt current density, ishunt(R) may be found by subtracting iload(R) from irad = Imax/S after
+adding a small number, epsilon, to irad in order to be able to make a semilog plot of ishunt(R) versus R without
+encountering a zero value of ishunt(R). An estimate of the error made in assuming that there is no space charge can be
+made by calculating a hypothetical ihypot(R) = nhypot·U·VLEC(R) and varying nhypot until it overlays ishunt(R). This
+is shown in Fig. 13. That the ion density n ̸= nhypot is different in the two calculation is the result of Thomson’s [12]
+and Mie’s [22] ﬁnding that when there is space charge E ̸= V/L.
+
+The LEC’s power, P(R, T), delivered to the effective load resistance, R = RLoadRDVM/(RLoad + RDVM), at
+temperature T is just P(R, T ) = VLEC2/R. Figure 10 experimentally illustrates this behavior, and the value of
+maximum power occurs at an intermediate value of load resistance.
+
+
+5. LEC performance observations
+
+Although both the origin as well as the nature of the LEC radiation that ionizes the gas and provides the measured
+spontaneous voltage and current is unknown, certain observations about the performance of a LEC can be made. Some
+observations about LEC performance include:
+(a) a necessary but not sufﬁcient condition for sustained LEC operation is that the working electrode must be com-
+prised in part of hydrogen-occluded hydrogen host material that is in ﬂuidic contact with a gas containing hydrogen;
+(b) hydrogen host material lattice vacancies, superabundant vacancies, and other defects such as those produced
+during co-deposition of Pd or Fe from an aqueous solution have been shown to produce ionizing radiation from an
+active working electrode;
+(c) a necessary condition is that the gas be comprised in part of hydrogen, or its non-radioactive isotope deuterium,
+although sustained conduction at a low level has been observed in air indicating that the amount of hydrogen may not
+need to be large;
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+(d) reconnecting the electrodes from that shown in Figure 2 to reverse the polarity of the electrical potential,
+e.g.
+high voltage supply connected to the working electrode and load resistance connected to the counter elec-
+trode, causes a temporary increase in conductivity but does not appreciably change the long term steady state
+conductivity;
+(e) voltage induced conduction experiments using deuterium gas at T ≈ −55 ◦C show that ions in the gas due to
+relative humidity are not causing the conduction since at this temperature the number of water (D2O) ions is completely
+negligible;
+(f) corona discharge cannot be responsible for the conduction since both the electric ﬁeld due to the spontaneous
+voltage is too low to produce corona discharge [Peek 1929] and the gas pressures, typically ∼500 Torr to ∼3 bar is too
+great for a discharge;
+(g) thermal ionization of the gas is not responsible for the LEC conduction since both reported data [34] and Saha’s
+equation [35] shows that temperatures greater that approximately 2000 K would be needed;
+(h) natural ionizing radiation from cosmic rays, the environment, or from the small amount of radioactive isotopes
+in the hydrogen host material or from tritium in the hydrogen gas cannot be the source of the ionization of the gas since
+an experiment where the working electrode was bare but contained approximately 6 µCi (∼ 90 % α and ∼10 % γ) of
+radiation did not produce measurable conduction from the ions produced by the α-particles or from the photoelectric
+effect due to the γ-radiation produced by the WE;
+(i) after extensive testing, Rout, et al. [36] were unable to identify the speciﬁc ionization that was fogging the
+ﬁlm and ultimately, “proposed that some new, unknown agency emitted from the loaded palladium is responsible for
+fogging.”
+Possible physical mechanisms that might produce the initial ionizing radiation at the working electrode include:
+(a) thermally induced vibration of the hydrogen host material’s lattice enhanced by nonlinear wave-wave mixing
+in conjunction with the presence of hydrogen occluded in lattice vacancies near the surface of the hydrogen host
+material;
+(b) thermally induced interaction between multiple occluded hydrogen atoms contained within a vacancy particu-
+larly when different nuclear spin orientations are present or between an occluded hydrogen atom in the vacancy and a
+hydrogen host material’s atom.
+
+
+6. Conclusions
+
+A number of LEC devices have been constructed including independent replications which produce spontaneous volt-
+age and current. Although the measurements only consist of the voltage as a function of time and temperature produced
+across various load resistances the following conclusions can be drawn from an extended mathematical analysis of the
+measurements:
+(a) the spontaneous current produced by a LEC is essentially constant and is primarily due to the diffusion of ions.
+This diffusion induced current can be measured when the LEC voltage is minimized by resistance loading of the cell
+and the corresponding ion concentration can be estimated using an induced conduction test and measuring the voltage
+at which the induced current goes to zero as shown in Fig. 5;
+(b) From the theory of the Conduction of Electricity through Gases it is known that in the absence of emitted
+particles, e.g., radioactive decay particles, thermal electrons, or photo-electric effect electrons, the gas must be ionized
+and the average ionization density can be calculated. This historical theory may also be used to estimate the shunt
+current in the cell due to the ion mobility and the electric ﬁeld and can be estimated, as a function of temperature,
+based on the measured current-voltage (I-V) characteristics as shown in Fig 9;
+(c) for a Pd-H LEC at 185 ◦C ion average densities greater than 1010 ion-pairs (ip) per cubic centimeter have been
+calculated from experimental measurements;
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+(d) at a ﬁxed temperature the magnitude of the spontaneous current ﬂowing in an attached load resistance decreases
+at the same time that the shunt current increases due to a voltage increase with increasing load resistance value. Thus,
+the maximum power that can be drawn from a LEC occurs at some intermediate resistance value as shown in Fig 10.
+
+
+References
+Y. Fukai, The Metal-Hydrogen System, Second Edition, (Springer, 2005).
+F.A. Lewis, The Palladium Hydrogen System, (Academic Press, 1967).
+F.A. Lewis,
+The Palladium Hydrogen System,
+Platinum Metals Rev. 26(1) (1982) 20-27,
+Also available at
+https://gsvit.ﬁles.wordpress.com/2014/01/platinum-metals-the- palladium-hydrogen-system.pdf
+H. Sainte-Claire Deville, L. Troost, Sur la Perméabilité du Fer à Haute Température, [On the Permeability of Iron at High
+Temperature ], Comptes rendus, 57 (1863) 965-967.
+T. Graham, On the Occlusion of Hydrogen Gas by Metals, Proc. Roy. Soc., 15 (1868) 422-427.
+H. Mehrer, Diffusion in Solids, (Springer, 2007).
+J.P. Biberian in private communication with F E Gordon and also in his presentation at the French RNBE 2020 Conference,
+21 November 2020.
+J.J. Thomson, E. Rutherford, XL. On the Passage of Electricity through Gases exposed to Röntgen Rays, Phil. Mag. S5 42
+(1896) 392-407.
+J.J Thomson, The Discharge of Electricity Through Gases. (Archibald Constable & Co., Westminster, UK, 1898), reprinted
+(Charles Scribner’s Sons, New York, 1903).
+[10] J.J. Thomson, XIX. On the theory of the conduction of electricity through gases by charged ions, Phil. Mag. S5 47:286 (1899)
+253-268. Also available from https://zenodo.org/record/2226317#.YFFzOriZegc
+[11] J.J. Thomson, Conduction of Electricity Through Gases, (Cambridge at the University Press, 1903).
+[12] J.J. Thomson, Conduction of Electricity Through Gases, (Cambridge at the University Press, 1906), Also avail-
+able from https://books.google.com.py/books?printsec=frontcover&dq=editions:ISBN117762950X&id=_8RzAAAAIAAJ&
+output=text
+[13] J.J. Thomson, G.P. Thomson, Conduction of Electricity Through Gases, 3rd edn. Vol. I, General Properties of Ions, Ionization
+by Heat and Light, (Cambridge at the University Press, UK, 1928).
+[14] J.J. Thomson, Conduction of Electricity Through Gases, 3rd edn. Vol. II, Ionization by Collision and the Gaseous Discharge,
+(Cambridge at the University Press, UK, 1933).
+[15] JSE Townsend, Electricity in Gases, Chapter III, (Oxford at the Clarendon Press, UK, 1915).
+[16] K.K. Darrow, Electrical Phenomena in Gases, (The Williams & Wilkins Co. Baltimore, MD, 1932). Also available on line at
+Google Books.
+[17] L.B. Loeb, Fundamental Processes of Electrical Discharges in Gases, (John Wiley & Sons, 1939).
+[18] L.B. Loeb, Basic Processes of Gaseous Electronics, (University of California Press, 1960).
+[19] H. R. Carlon, “Electrical Conductivity and Infrared Radiometry of Steam,” US Army Armament Research and Development
+Command, ARCSL-SP-80006, Apr 1980.
+[20] O. Vekilova, D.I. Bazhanov, S. Simak, I Abrikosov, First-principles study of the vacancy-hydrogen interaction in Pd, Phys.
+Rev. B 80(2) (2009) 24101. Also available from http://urn.kb.se/resolve?um=urn:se:liu:diva-19890
+F.E. Gordon and H.J. Whitehouse / Journal of Condensed Matter Nuclear Science 35 (2022) 30–48
+[21] E. Riecke, Über näherungsweise gesättigte Ströme zwischen plan-parallelen Platten [About approximately saturated currents
+between plane-parallel plates], Nachrichten von der Gesellschaft Wissenschaften zu Göttingen [News from the Society of
+Sciences in Göttingen], Available at https://gdz.sub.uni-goettingen.de/id/PPN252457811_1903
+[22] G. Mie, Der elektrische Strom in ionisierter Luft in einem ebenen Kondensator [The electric current in ionized air in a
+plane capacitor], Annalen der Physik, Vierte Folge, Band 13 5 857-889 Also available from https://www.semanticscholar.org/
+paper/Der-elektrische-Strom-in-ionisierter-Luft-in-einem-Mie/303d7417bccc82df50c510294b659c325aaca920 click on the
+(pdf) zenodo.org link
+[23] R. Papoular, Electrical Phenomena in Gases, Chapter 10, (American Elsevier Publishing Company, Inc., New York, 1965),
+First published in France in 1963 by (Dunod, Éditeur, under the title Les Phénomènes Électriques dans les Gaz, 1963)
+[24] JJ Thomson, III Electric Conduction through Gases, Encylopædia Britannica, Vol 6, 1911.
+[25] F.W. Peek Jr, Dielectric Phenomena in High Voltage Engineering, (McGraw-Hill 1929).
+[26] B.B. Rossi, H.H. Staub, Ionization Chambers and Counters, McGraw-Hill Book Co. 1949).
+[27] H. Gerdien, Ein neuer Apparat zur Messung der elektrischen Leitfähigkeit der Luft [A new device for measuring the conduc-
+tivity of air] (1905) Göttingen, K. Nachr . Ges . Wiss . Mathem.physik. Kl. 1905.
+[28] D. Novkovi´c et al., Numerical solutions of differential equations of a cylindrical ionization chamber, Phys. Med. Bio. 41
+(1996) p. 725.
+[29] D. Novkovi´c et al., Numerical solutions of differential equations of an ionization chamber: plane-parallel and spherical
+geometry, Phys. Med. Bio. 43 (1998) 559-575.
+[30] D.G. Stoyanov, Current-voltage characteristic of parallel-plane ionization chamber with inhomogeneous ionization, JINST 2
+(2007) P08007. Also available at https://arxiv.org/ftp/arxiv/papers/0706/0706.3913.pdf
+[31] D.G. Stoyanov, Analytical form of current-voltage characteristic of parallel-plane, cylindrical, and spherical ioniza-
+tion chambers with homogeneous ionization, JINST 2 (2007) P11006. Also available at https://arxiv.org/ftp/arxiv/papers/
+0708/0708.0409.pdf
+[32] P.A. Tate, P.C. East, The Saturation Curve in Ionization Chambers, Report No. 355, Defence Research Chemical Laboratories,
+(1961) Ottawa Canada.
+[33] W. Binks, Energy per Ion Pair, Acta Radiologica, 41:sup1 17 (1954) 85-104.
+[34] J.M. Yos, Transport Properties of Nitrogen, Hydrogen, Oxygen, and Air to 30,000◦K, Technical Memorandum RA-TM-63-7
+(AD-435053) 22 Mar 1963 Also available at https://apps.dtic.mil/sti/pdfs/AD0435053.pdf
+[35] D.J.
+Jeffery,
+An
+Educational
+Note
+on
+the
+Saha
+Equation
+and
+its
+Solution
+for
+the
+Ionization
+State
+of
+a
+Gas,
+Available
+at http://www.physics.unlv.edu/∼jeffery/astro/educational_notes/100_saha.pdf
+Also see Anonymous,
+https://www.astro.princeton.edu/∼gk/A403/ioniz.pdf
+[36] R. K. Rout, et al., Reproducible, anomalous emissions from palladium deuteride/hydride. Fusion Technol., 1996. 30: p. 273.

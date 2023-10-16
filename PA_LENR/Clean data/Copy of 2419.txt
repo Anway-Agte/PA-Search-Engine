@@ -1,0 +1,437 @@
+i
+i
+nulear well
+crystal well
+U
+r
+1. Introduction—Imaginary Part of Potential Well
+
+The selective resonant tunneling model has been successful in calculating three major
+fusion cross-sections (d+t, d+d, and d+3He) in terms of an imaginary part in a nuclear
+potential well [3,4]. In this paper we introduce another imaginary part in the crystal
+potential well, in order to describe the deuterium-loading effect in experiments. It is
+found that this imaginary part in the crystal potential well facilitates the description of the
+current conservation, and the steady-state requirement of resonant tunneling.
+
+“Excess heat” is a major anomalous phenomenon in deuterium-loaded metals. Various
+calorimeters have been used to detect this excess heat; however, all the calorimeters have
+a time constant which is on the order of 100 seconds or more. This means that if the
+excess heat is a result of resonant tunneling, we have to have steady-state resonant
+tunneling in order to detect the excess heat in a calorimeter. In the case of a beam-target,
+this steady-state is maintained by an injected beam. Any absorption of the injected wave
+in the nuclear potential well is balanced by the probability current of the plane wave
+which is coming from infinity. Now in the case of the confined particle in a lattice
+potential well, we have to supply the particle in the lattice potential well in order to
+compensate for the absorption in the nuclear potential well. In experiments, this
+supplement is maintained by deuterium-loading in terms of electrolysis or gas loading
+procedures. The simplest way to describe this deuterium-loading effect is to introduce an
+imaginary part in the crystal potential well. That is
+
+Here, U1i and U2i are the imaginary part of the potential in the nuclear well and the crystal
+well, respectively; and (r) is the reduced radial wave function of the confined deuteron
+wave (Fig. 1). In order to solve the Schrodinger equation for (r) it is necessary to
+assume the potential well in the regions I, II, and III respectively (Fig. 1). We shall find
+that a pair of specific values for the imaginary part of the potential well, U1i and U2i, will
+make the tunneling current maximized.
+
+
+2. Model—Eigenequation
+
+A deep square-well is assumed for the nuclear potential well in region I; and a down
+shifted Coulomb potential is assumed in region II in order to show the repulsion between
+two positively charged nuclei and the electron screening effect in metal. Beyond region II,
+the potential is assumed to be constant in order to confine the charged particle and show
+the effect of reflections in the lattice potential well.
+
+To satisfy the boundary conditions at r =0 and r =, the reduced radial wave function
+in region I, II, and III should be in the following form:
+
+Figure. 1. A square nuclear well is surrounded by a Coulomb barrier. The Coulomb potential
+is shifted down by Usc, the screening potential. It forms a lattice well on the right of the
+Coulomb barrier.
+
+Here, the wave number in each region is defined by the potential U1, U2, and U3 as:
+For simplicity, we have assumed U3r=0, and U3i=U2i. F0(r), and G0(r) are the regular
+and the irregular Coulomb wave function, respectively [5]. For the low incident energy,
+only the lowest partial wave (S-wave) is considered here. The potentials are assumed to
+be isotropic. K is the phase shift, and Tan(K) is the coefficient of the linear combination
+for the wave function in region II. A, B, and D are the normalization constants in each
+region, respectively.  is the reduced mass of the two interacting charged particles,  is
+the Planck constant divided by 2. The continuity of the logarithmic derivative at r = r0,
+and r = r1, will give two equations for Tan(K). They are:
+
+Here,Fo '( )r denotes the derivative of Fo(r) with respect to r. Equations (6) and (7) give
+two expression for Tan(K):
+Tan(K) represents the coefficient of the linear combination in wave function II(r). It
+gives the eigenequation:
+
+It is noticed that r0 is much smaller than ac. is the Coulomb unit of length for
+the two charged particles with electrical charge of z1e and z2e, i.e. the Coulomb potential
+is much greater than the kinetic energy of the relative motion between two particles.
+Hence, Fo(r0) is exponentially small, and Go(r0) is exponentially large. We may write [6]
+
+Here, C2 is an exponentially small number
+which is called as Gamow penetration factor:
+
+Here, e is the absolute value of the electron charge; v is the speed of relative motion
+between two particles. Using Eqs.(9) and (10) , the eigenequation (8) leads to a relation
+between two time scales life1 and life2 (See Appendix (A.6)):
+
+Here, life1 and life2 represent the life-time of deuteron in the nuclear potential well and in
+the lattice potential well, respectively. They are defined as:
+
+life1 and life2 measure the rate of nuclear reaction in the nuclear potential well, and the
+rate of deuteron-loading in the lattice potential region, respectively.
+
+N and L represent the flight-time of deuteron bouncing back and forth in the nuclear
+potential well and in the lattice potential well, respectively. They are defined as
+
+k1r and kr are the real part of the wave number k1 and k, respectively.
+
+
+3. Probability Current Conservation—Requirement of a Steady State
+
+Tunneling current is the most important physical quantity in the case of resonant
+tunneling through Coulomb barrier by confined particles in lattice well. The normalized
+tunneling current is defined as
+
+Because of the probability current conservation for a steady state, it may be written as:
+Use has been made of the equation:
+Consequently,
+This is the most important result in this paper which gives the normalized tunneling
+current in the case of resonance. It involves the selectivity of life-time also.
+
+
+4. Selectivity in Resonant Tunneling—Matching Loading Rate with Life-Time
+
+This normalized tunneling current shows clearly the selectivity in resonance: it has a
+peak at life1 When life1 or life1, this normalized tunneling current j would
+approach to. It would be much smaller than the peak value jmax .
+
+The resonance would increase the tunneling current by a factor of  at the specific life-
+time, life1, with a narrow width. Figure 2 shows the peak-wise behavior for the
+case of. It is noticed that this long life-time reaction rate is in the range of weak-interaction
+(life1~104 sec.). The electromagnetic interaction and the strong nuclear interaction are too
+rapid to have any detectable tunneling current (Fig. 2).
+
+
+5. Discussion
+
+Based only on the general Principle of Quantum Mechanics, we have proved that:
+
+(1) Resonant tunneling selects not only the right energy level, but also the reaction rate
+in the nuclear potential well. Only if the life-time in the nuclear potential well is on
+the order of. There will be a maximized tunneling current which will be greater than that of non-
+resonance case by a great factor of .  is on the order of 1023 or more. It is different
+from the beam-target case, where the resonant tunneling would select the life-time in
+the nuclear potential well on the order of
+life1
+
+(2) In the case of confined deuterons in the lattice potential well, the resonant tunneling
+selects the loading-time in the lattice potential well also in order to keep a steady
+state. This means that there is a matching loading rate which allows a resonant
+tunneling in a steady state. This point is important in carrying out any
+experiment with detectable excess heat.
+
+(3) This selectivity in resonant tunneling implies a specific linear combination of wave
+functions. It is neither a pure molecular state in lattice potential well (i.e. not the pure
+Fo(r)), nor a pure excited nuclear state of 4He*(i.e. not the pure Go(r)). It is a mixture
+of both molecular state in lattice potential well and the pure excited nuclear state of
+4He* (i.e. the linear combination:
+). This coefficient, Tan(K),
+cannot be zero; but it also cannot be too large. It should be on the order of (1/ ) in
+order to have a maximized resonant tunneling current. This long-life-time state has
+been confirmed in experiment by 3-deuteron fusion reactions. [8,9,10,11]
+
+(4) The electron screening effect is dependent on the temperature of the deuterium-
+loaded metal [12,13]; hence, the  factor is a function of temperature as well. Hence,
+in the experiment we should control not only the loading rate but also the
+temperature in order to maintain the resonant tunneling state.
+
+(5) In the early literature after 1989, the concept of fusion cross-section was used
+without any consideration of the difference between the beam-target case and the
+lattice confined case. In this paper we introduced an important physical quantity,
+tunneling current j, to replace the concept of the fusion cross-section. In terms of
+maximization of this tunneling current, we obtain the matching condition for
+resonant tunneling. This matching condition includes both the energy level and the
+reaction rate.
+
+
+References
+
+[1] G. Gamow, F. Houtermans,”Zur Quantuenmechanik des radioaktiven Kerns,” ZS. F.
+Phys. 52, 496 (1928) .
+[2] Eugen Merzbacher, “The Early History of Quantum Tunneling,” Physics Today, p.44,
+August (2002)
+[3] Xing Z. Li, Jian Tian , Ming Y. Mei and Chong X. Li, “Sub-barrier Fusion and
+Selective Resonant Tunneling,” Phys. Rev. ,C 61, 024610 (2000)
+[4] Xing Z. Li, Bin Liu, Si Chen, Qing Ming Wei, and Heinrich Hora,”Fusion cross-
+sections for inertial fusion energy,” Laser and Particle Beam, 22,469 (2004)
+[5] Milton Abramowitz, and Irene A. Stegun, Handbook of Mathematical Functions,
+National Bureau of Standards, tenth printing 1972, p.537.
+[6] H.A. Bethe, C.L. Critchfield, “The Formation of Deuterons by Proton Combination,”
+Phys. Rev. 54, 248 (1938)
+[7] Ya. B. Zel’dovich, and S.S. Gershtein, Soviet Phys. Usp. 3,593 (1961)
+[8] J. Kasagi, et al., “Observation of High Energy Protons Emitted in the TiDx+D
+Reaction at Ed=150 keV and Anomalous Concentration of 3He,” Third International
+Conference on Cold Fusion, "Frontiers of Cold Fusion". 1992. Nagoya Japan:
+Universal Academy Press, Inc., Tokyo, Japan p.209.
+[9] J. Kasagi, et. al., “Energetic Protons and Alpha Particles Emitted in 150-keV
+Deuteron Bombardment on Deuterated Ti,” J. Phys. Soc. Japan, 64(3), 778 (1995)
+[10] A. Takahashi, et al., ,”Anomalous enhancement of three-body deuteron fusion in
+titanium-deuteride with low-energy D+ beam implantation,” Fusion Technol., 34,
+256. (1998)
+[11] A.Takahashi, et al., “Studies on 3D Fusion Reactions in TiDx under Ion Beam
+Implantation,” Proceedings of the tenth International Conference on Cold Fusion, 24-
+29 August, 2003 Cambridge,USA, Edited by P.L. Hagelstein and S. R. Chubb,
+World Scientific (2006) p.657.
+[12]F. Raiola, et al., “Enhanced electron screening in d(d,p)t for deuterated metals,” Eur.
+Phys. J. A 19, 283(2004)
+[13]S. Zeng, et al., “Temperature Dependence of Electron Screening at Low Energy,”
+High Energy Physicsand Nuclear Physics (in Chinese),Vol.29, No.12, 1131 (2005)
+Appendix A. Eigenequation
+The eigenequation of this potential well in Fig. 1 will lead to both the constraints of the
+energy level, E, and the constraints of the life-time of the nuclear state.
+Let us first write the eigenequation in the form of
+cot(
+cot(
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+F
+r
+F r
+k
+k r
+G r
+F
+r
+F r
+G
+r
+G r
+k
+k r
+F r
+G
+r
+G r
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A.1)
+The advantage of this form is: (1) the left-hand-side is mainly a function of k1 only, and
+the right-hand-side is a function of k and k3 only; (2) it clearly shows the big factor,
+o
+o
+o
+o
+G r
+F r
+ 
+
+, which determines the constraints on the solution of this eigenequation. In
+order to satisfy this eigenequation, we have to have:
+cot(
+o
+o
+o
+o
+o
+o
+o
+G
+r
+G r
+k
+k r
+F
+r
+ F r
+
+
+
+
+
+(A.2)
+When we introduce the imaginary part of potential well in nuclear region and in crystal
+region, it can be expand as
+cot(
+cot(
+N
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+life
+o
+L
+o
+o
+o
+o
+o
+o
+life
+d
+G
+r
+G r
+k
+k r
+i
+G
+r
+G r
+k
+k r
+d k r
+d
+F
+r
+F r
+i
+F
+r
+F r
+d kr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A.3)
+The suffix “o” after the square-brackets means the real part of the content in the square-
+brackets.
+Now we may find the condition of resonance: i.e.
+cot(
+o
+o
+o
+o
+o
+o
+o
+o
+o
+G
+r
+G r
+k
+k r
+F
+r
+F r
+
+
+
+
+
+
+
+
+(A.4)
+And the constraint on life-time:
+N
+L
+life
+life
+
+
+
+
+ 
+(A.5)
+or
+life
+life
+N
+L
+
+
+   
+(A.6)
+If only one of the two factors in (A.4) equals zero; then, we have
+life1
+N
+
+  
+(A.7)
+or
+life2
+L
+
+  
+(A.8)
+In both cases, we have
+j
+
+ 
+
+(A.9)
+Consequently, only if the energy level satisfies the resonant condition, (A.4 ), and the
+loading rate satisfies the matching condition,
+life
+life
+N
+L
+
+
+  
+
+
+(A.10)
+We shall have the maximized tunneling current
+max
+N
+L
+j
+
+  
+
+
+(A.11)

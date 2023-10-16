@@ -1,0 +1,317 @@
+1. Introduction
+
+Since 1989 the activity on cold.fusion is mostly oriented to understand the 
+true nature of the observed phenomena: if they are due to artifacts and/or known 
+chemical and physical effects or they belong to a category of new phenomena which 
+open a very interesting window in the physics of the condensed matter. 
+
+The continuous improvement done on our experimental set-up is a clear 
+evidence that our activity follows this guideline. In this framework, we moved and 
+are still moving to design an experiment in which as many as possible independent 
+variables can be measured in situ and at the same time in a multicell F&P-like 
+experiments. 
+
+Aim of this contribution is to show our recent results obtained in an improved 
+experimental set-up which has been modified expecially in the parts of neutron 
+detection and treatment of electrolysis gases before sampling for 4He mass­
+spectrometric dete1mination. 
+
+
+2. Methods
+
+We will limit to describe only the parts which were changed or added with 
+respect to our previous expe1iments reported in literaturel-2_ 
+The flow-chait characterizing each cell is repmted in figure 1 below. 
+
+Figure 1. Flow-chart of one cell apparatus. 
+
+Electrochemical Cells 
+Heat excess is measured in a non-adiabatic calo,imeter-electrochemical cell 
+through the compa,ison with the the,mal and electrochemical calibration curves 
+obtained, using Au or Pt cathodes, in the same expe,imental conditions in which the 
+expe,iment is then canied out. Cell geometry and can-ier gas bubble stining allow to 
+take into consideration only the the1mal gradient on the plane orthogonal to the z-axis, 
+so the calibration curve, obtained as a sequence of stationary states at constant input 
+power values, Pin, is linear according to equation !ff= Pi0/k. LlT = Ts - 1:i and 1:i is 
+the temperature of the thermostated water circulating in the torus-shaped bath. The 
+heat excess is given by Pexc = Pout - Pin =l<LiT - Pin where LlT is now the value 
+measured in the experiment. 
+
+Features of such cells as calorimeters are: 
+• Mate1ials- body: glass, cap: teflon
+• Dimensions- inner 0 22 mm x 245 mm height
+• Minimum heat detectable: 0.5 + 1 W
+• Maximum Input Power: 50 W
+• Time constant: "' 350 s
+• Continuously fluxed under N2 (from LN2) at controlled flow-rate
+Features as electrochemical cells are: 
+• Electrolytic solution: 0.2 M LiOD(LiOH) in D20(H20)
+• Anodes: Pt wire 01mm shaped as cylind1ical coil (IO mm inner 0 x 20 mm height)
+• Cathodes: pure Pd centered in the z-axis of anode. Mostly shaped as 03mm rods
+subjected to different the1mal and/or mechanical treatments according to the
+procedures indicated below: 
+A.Heated under lxl()-6 mbar at 1050 °C for 24 h and cooled at 0.5 °C/min
+B.Screw dislocated by 3 rotations at room temperature
+C.Screw dislocated by 3 rotations in LN2
+D.Screw dislocated (0 .5 mm 0 wires) by 11 rotations at room temperature
+E.As received
+F.Edge dislocated under 104 kg for 15 h at room temperature
+G.Edge dislocated under 104 kg for 30 min in LN2
+Table I shows some characte1istics of the cathodes used in the expe1iment 
+here rep01ted. Cells #1 and #8 were used as blanks; the first one had a Au cathode 
+and in the second one the electolytic solution was LiOH in H20. Figure 2 shows, as 
+typical, the calibration curves obtained both in thennal and electrochemical mode. As
+already discussed, in p1inciple, both the calibration curves should be supe1imposed. 
+Slight differences can be observed due to the different location in the cell of the heat 
+sources (heater in the the1mal mode, electrodes in the electrochemical one). Each cell 
+indicated in Table 1 was calibrated in both the modes and in all the cases straight 
+lines, LlTi=(ajMaj)+(bjMbj)Pj11,were obtained. 
+ 
+Table 1. Characte1istics of the cathodes 
+
+Figure 2. Typical calibration curves obtained in thermal and electrochemical mode 
+
+In Table 2, the averaged coeffients between the two modes were reported for 
+each cell. 
+
+Table 2. Coefficients of the calibration curve e uations 
+ 
+In this section details are given for a procedure which is under development 
+in order to detect 4He in electrolysis gases. Present data refer to synthetic mixtures 
+modelling the expected ones. The Mass Spectrometer used is a Nuclide Analysis 
+Associates HT 7 (60°.12" radius) equipped with an electron impact ionization 
+source and a sixteen stages Cu/Be electron multiplier. The Knudsen cell molecular 
+source has been removed and replaced with a flange canying an inlet system via a 
+Balzers UDY 235 gas valve. The sample gas flows through the valve and a quarz 
+tubing inserted into the ion source; the resulting flux is colinear to the ion path. The 
+typical settings of the mass spectrometer main parameters are: 
+- electron ionization energy
+100 eV 
+- electron emission cuffent
+1.0 mA :
+- ion accelerating potential
+4510 V 
+- electron multiplier gain (mass 28)
+2.0x 105 
+
+For a given mass spectrometer, sensitivity is mainly affected by, on one hand, 
+the pa1tial pressure of 4He realized in the ionization chamber and, on the other hand, 
+the resolving power needed in order to discriminate between D2 and 4He peaks. A
+compromise must be reached. Indeed high partial pressures of 4He admitted to the 
+mass spectrometer imply, due to N2 and D2 in the can-ying gas, an overall high 
+pressure in the ionization chamber. As a consequence broadening of the mass peaks 
+occurs. This requires an increase of the resolution to be used which, in turn, reduces 
+the mass spectrometer sensitivity. 
+
+Neutron detector: 
+A new high efficiency neutron detector has been used in the present 
+experiment. It has been designed and manufactured, according to our specifications, 
+by Jomar Systems Division of Canbetrn Indust1ies Inc. Its design derives from 
+detectors developed for the passive assay of plutonium in solid waste drums through 
+non-destructive measurement system3 in the advanced version used by H. Menlove 
+also for cold-fusion expe1iments4. Complete descliption of the detector with its 
+perfmmances, experimental results and Monte Carlo simulations will be reported in a 
+paper in preparation; here we summaiize the main charactelistics. The new neutron 
+detector consists of 60 3He-proportional tubes of 41 cm active length, 2.54 cm
+diameter and 6 atm gas pressure. These tubes are embedded in a cylindrical 
+polyethylene moderator. The detector is segmented in twelve independent counters 
+consisting of five tubes each, a1rnnged in inner and outer rings of six counters. The 
+positions of the central tubes of each counter are stacked of half counter length 
+between the inner and outer ring (see Fig. 3). The torus containing the ten 
+electrochemical cells is suITounded by the detector and the localisation of the cell at 
+the migin of the neutron emission can be obtained through the analysis of the pattern 
+of the counts registered by the different twelve counters. 
+
+Figure 3. Neutron detector. Location of counters and cells. 
+
+If the emission is burst-like, the time correlated counts ( with time coITelation 
+consistent with the die-away time of the detector) should affect contiguous numbered 
+counters of the inner and outer rings facing the cell where the emission has occurred. 
+
+The efficiency of the detector measured with a source of Californium-252 
+placed in the different positions of the ten cells is 22%. The dependence of the 
+efficiency on the cell position is limited to less than 1 %. The counts are essentially 
+distiibuted among three or four contiguous numbered counters shared between inner 
+and outer tings. This disuibution should allow the identification of the emitting cell if 
+bursts of neutrons occur or if random generated emissions of neutrons happen at a 
+rate substantially higher than the background. In the present conditions of the 
+experiment the background of the whole detector is about 1 count/s that means about 
+0.3 counts/s in a group of four contiguous numbered counters. The signals from eacl :
+group of five tubes are processed by an AMPTEK A-111 hybrid charge-sensitive 
+pre-amplifier/discriminator5 that gives then, as output of the counter, both the digital 
+and the linear OR of the five tubes. The scheme of the electronics used to derive and 
+acquire the inf01mation from the detector is shown in Fig. 4. Digital output of each 
+counter is sent to two scaler one of which is read and reset at fixed time interval and 
+the other is read and reset only at the end of a rnn lasting several days. 
+
+Figure 4. Simplified scheme of neutron detector electronics 
+
+In parallel it is sent to a Pattern Unit in order to detect all the counters hired 
+within the time allowed by the acquisition cycle time (at present of the order of 1 ms) 
+Moreover it is used to have a logical OR of all the twelve counters. The logical OR i: 
+elaborated in order to measure with a TDC, for each neutron detected, the time 
+interval between it and the following one. The logical OR is also sent to the Jomar 
+JSR-12 Neutron Coincidence Analyzer6. The main purpose of the JSR-12 is to act a: 
+a filter in order to enhance the capability of detecting time-coll"elated counts through 
+its scaler R. In fact, each time a neutron is detected, a scaler T (Total) is incremented 
+by a single count and two intervals of time are opened. the first one staiting few µs 
+after the detection and the second after about 1 ms. In the first gate both random 
+neutrons and neutrons c01Telated with that one that has allowed the gate to be openec 
+are expected, while in the second gate only random neutrons are waited due to the 
+large interval of time elapsed in respect to the die-away time of the detector. The 
+counts in the first gate increment in non-linear way the R+A (Real + Accidentals) 
+scaler of JSR-12; while those in the second one increment the A scaler. The two gate 
+are opened for each neutron detected, then the increment of R+A is equal to the sum 
+of the neutrons detected in each opened gate. When N neutrons are emitted in a very 
+short time interval and all detected within the time interval of a single gate, the 
+increment of the R+A scaler is equal to N(N-1)/2. The comparison of R+A and A 
+scalers allows to estimate the number of correlated neutrons. The background value 
+of this R+A scaler during the expe1iment was about 0.5/min. i.e., about a factor 
+hundred less than the background value of total counter T. These counts are due 
+essentially to cosmic rays spallation neutrons. The background value of the A scaler 
+was a factor hundred less than the R+A value. 
+
+The twelve analogic signals from the twelve counters are amplified and then 
+sent to a linear fan in-fan out from which two linear OR of these signals come out. 
+The first one goes to a wave form digitizer, a digital oscilloscope, which pe1mits to 
+acquire the inf01mation on each pulse including the absolute time (given with a 
+precision of ns) and the wave fo1m; the second goes to an ADC that digitizes its 
+integral and sends the value obtained directly to a histogramming memory. Scaler , 
+pattern unit, TDC, ADC and histogramming memory are CAMAC modules and are 
+read through CAMAC BUS by a crate controller d1iven by a Macintosh II personal 
+computer through a GPIB IEEE port that drives also the oscilloscope. The computer 
+reads the pattern unit at each occurrence of CAMAC Look At Me (LAM) signal and 
+reads the histogramming memory and the scalers each ten minutes. The (LAM) signal 
+is emitted when the pattern unit has received at least one logic pulse from the detector. 
+Besides, in order to minimize the time spent in readout, the computer does not read 
+the oscilloscope until this has acquired a fixed number of pulses (block). This 
+number is limited by the storing capability of the oscilloscope and depends on the 
+choice of the number of points by which the pulse is digitized. Typical figures are: 
+l(X) points for each pulse and 1000 wavefmms/block acquired before the computer 
+reads the oscilloscope. 
+
+
+3. Results
+
+Calorimetry 
+In order to give a synthetic view of the calorimet1ic data, we will use Table 3 
+to summaiize the results obtained in all the cells and the related plots, assumed as 
+typical, will be shown only for cell #5. 
+
+Dming the expe1iment, lasted more than 650 h, the cuLTent applied to the 
+cells, which are connected in series, was changed both in step-fashion and modulated 
+high-low according to a square-wave. 
+ 
+Figure 5. A. Profile of the current throughout the experiment. B. Excess power 
+measured on cell #5. 
+
+Figure 5 shows the profile of the cmTent applied to the cells and the measured 
+excess power (cell #5) throughout the entire experiment. 
+
+The same excess power repo1ted in fig. 5 is co1Telated with the input power in 
+figure 6 below. In the same figure, the inset gives the i1T trend with respect to the 
+same power input range. 
+
+In Table 3 below, the integrated heat, Q, is calculated for 535 h where the heat 
+production was at sufficient rate. The column, cPexclPin)%, has to be intended as the 
+maximum yield found and, in column Pin, the con-esponding input power. For cells
+#1 and #8 any appreciable excess power was found. 
+
+Figure 6. Excess power as a function of input power, Pin, at cell #5. In the inset,
+i1T=Ts-Tj vs Pin compared with the calibration curve of cell #5.
+
+Table 3. Summar of excess data found 
+
+At present, the best sensitivity has been attained by valving off pumping in the 
+ionization region; pressure in this region, dming measurement, was 4xl()-5 mbar . 
+Typical resolution used, as from the half height measurement, is M/L1M = 930. 
+Attempts are cmTently being made in order to increase the ratio between 4He and the
+other gases admitted to the mass spectrometer by employing selective membranes. 
+Recent data confitm that our procedure allows to eliminate D2 from the electrolysis 
+gas mixture at least in the limit of the mass spectrometer resolution. More details will 
+be given in a paper in preparation. 
+
+Tritium measurements:
+As reported elsewhere1,2, our procedure allows to detennine tritium both in 
+the solution and in recombined gases. Figure 7 shows both the trends throughout the 
+expe1iment. To compare with respect to electrolytic enrichment, data are plotted 
+against the charged, fidt, passed through the cell at time t. 
+
+Figure 7. T1itium activity as measured throughout the expe1iment. Lower points 
+COITespond to the activity measured in recombined gases. 
+
+Neutron measurements:
+The analysis of all the infonnation acquired dming the expe1iment is still in 
+progress. No evidence of neutron emission has been found in the analysis of the total 
+counts integrated in 10 minutes time intervals. Even if our background level is very 
+high, we can exclude the occmTence in the present expe1iment of events generating 
+flux of thousands neutrons per second, seen in some previous expe1iment, lasting 
+even few seconds. 
+
+The analysis of the coITelated neutron events (R scaler) with the parallel 
+analysis of the pulses wave fonn has shown the occuITence of several events whose 
+pulse lasts for several hundreds of µs with overlapping of pulses and which give a 
+big increment of the R scaler. The characte1ization of such anomalous events is still 
+underway, aiming to check the digitized wavef01m of all the pulses acquired dming 
+all the ten minutes time intervals in which a value of R different from the background 
+value has been found. Such analysis is extended also to characterize sporadic events 
+occmTed dming the background acquisition with abno1mal R scaler increment, in 
+order to asses or reject a possible different nature between the events occmTing when 
+the electrolysis process is active from those occuning when the process is stopped. 
+
+
+4. Discussion
+
+We briefly discuss the main aspects emerging from the above results. A more 
+detailed discussion will be given elsewhere. Concerning the heat excess, we observe 
+that we found, in a quite reproducible way with respect to our previous findings2, a 
+st1ict coITelation of heat excess from the applied input power. As it appears from Fig. 
+6, the excess power is an increasing function of the input power. This behaviour is 
+broken all the times the cuITent is set to zero (see also Fig. 5). This seems to be in 
+agreement with the hypotheses that cold.fusion is feasible only if the O/Pd ratio is 
+above a certain c1itical value and the loading of Pd by D is a process occuning under 
+a gradient of electrochemical potential, as already pointed out in literature 7. We can 
+also observe that the maximum value of the excess power yield is located in the input 
+power range from 20 to 25 W (see Table 3) and this is associated both to the 
+maximum excess power and a given current modulation, as repo11ed for cell #5, in 
+fig.5A,B. In fact, from the same figure, we can observe that excess power is 
+particularly enhanced from the pe,iod of the current modulation instead of its 
+amplitude. This is consistent with D diffusion time into Pd, == x2/d (x=f/J/2 in our 
+samples, d=diffusion coefficient). Therefore, in the procedure adopted, we obtained 
+that the maximum of excess power as well as the maximum LiT did not correspond to 
+the maximum value of the input power. This, if further confiimed, seems to be 
+promising to develop the principles for practical applications of the cold.fusion. 
+
+Concerning the production of nuclear particles, the present preliminary results 
+seems to confiim both our previous results2 and the general trend of cold.fusion 
+expe,iments in which the nuclear paiticles are not systematically observed as expected 
+by the scheme of the plasma fusion reactions, if compared to the excess heat found. 
+This is still the main question to which a satisfactory answer has not yet given. As 
+shown in this Conference and in literature fmther experiments are still needed to 
+confinn 4He production associated to the excess heat. Our efforts are also oriented to 
+give cont1ibutions accordingly. 
+
+
+References 
+Gozzi D. et al., 1992, J Fusion Technology. 21, 60
+Gozzi D. et al., Multicell Experiments for Searching Time-Related
+Events in Cold Fusion, Proc. 2nd Int. Conference on Cold Fusion,
+Villa Olmo, Como, June 29 - July 4, 1991, 1991, Conference Proceedings
+33, 21, Societ.a ltaliana di Fisica, Bologna
+Birkhoff G., Bondar L., Ley J., Berg R., Swennen R., Busca G., " On the
+Detennination of the Pu-240 in Solid Waste Containers by Spontaneous
+Fission Neutron Measurements. Application to Reprocessing Plant Waste."
+Joint Nuclear Research Center lspra Establishement, 197 5, EUR 5158e;
+Bohne! K., "Die Plutoniumbestimmung in Kerbrennstoffen mit der
+Neutronen Koinzidenzmethode." Kernfoschungzentrum Karlsruhe, 1975,
+KfK 2203
+K1ick M.S. and Menlove H.O., "The High-Level Neutron Coincidence
+CounLer 
+(HLNCC): User's Manual." Los Alamos Scientific Laboratory,
+1979 LA-7779-M
+Menlove H.O. and Miller M.C., 1990, Nucl Instr and Meth A299, 10
+Swansen J.E., 1985, Nucl.Instr.and Meth. B9, 80
+Swansen J.E., Collinsworth P.R. and Krick M.S., 1980, Nucl Instr.and
+Meth. , 176, 555; Menlove H.O. and Swansen J.E., Nucl Techn. 71,497
+Tomellini M. and Gozzi D., 1990, J. Materials Science Lett., 9, 836
+

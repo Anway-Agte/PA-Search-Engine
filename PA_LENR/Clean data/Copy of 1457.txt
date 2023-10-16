@@ -1,0 +1,571 @@
+The article that follows was written in 1994, and first appeared in The American 
+Scholar (vol. 63 p. 527).  In the three years since then much has happened, but little 
+has changed.  There have been reports of increasingly reliable production of excess 
+heat, and of the detection of 4He residue, and much more.  Nevertheless, the most 
+remarkable fact remains that cold fusion has neither been accepted by mainstream 
+science, nor has it withered away.  The general situation that the article describes still 
+seems to be in place today. 
+
+On 6-9 December, 1993, the Fourth International Conference on Cold Fusion 
+took place on the island of Maui, in Hawaii.  It had all the trappings of a normal scientific 
+meeting.  Two hundred and fifty scientists took part, mostly from the U.S. and Japan 
+(hence the site in Hawaii), but also a sprinkling from Italy, France, Russia, China and 
+other countries.  More than 150 scientific papers were presented on subjects such as 
+calorimetry, nuclear theory, materials and so on.  The founders of the field, Stanley 
+Pons and Martin Fleischmann, were in attendance and were treated with the deference 
+due their celebrity status.  Pons and Fleischmann carry out their research today in a 
+laboratory built for them in Nice, on the French Riviera, by TECHNOVA, a subsidiary of 
+Toyota.  At the meeting it was announced that the Japanese trade ministry, MITI, has 
+committed $30 million over a period of four years to support research on what was 
+delicately called “New Hydrogen Energy,” including Cold Fusion. 
+
+Contrary to appearances, however, this was no normal scientific conference.   
+Cold Fusion is a pariah field, cast out by the scientific establishment.  Between Cold 
+Fusion and respectable science there is virtually no communication at all.  Cold fusion 
+papers are almost never published in refereed scientific journals, with the result that 
+those works don’t receive the normal critical scrutiny that science requires.  On the 
+other hand, because the Cold-Fusioners see themselves as a community under siege, 
+there is little internal criticism.  Experiments and theories tend to be accepted at face 
+value, for fear of providing even more fuel for external critics, if anyone outside the 
+group was bothering to listen.  In these circumstances, crackpots flourish, making 
+matters worse for those who believe that there is serious science going on here. 
+
+The origins of Cold Fusion have been loudly and widely documented in the press 
+and popular literature.  Pons and Fleischmann, fearing they were about to be scooped 
+by a competitor named Steven Jones from nearby Brigham Young University, and with 
+the encouragement of their own administration, held a press conference on March 23, 
+1989 at the University of Utah, to announce what seemed to be the scientific discovery 
+of the century.  Nuclear fusion, producing usable amounts of heat, could be induced to 
+take place on a table-top by electrolyzing heavy water, using electrodes made of 
+palladium and platinum, two precious metals.  If so, the world’s energy problems were 
+at an end, to say nothing of the fiscal difficulties of the University of Utah.  What 
+followed was a kind of feeding frenzy, science by press conference and e-mail, 
+confirmations and disconfirmations, claims and retractions, ugly charges and 
+obfuscation, science gone berserk.  For all practical purposes, it ended a mere 5 weeks 
+after it began, on May 1st, 1989, at a dramatic session of The American Physical 
+Society, in Baltimore.   Although there were numerous presentations at this session, 
+only two really counted.  Steven Koonin and Nathan Lewis, speaking for himself and 
+Charles Barnes, all three from Caltech, executed between them a perfect slam-dunk 
+that cast Cold Fusion right out of the arena of mainstream science. 
+
+Before I go any further in telling this tale, I think I’d better come clean about my 
+own prejudices (those of us concerned about the issue of Conflicts of Interest in 
+academic life refer to this as “disclosure.”  It’s supposed to help protect us from sin).  
+The Caltech protagonists, Steve Koonin, Nate Lewis and Charlie Barnes, are not only 
+my faculty colleagues, I count them all among my personal friends of many years.  On 
+the other hand, there is a player on the other side of this game who is also one of my 
+oldest personal friends, and who is besides my long-time scientific collaborator.  His 
+story is one that, because it took place outside of the United States, was largely off the 
+radar screen of our journalists and popular authors.  Nevertheless, the story is worth 
+telling.  It shows at the very least that the frenzy that began in Utah was not an isolated 
+or unique phenomenon. 
+
+My friend, Professor Francesco Scaramuzzi is the head of a small low-
+temperature physics research group at a national laboratory in Frascati (a suburb of 
+Rome) Italy, run by an agency called ENEA, roughly analogous to our Department of 
+Energy.  It is possible within this agency for a scientist like my friend Franco to be 
+promoted to the rank of “Dirigente” (“Executive”).  The promotion would not change in 
+any substantial way his assignment or responsibilities, but it would carry with it very 
+substantial financial rewards and much prestige.  Although Franco was certainly one of 
+the laboratory’s more distinguished scientists long before Cold Fusion appeared on the 
+scene, he had not been awarded this promotion by 1989, when he was 61 years old.  
+The reason is that, in the corrupt Italian system that has collapsed only more recently, 
+these promotions were based on political affiliation more than scientific 
+accomplishment.  For every two Christian Democrats promoted, there would also be a 
+new Socialist, a Communist, and someone from one of the smaller parties among the 
+ranks of the “Dirigente.”  Franco had not been promoted because he refused to join a 
+political party in order to advance his professional career as a scientist.  Franco is, in 
+other words, a man of unflinching integrity. 
+
+On the morning of April 18th, 1989, Franco called to warn me that I would find his 
+picture in the New York Times the next day (I did).  He had just come out of a press 
+conference announcing the discovery of a new kind of Cold Fusion. 
+
+Like scientists everywhere, he had heard of the Utah announcement and decided 
+to give it a try.  He reasoned that electrolysis wasn’t really necessary.  It served only to 
+get deuterium (the hydrogen isotope in heavy water) to insert itself into the atomic lattice 
+of the palladium electrode.  He also thought it necessary that the system not be in 
+thermodynamic equilibrium.  He and his handful of young scientists and technicians 
+arranged to put some titanium shavings in a cell pressurized with deuterium gas 
+(titanium is both cheaper and easier to get hold of than palladium, and like palladium, it 
+is a metal that absorbs large quantities of hydrogen or deuterium into its atomic crystal 
+lattice).  Then they used some liquid nitrogen (a refrigerant readily available in any low-
+temperature physics laboratory) to run the temperature of the cell up and down, thus 
+creating thermodynamic disequilibrium.  The crude apparatus was not suitable for the 
+difficult measurement needed to tell whether any heat was being generated, but fusion 
+should produce neutrons (that is what Steven Jones had claimed to detect at BYU).  
+They got a colleague at the Frascati lab to set up a neutron detector near their 
+apparatus.  In the course of their experiments, they often detected nothing at all, but on 
+a couple of occasions, their detector indicated very substantial bursts of neutrons. 
+
+When the second positive result was discovered on April 17th, Franco decided 
+he had to inform the head of his laboratory.  In no time at all, he found himself in 
+downtown Rome, talking about it to the head of the entire national agency. 
+
+The agency ENEA had been without funding for four months.  The necessary   
+legislation was stalled in Parliament.  ENEA was borrowing money from banks to meet 
+its payroll.  All purchases were frozen.  Research was paralyzed.  To the politically 
+astute agency head, Scaramuzzi’s discovery was an opportunity not to be missed.  
+
+Franco agreed to a press conference, but only if he could give a full technical seminar to 
+his scientific peers first.  The seminar, hastily organized for that same day, was 
+crammed to the rafters with scientists from every laboratory in the Rome area, and was 
+even covered by the evening television news programs.  At the press conference the 
+next morning, Franco, stunned to find himself flanked by two Ministers of State, did his 
+best to behave with the utmost scientific objectivity and reserve, but it made not the 
+slightest bit of difference.  The story made headlines all over Italy.  Within days, 
+Parliament had approved financing for ENEA and Franco had been promoted to 
+Dirigente.  The agency was solvent once more, and Franco’s personal salary had 
+increased overnight from one that would be meager for an American post-doc to one 
+that would be generous for an American full professor. 
+
+He had also become the Italian Prometheus, stealing fire from the Sun.  My very 
+reserved, correct, self-effacing friend was a media celebrity, suddenly the most famous 
+scientist in Italy.  When I came to visit just a few months later, in the Summer of 1989, 
+he handed me two books, each two or three inches thick, of Xerox copies of his press 
+notices in Italy and abroad.  Although it happened far off-stage for most Americans, 
+what happened in Italy had mirrored in many important ways the feeding frenzy in the 
+United States. 
+
+For one thing, pecuniary motives had driven science out of the laboratory into the 
+blinding glare of publicity.  For another, the story instantly captured the public fancy.  
+Not only were the gallant scientists about to rescue us from the grips of the greedy oil 
+barons (the whole affair took place just shortly after the Exxon Valdez incident), the 
+story was spiced with lots of delicious ironies.  In America, mere chemists, spending 
+money out of their own pockets, seemed to have succeeded where arrogant physicists 
+spending hundreds of millions of dollars of public funds had conspicuously failed:  they 
+had produced controlled nuclear fusion.  The chemists had beaten the physicists, little 
+science had beaten big science, cleverness had prevailed over brute force, two humble 
+professors from Utah had won out over the aristocrats of bicoastal, non-Mormon 
+America.  (True, the two Utah professors, Pons and Jones were bitter rivals, Jones, the 
+only Mormon of the bunch, was a physicist, not a chemist, and Pon’s  partner 
+Fleischmann was not only an Englishman, but an FRS.  These were mere footnotes 
+however).  Much the same was true in Italy.  The dire straits of ENEA drove the story 
+out of the lab and into the headlines.  Not only had Cold Fusion been reproduced in 
+Italy, the Italian version was of an entirely new kind , “Fusione Fredda” or Cold Fusion 
+Italian Style was “dry fusion” i.e., without electrolysis.  True, Scaramuzzi was also a 
+physicist, not a chemist, but he did small, clever, low budget science in the Frascati lab, 
+which is better known for its hot fusion and synchrotron-type big science.  Suddenly, 
+Italy had more to give the world than sunshine and pasta.  An Italian scientific hero 
+strode the world stage (or so it seemed from inside Italy). 
+
+The Cold Fusion story seemed to stand science on its head, not only because it 
+was played out in the popular press without the ritual of peer-review, but also because 
+both sides of the debate violated what are generally supposed to be the central canons 
+of scientific logic.  Science in the 20th century has been much influenced by the ideas of 
+the Austrian philosopher, Karl Popper.  Popper argues that a scientific idea can never 
+be proven true, because no matter how many observations seem to agree with it, it may 
+still be wrong.  On the other hand, a single contrary experiment can prove a theory 
+forever false.  Therefore, science advances only by demonstrating that theories are 
+false, so that they must be replaced by better ones.  The proponents of Cold Fusion 
+took exactly the opposite view:  many experiments, including their own, failed to yield 
+the expected results.  These were irrelevant, they argued, incompetently done, or 
+lacking some crucial (perhaps unknown) ingredient needed to make the thing work.  
+Instead, all positive results, the appearance of excess heat, or a few neutrons, proved 
+the phenomenon was real.  This anti-Popperian flavor of Cold Fusion played no small 
+role in its downfall, since seasoned experimentalists like Lewis and Barnes refused to 
+believe what they couldn’t reproduce in their own laboratories.  To them, negative 
+results still mattered. 
+
+On the other hand, the anti-Cold Fusion crowd was equally guilty, if you believe 
+another of the solemn canons:  It is said in all the high school textbooks that science 
+must be firmly rooted in experiment or observation, unladen with theoretical 
+preconceptions.  On the contrary, however, the failure of Cold Fusion was due, above 
+all, to the fact that it was an experiment whose result was contrary to prevailing theory. 
+
+All parties agreed that, if Cold Fusion occurred in the experiments of Pons and 
+Fleischmann, Jones, Scaramuzzi and many others, the primary event would have to 
+have been the fusion of the two deuterium nuclei:  Deuterium nuclei repel one another 
+because of the electric force between them, but if they get close enough together they 
+fuse anyway because of what is called the “strong” (nuclear) force.  The laws of 
+quantum mechanics allow deuterium nuclei to fuse by accident every so often even if 
+they are not initially close together, but the probability of that happening is very small.  
+Suppose, for example, they are as far apart as the two deuterium nuclei normally are in 
+a deuterium molecule.  Then the probability of fusion is much too small to have 
+produced the alleged effects claimed by the Cold Fusioners.  There are two ways to 
+look at just how small the probability is.  At the inter-nuclear spacing in the deuterium 
+molecule, the probability is too small by forty or fifty orders of magnitude.  Physicists 
+love to throw around phrases like that one.  An order of magnitude means a factor of 
+ten.  Too small by forty or fifty orders of magnitude really means too small beyond 
+discussion, beyond imagination, almost beyond meaning.  On the other hand, that 
+probability is insanely sensitive to how far apart the nuclei are to begin with.  To 
+increase the probability by the requisite 40 or 50 orders of magnitude requires getting 
+the nuclei closer together by just one order of magnitude.  It is extremely difficult to 
+imagine how -- given the well-known forces involved --  they can be gotten closer 
+together by a factor of ten in an experiment on a table-top.  In fact, the whole purpose of 
+the hundreds of millions of dollars spent on hot fusion is to produce exactly that result.  
+Nevertheless, once we have been anesthetized by talking about 40 or 50 orders of 
+magnitude, the idea that a one order of magnitude gap might somehow be overcome is 
+not so hard to swallow. 
+
+Still the theoretical difficulties of Cold Fusion don’t end with getting the nuclei 
+somehow to fuse.  When two deuterium nuclei fuse, they momentarily form the nucleus 
+of the common isotope of helium, called helium-4.  When that happens, however, there 
+is so much excess energy in the reaction that the helium-4 almost always breaks up 
+immediately into two smaller pieces.  About half the time, a neutron pops out, leaving a 
+helium-3 nucleus.  The other half the time, a proton comes off, leaving a hydrogen-3, 
+also known as tritium, nucleus.  It also happens that, one time in a million, the helium-4 
+doesn’t break up at all.  Instead, an intact helium-4 nucleus goes zooming off, while 
+emitting a powerful gamma-ray photon.  In all cases, the two pieces go off in opposite 
+directions with lots of energy.   
+
+What you expect, then, is that about half the fusions will produce energetic 
+neutrons, and the other half will leave behind tritium as evidence they occurred.  In fact, 
+as we have already seen, neutrons were detected by Jones, Scaramuzzi and others, 
+and offered as evidence for Cold Fusion, but there were always far too few of them to 
+account for the amount of heat being claimed by Pons and Fleischmann (the heat would 
+presumably be the end-product of the energy carried away by the nuclear fragments of 
+the various reactions that could take place).  In fact, on the evening of the original Pons 
+and Fleischmann press conference, I ran into one of my buddies at Caltech, a battle-
+scarred veteran of experimental nuclear physics.  “What do you think?” I asked (there 
+was no need to be more specific).  “It’s bullshit,” he said, slipping immediately into 
+technical jargon “if it were true, they’d both be dead.”  What he meant was that if 
+enough fusions had taken place to produce the amount of heat claimed by Pons and 
+Fleischmann, the flux of neutrons that resulted would have long since been enough to 
+send them both to the happy hunting grounds. 
+
+To believe that Pons and Fleischmann, Jones and Scaramuzzi and many others 
+who claimed to observe either heat or neutrons or tritium were all observing the same 
+phenomenon, one must believe that, when fusion occurs inside a piece of metal, such 
+as palladium or titanium, the outcome is radically different from what is known to 
+happen when fusion occurs in the Sun, or in a hot fusion plasma, or an atomic bomb, or 
+a nuclear accelerator.  In other words, it is different from conventional nuclear physics.  
+Let’s call the three possible outcomes of fusion a, b, and c.  We’ll call a the one that 
+emits neutrons, b the one that leaves tritium behind, and c the one where the helium-4 
+stays intact.  In conventional nuclear physics, fusion results about half the time in a, half 
+the time in b, and one millionth of the time in c.  To account for the observations 
+reported, with some consistency, by various researchers in Cold Fusion, fusion inside a 
+metal would nearly always result in reaction c (without, however, emitting a gamma ray).  
+One in every hundred-thousand or so reactions would  result in b, and the probability of 
+a reaction a would be smaller by yet another factor of a hundred thousand.  These are 
+the conditions needed to explain why Cold Fusion cells can generate power at the rate 
+of watts, for periods of days or months, while, far short of killing Pons and Fleischmann, 
+still yield barely detectable traces of neutrons, and only tiny amounts of tritium. 
+
+Is it plausible that the nuclear reaction might be altered radically when it takes 
+place among the atoms in a metal, rather than in a rarefied atmosphere?  The answer, 
+quite simply, is no.  For one thing, the atomic nucleus is so small compared to the 
+distances between atoms in a metal that for all practical purposes, the nucleus is always 
+in a near vacuum.  For another thing, events occur so quickly in the nuclear fusion 
+reaction that the metal is simply unable to respond.  If you like orders of magnitude, the 
+fastest anything can happen in a metallic crystal is nine orders of magnitude slower than 
+the typical time in which the nucleus created by fusing deuterium plays out its drama of 
+fusion and break-up.  In other words, when the nucleus is doing its thing, the atoms of 
+the crystal are far away and frozen in time.  Finally, the energy released in the nuclear 
+reaction is so large that the crystal has no means to absorb it, unless it is spread out 
+instantaneously, over vast distances, by some mechanism not now known (presumably, 
+the same mechanism would have to account for why no gamma ray is emitted).  In 
+short, according to everything we know about the behavior of matter and nuclei, Cold 
+Fusion is impossible.  This is what I meant when I said that Cold Fusion is an 
+experiment whose result is contrary to prevailing theory. 
+
+In spite of all that, scientists are aware that they must be prepared, from time to 
+time, to be surprised by a phenomenon they previously thought to be impossible.  There 
+are two recent examples that seem relevant to Cold Fusion.  One is called High 
+Temperature Superconductivity, and the other is called the Mössbauer Effect. 
+
+In 1986, two Swiss physicists, J. Georg Bednorz and A. Karl Mueller announced 
+the discovery of a material that remained superconducting at temperatures as high as 
+30 kelvins.  Superconductivity is itself a phenomenon that violates the trained intuition of 
+physicists:  at sufficiently low temperature, many metals can conduct electricity without 
+any resistance at all, while simultaneously expelling completely any applied magnetic 
+field.  This behavior is so bizarre that it took nearly half a century after its discovery in 
+1911 before an acceptable theoretical explanation was formulated.  However, if Nature 
+was going to play such weird tricks on us, at least they were confined to the privacy of 
+the physics laboratory by the requirement of extreme low temperature.  Before Bednorz 
+and Mueller, it was well known that superconductivity could never exist at a temperature 
+higher than 35 kelvins.  After Bednorz and Mueller, it was a matter only of months 
+before materials were discovered that remained superconducting up to 100 kelvins.  
+That’s still pretty cold -- normal room temperature is about 300 kelvins -- but the 
+shocking impact of that discovery on the scientific community is hard to overestimate.  
+The discovery of High Temperature Superconductivity in 1986 set the stage for the 
+announcement -- and at least temporary acceptance of the possibility -- of Cold Fusion 
+in 1989. 
+
+The Mössbauer Effect, discovered thirty years earlier, was another completely 
+unexpected phenomenon that seemed to have an even more direct bearing on Cold 
+Fusion.  As we’ve already seen, Cold Fusion is hard to swallow in part because it is so 
+implausible to believe that a nuclear reaction might be altered in any meaningful way by 
+taking place in a crystal.  Yet the Mössbauer Effect was an example in which precisely 
+that does seem to occur. 
+
+When a nucleus has too much energy, it must find some means to get rid of the 
+excess.  For example, we’ve already seen that when two deuteriums fuse, the resulting 
+nucleus, which has far too much energy, can actually break up in any of three ways.  In 
+all three cases, however, the result is two fragments that fly off in opposite directions.  
+Mössbauer’s discovery was that, in certain cases when a nucleus in a crystal gives up 
+its excess energy by emitting a gamma ray photon, instead of the photon going one way 
+and the nucleus the other way as would normally be expected, there is a substantial 
+probability that the photon will fly off and the nucleus will stand still.  Instead of the 
+nucleus recoiling (just as a rifle does when it fires a bullet) the recoil is taken up by the 
+entire crystal, resulting in essentially no motion at all.  The net result is that the gamma 
+ray photon emitted by a nucleus in a crystal can have slightly more energy than the 
+gamma ray photon the same nucleus would have emitted in a vacuum.  Our carefully 
+trained intuition, which says that nuclei are unaffected by being in a crystal because 
+they exist in entirely separate realms of distance, time and energy, has been violated.  If 
+our intuition can be violated by the Mössbauer Effect, then why not by Cold Fusion? 
+
+That’s a good question, and there are very good answers.  First, the Mössbauer 
+Effect can be observed only for a few special nuclear reactions in which the energy that 
+must be disposed of is much smaller, and the time the nucleus takes to get rid of it 
+much larger than in the Cold Fusion reaction.  In other words, it occurs precisely in 
+those special cases where our argument, that the nucleus and the crystal act on 
+incompatible scales of time and energy, no longer holds true.  Second, even then, the 
+Mössbauer Effect does not change the intimate details of the nuclear reaction, such as 
+whether it emits a gamma ray photon, or the probabilities of the various possible ways 
+of giving its excess energy up.  It is precisely these details that must be changed if Cold 
+Fusion is real.  Finally, the Mössbauer Effect is in a sense the exact opposite of what is 
+supposed to happen in Cold Fusion:  instead of the nuclear recoil energy somehow 
+turning into heat in the atomic lattice, the Mössbauer Effect is interesting precisely 
+because it’s the special case in which no heat at all is produced. 
+
+Nevertheless, in spite of all the differences, many scientists instantly thought of 
+the Mössbauer Effect when they first heard of Cold Fusion.  The discovery of the 
+Mössbauer Effect had been unexpected, but once it happened, it was quickly and 
+satisfactorily explained within the framework of conventional theory.  It proved that there 
+are still genuine surprises waiting for us that, once understood, don’t violate 
+conventional physical laws.  And it also proved that there is at least some realm in 
+which nuclear physics and solid state physics affect one another.  Those are just the 
+things you have to be willing to believe in order to be prepared to accept Cold Fusion, at 
+least provisionally. 
+
+In any case, immediately after the press conference in Utah, most scientists were 
+willing at least to suspend judgment for a while, to give Cold Fusion a chance.  It was 
+precisely during this crucial probationary period (so to speak) that Cold Fusion science 
+went berserk.  Many scientists tried their own hand at it.  Those that succeeded, or 
+seemed to succeed, held press conferences.  Those that failed generally quietly let the 
+matter drop and went on to other things.  It would be difficult to devise a worse way of 
+doing science.  Among the exceptions to that behavior were Lewis, Barnes and Koonin 
+of Caltech.  They pursued every lead with relentless tenacity and Popperian rigor, 
+repeating every experiment, calculating every effect, looking not merely for positive or 
+negative results, but also for explanations of the false positive results that others were 
+reporting -- in other words, finding the mistakes of other scientists.  These they found in 
+abundance.  Far from publicizing their work, they were so secretive that rumors started 
+to circulate, and even appeared in the press, that they were protecting positive results.  
+Finally, they were able, 5 weeks after the Utah press conference, to stand before their 
+colleagues in Baltimore and, piece by piece, in vivid detail, demolish the case for Cold 
+Fusion.  Cold Fusion had been given its chance, a suspension of disbelief no matter 
+how unlikely it seemed, and it had failed to prove itself.  Cold Fusion was dead in the 
+eyes of respectable science. 
+
+Meanwhile, back in Frascati, Franco Scaramuzzi and his group of young 
+researchers were not quite prepared to give up.  Just as the drama in Italy was little 
+noticed in America, events in Baltimore seem far away when you are in Rome.  Franco 
+himself had had, not just 15 minutes of fame, but a month of it, and it showed no signs 
+of letting up.  He was a hero, not only to the general public, but also to all his colleagues 
+in the agency ENEA, and ENEA itself had suddenly shed it’s reputation for bumbling 
+bureaucratic ineptitude.  This was not a propitious moment to throw in his hand, just 
+because Lewis, Barnes and Koonin didn’t approve. 
+
+Besides, he had his own data, and he believed in them.  Nothing convinces a 
+scientist nearly as effectively as the experience of seeing data emerge from one’s own 
+experiment.  In this case there were, to be sure, many questions.  It turns out that 
+neutrons are not so easy to detect.   The instruments used to detect them are 
+sometimes tricky and undependable.  In the aftermath of the Frascati announcements, 
+experts from Italy and abroad (especially the U.S.) made brief visits to Scaramuzzi’s lab 
+and pronounced their verdicts on how the mistake had been made:  the apparent bursts 
+of neutrons were really artifacts due to changes in temperature, or humidity, or power 
+surges on the (notoriously unstable) Frascati lab electric system, or other electronic 
+problems.  I remember during my visit that summer talking to one of Franco’s young 
+colleagues, Antonella De Ninno.  “Do they think we’re stupid?” she asked me angrily, “of 
+course we thought of all those possibilities and eliminated them!”  Once the group was 
+convinced they had seen the real thing, they weren’t about to give up because someone 
+had made a speech in Baltimore. 
+
+There was also a bit of wriggle-room available.  At the Baltimore meeting, Pons 
+and Fleischmann did not attend, but Jones did, and he was the first speaker.  He 
+pointed out just how small was the effect he claimed to see compared to what Pons and 
+Fleischmann were claiming (as we have seen, the number of neutrons that come out 
+appears to be smaller than expected by about ten orders of magnitude).  Thus it 
+seemed possible that even if Cold Fusion didn’t produce heat (the Pons-Fleischmann 
+claim) maybe something was going on at a much lower level, producing a few neutrons 
+(as Jones, and Scaramuzzi among others claimed).  Of course, Barnes at Caltech had 
+shown there were no neutrons just as effectively as Lewis had shown there was no heat 
+(and Koonin had shown there was no theory), and furthermore, if Cold Fusion merely 
+produced a few neutrons instead of a lot of heat it certainly wasn’t going to solve the 
+world’s energy problems.  Nevertheless, it seemed at the time that there just might be 
+two kinds of Cold Fusion, the bad kind (heat) that Koonin and Lewis had put to rest, and 
+the good kind (neutrons) that was still scientifically respectable.  The Italian press made 
+much of the fact that “Italian Cold Fusion” was of the good kind, not noticing that the 
+good kind of Cold Fusion, if it existed, would be a scientific curiosity, not an epochal 
+discovery. 
+
+In any case, after the furor died down, Cold Fusion research continued in a 
+number of places.  The key to continued research is financial; to paraphrase California 
+politician Jesse Unruh, money is the mother’s milk of scientific research.  In the United 
+States, the government funding agencies quickly fell into line with scientific orthodoxy 
+and ceased funding anything that smacked of Cold Fusion.  However, the industry-
+supported Electric Power Research Institute decided to put up some funds, just in case.  
+In Japan, Toyota and MITI, apparently willing to accept some short term risk in 
+exchange for the possibility of a big payoff later, agreed to put up a few yen.  In Italy, 
+ENEA, with its budget and prestige resting on Cold Fusion, could hardly refuse to permit 
+Scaramuzzi and his group to press on.  In other places, where scientists were given 
+modest financial support and some discretion in how to spend it, some chose to pursue 
+Cold Fusion.  In spite of the disapproval of the world-wide scientific establishment, some 
+Cold Fusion research kept right on going. 
+
+Scaramuzzi’s group did not devote all of its attention to Cold Fusion.  At the 
+same time all this was going on, they also developed the world’s best device for firing 
+frozen pellets of solid deuterium into the plasma used to create hot fusion.  If hot fusion 
+were ever to produce useful energy, this is the means by which the reactor’s deuterium 
+fuel would be replenished.  They were also responsible for the sophisticated cooling 
+device that rendered it possible to make observations of infrared cosmic radiation in 
+outer space, using relatively inexpensive long range balloon flights instead of satellites 
+to rise above most of the Earth’s atmosphere.  In both of these tasks, they were doing 
+successful high technology in the very center of the scientific mainstream. 
+
+But they did also continue to pursue Cold Fusion.  Reacting to criticism of the 
+primitive technique they had used to detect neutrons, they purchased the best neutron 
+detection system in the world, essentially identical to the one used by Charlie Barnes at 
+Caltech.  Going one better, they installed it in physics laboratories that had been 
+excavated under a mountain called the Gran Sasso, a two-hour drive from Rome.  
+Anywhere on the surface of the Earth, there are always some neutrons buzzing around 
+due to cosmic radiation from outer space.  This so-called “background” has to be 
+subtracted from the neutrons produced by any other phenomenon such as Cold Fusion.  
+In the galleries under the Gran Sasso, the shielding effect of the mountain reduces the 
+cosmic ray neutron background nearly to zero.  That’s why the laboratory was built 
+there.  An automated system was set up to monitor the neutron counter while running 
+the temperature of a Scaramuzzi-type deuterium gas cell up and down.  Every week or 
+so, a member of the group would have to drive out to the Gran Sasso lab, check out the 
+counters, replenish the supply of liquid nitrogen, and bring back the data.  No one could 
+accuse them any longer of being unsophisticated about neutron work.  However, this 
+experiment, like their own earlier work and many others blossoming around the world, 
+produced positive results, but only sporadically.  There was no dependable recipe for 
+coaxing bursts of neutrons out of the Cold Fusion cell.  As long as that was true the 
+world of respectable science was not going to pay any attention even to the “good kind” 
+of Cold Fusion. 
+
+Then they decided to pursue the “bad kind” as well.  They built a well- designed 
+electrolysis cell, capable of detecting excess heat if any were produced, while obviating 
+some of the shortcomings for which previous excess heat experiments had been 
+criticized.  In 1992 and 1993, these experiments, too, gave positive results.  The cell 
+would produce very substantial amounts of heat (a few watts) for periods of tens of 
+hours at a time.  As in the neutron experiments, these episodes were sporadic, 
+occurring seemingly at random, but at least they occurred only when the fluid in the cell 
+was heavy water (containing deuterium), never when it was light water (containing 
+ordinary hydrogen).  The lack of this kind of control experiment had been one of the 
+points of criticism of Pons and Fleischmann.  However, by this time, the world of 
+mainstream science was no longer listening. 
+
+I went to visit my friend Franco in December 1993, when he returned from the 
+Maui conference.  While I was there, he summarized the results of the conference in a 
+seminar presented to the Physics Faculty at the University of Rome (“La Sapienza,” the 
+first university of Rome.  Now there are two more).  This was in itself an unusual event.  
+The Physics Faculty of the University of Rome today is comparable to the physics 
+department at a good American state university.  For them, inviting Franco to speak 
+about Cold Fusion was a daring excursion to the fringes of science.  Feeling this was a 
+rare opportunity, Franco prepared his talk with meticulous care. 
+
+At the seminar, Franco’s demeanor was subdued, and his presentation was, as 
+always, reserved and correct.  Nevertheless, his message was an optimistic one for 
+Cold Fusion.  In essence (although Franco didn’t say it in these words) each of the 
+criticisms that Nate Lewis had correctly leveled at the experiments of Pons and 
+Fleischmann had been successfully countered by new experiments reported at the 
+conference.  Even more important, there was reason to believe that the magic missing 
+factor, the secret ingredient of the recipe that accounted for why Cold Fusion 
+experiments only sporadically gave positive results, might finally have been discovered. 
+
+One of the criticisms that Nate had used with telling effect is that local hot-spots 
+often develop in electrolysis experiments (Nate is himself an electrochemist, and a 
+consummate experimentalist).  By placing their thermometer at an accidental hot spot, 
+and by neglecting the elementary precaution of stirring the bath in their cells, Pons and 
+Fleischmann could easily have fooled themselves into thinking there was excess heat 
+where none really existed.  To counter this argument, Franco could point to the design 
+of the cell used by his own Frascati group, which carefully averaged the temperature of 
+the entire cell, rather than measuring it at a single point (many other groups had 
+introduced mechanical stirrers into their cells).  Another objection that had been raised 
+was that, if heat was generated in these experiments, it was the result of some 
+uninteresting chemical process rather than being due to nuclear fusion.  Chemical 
+processes that generate heat are not uncommon in electrolysis experiments.  The 
+strongest argument for nuclear fusion (given the near absence of the neutrons and 
+tritium) was that the amount of heat generated was far too large to be due to any 
+chemical process.  That would be true, the critics replied, if the chemicals were being 
+generated at the same time as the heat.  However, all of these Cold Fusion cells had 
+long, dormant periods during which energy was being pumped in, and no excess heat 
+was being produced.  The heat finally liberated in the “Cold Fusion” episodes might just 
+have been chemical energy stored up during the dormant periods.  In other words, the 
+cells were not producing more energy than was being put into them, they were just 
+storing up energy and releasing it in bursts.  Not only would that be much less exciting 
+than a discovery of controlled nuclear fusion, it also wouldn’t be of much help in our 
+struggle against the oil barons.  Now this argument could be countered as well:  there 
+were what appeared to be very careful experiments in which the total amount of energy 
+consumed during the dormant periods was minuscule compared to the amount of heat 
+liberated during the active periods. 
+
+Finally, one of the most damaging criticisms of Pons and Fleischmann was that 
+they had failed to do control experiments.  Nuclear fusion (if it occurred) should only 
+have been possible (if it were possible) when electrolysis was done in heavy water, 
+made of deuterium.  It should not be possible using ordinary water, made of ordinary 
+hydrogen.  Now many groups, including Franco’s, had done the necessary control 
+experiments, and obtained the necessary confirming results (no heat in the controls).  
+
+Unfortunately, other groups reported that they did observe excess heat in experiments 
+done with ordinary light water.  Franco dutifully reported these results at the Rome 
+seminar, expressing only muted disapproval (“In my opinion, these results have not 
+been consolidated,” he said). 
+
+All of this was much less important than the fact that Cold Fusion experiments, if 
+they gave positive results at all, gave them only sporadically and unpredictably.   When 
+Bednorz and Mueller announced the discovery of high-temperature superconductivity in 
+1986, no one carped about control experiments, because, once the recipe was known, 
+any competent scientist could make a sample and test it and it would work immediately.  
+If, at their press conference, Pons and Fleischmann had given a dependable recipe for 
+producing excess heat, they very likely would be Nobel Prizewinners now (as Bednorz 
+and Mueller are)  rather than social outcasts from the community of scientists.  The 
+essential key to the return of Cold Fusion to scientific respectability is to find the missing 
+ingredient that would make the recipe work every time.   
+
+Experiments done in the U.S. and in Japan, and reported at the Maui meeting 
+indicate that the missing ingredient may have been found.  In all the various Cold 
+Fusion experiments, the first step is to load deuterium into the body of metallic 
+palladium.  The issue is how much deuterium gets into the metal.  The ratio of the 
+number of atoms of deuterium in the metal to the number of atoms of palladium is called 
+x.  It turns out, by means of electrolysis, or by putting the metal in deuterium gas, that it 
+is rather easy to get x up to the range of about 0.6 or 0.7.  That is already a startlingly 
+high figure.  If there are almost as many deuterium atoms as palladium atoms in the 
+material, the density of deuterium (a form of hydrogen) is essentially equal to that of 
+liquid hydrogen rocket fuel, which can ordinarily exist only at extreme low temperatures.  
+In other words, palladium (and certain other metals including titanium) soak up almost 
+unbelievable amounts of hydrogen or deuterium if given the chance.  This is far from a 
+new discovery.  However, according to the experiments reported at Maui, x=0.6 or 0.7 is 
+not enough to produce Cold Fusion.  Both the American and Japanese groups showed 
+data indicating there is a sharp threshold at x=0.85.  Below that value (which can only 
+be reached with great difficulty and under favorable circumstances) excess heat is 
+never observed.  But, once x gets above that value, excess heat is essentially always 
+observed, according to the reports presented at Maui, and recounted by Franco 
+Scaramuzzi in his seminar at the University of Rome. 
+
+The audience at Rome, certainly the senior professors who were present, 
+listened politely, but they did not hear what Franco was saying (that much became clear 
+from the questions that were asked at the end of the seminar, and comments that were 
+made afterward).  If they went away with any lasting impression at all, it was just the sad 
+realization that a fine scientist like Franco had not yet given up his obsession with Cold 
+Fusion.  They cannot be blamed.  Any other audience of mainstream scientists would 
+have reacted exactly the same way.  If Cold Fusion ever gains back the scientific 
+respectability that was squandered in March and April of 1989, it will be the result of a 
+long, difficult battle that has barely begun. 
+
+Recently, I told this story in a Philosophy course we teach at Caltech called 
+“Ethics of Research.”  The first question, when I finished my tale, was, do I believe in 
+Cold Fusion?  The answer is, no.  Certainly, I believe quite firmly the theoretical 
+arguments that say Cold Fusion is impossible.  On the other hand, however, I believe 
+equally firmly in the integrity and competence of Franco Scaramuzzi and his group of 
+co-workers at Frascati.  I was disturbed when I saw that Franco had gotten caught in 
+the web of science-by-news conference in April 1989 (although I was truly pleased that 
+he finally got the long overdue recognition his agency ENEA owed him), and I was even 
+more distressed when I learned that Franco and his group had observed excess heat 
+(the “bad kind” of Cold Fusion).  However, I have looked at their cells, and looked at 
+their data, and it’s all pretty impressive.  The Japanese experiment showing that heat 
+nearly always results when x is greater than 0.85 looks even more impressive on paper.  
+It seems a particularly elegant, well designed experiment, at least to the untutored eye 
+of a physicist (what do I know about electrochemistry?)    What all these experiments 
+really need is critical examination by accomplished rivals intent on proving them wrong.  
+That is part of the normal functioning of science.  Unfortunately, in this area, science is 
+not functioning normally.  There is nobody out there listening. 
+
+I suppose that, if nuclear fusion really does take place whenever x is greater than 
+0.85 in palladium, the world of conventional science will eventually be forced to take 
+notice.  If not, then the whole story I have told you is nothing but a curious footnote to a 
+bizarre and ugly episode in the history of science. Either way, I think the story 
+illuminates the inner dynamics of the scientific enterprise in a way that few other stories 
+have done.  For that reason alone, it may be worth telling. 

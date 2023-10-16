@@ -1,0 +1,112 @@
+1. Introduction
+
+Recently, a consistent conventional theory of Bose–Einstein condensation nuclear fusion (BECNF) [1,2] has been developed for explaining the anomalous results observed for deuteron-induced nuclear reactions in metal at ultra low energies [3–6]. The BECNF Theory [1,2] is based on a single conventional physical concept of Bose–Einstein condensation of deuterons in metal. The theory is capable of explaining most of the experimental observations [3-6] and also provides theoretical predictions which can be tested experimentally [2]. In this paper, we give a brief summary of derivation of the BECNF theory and then introduce the collective monopole transition mechanism into the theory. Theoretical derivation of the reaction rate and S-factor for the monopole transition mechanism will be presented in terms of a threshold resonance reaction. The theory is then applied to describe the BECNF processes. We describe theoretical predictions, which can be tested experimentally. Finally, summary and conclusions will be described.
+
+
+2. Summary of Derivations of BECNF Theory
+
+In developing the BEC theory of deuteron fusion in metal, one basic assumption was made that mobile deuterons in a micro/nano-scale metal particle form a BEC state. The validity of this assumption is to be verified by independent experimental tests suggested in this paper. Because of the above assumption, the theory cannot be applied to deuterons in bulk metals, which do not provide well-defined localized trapping potentials for deuterons.
+
+For applying the concept of the BEC mechanism to deuteron fusion in a micro/nano-scale metal particle, we consider N identical charged Bose nuclei (deuterons) confined in an ion trap (or a metal grain or particle). Some fraction of trapped deuterons are assumed to be mobile as discussed above. The trapping potential is 3-dimensional (nearly- sphere) for nano-scale metal particle, or quasi 2-dimensional (nearly hemi-sphere) for micro-scale metal grains, both having surrounding boundary barriers. The barrier heights or potential depths are expected to be an order of energy (≤ 1 eV) required for removing a deuteron from a metal grain or particle. For simplicity, we assume an isotropic harmonic potential for the ion trap to obtain order of magnitude estimates of fusion reaction rates.
+
+Experimental values of the conventional hot-fusion cross section σ ( E ) for reaction D(d,n)3 He or D(d,p)T have been conventionally parameterized as with η = Z1Z2e2/h ̄v. exp(−2πη) is known as the “Gamow factor”, and EG is the “Gamow energy” given by EG = (2παZDZD)2Mc2/2 or E1/2 ≈ 31.39 (keV)1/2 for the reduced mass M ≈ MD/2. The value E is measured
+in keV in the center-of-mass (CM) reference frame. The S-factor, S(E), is extracted from experimentally measured
+values of the cross section σ(E) for E ≥ 4 keV and is nearly constant; S(E) ≈ 55 keV-barn, for reactions D(d,n)3He or D(d,p)T in the energy range of interest here, E ≤ 100 keV. The S-factor is known as “astrophysical S-factor” [7].
+
+The N-body Schrödinger equation for the system is given by with the Hamiltonian H for the system given by where m is the rest mass of the nucleus. Only two-body interactions (Coulomb and nuclear forces) are considered since we expect that three-body interactions are expected to be much weaker than the two-body interactions.
+
+Electron degrees of freedom are not explicitly included, assuming that electrons and host metal atoms provide a host trapping potential. In presence of electrons, the coulomb interaction between two deuterons can be replaced by a screened coulomb potential in Eq. (3). Hence, Eq. (3) without the electron screening effect represents the strongest case of the reaction rate suppression due to the coulomb repulsion.
+
+The approximate ground-state solution of Eq. (2) with H given by Eq. (3) is obtained using the equivalent linear two-body method [8,9]. The use of an alternative method based on the mean-field theory for bosons yields the same result (see Appendix in [10]). Based on the optical theorem formulation of low energy nuclear reactions [11], the ground-state solution is used to derive the approximate theoretical formula for the deuteron–deuteron fusion rate in an ion trap (micro/nano-scale metal grain or particle). The detailed derivations are given elsewhere including a short-range nuclear strong interaction used [10,12].
+
+Our final theoretical formula for the nuclear fusion rate Rtrap for a single trap containing N deuterons is given by where N is the average number of Bose nuclei in a trap/cluster, Dtrap is the average diameter of the trap, B = 2r B /(π h ̄ ), rB = h ̄2/(2μe2), and S is the S-factor for the nuclear fusion reaction between two deuterons, as defined by Eq. (1). B = 1.4 × 10−18 cm3/s with S in units of keV-barn in Eq. (3). SB = 0.77 × 10−16 cm3/s for S = 55 keV-barn. Unknown parameters are the probability of the BEC ground state occupation, , and the S-factor, S, for each exit reaction channel. We note that  ≤ 1.
+
+The total fusion rate Rt is given by where ND is the total number of deuterons and Ntrap = ND/N is the total number of traps. Equation (5) shows that the total fusion rates, Rt, are very large if  ≈ 1.
+The total reaction rate Rt for each exit reaction channel can be calculated for given values of  and S, using Eqs. (4) and (5). The S-factor can be either inferred from experimental data or can be calculated theoretically using Eq. (12) shown later. The branching ratio between different two-exit reaction channels can be obtained as the ratio between two S-factors.
+
+Equations (4) and (5) provide an important result that nuclear fusion rates Rtrap and Rt do not depend on the Gamow factor in contrast to the conventional theory for nuclear fusion in free space where it must be included. This could provide explanations for overcoming the Coulomb barrier and for the claimed anomalous effects for low-energy nuclear reactions in metals. This is consistent with the conjecture noted by Dirac [13] and used by Bogoliubov [14] that boson creation and annihilation operators can be treated simply as numbers when the ground state occupation number is large as in the case of a Bose–Einstein condensate. This implies that for large N each charged boson behaves as an independent particle in a common average background potential and the Coulomb interaction between two charged bosons is suppressed. This provides an explanation for the Gamow factor cancellation. There is a simple classical analogy of the Coulomb field suppression: for a uniform charge distribution in a sphere, the electric field is a maximum at the surface of the sphere and decreases to zero at the center of the sphere.
+
+
+3. Monopole Transition Mechanism
+
+For the monopole transition mechanism, we assume a threshold resonance state, 4He∗(0+, TR, 23.85 MeV), which is a nuclear vibrational “phonon” state with a monopole vibration (density fluctuation). BEC collective nuclear phonon states exist as excited states of many nuclei. 4He∗(0+ , TR, 23.85 MeV) state is assumed to decay with a decay width of 0 =∼ h ̄ ω =∼ 6 eV corresponding to free electron plasma frequency of ω ∼ 1 × 1016 /s.
+
+As shown in Fig. 1, D + D in the BEC state proceeds with the threshold resonance reaction {1} to form 4He∗(0+ , TR, 23.85 MeV) state. Since Q = 0, the momentum is conserved for reaction {1}. The 4He∗(0+ , TR, 23.85 MeV) can now decay to the 4He
+ground-state by two exit reaction channels, {1a} and {1b}:
+Figure 1. Entrance and exit reaction channels for the threshold resonance reaction in Bose–Einstein condensation nuclear fusion for deuterons in metal.
+
+For the exit reaction channel {1a}, collective vibrations of electrons (and deuterons) in the deuteron BEC state leads to the free electron plasma oscillation in metal with ω ∼ 1 × 1016/s. This in turn leads to the metal lattice vibrations (lattice phonons) producing heat in metal.
+
+
+3.1. Determination of S-factor and reaction rates
+The S(E) factor for the resonance reaction can be written as [15,16] where Rn is the nuclear radius, μ is the reduced mass, and w is a statistical factor.
+
+The penetration factor Pl(E, Rn) in Eq. (7) is given by where Fl and Gl are regular and irregular Coulomb wave functions [17].
+For the s-wave (l = 0) formation of the compound nucleus at energies E near zero, we have F0(E, Rn) ≈ 0 and where x = 2√2ηρ, ρ = √μE Rn/h ̄ and K1(x) is the modified Bessel function of order one [18]. The argument x is given by x = (8Z1 Z2e2 Rnμ/h ̄ 2)1/2 = 0.525(μZ1 Z2 Rn)1/2, and μ is the reduced mass in units of atomic mass unit (931.494 MeV).
+
+The penetration factor for l = 0, P0(E, Rn), is then given by and the compound nucleus formation width, 0i,0(E), is 
+From Eqs. (6)–(11), we obtain the S(E) factor near zero energy for the l = 0 state as with 
+
+Equations (12) and (13) show that the S(E) factor has a finite value at E = 0 and drops off rapidly with increasing energy E. θi2 is the reduced width of a nuclear state [19], representing the probability of finding the excited state in the configuration i, and the sum of θi2 over i is normalized to 1. θi is the overlap integral between the initial and final nuclear states, ⟨ψfinal|ψinitial⟩. The dimensionless number θi2 is generally determined experimentally and contains the nuclear structure information.
+Equations (12) and (13) were used extensively in analysis of (p, γ ) reactions involved in nucleosynthesis processes in astrophysics [7,16,20–22].
+Once S(E) is calculated using Eqs. (12) and (13), the reaction rates can be calculated from Eqs. (4) and (5), using the calculated values of S(E).
+For the case of 0+ → 0+ transition {1a}, we obtain S{1a} =∼ 0.45 × 108θ{1}2 keV-barn calculated from Eqs. (12) and (13) using 0 ≈ 0 f =∼ 6 eV and other appropriate inputs.
+
+For the decay channel{1b} (0+ → 0+ transition), γ-ray transition is forbidden. However, the transition can proceed via the internal e+e− pair conversion, {1b}, in addition to {1a}. The transition rate for the internal electron pair conversion is given by where γ is the transition energy, Rn is the nuclear radius, and φ = ⟨ψexc|ψg.s.⟩ which is the overlap integral between the initial and final nuclear states. Equation (14) was derived by Oppenheimer and Schwinger [23] in 1939 for their theoretical investigation of 0+ → 0+ transition in 16O. The rate for the internal electron conversion is much smaller by many order of magnitude.
+For our case of 0+ → 0+ transition {1b}, we obtain ω ≈ 1.75 × 1013/s, and 0f = h ̄ω ≈ 1.15 × 10−2 eV, using appropriate inputs in Eq. (14). Using 0 f = 0{1b} = 1.15 × 10−2 eV in Eq. (13), we find that the S-factor for decay channel {1b} calculated from Eq. (12) is S{1b} ≈ 0.86 × 105θ{1}2φ{1b}2 keV-barn for E ≈ 0.
+Using S{1a} ≈ 0.45 × 108θ{1}2 keV-barn, we obtain a branching ratio, R{1b}/R{1a} = S{1b}/S{1a} ≈ 2 × 10−3φ{1b}2. Experiments are needed for testing this predicted branching ratio.
+
+
+4. Experimental Tests of Assumptions and Predictions
+
+For the monopole transition mechanism, described in this paper, we assume existence of an excited vibrational “electric monopole photon” nuclear state, 4He∗ (0+, TR, 23.85 MeV), at 23.85 MeV above the 4He ground state with a resonance width of 0 =∼ 6 eV. We note that 4He∗(0+, TR, 23.85 MeV) state cannot be observed by deuteron beam experiments. It could be observed from inelastic electron scattering, 4He (e, e′ ) 4He∗.
+Nuclear phonon states exist as excited states in many other nuclei, and are often observed when the ground states of nuclei are excited by high-energy γ-rays. However, the electric monopole vibrational state, 4He∗ (0+, TR, 23.85 MeV), cannot be reached by γ -ray excitation. Therefore, we propose to carry out inelastic electron scattering, 4 He(e,e′ ) 4He∗ to measure both the width of the 4He∗ state and its decay mode, e+e− pair production {1b}.
+
+For experimental tests of theoretical predictions, we propose to measure the predicted branching ratio, R{1b}/R{1a} = S{1b}/S{1a} ≈ 2 × 10−3φ{1b}2, by detecting both 4He production rate and the e+e− production rate. For φ{1b}2 ≈ 10−2, we expect R{1b}/R{1a} ≈ 2 × 10−5.
+
+
+5. Summary and Conclusion
+
+Based on the assumption that a monopole vibrational “phonon” nuclear state, with a vibrational frequency of the metal free electron plasma, exists as an excited state of 4He ground state, we have calculated the reaction rates for the Bose– Einstein condensation nuclear fusion (BECNF) processes for D + D reaction in metal. There are two exit reaction channels, {1a} and {1b}, both involving 0+ → 0+ monopole transitions. From calculated reaction rates, we obtain the branching ratio of R{1b}/R{1a} ≈ 2 × 10−3φ{1b}2 where φ2 = |⟨ψfinal|ψinitial⟩|2 is the probability of overlap between initial (4He∗) and final (4He) nuclear states.
+
+We propose experimental tests of both (1) the assumption of 4He∗ monopole phonon nuclear state and (2) the predicted branching ratio. For (1), inelastic electron scattering from 4He is proposed, while for (2) we propose to measure the reaction products and rates of the exit reaction channels {1a} and {1b}: 4He for {1a} and e+e− pair production for {1b}.
+
+
+6. References
+
+
+[1] Y.E. Kim, Theory of Bose–Einstein condensation mechanism for deuteron-induced nuclear reactions in micro/nano-scale metal grains and particles, Naturwissenschaften 96 (2009) 803 and references therein.
+[2] Y.E. Kim, Theoretical interpretation of anomalous tritium and neutron productions during Pd/D co-deposiyion experiments, Euro. Phys. J. Appl. Phys. 52 (2010) 31101.
+[3] M. Fleischman and S. Pons, Electrochemically induced nuclear fusion of deuterium, J. Electroanal. Chem. 261 (1989) 301; Errata, J. Electroanal. Chem. 263 (1989) 187.
+[4] P.L. Hagelstein et al., New physical effects in metal deuterides, Proc. ICCF-11, Marseille, France, Condensed Matter Nuclear Science, World Scientific, Singapore, 2006, pp. 23–59, and references therein.
+[5] Y. Arata and Y.C. Zhang, J. High Temp. Soc 34(2) (2008) 85.
+[6] A. Kitamura et al., Phys. Lett. A 373 (2009) 3109, and references therein.
+[7] W.A. Fowler, G.R. Caughlan and B.A. Zimmermann, Thermonuclear reactions rates, Annu. Rev. Astron. Astrophys. 5 (1967)
+525; see also Thermonuclear reaction rates II, Annu. Rev. Astron. Astrophys. 13 (1975) 69.
+[8] Y.E. Kim and A.L. Zubarev, Ground state of charged bosons confined in a harmonic trap, Phys. Rev. A 64 (2001) 013603-1.
+[9] Y.E. Kim and A.L.Zubarev, Equivalent linear two-body method for Bose–Einstein condensates in time-dependent harmonic
+traps, Phys. Rev. A 66 (2002) 053602-1.
+[10] Y.E. Kim and A.L. Zubarev, Ultra low-energy nuclear fusion of Bose nuclei in nano-scale ion traps, Italian Phy. Soc. Proc. 70
+(2000) 375.
+
+[11] Y.E. Kim. Y.J. Kim, A.L. Zubarev and J.H. Yoon, Optical theorem formulation of low-energy nuclear reactions, Phy. Rev. C
+55 (1997) 801.
+[12] Y.E. Kim and A.L.Zubarev, Nuclear fusion for Bose nuclei confined in ion traps, Fusion Technol. 37 (2000) 151.
+[13] P.A.M. Dirac, The Principles of Quantum Mechanics, Second edition, Clarendon Press, Oxford Chapter XI, Section 63, 1935,
+pp. 235.
+[14] N. Bogoliubov, On the theory of superfluidity, J. Phys. 11 (1966) 23–29.
+[15] J.M. Blatt and V.F. Weisskopf, Theoretical Nuclear Physics, Wiley, 1952, 8th Printing, 1972.
+[16] C.E. Rolfs and W.S. Rodney, Cauldrons in the Cosmos: Nuclear Astrophysics, University of Chicago Press, 1988 , chapter 4.
+[17] Y.E. Kim and A.L. Zubarev, Coulomb barrier transmission resonance for astrophysical problem, Modern Phys. Lett. B7 (1993)
+1627; Improved Coulomb barrier transmission coefficient for nuclear fusion cross-sections, Fusion Technol. 25 (1994) 475.
+[18] M. Abramowitz and I.A. Stegren (Eds.), Handbook of Mathematical Functions with Formulas, Graphs, and Mathematical
+Tables, National Bureau of Standards Applied Mathematics Series 55, August 1966.
+[19] R.G. Thomas, On the determination of reduced widths from the one-level dispersion formula, Phys. Rev. 81 (1951) 148; An
+analysis of energy levels of the mirror nuclei, C13 and N13, Phys. Rev. 88 (1952) 1109.
+[20] C. Rolfs and A.E. Litherland, Nuclear Spectroscopy and Reactions, Part C, J. Cerny (Ed.), Academic Press, New York, 1974,
+p. 143.
+[21] C. Rolfs and H. Winkler, The 2425 keV state in 21 Na as a subthreshold resonance in 20 Ne ( ρ , γ )21 Na*, Phys. Lett. 52B
+(1974) 317.
+[22] C. Rolfs, W.S. Rodney, M.H. Shapiro and H. Winkler, Hydrogen burning of 2oNe and 21Ne in stars, Nucl. Phys. A 241 (1975)
+460.
+[23] J.R. Oppenheimer and J.S. Schwinger, Phys. Rev. 56 (1933) 1066.

@@ -1,0 +1,248 @@
+1. Introduction
+
+Observation of a heat excess [1] and neutron emission [2] in the first heavy-water electrolysis experiments
+in 1989 seemed to be in contradiction to laws of nuclear physics. A simple calculation of the penetration factor
+through the Coulomb barrier at room temperature [3] gave reaction rates for the d+d fusion reactions being a
+factor of 1050 smaller than the rates needed for explanation the experimental results. On the other hand, the
+observed neutron emission should be about a factor of 107
+ weaker than a reaction channel responsible for the
+heat production and clearly correlated to the fusion of the 4He nucleus [4]. Thus, the reaction branching ratios at
+room temperature completely contradict the experimental results obtained by means of the accelerator technique
+at deuteron energies of a few keV for which the mirror stripping reactions 2H(d,p)3H and 2H(d,n)3He, being
+equally probable, dominate by a factor >106
+ the electromagnetic transition 2H(d,γ)
+4He. Reproducibility of the
+cold fusion experiments has been highly increased in the last decade [5,6] and some important experimental
+conditions, under which the heat production takes place, has been found [7,8]. Nevertheless, a lack of reliable
+nuclear theory explaining at least some of the room temperature effects leads to an ongoing scepticism in the
+scientific community. Therefore, finding of the enhanced electron screening effect in metallic targets for the d+d
+stripping reactions [9], and similar observations of other groups [10-13] can play a key role in understanding of
+the cold fusion phenomenon. Screening of charges of the reacting nuclei by surrounding electrons in metallic
+environments increases the Coulomb barrier penetrability and results in an exponential-like enhancement of the
+cross sections compared to those measured for a gas target. That effect cannot explain, however, the change of
+branching ratios for the d+d reaction at room temperature and domination of the 4He reaction channel. A simple
+mechanism of a single particle resonance located very close to the D+D reaction threshold in the compound
+nucleus 4He will be presented here. Combination of the electron screening effect and the resonant process can
+explain most of the observed phenomena usually connected to the cold fusion and the heat excess production in
+heavy-water electrolysis experiments.
+
+
+2. Enhanced electron screening effect
+
+Electron screening effect can be described by a screening length a that corresponds to a distance from which
+the nuclear charges (ions) embedded in an electron gas can be treated as neutral. For strongly coupled plasmas
+where the average Coulomb potential energy between ions is larger than their kinetic energy, the screening
+length does not depend on the temperature and is of order of the Wigner-Seitz radius 
+
+where Z and ne
+ are the ion charge and the density of free electrons, respectively. Dense astrophysical plasmas of
+White and Brown Dwarfs or of Giant Planets [14] are very good examples for strongly coupled plasmas.
+
+Similarly, deuterons moving in metallic environments can also be considered using plasma physics
+methods. For the simple Bohr screening, the screened Coulomb potential energy between two reacting deuterons
+can be presented as follows 
+
+Now the screening length a is of order of the Bohr radius. For projectile energies used in accelerator experiments 
+where r << a, the deuteron-deuteron potential can be simply described as the Coulomb potential reduced by a 
+constant, the screening energy Ue = e2/a. Thus, the “screened” cross section dependent on the penetration factor 
+through the Coulomb barrier P corrected for the electron screening, can be expressed by the only weakly on 
+energy dependent astrophysical S-factor 
+
+Here Ecm denotes the energy in the center of mass system and EG is the Gamow energy defined as follows: 
+
+where Z1 and Z2 are the charges of reacting nuclei and µ stays for the reduced mass. The screening energy Ue 
+corresponds to a reduction of the Coulomb barrier height in the expression for the penetration factor. In 
+comparison to the bare nuclei, the cross section for reactions in metallic environments exponentially increases 
+for decreasing projectile energies, whereby Ue can be taken from fits to the experimental data. The Ue values 
+determined in our experiments for C, Al, Zr, Pd and Ta targets are depicted in Fig. 1. For heavier metals the 
+screening energy amounts to about 300 eV that is one order of magnitude larger than the value 25±5 eV obtained 
+in the gas target experiment [15]. 
+
+Fig. 1. - Experimental and theoretical electron screening energies obtained for C, Al, Zr, Pd and Ta targets. 
+
+The screening effect in metals can be described within the self-consistent dielectric function theory [9]. 
+It enables to treat the electron screening as a static polarization of the metallic medium induced by the positively 
+charged deuterons. The screened Coulomb potential V(r) is a solution of the Poisson equation and can be 
+expressed as a Fourier transform 
+
+The wave-number dependent dielectric functions 
+vε  and 
+c
+ε  describe polarization of valence and core electrons 
+of host atoms induced by a charged impurity. Φ(r) and ϕ i(q) functions are the screening function and electronic 
+charge-form factors of reacting nuclei, respectively (for details see [9,18]). Additionally, the cohesion screening 
+contribution arising from the difference in binding energies between two reacting deuterons and the compound 
+nucleus 4He in the crystal lattice has to be included [9]. The theoretical calculations describe the observed 
+material dependence of the screening energy qualitatively correctly (see Fig. 1). The main contribution to the 
+theoretical values is provided by polarization of the free valence electrons, although the contribution of bound 
+electrons (core polarization) and the cohesion screening cannot be neglected. However, the absolute values of the 
+theoretically calculated Ue fail by a factor of about two. No reason for such a large discrepancy between 
+theoretical and experimental values has been found so far. Recent experiments carried out under ultra high 
+vacuum conditions [16,17] show that this discrepancy can be even larger. On the other hand, since the 
+experimental screening energies obtained for insulating materials are rather small (<50eV) [12,13] we can 
+conclude that the large screening energies should result from conduction electrons. 
+
+An independent test of the enhanced screening effect can be obtained by study alpha radioactive decays 
+in different insulating and metallic environments. Higher screening energies for metallic environments result in a 
+slight decrease of life times of alpha decays [17,20]. 
+
+
+3. Nuclear reactions at room temperature 
+
+Since the astrophysical S-factors for fusion reactions are usually known down to lowest projectile energies 
+the only uncertainty of nuclear reaction rates at room temperature results from the screening energy Ue. 
+However, the screening energy as defined in Eq.(2) loses its physical sense for the closest approach distances 
+comparable with the screening length a. That corresponds to projectile energies comparable or smaller than the 
+value e2/a . Thus, in order to apply Eq.(3) for calculation of the reaction cross section at room temperature, we 
+have to replace Ue by an energy-dependent effective screening energy Ueff . Similar to Ue, the effective screening 
+energy can be still interpreted as an appropriate reduction of the bare Coulomb barrier which should match to the 
+penetration through the screened Coulomb potential. Therefore, Ueff has to be calculated from a condition setting 
+equal the penetration factors as applied in Eq.(2) and that obtained within the WKB approximation with the 
+screened potential V(r): 
+
+Here R1 and R2 are the classical turning points in the WKB expression, and M is the deuteron mass. The results 
+of calculations for Pd are presented in Fig.2. There are two well defined limits: at the high energy (Ecm>1 keV) 
+and at the low energy (Ecm<10 eV). The ratio between the low-energy and the high-energy Ueff value amounts to 
+about 0.58, being nearly independent of the actual deuteron-deuteron potential. Additionally, the cohesion 
+screening energy has to be added leading to the total screening energy at the zero projectile energy U0 that is 
+equal to about 0.78 of the high-energy limit Ue [9]. 
+
+At deuteron energies below 10 eV, the effective screening energy remains almost constant, hence the 
+expression for the cross section takes a very simple form. Starting from Eq.(3) we obtain 
+
+where U0 and S0 are the screening energy and the S-factor taken at the projectile energy zero, respectively. 
+
+Surprisingly, the cross section increases at low energies as the barrier-penetration factor stays constant and the 
+wave-length dependence dominates [9]. The same expression is also valid for other nuclear reactions at room 
+temperature. Taking into account that the Ue for the deuteron stripping reaction 2H(d,p)3H amounts to about 500 
+eV [17] (U0=360eV), the reaction cross section at room temperature reaches value σscr=10-15 b which is 
+comparable with the cross sections for nuclear transitions induced by the weak interactions. It means that the 
+fusion reaction at room temperature should be measurable by use a suitable experimental set-up. 
+
+For the electrolysis experiments, a very useful quantity that can experimentally be determined is the nuclear 
+reaction rate defined here without number densities of involved nuclei as follows 
+
+Here vrel is the relative velocity between the reacting nuclei and µ denotes the reduced mass. Due to the energy 
+dependence of the cross section at very low energies (see Eq.(6)), the reaction rate depends only on U0 and not 
+on Ecm. Therefore, no assumption about the distribution of the deuteron velocity at room temperature is 
+necessary. 
+
+Nuclear reaction rates at room temperature very strongly depend on both the Gamow and screening 
+energies. In order to illustrate it we compare the nuclear reaction rates of three fusion reactions between 
+hydrogen isotopes for which the screening energy should be the same: 2H(d,p)3H, 2H(p,γ)3He and 3H(p,γ)4He. 
+
+Without any electron screening contribution, the first reaction induced by nuclear forces ought to be much more 
+probable than the others mediated by electromagnetic interaction, which is confirmed by large differences 
+between the values of the astrophysical S-factors (see Table 1). However, as it was argued in the work of Koonin 
+and Nauerberg [3], the small reduced masses in the channels p+d and p+t result in small Gamow energies, which 
+consequently leads to an increase of reaction rates at very small projectile energies (see Fig. 2). Correspondingly, 
+for small screening energies below 200 eV, the 2H(p,γ)3He reaction is the most probable reaction at room 
+temperature. However, if the screening energies would be higher the 2H(d,p)3H reaction dominates. Its reaction 
+rate will be for U0=360 eV by a factor of about 103 larger than the values for the other reactions. On the other 
+hand, this relatively large screening energy can provide the neutron production rate in the 2H(d,n)3He reaction of 
+about 10-15 neutrons per deuteron pair and second. This is above the neutron production rate estimated in the 
+experiment of Jones et al. [2] but significantly below the nuclear reaction rates necessary for explanation of the 
+heat excess observed in the experiment of Fleischmann and Pones [1]. 
+
+
+4. D-D threshold resonance  
+
+The observation of the excess heat production is probably connected to the fusion of 4He [4] with the rate by 
+about a factor of 107 larger than the neutron emission. Thus, beside the screening effect an additional 
+phenomenon changing the branching ratios and increasing the reaction rates at room temperature should 
+obviously exist. Alteration of the branching ratio by a factor of 107 might be achieved within the classical 
+nuclear physics without any exceptional mechanisms. An example for such an approach could be a narrow 
+resonance in the 4He nucleus lying close to the d+d reaction threshold. Supposing a nearly single-particle width 
+of this resonance for the deuteron channel and simultaneous quenching of the nucleon decay channels, one can 
+explain major experimental results concerning the cold fusion. The deuteron width of the resonance can be 
+expressed by the R-Matrix formula 
+
+Table 1. Astrophysical S-factors, Gamow energies and reduced masses for three different fusion reactions between hydrogen 
+isotopes. 
+
+Fig. 2. - Nuclear reaction rates for three different fusion reactions in dependence of the electron screening energy U0 
+(presented in log scale). 
+
+where Pd ,  µ and  ad are the penetration factor, the reduced mass and the channel radius for the d+d channel, 
+respectively, and 
+θd
+ denotes the dimensionless reduced resonance width. Since the total resonance width Γ is 
+assumed to be dominated by the deuteron width (Γ≈ Γd), its value will drop for low sub-Coulomb deuteron 
+energies very rapidly with decreasing penetration factor. On the other hand, the resonance strength, observed for 
+instance for the proton decay channel, is given by the ratio ΓdΓp/Γ and should be independent of the resonance 
+energy if we take into account that the proton width Γp remains nearly constant. Thus, the height of the single 
+particle resonance (∼ ΓdΓp/Γ2 ≈ 1/Γd) strongly increases as the resonance energy decreases – we speak about so-
+called narrowing of the single particle resonance. For the resonance energy of about 10 eV, the resonance width 
+would be of a few eV and its height would raise by a factor larger than 106. Furthermore, the hypothetical 
+resonance could change the reaction branching ratios within the resonance width in favour of those supposed for 
+the cold fusion. The 0+ assessment of spin and parity of this resonance makes forbidden its gamma decay to the 
+ground state being also 0+ in agreement with heavy-water electrolysis experiments where no gamma emission 
+has been observed. Due to the single particle nature of this resonance, the neutron and proton decay channels 
+should be negligible compared to the d+d partial width. Therefore, the decay of the resonance can only take 
+place by non-radiative electromagnetic channels as the internal pair creation, the electron conversion or in the 
+process we call the deuteron conversion where the energy excess of the compound nucleus 4He of about 24 MeV 
+will be transferred to a neighbouring deuteron. Decay probabilities of non-radiative channels leading to a direct 
+fusion of 4He in metallic environments will be discuss in a separated paper [19]. 
+
+The small width of the supposed resonance would also explain the problems connected to the 
+reproducibility of cold fusion experiments. Small local changes of the lattice structure can vary the resonance 
+energy by e few eV due to alteration of the screening energy as already determined for alpha decays [17]. Thus, 
+dependently on local crystal defects, the deuteron density and other target material parameters that are not 
+usually controlled in the experiments, the 4He fusion cross section can be resonant or not and consequently we 
+could observe an enhanced production of helium by many orders of magnitude only at special material 
+conditions. 
+
+
+5. Conclusions 
+
+We have shown that the electron screening effect plays a crucial role for room temperature nuclear 
+reactions. The enhancement factor of the nuclear reactions due to electron screening is material dependent and 
+reaches at room temperature for heavy metals a factor of about 1040 compared to the cross sections calculated for 
+the gaseous deuterium [3]. The electron screening effect makes possible to observe experimentally also other 
+reactions between hydrogen isotopes using an appreciate set-up (see Table 1). Contradictory to previous 
+calculations, the 2H(d,n)3He and 2H(d,p)3H reactions should still have the largest cross sections at room 
+temperature. The corresponding reaction rates are in agreement with small amounts of 3H and 3He found in the 
+heavy-water electrolysis experiments. 
+
+Domination of the 4He channel by a factor of about 107 over other open channels in experiments where a 
+heat excess has been measured can be explained by a 0+ single particle resonance placed in the compound 
+nucleus very close to the reaction threshold. De-excitation of this resonance state should only take place by non-
+radiative electromagnetic channels that are very difficult to detect experimentally. Furthermore, an interplay 
+between the electron screening effect that strength depends on local crystal structure of the target material and 
+the resonance reaction mechanisms is able to clarify difficulties with regard to a bad reproducibility of the cold 
+fusion experiments. Crystal defects or changes of local deuteron density can shift the resonance energy even by a 
+few eV resulting in the non-resonant reaction mechanism and suppression of the 4He fusion channel. Thus, 
+controlling of the microscopic structure of target materials in future cold fusion experiments ought to be very 
+important. 
+
+On the other hand, a material enabling large fusion rates at room temperature should also ensure a high 
+deuteron density and a relatively low deuteron binding energy in the lattice. The latter condition is necessary in 
+order to reach large deuteron mobility, which further increases the reaction probability by many orders of 
+magnitude. Therefore, Pd still seems to be an ideal material for study nuclear reactions at room temperature. 
+
+
+References 
+
+[1]. M. Fleischmann, S. Pons and M. Hawkins, J. Electroanal. Chem. 261 (1989) 301 
+[2]. S.E. Jones et al., Nature 338 (1989) 737 
+[3]. S.E. Koonin and M. Nauenberg, Nature 339 (1989) 690 
+[4]. A. De Ninno et al., Proceedings of the ICCF-10, Massachusetts 2003, Cambridge 
+[5]. S. Szpak and P.A. Mosier-Boss (ed.), Technical Report 1862, Office of Naval Research, San Diego, 
+California, 2002 
+[6]. M.C.H. McKubre, Proceedings of the ICCF-10, Massachusetts 2003, Cambridge 
+[7]. M.C.H. McKubre and F.L. Tanzella, Proceedings of the ICCF-7, Vancouver, Canada, 1998 
+[8]. K. Czerski, A. Huke, A. Biller, P. Heide, M. Hoeft and G. Ruprecht, Europhys. Lett. 54 (2001) 449; 
+Proceedings of the International Conference on Nuclear Asrophysics “Nuclei in the Cosmos”, July 6-11, 
+1998 Volos, Greece, edited by N. Prantzos and S. Harissopulos (Editions Frontières), p. 152 
+[9]. K. Czerski, A. Huke, P. Heide, G. Ruprecht, Europhys. Lett. (2004) 
+[10]. H. Yuki et al. JETP Lett. 68 (1988) 823 
+[11]. J. Kasagi et al., J. Phys. Soc. Jpn. 71 (2002) 2281 
+[12]. F. Raiola et al., Eur. Phys. J. A 13 (2002) 377 
+[13]. F. Raiola et al., Eur. Phys. J. A 547 (2004) 193 
+[14]. S. Ichimaru, Rev. Mod. Phys. 65 (1993) 252 
+[15]. U. Greife et al., Z. Phys. A 351 (1995) 107 
+[16]. K. Czerski, A. Huke, L Martin, N. Targosz, D. Blauth, A. Górska, P. Heide, H. Winter, J. Phys. G, 35 (2008)  014012 
+[17]. K. Czerski, P. Heide, A. Huke, A.I. Kilic, I. Kulesza, N. Targosz-Ślęczka, Acta Physica Pol. B 40 (2009) 903 
+[18]. A. Huke et al., Phys. Rev. C 78 (2008) 015803 
+[19]. K. Czerski K. et al., to be published 
+[20]. H.B. Jeppesen et al., Eur. Phys. J. A32 (2007) 31 

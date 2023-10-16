@@ -1,0 +1,252 @@
+1. Introduction
+
+The "heat after death" phenomenon [1] has revealed a fact that the electrolysis is not necessary for
+"excess heat" phenomena. Provided that enough deuterons are absorbed in the palladium crystal
+lattice, we may expect to see the "excess heat" in a gas-loading system as well. We are particularly
+interested in the gas-loading system, because we have been engaged in the gas-loading system for
+several years[2-7]. Early in 1993, Manduchi et al. [8] showed that the palladium samples might be
+soldered together during the gas-loading process with the deuterium gas. It was explained as an
+evidence of"excess heat" in this gas loading system. Manduchi's experiments worked out with both
+the Russian palladium and the British palladium samples. It seems that the only important pretreatment in his experiment is the annealing at the high temperature (900 °C} in vacuum. This is
+consistent with the early basic research on the gas loading experiments. Oats and Flanagan [9] did
+the gas loading experiments early in 1971. They showed that the only pre-treatment was just the
+flame heating before use. The loading ratio was as high as 0.94 in their experiments as a matter of
+routine. The even surprising point was that the gas-loading was done at low hydrogen pressure (1.5
+Torr, 25 °C}. The key element was a heated tungsten wire which dissociated the hydrogen
+molecules into hydrogen atoms. These features of operating under the low pressure and heating by
+a tungsten wire facilitate the combination of a calorimetric system with a gas-loading system.
+
+
+2. Experimental Apparatus.
+
+The low pressure feature makes thin wall stainless steel dewar system applicable for a closed gas­
+loading system (Fig.1 ). Palladium wire of <jJ 0.34mm is
+wound on a quartz frame. A pair of such quartz frames
+with palladium wire winding are made for Di-loading
+and Hi-loading, respectively. They are put into a
+electrical oven to be heated to 900 °C in vacuum
+(10-3 Pa). Then they are cooled gradually with the
+Pt Tungsten oven. Before they are put into the stainless steel
+dewar, a piece of tungsten filament ( <jJ 0. l mm) is
+mounted at the c1. Introduction
+The "heat after death" phenomenon [1] has revealed a fact that the electrolysis is not necessary for
+"excess heat" phenomena. Provided that enough deuterons are absorbed in the palladium crystal
+lattice, we may expect to see the "excess heat" in a gas-loading system as well. We are particularly
+interested in the gas-loading system, because we have been engaged in the gas-loading system for
+several years[2-7]. Early in 1993, Manduchi et al. [8] showed that the palladium samples might be
+soldered together during the gas-loading process with the deuterium gas. It was explained as an
+evidence of"excess heat" in this gas loading system. Manduchi's experiments worked out with both
+the Russian palladium and the British palladium samples. It seems that the only important pretreatment in his experiment is the annealing at the high temperature (900 °C} in vacuum. This is
+consistent with the early basic research on the gas loading experiments. Oats and Flanagan [9] did
+the gas loading experiments early in 1971. They showed that the only pre-treatment was just the
+flame heating before use. The loading ratio was as high as 0.94 in their experiments as a matter of
+routine. The even surprising point was that the gas-loading was done at low hydrogen pressure (1.5
+Torr, 25 °C}. The key element was a heated tungsten wire which dissociated the hydrogen
+molecules into hydrogen atoms. These features of operating under the low pressure and heating by
+a tungsten wire facilitate the combination of a calorimetric system with a gas-loading system.
+enter of the quartz frame. The
+Palladium
+resistance of the palladium wire is measured by the 
+.__!.•;;..:...;....,��::'._"!= 
+Quartz 
+four-lead method in order to determine the loading 
+ratio (D/Pd and H/Pd) in situ. The leads for palladium
+wire and for tungsten filament can be used for both 
+Fig. I A Combination of a Calorimeter 
+heating the dewar vessel and measuring their 
+with a Gas-loading System 
+resistance. A platinum thermometer is put into the gap 
+between the tungsten filament and the palladium wire 
+in order to measure the temperature change during the process of gas-loading and the calorimetric 
+heating. A manometer is monitoring the gas pressure to evaluate the loading ratio, and a diffusion 
+pump is used to pump out the air to 7 x 10-4 Pa. 
+
+
+3. Calorimetric Feature.
+
+This stainless dewar vessel is
+different from the glass or
+quartz dewar electrolytic cell
+in Fleischmann and Pons
+experiments. In stead of
+radiation, 
+the 
+heat 
+con­
+duction plays the dominant
+role in the heat transfer.
+Fig.2 shows the temperature,
+0 , in the dewar as a func­tion of time. 
+when the heat source, S, is a constant source; the temperature in the platinum thermometer, 0,
+approaches a constant value 01 
+Here, k is the heat conduction coefficient in the Newton's Law of heat transfer. 0b 
+is the room
+temperature. The relaxation time of this system is determined by the reduced heat conduction
+coefficient:
+k=-k-
+MCP 
+MC P is the equivalent heat capacity of the calorimetric system. The equation can be written as
+When S is a constant
+or
+!: = -k[0-(0b + :)]
+s 
+A 
+s 
+log[0-(0b +-)]=-k(t-t0)+log[00 -(0b +-)] 
+k 
+k 
+Here, 0 0 is the initial temperature of the dewar system at time to. This is the straight line section
+shown in Fig.2. The slope of the straight line gives the value of the reduced heat conduction
+coefficient, k ; the constant ( 0 b + S) may include the information for both the applied heat source,
+k 
+P; and the internal heat sources, Q. The applied heat source, P, is the heating power given by the
+experimentalist; however, the internal heat sources, Q, may include the "excess heat" which is what
+we are searching for.
+
+There are two ways to determine:
+
+( 1) Heating method: Given a constant heating power ( e.g. a constant current through the tungsten
+wire), the temperature, 0, approaches a constant value, 
+
+(2) Cooling method: When we plot the Fig.2 using the experimental data, we have to have a correct
+value for 0 b + S in order to make a straight line for cooling part. Fig.2 shows that the least squares fit is able to find the value of 0b + S with a precision better than 3%. 0.5 °C change in 0b + S
+may make the straight line visibly distorted (i.e; bent upward or downward, if the 0 b + S is not a
+correct number.)
+Fig.2 shows also the sensitivity of our calorimetric system. When a small power of2.73W is applied 
+onto the calorimetric system through a current in the tungsten wire, the temperature goes up to a 
+constant value of 96.0 °C. Then the current is shut off, and we see a straight line of cooling curve 
+with no heat source (see equation (6) ). Later we turn on the current in the tungsten wire again with 
+a power of 2.55W, a clear inflection point appears to stop the straight line, and levels to a new 
+constant value. Particularly, the curve goes up continuously at a power of 2.1 W and turns 
+horizontal at a power of 1.9W. Thus, we are confident that this system is able to detect the "excess 
+heat" at the level of 1 W per c.c. palladium while we put 0.234 c.c. palladium wire into this 
+calorimetric system. 
+
+
+4. Temperature Difference between Twin Systems
+
+A calibration is necessary to quantify the "excess heat";
+however, if we are able to show that there are sharp
+differences in the calorimetric feature between the H/Pd
+and D/Pd twin systems; then, we may qualitatively
+show the evidence of the "excess heat".
+
+To load the hydrogen or deuterium gas into the palladium, electrolytic cell was supposed to be necessary to provide the enough "chemical 
+potential"; otherwise, the high pressure and low temperature was supposed to be necessary. R.F. 
+power, a piece of incandescent tungsten wire (2000 °C ), or D.C. discharge were found to be able 
+to provide the hydrogen or deuterium atoms in stead of the electrolytic current. However, we found 
+that even if the tungsten wire was turn-off, as long as the correct pre-treatment of the palladium 
+wire was done, the loading ratio (H/Pd or D/Pd by atom number) might achieve 0.74 at a pressure 
+much less than 1 atm. This is discussed in two associated papers [10] and [11]. Here, we just 
+discuss the calorimetric feature of the gas-loading system. 
+
+In order to detect the possible "excess heat" in a D/Pd system, we intentionally built a pair of twin 
+systems. No. l bottle is for deuterium loading, and No.2 bottle is for hydrogen loading. These two 
+systems have same dewar structure, and similar quartz frames. The palladium wires in both bottles 
+are cut from same batch ( <p 0.34mm); and have been pre-treated with same procedures. The weight 
+of palladium wires in two bottles are 2.846g. and 2.844g., respectively. The tungsten wires are cut 
+from same batch ( <p 0.1 mm). The resistance of tungsten wire are 4.1 n (in D bottle), and 4.3Q (in H 
+bottle) , respectively. After being pumped to 10"3Pa, the No. I bottle was filled with deuterium gas 
+up to 660 mrnHg; and the No.2 bottle was filled with hydrogen gas up to 660 mrnHg also. Fig.3 
+shows the cooling curves for bottles No. I and No.2. A straight line is drawn to fit the experimental 
+data using the least squares fit. From this straight line, the reduced heat conduction 
+coefficient, k D and k H , is calculated. To maximize the correlation coefficient R2, we may determine 
+the value of ( 0 b + S ) for that straight line. Table 1 gives the corresponding values for the reduced 
+heat conduction coefficients k D and k H 
+; the constants ( 0 b + -) D and ( 0 b + -) H; and the 
+correlation coefficients R; and R !-
+Table 1 Calorimetric Feature for Cooling Curve ofD/Pd and H/Pd Systems 
+Temperature Range 
+Reduced Heat Conduction 
+
+It is clearly shown that the reduced heat conduction coefficients are same for both bottles with the 
+precision better than 5%. However, the constants, 0b + S, are different for D/Pd and H/Pd 
+k systems. The difference between them increases, when the temperature range expands. Since the 
+information of "excess heat" is included in this constant, 0 b + S , we investigated further by 
+k another method: i.e. we heat the systems using the electrical current in the tungsten wire. Through 
+the constant current at 0, 0.1965A, 0.359A, 0.464A, 0.601A, 0.753A and 0.801A; the D/Pd and 
+H/Pd systems are heated to different temperatures. From these temperatures, we may have another 
+estimate of the constant, 0b + -. Table 2 list the results of these heating experiments. The 
+difference of 01 - l.j, = [ ( l.j, + !)-1.j,] gives the ! � p; Q
+
+In the experiments, the tungsten wires in the D/Pd and H/Pd are connected in series such that the 
+electrical current, 
+I w is same in both tungsten wires. This heating power enhances the 
+temperature, 0 , in both bottles, and eventually makes a steady state value, 01. We can measure 
+the temperature difference at the steady state between the inside and the outside of the dewar, which should be equal to the constant S = p + Q . In this case, P is the heating power in 
+Tungsten wire, Q is the possible "excess power", k is the heat conduction coefficient. It is interesting 
+to notice that when the heating power increases, the temperature difference, 01 - � , in D/Pd system 
+increases much faster than that in H/Pd system. This could be attributed to the possible "excess 
+power" in the D/Pd system. In order to estimate this "excess power", we need the value for heat 
+Table 2 Calorimetric Feature for Heating Curve of D/Pd and H/Pd System 
+conduction coefficient, k D • Since the reduced heat conduction coefficients, k D and k H for D/Pd
+and H/Pd are almost same (see table 1). It is reasonable to assume that the heat conduction 
+coefficients, k D and k H, are same also. Based on this assumption, the "excess power" in the D/Pd 
+system is calculated. It may achieve up to 0.821 W (see the last column in table 2) while the heating 
+power is about 3.5W. An additional evidence of this "excess power" in D/Pd system is the change 
+of the resistance of the tungsten wire. Initially, the resistance of the tungsten wire in H/Pd system 
+(4.46 Q) is a little higher than that ofD/Pd system(4.15 Q). When the heating power is increased to 
+~ 3.5W, the resistance of the tungsten wire in H/Pd system (5.38 Q) becomes smaller than that of 
+D/Pd system (5.47 Q). Using the resistance temperature coefficient aw= 4.8 x 10-3 K-1 for 
+tungsten wire, we have the temperature for the tungsten wires in the H/Pd and D/Pd system, 73.5 
+�C and 96.9 °C, respectively. The temperature in D/Pd system is much higher than that of H/Pd 
+system . This is consistent with the former calculation of the "excess power" inside the D/Pd 
+system. 
+
+
+5 Concluding Remarks: 
+
+While a pair of twin calorimetric systems are heated by the same amount of electrical power, the 
+systems approach different temperatures at steady state. The D/Pd system is hotter than the H/Pd 
+system. The temperature difference may achieve the value of 8.5 °C measured by the platinum 
+thermometer. Since the cooling curves have shown the reduced heat conduction coefficients for 
+both systems are same, this temperature difference means that there must be an "excess heat" 
+source in the D/Pd system. 
+
+We are using platinum resistance thermometers and the Keithley digital multi-meter to measure the 
+temperature. The precision of the measurement is better than 0.1 °C. Hence, we are confident about 
+the existence of this temperature difference. This is a qualitative proof of the "excess heat" in D/Pd 
+system. 
+
+To quantify this excess heat, we need two assumptions: First the heat conduction coefficient is 
+assumed to be same for the twin systems; second, the excess heat in the H/Pd system is assumed to 
+be zero. The first assumption is supported by the equality of k D = k H; and the second assumption
+just makes a conservative estimate on "excess heat". If there is any "excess heat" in the H/Pd 
+system also; then, the "excess heat" in D/Pd system should be greater than this estimate. It is at 
+least at a level of 1 W per c.c. palladium. We have observed this excess heat for more than 5 
+months. (from April, 20 to September 29, in 1996) in a D/Pd system with 2.846g. of palladium. It is 
+about 103 e V for each palladium atom, which is very difficult to be attributed to any chemical 
+resource. This gas-loading system has the advantage of being operated at a higher temperature 
+which is essential to enhance the heat energy efficiency as an energy source. 
+
+
+References 
+S.Pons and M.Fleischmann, "Heat after Death", Transactions of Fusion Technology, Vol.26,
+87, (1994)
+X. Z. Li, et al., "The Analysis of the Neutron Emission from the Glow Discharge in Deuterium
+Gas Tube and the Gas Loading in Palladium", Transactions of Fusion Technology, Vol.26,
+384, (1994)
+X. Z. L4 et al., "Anomalous Nuclear Phenomena and Solid State Nuclear Track Detector"
+Nucl. Tracks Radiat. Meas. 22, 599 (1993)
+X. Z. Li, et al., "The Precursor of 'Cold Fusion' Phenomenon in Deuterium/solid System". AIP
+Conference Proceedings 228, Anomalous Nuclear Effects in D/Pd System, Provo, Utah, Oct
+22-25, 1990, edited by S.E. Jones, et al., (New York, 1991) p.419.
+D. W. Mo, X. Z. L4 et al., "Search for Precursor and Charged Particles in 'Cold Fusion"'.
+Italian Physical Society Conference Proceedings Vol.33, the Science of Cold Fusion,
+Proceedings of II Annual Conference on Cold Fusion, edited by T.Bressani, et al., Como, 29
+June--4 July 1991 (Bologna, Italy, 1991) p.123.
+D. W. Mo, X. Z. L4 et al., "Real Time Measurements of the Energetic Charged Particles and
+Loading Ratio (D/Pd)," Frontiers of Cold Fusion, Proceedings of the Third International
+Conference on Cold Fusion, Oct. 21-25, 1992, Nagoya, Japan, edited by H.lkegami (Universal
+Academy Press, Inc. Tokyo, Japan, 1993), p.535.
+G. S. Huang, X. Z. Li, et al., "The Measurements and the Control of the Loading Ratio of
+Deuterium in Palladium", Proceedings of the Fourth International Conference on Cold Fusion,
+Lahaina, Hawaii, USA, Dec.6-9, 1993, Vol.I, 20-1.
+C.Manduc� et al., "Anomalous Effects During the Interaction of Subatmospheric D2(H2)
+with Pd from 900 °C to Room Temperature." Nuove Cimento, Vol.107A, N.2. (1994) p.171.
+W.A. Oates and Ted B. Flanagan, "Formation of Nearly Stoichiometric Palladium-Hydrogen
+Systems" , Nature Physical Science , Vol.231, 19, (1971)
+10. F.S. Bu and X. Z. Li, "Loading Ratio Study in a Gas-Loading System", (see Proceedings of
+ICCF-6, 1996)
+11. G.S. Huang and X. Z. Li, "A Possible Phase Transition in a Gas-Loading D/Pd System", (see
+Proceedings ofICCF-6, 1996)

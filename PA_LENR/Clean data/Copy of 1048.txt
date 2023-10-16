@@ -1,0 +1,446 @@
+1. Introduction
+
+The Pd/H(D) system is historically the first that had attracted research activities [1] because it represents one of the most
+transparent and instructive models for a metal–hydrogen system. Palladium hydride shows many interesting features,
+most of them not explained yet.
+
+Perhaps the most intriguing conundrum is the effective charge of hydrogen inside the lattice and whether it can
+migrate under the action of an electric field. It has been shown by Alfred Cöhn [2] that the dissolved hydrogen get
+ionized when it enters into the lattice and settle in its equilibrium position in ionic form. Ionization may actually occur
+just at the surface of the crystal and ions reach their equilibrium positions later on [3].
+
+Moreover, the Pd–H system exhibits a complex phase diagram: at room temperature and pressure hydrogen is in a
+gas like situation within the Pd lattice when H/Pd≤ 0.02 (α-phase); increasing the loading a new phase, named β-phase,
+emerges coexisting with the α-phase; in the β-phase hydrogen is confined in the octahedral sites of the Pd lattice. When
+H/Pd ∼ 0.6, the b-phase extends to the whole lattice.
+
+In Fig. 1, it is shown the Pd lattice where Pd atoms occupy the fcc (face centered cubic) positions. Two equilibrium
+positions are allowed to the solute atoms: the octahedral position along the minimum distance between Pd atoms, and
+the tetrahedral position at the center of a tetrahedron having four Pd atoms at its vertex. The octahedral sites correspond
+to the minimum energy position of the empty Pd lattice, however, increasing the loading, the energy bands of PdH
+undergo a severe modification.
+
+Experimental evidence [4] shows that a new phase in which hydrogen migrates from octahedral to tetrahedral
+positions in the lattice exists. In fact, the volume expansion due to hydrogen absorption shows that, when H/Pd ∼0.8,
+the rate �V/V changes pointing towards a different occupation of hydrogen in the lattice.
+
+Evidence for a structural and electronic phase transition, we will call it β → β′ in the next, is also provided
+by measuring the number of charge carriers in the Pd–H system [5] which undergoes an unexpected change when
+H/Pd≥0.83. It has been found that each hydrogen entering the Pd lattice in the b-phase contributes with about 0.75
+electrons to the conduction band, whereas for x =H/Pd exceeding a threshold each hydrogen contributes with more
+than four electrons to the conduction band; since the hydrogen has only one electron on its own it must persuade more
+than three Pd electrons to jump into the higher energy band, so that the hydrogen that enters the lattice causes a local
+reshufﬂing of the Pd electronic bands.
+
+The electrical resistivity ρ(x) of the Pd–H system as a function of x shows an increase of the carrier and/or mobility
+over a certain threshold [6] too. In the coexistent α−β region, ρ(x) increases almost linearly with the hydrogen content
+up to the value where the β − β′ transition occurs: then it decreases quite sharply reaching the value ρ0 of the pure Pd
+metal.
+
+Figure 1.Palladium lattice. The big spheres are Pd atoms, their distance was set equal to 4 Å; the octahedral sites lie on the same plane just in
+between two Pd atoms; the tetrahedral sites are positioned on a different plane at a relative distance of 2.828 Å.
+
+
+2. Hydrogen Kinetics in Palladium
+
+In spite of such a puzzling picture, the understanding of hydrogen dynamics inside the solid state lattice is a very
+important task both for theoretical physical chemistry, for applications in the ﬁelds of hydrogen fuel cycle and for
+LENR researches. As mentioned above, the most interesting state of the Pd/H system starts at a speciﬁc loading
+threshold which is not easy to obtain. During the isothermal loading process, the solute gradient inside the metal suffers
+from a thermodynamic force inﬂuenced by all the ﬁelds that can affect the free energy of the solute.
+
+The diffusion ﬂux is described by the general equation:
+
+J = −M · c · grad µ,
+
+where c is the hydrogen concentration, M the mobility related to D, the diffusion coefﬁcient, by the Einstein relation and
+µ is the chemical potential. The stress induced by the hydrogen diffusive ﬂux causes an inhomogeneous distribution of
+the solute. Kandasamy [7] showed that a suitable strain can stop the diffusion of hydrogen caused by the concentration
+gradient, in fact the previous equation is modiﬁed as follows:
+
+J = −D
+�
+∇c − c ¯V
+RT ∇σ
+�
+
+where ¯V is the molar volume of hydrogen in the metal and σ the stress ﬁeld.
+
+It is well known that during the loading expanded β areas grow near the α areas. In this region of coexistence very
+strong deformation ﬁelds are generated at the border between the two phases, due to the different lattice parameters. This
+process is highly irreversible because of the energy dissipation involved in the generation of dislocations. Calculations
+performed for a cylindrical Pd cathode show that the maximum shear stress is obtained on the surface at the beginning
+of the diffusion process. This means that the loading is abruptly limited to a thin slab underneath the surface, as a
+consequence, the loading path is very important to determine the ﬁnal concentration proﬁle inside the metal [8].
+
+The coexistence phase allows the strain gradient to grow and introduces into the system a stress energy which can
+prevent any further intake of hydrogen, however, an appropriate path on p–c–T diagram can skip the coexistence region
+and improve the loading [9]. In Fig. 2, it is shown the comparison between two loading procedures: (a) electrolysis of
+LiOH solution using Pd wire; (b) the Pd wire has been pre loaded at high (>34 bar) pressure and (>270◦C) temperature
+and then used as a cathode in LiOH electrolysis with the same parameters as in the former case. Above the point
+P =34 bar and T =270◦C which is the critical point on the p–c–T diagram, the co-existence phase does not exist
+anymore. The results clearly show that the loading ratio is 20% higher than usual.
+
+A further increase of the concentration can be reached if the stress is allowed to relax with suitable loading procedure
+both in gas phase and in electrolysis [10]. Figure 3 shows that switching the current level between two values improves
+the loading ratio because the stress ﬁeld is allowed to relax during the low-current phase.
+
+The experimental data show that the self-induced strain ﬁeld arising from very steep concentration gradients is
+responsible for the well-known difﬁculty in obtaining reproducible high loading samples. In addition, possible damages
+induced by the loading process itself can modify the material during the experiment in an unpredictable way, resulting
+in poor reproducibility of the loading procedure.
+
+
+3. Inﬂuence of Microstructure on Loading
+
+To facilitate the loading avoiding the growth of an excessive strain it can be useful to prepare a material with intrinsic
+characteristics such as to minimize the gradients in the solute concentration. Since the hydrogen diffusion coefﬁcient
+is orders of magnitude higher in the grain boundaries than in bulk, the diffusive process takes place in two steps: ﬁrstly,
+hydrogen is included in the grain boundaries where the diffusivity is higher, in a second step it diffuses inside the grain.
+
+Figure 2.Concentration behavior vs time.(a) Pd sheet charged in electrolysis, I =10 mA, (b) Pd sheet pre charged in H2 gas and then in electrolysis
+with I =10 mA.
+
+The grain boundaries act as a source of hydrogen for the bulk where the actual diffusive process takes place. Thus the
+presence of a suitable network of grain boundaries enhances the kinetics and reduces the chemical potential gradient
+increasing the loading on the whole. The same mechanism works on thin ﬁlms where the reduced dimensionality limits
+the growth of high stress ﬁelds, and the strains accumulated inside the ﬁlm can be relaxed toward the substrate. The thin
+
+Figure 3.A further increase of the concentration value is obtained that allows the lattice to relax the stored stress ﬁelds temporarily decreasing the
+electrochemical action on the electrode surface: changing the electrolytic current between two values instead of using only the high level improves
+the loading.
+
+ﬁlm loading is complicated by the expansion of the lattice. In Pd, �l/l can reach 10%, under this condition the ﬁlms
+loose their adhesion on the substrate and delamination occurs. In case several loading–unloading cycles are required
+the situation is even more difﬁcult to be faced. Several “tricks” can be used to improve the adhesion to the substrate
+choosing appropriate buffer layers made out of several different layers in order to absorb part of the mechanical stress
+generated by the loading process.
+
+Thermo-mechanical treatments and in particular cold working followed by baking can be used to modify the grain
+size in Pd samples. Grain size dimension can be changed both with the mechanical machining and with the thermal
+treatment, and it is possible, ﬁxing one parameter, to obtain curves as those in Fig. 4 which shows a maximum of the
+loading ratio versus the grain size. Such a behavior implies that two different factors enhance the hydrogen diffusion
+into the lattice: smaller grain size reduces the strength of the stress ﬁeld since the boundary network acts as fast hydrogen
+transporter through the sample; on the other hand the softening of the mechanical properties induced by larger grain size
+activates the stress relief mechanism based on plastic deformations. The combination of the two mechanisms enhances
+both diffusivity through short circuit path and stress relaxation by plastic deformations. Concentrations larger than 0.95
+H/Pd and 0.90 D/Pd have been obtained in electrolytic loading of samples with about 50 µm grain size [11].
+
+
+4. PD/H Systems in H Plasmas
+
+It is known that an electric ﬁeld causes the changes of Pd surface reactivity and, as a consequence, an increase of the
+stoichiometry of Pd/H can be measured. Di Pascasio et al. [12] studied the possibility to increase the hydrogen loading
+in a metallic material, Pd in particular, in presence of a hydrogen plasma. They found that the hydrogen conﬁnement in
+Pd can be increased by exposing it to cold H plasma without changing any other parameter. The term “cold plasma” is
+used for plasmas having a low concentration of ions (∼ 106m−3) in thermal equilibrium within the environment. Due
+to the low concentration of electrons the heat transfer is controlled by the neutral species. They concluded that a new
+thermodynamic condition is achieved in presence of a plasma, in particular, the thermodynamic condition of H inside
+
+Figure 4.Loading ratio D/Pd vs. grain size. The two series refer to different values of reduction by cold rolling. Open circles: reduction
+rate = 1/5; black diamonds: reduction rate = 1/7. The annealing temperature was 900◦C for both. Samples were loaded in electrolysis with a current
+density i =25 mA/cm2.
+
+Pd is affected by the presence of an external electric ﬁeld even if the material characteristics are still that of a metal.
+Even Tomaszewska and Stepie [13] found that in presence of an external electric ﬁeld Pd–H bonds seem to become
+stronger or, in a different view, the existence of an electric ﬁeld decreases the activation energy required for hydrogen
+diffusion into the subsurface. More recently, an international team of researchers has developed a process using an
+electric ﬁeld which can signiﬁcantly improve hydrogen storage and release in/from materials [14].
+
+In these reports, they came to the conclusion that, in a cold plasma, hydrogen inside the Pd lattice undergoes a
+transformation which affects the state, the number and the transport properties of both electrons and H ions.
+
+A very interesting demonstration of external plasma effect on the loading of H in Pd can be observed inducing a
+corona discharge between two plane electrodes like those usually operating in electrolysis. The working electrode, a Pd
+coating 2 µm thick on a Si wafer, was grounded and a positive voltage was applied to the counter Pt bulk electrode. Both
+electrodes had a planar geometry with a 25.35 mm area, the gap between the electrodes was 4 mm. At the beginning
+of the experiment, the gap was ﬁlled with LiOH solution, the applied potential was kept well below the breakthrough
+voltage and the ordinary H loading occurred. As soon as the loading reached the threshold of the β → β′ transition (see
+above), the solution was removed, the change of the electronic density on the Pd–H surface increased the number of
+secondary electrons involved and a negative corona discharge was formed. H+ ions were accelerated with a high kinetic
+energy toward the working electrodes and impinged on Si trespassing the Pd coating. Removing the electrode from its
+housing and observing the surface with an optical microscope, a grid made out of very peculiar scratches was observed
+(Fig. 5a). The strange morphology of the scratches is quite hard to understand because it is perhaps the heritage of
+the polishing procedure of the Si wafer from which the electrode substrate was obtained. The same experiment carried
+out using a deposition of Pd on Vycor glass shows pits randomly distributed (Fig. 5b). A possible explanation is that
+tiny defects on the surface, although non visible before the discharge, have been ampliﬁed by the presence of the very
+high gradients of the electric ﬁeld around the pins which, in turn, accelerate the ions within the limit of the plasma
+area. Inside the area delimited by two parallel scratches a very high temperature was reached by the Si (Fig. 5c) which
+appeared to be fused and resolidiﬁed. Cubic shapes with a pipe in the middle suggesting a re-crystallization process
+from the fused state can be seen (Fig. 5d) using the SEM analysis. The accelerated H+ ions knocks with a very high
+energy on the surface producing very deep damages. Proﬁlometry shows scratches as deep as 5 µm at the border of the
+structures shown in Fig. 5.
+
+Besides the visual inspection of the sample, the Pd on Si cathodes were subjected to Rutherford Backscattering
+Spectroscopy (RBS) used for compositional thin ﬁlm analysis (less than 1 µm) and to Elastic Recoil DetectionAnalysis
+(ERDA) which is an efﬁcient technique for high resolution depth proﬁling of light elements, especially for detection
+of hydrogen depth proﬁle. In Fig. 6 (a–c) the RBS analysis results are shown compared to simulations in order to get
+a quantitative evaluation. Figure 6a shows the comparison between a reference (not used in the experiment) sample of
+Pd on Si and the behavior expected for a 9000 Å thick Pd ﬁlm; this is just to calibrate the instrument, 9000 Å is the bulk
+limit for the instrument. Figure 6b shows that, after the experiment described above, the Pd ﬁlm was almost completely
+removed from the Si surface: the analysis ﬁts the result obtained simulating a 40 Å thick ﬁlm made out of a mixture
+of the metals used in the experimental set up; a bigger amount of Pd, about 300 Å thick ﬁlm, was found on the back
+side of the Si wafer that was 1mm thick (see Fig. 6c). ERDA analysis, in Fig. 6d, shows the hydrogen content in a
+6000 Å depth (the analyzed depth depends on the energy of the beam): signal below channel 200 accounts for the H2
+content in a 6000 Å layer beneath the surface whereas the peaks around channel 200 show the hydrogen adsorbed on
+the surface. An amount of hydrogen four times greater than in the reference was found on the surface exposed to the
+plasma, however, a much higher value was found on the backside surface. The small amount of hydrogen found inside
+the sample after the discharge can be ascribed to the very high reactivity of H+ ions which react with other species and
+are subtracted to the analysis.
+
+Figure 5.
+(a) Optical microscope image of a Pd on Si cathode exposed to negative corona discharge, (b) same as above but on Vycor glass substrate,
+(c) and (d) SEM images of the sample shown in (a) with different magniﬁcations.
+
+
+5. A Conceptual Discontinuity
+
+Another surprising feature of the PdH system is the very high diffusion coefﬁcient (about 10−7cm2s−1 for hydrogen
+in the a-phase) and the fact that the diffusion coefﬁcients for deuterium, hydrogen and tritium are in the order DD+ >
+DH+ > DT+ different from what can be expected on the basis of a simple classical model of diffusion. Moreover,
+Dandapani and Fleischmann [15] reported a very high equilibrium H/D separation factor for H and D dissolution
+into Pd cathodes at high negative over potentials. They interpreted this fact in a way that the species behave like
+classical oscillators in the lattice, in other words, they are virtually unbounded. Since the delocalization depends on
+the occupancy by the protons of highly excited states, the above stated properties of deuterons inside Pd lattice: high
+diffusion coefﬁcient, inverse isotopic effect, large oscillation in the lattice, implies that many-body interactions must
+come into play and supply the energy required to raise the H+ to such excited states.
+
+Even the analysis of the Born–Haber cycle for H in Pd requires some hypothesis “ad hoc”.
+
+The rational chemical design of high-efﬁciency hydrogen Storage Metals (HSM) has to take into account the large
+difference between H+ and H− ions :
+
+(a)
+H−1 → H0 + e−
+(�H ◦ = +0.75 eV),
+
+(b)
+H+1 + e− → H0
+(�H ◦ = −13.60 eV),
+
+(c)
+H0 → H2
+(�H ◦ = −4.52 eV),
+
+(d)
+H−1 + H+1 → H2
+(�H ◦ = −17.37 eV).
+
+Figure 6.
+(a) RBS of Pd on Si compared with a simulation of 9000 Å thick slab of Pd; (b) RBS of the cathode exposed to negative corona discharge
+compared with a simulation of 40 Å of Pd–Pt-Ni Si on 20 000 Å of Si; (c) same as above but on back side of the sample compared with a simulation
+of 300 Å of Pd–Pt-Ni Si on 20 000 Å; (d) ERDA measures the hydrogen content in a 6000 Å depth. The peak shows the hydrogen content inside (on
+the left) and outside (on the right) the sample. See further details in the text.
+
+Thus it is very important to state which is the real state of hydrogen inside the lattice, i.e. if it is in form of H2, H+
+or H−. In 1929 Alfred Cöhn showed in an experiment on electromigration that hydrogen diffuses like a positive charge
+when it enters the Pd lattice. This result was conﬁrmed by other authors [16,17] and the positive fractional charge was
+measured to be in the range of 0.3–0.7. Even modeling the electronic structure [18] conﬁrms that the H drift appears to
+involve partially positive charged ions. Moreover, the same calculations show that, increasing the loading, H hopping
+through tetrahedral sites is energetically more promoted than through octahedral sites. The latter items may be just
+another sign of the β → β′ transitions.
+
+In order to behave like a (partially) positive ion inside the Pd lattice the hydrogen atom (or molecule) must ﬁnd very
+strong electric ﬁelds in order to maintain itself in the ionized state (or to dissociate into two ions). The electric ﬁeld
+inside the lattice must be able to produce a very high energy (13.6 eV over a distance of the Bohr radius 0.57 Å).
+
+Clearly this requires a very peculiar electron distribution !
+
+In a paper of 1994 [19], M. Fleischmann, S. Pons and G. Preparata wrote: “The hydrogen in the Palladium lattice is
+present as protons and the second surprising feature is that the extremely dense proton plasma is present in an electron
+concentration of 600–1000 M . . . we are driven to the conclusion that a satisfactory explanation of the stable existence
+of the dense plasma must be based on an appropriate many-body model”. They centered their statement on the analysis
+of the peculiarity in the Pd–H system described above.
+
+As conclusion, Pd hydride behaves like a solid plasma inside a lattice. Such a perspective allows to explain the
+inﬂuence of an external electric ﬁeld on hydrogen dynamics inside the Pd from a different point of view.
+
+The chemical potential of hydrogen dissolved in Pd, in the α-phase can be set equal to
+
+µH = µ0
+H + RT ln
+�
+x
+1 − x
+�
++ �µH,
+where µ0
+
+H is the standard chemical potential, x = H/Pd, the second term is the conﬁgurational term for the ideal
+statistic standard distribution among octahedral sites and the last one stands for the excess potential. At equilibrium the
+chemical potential of hydrogen in gas equals the chemical potential of hydrogen inside the lattice
+
+µH = 1
+2µH2 + 1
+2RT · ln pH2
+
+and, introducing the Sievert constant K = exp
+��
+µ0
+H − 1
+2µ0
+H2
+�
+/RT
+�
+one obtains
+ln(pH2) = ln
+�
+K ·
+x
+1 − x
+RT (�µH+ + �µe).
+
+The term �µe represents the excess potential contribution of both protons and H− electrons. It is straightforward to
+see that when the last term is omitted the equation represents the behavior in ideal solution state. This is actually
+true in the α-phase x < 0.02 where hydrogen is an ideal solid solution in the host lattice. Increasing the hydrogen
+concentration the elastic contribution �µH+ generates a distortion in the octahedral cage which, in turn, introduces an
+attractive interaction between H-atoms and leads to the formation of clusters of high H density, namely the β-phase.
+From this point on, in case the rigid band model is assumed, the electronic contribution to the excess potential is due
+to the steep increase of the Fermi level caused by the electrons of the dissolved hydrogen, thus the loading is very hard
+to be increased.
+
+The experimental ﬁndings listed above point toward the growth of a new phase at x = xβ′ (namely the β’) where
+protons occupy the tetrahedral sites and become tentatively unbound. In this phase the second (conﬁgurational) term
+in Eq. (1) does not hold any more.
+
+In case a potential V is applied to the metal, the excess potential �µe will include its effect according to [20]
+�µ : |e|z∗V.
+
+In case the metal has a negative potential, the chemical potential of hydrogen inside the lattice fall below the chemical
+potential µext of the hydrogen outside. The proﬁle of the chemical potential µ is thus lowered by: (a) the phase transition
+and (b) the �µe due to the voltage difference between inside and outside the metal. A new equilibrium point will be
+reached at x′ = xeq + δx, where the ﬁrst term is related to the phase transition and the latter to the applied potential
+according to (2). Consequently, if we apply a negative potential to the Pd/H system when the system is in the new phase
+β′ at x ≡ xβ′ a current ﬂow j′ adds up to the electrolytic current jel:
+
+j(x) = jel(x) + j′(x) = jel
+�
+1 + µ(xβ′) − µ(x)
+µ(x′) − µ(xβ′)
+�
+
+which disappears when x ≡ xβ′. It is worthwhile observing that the transverse ﬁeld effect described above is not the
+longitudinal electric ﬁeld generated by a voltage drop across the cathode accountable for electromigration.
+
+A quantitative analysis of this effect can be obtained measuring the R/R0 behavior during the LiOD electrolysis on
+a Pd strip, 1ìm thick sputtered on Vycor glass (see Fig. 7). The deposition was shaped in such a way to have a high
+electric resistance (about 1.5 k�) so that the voltage drop across the cathode was maximized and the longitudinal current
+along the strip was limited. According to the well-known Baranowski relationship between the PdH(D) resistivity and
+the loading ratio it can be seen that the loading increases (the resistance decreases above R/R0 ∼ 1.8) whenever the
+voltage across the cathode increases.
+
+In case the resistance of the cathode is not negligible (a strip, a wire, a patterned deposition) the electrostatic equation
+for the cell has the following solution:
+V (z) =
+Vac
+cosh(ξL) cosh[ξ(L − z)],
+where z is the curvilinear coordinate, Vac is the voltage drop between anode and cathode, L is the total length of the
+cathode and
+ξ2 = ρc
+ρel
+δd F.
+
+Figure 7.Normalized resistance of a Pd deposition on Alumina substrate in LiOD electrolysis.
+
+F is a factor accounting for the cell geometry, δ the cathode thickness and d its width, ρc and ρel the electrical resistivity
+of the cathode and the cell.
+
+This potential acts as a source of the additional current ﬂux which is not uniform across the sample but depends on
+the distance of the point where the voltage Vac is applied. The result is an inhomogeneous loading along the sample.
+
+
+6. PD–H(D) System and Low-energy Nuclear Reactions
+
+The above analysis of PdH(D) systems pictures a quite peculiar system looking like a solid plasma. This may answer the
+thoughtful question about the reality of Low-Energy Nuclear Reactions (LENR) in condensed matter. Such a question
+is usually asked in the context of Quantum Mechanics which shows that “Cold Fusion” should not be possible: nuclear
+physics of deuterons in the lattice (with a space–time scale six orders of magnitude smaller than the space–time scales
+of the lattice) should not differ from nuclear physics in vacuum. However since 1989 several scientists posed the
+problem in the framework of Quantum Electro Dynamics (QED). Preparata et al. [21] observed that the ground state
+in condensed matter involves the atoms/molecules of a macroscopic piece of matter in an intricate dynamical interplay
+mediated by large amplitude (classical) e.m. ﬁelds. This intuition was substantially shared by Julian Swinger [22],
+one of the fathers of QED: deuterons inside the Pd lattice can be described as a plasma in condensed matter having a
+strong electromagnetic coupling with the lattice. In such a picture LENR appear as a natural development of the very
+ﬁrst concept of nuclear fusion.
+
+The very ﬁrst nuclear fusion reaction used 100-kV powerful gas discharge developed by Mark Oliphant, heavy
+water for the Deuterium was produced by Paul Harteck while the analysis of the cloud chamber was done by Lord
+Rutherford [23]. First attempts to develop the reaction into an energy source were done by Oliphant in 1937 who tried
+to produce extremely intense deuterium or deuterium–tritium beams from gas discharges, having an energy of about
+100 keV, to hit targets containing deuterium or deuterium–tritium. These attempts were radically rejected by Spitzer
+(1957) who argued that such beam experiments do well result in fusion reactions but it is absolutely impossible to
+produce more energy by fusion than is put in for the beams. The Spitzer objection was that the ion energy goes mostly
+into heating of the electrons in the target, never permitting an exothermal fusion reaction. Spitzer’s option led to the
+decision that instead of bombarding a cold target, one has to heat the reacting particles as in the sun, up to the plasma
+state at a temperature of dozens of million degrees so that ions do not lose their energy by collisions with electrons and
+the desired fusion reactions can take place. Following Spitzer’s argument, the handling of the fusion plasma within the
+magnetic conﬁnement is at a stage at which a test reactor ITER is going to be built by 2015, which may lead, hopefully,
+to a power station to supply 4 GW fusion energy output by 2040.
+
+Spitzer’s argument keeps its full validity as long as the beam-irradiated target remains at ordinary state of matter.
+
+The basic concept of thermonuclear fusion is to produce extremely high temperature plasmas with a suitable density
+in order to sustain the reaction.
+
+But, what if a solid-state plasma can be naturally available in nature at room temperature!
+
+If we study the dynamics of particles moving as a screened ion gas in condensed matter we must pay attention to
+the boundary conditions due to the very complex disposition of the atoms and their electronic clouds in the equilibrium
+positions of the lattice. The dynamics of deuterons in the Pd lattice is similar to the motion of charged particles stored in
+a radiofrequency electric quadrupole trap subjected to the Mathieu’s equations. Pd electrons of the outer bands oscillate
+around their equilibrium sites producing strong electric ﬁelds; due to the peculiar structure of the Pd lattice a radio
+frequency trap is formed among Pd atoms in (101) and (101) planes. It can be shown [24] that the combined effect of
+the trap force, electrostatic interaction, non linearity and damping produce, under proper conditions, the increase of the
+collision probability between quasi-free deuterons. The initial conditions, i.e. the deuterons density, their velocity and
+their initial coordinates determine the overall percentage of colliding particles. Thus experimental conditions able to
+affect the dynamics of deuterons in a way that an external electric ﬁeld or a suitable deuteron ﬂux from side to side can
+signiﬁcantly increase the collision rate. This may explain the different experimental approaches to the phenomenon
+and the variety of experimental results in terms of nature and yield of nuclear products: (a) static approach means that
+the material has a very high loading ratio, at which a signiﬁcant part of the lattice fulﬁlls the condition described by
+Preparata et al. in [21]; (b) dynamical approach based on deuteron or D2 gas ﬂux through the Pd target.
+
+Physical mechanisms responsible for the observed nuclear event have been proposed [25,26] but their discussion is
+out of the scope within this paper. From the above description of PdH(D) systems three major considerations result:
+(a) at high loading ratios a phase transition occurs so that hydrogen (or Deuteron) behave like almost unbound charged
+particles; the strong coupling of these particles with the electromagnetic ﬁeld that exists inside the matter makes the
+familiar picture of nuclear reactions in vacuum unsuited to describe the energy release typical of a localized nuclear
+event; (b) hydrogen or Deuteron are in a quasi-plasma state and their dynamics inside the lattice is strongly inﬂuenced
+not only by the local structure of the lattice but also by their kinetic conditions. This may explain why so many different
+experimental approaches have been proposed so far to trigger LENR; (c) the energy resulting from a nuclear event is
+shared among several components which implies the existence of high energy classic ﬁelds which can, in turn, induce
+secondary nuclear reactions, such as transmutations.
+
+
+References
+
+T. Graham, Phyl. Trans. Roy. Soc. 156 (1866) 415.
+Z. Cohn, Elektrochem. 35 (1929) 676.
+A.H. Verbruggen, R. Griessen, J.H. Rector, Phys. Rev Lett. 52 (1984) 1625.
+H. Peisl, Lattice strains due to hydrogen in metals, in Hydrogen in Metals I, Ch. 3, G. Alefeld, J. Volkl (eds.), Springer, Berlin,
+R. Wisniewski, J. Rostocki, Phys. Rev. B 3(2) (1971) 251.
+G. Bambakidis, R.J. Smith, D.A. Otterson, Phys. Rev. 177 (1969) 1044.
+K. Kandasamy, Int. J. hydrogen Energy 20 (1995) 455.
+R. Felici, L. Bertalot, A. De Ninno, A. La Barbera, V. Violante, Rev. Sci. Instrum. 66 (1995) 3344.
+A. De Ninno, A. la Barbera, V. Violante, J. Alloys and compounds 253–254 (1997) 181–184.
+[10] A. De Ninno, V. Violante, A. La Barbera, Phys. Rev. B 56(5) (1997) 2417–2420.
+[11] A. De Ninno, M. Vittori Antisari, C. Giangiordano, ICCF7 International Conference on Cold Fusion, Vancouver, 1998, pp.
+[12] Di Pascasio F., Gozzi D., Trionfetti C., J. Appl. Phys. 97 (2005) 043304.
+[13] A. Tomaszewska, Z.M. St.pie., XIII International Seminar on Physics and Chemistry of Solids IOP Publishing, J. Phys. Conf.
+Series 79 (2007) 012028.
+[14] J. Zhou, Q. Wang.Q. Sun, P. Jena, X.S. Chen, PNAS 107 (2010) 2801–2806.
+[15] B. Dandapani, M. Fleischmann, J. Electroanal. Chem. 39 (1972) 323.
+[16] A. Herold, J.C. Rat, Bull. Soc. Chim. Fr. 1 (1972) 80.
+[17] M. Tamaki, S. Hara, I. Kondoh, K. Yoneda, A. Tsuruno, H. Kobayashi, Nucl. Instrum. Meth. Phys. Res. A 377 (1996) 166.
+[18] N. Luo, G.H. Miley, A.G. Lipson, Appl. Surface Sci. 219 (2003) 167—173.
+[19] M. Fleishmann, S. Pons, G. Preparata, Il Nuovo Cimento 107(1) (1994) 143–156.
+[20] M. Cola, E. Del Giudice, A. De Ninno, G. Preparata, ICCF8 International Conference on Cold Fusion, SIF Conference
+Proceed. Vol. 70, F. Scaramuzzi (ed.), SIF, Bologna, 2000, pp. 349–356.
+[21] T. Bressani, E. Del Giudice, G. Preparata, Nuovo Cimento 101A (1989) 845.
+[22] J. Schwinger, Nuclear energy in an atomic lattice, In Proceedings of the First Annual Conference on Cold Fusion, Salt Lake
+City – Utah, March 28–31, 1990, pp. 130.
+[23] M.C. Oliphant, P. Harteck, Lord Rutherford, Nature 113 (1934) 413.
+[24] V. Violante, A. De Ninno, Fusion Technol. 31 (1997) 219–227.
+[25] see “Theory, Mechanism and Modeling” in Low Energy Nuclear Reaction Sourcebook, Jan Marwan, Steven B. Krivit (eds.),
+ACS Symposium Series 998, 2008, pp. 39–122.
+[26] A, Widom, L. Larsen, Eur. Phys. J. C (2006) (DOI) 10.1140/epjc/s2006-02479-8.

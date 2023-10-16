@@ -1,0 +1,1679 @@
+Introduction 
+
+The Third International Cold Fusion Conference took place in Nagoya, Japan between 
+October 21 and October 25, 1992. Over 300 attendees participated, listening to about 27 oral 
+presentations and looking over roughly 80 poster papers. Many people have asked me about the 
+conference, and rather than repeating the same things over and over again, I thought that it would 
+be useful to put my thoughts down on paper as a more efficient method of communication. 
+
+Given the near complete absence of cold fusion sessions in more traditional physics and 
+chemistry meetings, the international conferences represent about the only chance for people in 
+the cold fusion field to get together and learn about what has happened lately. The international 
+conferences, starting with the Salt Lake City conference in 1990, followed by Como, Italy in 
+1991, and now Nagoya, Japan in 1992, have been and continue to be the most important sources 
+of reliable and relevant information in the field; an important meeting was also held at BYU in 
+1990 which focused on nuclear products. The field is advancing pretty rapidly these days, and 
+since publications tend to lag with more than a year's delay, the conferences and conference 
+proceedings play a key role in the field. The next international conference was originally 
+scheduled to take place in Hawaii in November, 1993; I understand that it may be delayed until 
+December. 
+
+The results presented at this conference were overall technically much stronger than last 
+year's conference, and benefitted by a very strong showing from the Japanese contingent. I will 
+first itemize what I thought were some of the most interesting new experimental results presented 
+at the conference. 
+
+I admit to having numerous biases. One bias is that I believe the observations of excess 
+power are ultimately the most important, both scientifically and technologically. Another bias is 
+that I favor results which in my view help to elucidate reaction mechanisms. 
+
+Following the discussion of significant positive results, I review abstracts and 
+presentations of negative results. Coming from the theory end of the field, I felt that it was 
+appropriate for me to survey the theory papers which were presented (in the following section); 
+in this case, it was possible to include a larger fraction of the papers submitted. Having my own 
+theory as to the origin of the effect, I warn the reader that my discussion of theory necessarily 
+carries a bias in favor of my world view; it is my hope that this discussion will be useful in spite 
+of this bias. Almost as interesting in some cases as what was presented, was what was not 
+presented; a discussion of work that was absent is presented before the summary and 
+conclusions. 
+
+For a review as long as this one, there are many issues and many details, most of which I 
+have made a serious attempt to get right. I would hope that I will not make enemies of those 
+whose work I did not include (which at this point will include about half of all papers submitted). 
+This review was constructed from preprints, notes, memory, and discussions with many people 
+in the field -- should the reader note errors or misconceptions, I would appreciate corrections. 
+
+
+Survey Of Positive Results 
+
+1. S. Pons1,2 described briefly recent results obtained at the Japanese-funded IMRA 
+laboratory in Sophia Antipolis, France. During the Como meeting (July, 1991), Pons and 
+Fleischmann had announced that they were able to obtain very high levels of excess 
+power production (on the order of 1000 Watts/cm3) corresponding to a factor of 10 power 
+gain, and that they had done so 11 times. 
+
+Part of their research since then has focused on defining a procedure that would improve 
+on the reproducibility of this very high power effect (at Como, they had announced that 
+complete reproducibility had been attained on achieving consistent excess power at lower 
+levels). At Nagoya, Pons reported that this had been accomplished; that very high levels 
+of heat production (more than 1 kilowatt/cm3) were now obtained reproducibly 
+accompanied by a factor of 4 power gain. 
+
+The key to the new results included some advances that they outlined. One such 
+improvement involves the observation that the excess power generation increases at 
+higher temperatures. The cathode is charged at intermediate current densities at 
+temperatures below 50E C for several days, and then the current is stepped up. Due to the 
+relatively low thermal loss of the cell and calorimeter, the cell temperature rises, but the 
+loading is maintained. This rise improves the excess power generation, which in turn 
+drives the temperature higher; the positive feedback leads to very high excess power 
+generation and vigorous boiling. 
+
+Pons and Fleischmann perform their calorimetry using open cell systems, which have the 
+advantage of being cheaper and more accessible, and allows them to do more 
+experiments at a time. The particular method of calorimetry which they have developed 
+was motivated in part by the existence of the positive feedback described above -- Pons 
+and Fleischmann are able to achieve good calorimetric precision with time-varying 
+electrolyte levels, cell temperatures and cell voltages. Most others have sought in their 
+work to maintain either constant temperature or power, or else require the presence of 
+steady-state conditions in their system to obtain accurate results. Very few groups have so 
+far taken advantage of such sophisticated methods to obtain excess power values from 
+their raw data; no other groups have yet reported the ability to obtain reproducibly the 
+high power and boiling mode reported by Pons and Fleischmann. 
+
+It was pointed out by Pons that the calorimetry could be checked during the very high 
+excess power burst by measuring the time taken to boil away the electrolyte, and using a 
+knowledge of the heat of vaporization to compute the total energy and hence power 
+generation. He presented the results of this analysis for one cell, which he said was in 
+agreement with the calorimetric results. 
+
+Pons stated that 2.5 moles (close to 50 cc) of D2O were boiled away during a time of 
+about 10 minutes, during which time the average iv input power was 37.5 watts. The 
+numbers can be checked, as follows: The heat of vaporization of heavy water is about 41 
+kJ/mol at 100E C, and 2.5 moles of heavy water corresponds to 102.5 kJ; the energy lost 
+during this time in the calorimeter (primarily radiative) is 6.7 kJ. The input electrical iv 
+energy during this time is 22.5 kJ. The excess energy produced is the output energy 
+(102.5 + 6.7 kJ) minus the input energy (22.5 kJ), or 86.7 kJ. The production of 86.7 kJ in 
+10 minutes corresponds to an excess power of 144.5 watts, and a power gain of 3.85. 
+
+The volume of the cathode was given to be 0.0785 cm3, which was noted by many (this 
+volume was in error, as will be commented on shortly). The average excess power 
+claimed during the boiling episode was 144.5 Watts, which would correspond to 1841 
+W/cm3. 
+
+The cathode geometry was given by Pons to be cylindrical, with a diameter of 2 mm and 
+a length of 1.25 cm. I note that this geometry does not correspond to the volume quoted 
+by Pons above -- a rod of these dimensions would have a volume of 0.03927 cm3, which 
+is almost precisely a factor of 2 smaller than the volume given during Pons talk. Pons has 
+confirmed that this smaller volume is correct (the correct value appears in their 
+conference proceeding2). I will continue my discussion here using the corrected power 
+per unit volume, which is 3682 W/cm3. 
+
+The anomalous excess energy production in this experiment is considerable, as can be 
+calculated. In 1 minute, 8.7 kJ of excess energy is produced. At a density of 12.02 g/cm3 
+and an average mass of 106.42 amu, pure Pd contains 6.8 H 1022 atoms/cm3. The total 
+number of atoms in the cathode is 2.7 H 1021, or 0.0044 moles. In 1 minute, the excess 
+energy production is 1.96 MJ/mole, which corresponds to 20.3 eV/atom of Pd. This 
+number is greater than can be accounted for by a chemical explanation for the effect. 
+After 10 minutes, the cathode has produced 203 eV/atom. 
+
+In the absence of current flow, film-boiling limits the heat flow from the cathode at 
+cathode temperatures higher than about 120E C; the maximum heat flux from the rod 
+under these conditions is limited to I think somewhere near 125 Watts/cm2. The surface 
+area of the cathode, including the top and bottom, is 0.85 cm2, which leads to an observed 
+average heat flux of about 170 Watts/cm2. This number is comparable to, but greater than 
+my version of the film-boiling limit given above, and was a potential cause for concern. 
+
+Pons and Fleischmann have considered this effect, and have found experimentally that 
+the presence of current flow delays the onset of film-boiling to higher temperatures and 
+higher heat fluxes. In their conference proceeding, they claim2 to have observed heat 
+transfer rates during electrolysis in separate experiments which are between 1-10 
+kW/cm2. I consider this result to be very important. 
+
+The cathode gets very hot in these experiments. Pons and Fleischmann have observed the 
+Kel-F supports at the base of the cathodes to melt, from which the presence of 
+temperatures in excess of 300E C are inferred. A direct measurement of the cathode 
+temperature is currently problematic; Pons is currently interested in practical proposals as 
+to how to do this without impacting the electrochemistry. 
+
+A common misunderstanding often occurs in the discussion of the results of Pons-
+Fleischmann experiments which is of interest here. It is sometimes argued that the energy 
+production during a short event can be disregarded, since there may exist energy storage 
+mechanisms which could have been collecting energy at a low level for a long period of 
+time. For example, the total energy output from this experiment would not be very much 
+larger than the total input energy if no heat excess had occurred prior to the boiling event 
+(1 watt-day = 86.4 kJ). This type of argument seeks to make palatable the notion that 
+since the total energy excess measured over days is small compared to the input (and 
+hence there might exist a signal to noise problem in the measurement), the measurement 
+can be dismissed. As discussed above, this type of argument completely misses a key 
+implication of the experiment -- specifically, that there exists no known physical 
+mechanism which could store the energy observed to be released during the boiling 
+episode. 
+
+It is true of this experiment as well as of others to be described below, that no products or 
+“ashes” of the heat have been found and verified that are commensurate with the energy 
+production. This will be discussed further below. 
+
+2. M. McKubre3,4 described experiments done at SRI during the past several years. They 
+have developed closed cell flow calorimeters, which are ideally first principle 
+calorimeters (which means that the heat flow out of the cell goes into the flowing water 
+coolant, and the power generation is determined by measuring the mass flow rate and 
+output to input flow temperature difference, with no calibration required). They have 
+succeeded in reducing the conduction losses (which are not first principle contributions) 
+down to the order of one per cent, and then they calibrate the Fick's law constant 
+associated with the conduction losses. Overall, the SRI calorimeters achieve a relative 
+accuracy in the calorimetric measurements which is on the order of a few tenths of a per 
+cent. 
+
+The SRI group reported the development of a procedure at Como that appeared to yield 
+excess heat essentially every time, and this method is described in the Como conference 
+proceedings. Highlights of these experiments were discussed. A significant advance that 
+was pioneered by the SRI group was described: it consisted of the addition of aluminate 
+or silicate to the electrolyte, which caused the formation of a colloidal surface layer that 
+passed light ions (deuterium, lithium, boron,...) and shielded the surface from impurities; 
+this procedure improves the ability of the Pd rod to maintain a high loading ratio. 
+
+Two distinct modes of excess power generation were observed; one in which the excess 
+power occurs at relatively low levels (1%-50%) and responds to changes in current 
+density (they have observed 38 occurrences of this mode, lasting hours to many days), 
+and one that is characterized by much higher relative power levels (up to 350% excess) 
+and appears to be insensitive to changes in current (this mode has been observed 3 times, 
+lasting many hours). 
+
+For the first mode of heat generation, SRI finds that the excess power rises linearly with 
+current above a threshold current density (which is on the order of 100-200 mA/cm2). A 
+graph illustrating this appears in their conference proceeding.4 This is in apparent contrast 
+with the Pons and Fleischmann results, which showed a possible quadratic component to 
+the increase above threshold current. Discussion during the meeting pointed to the fact 
+that the SRI experiments are run at constant temperature, while the temperature of the 
+Pons and Fleischmann cells increase when excess heat is produced. 
+
+Mckubre presented a graph of excess power production as a function of fractional 
+deuterium loading as determined from resistance ratio measurements. This dependence 
+was found to increase roughly parabolically above a loading of 0.85 (Pxs-(x-0.85)2) up to 
+loadings near 0.95, which is as high as had been achieved during their C1 experiment. 
+
+The group has spent considerable effort chasing down and quantifying uncertainties in 
+the SRI experiments, and are now able to assign meaningful error bars to essentially all 
+quantities measured and inferred in their experiments. The result of this analysis yields 
+rather high sigma numbers on the excess power measurements (in excess of 50 sigma on 
+some of the best data analyzed so far). 
+
+Their largest power numbers correspond to on the order of 15 W/cm3; it would take a 
+small number of hours of running at this level to defeat a chemical storage explanation. 
+Their highest excess total energy numbers have reached 200 MJ/mole of Pd, which 
+corresponds roughly to 2 KeV per Pd atom; this level of excess energy production cannot 
+be of chemical origin. 
+
+3. K. Kunimatsu5,6 of IMRA JAPAN Co. in Sapporo presented results on their heavy water 
+electrolysis experiments. A number of things struck me as being interesting about this 
+talk, aside from the fact that this is one of the first presentations of anything from this 
+group at a conference at which I have managed to be. This effort appears to have a great 
+deal of resources and some nontrivial technical expertise. They reported excess power 
+measurements as a function of loading (where the loading was determined through 
+measurements of the deuterium gas pressure in the cell), and arrived at essentially the 
+same dependence of excess power on loading fraction as SRI, but with the cut-off shifted 
+down by a few points relative to the SRI results (from a D/Pd ratio of 0.85 inferred from 
+a resistance ratio measurement, down closer to 0.83 determined from measurements of 
+the D2 gas pressure6). The peak excess power occurs when the current density is greater 
+than 100 mA/cm2, and the peak excess power which appears on the graph in Ref. 6 is 
+about 35%. 
+
+The IMRA experiments differed qualitatively from the SRI and Pons-Fleischmann 
+experiments in that they were run in fuel-cell mode. Conventional Pons-Fleischmann 
+electrolysis experiments are run such that D2 gas is generated at the cathode and O2 gas is 
+generated at the anode. IMRA has developed a pressurized cell in which deuterium 
+reactions occur at the anode. Cells operating in fuel-cell mode have been developed in the 
+past, however, this is the first time that I am aware that a Pons-Fleischmann cell has 
+generated excess power sufficiently reliably while operating in such a mode to produce 
+relatively high quality excess power data of the sort presented. 
+
+This group seems to have good people, good funding, and much expertise. They 
+presented several poster papers on studies of excess power generation, and the absorption 
+of hydrogen and deuterium in palladium cathodes7-10 I think that we will be hearing much 
+more from them in the future. 
+
+I note that a positive correlation between loading and excess heat production in a Pd/D 
+modified Pons-Fleischmann experiment was reported by Scaramuzzi and De Ninno in a 
+poster paper.11,12 
+
+4. Ya. R. Kucherov13-15 from the Luch Association, Podolsk, Moscow Region described 
+experiments that I thought were very important. 
+
+The experiment involves using a glow discharge to load a Pd (or other metal) foil (1 cm H 
+1 cm H 0.1 mm - 1.0 mm) in D2 gas at 10 torr, with a 400 V discharge (10 - 500 mA 
+current). Apparently this group has had considerable experience with glow discharges 
+and is aware of several tricks that help to preserve the surface of the cathode which helps 
+to attain very high loading (a D/Pd ratio of more than 1). 
+
+Numerous effects are observed; excess heat production will first be considered. 
+Temperatures were monitored using W-Re thermocouples in the cathode and anode, and 
+also CC thermocouples in a heat collector some distance from the cathode. Calibration 
+was done through comparing temperature histories of “live” Pd cathodes (cathodes 
+producing neutron, gamma and fast particle emission) in deuterium with those of “worn 
+out” cathodes (cathodes producing no anomalous emission). Excess power production at 
+the level of tens of watts is observed; their best result out of 78 experiments is a 33 watt 
+excess representing a power gain of a factor of 5. Given the small total cathode volume, 
+the resulting power generation rate is quite high; the highest values are on the order of 
+3000 watts/cm3 of Pd. The highest total energy production observed to date exceeds 20 
+kJ. 
+
+After about 100 seconds after the start of the discharge, neutron emission is observed (a 
+huge signal, reaching up to 106 neutrons/sec in some experiments). The neutron detection 
+described in their earlier work was done using RUP-1 silver activated ZnS scintillation 
+detectors and type SNM-18 gas discharge (3He) detectors. The 106 neutron/sec signal 
+appeared in the scintillation detector as 2000 counts/sec at a distance of 1 meter; the 
+signal showed up as 10000 pulses/second at a distance of 30 cm on the SNM-18 detector. 
+No emission was observed using a hydrogen discharge. 
+
+After a while, gamma emission is then observed (also a huge signal, up to 105 
+gammas/sec in some experiments). The gamma emission was studied using four detectors 
+(Ge-Li, stilbene, NaI and SPS plastic); most of the recent results were obtained using a 
+liquid nitrogen-cooled Ge-Li DGDK-50 detector with 1.6 keV resolution at 1332 keV, 
+and an efficiency of 10-3 at 511 keV. An example of an anomalous gamma spectrum from 
+Pd is shown in a recent publication16. 
+
+Gamma lines were identified from short-lived isotopes (the gamma spectrum returns to 
+its initial state in 3-5 days), and some of the identified lines originate in isotopes in the 
+neighborhood of Pd (lines originating from isotopes with a nuclear charge of Z-3 to Z+8, 
+where Z=46 for Pd, were observed). 
+
+A very substantial flux (104 to 106 ions/sec) of fast ions is emitted from the cathode, and 
+silicon surface barrier detectors were used for detection. The bulk of the emission occurs 
+between 1-5 MeV, and in some experiments lasts for a few minutes after the discharge is 
+switched off which allows for an accurate determination of the spectrum. Correlated fast 
+ion emission was registered on calibrated CR-39 plates installed inside the discharge 
+chamber. 
+
+A small fraction of the fast ions are observed at high energy; peaks were observed at 6 
+MeV, 12 MeV and 16 MeV. The mass of the particles at 12 MeV and higher was 
+determined to be greater than or equal to 4, as determined through measurements with 
+different barrier thicknesses. 
+
+5. There was a Chinese team17-20 that presented results from a somewhat similar system to 
+that described by Kucherov. A glow discharge was created by applying high voltage (7-
+11 KV, 50 Hz) between two electrodes inside of a glass bulb containing deuterium at low 
+pressure (4-13 torr). A thin (1 micron) metallic layer of the electrode material (for 
+example, Pd) was deposited on the interior of the glass bulb. The glow discharge current 
+was less than 100 mA; an anomalous current was observed with an average value of 1 A, 
+and excursions up to 10 A. A D/Pd ratio of 0.5-0.8 was claimed to have been obtained. 
+
+Substantial neutron emission (13-330 neutrons/sec) was observed, and the energy 
+spectrum was resolved with a recoil proton fast neutron scintillation spectrometer. The 
+resulting neutron spectrum contained both 2.0-2.5 MeV neutrons, and broad emission 
+between 2.5-7.0 MeV; most of the emission occurred above 2.5 MeV. 
+
+Neutron emission was also recorded from metals chosen at random, and the signal 
+strength varied with metal according to the order Pt, Nb, W, Pd, Ag, Cu, Mo and Fe. The 
+fluence observed from the D/Pt system was 1.2 H 104 neutrons/sec. 
+
+The energy spectrum of the neutron emission for these metals was also observed. In the 
+case of the D/Pt emission shows broad emission up to about 8 MeV, decreasing generally 
+with increasing neutron energy, and with a number of possible peaks appearing. 
+
+Intense gamma spectra were also observed with a NaI scintillation counter during the 
+experiments; the gamma ray yield was about ten times that of the neutron yield. The 
+gamma spectrum of D/Nb showed lines at tens of KeV, 3.4 MeV and 5.8 MeV, and some 
+unresolved emission below 7 MeV. 
+
+These experiments seem to me to be similar to the experiment described in 1989 by 
+Wada.21 Another experiment of this sort was reported by Tazima, Isii and Ikegami, and 
+also by Jin, Zhang, Yao and Wu, at the Como conference. 
+
+6. E. Yamaguchi of NTT presented a paper22,23 on 4He production from a PdD foil that is 
+sandwiched by gold and MnOx. I think of the NTT research labs as being the ATT Bell 
+Labs of Japan, which has an excellent technical reputation. This paper attracted 
+considerable interest in the Japanese media, and there were reports that the price of the 
+NTT stock climbed as a result. The NTT stock climbed a bit more than 10%; Morrison 
+pointed out in his review that the stock went back down to its pre-announcement value 
+within a few days. 
+
+In the experiments that he reported, a current of 0.5-0.8 A/cm2 is applied perpendicularly 
+to the sandwich. The foil produces heat at a level of 0.5-5 Watts for about 1000 seconds 
+(this is the case whether the foil is PdD or PdH), and then explosively outgasses. At the 
+peak of the outgassing, the samples undergo substantial plastic deformation which lasts 
+for about 10 seconds. During his presentation, it was not obvious whether the temperature 
+rise observed was being claimed as anomalous or not. If the foil is deuterated, these 
+phenomena are accompanied by 4He emission. 
+
+Yamaguchi previously reported at the BYU conference very high levels of neutron 
+emission from this system at a 106 neutrons/second. The experiments described at 
+Nagoya included only helium, heat, and fast charged particle detection. 
+
+The 4He emission is monitored using an expensive high resolution mass spectrometer that 
+is capable of distinguishing between 4He and D2 signals, as was demonstrated. A minor 
+peak in the data appears near the expected HT mass position, and Yamaguchi claimed 
+that this signal indicated the presence of HT (Claytor notes in his trip report that the HT 
+signal, if real, would imply a “radiological hazard (> 10 Ci).”). The H2D trimer is more 
+massive than D2 and does not interfere with the 4He measurement. 
+
+Yamaguchi sees 4He in his mass spectrometer when he uses PdD, and he sees no 4He 
+when he uses PdH. Yamaguchi stated that the amount of 4He was “consistent with the 
+heat,” but if he gave figures for the amount of 4He produced, I missed them. Given that 
+heat occurs for PdH runs as well as for PdD runs, it is not clear what the statement means. 
+Hopefully this issue will be clarified at a later date. 
+
+When asked whether the 4He is due to contamination, Yamaguchi argued that it is not in 
+the D2 gas used, it is not in the metal, and the vacuum system being used is a high quality 
+system of the type used in semiconductor research that will hold a 10-6 torr vacuum for a 
+month without pumping. 
+
+Yamaguchi also sees 3 MeV protons and fast alphas at 4.5-6 MeV using two identical 
+systems based on silicon detectors (Canberra Si-SSD:PD-450-19-700-AM; active 
+area=4.5 cm2, active thickness = 700 mu). Protons were observed at 3 MeV, and were 
+attributed to the p+t branch of the dd-fusion process. Significant emission was observed 
+between 4.5-6.0 MeV; by comparing signals with and without an intervening 7 mu foil, 
+these signals were identified as being due to either alphas or 3He nuclei. The total number 
+of fast particles detected was a few hundred per experiment. 
+
+The experiment which Yamaguchi and Nishioka have constructed looks very impressive; 
+I got the impression that the helium measurement capability was relatively new. I think 
+that the 4He signals are real, but I am less convinced yet that it has been made through an 
+anomalous effect. The strongest argument in support of it being genuine is the rather 
+strong time-correlation of the 4He signal with the temperature excursion of the foil. 
+
+The NTT group has been active for years, and by now I think that the basic anomalies 
+which they observe are likely to be right. The new result presented at Nagoya is the 
+helium measurement, which I will be more comfortable with after Yamaguchi and 
+Nishioka have had more experience exploring. I look forward to more results from this 
+group. 
+
+I note that the first significant claim for substantial 4He production in Pons-Fleischmann 
+electrolysis experiments were made at Como by Miles and coworkers at China Lake. 
+Previous negative results had been obtained in searches for helium in the cathode; Miles 
+and coworkers claimed the observation of 4He in the gas stream. Miles presented a paper 
+at Nagoya24 which gave an update of the group's recent efforts, which have been hindered 
+by an inability to obtain significant excess heat. 
+
+Bockris reported at Nagoya25 observations of 4He above background (by factors of 2-100) 
+that accompanied tritium production (described below); the helium was analyzed by 
+thermal expulsion and mass spectroscopy. 
+
+7. S. Isagawa et al from the Japanese National Laboratory for High Energy Physics (the 
+KEK collaboration) reported their results on experiments involving searches for heat, 
+tritium and neutrons in Pons-Fleischmann cells.26,27 I was impressed that the KEK was 
+working at all in this area, and even though they have apparently had an effort at some 
+level since 1989, it appeared to me from their presentation that they have more or less 
+just gotten started. 
+
+Most of their results to date are negative, and it appears that they are confident that they 
+are going to get the expected (that is, null) results. Of the possible excess heat events that 
+they have observed so far, they have been able to rule out all but one as being due to 
+known (non-anomalous) causes. Neutron emission is mostly not observed, but they have 
+one event at 3.5 sigma of excess neutron emission (23 " 7 neutrons/sec) recorded over 
+nine hours from one PdD cell after 20 hours of electrolysis. 
+
+Although their results to date have little impact on the field, should they continue, their 
+contributions could be and should be substantial in time. One thing that this group would 
+be able to do which few other groups in the field are as well suited to do to bring on 
+board the physics community. Positive results obtained at the KEK would stir interest in 
+other physics laboratories as almost no other result. The physicists have written off Pons 
+and Fleischmann, so they are free to ignore the claim of kilowatt/cm3 reported at the 
+conference; but if the KEK gets 10% heat power at 10 Watts/cm3, I would bet that every 
+physics lab on the planet will likely be pulling out their electrochemistry sets again. 
+
+8. T. P. Perng of National Tsing Hua University in Hsinchu, Taiwan described observations 
+of excess power from molten salt electrolysis experiments as part of a paper on heavy 
+water Pons-Fleischmann experiments.28 Although I did not recall seeing it, and I have no 
+notes of it, numerous friends at the conference mentioned it to me (including Liaw). I 
+also received a preprint of this work. 
+
+Liaw and coworkers at the U. of Hawaii described at the last two international cold fusion 
+conferences experiments using molten salt electrolysis with Pd and Ti anodes in a LiCl-
+KCl eutectic saturated with LiD. At Como, the group reported the observation of excess 
+power at a level of about 10 times the input electrochemical power in Pd (up to a 30% 
+increase over electrochemical plus heater power), with an energy gain reported as about 1 
+GJ/mole Pd or 6 MJ/mole D2. The Pd anode volume was 0.040 cm3, so that the excess 
+power per unit anode volume is about 250 watts/cm3. 
+
+This result was important because the power excess was so large relative to the 
+electrochemical input power, and because the temperature excess was on the order of a 
+hundred degrees centigrade, which would have the potential for efficient energy 
+extraction. 
+
+Little progress has so far been reported toward a reproduction of the Liaw experiment. 
+Perng described results from an experiment performed to provide a confirmation of the 
+Liaw experiment; the power excess claimed was on the order of 2-5 times the input 
+power. 
+
+The preprint29 from C. M. Wan et al consists of an abstract and copies of 11 figures, from 
+which I will attempt to give an account of the work. Following Liaw, the palladium 
+electrode is used as an anode (instead of a cathode as is done in conventional Pons-
+Fleischmann experiments), immersed in a KCl-LiCl eutectic saturated with LiD. The 
+anode dimensions are 6 mm diameter and 5 cm length. The molten salt sits in an 
+aluminum container which serves as the cathode. The temperature is sensed using a 
+thermocouple embedded in a quartz tube which is placed in the molten salt in the general 
+vicinity of the Pd anode. A Ni-Cr alloy resistive wire heater (encased in quartz) is 
+wrapped around the cell, within a ceramic fiber insulator. Nearby is a 3He neutron 
+detector with a 0.01% detection efficiency. 
+
+From the figures and the abstract, it is clear that a time-dependent excess neutron signal 
+appears following 200 hours of electrolysis, at twice background (background is 5.51 " 
+0.44 cpm) corresponding to 800 neutrons/sec. This neutron signal is rather clearly 
+correlated with the excess power production which is time-dependent and rises to about 
+10 watts. Given the large anode volume, this level of excess power corresponds to about 
+7 watts/cm3. The associated temperature excursions are about 25E C, with one excursion 
+up to 50E C. 
+
+The abstract quotes power gains of 5 to 108 for the 6 mm Pd rod which is 5 cm long, and 
+power gains of 8 to 560 from a 4.5 mm diameter rod. These numbers are very high and 
+represent excesses in comparison with electrochemical power rather than total input 
+power; I think that the highest numbers correspond to modest excess powers observed at 
+low input current level. 
+
+There was an abstract from the National Tsing Hua University by Yuan et al that 
+described a molten salt experiment;30 I do not know whether this paper was presented. I 
+suspect that this paper may not have been presented, and that Perng was reviewing results 
+obtained by his colleagues. 
+
+9. There were several papers on attempts at replicating the Takahashi experiment that 
+captured the attention of the Japanese press earlier this year. A. Takahashi described 
+earlier this year obtaining tremendous excess heat in a heavy water electrolysis 
+experiment that ran at an average of 1.7 output power over input power for about two 
+months.31,32 The total excess enthalpy generated was claimed to be about 2250 MJ/mole 
+Pd (more than 20 KeV per Pd atom), which is one of the highest claims to date from this 
+type of experiment. Following Takahashi's announcement, many laboratories attempted a 
+replication. 
+
+Takahashi's experiment is similar in many ways to the classical Pons-Fleischmann 
+experiments with some variations. A Pd foil from Tanaka Kikinziku Kyogo (Tanaka 
+Precious Metals Co.) with dimensions 2.5 cm H 2.5 cm H 1 mm is used for a cathode 
+instead of a rod. The electrolyte volume is very large (700 cc of D2O with 0.3 M LiOD). 
+An innovation of Takahashi is the use of a time-varying current which alternates between 
+a high mode (4-5 amps) and a low mode (0.2-0.4 amps) every six hours. 
+
+Takahasi's calorimeter is an open cell flow calorimeter, where water from a chiller is 
+flowed through a coil inside the cell, and the power is determined from a knowledge of 
+the mass flow rate and the input-output temperature difference. An advantage of this type 
+of calorimeter design is that it is able to function at near constant temperature when high 
+power is applied to the electrochemistry. The temperature was monitored using teflon 
+coated thermocouples at the inlet, outlet, and cell interior. The cell was calibrated before 
+and after the run in the initial experiment, and the calibration lines were approximately 
+reproduced. 
+
+The total input energy for the initial experiment was 250 MJ, the total output energy 
+measured was 410 MJ, leading to an excess of 160 MJ. Takahashi's excess power level 
+claimed was 32 watts averaged over two months, with excursions to 100-130 watts. The 
+cathode volume is 0.625 cm3 (0.0706 moles), so that the average power density is 51 
+watts/cm3 and peak excursions are 160-208 watts/cm3. As discussed above, a chemical 
+explanation of the effect (barring other systematic errors) is defeated in less than half an 
+hour at the high excess power levels. 
+
+Attempts at replication had varying degrees of success, but no one has been able to 
+reproduce the very high power levels claimed by Takahashi. In the reproduction which 
+Takahashi reported at Nagoya, the excess average power was 8 watts, with excursions to 
+15 watts. 
+
+Takahashi's method comes with the recommendation that it is a potentially technically 
+easier experiment than other experiments which have been reported. It is less exacting in 
+the rigorous electrochemical purities required as compared to the SRI experiments; the 
+cathodes from Tanaka metals are readily available to workers in the field, in contrast to 
+the Johnson-Matthey cathodes employed by Pons and Fleischmann. The system is in 
+principle relatively cheap to set up; Mallove33 described a version of the Takahashi 
+experiment which was built up using about $10K of hardware funds. 
+
+Storms at LANL is claiming excess heat from a Tanaka batch 1 foil, and no heat from a 
+batch 2 foil.34 The anomalous power from the first foil was more than 20%. The batch 2 
+foil suffered an increase in internal volume on loading, which Storms suggested might be 
+used as an indicator of whether a cathode was suitable for heat experiments. No one has 
+reported a success with a batch 2 foil that I am aware -- batch 3 appears to be free of this 
+problem. 
+
+Celani35,36 described efforts to reproduce the Takahashi experiment at his laboratory in 
+Frascati. Experiments were run in an open cell flow calorimeter using two Tanaka metals 
+batch 1 cathodes, one Tanaka batch 2 cathode, and one IMRA batch 1 cathode. Positive 
+results were obtained with the Tanaka batch 1 rods (at 8% and 25% peak power excess) 
+and with the IMRA rod (12% peak excess). No excess power was observed with the 
+Tanaka batch 2 cathode. Blank experiments were performed where a gold cathode sheet 
+was substituted for the Pd cathodes, and no excess was observed. A correlation between 
+high loading and excess heat was noted; small amounts of excess tritium were reported 
+for the runs which gave excess heat. 
+
+Oyama37 reported a 2.4% excess energy, which is small, but was measured with much 
+smaller error bars; a light water blank showed no excess. 
+
+10. Tritium production was discussed by several groups. The existence of such an effect is 
+interesting because it constitutes an additional signature of the presence of a nuclear 
+phenomenon; tritium cannot be made chemically. An additional feature of many tritium 
+experiments is that the tritium is not accompanied by neutron emission (neutron/tritium 
+ratios of 10-7 - 10-9 have been reported). The dd-fusion reactions would produce neutrons 
+and tritons in roughly equal amounts, so that the observations imply either a new 
+mechanism or else a very significant modification of the fusion reactions. Possibly more 
+significant is that 14 MeV neutrons from d-t fusion reactions would be expected from 
+secondary reactions if the tritium nuclei were created with MeV-level kinetic energy. The 
+very low neutron to tritium ratios claimed imply a very low triton energy (below 10-15 
+keV), sufficiently low to be inconsistent with all but the most exotic reaction 
+mechanisms. 
+
+At Como, strong presentations of tritium production were made by Will, Claytor, Lanza, 
+Szpak. Will has not been active in the field during the past year, and did not attend the 
+Nagoya conference; Lanza has continued, but was not able to attend this year; Szpak has 
+continued, but was also not present at Nagoya. 
+
+Claytor38 (whose work impresses me) described further experiments on tritium 
+production in which a stack of alternating layers of palladium and silicon is placed in 
+deuterium gas at over 10 atmospheres, and a pulsed current is passed through the stack. 
+Reproducible tritium production is claimed at levels of 0.02-0.2 nCi/hr (1.1 H 106 - 1.1 H 
+107 tritium atoms/second). Advances which the LANL group has made during the past 
+year includes: reduction of background tritium, improvement in detection sensitivity, 
+improvement in reproducibility at higher tritium generation rates, and the innovation of 
+working with stacks using Pd built up from powder. Upper limits on neutron emission 
+can be placed from their work as reported at Como of 4 H 10-9 neutrons/second; the 3He 
+neutron detector which they have used (which I saw during a recent visit there) has a 
+roughly similar efficiency for 14 MeV neutrons as for 2.45 MeV neutrons (the detector is 
+more sensitive at 2.45 by a factor of 1.5 according to Menlove). 
+
+Bockris25 described two tritium experiments at Nagoya. In one experiment, a 
+reproduction of the Szpak-Boss experiment described at Como was attempted. Szpak 
+codeposited Pd on either a Cu or Ni substrate from PdCl2 in D2O containing 0.3 N LiCl; 
+continued electrolysis resulted in tritium production. The Pd was observed to plate out 
+during the first 6-8 hours, and excess tritium would be detected about 10 hours later. The 
+experiment Bockris reported involved codeposition of Pd on gold, and tritium production 
+was observed to start as soon as 10 hours after the Pd deposition, and production up to 3 
+times background was observed. This is the first successful confirmation of the Szpak 
+experiment of which I am aware. Bockris did not obtain the high degree of 
+reproducibility claimed by Szpak. 
+
+I note that Miles also described24 attempts to reproduce the Szpak experiment, and 
+reported the observation of a modest tritium increase, but “not clearly beyond levels 
+expected for electrolytic enrichment due to isotopic separation factors.”
+ 
+Much more spectacular are the results reported by Bockris of Chien's experiments on 
+tritium production in a Pd electrolysis experiment where massive amounts of tritium 
+(more than 1015 atoms) were observed. This report is very significant because it 
+represents a new claim for very high levels of excess tritium. 
+
+Early on, reports of very high levels of tritium were reported to have been observed at 
+Texas A&M, corresponding to production rates on the order of 1010 tritium atoms/cm3 or 
+higher. These experiments were clouded by charges of fraud (this charge was apparently 
+investigated by a panel hired by Texas A&M, and not substantiated), and by the 
+observation of high levels of tritium contamination in Pd claimed by Wolf (found by 
+dissolving Pd rods in acid, and then performing scintillation counting on a neutralized 
+version of the resulting solution). Similar experiments reported by Cedzynska (differing 
+in that the distillate of the solution was analyzed by scintillation counting) failed to show 
+contamination at the high levels reported by Wolf, and in addition found that false 
+positives could occur when the solution was not first distilled. 
+
+Subsequently, much more stringent controls were done to attempt to defeat the insidious 
+tritium contamination claimed by Wolf, and new post-Wolf experiments were reported in 
+which anomalous tritium production has been claimed. Except for experiments reported 
+by BARC, most new claims have involved tritium production rates many orders of 
+magnitude below those of the initial claims (the new claims generally ranged from 104 - 
+106 tritium atoms/second). The significance of the Chien experiments is that the tritium 
+production rate claimed by Chien (in a post-Wolf experiment) are some of the first to 
+approach the very high early (pre-Wolf) experimental claims. Much care was taken to 
+avoid possible contamination: samples from the same rod were dissolved in aqua-regia, 
+and the resulting solution distilled, and then analyzed using a scintillation cocktail 
+following the method described by Cedzynska at Como. 
+
+Chien's earlier experiment was carried out at the Institute of Nuclear Energy Research in 
+Lung-Tan, Taiwan. The palladium cathodes used were 1.0 cm in diameter, and 1-2 cm 
+long; Pt wire wrapped around at a distance of 4 mm was used for the anode. Electrolysis 
+was carried out in heavy water with 0.1 M LiOD; tritium assay was done with a 
+scintillation cocktail. Solutions exhibiting high tritium activity were sampled at the time 
+of the experiment (10/89), and then resampled 10 months later (8/90) in order to observe 
+the tritium decay from the sample. Tritium generation rates of 106-109 atoms/second were 
+determined, lasting for a total of 20-30 days. The numbers claimed by Bockris at 
+Nagoya25 for the Texas A&M version of the experiment correspond to about 107 
+atoms/sec/cm2 of surface area, in experiments with a 3-6 cm2 surface area. 
+
+11. V. A. Romodanov gave an oral presentation in the theory panel at Nagoya.39 
+Romodanov's command of the English language was imperfect; he read from his paper 
+for more than 20 minutes in a thick Russian accent. Essentially no one with whom I 
+talked understood the point of what he said, and his abstract did not particularly add to 
+the information content. Given that his talk occurred in the theory section, and given that 
+his theory appeared to be largely classical fusion modified somewhat by lattice effects, no 
+one was expecting that a major experimental result was buried in his presentation. Two 
+things about his talk raised flags for me, indicating that I should try to follow up if 
+possible. One was that he was from Luch, which is the same place Kucherov is from...and 
+I was very impressed by Kucherov's results. The second thing that I recall was that there 
+was a table giving some very high tritium numbers; at the time I thought they were 
+theoretical estimates because they were so large. 
+
+Romodanov handed me a preprint40 which explained in rather clearer English what was 
+the content of his talk. I will focus on what I consider to be the single most important part 
+of his presentation, which if true, is of fundamental importance. Romodanov described 
+the results of glow discharge experiments which appear to have been done on a system 
+very similar to that discussed by Kucherov (see above in this review). Romodanov and 
+his colleagues focused on the detection of tritium produced in glow discharge 
+experiments in Pd and in other metals. 
+
+The glow discharge was run in deuterium gas at 100-200 torr, with an applied voltage in 
+the range of 40-125 V, and a current of 3-4 A (a wide range of operating conditions are 
+described in the paper, and the numbers I have chosen appear on one table -- I am not 
+completely certain from the paper that the tritium generation was done with these 
+parameters). Various cathode metals were used, including Y, Mo, Nb, Er, Ta, and W; as 
+disks with a diameter of 13 cm and a thickness between 500 mu and 1 mm, or rods of 
+0.5-2 cm diameter. The cathode temperatures were measured to be between 970E K and 
+1670E K, with only minor (15% or less due to anomalous self-heating effects). 
+
+Tritium generation rates between 105 atoms/second and 109 atoms/second were measured 
+in the different metals under various conditions. The largest rate (1.7 H 109) was obtained 
+in Nb at 1170E K, corresponding to an increase in tritium activity in the deuterium gas of 
+2.3 H 104. The neutron emission was measured in these experiments with a “radiac 
+instrument RUP-1,” which appears to be a scintillator with silver activated ZnS dispersed 
+in transparent plastic (sounds similar to the detector used by Kucherov), and a neutron to 
+tritium ratio of 1.8 H 10-7 was obtained. 
+
+12. R. Notoya from Hokkaido University brought a light water demo that was set up and 
+operated in the hallway of the conference41. The demo consisted of two cells: in one cell 
+was a resistive heater, and in the other cell was a nickel cathode immersed in a light water 
+K2CO3 electrolyte, similar to the method of R. Mills and colleagues.42 Notoya's method 
+differs from Mill's method in that (1) the Notoya cathode is made of porous nickel, and 
+the Mills cathode is plain nickel; and (2) Mills uses an intermittent current, while Notoya 
+uses a constant current. 
+
+The resistive heater was driven at 2.1 Watts electrical iv input; the electrolysis cell was 
+driven so that the joule heating in the cell was also 2.1 Watts. The iv input into the 
+electrolysis cell is actually higher by about 30%, but since electrolysis is occurring with a 
+Faradaic efficiency near unity, the power ending up inside the cell is matched as long as 
+no recombination occurs in the space above the electrolyte. The live cell ran higher by 
+about 15E centigrade than the blank, as could be inspected visually by observing alcohol 
+thermometers immersed in both cells. Notoya claims that the light water cell temperature 
+implies a factor of about 3 more net power input, or roughly 6 watts of heating present. 
+
+This was interesting for a number of reasons. This was the first live demonstration of 
+excess heat production at a cold fusion conference that I am aware of. I have always 
+thought that live demos would start to show up at conferences and at presentations, but I 
+had figured that the first ones would be heavy water demos. I thought that it was 
+significant that Notoya's system works well enough for her to be willing to bring it as a 
+demo at a major international conference. 
+
+Many of the “established” workers in the field who have put in substantial effort on 
+heavy water Pons-Fleischmann cells and have observed heat simply do not believe that a 
+heat effect can be observed in light water. Among other arguments that can be heard is 
+that if the effect is either nuclear or is fusion, it must involve deuterium. Others in the 
+field argue that the light water claims are simply due to sloppy experimental work. 
+Independent of the correctness of the various assertions, it is almost humorous to find 
+senior members of the cold fusion community sounding very much like their critics and 
+tormentors of 1989. 
+
+The first reports of heat from light water experiments were actually from Pons and 
+Fleischmann early on in 1989; when I last spoke with Fleischmann about light water 
+experiments about a year ago, he was firm in his conviction that it was not possible to get 
+excess heat from a light water cell. 
+
+R. Mills, who is the originator of this particular Ni/K2CO3 experiment, has no previous 
+reputation or standing as an electrochemist, calorimetrist or physicist. He rejects the 
+notion of cold fusion as due to nuclear effects completely (in fact, he does not wish to 
+associate himself with the cold fusion community, and does not consider his effect to be 
+related in any way to cold fusion), and has developed his own theory as to why his 
+experiment works; his theory is based on the proposed existence of orbitals of hydrogen 
+that lie below the 1s level. An explicit assumption in the Mills and Farrell theory is that 
+the electronic charge distribution in hydrogenic states consist of charged shells of 
+infinitesimal thickness. In order for this proposal to be correct, quantum mechanics must 
+be incorrect (which Mills believes -- he offers his theory as a replacement for quantum 
+mechanics). There have been no observations of such states, and the existence of such 
+states would likely not be consistent with the observed stability of atoms as atoms. 
+
+Reproductions of the Mills experiment have been reported previously. Noninski43 
+published positive results from his experiments; Noninski views his experiment as a 
+verification of the work of Fleischmann and Pons, who state explicitly (in a 1989 patent 
+application) the possibility of excess heat in a light water cell with Ni as a cathode 
+material. Mills was apparently unaware of Fleischmann and Pons patent application and 
+its relevance. 
+
+Confirmations of the Mills light water experiment have also been reported by 
+Srinivasan,44,45 and Bush and Eagleton.46 Notoya and her laboratory come with good 
+reputations; her confirmation of the Mills experiment (complete with demo) is probably 
+the most significant endorsement of the light water excess heat results standing. 
+
+Notoya's demo is an open cell system. It operates at a sufficiently high excess power that 
+recombination or other effects that would make an open cell system perform differently 
+from a closed cell would not change the essential result even if the recombination and 
+other secondary effects were taken into account incorrectly or ignored. You can put your 
+finger on the tubes Notoya's demo to convince yourself that a very significant 
+temperature difference occurs. This was also claimed for the Mills experiment, as well as 
+for other experiments reproducing the Mills result. 
+
+During the conference and afterwards, a virtual firestorm of controversy arose concerning 
+the difference in wires that were attached to the live cell and to the blank. A student of 
+Steve Jones suggested that since smaller diameter wires were used on the blank, that the 
+reduced voltage drop across the resister could account for the difference. After the 
+conference, Notoya replaced the offending wires, and reported essentially no difference 
+in the resulting blank temperature. 
+
+Notoya's demo was brought to the US and set up at MIT during the first week of 
+December. During the day and a half before her presentation at MIT, the live cell and 
+resistive blank ran at very nearly identical temperatures, consistent with no excess power 
+production. Notoya attributed this to contamination of the nickel cathodes. After her visit, 
+she returned to Japan and set up her demo in a laboratory in Tokyo where excess heat 
+was observed. A few days later, she was back at MIT, attempting for a second time to 
+demonstrate excess power production. During this visit, a temperature excess was seen 
+during electrolysis of the second cathode tried. According to Notoya, the initial 
+temperature differential in this case corresponded to a 100% power excess. Subsequently, 
+a persistent excess of about 4E was observed, which she said corresponded to a 30% 
+power excess (the reduction in fractional excess was attributed by Notoya to 
+contamination). 
+
+The persistent excess power which Notoya obtained at MIT was about 0.75 Watts, and 
+the cathode volume was about 0.05 cm3, leading to a volume averaged excess of 15 
+Watts/cm3. At Nagoya, the cell ran at a 4 Watt excess, corresponding to 80 Watts/cm3. 
+She claims that she has observed a maximum of 200 Watts/cm3 excess. A few hours of 
+operation at 15 Watts/cm3 is sufficient to defeat a chemical explanation, which was done 
+at MIT. The power excess demonstrated at Nagoya would defeat a chemical explanation 
+in tens of minutes, and the cell ran for many hours. 
+
+Little is known about loading ratios (H/Ni) while heat is produced; no information is 
+available about potassium loading in the Ni; there is apparently an alkaline intermetallic 
+layer formed which is at least several hundred Angstroms thick which may play a role. 
+Nothing is known about the temperature sensitivity of the effect; Notoya observes the 
+excess power to be essentially linear in applied current down to her lowest values (50-100 
+mA, and about 1 cm2 geometric area at MIT; the high current levels approach 1 amp). 
+
+Notoya obtains her best results with cathodes which have an extremely high area ratio 
+(real area to geometric area), and she uses cathodes with an area ratio of several thousand 
+(and a reduced density of about 6 gm/cm3). The effect is apparently extremely sensitive 
+to contamination, especially to oils. She observes an increase of 20% in calcium 
+concentration (near 20 ppm) in the electrolyte, which she believes may be anomalous. 
+
+I do not think that there is yet any particular contradiction between the light water 
+experiments of the Mills type and the light water blanks in Pons-Fleischmann 
+experiments. The light water blanks in Pd/H experiments run in a H2O/LiOH electrolyte 
+give zero excess power in most everyone's blank experiments these days; the Mills 
+experiment uses a Ni cathode with a H2O/K2CO3 electrolyte. These are really very 
+different systems. In any event, in time any connections between the two systems will be 
+clarified. 
+
+Based on Notoya's work, the evidence in support of a light water effect has improved 
+significantly. The effect which she observes is so great that there appears to be no simple 
+explanation for it. 
+
+So is there a light water heat effect? At this point, I am not yet sure one way or another. 
+On the plus side: (1) the effect is large, (2) looks to be nuclear given the excess heat 
+numbers, and (3) can be reproduced. On the minus side (from my point of view): (1) the 
+effect has been studied by a relatively small number of groups for a relatively short time, 
+(2) the effect appears to be somewhat insensitive to choice of electrolyte (claims41 of heat 
+production have been made for experiments which have used other alkali-carbonates such 
+as Li2CO3, Na2CO3 and Rb2CO3) and to some degree the choice of cathode (positive 
+results were reported47 for Ni, Ag, Au and Sn electrodes). The reason which I am 
+uncomfortable with the insensitivity of the effect to cathode and electrolyte comes from 
+potential difficulties associated with finding a reaction mechanism that would show such 
+an insensitivity. 
+
+The experimentalists have grown used to the idea that deuterium gives anomalies and 
+hydrogen does not; the theorists who believe in fusion mechanisms are comfortable with 
+positive effects in deuterium and negative effects in hydrogen. A light water heat effect 
+causes consternation in both camps; it would be exceedingly difficult to reconcile with a 
+fusion mechanism. 
+
+The neutron transfer model which I have been looking at (described briefly below) needs 
+a neutron donor (usually deuterium) and an acceptor nucleus, and therefore has somewhat 
+fewer constraints; nevertheless, I do not relish the prospect of attempting to explain an 
+apparently general light water heat effect where the nuclei present are widely different 
+from one cell to another. An experimental determination (and confirmation) of the ashes 
+in any of these experiments would of course greatly improve the situation. 
+
+As a result, I am not yet sure that there is a light water effect. I will be surer one way or 
+another when more confirmations (or non-confirmations) are reported. I will be surer 
+when Notoya, who has worked on her experiments only since last August, has had more 
+time to think about her experiments and to improve them. I will also be surer in time after 
+the cold fusion community has had more time to study and to evaluate the experiment. 
+
+13. The successful production of significant excess energy must give rise to ashes of one sort 
+or another. It is not currently known what reactions are occurring; consequently, it is not 
+obvious what ashes are to be expected. Energy excesses in the range of 1 MJ to 10 MJ 
+have been reported in several experiments; we will consider briefly the implications of 
+excess power generation, both per joule and for a 10 MJ total excess. 
+
+Conventional dd-fusion reactions producing 10 MJ would yield more than 1019 neutrons, 
+and a roughly equal number of tritium atoms. Pons and Fleischmann's recent 
+measurements48 of the neutrons produced from their cells yield 5-50 neutrons per joule, 
+low by more than 10 orders of magnitude from what would be predicted for conventional 
+dd-fusion. Tritium is not produced in their experiments, with a limit which is probably on 
+the order of 104 tritium atoms per joule; low by at least 8 orders of magnitude. 
+
+It has been suggested that the 4He branch of the dd-fusion reaction is somehow favored, 
+and several searches for 4He have been made. The conventional 4He branch yields a 24 
+MeV gamma, which is not observed when heat is produced. The reaction energy would 
+have to go elsewhere to be qualitatively consistent, and many in the field believe that 
+energy transfer to the lattice occurs. Many measurements have been performed seeking 
+4He in the cathode after the experiment; my impression is that it is simply not there 
+quantitatively by many orders of magnitude. 
+
+There have been some efforts seeking 4He in the gas stream produced during electrolysis; 
+Miles focused the attention of the community on this issue last year at Como when he 
+claimed the observation of 4He which at its highest levels might account for roughly 10% 
+of the excess energy. Scaramuzzi and De Ninno11,12 described a new cell, calorimeter 
+plus helium detector with which they plan to attempt a confirmation; other groups are 
+acquiring mass detection capability for similar studies. The measurements of 
+Yamaguchi22,23 described above has also raised interest in helium detection. 
+
+I would think that by next year's conference, that there will be a consensus by many 
+groups established on whether substantial helium is produced or not. 
+
+If the pragmatic point of view is adopted that whatever reaction is occurring is not 
+constrained by theoretical preconceptions, then the search for the ashes is generalized 
+considerably to include possible isotopic shifts or anomalies, and the possible production 
+of elements or isotopes not initially present. 
+
+A large number of studies have been reported at the international conferences in which 
+the cathode surface has been analyzed for the presence of trace elements. Due to the 
+nature of electrochemical deposition in real systems, quite a long list of surface 
+contaminants are found at significant levels, hopelessly complicating any straightforward 
+ab initio experimental search. 
+
+The number of nuclei which is sought is on the order of 1012 per joule (or 1019 per MJ), 
+which either helps or hurts depending on the point of view. Present in large quantities are 
+D, O, Pd, Li, and H. Determining a relative isotope shift between deuterium and 
+hydrogen is generally deemed not to be feasible, given the presence of hydrogen as a 
+ubiquitous universal contaminant. Isotope shifts in oxygen are not currently predicted by 
+anyone in the field, and have never been studied in Pons-Fleischmann experiments to my 
+knowledge. 
+
+The first serious claim of possible isotope shifts in heavy elements with which I am 
+familiar was made by Rollison at the NSF/EPRI workshop in 1989 (Rollison 
+subsequently had to back down from her claim -- see the proceedings of the Salt Lake 
+City conference). The glow discharge observations described by Kucherov13-16 and the 
+Chinese group17-20 imply isotope shifts in Pd and other metals. 
+
+The production of 10 MJ of energy in a Pd cathode (containing 0.1 mole of Pd) would 
+give rise to modifications of the Pd isotope distributions (assuming Pd were fuel) at the 
+0.0002 level, assuming arbitrarily 5 MeV per reaction. The prospect of proving this 
+experimentally if it is in the bulk is judged to be impractical. If the reactions occur near 
+the surface, then the numbers improve; the “noise” associated with natural isotopic 
+separation also increases. Searches for such surface isotope shifts have been reported, and 
+continue to be performed; such searches for now remain in the background of the field. 
+
+Lithium appears to be required for heat production in Pons-Fleischmann experiments, 
+although it is unknown whether it plays any nuclear role. 
+
+Thompson, formerly of Johnson-Matthey, reported49 that the lithium on the surface of a 
+Pons-Fleischmann cathode that had been involved in heat-producing experiments showed 
+a depletion of 6Li relative to the natural abundance (down to about 4%). Pons and 
+Fleischmann had reported (in the Salt Lake proceedings) that the lithium which they had 
+used was initially enriched in 6Li (11%); Thompson noted this in his talk, quoting an 
+initial concentration of 9-11%, but said the Johnson-Matthey group did not have a before 
+to compare with their after. 
+
+During the questions following Thompson's talk, McKubre noted that the Johnson-
+Matthey analysis only looked at the surface, and that any lithium present in the bulk 
+might provide an internal reference. Thompson said that he thought that this suggestion 
+could be tested. The conference proceedings from Johnson-Matthey states that no lithium 
+is detected in the bulk,50 which would imply that it will not be possible to establish an 
+internal reference retrospectively. 
+
+The amount of lithium present in a cathode is an interesting question. Gozzi reported last 
+year the results of studies to determine Li loading in Pd during electrolysis, and found the 
+very high number of 5% by monitoring the Li lost from the electrolyte. I questioned him 
+at the conference (he presented50 some nice positive results from his torus of cells where 
+he monitors for heat, neutrons, tritium, helium, and I think gammas; unfortunately, I am 
+lacking sufficient documentation of his results to present more details in this review), 
+since several papers presented at each of the international conferences showed per cent 
+level surface concentrations which fall rapidly on the micron scale into the bulk of the 
+cathode (an exception to this was the measurements presented by Nakada51 et al showing 
+lithium profiles with significant lithium in 20-30 microns). Lithium concentrations were 
+measured by Myamoto et al,52,53 who obtain Li/Pd ratios between 3 H 10-4 and 3 H 10-3. I 
+suspect that the Li/Pd ratio is probably sensitive to cathode properties, to the 
+electrochemistry and loading time; one possible explanation of the long loading time 
+required for Pons-Fleischmann cells, and remarked on explicitly by McKubre,2 was that 
+extra time beyond the deuterium loading time required to see the heat effect might be due 
+to a necessity to achieve significant loading of another species, such as lithium or other 
+light interstitials. 
+
+I note here that energy production at the level of 100 MJ/mol would yield an observable 
+(2%) isotope shift in lithium if the lithium concentration were at the 1% level, and if the 
+bulk lithium did not substitute with lithium in the electrolyte. The numbers are worse if 
+the electrolyte lithium is included, but not so bad to prohibit a measurement. 
+
+Unfortunately, very few groups are currently pursuing the lithium isotope shift problem; I 
+consider it to be an important question, especially in light of the initial Johnson-Matthey 
+positive measurement. 
+
+14. B. Stella54 presented a poster that I passed by twice; the title talks about the “stimulated 
+emission of neutrons,” that is of course impossible -- neutrons are fermions, and can of 
+course not participate in stimulated emission. The third time by, Stella grabbed me and 
+walked me through his poster (for which I am thankful, otherwise I would have missed 
+it). 
+
+In essence what the experiment consists of is taking a Pons-Fleischmann cell, putting it 
+inside a 40 % efficient neutron detector underground in the Gran Sasso INFN laboratory, 
+and directing an incident neutron beam (of about 30 neutrons/sec) with a substantial 
+thermal component at the cell. Fast (2.45 MeV) neutrons are measured originating from 
+the cell, and a gain of about 2 fast neutrons for every incident neutron is claimed. 
+
+After talking to him, I was given to understand that for 30 neutrons/sec input that 60 or 
+more neutrons/sec were measured (taking into account the neutron detector efficiency). I 
+asked if the ratio held up at a higher input flux, and he said that they had done 
+experiments up at 500/sec incident, with the same basic neutron gain (but that their 
+neutron detector suffered from saturation problems at such a high flux). 
+
+I asked whether the effect was reproducible. Stella said that they had done two runs (each 
+run takes about a week to do) so far, and that they hoped to be able to do some more in 
+the near future. 
+
+I note that a neutron gain of 2 would be a very important result, if true, with rather 
+important implications. I note also that this report of two observations (with a modest 
+signal relative to noise) is the first in which such an effect has been claimed, and that no 
+reproductions from either this group or any other group has been made. 
+
+
+Negative Results 
+
+1. A famous hydrogen-in-metals physicist, Y. Fukai, gave a presentation of the basic 
+problems facing theorists attempting to provide an explanation of the anomalies.55,56 I 
+thought that this talk was excellent, and Fukai is really very knowledgeable; it is clear 
+that the basic physics issues (the Coulomb barrier, screening, and solid state issues) that 
+he discussed must be addressed theoretically, especially in the case of theories based on 
+fusion reaction mechanisms. 
+
+Fukai also presented a negative result57 involving a search for neutrons that might be 
+induced as a result of the generation of fractures in metal deuterides. The highest result 
+observed was for fractured TiD, 1.8 " 0.1 cpm, versus a background of 1.27 " 0.05 cpm. 
+
+I was impressed that he attended, since I am convinced that mainline scientists of his 
+caliber will play an increasingly important role in the field. After talking to him, it 
+became clear that some scientists present who were not in the field had received very 
+strong encouragement to participate. 
+
+His talk was not well received by a number of those in the field, and he was criticized 
+during and after his presentation. 
+
+2. There was a negative result on a measurement of neutrons from a Pons-Fleischmann cell 
+originating out of the physics department at Osaka University,58 the poster of which 
+looked very interesting. The group had a high-resolution Ge detector looking at gammas 
+produced inelastically by neutrons impinging on an Fe plate placed between the detector 
+and a Pd heavy water electrolysis cell. With this system, the group was able to place an 
+upper limit of 1.6 H 10-24 fusions/dd-pair. 
+
+There was another negative result on the fusion rate as determined by the relative absence 
+of 3 MeV protons reported by a group from Tokyo Metropolitan University.59 I did not 
+see this poster. According to the abstract, the upper limit on the fusion rate from this 
+measurement was 1.3 H 10-24 fusions/dd-pair. 
+
+3. D. Morrison of CERN presented a paper60 that criticized the experiments in the field, and 
+used data from an analysis of the literature published in the field to show that interest in 
+the field is declining, symptomatic of “pathological science”. 
+
+Morrison made a number of arguments, most of which are restated and amplified in his 
+recent review61 of the Nagoya conference (his Cold Fusion Update No. 7 on the computer 
+network; my copy is dated 12-17-92). I will attempt here to summarize briefly what I 
+think are key points (drawing from his conclusions listed in Update No. 7), and to 
+provide some commentary on the points. 
+
+The major point of Morrison's presentation involves the inconsistency between the 
+claimed excess heat production, which would correspond to on the order of 1012 reactions 
+per second, and the low tritium and neutron signals which are lower by many orders of 
+magnitude. For example, Morrison uses the upper limit on neutron emission in the 
+Kamiokande experiments (10-4 neutrons/sec) to place an upper limit on heat production 
+which is lower by 16 orders of magnitude. Morrison also noted that the mean distance 
+between deuterons in the lattice is larger than for D2, which implies that fusion reaction 
+rates in a lattice would be expected to be smaller than the very low numbers which are 
+well-known for D2. 
+
+A weakness of the limiting argument as stated by Morrison is the presupposition that 
+conventional dd-fusion is the operative reaction mechanism; it has long been recognized 
+by many (but not all) in the field that the excess heat production can not be due to 
+conventional dd-fusion. I personally would accept Morrison's limit on the heat production 
+for the Kamiokande cells, specifically for the amount of excess heat due to the 
+conventional dd-fusion channel in those experiments. Possibly more relevant for a limit 
+on the dd-fusion channel would be a neutron measurement in a heat-producing cell (there 
+is no report of any calorimetric excess heat production at Kamiokande), in which case the 
+limit claimed in other experiments is higher, but the basic argument is unchanged. This 
+issue has been discussed above. 
+
+Morrison advocates that due to the wide range of phenomena claimed (some inconsistent 
+with others), and since “poorly designed and artifact-prone” experiments have been 
+reported in the field, that only “good fully-instrumented and fully-calibrated experiments 
+that need few and unimportant corrections” should be done; loading should always be 
+measured. 
+
+The claims of positive heat results in light water experiments appears to be inconsistent 
+with previous claims of heat production (in which the effect was present in heavy water, 
+and absent in light water). This issue was commented on above. 
+
+Morrison points out that many negative results have been obtained which contradict the 
+claims of Pons and Fleischmann, and those of Jones. Morrison points to the work of the 
+GE group (R. H. Wilson et al, J. Electroanal. Chem. 332, 1 (1992)), as well as a large 
+number of other experiments, in which no excess heat was observed in contrast to the 
+claims of Pons and Fleischmann. He points to the Kamiokande experiment as the 
+strongest refutation of the original claims of neutron emission by Jones and coworkers. 
+
+This argument was presented by Morrison in a spirited fashion at the conference. He 
+made use of the statistics of papers published for and against, seemingly as a route to help 
+to decide whether an effect exists or not. For example, of 727 refereed published papers 
+in the compilation of D. Britz, in each category of effect, there are more negative results 
+than positive results. Of experimental papers in this set, there appear 86 positive, 136 
+null, and 36 indecisive or contradictory. 
+
+Of the 8 experimental papers published in 1992 included in the Britz compilation, 1 was 
+positive, 6 nulls, 1 indecisive; of papers on proton measurements, 1 positive, and 11 
+nulls; of papers on 3He, 1 positive and 8 nulls; of papers on x-ray emission, 0 positives 
+and 7 nulls. The subset which Britz rates as being expert yields the results as: 1 positive, 
+19 null, 2 unclear and 6 technical; of those looking for artifacts: 1 positive, 14 null, 2 
+unclear, and 1 technical. 
+
+At issue in Morrison's discussion is whether there occur, or do not occur anomalies (heat, 
+particles, etc.) in deuterated metal systems. Taking a vote by counting the number of 
+published papers pro or con is certainly one way of deciding the issue; most others at the 
+conference who argued for or against presented the results of an experiment or else the 
+results of a theoretical model. 
+
+Morrison went further at the conference; he used the results to support his contention that 
+interest in the field is dying out (experimental papers: 72 in 1989, 128 in 1990, 48 in 
+1991 and 8 in 1992), which he said was symptomatic of “pathological science”. Although 
+Morrison has written about the field as an example of pathological science Special 
+Symposium Proceedings on Cold Fusion of the World Hydrogen Energy Conference, 
+July 1990, p. 233), and he discussed pathological science at Nagoya, I did not see an 
+elaboration of his arguments in his review. 
+
+Whether the excess heat effect is real or not is a matter that either has been, or else will 
+be, settled by experiment; not by counting papers or by discussing pathological science. 
+Nevertheless, there is an issue buried in Morrison's arguments which is of interest. The 
+issue of reproducibility is central in the field, especially given the early history and 
+associated problems. The dark clouds which currently hang over the field today would 
+likely not be present had the experiments been easier to reproduce in 1989. While the 
+degree of reproducibility of the heat effect among groups working in the field has 
+improved considerably since 1989, it is true that not very many examples exist where an 
+outside effort has come back recently armed with the latest results and has attempted a 
+replication. This situation needs to be addressed in the coming months and years. 
+
+4. J. Huizenga of the University of Rochester submitted a post deadline abstract62 that 
+pointed out that there are two types of claims, one for heat and one for low levels of 
+neutrons. Huizenga maintains that there is no evidence to support any relation between 
+the two claims. The claims of fusion products at a level down by twelve orders of 
+magnitude from the heat production do not support the notion that the heat is of nuclear 
+origin. 
+
+Although Huizenga was present, this paper was not presented. 
+
+
+Theory Papers 
+
+All but four of the theory papers were presented as posters during two sessions where I 
+had posters to attend; consequently I was unable to spend much time looking over the theory 
+papers of others. I will nevertheless attempt a summary of some of the approaches of the work 
+based both on the abstracts and on what I have seen of the approaches previously. Once again, I 
+warn the reader that my review of the theory papers in the field are biased by my own point of 
+view as to what physical mechanisms are responsible for the effects being observed. 
+
+The theories may initially be divided up into two general categories; those involving 
+(modified) fusion mechanisms, and those not involving fusion mechanisms. Papers considering 
+fusion mechanisms face the two basic problems of (1) arranging to get nuclei close enough 
+together to fuse, and (2) possibly modifying the fusion reaction profiles. We first consider papers 
+describing theories based on fusion mechanisms. 
+
+1. G. Preparata63 has been working on theory for coherent dd-fusion reactions; a major goal 
+of the theory is to account for the heat production by a modified dd-fusion reaction where 
+the 4He branch dominates, and the gamma emission is replaced by energy transfer with 
+the lattice. He argues that a proper quantization of the low energy electromagnetic field 
+coupled to the metal electrons leads to enhanced screening between deuterons. He then 
+proposes that the 4He branch is favored by coherence factors that come about when the 
+reaction energy (24 MeV) is transferred to the lattice. 
+
+In some sense, this is a version of the “classical” cold fusion model, which would be 
+essentially forced somehow to be true if Fleischmann's initial conjecture that the effect 
+was due to fusion were accepted. I consider this general type of model to be essentially 
+the only game in town if it is assumed (following Fleischmann's initial conjecture) that 
+the reaction mechanism must be fusion. I spent 6 months working on it myself in 1989. 
+
+However, none of this makes the fundamental problems associated with screening and 
+modification of reaction pathways any easier to solve. 
+
+2. There have been a number of speculative theories that have been based on the notion that 
+deuterons in a metal are well-described using Bloch-type wavefunctions. In such case, the 
+principal interaction of the deuteron is assumed to be with the lattice, and deuteron-
+deuteron correlation effects would be brought in at higher order. A computation of the 
+dd-fusion rate using uncorrelated orbitals yields anomalously high fusion rates, as 
+expected since it operationally leaves out the Gamow factor. 
+
+It has been suggested that the inclusion of the deuteron-deuteron correlation terms might 
+not lead to Gamow factors as low as in the well-known case of molecular D2. S. Chubb 
+and T. Chubb64,65 have recently turned to the problem of electron correlation in ground 
+state helium as an example where orbital and correlation effects compete, and argue that 
+the Hylleraas solutions show an unexpected degree of overlap between the two electrons. 
+
+Multi-body fusion theories have been proposed,66,67 that would ultimately require 
+deuteron-deuteron correlation to be essentially absent altogether to operate. It is not clear 
+how this could come about. 
+
+3. The possibility that anomalously large electron screening might occur is the subject of a 
+number of works presented at the conference.68-71 The basic idea is that if the coulomb 
+repulsion between deuterons held in neighboring sites was reduced, then the degree of 
+overlap of the nuclei would be increased, leading to a possibly measurable fusion rate. 
+The difficulty here is to arrange for an enormous enhancement (of some unexpected sort) 
+of screening in the metal beyond what screening occurs in D2. 
+
+4. Fast (multi-KeV) deuterons are able to overcome the coulomb barrier sufficiently to fuse 
+with a low but observable probability. There have been suggestions that conventional 
+mechanisms exist that could accelerate enough deuterons fast enough to account for low 
+levels of neutron emission that have been reported. This explanation follows from the 
+known phenomenon in insulators that hundred eV ions are emitted from insulators that 
+undergo intense fractures; the corresponding effect is much weaker in metals by several 
+orders of magnitude. 
+
+Theories which propose anomalous ion acceleration in metal hydrides were described in a 
+number of abstracts.72-75 A variant on this general approach is discussed by Fukushima,76 
+wherein recent observations of conditions in sono-luminescence experiments are 
+proposed to result in an enhancement of the fusion rate. 
+
+5. Kim and coworkers examine screening effects and modifications of the deuteron velocity 
+distribution function that may occur at high density.77-79 This approach is applicable both 
+to cold fusion and to hot fusion problems; the authors believe that it may provide a 
+solution to the solar neutrino problem. The fusion rate may be higher or lower than the 
+conventionally calculated rate, depending on the condensed matter environment. Kim 
+believes that these effects may also help to account for the anomalous branching ratio in 
+cold fusion. 
+
+6. A low energy resonance in the D+D system would enhance the fusion rate at low energy 
+(no such resonance is known theoretically or experimentally). An abstract was submitted 
+describing a proposed novel “combined resonance tunneling” effect,80 that was not 
+explained in the abstract. 
+
+7. The catalysis of fusion by a heavy negatively charged particle, extending the essence of 
+muon-catalyzed fusion, was made popular in 1989 by Rafelski and others. An abstract on 
+catalysis by an anti-diquark with -4/3 charge was submitted.81 From my perspective, this 
+general approach suffers from the absence of abundant known massive negatively 
+charged nuclear particles, and a reason why they should be appearing specifically in 
+Pons-Fleischmann type experiments. 
+
+8. V. A. Tsarev of the Lebedev Institute in Moscow described some calculations suggesting 
+that an increase in the tunneling probability between deuterons would be expected due to 
+lattice motion (my translation of “violation of stationarity in lattice”).82 Rather than the 
+conventional kinetic or screening arguments often described, Tsarev proposed that the 
+lattice would provide a time-dependent potential that would affect the deuteron 
+wavefunction itself. 
+
+I cannot see how there would be any but the weakest of effects from such terms; in time 
+more documentation of this approach will hopefully be available, and the essence of the 
+proposal will become clearer. 
+
+Tsarev presented an interesting review of cold fusion research in Russia and in 
+neighboring countries formerly of the Soviet Union. I do not have sufficient 
+documentation (unfortunately) of his presentation to include a section in this review. I 
+note that the Russian work was reviewed last year in an article by Tsarev and Worledge. 
+
+A number of theorists, including myself, have gone away from fusion reaction 
+mechanisms. The motivation for this is to avoid the coulomb barrier (if possible) and to find 
+reactions with signatures that hopefully more closely match the experimental observations. Each 
+new non-fusion approach carries with it specific problems and issues that are associated with the 
+specific reaction mechanism. Aside from this, any new approach must also arrange itself to be 
+consistent with physical law, observations in this and other fields, and must presumably be 
+functioning in a manner not previously expected (lest it would have been found earlier). We 
+describe such contributions below. 
+
+1. Electron capture on a deuteron would lead to two virtual neutrons; if it could be arranged 
+for the virtual neutrons to be in proximity with neighboring nuclei, then further reactions 
+could occur. This approach was described in two abstracts by J. Yang of the Dept. of 
+Physics, Hunan Normal University of China.84,85 Yang proposes that the two neutrons 
+form a stable dineutron that reacts with deuterium to make tritium and a free neutron, and 
+with 105Pd to make 106Pd and a free neutron. 
+
+I consider this general approach to be one of the basic non-fusion approaches that 
+actually begins to try to address the coulomb barrier problem. Once the electron capture 
+occurs, the coulomb barrier is gone, potentially leading to the possibility of something 
+happening near room temperature. One difficulty involved in this approach are that the 
+electron capture is mediated by the weak interaction, which really is very weak, making it 
+hard to obtain significant reaction rates. A second difficulty is that virtual neutrons do not 
+generally wander more than fermis away from their point of origin, making it difficult for 
+a virtual neutron to reach another nucleus to interact. 
+
+2. Direct lattice-induced neutron ionization was described by Tani and Kobayashi,86 
+motivated by the broad neutron emission that has been observed by several laboratories at 
+energies higher than 2.45 MeV. 
+
+The possibility that sufficient energy may be transferred from the lattice to a deuteron to 
+disintegrate it is yet another significant conceptual step away from working with fusion 
+reaction mechanisms. If a mechanism existed to do what Tani and Kobayashi proposes, 
+the resulting spectra would likely follow the photodisintegration cross section generally 
+qualitatively in shape, which would not be such a bad match to Takahashi's data. 
+
+Once, I suspected that a single-step lattice-induced disintegration, something like what is 
+described in this abstract, might be possible; I followed it up with a moderately 
+sophisticated calculation (based on a harmonic lattice, without including some of the 
+effects described in the abstract) that has been accepted for publication. The results of my 
+computation were that although it is possible in principle to transfer sufficient energy to 
+do the job, the energy transfer is sensitive to sign; in the end, I concluded that single-step 
+lattice-induced disintegration could not be done (within the limits of my model), without 
+having individual nuclei with MeV-level kinetic energy in the lattice initially to do the 
+ionizing. 
+
+3. I submitted two abstracts on neutron transfer reaction mechanisms that I have been 
+exploring recently.87-89 The basic reaction in this theory is a two-step transfer reaction of 
+a neutron from a donor nucleus (typically a deuteron) to an acceptor nucleus located 
+Angstroms to microns away. As originally proposed, the lattice would contribute the 
+energy to promote the neutron from the donor, and take up energy at the acceptor; 
+calculations showed that this was not viable, and so a modified version of the model in 
+under development. 
+
+The revised model works similarly, except that the intermediate state is virtual, as 
+required since the lattice is unable to contribute energy to ionize the neutron. When the 
+neutron reaches the acceptor nucleus, then a number of incoherent processes could occur, 
+including gamma capture, and capture to states that decay by alpha emission. There 
+might be a correlation between these decay products and the reaction products observed 
+by Kucherov. Alpha particles in this model would range up to 4.1 MeV (originating from 
+neutron capture on 105Pd). 
+
+Heat production might be accounted for if a long-lived metastable state existed that was 
+nearly resonant with the virtual neutron, and which alpha decayed. 
+
+If the capture at the acceptor is preceded by energy transfer to the lattice during the donor 
+transfer (which has now been shown explicitly to be allowed at least mathematically), or 
+during scattering of the intermediate state virtual neutron, then the coherent neutron 
+capture proceeds into long-lived ground state nuclei, which are born essentially at rest. 
+This mechanism could account for heat production (accepting onto light interstitials such 
+as 6Li or 10B) and anomalous slow tritium production (accepting onto deuterium). 
+
+The primary difficulty with any reaction mechanism that involves a virtual free particle is 
+that such intermediate particles do not go very far (typically fermis) from where they are 
+born. I presented the results of computations of the virtual neutron Green's function 
+including lattice effects,88 and found that under conditions that phase coherence among 
+neighboring hydrogen isotopes is maintained in a periodic lattice, that a usefully large 
+and long-range contribution to the Green's function may occur that would lead to 
+observably large net reaction rates. Quantum diffusion is conjectured to be able to set up 
+the required coherence. 
+
+One weakness of the approach which has become apparent following the conference is 
+that the diffusion of hydrogen in metals generally proceeds by a hopping mechanism, 
+which would likely not establish phase coherence of the sort required by the theory. In a 
+loaded PdD lattice, some population of the tetrahedral sites would be expected; this is of 
+interest since the tetrahedral to tetrahedral site barrier is expected to be considerably 
+lower than the octahedral to octahedral site barrier, which might help the situation. The 
+issue of coherence for such a diffusion mechanism is under study. 
+
+
+What Was Not Presented 
+
+In spite of the relatively numerous set of papers that were presented at ICCF3, there were 
+several key players in the field who were not present or did not give papers. I felt that the 
+conference suffered from the absence of K. Wolf, H. Menlove, E. Storms, E. Cecil, F. Will, S. 
+Szpak, F. Lanza, and several other key players in the field. Additionally, a paper from G. 
+Chambers (of NRL) that I had hoped to see was withdrawn by order of the associate director of 
+NRL. 
+
+Possibly controversial was the absence of a presentation by Ishida of experiments at 
+Kamiokande. During the past year and a half, a very large number of measurements seeking 
+neutrons from various cold fusion experiments were carried out. Kamiokande is famous as one 
+of the world's premier neutrino detection facilities, and received considerable attention following 
+the observation of neutrinos from the 1987 supernova. A positive result of observation of 
+anomalous neutron emission at Kamiokande would be a very big event, since Kamiokande is 
+well-respected in the physics community. 
+
+Ishida's master thesis summarizes the results of over 100 cold fusion experiments that 
+were done at Kamiokande. Although it is a fact that neutrons were observed at low levels, there 
+are questions about what is the origin of the neutrons. In the thesis, Ishida proposes that the 
+neutrons are due to naturally occurring radioactive contaminants. 
+
+In the end, I think that the results from Kamiokande make either a weak case in support 
+of the existence of anomalous neutron emission, or else a possibly disputable case in support of 
+the non-existence of an effect. This requires further explanation. The emission of neutrons from 
+Ti shavings in deuterium gas was reported early on by Scaramuzzi from Frascati. Attempts to 
+replicate the experiment met with success at LANL, where both random and large bursts of 
+neutrons have been observed with high efficiency 3He neutron detectors. Low level random 
+emission of neutrons is claimed, and bursts of up to several hundred neutrons in a 100 mu sec 
+period were observed. The reproducibility of these experiments is not great, and in spite of the 
+progress made at LANL in improving the reproducibility of the effect, the success rate reported 
+in the Como proceedings was about 10%. 
+
+Menlove worked with the Japanese team to attempt a confirmation of the LANL results. 
+Due to the constraints imposed by the nature of the facility, the number of runs which were 
+attempted on Menlove's samples were 6. According to Menlove, one of these samples might 
+have shown something. If a case were then to be made that the Kamiokande results disprove the 
+Menlove's observations at LANL, this argument is at best weak, since the probability of 
+obtaining a null result is on the order of (0.9)6 = 0.53 for these experiments. 
+
+Some have made the case that since no very large bursts (- 100 neutrons) were observed 
+in any of the more than 100 experiments (which would improve the statistics), that this refutes 
+Menlove's positive observations of large burst obtained at LANL and reported at Como. Lacking 
+from this argument is an estimate of expected frequency of bursts from the various experiments 
+that were done. If the expected rate of large neutron bursts were negligible in the Portland 
+cement experiments, for example, then doing many of them should not alter a conclusion 
+regarding a Menlove experiment. 
+
+The poor reproducibility of the effect, in addition to the difficulty of determining in a 
+post-analysis what is the difference between a cell that gave a signal and one that did not, 
+prompted Scaramuzzi to recommend at Como that this line of investigation should make way for 
+other approaches which are less frustrating. Research on Frascati cells has largely ceased in the 
+field. 
+
+The Kamiokande experiments were discussed in the talk by S. Jones,90 who was a 
+collaborator in the experiments at Kamiokande. Jones argued that the conjectures made by Ishida 
+about radioactive contaminants had been subsequently tested by introducing the proposed 
+contaminants and measuring the resulting signals elsewhere; the resulting neutron emissions did 
+not agree with the Kamiokande results. Jones therefore described the results as supporting the 
+presence of anomalous neutron emission. 
+
+I do not think that we have heard the last of this discussion. I would hope that in the 
+future Kamiokande would try again, perhaps with experiments which have larger signals and 
+higher success rates. For example, the experiment described by Kucherov would yield signals up 
+to eight or nine orders of magnitude above background at Kamiokande if there were any way to 
+field it there. 
+
+Also absent from the conference were prominent US skeptics who have in one way or 
+another have made technical contributions to the field in the past. The absence of such 
+individuals indicates the lack of any significant respect that the cold fusion field currently has 
+among the scientific community. I would have been interested in the response of such skeptics 
+following many of the papers presented at the conference; but alas, it was not to be. At the 
+conference, little in the way of substantive technical criticism of the best heavy water calorimetry 
+results was offered by any of the participants. If there exist skeptics who are familiar with the 
+Pons and Fleischmann calorimetry or the SRI work and believe that they know what might be 
+technically in error, your technical input would be greatly appreciated. 
+
+
+Conclusions And Discussion 
+
+Was the conference sufficiently strong technically to turn the tide, to settle the seemingly 
+endless controversy as to whether there is or is not any new anomalous effect? I thought that it 
+was. I regard the technical issue of whether there is a reproducible anomalous excess power 
+effect in heavy water Pons-Fleischmann experiments to have been settled at this point; I think 
+that there is clearly an effect. 
+
+For such a significant conference, it has been largely ignored by the scientific 
+community. Wrongly so, I think. The majority of scientists are currently ill-informed of the 
+experiments, the implications, the arguments, or the goals of ongoing research in the field. At 
+some point this needs to change, but I confess that I do not see how it might happen in the 
+foreseeable future. 
+
+The name “cold fusion” has been adopted by the field to some degree by default. This 
+name implies a generic physical reaction mechanism (fusion), and because the experiments 
+involve deuterium, the name further presupposes specific reactions (dd-fusion reactions). But dd-
+fusion is expected to produce neutrons and tritons, neither of which are quantitatively present 
+with the excess heat. Scientists who are not in the field are discouraged because the expected 
+fusion products are not present in quantities commensurate with the observed energy production, 
+and scientists working in the field have not come up with an explanation in three and a half years 
+as to why deuterons should fuse that is acceptable to the scientific community. 
+
+There have been proposals to change the name of the field: “solid state nuclear physics” 
+has been suggested; “nuclear effects in metals” has also been put forth. I would strongly endorse 
+a name change. 
+
+A reviewer of this manuscript has pointed out that even these names presuppose a nuclear 
+component to the effect, which in the reviewer's eyes remains to be demonstrated, and has 
+recommended “hydrogen energy” or “hydrogen in metals”, with the understanding that 
+“hydrogen” is to include the isotopes. 
+
+The field continues to receive considerable bad press, which at this point is not 
+warranted. For example, I have recently obtained a copy of a review of the Nagoya conference 
+by D. O. Morrison, which has received very wide distribution; it is unfortunate that the only 
+updates about the field received by most of the physics community is through such a biased 
+channel. This simply must change. I am open to suggestions as to how this situation could best 
+be changed. 
+
+There are precious few sources of potential funding in this area, especially in the US. I 
+am convinced that DOE should be funding a significant effort in the US, the goal of which 
+should be to find out what is going on, so that an informed and rational judgement can be made 
+about any potential of the effect to meet US and world energy requirements. One basic claim that 
+has been made is that excess energy at a level which must be nuclear (but is certainly not 
+conventional dd-fusion) is observed in the Pons-Fleischmann experiment and variants; this is 
+something that the DOE should be interested in. 
+
+So what is it that should be done? The list is very long, but I will attempt to enumerate 
+some of what I think are a few relevant goals: 
+
+1. Verification of a heat effect: I am convinced that the Pons-Fleischmann cells can produce 
+excess energy of a nuclear origin based on the amount of energy per atom evolved. The 
+scientific community does not accept this. This issue really needs to be put to rest, and 
+the associated controversy ended. 
+
+Pons and Fleischmann have been publishing further details of their own work in refereed 
+journals and in readily available conference proceedings, and more papers are currently 
+in the pipeline. Details of the work of many other groups is also readily available. 
+
+Considerably more is known about the Pons-Fleischmann cells than in 1989, and the 
+reproducibility of the effect has been improved considerably. SRI has produced 
+documentation of criterion which, if met, carries the guarantee that similar experiments at 
+SRI have produced heat reproducibly with a very high success rate. Palladium cathodes 
+from sources other than Matthey-Johnson have now shown the effect. 
+
+Significant deficiencies have been identified in the principal negative experiments which 
+were done in 1989; the main criticisms of these experiments was that a high loading was 
+not achieved and held. For example, the method developed at SRI requires very high 
+loading (D/Pd ratio near 0.90) to be maintained for about a week. Since positive results 
+have been obtained at lower loadings, this constraint is likely not to be absolute; 
+nevertheless, many in the field believe that quite high loadings do improve the 
+reproducibility of the effect. 
+
+I do not know how this controversy is to be ended, but I know that it does need to be 
+ended in a satisfactory manner. The basic experiments have been done, they have been 
+repeated in many different ways by numerous groups, and the effect is observed with 
+considerably better signal to noise ratio than in 1989. 
+
+Scientists in the field have gone to extremes in attempts to satisfy skeptics. Cells were 
+stirred, blanks were done, extremely elaborate closed cell calorimeters have been 
+developed (in which the effect has been demonstrated), the signal to noise ratio has been 
+improved so that positive results can now be claimed at the 50 sigma level, the 
+reproducibility issue has been laid to rest; but still it is not enough. I have heard some 
+skeptics saying that a commercial product is the next hurdle to be jumped through before 
+any significant funding can be justified. This is simply not right. 
+
+2. Basic reaction mechanisms for heat production: To date the claims of the observation of 
+heat anomalies in metal deuterides have not been accompanied by any clear positive 
+evidence for reaction mechanisms. Anomalous heat generation would have to have a fuel, 
+and would have to have ashes; the confirmed identification of either fuel or ashes would 
+help tremendously towards a determination of a reaction mechanism. 
+
+I think that progress in this field is hindered by the absence of even a rudimentary 
+understanding of the basic reaction mechanisms involved (there are of course theories, 
+but to date there is no positive experimental confirmation of any proposed theory). At 
+some point, the principal experimentalists in the field simply must take this issue 
+seriously. Having an understanding of what the reaction mechanisms are would provide 
+numerous benefits: (1) guidance as to what experimental parameters are expected to be 
+important for optimizing reaction rates; (2) improvement of the general quality of the 
+science being done in the field, especially as perceived by those not in the field; (3) 
+allows those working in the field to focus more clearly on the issues that are most 
+important. From the point of view of funders or potential funders, a knowledge of how 
+the effect works allows the possibility of assessing more accurately potential future 
+applications. 
+
+The determination of fuel and ashes requires high sustained volume-averaged heat 
+production. In the case of 4He production, an assay of the gas stream is required; in the 
+case of assays for other elements and isotopes, careful mass spectroscopy (and the 
+presence of a small electrolyte volume) will likely prove to be most important. 
+
+3. Verification and reaction mechanisms for other anomalies: Quite a few anomalies have 
+by now been associated with deuterium in metals experiments, including observations of 
+neutrons, gammas, fast ions, tritium, and helium production. 
+
+None of these effects are currently accepted by the scientific community; as in the case of 
+the heat effect, some way is needed to arrange for a consensus as to which of the effects 
+are real. It would seem to me that the most dramatic claims come from the glow 
+discharge experiments; most significant would be if these experiments could be further 
+reproduced and verified. 
+
+I think that experiments which produce energetic (MeV-level) nuclear products provide 
+essential information relevant to the issue of reaction mechanisms. For example, a 
+confirmation of significant isotope shifts and strong gamma emission from heavy 
+elements would place very strong constraints on proposed reaction mechanisms. A 
+detailed study of precisely which gamma lines are produced would likely shed light on 
+how the gamma lines are excited, which provides further input on reaction mechanisms. 
+
+
+References 
+
+M. Fleischmann and S. Pons, “Excess enthalpy generation in the region of the boiling 
+point in Pd-type cathodes polarized in D2O,” paper 24-PII-14. 
+M. Fleischmann and S. Pons, “Calorimetry of the Pd-D2O system: from simplicity via 
+complications to simplicity,” preprint of the ICCF3 proceedings. 
+M. C. H. McKubre, S. Crouch-Baker, A. M. Riley, R. C. Rocha-Filho, S. I. Smedley and 
+F. L. Tanzella, “Excess power production in D2O electrolysis cells: A comparison of 
+results from differing cell designs,” paper 22-PII-25. 
+M. C. H. McKubre, S. Crouch-Baker, A. M. Riley, R. C. Rocha-Filho, S. I. Smedley and 
+F. L. Tanzella, “Excess power observations in the electrochemical studies of the D/Pd 
+system; the influence of loading,” preprint of the ICCF3 proceedings. 
+K. Kunimatsu, “Deuterium loading ratio and excess heat generation during electrolysis of 
+heavy water by a palladium cathode in a closed cell using a partially immersed fuel cell 
+anode,” paper 22-PII-27. 
+K. Kunimatsu, N. Hasegawa, A. Kubota, N. Imai, M. Ishikawa, H. Akita and Y. 
+Tsuchida, “Deuterium loading ratio and excess heat generation during electrolysis of 
+heavy water by a palladium cathode in a closed cell using a partially immersed fuel cell 
+anode,” preprint of the ICCF3 proceedings. 
+N. Hasegawa, K. Kunimatsu, T. Ohi, T. Terasawa, “Observation of excess heat during 
+electrolysis of 1 M LiOD in a fuel cell type closed cell,” paper 24-PII-19. 
+N. Hasegawa, K. Kunimatsu, T. Ohi, T. Terasawa, “Observation of excess heat during 
+electrolysis of 1 M LiOD in a fuel cell type closed cell,” preprint of the ICCF3 
+proceedings. 
+A. Kubota, H. Akita, Y. Tsuchida, T. Saito, A. Kubota, N. Hasegawa, N. Imai, N. 
+Hayakawa and K. Kunimatsu, “Hydrogen and deuterium absorption by Pd cathode in a 
+fuel-cell type closed cell,” paper 22-PII-8. 
+T. Nakata, Y. Tsuchida, K. Kunimatsu, “Absorption of hydrogen into Pd foil electrode: 
+effect of Thiourea,” paper 22-PII-9. 
+L. Bertalot, F. DeMarco, A. De Ninno, A. La Barbera, F. Scaramuzzi, V. Violante, P. 
+Zeppa, “Study of the deuterium charging in palladium by the electrolysis of heavy water: 
+search for heat excess and nuclear ashes,” paper 24-PII-21. 
+L. Bertalot, F. DeMarco, A. De Ninno, A. La Barbera, F. Scaramuzzi, V. Violante, P. 
+Zeppa, “Study of deuterium charging in palladium by the electrolysis of heavy water: 
+search for heat excess and nuclear ashes,” preprint of the ICCF3 proceedings. 
+A. B. Karabut, Ya. R. Kucherov, I. B. Savvatimova, “Experimentally defined ratio of 
+nuclear reaction products flows intensity at glow discharge in deuterium,” paper 22-PII-
+A. B. Karabut, Ya. R. Kucherov, I. B. Savvatimova, “Gamma spectroscopy at glow 
+discharge in deuterium,”  paper 24-PI-15. 
+A. B. Karabut, Ya. R. Kucherov, I. B. Savvatimova, “Heavy charged particles 
+registration at glow discharge in deuterium,” paper 24-PII-7. 
+A. B. Karabut, Ya. R. Kucherov, I. B. Savvatimova, “Nuclear product ratio for glow 
+discharge in deuterium,”  Phys. Lett. A 170 265 (1992). 
+L. Heqing, X. Renshou, S. Sihai, L. Hongquan, G. Jimbang, C. Bairong, “The anomalous 
+effects induced by the dynamic low pressure gas discharge in a deuterium/palladium 
+system,” paper 24-PI-3. 
+L. Heqing, X. Renshou, S. Sihai, L. Hongquan, G. Jimbang, C. Bairong,  “The anomalous 
+effects induced by the dynamic low pressure gas discharge in a deuterium/palladium 
+system,”  preprint of the ICCF3 proceedings. 
+L. Heqing, S. Sihai, L. Hongquan, X. Renshou, Z. Xinwei, “Anomalous effects in 
+deuterium/metal systems,” paper 24-PII-6. 
+L. Heqing, S. Sihai, L. Hongquan, X. Renshou, Z. Xinwei, “Anomalous effects in 
+deuterium/metal systems,” preprint of the ICCF3 proceedings. 
+N. Wada and K. Nishizawa, “Nuclear fusion in solid,” Jap. J. Appl. Phys. 28 L2017 
+E. Yamaguchi and T. Nishioka, “Direct evidences of nuclear fusion reactions in 
+deuterated palladium,” paper 24-PI-3. 
+E. Yamaguchi and T. Nishioka, “Direct evidences of nuclear fusion reactions in 
+deuterated palladium,” preprint of the ICCF3 proceedings. 
+M. H. Miles and B. F. Bush, “Search for anomalous effects involving excess power, 
+helium, and tritium during D2O electrolysis using palladium cathodes,” paper 24-PI-4. 
+J. O'M. Bockris, C. Chien, and Z. Minevski, “Tritium and helium production in 
+palladium electrodes and the fugacity of deuterium therein,” paper 24-PI-11 
+See also: C. Chien, D. Hodko, Z. Minevski and J. O'M. Bockris, “On an electrode 
+producing massive quantities of tritium and helium,” J. of Electroanalytical Chemistry, 
+Vol 338, p. 189 (1992) 
+S. Isagawa, Y. Kanda and T. Suzuki, “Search for excess heat, neutron emission and 
+tritium yield from electrochemically charged palladium in D2O,” paper 24-PII-31. 
+S. Isagawa, Y. Kanda and T. Suzuki, “Search for excess heat, neutron emission and 
+tritium yield from electrochemically charged palladium in D2O,” preprint of the ICCF3 
+proceedings. 
+C. M. Wan, C. J. Linn, C. Y. Liang, S. K. Chen, C. C. Wan and T. P. Perng, “Repeated 
+heat bursts in the electrolysis of D2O,” paper 24-PII-18. 
+C. M. Wan, S. K. Chen, L. J. Yuan, C. C. Wan and C. Y. Liang, “Simultaneous and 
+reproducible detection of neutrons and excess heat in cold fusion experiments,” preprint, 
+Sept. 1992, from the materials Science Center, National Tsing Hua University, Hsinchu, 
+Taiwan. 
+L. J. Yuan, C. M. Wan, C. Y. Liang, and S. K. Chen, “Neutron monitoring on cold fusion 
+experiments,” paper 24-PI-34. 
+A. Takahashi, A. Mega, T. Takeuchi, H. Miyamaru, and T. Iida, “Anomalous excess heat 
+by D2O/Pd cell under L-H mode electrolysis,” paper 24-PII-12. 
+A. Takahashi, A. Mega, T. Takeuchi, H. Miyamaru, and T. Iida, “Anomalous excess heat 
+by D2O/Pd cell under L-H mode electrolysis,” preprint of the ICCF3 proceedings. 
+E. Mallove, presented during the Panel discussion on the Takahashi method. 
+E. Storms, “Measurements of excess heat from a Pons-Fleischmann type electrolytic cell 
+using palladium sheet,” paper 22-PII-26. This paper was presented by T. Claytor, as 
+Storms was unable to attend. 
+F. Celani, A. Spallone, P. Tripodi and A. Nuvoli, “Measurements of excess heat and 
+tritium during self-biased pulsed electrolysis of Pd-D2O,” paper 24-PII-13. 
+F. Celani, A. Spallone, P. Tripodi and A. Nuvoli, “Measurements of excess heat and 
+tritium during self-biased pulsed electrolysis of Pd-D2O,” preprint of the ICCF3 
+proceedings. 
+N. Oyama, T. Terashima, S. Kasahara, O. Hatozaki, T. Ohsaka and T. Tatsuma, 
+“Electrochemical calorimetry of D2O electrolysis using a palladium cathode in a clodes 
+cell system,” paper 22-pII-29. 
+T. N. Claytor, D. G. Tuggle and H. O. Menlove, “Evolution of tritium from palladium in 
+the solid state gas cell,” paper 24-PI-10. 
+V. A. Romodanov, V. I. Savin, and Yu. M. Timofeev, “Reactions of nuclear fusion in 
+condensed media,” paper 22-PI-2. 
+V. A. Romodanov, V. I. Savin, and Yu. M. Timofeev, “Nuclear fusion in condensed 
+matter,” preprint UDC: 539.172.13. 
+R. Notoya and M. Enyo, “Excess heat production in Electrolysis in K2CO3 solution with 
+Ni electrodes,”paper 24-PII-35. 
+R. L. Mills and S. P. Kneizys, “Excess heat production by the electrolysis of an aqueous 
+potassium carbonate electrolyte and the implications for cold fusion,” Fusion Tech. 20 
+65, (1991). 
+V. Noninski, “Excess heat during the electrolysis of a light water solution of K2CO3 with 
+a nickel cathode,” Fusion Tech. 21 163, (1992). 
+M. Srinivasan, A. Shyam, T. K. Shankarnarayanan, M. B. Bajpai, H. Ramamurthy, U. K. 
+Mukherjee, M. S. Krishnan, M. G. Nayar, and Y. Naik, “Tritium and excess heat 
+generation during electrolysis of aqueous solutions of alkali salts with nickel cathode,” 
+paper 22-PII-28. 
+M. Srinivasan, A. Shyam, T. K. Shankarnarayanan, M. B. Bajpai, H. Ramamurthy, U. K. 
+Mukherjee, M. S. Krishnan, M. G. Nayar, and Y. Naik, “Tritium and excess heat 
+generation during electrolysis of aqueous solutions of alkali salts with nickel cathode,” 
+preprint of the ICCF3 proceedings. 
+R. T. Bush and R. D. Eagleton, “Calorimetric studies of an electrolytic excess heat effect 
+employing light water-based electrolytes of some alkali salts,” paper 24-PII-32. 
+T. Ohmori and M. Enyo, “Excess heat produced during the electrolysis on Ni, Au, Ag 
+and Sn electrodes in alkaline media,” paper 24-PII-36. 
+S. Pons and M. Fleischmann, Il Nuovo Cimento, 105A 763 (1992). 
+D. R. Coupland, M. L. Doyle, J. W. Jenkins, J. H. F. Notton, R. J. Potter and D. T. 
+Thompson, “Some observations related to the presence of hydrogen and deuterium in 
+palladium,” paper 22-PII-2. 
+D. R. Coupland, M. L. Doyle, J. W. Jenkins, J. H. F. Notton, R. J. Potter and D. T. 
+Thompson, “Some observations related to the presence of hydrogen and deuterium in 
+palladium,” preprint of the ICCF3 proceedings. 
+D. Gozzi, P.L. Cignini, R. Caputo, M. Tomellini, E. Cisbani, S. Frullani, F. Garabaldi, M. 
+Jodice, and G. M. Urcioli, “Experiment with global detection of the cold fusion 
+products,” paper 24-PI-7. 
+M. Nakada, T. Kusunoki, Y. Fujii, M. Okamoto and O. Odawara, “A role for lithium for 
+the neutron emission in heavy water electrolysis,” paper 22-PII-15. 
+S. Miyamoto, K. Sueki, H. Iwai, M. Fujii, T. Shirakawa, H. Miura, T. Watanabe, H. 
+Toriumi, T. Uehara, Y. Nakamitsu, M. Chiba, T. Hirose, and H. Nakahara, “Measure of 
+protons and observations of the change of electrolysis parameters in the galvanostatic  
+electrolysis of the 0.1M-LiOD/D2O solution,” paper 24-PI-37. 
+S. Miyamoto, K. Sueki, H. Iwai, M. Fujii, T. Shirakawa, H. Miura, T. Watanabe, H. 
+Toriumi, T. Uehara, Y. Nakamitsu, M. Chiba, T. Hirose, and H. Nakahara, “Measure of 
+protons and observations of the change of electrolysis parameters in the galvanostatic 
+electrolysis of the 0.1M-LiOD/D2O solution,” preprint of the ICCF3 proceedings. 
+M. Corradi, F. Ferrarotto, M. Giannini, V. Milone, B. Stella, L. Storelli, F. Celani, and A. 
+Spallone, “Evidence for stimulated emission of neutrons from deuterated palladium,” 
+paper 24-PI-17. 
+Y. Fukai, “The ABC's of the hydrogen-metal system,” paper 22-PII-3. 
+Y. Fukai, “The ABC's of the hydrogen-metal system,” preprint of the ICCF3 
+proceedings. 
+K. Watanabe, Y. Fukai, N. Niimura and O. Konno, “A search for fracture-induced 
+nuclear fusion in some deuterium-loaded materials,” 24-PII-8. 
+E. Choi, E. Eriji, and H. Ohsumi, “Limit on fast neutrons from dd fusion in deuterized Pd 
+by means of Ge detectors,” paper 24-PI-30. 
+S. Miyamoto, K. Sueki, H. Iwai, M. Fujii, T. Shirakawa, H. Miura, T. Watanabe, H. 
+Toriumi, T. Uehara, Y. Nakamitsu, M. Chiba, T. Hirose, and H. Nakahara, 
+“Measurement of protons and observation of the change of electrolysis parameters in the 
+galvanostatic electrolysis of the 0.1M-LiOD/D2O solution,” paper 24-PI-37. 
+D. Morrison, “Review of cold fusion experiments,” paper 24-PI-9. 
+D. R. O. Morrison, “The third international cold fusion conference,” Cold Fusion Update 
+7 on the computer network, Nov. 1 - Dec. 6, 1992. 
+J. Huizenga, “Cold fusion claims,” post deadline paper. 
+G. Preparata, “Theory of cold fusion in deuterated palladium,” paper 22-PI-1. 
+S. Chubb and T. Chubb, “Ion band state fusion,” paper 22-PI-20. 
+S. Chubb and T. Chubb, “Ion band state fusion,”  preprint of the ICCF3 proceedings. 
+T. Matsumoto, “Review for Nattoh model and experimental findings during cold fusion,” 
+paper 22-PI-8. 
+A. Takahasi, “Nuclear products by D2O/Pd electrolysis and multibody fusion,” Proc. Int. 
+Symp. Nonlinear Phenomena in Electromagnetic Fields, Nagoya (1992). 
+K. Tsuchiya, K. Ohashi and M. Fukuchi, “Mechanism of cold nuclear fusion in 
+palladium,” paper 22-PI-13. 
+N. Matsunami, “A mechanism for cold nuclear fusion: barrier reduction by screening 
+under transient coherent flow of deuterium,” paper 22-PI-15. 
+Q. Q. Gou, Z. H. Zhu, and Q. F. Zhang, “The possible theoretical model and it's 
+experimental evidences of cold fusion,” paper 22-PI-32. 
+V. I. Vysotskii, “Nonthreshold cold fusion as a result of nonequilibrium deuterium 
+Fermi-condensate in microholes of crystal,” paper 22-PI-28. 
+K. Yasui, “Fractofusion Mechanism,” paper 22-PI-30. 
+N. Yabuuchi, “Quantum mechanics on cold fusion,” paper 22-PI-26. 
+G. V. Fedorovich, “Nuclear fusion in the E-cell,” paper 22-PI-29. 
+A. Tenenbaum and E. Tabet, “Temporal sequence of nuclear signals in a dry cold fusion 
+experiment,” paper 22-PI-23. 
+K. Fukushima, “A new mechanism for cold fusion – sono-fusion,” paper 22-PI-16. 
+Y. E. Kim, M. Rabinowitz, R. A. Rice and J. H. Yoon, “Condensed matter effects for 
+cold and hot fusion,” paper 22-PI-25. 
+Y. E. Kim, M. Rabinowitz, R. A. Rice and J. H. Yoon, “High density fusion and the solar 
+neutrino problem,” paper 22-PI-31. 
+Y. E. Kim, M. Rabinowitz, R. A. Rice and J. H. Yoon, “Condensed matter effects for 
+cold and hot fusion,”  preprint of the ICCF3 proceedings. 
+X. Li, D. Jin, L. Chang, X. Zhang and W. Zhang, “Combined resonance tunneling in low 
+energy D-D nuclear reaction,” paper 22-PI-17. 
+L. Fonda and G. L. Shaw, “Anti-diquark catalysis of cold fusion,” paper 22-PI-18. 
+V. A. Chechin and V. A. Tsarev, “On non-stationary quantum mechanical origin of cold 
+nuclear fusion,” paper 22-PI-7. 
+V. A. Tsarev and D. H. Worledge, “Cold fusion studies in the USSR,” Fusion Tech. 22, 
+138 (1992). 
+J. Yang, “Abnormal Nuclear Phenomena and Weak Interaction Processes,” paper 22-PI-
+J. Yang, “Dineutron model of the cold fusion,” paper 22-PI-10. 
+T. Tani and Y. Kobayashi, “Tunnel disintegration and neutron emission probability,” 
+paper 22-PI-5. 
+P. L. Hagelstein, “Coherent and semi-coherent neutron reactions,” paper 22-PI-4. 
+P. L. Hagelstein, “Coherence effects: theoretical considerations,” paper 22-PI-3. 
+P. L. Hagelstein, “Coherent and semi-coherent neutron reactions,” preprint of the ICCF3 
+proceedings. 
+S. Jones, “Update on BYU research,” paper 24-PI-1. 

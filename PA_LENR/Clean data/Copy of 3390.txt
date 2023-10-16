@@ -1,0 +1,268 @@
+Introduction
+
+Reports indicated that low level neutron
+bursts occured in titanium [2] and palladium
+[3]. Both experiments, designed to look at
+neutron production from deuterium fusion,
+created a highly stressed lattice prior to the
+observed neutron bursts. Experiments were
+designed by our group to take advantage of a
+potentially large pressure buildup in the
+crystalline lattice of metals created by phase
+changes during a thermal shock from liquid
+nitrogen temperature (-190 C) to 50 C. The
+palladium hydride phase diagram is
+distinctly different from that of titanium
+hydride. Palladium hydride retains its face
+centered structure throughout the few phase changes it experiences. The changes of
+phase are simply a distortion of the
+crystalline lattice from face centered cubic
+to face centered tetragonal. Information on
+titanium is not as plentiful as with palladium
+but its hydride phase diagram is much more
+complex, with phases going from hexagonal
+close pack, to face centered cubic, to body
+centered cubic, with intermediate phases
+being combinations of these. Titanium,
+containing a high level of hydrogen, will
+have yet another phase transition between 77
+and 300 K which can achieve greater than
+60% atomic hydrogen loading at cryogenic
+temperatures [4]. The experiments were
+based on an interesting thermal shock
+scenario. For example, if palladium were
+saturated with hydrogen at liquid nitrogen
+temperature (-199 C), the atom ratio of H/Pd
+would approach 1. If the temperature were
+quickly raised above 25 C, the internal
+pressure would exceed 14 kilobar. Titanium
+hydrides have not been as extensively
+studied as palladium hydrides, and low
+temperature charts are not available, but
+given the complex phase structure of
+titanium, the generation of high pressures
+under thermal shock was thought to be
+feasible. 
+
+
+Experiment
+
+Due to limited funding, the initial cryogenic
+thermal shocking experiments used 42
+grams of 99.5% pure titanium sponge (from
+Alfa Aesar) which was broken into 1/8 inch
+or smaller chips by hand and then placed in
+a glass jar in an argon atomosphere. The jar
+was agitated using a paint shaker for several
+minutes and the pieces further fragmented.
+A double walled chamber was built with the
+inner container made of high pressure
+copper tubing bent into a U shape and an
+outer chamber made of 304 stainless steel. A T joint was placed on the ends of the Ushaped copper tubing. On one side there was
+a loading port at the top of the T ( where the
+titanium chips were loaded) and a gas
+manifold on the side. On the other part of
+the U a thermal couple was inserted and a
+pressure guage
+
+The test chamber was designed to be moved
+from a liquid nitrogen bath and placed in the
+center of a neutron counting chamber, using
+two helium-3 detectors, designed to detect
+low level neutron bursts. The helium-3 detector signals were
+amplified, shaped and then sent to the ETC card in a Macintosh II computer and to a
+decade counter. The ETC was designed to
+achieve one microsecond resolution and a
+32,000 count storage capacity [1]. It was
+designed to run unattend until its storage
+capacity was filled then to shut down. Data
+was then transferred to a storage file on hard
+drive. Afterwards the card could be cleared
+and restarted. The decade counter simply
+accumulated counts over a set period of
+time. Once it reached its capacity of 1
+million counts, it reinitialized and started the
+count cycle over. Given that all experiments
+had shown low level bursts, it was believed
+that the 32,000 count capacity of the ETC
+and the 1 million count capacity of the
+decade counter were sufficient.
+
+
+Results
+
+Timing of the various measurements was
+complicated. The computer clock was
+started by software when the test chamber
+was placed in the neutron counter. The
+Temperature and pressure were timed and
+observations recorded by a student with a
+chronograph watch. The decade counter and
+ETC were located in a Farday cage and the
+signals were brought into the room with
+BNC connectors. The student timed and
+recorded the decade counter with a
+chronograph watch. All times were
+synchronized to a time zero corresponding
+to the ETC start time.
+
+A pressure loading with argon was run
+where the test chamber was pressurized to
+200 psi argon and then cooled in the LN2
+bath until pressure and temperature reached
+equilibrium. Then the test chamber was
+loaded into the neutron counting unit and hot
+water injected into the test chamber. The
+results from this test are shown in Fig. 3.
+The ETC data is plotted below the
+temperature data. The decade counter
+showed count rates consistent with the ETC
+and prior extensive background counting
+(where the background was on the order of
+0.15 counts per second).
+
+As shown in Table 1, a procedure for
+loading the titanium with D2 was developed
+to limit exothermic heat from the creation of
+titanium deuteride. The D2 pressure was
+slowly increased to 200 psi (the value was
+closed at 200 psi) while simultaneously
+running hot water (at 45 C). When the
+temperature stabalized, the water was
+drained and the test chamber was slowly
+lowered into an Liquid Nitrogen (LN2) bath
+on July 20, 1991 at 01:54. As temperature
+dropped, the D2 pressure fell below 50 psi at
+this point the D2 pressue was increased to
+100 psi and the valve closed. The D2
+pressure in the test chamber dropped and the
+temperature increased. At 310 minutes the
+decision was made to take the test chamber
+from the LN2 bath and place it in the
+neutron counter (even though pressure was
+still dropping and temperature increasing
+slowly). At 313 minutes, hot water was
+injected into the chamber causing the
+temperature to rise (Fig. 4). The hot water
+circulated for 15 minutes and then was shut
+off. The test chamber stayed in the neutron
+counting chamber for three days with the
+ETC and decade counter running. In the first
+cycle the neutron counts were at background
+level.
+
+Since the test chamber was still showing
+changes in pressure and temperature when the test chamber was removed from LN2
+during the first cycle, we thought that the
+chips had not been fully loaded. On July 23,
+1991 at 18:42, the test chamber was then cooled to -186 C and the D2 pressure was
+held at 50 psi for 160 minutes. The ETC was
+started and at 163 minutes, the test chamber
+was placed in the neutron detection chamber
+and the hot water flow started. Due to a
+freezing problem, the water flow was
+restricted and the rate of temperature change
+was reduced. As soon as the test chamber
+was in the neutron counting chamber,
+neutron counts were rapidly building up on
+both the ETC and the decade counter. The ETC’s storage capacity was quickly
+saturated. The ETC had to be manually
+restarted about 42.8 seconds after saturation.
+It again saturated in about 0.11 seconds. A
+softwart glitch did not allow a restart after the second saturation. In the meantime the
+decade counter had exceeded its one million
+count capacity at least twice (the student
+recording decade counter data was also the
+student who had to restart the ETC so he
+might have missed seeing a third saturation).
+After 5 minutes of high counts, it was
+decided to put the device back into the LN2
+bath to slow the reaction rate down. 
+
+The results from the second temperature
+cycle is that at least 2,486,500 neutron
+counts occurred during a five minute period.
+The detector efficiecy was about 4% so this
+would correspond to 62,163,000 neutrons.
+An accurate neutron count was only possible
+during the two brief periods while the ETC
+was running. Fig. 5 shows the two points in
+time where the ETC was saturated.
+
+A third cycle was started by putting the test
+chamber in a LN2 bath for 35 minutes
+(cooled to -190 C). On July 23, 1991 at
+19:25 the chamber was allowed to warm by
+natural convenction. Everyone left for the night (due to fatigue) and returned 17 hours
+later. The decade counter showed 50,883
+counts and the ETC had saturated. The
+decade counter could have recycled itself
+multiple time during the event shown in Fig.
+6 so the total count is at least 50,833, but
+could have been much more. One small
+neutron burst occurred within 10 seconds of
+the convective warming process and a much
+larger burst which saturated the ETC
+occurred at 47,715 s into the cycle.
+
+A fourth cycle was started on Wednesday
+July 24, 1991 at 17:20. The test chamber
+was cooled to -190 C for 190 minutes and
+the D2 pressure held at 50 psi. The ETC was
+started and the test chamber put into the
+neutron counting chamber and at 20:25 hot
+water was injected. A neutron burst was
+seen about 10 s after the start of the heating
+cycle (Fig. 7).
+
+At this point we collected the D2 gas and
+titanium samples to check for tritium content. One hour and 26 minutes after
+removing the titanium, 9.6 grams of the
+sample was placed in a Tri Carb 1600 TR
+Liquid Scintillation Analyzer. The minimum
+detectable amount for this unit was 2.9x10-6
+micro Curie. The test sample yielded a
+reading of 12.8x10-6 micro Curi. A control
+sample of the titanium yielded a reading of
+11.9x10-6
+ micro Curi. Even though there was
+a difference of 0.9x10-6 micro Curi, it was
+not deamed statistically significant.
+
+
+Discussion and Conclusions 
+
+Cryogenically cooled metals under thermal
+shock yielded promising results. Three
+cooling and heating cycles using titanium
+yielded neutron counts significantly above
+background. The ETC was able to pinpoint
+when the bursts occurred and the count rate
+at the time of the burst. In the second cycle,
+a sustained burst of neutrons were observed
+that twice saturated the 32K storage limit of
+the ETC before a software failure and a
+decade counter at least twice exceeded it’s
+one million count capacity during the five
+minute period. The neutron production
+might have been sustained longer had we not put the test chamber back into the LN2 bath
+in order to try to stop the reaction. At
+minimum, this event yielded a minimum of
+2,486,500 neutron counts (the student who
+was observing the decade counter was busy
+trying to restart the ETC and may have
+missed additional cycling of the decade
+counter). Our goal was to test other metals
+capable of forming hydrides (e.g.,
+palladium). However, the experiments were
+discontinued due to circumstances beyond
+our control. 
+
+As part of the Sydney Kimel Institute for the
+Nuclear Rennacance, a continuation of the
+cryogenically cooled metals under thermal
+shock experiments are continuing. A team
+including Dr. Lukosi is developing a next
+generation testing system—some of which
+will be reported at future meetings and in
+future publications.

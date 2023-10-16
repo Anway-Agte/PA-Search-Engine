@@ -1,0 +1,44 @@
+1. INTRODUCTION
+
+The experimental results from registering nuclear products, excess heat power and the yield of impurity nuclides (nuclear reaction products) in the cathode of the high-current glow discharge show that a mechanism of converting initial excitation of the discharge plasma ions into the high energetic excitation of a nuclear- electronic system of a solid is supposed to occur in the solid of a cathode type when bombarding it by the discharge plasma ions. X-ray emission registration can be one of the evidence of such process existence.
+
+
+2. EXPERIMENT METOD AND RESULTS
+
+The experiments were carried out on a plant of the high-current glow discharge [1] using deuterium and hydrogen. The cathode samples made of Pd and other metals were arranged on the cathode holder, above which there was a window for penetrating radiation output. The window was covered with 15 mm Be foil for protecting the detectors from visible and ultraviolet radiation. The pulse-periodic power source of the glow discharge was used. The registration of x-ray emission was carried out using thermoluminescence detectors, camera - obscura with fixing x-ray image onto the x-ray film, scintillation detectors provided with photoelectronic multipliers (Fig.1).
+Thermoluminescence detectors are non-sensitive to electrical pickups and allow registering the absorbed radiation dose quantitatively in the absolute units of dose measurement. The camera-obscura gives a spatial resolution of x-ray emission and an opportunity to determine where the radiation emerges from. The scintillation detectors provided with the photoelectronic multipliers provide temporal resolution of x-ray emission characteristics.
+
+The thermoluminescence detectors (TLD) by the base of Al2O3 crystal, which allow registering values of penetrating radiation beginning from the background values of radioactive radiation of the environment, were used with the purpose of the intensity measurement and evaluation of the average energy of a soft x-ray emission in the discharge. The detectors in the form of disks with the diameter of 5mm and thickness of 1mm, coveredwiththeberylium foilhavingdiferentthicknes(15μm,30μm,60μm,105μm,165μm,225μm, 225μm,300μm)werearangedabovethecathode in the special cassette (seven-channel spectrometer). The measurementcomplexoffirm“HARSHAW”wasusedforprocesingTLDdetectors.
+Dependence of x-ray emission intensity on the current and discharge voltage (Fig.2) can be approximated by the expression: I X-ray = A∙j∙exp(B∙U) (1)
+Where: I X-ray –intensity of x-ray emission from 1cm2 of area in R/sec, J- curentdensityоnthecathodein mA/cm2, U- discharge burning voltage in kV, A, D- constants.
+Changing intensity of the x-ray emission passing through a plate having the thickness of d is described by the expression: I = I0 2-d/d1/2 (2)
+Where: I0 - x-rayemisionintensitiesandоntheexitoftheplatethicknes,d1/2- half radiation absorption thicknes[2].Thisexpresionandthediagramofdependenceofhalfabsorptionlgоnrayradiationenergylg for beryllium given in [2], Appendix G were used for evaluating the x-ray emission energy. The main component of the x-ray emission energy is in the range of 1.3-1.5keV, but there is a component with a higher energy too (Fig.3).
+
+The high intensity of x-ray emission allowed obtaining an optical image of the emission area. The obscure camera with the hole with the diameter of 0.3mm (as an optical lens) was used. The image shows that the cathode area with the diameter of 9mm (Fig.4) and especially its central part has the largest luminance.
+The temporal characteristics of x-ray emission were investigated using modified plant variants (Fig.1c) containing a protecting screen made of beryllium foil, a scintillator (dsci =17mm), a photoelectronic multiplier (PEM-85), The signal from PEM was fed to a quick-acting preamplifier with the amplification coefficient k=7 and then to the two-channel computer digital oscillograph ODM-01 with the limit resolution frequency of50MHzperachanel.Theorganicscintilatorsоnthebaseofpolymethylmetacrylate(PMMA)with the de-excitation time of 3-5 sec were used. The temporal resolution of the whole section from PEM up to the oscillograph (experimentally) is 70-80 nsec. The absence of the electrical inducing in the whole section from PEM up to the oscillograph was inspected during the special experiments with the installed luminous absorbing screen between PEM and the scintillator (Fig.5c). The dependence of the x-ray emission intensity (power of an exposure dose of x-rayemision)оntheoutputsignalofthescintilator-PEM was determined in the experiments with the glow discharge when using TLD.
+Two modes of radiation emission were indicated in the experiments:
+1. Diffusion x-ray emission ,
+2. X-ray emission in the form of laser beams.
+X-ray diffusion emission occurs mainly during the current running in the form of flashes and obeys the law 1/r2. The radiation flashes were observed some msec later after turning off the current (Fig.5a).
+
+Generation of the x-ray emission in the form of laser beams begins when increasing values of the glow discharge parameters (current impulses duration time, current density, discharge voltage) and it is observed in the form of the powerful flashes. The sensitivity of the system: the scintillator-PEM was reduced by a factor of 500 in this case. The x-ray emission in the form of laser beams consists of the separate beams of a small size (up to 107-108 photons in the beam). The secondary radiation occurring when interacting the x-ray laser beam with the multiplying screen was registered using an x-ray film (Fig.6).
+The beam generation arises from the volume of the solid cathode body, hypothetically, in one pass in the super luminance mode. In this case the beams duration must be 10-11-11-12 sec. The x-ray laser beams with the hypothetical energy (by evaluation) of 1.5-2keV are absorbed when passing through the multilayer metal organic screens, but they have an anomalous penetrability in the continuous metal media (Fig.8). The multiplication of laser beams and diffusion x-ray emission are observed in the time interval after turning off the current when passing beams through the thick screens (Fig.7).
+
+The stationary generation of the x-ray laser radiation was obtained during some minutes (before a plastic target destruction and vacuum lost) in the set of the experiments. The x-ray laser beam with the diameter of 9mm (cathodediameter)emergedfrom theberyl lium window madeofBefoilwiththethicknes sof15μm at the distance of 200mm from the cathode and caused thermal and radioactive destruction (diameter of 9mm) of the plastic target with the thickness of 3mm made of polymethyl metacrylate. The closed micro gas bubbles were observed within the plastic volume, they are supposed to be products of radioactive plastic decomposition (Fig.9). The heating trails of the beryllium foil up to 600-700 ̊Cwereobserved.Thestationary power of x-ray laser beam is evaluated up to 10 W at the stationary electric discharge capacity of 50 W.
+
+
+3. CONCLUSION
+
+We can note the following features of the x-ray emission registered in these experiments:
+X-ray emission emerges from the cathode surface.
+X-ray emission intensity increased by a factor of 5-6 when increasing the discharge voltage by a factor of in this case the radiation energy value has not charged considerably. The obtained results are the direct experimental evidence of existing the excited metastable energetic levels with the energy of 1.5-2keV in the solid of a cathode type. These excited metastable levels have been existing for some time ∆τmst (up to 10msec and more). Then the relaxation devastation of these levels occurs, which is accompanied by the x-ray and fast electrons emission. The mechanism of forming metastable energetic levels with the energy of 1.5-2keV in the solid body is caused by the excitation of inner electrons M and L of the metal ion shells.
+D+* +Pd → Pd* +D+
+For Pd the energy of level L is in the range of 3.6-3.17keV, the energy of level M is in the range of 0.67- 0.34keV. Therefore, an inverse laser-active medium with the energy levels of 1.5-2keV is formed in the solid. The experimental study of this fundamental phenomenon allowed designing a principally new device type (Fig.10):“X-ray solid-state laser with the radiation wavelength of 0.6-0.8nm and constant beam power up to
+10W”.
+
+
+4. REFERENCE
+
+1.A.B.Karabut,A.G.Lipson,A.S.Rousetsky.“CorectMeasurentofDD-Reaction Yield and in High Current Puls –Periodic Deuterium Glow discharge Operating at 0.85-1.20keV VoltageApplied”,- Proceedings of the 8th International Conference of Cold Fusion, Italy 21-26 May 2000, p.335.
+2. Richard B.Firestone. Table of Isotopes, Eighth Edition, Vol. 1,2, Appendix G-1, John Wiley & Sons, Inc., New York, 1996.
+3. Raymond C. Elton. X-ray Lasers, Academic Press, Inc., 1990.

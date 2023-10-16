@@ -1,0 +1,164 @@
+1. Theory—Resonance Selects Damping
+
+Selective resonant tunneling theory predicts that there should be a state of long life-time with two deuterons inside
+the metal crystal lattice when deuterium gas is absorbed by a metal. This has been verified in Japan, and we further
+guess that this long life-time state would emit neutrino which is detectable within the sensitivity of KamLAND neutrino
+detector.
+
+It is well known that hydrogen molecule will be dissociated into hydrogen atoms when hydrogen is absorbed by
+metal. The hydrogen atoms will be further ionized into protons and electrons in the crystal of metal. In general, those
+protons are trapped and separated by the lattice potential. The distance between them is similar to or even greater than
+the distance in a hydrogen molecule. The opportunity for them to approach each other is exponentially small due to
+the Coulomb barrier between two positively charged protons. The same is true for a pair of deuterons inside the metal
+crystal lattice. The probability for a pair of deuterons to approach each other is exponentially small as well. However,
+once a pair of deuterons stays together, it will form an excited state of the helium nucleus. This excited state of the
+helium nucleus will decay through strong nuclear interaction or electromagnetic interaction. However, according to
+the selective resonant tunneling theory [1,2], another kind of excited state of the helium nucleus will be generated. It
+is a product of the resonant tunneling through a thick and high Coulomb barrier inside the metal crystal lattice. The
+resonant tunneling will select only the state with long life-time because the resonant tunneling would not be valid if the
+life-time of that state is not long enough. Hence, this state must decay through some weak interaction instead of any
+strong nuclear interaction or electromagnetic interaction. The most important test of this selective resonant tunneling
+theory is to search for this long life-time resonant state of two deuterons.
+
+
+2. Experiment—Evidences for Long Life-time State
+
+Three deuterons might interact if two deuterons stay together with a long life-time in a target while the third deuteron
+is impinging on this target. The longer this life-time is, the greater the opportunity to see this 3-deuteron reaction.
+Professor Kasagi of Tohoku University observed this 3-D fusion reaction early in 1993 in Nuclear Science Laboratory
+
+About 150 keV deuteron beam bombarded on a titanium target, which had absorbed a lot of deuterium gas in advance
+to form TiDx with x > 1.2. Usually, we expect only the 2-body fusion reactions, because the probability of 3-body
+fusion reactions is almost zero. However, Kasagi observed the 3-body fusion reactions with much more probability.
+Every 105 2-body fusion reactions he observed one 3-body fusion reaction. In comparison, the theoretically expected
+value was only one 3-body fusion reaction in every 1031 2-body fusion reactions.
+
+In 1995–1997, Professor Takahashi of Osaka University conﬁrmed this discovery in terms of another reaction
+channel [4]. Kasagi studied the reaction channel: d + d + d → p + n + 4He (Q = 21.62 MeV), and Takahashi studied
+the reaction channel: d + d + d → t + 3He (Q = 9.5 MeV). Kasagi found that the maximum energy of the proton and
+4He were 17 and 6.5 MeV, respectively. These could not be explained if only 2-body fusion reactions were involved.
+3-body fusion reaction of d + d + d → p + n + 4He (Q = 21.62 MeV) explained not only the maximum energy of
+the proton and 4He, but also the shape of the continuous energy spectrum of the protons and 4He. Takahashi conﬁrmed
+3-body fusion reaction: d + d + d → t + 3He in terms of the energy of triton and 3He (4.75 MeV), and their equal
+yields. Both Kasagi and Takahashi obtained the similar ratio of the 3-body reaction rate to 2-body reaction rate:∼ 10−5.
+Takahashi further estimated the life-time of the state of two deuterons based on this ratio of reaction rates. The life-time
+of the 2-deuteron resonance state was estimated to be 104 −105 s, which was just in the range predicted by the selective
+resonant tunneling model.
+
+
+3. Neutrino Emission—Feasibility of Detection
+
+Such a long life-time state can only decay through some weak interaction, because the strong nuclear interaction
+or electromagnetic interaction is too strong to have such a long life-time. The weak interaction is supposed to be
+accompanied by neutrino emission although we do not know exactly which kind of weak interactions are involved. Is
+it feasible to detect such a weak neutrino emission using KamLAND neutrino detector?
+The recent visit to Research Center for Neutrino Science at Tohoku University gave us the impetus to consider this
+feasibility with four favorable factors:
+
+(1) Sensitivity. KamLAND detector requires that on its spherical surface the neutrino ﬂux should be of the order
+of 106/s/cm2. The diameter of this spherical surface is of 13 m. Hence, it requires that at the center of this
+spherical scintillation liquid there is a neutrino source which has the intensity of 6 × 1012/s. It corresponds to
+an “excess heat” power of Watts. Nevertheless, it is possible to have such amount of “excess heat” power in
+the metal hydride frequently [5,6] if the “excess heat” is from the recoil energy due to the neutrino emission.
+(2) Energy. KamLAND detector has successfully detected the solar neutrino, the ﬁssion reactor neutrino, and the
+geo-neutrino; hence, it is easier for KamLAND detector to obtain the better ratio of signal to noise if the energy
+of the unknown neutrino source is greater then 5 MeV. Indeed the preliminary estimate of the energy from the
+metal hydride is just above 5 MeV (see Section 4 ).
+(3) Puriﬁcation of scintillation liquid. KamLAND detector is composed of a high-purity scintillation liquid. Its
+impurity is at the level of 10−5. It is scheduled to further purify the scintillation liquid this year. Its impurity level
+would be further reduced to 10−7. Hence, the ratio of signal to noise would be further enhanced accordingly.
+(4) Volume. The volume at the center of the KamLAND detector is quite ample for the metal hydride. It is feasible
+to enhance the “excess heat” power level by a factor of 10–100 just based on the volumetric effect.
+
+
+4. Weak Interactions
+
+Three kinds of weak interactions are in consideration: K-electron capture, electron-catalyzed fusion reaction, and
+Mitsubishi–Iwamura type of nuclear transmutation.
+(1) K-electron capture. K-shell electron of deuterium atom might be captured by the deuteron with very little
+probability. There are two factors which might change this situation. (i) The selective resonant tunneling is
+favorable to the low probability process; (ii) The K-electron would have much more chance to interact with the
+deuteron of which the wave function is a linear combination of two states: the helium-like excited state and the
+deuterium molecule-like crystal trapped state.
+(2) Electron-catalyzed fusion. The electron might be captured by a tunneling deuteron, and form a virtual di-neutron
+in the nuclear well to produce a 4H∗ state which would be followed by a decay process to make a 4He∗ from
+this 4H∗ state: i.e. It seems like an electron-catalyzed fusion reaction to emit a pair of neutrino and anti-neutrino. This anti-
+neutrino emission is favorable to KamLAND detector as well. The maximum energy of this anti-neutron
+is about 23 MeV, and the maximum recoil energy of 4He is about 23 MeV also when lattice is involved in
+momentum conservation. These numbers may be compared with the experimental observation.
+(3) Mitsubishi–Iwamura nuclear transmutation. Cesium (13355 Cs ) thin ﬁlm on the surface of a Pd–CaO–Pd super-
+lattice complex might be transmuted into praseodymium (14159 Pr ) while a deuterium ﬂux is permeating through
+this complex [7]. Four deuterons might be added into this cesium nucleus in terms of the electron-catalyzed
+process which might be accompanied by emission of a pair of neutrino and anti-neutrino. Although it is not
+quite clear about the transmutation processes, but the neutrino emission must be there if it is a weak interaction
+process in nature.
+
+
+5. Discussion
+
+(1) Is electron capture by deuteron in lattice a real process? K-capture of electron in nucleus might be accompanied by a positron emission process if the mass excesses allow
+this positron emission. However, during K-capture of electron in deuteron, (d+d+e → 4H∗+νe+0.372 MeV,)
+the mass excesses do not allow the positron emission ( d + d → 4H∗ + νe + e+) if 4H∗ is a real one (i.e. the
+mass excess of 4H∗ takes 25.9 MeV). This consists with one aspect of the experimental fact (the products
+of positron annihilation, two 0.511 MeV photons, were not observed). Hence, one may expect that electron
+capture by deuteron in lattice might be a real process instead of a virtual process. Nevertheless, if d + d + e →
+4H∗ + νe + 0.372 MeV was a real process we were supposed to see the neutrino with single energy, and the
+neutron as the decay product of the 4H∗. These are not conﬁrmed by experiments either. Indeed positron
+emission was not observed just due to the selectivity of resonant tunneling. Because the 3-body products in the
+channel of positron emission has a greater phase space available, its probability of transition is usually greater
+than that of the 2-body product channel (i.e. electron capture channel). As a result, the life-time for positron
+emission is much shorter than that of electron capture. The selectivity of resonant tunneling just picks the
+longer life-time for such a thick and high Coulomb barrier at low energy (see calculation in the Proceedings of
+ICCF-9 [8]). Thus, we assume that electron capture by deuteron in lattice is a virtual process.
+
+(2) Is “excess heat” the recoil energy? If the electron capture is a virtual process, and the electron just plays the role of a catalyst; then, the energy
+would be distributed among 4He, neutrino and anti-neutrino with a little energy to lattice. The energy of 4He
+would be in the range from 75.8 keV to 23.8 MeV. Then we are supposed to see much more 4He than those
+observed in the “excess heat” experiments. A possible explanation is that most of the 4He were trapped by
+lattice. 4He would move out from lattice only if the temperature of palladium was higher than 1000oC which
+is much higher than that in any electrolysis experiment or most of the gas-loading experiment.
+
+(3) Analogy to inner conversion. When excited nucleus de-excites, the released energy may became the energy of photon, or the energy of orbital
+electron. At the ﬁrst glance,it was easy to think of that the nuclear energy was transfer ﬁrst to a real photon ﬁrst;
+then the photo-electric effect kicked out the orbital electron. Later it was found that the nuclear energy might
+be transferred to orbital electron through a virtual photon without any photo-electric effect in between. Now
+we may imagine that the nuclear energy was transferred to neutrino and anti-neutrino through a virtue electron
+capture process in those weak interactions in a lattice.
+
+
+6. Proposal of Experiment
+
+All the three above-mentioned reactions emit neutrino with energy higher than 5 MeV. Hence, we may propose that
+putting the metal hydride in the control room of KamLAND neutrino detector near the big liquid sphere of scintillator
+to run the ﬁrst step of experiment in order to conﬁrm the emission of the neutrino, and measure the energy of those
+neutrinos.
+
+After the conﬁrmation of the neutrino emission, we may reconstruct the set-up of the metal hydride in order to
+put this metal hydride into the center of the spherical liquid scintillator, and determine the spectrum of this neutrino
+emission.
+
+Early in 1989, the ﬁrst generation of neutrino detector at Kamiokande was used to detect the neutron emission from
+the Pd–D2O electrolytic cell. Its result of no neutron emission is still valid today, and becomes the foundation of the
+theory of the selective resonant tunneling in condensed matter nuclear science. We may expect that the third generation
+of the neutrino detector (KamLAND) might contribute to this greatest scientiﬁc exploration as well.
+
+As long as the neutrino emission is conﬁrmed, we may solve a long-lasting controversial puzzle in the scientiﬁc
+world, and a nuclear energy without strong nuclear contamination is thus feasible.
+
+
+References
+
+Xing Z. Li, Jian Tian, Ming Y. Mei, Chong X. Li, Sub-barrier fusion and selective resonant tunneling, Phys. Rev. C 61 (2000)
+Xing Z. Li, Bin Liu, Si Chen, Qing Ming Wei, and Heinrich Hora, Fusion cross-sections for inertial fusion energy, Laser Part.
+Beam 22 (2004) 469 .
+J. Kasagi et al., Energetic protons and alpha particles emitted in 150-keV deuteron bombardment on deuterated Ti, J. Phys.
+Soc. Japan 64(3) (1995) 778 .
+A. Takahashi et al., Anomalous enhancement of three-body deuteron fusion in titanium-deuteride with low-energy D+ beam
+implantation,Fusion Technol. 34 (1998) 256 .
+G. Fralick et al., Results of an attempt to measure increased rates of the reaction D + D −→ 3He + n in a Nonelectrochemical
+Cold Fusion Experiment, NASA Tech. Memo. (1989) 102430.
+Xing Z. Li et al., Correlation between abnormal deuterium ﬂux and heat ﬂow in a D/Pd system, J. Phys. D: Appl. Phys. 36
+(2003) 3095–3097.
+Y. Iwamura et al., Elemental Analysis of Pd Complexes: Effects of D2 gas permeation, Jpn. J. Appl. Phys. 41 (2002) 4642.
+Si Chen, X.Z. Li, Tritium production and selective resonant tunneling model, in: X.Z. Li (Ed.), Proceedings of ICCF-9
+(Tsinghua University Press, Beijing China, May 19–24, 2003) 2002, 42.

@@ -1,0 +1,95 @@
+1. Does Gas Loading Produce Anomalous Heat?
+
+Simple pressurization of nanosized palladium with deuterium appears to be a simpler and more rapid method to generate anomalous heat compared to electrolytic systems. A survey of the literature indicates that palladium particles less than 2 nm in size can obtain a Pd/D loading near one at modest deuterium pressure. In hundreds of reactions, we have routinely prepared palladium nanoparticles inside an aluminosilicate matrix and have found that these systems produce up to 8 fold more heat with deuterium compared to hydrogen. Furthermore, a characteristic signature of a pressurization reaction is its reversibility – the heat released upon pressurization should be absorbed upon evacuation. This reversibility is observed with hydrogen but not deuterium. Although we are still seeking conventional explanations for this excess heat, the anomalous heat does not appear to be explained by impurities in the deuterium gas nor other simple chemical or physical sources. The selection and preparation of the particles, the experimental set-up, and results will be discussed.
+
+This is from ENEA. Abstracts. in 15th International Conference on Condensed Matter Nuclear Science. 2009. Rome, Italy, p. 41. http://lenr-canr.org/acrobat/ENEAabstracts.pdf
+
+
+2. Tying Gas Loading to Electrolytic Loading
+
+ Hydrogen diffusing into Palladium expands the lattice
+ Because of this counter force, most Palladium takes-up 0.5-0.7
+parts hydrogen
+ Generally very high pressures are needed to get Palladium to uptake hydrogen beyond PdH0.7 – est. 105-106 Atm to reach PdH1
+ In 1908, Paal and Gerum reported Pd:H0.98 using Palladium black prepared with hydrazine (Berichte, 41 (1908) 818.)
+
+
+3. Hypothesis for Excess Heat
+
+ Particle size is important
+ <2 nm allows rapid loading to Pd:D 1:1
+ Need isolation to keep from sintering – used Zeolites
+
+
+4. Characterization of Particle Size
+
+ Not readily visible via TEM due to matrix
+
+
+5. Matrix with Pd – 0.5% Pd on NRL Matrix
+
+ Hart calorimeter- no excess heat is observed
+ Heat In ≠ Out; D2 ≠ H2
+ Internal and External Controls NOT OK for D2 but OK for H2
+
+
+6. Matrix with Pd – 1% Pd on NRL Matrix
+
+ Hart calorimeter- no excess heat is observed
+ Heat In ≠ Out; D2 ≠ H2
+ Internal and External Controls NOT OK for D2 but OK for H2
+
+
+7. But Is there an explanation for the “other” heat repeatedly observed?
+
+
+8. Possible Sources of Heat #1 Chemical energy in the deuterium but not in the hydrogen
+
+ 
+Example O2
+Argue against:
+ Increase pressure – no proportionate increase in heat  Other palladium particles show no effect
+Hypothetically could be dependant on particle size but this is not supported chemically
+
+
+9. Possible Sources of Heat #2 Mechanism consistent with some observations
+
+ Chemical exchange of D2 with H2O
+D2 +H2O HD+HDO D2 + H2O  H2 + D2O
+-4.13kJ/mole -8.71 kJ/mole
+
+ Chemical exchange of D2 with H2O
+D2 + H2O  HD + HDO -4.13 kJ/mole D2 + H2O  H2 + D2O -8.71 kJ/mole
+
+Chemical exchange of D2 with H2O
+D2 + H2O  HD + HDO -4.13 kJ/mole D2 + H2O  H2 + D2O -8.71 kJ/mole
+ Heat produced but no signature of H-D exchange in gas phase  Signature only upon removal of residual gas in Pd particle
+ Observed – D2 gives some HD and H2 gives some HD
+ Calculations suggest for the amount of Pd present and going to D2O
+(worse case)
+ Ignoring the spillover effect, only 7J heat available
+ Using D2O saturated Zeolite should see less heat with H2  Observed – can be endothermic
+
+
+10. Why Consider D-H Exchange as a Possible Source of Heat?
+
+ Chemical exchange of D2 with H2O
+ D2 +H2O HD+HDO -4.13kJ/mole  D2 +H2O HD+D2O -8.71kJ/mole
+ Can explain:
+ Internal controls – In <> Out
+ Why D2 (exothermic) <> H2 (endothermic)
+ Effect still pesent with some “dry” matrices
+ Make water in initial reactions PdO+D2 PdDx+D2O
+D2O + Matrix  Hydrated Matrix
+ Many pressurization/depressurization cycles decreases contribution
+
+
+11. Conclusions
+
+ Preparing Pd nano-particles inside Zeolites is reproducible and easy  Zeolites appear to provide Pd particles of the correct dimensions
+ Interesting heat pattern was measured by two independent principles  Many iterations with unexpected heat present
+ Heat in presence of Deuterium but not Hydrogen
+ Chemical effect due to Hydrogen-Deuterium exchange may account for some of the anomalous heat
+ Hydrogen may not be best control
+ Requires all the species present – Zeolite, Pd catalyst, water. D2/H2  But simple calculations do not account for all the heat observed
+ Although chemistry of Zeolites is complex, because of the ease of preparation, further exploration of these systems is warranted

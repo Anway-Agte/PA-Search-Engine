@@ -1,0 +1,209 @@
+Experimental Evidences for the Harmonic Oscillator Resonance and Electron Accumulation :Model of Cold Fusion.
+
+1'v1ichel RAMBAUT
+
+
+Abstract
+
+Cold Fusion outside any substratum is again considered from the Harmonic oscillator
+resonance and electron accumulation (HOREA) model point of view. If one adds Fractal
+theory, one gets a more straigthforward agreement with the experimental growth of fusion
+burst after the apex I of a fast current, and varying approximately like the tenth power I lO.
+Then it is shown that the model could account for the solar neutrino discrepancy. The paper
+ends up by a short reminder of two experimental data, in agreement with the HOREA point of
+view: experimentally noticed Electron accumulations, and Top-Table soft X-ray Laser
+operation.
+
+
+1. Introduction
+
+The fusion process in a deuterated medium, outside any substratum has been told
+previously as being a particular one, among the various process, famed as being Cold Fusion
+processes [l]. The process described by the HOREA model is probably the most general
+process underlying the ex-perimental observations, even in the case where the phenomenon
+occurs in a substratum like Palladium, Nickel, or in any other substrat which can absorb
+Hydrogen [2]. Inspite ex-perimental data are still scarce and sometimes questionable,in the case
+of the process "'ithout substratum, if coupled with the HO REA model, they are leading to a
+quantitative description. This Cold Fusion approach has links with some frontier problems, like
+the fractality of a medium, the operation of a star like the Sun, and also' with the validity of the
+Heaviside Fitzgerald and Lodge interpretation the Maxwellian Electrodynamics, which came
+out in 1888 [3].
+
+
+2. The Fractal Point of view: A new insight into the fusion experiments bv
+fast transitory currents
+
+The fractal point of view gives a more strikinipicture of the agreement between the Kiel
+and NRL ex-periments [2] and the HOREA model. During the leading edge of the current
+pattern, the medium was ionized; and as soon as the peak was reached, the neutron burst
+occured, which is conjectured to be only a testimony-like of the D+ D➔4He reactions.
+According this model, the phenomenon is marked by a Poisson distribution of two colliding
+deuteron places and it is possible to take into account, as a good representative parameter, the
+De Broglie wavelength of the Deuteron. This distribution is the mark of the fractal character
+[4] of the fusible medium. Using the Schrodinger equation, it has been obtained, a linear
+relationship in logarithmic scale, of the fusion production term T, in function of the Deuteron
+energy, which has the same slope, than the one in function of the De Broglie wavelength [1].
+The box counting dimension, practical approximation of the Hausdorff dimension [ 4], is
+obtained by dividing the fusible medium into a three-dimensional mesh, composed of boxes or
+practically of cubes, whose side length is 3; it is the limit of the logarithm of the number N0 of
+boxes containing an element of the medium, in function of the logarithm of the cube size
+inverse 1/3. Practically, one uses only an approximation of D, with a finite size o, determined
+by Physics. In the specific case of the electron accumulation fusion medium, one can convert
+the D expression into one depending on the mean rate μ of Deuteron in a cubic box of side 8,
+given by the Poisson law. The probability P1 for a boxe containing one Deuteron is thus, n
+being the number of Deuteron per volume unit. And the probability P 2 for a boxe containing two Deuterons:
+
+The number of boxes vvith two Deuterons being ½ 86 n2, and as 8 is typically in the range of
+1 o-9 cm, for colliding Deuterons, and n of the order of 1023 /cm3 , it is low, and e-μ can be
+replaced by one. So the practical expression of the fractal dimension D is:
+The mean ratio between the number of boxes, and containing two Deuterons, and the number 
+of boxes containing one Deuteron is very close to µ/2. Given that all boxes containing one 
+unique Deuteron are supposed to give up their electron to the boxe containing two Deuterons, 
+one can ex-press the fractal dimension D in function of the v number of the electrons 
+accumulated around the two colliding Deuterons [l] (v = 2/µ),n and taking into account the 
+relationship, 
+This D expression, makes a link with the quantum calculation, which was fulfilled for some 
+specific values ofv [l]. The NRL !1° power law, surprising at first sight, is directly linked with 
+the fractality of the fusible medium. A medium vvhich would be submitted to thermonuclear 
+conditions, would not give such a power law, given that the fratal dimension would be 
+evidently equal to 3. The figure 1 gives the fractal dimension D variations in function of the 
+logarithm of the density n, for 3 values of the electron number accumulated around two 
+colliding Deuterons. It is interesting to emphazize on the agreement of those values with the 
+ones resulting from Schrodinger calculations. For example, for n=l022/cm3, the fractal 
+dimension deduced from Schrodinger calculations is 1. 92, the electron number being equal to v 
+= l.3xl o3, whereas the direct calculation gives 1. 94 for the fractal dimension. The agreement 
+benveen the two ways to get the fractal dimension has a deep physical significance, which 
+needs to be still digged deeper. 
+
+
+3. Account for the solar neutrino discrepancv.
+
+v=l03 
+The solar neutrino counting reveals a discrepancy of approximately 30 percents, 
+confirmed recently [5] between the 123 SNU, predicted by the standard model, and the 83 
+SNU effectivelv detected with a uncertainty of 21 SNU (One Safar Neutrino Unit (SNU) 
+corr;sponds to fo-36 neutrino interaction per atom of the detector and per second). The solar 
+standard model describes the SUll as being roughly constituted of three parts: the core, the 
+radiative zone, and the convection zone [6]. It is characterized by some physical parameters: 
+the solar luminosity: L0 = 3.826 1033 erg s-1 , the solar radius: R0 = 6.9598 1010 cm, the inner 
+convection zone radius: 0. 73 R0, corresponding to a temperature of l.3x106 K, to a density of 
+
+0.15 g cm-3 [7], and to a pressure of 6xl012 dynes/cm3. :
+
+In the convection zone there is no possiblity of thermonuclear reaction, but there should 
+be some possibilities of fusion reactions, by the HOREA process. This hypothesis is in 
+agreement with the effect of electron accumulation bringing about the fusion process, which 
+can only occur in an ionized medium, submitted to turbulence, for example during the trailing 
+edge of a fast current pattem[2]. 
+
+The cold fusion process in solar convection zone is supposed essentially due to nuclear 
+reactions between Deuterons. With the above parameters, the number of nuclei per cm3 is in 
+the range of some units of 1022, and given the relative great rate of Hydrogen [7], the 
+Hydrogen particle number n is close to this value. Taking into account the mass fraction of 
+Hydrogen and Helium, one has approximately n(H) ==O. 92 n, so one can take in first 
+approximation n = l.Oxl022/cm3, for the mean hydrogen nuclei number in the convection 
+zone, and as the Deuterium/Hydrogen ratio is D/H < 4xI0-5, the Deuterium density is 
+approximately determined by n(D) < 4.0x 10171cm3. 
+
+The expression of the Fusion energy production of the HO REA model is rather different 
+from the one deduced from the Lawson criterium [8]. 
+
+E is the energy produced during the  t lapse of time, n is a particle number, able to participate 
+to the fusion nuclear reaction, T called "the production term", describes the crossing of the 
+"screened" Coulomb barrier, e is the energy, given off by one nuclear reaction. 
+
+The T value is obtained from the relationship, depending on the fractal dimension D, 
+between the "production term" T and the Deuteron energy f. (TITO ==(f.lE.0}°). Supposing a 
+Deuteron energy given by the Boltzmann equality (f. == 3/2 k 0), one gets f. = 129 eV. But the 
+interesting parameters of the laboratory experiment TO and f.o are in fact poorly known. The 
+ion energy mean value f.o is largeley superior to the thermal one (less than 1 eV in Kiel 
+conditions), at the time of the fast current decreasei by resonance effect [2]. With D around
+1.5, T0 should be estimated in the range 10-27 -IO- 6 cm3/sec, and T in the solar convection
+zone ,should be in the maximum range 1 o-25 -1 o-24 cm3/sec. 
+
+But the behaviour of the medium cannot be described completely by the above expression 
+of the energy E, whereas the number of fusible Deuterons is very low in comparison with the 
+number of the other ions. One has in fact to multiply the "production term" T, by the 
+probability for fusible ions, to be in touch. This probability can be evaluated considering a 
+volume V of the medium containing two Deuterons and 2xH/D non fusible ions. If V is cubic, 
+for the simplicity of calculation, and containing   cells, one can show that this probability Pf of 
+collision for a possible fusion process in the elementary box is: 
+Pf = 2x26(   - 6 213 ) (   - 2 )!/ (s)!
+
+The E fusion rate of formula 16) has thus to be multiplied by Pf With the above numerical 
+values, one gets Pf < 8.6 10-
+, and for the total energy production per second W, in the 
+convection zone: 
+
+1.0 1033 erg/sec< W < 1.0 1034 erg/sec :
+This range includes the third of solar luminosity. One ought get a value close to 
+L0/3 = l.2753x1033 erg s-1• New well instrumented experiments, a little similar to the Kiel 
+ones, and new complete computer calculations, could let us to conclude, but the rough 
+estimate, utilizing the mean values, does not gives a great discrepancy. In fact the solar central 
+inner core could a little cooler than is usually estimated. 
+
+
+3. Non Fusion Experiments in agreement with the HOREA model
+
+Electron clusters, as great as 2xlOiO are told to be produced by a variety of sources. In 
+the ref.[9], is given the description of a specific one. Nevertheless the possible existence of 
+those cluster is linked with the question of physical validity of the so called Maxwell equations, 
+which are in fact the result of an interpretation of MaxwelJ theory by Heaviside and Al [3]. 
+
+Assigning a physical value to the vector potential, like in Schrodinger calculations for HOREA, 
+a possible explanation could based on a possible energy oscillation with the De Broglie 
+wavelength, of the Faraday field, like has been claiming P.Beckmann [9]. 
+
+Another experiment is a lasing one at 46.5 run: it has been achieved recently by J.J.Rocca 
+et Al [10]. Tue basic idea was to perform a direct excitation of the plasma medium by a pulsed 
+discharge, instead of exciting it by an exterior flux: it has consisted of running a pulsed current 
+through the lasing medium. The current pulse had an amplitude of 40 kA and a half period of 
+
+
+60 ns. Diagnostics using a 5 ns detector gate indicate that lasing occurs near the moment of 
+
+maximum compression, shortly after the peak of the current pulse. This observation has to be 
+brought nearer wit a similar observation made in the Kiel and NRL experiments, showing that 
+neutron production occurs shortly after the peak of the current pulse [ l] [2]. Apart the fact 
+that nuclear reactions cannot occur, it seems that the process leading to lasing phenomenon 
+could be described by the HOREA model. 
+
+
+5.Conclusion
+
+Even if the experimental data are still too scarce and imprecise, there is an growing 
+agreement with HOREA model. Firstly, the tentative fusion pulsed experiments, considered 
+from the fractal point of view, reveal the existence of a dispersed process in a cold medium. In 
+another terms it is an indirect proof of the Cold Fusion existence. As for the application of the 
+model to the solar case, reveals that it could account for the thirty percent deficiency of solar 
+neutrinos, inspite the approximative knowledge of the Deuteron density and of the 
+production termT, the inner solar core being cooler than usually estimated. 
+
+All those e,q:ierimental facts, linked with the HO REA model, constitute a network of non 
+contradictory elements revealing the effectiveness of Cold Fusion outside an.y specific 
+substratum. Those elements are moreover non contradictory with non fusion experiments, like 
+electron accumulation experiments, and Table-Top X-ray laser experiments. 
+
+References 
+[ l]. M.Rambaut, Physics Letters A 163 (1992) 335-342, 30 march 1994 & Physics Letters A
+164 (1992), 155-163, 13 April 1992.
+[2] M.Rambaut, Transactions of Fusion Technology, volume 26, Number 4T, Part 2, 486-492,
+December 1994 & Proceedings: Fourth International Conference on Cold Fusion,Volume 4,
+24-1, EPRI publication 1994.
+[3] T.W.Barret, Electromagnetic Phenomena not explained by Maxwell's equations, in Essays
+on the Formal Aspects of Electromagnetic Theory, Editor Akhlesh Lakhtakia, World
+Scientific, 1993.
+[4] B.Mandelbrot, "Les objets fractals",Flammarion, Paris, (1975); "Fractals: Form, Chance
+and Dimension, Freeman, San Francisco, (1977); "The Fractal Geometry ofNature", Freeman,
+San Francisco (1983).
+[5] P.Anselman et al., Physics Letters B, 285, 376, 1992 & 285, 390, 1992.
+[6] John N.Bahcall, Walter F.Huebner, Stephen H.Lubow, Peter D.Parker, Roger KUlrich,
+Review of Modern Physics, Vol. 54, N 3, July 1982.
+[7] Kenneth R.Lang, Astrophysical Formulae, Springer-Verlag, 1986.
+[8]. M.Rambaut, Frontiers of Cold Fusion, ICCF3, Nagoya, October 21-25, 1993, Universal
+Academic Press,lnc, pages 601-604.
+[9] Petr Beckmann, "Electron clusters", Galilean Electrodynamics, vol.I, N 3, pp.55-58,
+Sept/Oct 1990.
+[10] J.J Rocca, V.Shlyaptsev, F.G.Tomasel, O.D.Cort zar, D.Hartshorn, and J.L.A.Chilla,
+Physical Review Letters, Volume 73, Number 16, 17 October 1994 & G.P.Collins, Physics
+Today, October 1994, 19-22.

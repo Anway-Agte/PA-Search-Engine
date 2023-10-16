@@ -1,0 +1,480 @@
+INTRODUCTION
+
+This paper reports on work devoted to the development
+of an easy-to-perform and widely applicable method for
+dispersion measurement of supported Pd. Here we discuss
+the problem of the stoichiometry factor (S) of adsorbate–
+metal interaction, which is the ratio of the number of atoms
+adsorbed on metal surface Nads to the number of exposed
+metal atoms Ms:
+S D Nads=Ms: [1]
+During the past 30 years, the problem of stoichiometry of
+adsorbate–adsorbent metal interaction has been the subject
+of a number of papers, but until now the problem has not
+been fully resolved (nor has the problem of relative stoichiometries
+of different adsorbates on a given metal) and
+still receives new contributions. Excellent reviews (see, for
+example, (1–4)) on the topic are available
+
+Most works have been devoted to Pt, particularly to the
+H–Pt interaction, but complete agreement has not been
+reached even in this case. Published works on Pd are
+much less frequent and almost all are based on the H–Pd
+interaction.
+
+In regard to H2, a Hirr/Pds stoichiometric ratioD1 (Hirr
+refers to irreversibly adsorbed hydrogen and Pds to surface
+Pd atoms) is generally accepted. Most authors simply u Hirr/PdsD1, without any independent confirmation and regardless
+of the type of support, sample pretreatment conditions,
+adsorption temperature (298–373 K), or pressure
+(from 0–0.1 to 0–50 KPa). A few authors (5–8) calculated
+Hirr/Pds ratio by H2 adsorption on Pd black with a known
+surface area. The resulting stoichiometry is not far from
+1 (1.0–1.1 except for (6), which reported a value of about
+1.2). In some papers H2 adsorption results are compared
+to those obtained by different techniques, mainly TEM
+and, to a lesser degree, XRD (6, 9–17). In Fig. 1, available
+data of Pd particle size calculated from H2 adsorption,
+assuming Hirr/PdsD1, are reported in relation to corresponding
+TEM and XRD values. The resulting relationship
+(dH2=dTEM,XRDD0.96) strongly supports the accuracy
+of the assumed stoichiometry. A more precise assessment
+of true stoichiometry by comparison methods is not possible
+because rough assumptions are necessary to process
+experimental data in order to compare them together (18).
+At the same time, Fig. 1 shows that a single datum and even
+a whole set of data can diverge significantly from the fitting
+straight line, pointing out the effect of experimental
+parameters, concerning both sample and analysis, on measured
+stoichiometry, as will be discussed later.
+
+The Oirr/Pds stoichiometric ratio, not to mention the
+widely investigated Pt, is more open to question. Almost
+all authors prefer to compare O2 adsorption data to those
+obtained by H2 adsorption, assuming Hirr/PdsD1. If the
+available results (6, 9, 10, 13, 19–23) are used to calculate
+Oirr/Hirr (i.e., the relative stoichiometry Hirr/Pds–Oirr/Pds),
+the most relevant feature is the width of range covered by
+obtained values (standard deviation 0.30), which makes the
+evaluation of stoichiometry unreliable.
+
+In this paper we report on the application to three different
+supported Pd catalysts of different methods (i.e., direct
+adsorption and titration) and different adsorbates (i.e.,
+H2 and O2). We will show that Hirr/OirrD1 and if, on the
+basis of the reviewed literature, we assume Hirr/PdsD1,
+then also Oirr/PdsD1. The obtained results are independent
+of the method used, but the evaluation of direct adsorption
+measurements requires the absence or the knowledge
+of residual hydrogen on metal after pretreatment
+
+
+METHODS
+
+Sample Preparation
+
+Pd/Al2O3 was prepared by impregnating ° -Al2O3 Alcoa
+CSS (surface area 122 m2g¡1, pore volume 0.43 cm3g¡1)
+with excess solution of Pd chloride and reduced by adding
+sodium hypophosphite. After removal of excess solution,
+the sample was washed with H2O, dried in air at 390 K for
+16 h, and kept in a desiccator. The residual P and Cl concentrations,
+as determined by XRF, were 150 and 200 ppm,
+respectively. The metal loading was determined by conventional
+ICP-AES after dissolution in aqua regia. A concentration
+of 0.57 wt% Pd was found. In the following the sample
+will be identified as Pd0.57/A.
+
+Pd/SiO2–Al2O3 was prepared by using as carrier silica–
+alumina Condea (surface area 348 m2g¡1, pore volume
+0.62 cm3g¡1). The preparation method was the same as for
+Pd0.57/A, without reducing treatment. The Pd concentration
+was found to be 1.75 wt%.This sample will be identified
+as Pd1.75/SA.
+
+Pd/SiO2 was prepared following the sol-gel method reported
+by Zou and Gonzalez (24). Pd acetylacetonate and
+tetraethoxysilane were used as precursors. The gel was
+dried at 373 K for 4 h and calcined in air at 473 K for 2 h.
+The catalyst obtained was found to contain 1.21 wt% Pd,
+and it will be identified as Pd1.21/S
+
+Adsorption Methods
+
+Four types of measurements were made on each sample:
+H2 adsorption, O2 adsorption, H2 titration, and O2 titration.
+Measurements were made on about 3 g of sample by a
+Micromeritics ASAP 2010C device equipped with a turbomolecular pump, which allowed it to attain a vacuum better
+than 10¡3 Pa in the sample holder. All the treatments, including
+adsorption, were performed with sufficient time to
+reach equilibrium. In fact some steps are slow, as pointed
+out, for example, in (17) for the adsorption of O2 on Pd
+surface. The pretreatment consisted of evacuation at 308 K
+for 5 min, evacuation at the pretreatment temperature Tpre
+(393 or 673 K) for 60 min, five cycles of reduction with H2
+(26 KPa) at Tpre for 15 min followed by evacuation at he
+same temperature for 15 min (the last time for 60 min),
+and, finally, evacuation at 308 K for 60 min. Direct adsorption
+measurements were made withH2 or withO2 at 308 K.
+They consisted of the determination of two isotherms in
+the 0.75–30 KPa range (about 60 min per point) separated
+by an evacuation at the same temperature for 60 min. H2
+titration measurements were made in the same way, but the
+adsorption was preceded by two cycles of a treatment consisting
+of adsorption of O2 at 308 K and 26 KPa for 60 min
+followed by evacuation at the same temperature for 60 min.
+In the case of O2 titration, after the last H2 treatment, instead
+of the evacuation, the temperature was lowered under
+H2 to 308 K, and then the sample was evacuated at 308 K
+for 60 min. 
+
+Adsorbed volumes were calculated by fitting the linear
+portion of each isotherm with a straight line and extrapolating
+it to zero pressure: the first isotherm gives the total
+adsorbed volume, the second gives the reversibly adsorbed
+volume, and their difference gives the irreversibly adsorbed
+volume.
+
+Starting from Eq. [1] and stoichiometry factor S, it is possible
+to calculate dispersion from adsorbed volume (Vads)
+and Pd content of the sample (CPd):
+D D Ms=Mtot D Nads=.SMtot/ D KVads=.SCPd/: [2]
+If Vads is expressed in cm3 g¡1 sample and CPd in g Pd g¡1
+sample, K becomes 0.009494 for diatomic molecules; thus,
+D D 0:009494Vads=.SCPd/:
+
+
+RESULTS AND DISCUSSION
+
+
+Pd/Al2O3
+
+Measurements have been made on Pd0.57/A samples
+reduced at two different temperatures, 393 and 673 K,
+and evacuated at the reduction temperature (see Experimental).
+
+The lowest temperature was chosen so as to assure the
+complete reduction of Pd eventually reoxidized after reduction
+by hypophosphite during the drying at 393 K and,
+at the same time, to avoid Pd sintering not only on the
+Al2O3-supported sample, but also on Pd supported on other
+carriers (for example, active carbon), in order to develop a method having an applicability as wide as possible. The
+completion of Pd reduction at a temperature lower than
+393 K is reported in published papers (25–27), and, as will
+be shown later, no further reduction was observed on our
+samples between 393 and 673 K. On the contrary, there is
+some disagreement among different published data on Pd
+sintering (7, 11, 24, 28–33), particularly on Pd/active carbon
+(28, 30–32). Nevertheless, no sintering processes up to 400K
+have been proven with certainty, except for bulk Pd (7) and
+on very highly dispersed Pd (17). In addition, most authors
+report direct observations of sintering only at higher temperature
+(11, 17, 24, 28, 31–33). In any case, a reduction and
+evacuation temperature of 393 K is much lower than that
+required to cause metal sintering on Pd/Al2O3 (11, 33). 
+
+The highest temperature was chosen to allow the removal
+by evacuation of almost all the hydrogen present on Pd at
+the end of reduction. In fact, according to the literature,
+the amount of residual hydrogen depends on the evacuation
+temperature, as can easily be seen by a number of publishedTPDmeasurements
+(1, 4, 23, 29): a high-temperature
+evacuation is required to clean Pd surface from adsorbed
+hydrogen (28). According to (6), hydrogen is completely
+removed from Pd surface at 573 K, while in conformity
+with (5), the residual hydrogen on the Pd surface is 11% at
+573 K and less than 3% at 673 K. Thus at 673 K it can be
+considered negligible.
+
+In Fig. 2, isotherms obtained on samples evacuated at
+393 and 673 K by H2 adsorption (Fig. 2a), O2 adsorption
+(Fig. 2b), H2 titration (Fig. 2c), and O2 titration (Fig. 2d)
+are reported. The results obtained by back extrapolation to
+pressureD0 are reported in Table 1.
+
+According to (3), the following equations can be written:
+H2 adsorption: PdsHr C .v ¡ r /H ! PdsHv [4]
+O2 adsorption: PdsHr C .z C 0:5r /O ! PdsOz
+C0:5rH2O [5] H2 titration: PdsOz C .v C 2z/H ! PdsHv C zH2O [6]
+O2 titration: PdsHv C .z C 0:5v/O!PdsOz C 0:5vH2O;
+[7]
+here i. r is the mean number ofHatoms still adsorbed on each
+Pds after the final evacuation, ii. v is themeannumberofHatoms irreversibly adsorbed
+on each Pds under analysis conditions, iii. z is the mean number of O atoms irreversibly adsorbed
+on each Pds under analysis conditions. Notice that the above equations are written assuming that
+v and z are independent of the type of measurement. The
+assumptions will be discussed later.
+
+BydefiningHaas the experimentally determinednumber
+of hydrogen atoms consumed in reaction [4] per Pd atom;
+Oa, Ht, and Ot as the corresponding number of atoms consumed
+in Eqs. [5], [6], and [7], respectively; and D as the
+metal dispersion, the following system can be written:
+Ha D D.v ¡ r / [8]
+Oa D D.z C 0:5r / [9]
+Ht D D.v C 2z/ [10]
+Ot D D.z C 0:5v/: [11]
+The system contains four unknowns (D; r; v; z). Unfortunately,
+as can be easily verified, only two equations are independent
+and D is a multiplying factor of all equations.
+
+As a consequence, direct determination of all parameters
+is not possible. Nevertheless, under particular conditions,
+the system, or more exactly each couple of independent
+equations, allows the determination of important parameters,
+namely z=v, r=v, and D. However, also if the system
+is redundant, the contemporary use of all equations allows
+a cross checking of the reliability of the results and of the
+assumptions made, as shown in the next.
+
+
+Reliability of Measurements
+
+Taking the work of O’Rear et al. (3) as a starting point,
+it is possible to define two parameters RH (named Rt in the
+quoted paper) and RO:
+RH D Ht=.Ha C 2Oa/ [12]
+RO D Ot=.0:5Ha C Oa/: [13]
+On the basis of Eqs. [8] and [11],
+RH D RO D 1: [14]
+Checking the validity of Eq. [14] is a very good way to test
+both the validity of the above assumptions (i.e., v and z
+independent of type of measurement) and the correctness
+of the experimental procedure.
+
+The values calculated from our data at both 673 and 393K
+are within 2% of unity, as shown in Table 2. This shows that
+v and z are really independent of type of measurement in the case of Pd and allows most errors to be excluded from
+measurement, thus confirming that the data obtained are
+suitable for calculations 
+
+Further proof of the reliability of results can be obtained
+by taking into account data on reversible adsorption. These
+values should depend almost solely on adsorbate molecule
+and on measurement conditions. Then all reversible H2 uptakes
+must have the same value, as should the corresponding
+values obtained with O2. As shown in Table 1, the maximum
+difference among H2 reversible adsorption data is
+0.010 cm3g¡1 (4.2% of average value), and that among O2
+based data is 0.003 cm3g¡1 (negligible).
+
+
+Evaluation of z/v
+
+
+As pointed out above, evacuation at 673 K ensures that
+residual hydrogen is negligible; thus assuming rD0 it is possible
+to calculate z=v by a suitable combination of equations
+[8]–[11]. The results on sample evacuated at 673 K
+(Table 3) show that z=v is within3%of unity, which is within
+the experimental error of the method. In the following, concerning
+Pd0.57/A sample we will assume that z=v D1.
+
+The fact that the hydrogen/oxygen stoichiometric ratio is
+close to unity strongly supports the existence of a simple and
+well-defined adsorption stoichiometry for both gases on Pd.
+However, it must be taken into account that the resulting
+relationship z=v D1 is valid only under experimental conditions
+used to perform our measurements. Nothing can be
+inferred for different conditions. For example, as pointed
+out by a few authors (5, 22, 34, 35), irreversible adsorption
+of both H2 and O2 changes with adsorption temperature.
+
+
+Evaluation of r/v
+
+If z=v D1, Eqs. [8]–[11] allow the calculation of residual
+hydrogen fraction r=v. After evacuation at 673 K, different
+combinations of equations, and thus different combinations
+of adsorption methods, give residual hydrogen values between
+0 and 6% (average 2%), which is in good agreement
+with (5).
+
+In the same way, evaluation of data obtained after evacuation
+at 393 K is possible. Also in this case, calculation
+with different equations and data gives nearly the same
+result: residual hydrogenD83–87% (average 85%). This means that evacuation at 393 K leaves most hydrogen on
+Pd surface: thus it is not suitable for direct adsorption measurements.
+If evacuation at low temperature is required to
+avoid Pd sintering or other sample damaging, only titration
+methods can be performed.
+
+
+Calculation of D
+
+
+Calculation of dispersion D by Eqs. [3] and [8]–[11] requires
+the knowledge of at least one stoichiometric factor.
+Here we assume, as already discussed, that Hirr/PdsD1
+(v D1) and we have shown that under our conditions
+Oirr/HirrD1 (z=v D1), and thus alsoOirr/PdsD1 (zD1). The
+fact that the hydrogen/oxygen stoichiometric ratio is close
+to unity strongly supports the existence of a simple and welldefined
+adsorption stoichiometry for both gases on Pd. If
+calculation of D is made by direct adsorption data also r
+must be known. In our evaluation we used the two average
+obtained values: r=v D0.02 (673 K) and r=v D0.85 (393 K).
+The knowledge of all three parameters allows the calculation
+of D from different measurements. On the samples
+pretreated at 393, D varies from 37.3 to 37.9% (average
+37.5%), while on the samples pretreated at 673, D varies
+from 35.4 to 36.7% (average 36.0%).
+
+It can be noticed that, at a given evacuation temperature,
+all measurements give results which are close to one another
+(standard deviation<1%). This means that, at least under
+adopted experimental conditions, all methods are suitable
+for Pd dispersion measurements.
+
+Dispersion seems to be independent of pretreatment (reduction
+and evacuation) temperature. This means that no
+sintering occurs between 393 and 673 K on Pd/Al2O3 or,
+more precisely, a possible sintering at 673 affects metal dispersion
+less than 4% of value measured at 393 K.
+
+constancy
+of reversible H2 uptakes (maximum difference 2%
+of the average value: see Table 1). The O2 reversible adsorption
+is negligible also on this sample. The z=v ratio, i.e.,
+the Oirr/Hirr stoichiometric ratio, is again close to unity: the
+average value is 1.01 (Table 3).
+
+The residual hydrogen (expressed as r=v ratio) is absent
+after evacuation at 673 K, while about 67% of the total
+hydrogen remains adsorbed if the evacuation is made at
+393 K. This value differs from the value of 85% found for
+the Pd0.57/A sample. We have not gone deeper into this
+question; we only notice that the Pd dispersions of the two
+samples are not the same, suggesting the possibility of a
+relationship between capability of Pd to retain adsorbed
+hydrogen and different fractions of exposed faces or different
+ratio of plane, edge, and corner Pd atoms.
+
+The obtained values confirm that all adsorption and desorption
+methods give the same metal dispersion: after evacuation
+at 673 K the average value is 26.0% with standard
+deviation of 0.4, and after evacuation at 393 K the average
+value is 25.0% with standard deviation of 1.2. Moreover,
+no sintering occurs between 393 and 673 K: difference in
+average values obtained at the two temperatures can be
+considered to be within the experimental error.
+
+On the whole, the four tested adsorption and titration
+methods give the same results as those obtained for the
+Pd0.57/A sample, namely a Oirr/Hirr stoichiometric ratio
+close to unity.
+
+
+Pd/SiO2
+
+The data obtained for the Pd1.21/S sample further support
+the results given by the two previously discussed samples.
+
+The results are reliable: the values of RH are close to
+unity and those of RO, though a bit low, are still acceptable
+(Table 2). However, the z=v value is a bit further from unity
+than values obtained for other samples (Table 3: 1.03 instead
+of 1.00 and 1.01). In our opinion the difference is not
+high enough to call into question the previous conclusions.
+
+The adsorbed hydrogen shows the usual behavior as
+regards the evacuation: all the hydrogen is removed at
+673 K, while most of it (58%) remains on the sample after evacuation at 393 K. The Pd1.21/S shows the lower retention
+capacity of hydrogen among the investigated samples,
+though not far from values obtained on Pd1.75/SA sample,
+having a similar metal dispersion.
+
+Also in this sample, Pd dispersion does not change with
+pretreatment temperature: the difference between the average
+values obtained at 673 (minimum 26.9%, maximum
+28.5%, average 27.8%) and 393 K (minimum 26.4%, maximum
+28.4%, average 27.6%) cannot be considered meaningful.
+Finally, the results further confirm that all the adsorption
+and titration methods give the same results of metal
+dispersion.
+
+
+CONCLUSIONS
+
+Let us summarize the results presented in this paper, devoted
+to the direct comparison of the results of four different
+methods:H2 adsorption,O2 adsorption,H2 titration,
+and O2 titration. The contemporary use of these methods
+allows:
+
+i. the determination of relative stoichiometry Hirr/Pds–
+Oirr/Pds (Hirr/OirrD1); since (according to the reviewed literature)
+Hirr/PdsD1, also Oirr/PdsD1;
+
+ii. the determination of hydrogen still present on metal
+surface after evacuation, which requires high temperature
+to be completely removed;
+
+iii. the checking of reliability of the methods (by RH and
+RO);
+
+iv. the comparison of dispersion values, obtained by different
+methods, that result independent of the method, at
+least under our experimental conditions. It is evident that the contemporary use of four different
+methods is limited to the development stage of a new application
+or when controls on used methods are needed.
+Usually one method is enough to measure metal dispersion.
+The choice depends on the problem being studied
+
+It is evident that the contemporary use of four different
+methods is limited to the development stage of a new application
+or when controls on used methods are needed.
+Usually one method is enough to measure metal dispersion.
+The choice depends on the problem being studied.
+
+DirectH2 adsorption has been preferred by most authors
+for almost all metal dispersion measurements because of its
+simplicity, of the better knowledge of adsorbate/metal stoichiometry,
+and of the availability of a number of data suitable
+for comparison in the literature. H2 adsorption is the
+most often used technique also in the case of Pd, notwithstanding
+that measures have been generally performed
+under particular conditions (high temperature and/or low
+pressure) to avoid H2 absorption in bulk Pd (2, 4, 5, 7–9,
+13–16, 19–23). In this paper, as well as in (23), it has been
+shown that the fulfilment of this condition is not strictly
+required and, as a result, the method is easy to perform.
+
+Direct O2 adsorption has been used less frequently,
+mainly because of the uncertainty of oxygen/metal stoichiometry
+(6, 9, 10, 13, 20–22). Our results point out that
+Oirr/Pds is close to unity, at least under used experimental
+conditions, and thus the method can be used as well
+as H2 adsorption. An advantage of O2 compared to H2 is the lower sensitivity of its irreversible uptake to adsorption
+temperature (22). In addition, the reversibleO2 adsorption
+is negligible (see Table 1 and Ref. (22)), at least on oxide
+supports; this makes the method potentially more precise
+than that based on H2 adsorption.
+
+The assessment of oxygen/Pds stoichiometry makes methods
+based on the titration of preadsorbed molecules, not
+often used until now (10, 11, 19–21, 23), suitable for dispersion
+measurement. Differences between H2 titration and
+O2 titration are similar to those discussed with regard to
+correspondent direct adsorption methods.
+
+Titration methods, even if a little more complicated than
+those based on direct adsorption, have a wider applicability
+(1, 4). For example, they must be adopted whenever
+
+i. low evacuation temperature has to be used to preserve
+metal from sintering, and thus adsorbed hydrogen cannot
+be completely removed from metal surface;
+
+ii. low adsorption values are foreseen owing to low metal
+dispersion or content; as regards direct adsorptions, the
+amount of gas consumed in O2 titration is 1.5 times higher,
+and in H2 titration it is 3 times higher. Obviously the choice must always be related to characteristics
+of the sample under study.
+
+The approach discussed in the paper has a wide applicability.
+It is not limited to Pd as metal and to inorganic
+oxides as carrier, as we have found, by investigating other
+supported metal samples such as Pd/C, Pt/Al2O3, Pt/SiO2,
+Pt/C, and so on (36).
+
