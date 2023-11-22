@@ -1,0 +1,13 @@
+# embeddings:
+#     path: sentence-transformers/all-MiniLM-L6-v2
+
+# Embeddings index
+writable: true
+embeddings:
+  hybrid: true
+  content: true
+
+# LLM pipeline
+llm:
+  path: google/flan-t5-large
+  torch_dtype: torch.bfloat16
