@@ -1,0 +1,25 @@
+app:
+  data: '1'
+  query: football
+embeddings:
+  path: sentence-transformers/nli-mpnet-base-v2
+tabular:
+  idcolumn: link
+  textcolumns:
+  - title
+workflow:
+  index:
+    tasks:
+    - batch: false
+      extract:
+      - rss
+      - channel
+      - item
+      method: get
+      params:
+        link: null
+      task: service
+      url: https://sports.yahoo.com/rss/
+    - action: tabular
+    - action: index
+writable: true
