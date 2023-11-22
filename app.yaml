@@ -1,0 +1,3 @@
+# app.yml
+embeddings:
+    path: sentence-transformers/all-MiniLM-L6-v2
