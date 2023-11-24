@@ -1,0 +1,28 @@
+Traceback (most recent call last):
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/bin/uvicorn", line 8, in <module>
+    sys.exit(main())
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/click/core.py", line 1157, in __call__
+    return self.main(*args, **kwargs)
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/click/core.py", line 1078, in main
+    rv = self.invoke(ctx)
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/click/core.py", line 1434, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/click/core.py", line 783, in invoke
+    return __callback(*args, **kwargs)
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/main.py", line 416, in main
+    run(
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/main.py", line 587, in run
+    server.run()
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/server.py", line 61, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/Users/Ian/opt/anaconda3/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/Users/Ian/opt/anaconda3/lib/python3.9/asyncio/base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/server.py", line 68, in serve
+    config.load()
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/config.py", line 430, in load
+    self.ssl: Optional[ssl.SSLContext] = create_ssl_context(
+  File "/Users/Ian/Documents/Predictive-Analytics/PA-Search-Engine/.venv/lib/python3.9/site-packages/uvicorn/config.py", line 121, in create_ssl_context
+    ctx.load_cert_chain(certfile, keyfile, get_password)
+FileNotFoundError: [Errno 2] No such file or directory
